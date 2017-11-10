@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>Interface Technology Basics: Data Fields - Functions</title>
+<title>Interface Technology Basics: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,10 +71,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li class="current"><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li class="current"><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
   <div id="navrow3" class="tabs2">
@@ -104,12 +111,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('functions_func.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -124,9 +145,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <h3><a class="anchor" id="index_a"></a>- a -</h3><ul>
 <li>addDependent()
 : <a class="el" href="classSteinberg_1_1IUpdateHandler.html#a7ab1193e35e93559ccb0ebc3dd1925eb">IUpdateHandler</a>
-</li>
-<li>addIdleHandler()
-: <a class="el" href="classSteinberg_1_1IPlugFrameIdle.html#a7aed6bb4d156ca331c4188ff3a819278">IPlugFrameIdle</a>
 </li>
 <li>addRef()
 : <a class="el" href="classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">FUnknown</a>
@@ -208,14 +226,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>fromString()
 : <a class="el" href="classSteinberg_1_1FUID.html#a1e809eb52c1b13101a137f4f722d93ab">FUID</a>
 </li>
+<li>fromTUID()
+: <a class="el" href="classSteinberg_1_1FUID.html#a23ebc24784d7e1065dd4685c348921d6">FUID</a>
+</li>
 <li>FUID()
-: <a class="el" href="classSteinberg_1_1FUID.html#a0404d1a9d834c21a3c91a2d9b8c1a361">FUID</a>
+: <a class="el" href="classSteinberg_1_1FUID.html#aef4d827e945c171d056b9ed79a8964f8">FUID</a>
 </li>
 <li>FUnknownPtr()
-: <a class="el" href="classSteinberg_1_1FUnknownPtr.html#a24254b5cf187cab371540748f64d190d">FUnknownPtr&lt; I &gt;</a>
+: <a class="el" href="classSteinberg_1_1FUnknownPtr.html#ab0a0024a95295f9771675b21f78dc97f">FUnknownPtr&lt; I &gt;</a>
 </li>
 <li>FVariant()
-: <a class="el" href="classSteinberg_1_1FVariant.html#aeba1661809a9fd72b790f577aea27c9c">FVariant</a>
+: <a class="el" href="classSteinberg_1_1FVariant.html#a02221250eb24a108ec57297d5df2d9de">FVariant</a>
 </li>
 </ul>
 
@@ -225,7 +246,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1FUID.html#aa854636edbaec64049039c593403bc70">FUID</a>
 </li>
 <li>get()
-: <a class="el" href="classSteinberg_1_1IAttributes.html#a0acec6253406938017badc88407f7286">IAttributes</a>
+: <a class="el" href="classSteinberg_1_1FVariant.html#a1541aac2858109c409fcf5eb4ba7799e">FVariant</a>
+, <a class="el" href="classSteinberg_1_1IAttributes.html#a0acec6253406938017badc88407f7286">IAttributes</a>
 , <a class="el" href="classSteinberg_1_1IPtr.html#a833176d8a4233f0989e7b24a44be4cfd">IPtr&lt; T &gt;</a>
 </li>
 <li>getAttributeID()
@@ -368,6 +390,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 
 <h3><a class="anchor" id="index_o"></a>- o -</h3><ul>
+<li>onFDIsSet()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IEventHandler.html#ac953714233e0c3af5f14e7ab8dfc68f5">IEventHandler</a>
+</li>
 <li>onFocus()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#abc80a2e0d25e151cbc2fabd1bd200683">IPlugView</a>
 </li>
@@ -377,23 +402,20 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>onKeyUp()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#ae726f4b3471ee2485a0bbb651cd35ff2">IPlugView</a>
 </li>
-<li>onPlugViewIdle()
-: <a class="el" href="classSteinberg_1_1IPlugViewIdleHandler.html#a530080610ae79a49ff2375492f5800c3">IPlugViewIdleHandler</a>
-</li>
 <li>onSize()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#a3e741e55c2c047a4cc10f102661f5654">IPlugView</a>
+</li>
+<li>onTimer()
+: <a class="el" href="classSteinberg_1_1Linux_1_1ITimerHandler.html#a90a0d24275b47109b29b50f80d95c8d5">ITimerHandler</a>
 </li>
 <li>onWheel()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#a576b66ba9806bcecc3256110f5dd246a">IPlugView</a>
 </li>
-<li>operator char *()
-: <a class="el" href="classSteinberg_1_1FUID.html#a2c2bebb89803c6d54e0fe24f41f24924">FUID</a>
-</li>
 <li>operator const char16 *()
 : <a class="el" href="classSteinberg_1_1UString.html#a2c894a11fdd68a9206cddfc94c3c8e02">UString</a>
 </li>
-<li>operator FIDString()
-: <a class="el" href="classSteinberg_1_1FUID.html#a06aa0c14df484ac130038af8c6444369">FUID</a>
+<li>operator const TUID &amp;()
+: <a class="el" href="classSteinberg_1_1FUID.html#a5a71b4b07494abc98444fcf80abf27fb">FUID</a>
 </li>
 <li>operator I *()
 : <a class="el" href="classSteinberg_1_1IPtr.html#a4941340f5c6521d726566bf0de9dfa75">IPtr&lt; T &gt;</a>
@@ -405,20 +427,20 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1IPtr.html#a93399dd839b3516b6474de96a0f8ba70">IPtr&lt; T &gt;</a>
 </li>
 <li>operator&lt;()
-: <a class="el" href="classSteinberg_1_1FUID.html#a5411ae49350e1630462d44da173c4bce">FUID</a>
+: <a class="el" href="classSteinberg_1_1FUID.html#aa6aec818004cd35db7a78987976d1fad">FUID</a>
 </li>
 <li>operator=()
 : <a class="el" href="classSteinberg_1_1FUID.html#ac8fc81bf202c6eb2f5832bc9605bf0bc">FUID</a>
-, <a class="el" href="classSteinberg_1_1FUnknownPtr.html#a932dfba34e2a9ea0e1c809b8ea218a38">FUnknownPtr&lt; I &gt;</a>
+, <a class="el" href="classSteinberg_1_1FUnknownPtr.html#ac580abcf2012c88ed8c1023ce525610e">FUnknownPtr&lt; I &gt;</a>
 , <a class="el" href="classSteinberg_1_1FVariant.html#a702dcc8229c6a13ad5f342326905921d">FVariant</a>
 , <a class="el" href="classSteinberg_1_1IPtr.html#a4b2a58247abf169f08870dc83ac941ab">IPtr&lt; T &gt;</a>
 , <a class="el" href="classSteinberg_1_1OPtr.html#a37a50240500e6c0d77e174c050286ca9">OPtr&lt; I &gt;</a>
 </li>
 <li>operator==()
-: <a class="el" href="classSteinberg_1_1FUID.html#a3b49350ae7a7acc3bef334fecbc0e084">FUID</a>
+: <a class="el" href="classSteinberg_1_1FUID.html#ad222698c02d66bed34ceee73510ccc47">FUID</a>
 </li>
 <li>OPtr()
-: <a class="el" href="classSteinberg_1_1OPtr.html#ae01694cf824294c53feba1db959e1a08">OPtr&lt; I &gt;</a>
+: <a class="el" href="classSteinberg_1_1OPtr.html#abc9725169c37ed88141040a66bd0bac8">OPtr&lt; I &gt;</a>
 </li>
 </ul>
 
@@ -462,6 +484,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>read()
 : <a class="el" href="classSteinberg_1_1IBStream.html#a7a38fc8e2365ba85e55e4094cc69cc17">IBStream</a>
 </li>
+<li>registerEventHandler()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IRunLoop.html#ae13eeed00dc375e958a4375fc29a6355">IRunLoop</a>
+</li>
+<li>registerTimer()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IRunLoop.html#aa9a7ecb89251432205aea8bc15e12c9a">IRunLoop</a>
+</li>
 <li>release()
 : <a class="el" href="classSteinberg_1_1FUnknown.html#a58847c78bf6142f01ce214c2802cb146">FUnknown</a>
 </li>
@@ -470,9 +498,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>removeDependent()
 : <a class="el" href="classSteinberg_1_1IUpdateHandler.html#a0a393e93442f393b55deb0e183bfc66a">IUpdateHandler</a>
-</li>
-<li>removeIdleHandler()
-: <a class="el" href="classSteinberg_1_1IPlugFrameIdle.html#a76560af0c2d7ca9171cd6fabb98fa34c">IPlugFrameIdle</a>
 </li>
 <li>resetAllQueues()
 : <a class="el" href="classSteinberg_1_1IAttributes.html#a2eb44c7c95112fe29e5ce46f097fd22b">IAttributes</a>
@@ -500,10 +525,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1IBStream.html#a277b486ac641ac6c39909ef86155e5dc">IBStream</a>
 </li>
 <li>set()
-: <a class="el" href="classSteinberg_1_1IAttributes.html#a1ed9fd6a18bc87466a1b51476c7408e8">IAttributes</a>
+: <a class="el" href="classSteinberg_1_1FVariant.html#a7e5969c80b5949df833d82622082b43b">FVariant</a>
+, <a class="el" href="classSteinberg_1_1IAttributes.html#a1ed9fd6a18bc87466a1b51476c7408e8">IAttributes</a>
 </li>
 <li>setBinaryData()
 : <a class="el" href="classSteinberg_1_1IAttributes.html#a840cf9568441164595e1468258f4fa3f">IAttributes</a>
+</li>
+<li>setContentScaleFactor()
+: <a class="el" href="classSteinberg_1_1IPlugViewContentScaleSupport.html#af5b0fea85beba3cdcfeb8de66779f478">IPlugViewContentScaleSupport</a>
 </li>
 <li>setFloat()
 : <a class="el" href="classSteinberg_1_1FVariant.html#a465a9c6375b7b91e6a004bf4d13f6706">FVariant</a>
@@ -579,6 +608,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>unqueue()
 : <a class="el" href="classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568">IAttributes</a>
 </li>
+<li>unregisterEventHandler()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e">IRunLoop</a>
+</li>
+<li>unregisterTimer()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618">IRunLoop</a>
+</li>
 <li>update()
 : <a class="el" href="classSteinberg_1_1IDependent.html#a3d86c384d513182fbded4f128fc716be">IDependent</a>
 </li>
@@ -586,7 +621,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3">UString</a>
 </li>
 <li>UStringBuffer()
-: <a class="el" href="classSteinberg_1_1UStringBuffer.html#ad2c1eac721335328075dcbfb452dde55">UStringBuffer&lt; maxSize &gt;</a>
+: <a class="el" href="classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf">UStringBuffer&lt; maxSize &gt;</a>
 </li>
 </ul>
 
@@ -623,6 +658,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

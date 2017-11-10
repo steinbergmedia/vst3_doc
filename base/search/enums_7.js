@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['virtualkeycodes',['VirtualKeyCodes',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22b',1,'Steinberg']]]
+  ['uidprintstyle',['UIDPrintStyle',['../classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83',1,'Steinberg::FUID']]]
 ];

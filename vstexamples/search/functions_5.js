@@ -2,10 +2,11 @@ var searchData=
 [
   ['editcontroller',['EditController',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#ab79fa22ff4d37cecd630af788e524a85',1,'Steinberg::Vst::EditController']]],
   ['editcontrollerex1',['EditControllerEx1',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a811774900d44bda403000f2b423bcbe5',1,'Steinberg::Vst::EditControllerEx1']]],
-  ['editorattached',['editorAttached',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a6b866568fd49fdf6f8b310fd468389ee',1,'Steinberg::Vst::EditController']]],
-  ['editordestroyed',['editorDestroyed',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a0d848355600e651408719e8a288426ef',1,'Steinberg::Vst::EditController']]],
-  ['editorremoved',['editorRemoved',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3',1,'Steinberg::Vst::EditController']]],
-  ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a65ba1b8088caf518991aa80bd06f8614',1,'Steinberg::Vst::EditorView']]],
+  ['editorattached',['editorAttached',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a6b866568fd49fdf6f8b310fd468389ee',1,'Steinberg::Vst::EditController::editorAttached()'],['../classSteinberg_1_1Vst_1_1HostCheckerController.html#ac055deeb5f5ddca6e9e030e06a2fac7c',1,'Steinberg::Vst::HostCheckerController::editorAttached()']]],
+  ['editordestroyed',['editorDestroyed',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a0d848355600e651408719e8a288426ef',1,'Steinberg::Vst::EditController::editorDestroyed()'],['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a3ca86a9534ad2bb3adb4f5e4d71d68a5',1,'Steinberg::Vst::HostCheckerController::editorDestroyed()']]],
+  ['editorremoved',['editorRemoved',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3',1,'Steinberg::Vst::EditController::editorRemoved()'],['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a893fe346bfbb357724bb3e4154ff80af',1,'Steinberg::Vst::HostCheckerController::editorRemoved()']]],
+  ['editorsizecontroller',['EditorSizeController',['../classSteinberg_1_1Vst_1_1EditorSizeController.html#adaacfce4d25deb06a5971e726b913f53',1,'Steinberg::Vst::EditorSizeController']]],
+  ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf',1,'Steinberg::Vst::EditorView']]],
   ['email',['email',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo']]],
   ['empty',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant::empty()'],['../classEventLogger.html#ac6e61de369e994009e36f344f99c15ad',1,'EventLogger::empty()']]],
   ['endcell',['endCell',['../../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9fee3c40ec32cf0408b2e4480da153f4',1,'Steinberg::Vst::XmlRepresentationHelper']]],
@@ -22,5 +23,6 @@ var searchData=
   ['eventlistcheck',['EventListCheck',['../classEventListCheck.html#a3d7bfce99c1285fe9a6ce8525770bc59',1,'EventListCheck']]],
   ['eventlogdatabrowsersource',['EventLogDataBrowserSource',['../classVSTGUI_1_1EventLogDataBrowserSource.html#a89196a2307985705f23f0712b18f1de3',1,'VSTGUI::EventLogDataBrowserSource']]],
   ['eventlogger',['EventLogger',['../classEventLogger.html#a33bf17cb7fad3410ab30e1bfe5267d4c',1,'EventLogger']]],
-  ['executemenuitem',['executeMenuItem',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]]
+  ['executemenuitem',['executeMenuItem',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]],
+  ['extractcurrentinfo',['extractCurrentInfo',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#aedf0d687c00670ca351bd00b0b83f440',1,'Steinberg::Vst::HostCheckerController']]]
 ];

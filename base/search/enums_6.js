@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['uidprintstyle',['UIDPrintStyle',['../classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83',1,'Steinberg::FUID']]]
+  ['standardcolor',['StandardColor',['../namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cd',1,'Steinberg']]]
 ];

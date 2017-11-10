@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -41,7 +48,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -63,18 +70,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classSteinberg_1_1Vst_1_1VoiceProcessor.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -83,15 +105,11 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="namespaceSteinberg_1_1Vst.html">Vst</a></li><li class="navelem"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html">VoiceProcessor</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a>  </div>
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="classSteinberg_1_1Vst_1_1VoiceProcessor-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">VoiceProcessor Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div>  </div>
 </div><!--header-->
@@ -117,9 +135,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:adc8cb490ac3b4777e484c7d68c9fab73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0f1925c785d52e33d430e24a55cc7e4"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa0f1925c785d52e33d430e24a55cc7e4">~VoiceProcessor</a> ()</td></tr>
 <tr class="separator:aa0f1925c785d52e33d430e24a55cc7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b98eb31cf38ba96a28b303c13c64e13"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13">process</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a> &amp;data)=0</td></tr>
+<tr class="memitem:a6b98eb31cf38ba96a28b303c13c64e13"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13">process</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a> &amp;data)=0</td></tr>
 <tr class="separator:a6b98eb31cf38ba96a28b303c13c64e13"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8fc8b8089eb6ee759dcfce7c2efcd39"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa8fc8b8089eb6ee759dcfce7c2efcd39">getActiveVoices</a> () const </td></tr>
+<tr class="memitem:aa8fc8b8089eb6ee759dcfce7c2efcd39"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa8fc8b8089eb6ee759dcfce7c2efcd39">getActiveVoices</a> () const </td></tr>
 <tr class="memdesc:aa8fc8b8089eb6ee759dcfce7c2efcd39"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the number of active voices.  <a href="#aa8fc8b8089eb6ee759dcfce7c2efcd39">More...</a><br /></td></tr>
 <tr class="separator:aa8fc8b8089eb6ee759dcfce7c2efcd39"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a507479b90e66719ae962ad5b81e76e0d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a507479b90e66719ae962ad5b81e76e0d">clearOutputNeeded</a> (bool val)</td></tr>
@@ -127,7 +145,7 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:aa86ea8cc7dd3cf5f2033f261daec4165"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165">activeVoices</a></td></tr>
+<tr class="memitem:aa86ea8cc7dd3cf5f2033f261daec4165"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165">activeVoices</a></td></tr>
 <tr class="separator:aa86ea8cc7dd3cf5f2033f261daec4165"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2c940dd02450b042f786670ea167a9c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a2c940dd02450b042f786670ea167a9c6">mClearOutputNeeded</a></td></tr>
 <tr class="separator:a2c940dd02450b042f786670ea167a9c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,33 +157,33 @@ Protected Attributes</h2></td></tr>
 <p>Example: </p><div class="fragment"><div class="line"><span class="keyword">class </span>MySynthProcessor : <span class="keyword">public</span> AudioEffect</div>
 <div class="line">{</div>
 <div class="line"><span class="keyword">public</span>:</div>
-<div class="line">    <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API setActive (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a> state);</div>
-<div class="line">    <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API <a class="code" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13">process</a> (ProcessData&amp; data);</div>
+<div class="line">    <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API setActive (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a> state);</div>
+<div class="line">    <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API <a class="code" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13">process</a> (ProcessData&amp; data);</div>
 <div class="line"></div>
 <div class="line"><span class="keyword">protected</span>:</div>
 <div class="line">    <a class="code" href="classSteinberg_1_1Vst_1_1VoiceProcessor.html#adc8cb490ac3b4777e484c7d68c9fab73">VoiceProcessor</a>* voiceProcessor;</div>
 <div class="line">};</div>
 <div class="line"></div>
-<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API MySynthProcessor::setActive (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a> state)</div>
+<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API MySynthProcessor::setActive (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a> state)</div>
 <div class="line">{</div>
 <div class="line">    <span class="keywordflow">if</span> (state)</div>
 <div class="line">    {</div>
-<div class="line">        <span class="keywordflow">if</span> (processSetup.symbolicSampleSize == <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a199093967f5a183f86bf92bd7e61e31f">kSample32</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (processSetup.symbolicSampleSize == <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a199093967f5a183f86bf92bd7e61e31f">kSample32</a>)</div>
 <div class="line">            voiceProcessor = <span class="keyword">new</span> VoiceProcessorImplementation&lt;float, Voice&lt;float&gt;, 2, <a class="code" href="note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5">MAX_VOICES</a>, <span class="keywordtype">void</span>&gt; (processSetup.sampleRate, 0);</div>
-<div class="line">        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (processSetup.symbolicSampleSize == <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900">kSample64</a>)</div>
+<div class="line">        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (processSetup.symbolicSampleSize == <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900">kSample64</a>)</div>
 <div class="line">            voiceProcessor = <span class="keyword">new</span> VoiceProcessorImplementation&lt;double, Voice&lt;double&gt;, 2, <a class="code" href="note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5">MAX_VOICES</a>, <span class="keywordtype">void</span>&gt; (processSetup.sampleRate, 0);</div>
 <div class="line">        <span class="keywordflow">else</span></div>
-<div class="line">            <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55bace91375677eb541c1a70e7ecd95f5698">kInvalidArgument</a>;</div>
+<div class="line">            <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55bace91375677eb541c1a70e7ecd95f5698">kInvalidArgument</a>;</div>
 <div class="line">    }</div>
 <div class="line">    <span class="keywordflow">else</span></div>
 <div class="line">    {</div>
 <div class="line">        <span class="keyword">delete</span> voiceProcessor;</div>
 <div class="line">        voiceProcessor = 0;</div>
 <div class="line">    }</div>
-<div class="line">    <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
+<div class="line">    <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
 <div class="line">}</div>
 <div class="line"></div>
-<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API MySynthProcessor::process (ProcessData&amp; data)</div>
+<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API MySynthProcessor::process (ProcessData&amp; data)</div>
 <div class="line">{</div>
 <div class="line">    <span class="keywordflow">return</span> voiceProcessor-&gt;process (data);</div>
 <div class="line">}</div>
@@ -226,9 +244,9 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> process </td>
+          <td class="memname">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> process </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a> &amp;&#160;</td>
           <td class="paramname"><em>data</em></td><td>)</td>
           <td></td>
         </tr>
@@ -252,7 +270,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> getActiveVoices </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> getActiveVoices </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -293,7 +311,7 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="aa86ea8cc7dd3cf5f2033f261daec4165"></a>
 <div class="memitem">
 <div class="memproto">
@@ -302,7 +320,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> activeVoices</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> activeVoices</td>
         </tr>
       </table>
   </td>
@@ -335,6 +353,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

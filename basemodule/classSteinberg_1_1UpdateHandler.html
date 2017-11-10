@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Base Module
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -39,9 +46,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -63,18 +69,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classSteinberg_1_1UpdateHandler.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -83,15 +104,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Data Fields</a>  </div>
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="classSteinberg_1_1UpdateHandler-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">UpdateHandler Class Reference</div>  </div>
 </div><!--header-->
@@ -135,6 +153,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a39f0d0d707770a5193c6f1d77b52d43c"><td class="memItemLeft" align="right" valign="top">virtual tresult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a39f0d0d707770a5193c6f1d77b52d43c">triggerDeferedUpdates</a> (FUnknown *object=0) SMTG_OVERRIDE</td></tr>
 <tr class="memdesc:a39f0d0d707770a5193c6f1d77b52d43c"><td class="mdescLeft">&#160;</td><td class="mdescRight">send pending messages send by  <a href="#a39f0d0d707770a5193c6f1d77b52d43c">More...</a><br /></td></tr>
 <tr class="separator:a39f0d0d707770a5193c6f1d77b52d43c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a27a7354589298ebf7327c7060a14bc"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a0a27a7354589298ebf7327c7060a14bc">countDependencies</a> (FUnknown *object=0)</td></tr>
+<tr class="separator:a0a27a7354589298ebf7327c7060a14bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada5cb0d0c48f04511582d6ac20eb4eb2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#ada5cb0d0c48f04511582d6ac20eb4eb2">OBJ_METHODS</a> (<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>, <a class="el" href="classSteinberg_1_1FObject.html">FObject</a>) <a class="el" href="fobject_8h.html#ad07f904465df9375353c5ca367a5dfb2">FUNKNOWN_METHODS2</a>(IUpdateHandler</td></tr>
 <tr class="separator:ada5cb0d0c48f04511582d6ac20eb4eb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classSteinberg_1_1FObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classSteinberg_1_1FObject')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classSteinberg_1_1FObject.html">FObject</a></td></tr>
@@ -192,18 +212,31 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0be193466912191a8ebbd75354edd935 inherit pub_methods_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#a0be193466912191a8ebbd75354edd935">updateDone</a> (int32)</td></tr>
 <tr class="memdesc:a0be193466912191a8ebbd75354edd935 inherit pub_methods_classSteinberg_1_1FObject"><td class="mdescLeft">&#160;</td><td class="mdescRight">empty virtual method that should be overridden by derived classes  <a href="#a0be193466912191a8ebbd75354edd935">More...</a><br /></td></tr>
 <tr class="separator:a0be193466912191a8ebbd75354edd935 inherit pub_methods_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa719bd1d2cd364ea5f3eea2d465f958a inherit pub_methods_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#aa719bd1d2cd364ea5f3eea2d465f958a">isEqualInstance</a> (IDependent *d)</td></tr>
-<tr class="separator:aa719bd1d2cd364ea5f3eea2d465f958a inherit pub_methods_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a7c5326199ffb542719387b078ed6da inherit pub_methods_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#a5a7c5326199ffb542719387b078ed6da">isEqualInstance</a> (FUnknown *d)</td></tr>
+<tr class="separator:a5a7c5326199ffb542719387b078ed6da inherit pub_methods_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
-Data Fields</h2></td></tr>
+Public Attributes</h2></td></tr>
 <tr class="memitem:aa1cef82bd3c810132b0b17f553465564"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#aa1cef82bd3c810132b0b17f553465564">IUpdateManager</a></td></tr>
 <tr class="separator:aa1cef82bd3c810132b0b17f553465564"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3b3acb56a5664131244aafb10fa82df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FObject.html">FObject</a> <a class="el" href="fobject_8h.html#a69f2b09f8941011cb853819558eff4a7">SINGLETON</a>(<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>) <br class="typebreak" />
-private <a class="el" href="classSteinberg_1_1FLock.html">FLock</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#ac3b3acb56a5664131244aafb10fa82df">lock</a></td></tr>
-<tr class="separator:ac3b3acb56a5664131244aafb10fa82df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10f007ffba0c693f361ca6251345a84f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FObject.html">FObject</a> <a class="el" href="fobject_8h.html#a69f2b09f8941011cb853819558eff4a7">SINGLETON</a>(<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>) <br class="typebreak" />
+private <br class="typebreak" />
+Steinberg::Base::Thread::FLock&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a10f007ffba0c693f361ca6251345a84f">lock</a></td></tr>
+<tr class="separator:a10f007ffba0c693f361ca6251345a84f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a11ab8afebbe1338f626a6d1be0137c4a"><td class="memItemLeft" align="right" valign="top">Update::Table *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a11ab8afebbe1338f626a6d1be0137c4a">table</a></td></tr>
 <tr class="separator:a11ab8afebbe1338f626a6d1be0137c4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:aeec50d307a3a7218b3c05edb14d0a875"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#aeec50d307a3a7218b3c05edb14d0a875">lockUpdates</a></td></tr>
+<tr class="separator:aeec50d307a3a7218b3c05edb14d0a875"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_attribs_classSteinberg_1_1FObject"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_classSteinberg_1_1FObject')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="classSteinberg_1_1FObject.html">FObject</a></td></tr>
+<tr class="memitem:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">static const FUID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#ae78a44399218c930be44d3aa46521d0e">iid</a></td></tr>
+<tr class="memdesc:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="mdescLeft">&#160;</td><td class="mdescRight">Special UID that is used to cast an FUnknown pointer to a <a class="el" href="classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent. ">FObject</a>.  <a href="#ae78a44399218c930be44d3aa46521d0e">More...</a><br /></td></tr>
+<tr class="separator:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_attribs_classSteinberg_1_1IUpdateManager"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_classSteinberg_1_1IUpdateManager')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="classSteinberg_1_1IUpdateManager.html">IUpdateManager</a></td></tr>
+<tr class="memitem:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1IUpdateManager"><td class="memItemLeft" align="right" valign="top">static const FUID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1IUpdateManager.html#ae78a44399218c930be44d3aa46521d0e">iid</a></td></tr>
+<tr class="separator:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1IUpdateManager"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -223,13 +256,6 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:a0a25d706b3e3dabc9e4c0d026f925d73 inherit pub_static_methods_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classSteinberg_1_1FObject.html">FObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#a0a25d706b3e3dabc9e4c0d026f925d73">unknownToObject</a> (FUnknown *unknown)</td></tr>
 <tr class="memdesc:a0a25d706b3e3dabc9e4c0d026f925d73 inherit pub_static_methods_classSteinberg_1_1FObject"><td class="mdescLeft">&#160;</td><td class="mdescRight">pointer conversion from FUnknown to <a class="el" href="classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent. ">FObject</a>  <a href="#a0a25d706b3e3dabc9e4c0d026f925d73">More...</a><br /></td></tr>
 <tr class="separator:a0a25d706b3e3dabc9e4c0d026f925d73 inherit pub_static_methods_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_attribs_classSteinberg_1_1FObject"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_classSteinberg_1_1FObject')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="classSteinberg_1_1FObject.html">FObject</a></td></tr>
-<tr class="memitem:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">static const FUID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#ae78a44399218c930be44d3aa46521d0e">iid</a></td></tr>
-<tr class="memdesc:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="mdescLeft">&#160;</td><td class="mdescRight">Special UID that is used to cast an FUnknown pointer to a <a class="el" href="classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent. ">FObject</a>.  <a href="#ae78a44399218c930be44d3aa46521d0e">More...</a><br /></td></tr>
-<tr class="separator:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1FObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_attribs_classSteinberg_1_1IUpdateManager"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_classSteinberg_1_1IUpdateManager')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="classSteinberg_1_1IUpdateManager.html">IUpdateManager</a></td></tr>
-<tr class="memitem:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1IUpdateManager"><td class="memItemLeft" align="right" valign="top">static const FUID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1IUpdateManager.html#ae78a44399218c930be44d3aa46521d0e">iid</a></td></tr>
-<tr class="separator:ae78a44399218c930be44d3aa46521d0e inherit pub_static_attribs_classSteinberg_1_1IUpdateManager"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classSteinberg_1_1FObject"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classSteinberg_1_1FObject')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classSteinberg_1_1FObject.html">FObject</a></td></tr>
 <tr class="memitem:abc6aaa0595fa788544c4b18e9bf93850 inherit pro_attribs_classSteinberg_1_1FObject"><td class="memItemLeft" align="right" valign="top">int32&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FObject.html#abc6aaa0595fa788544c4b18e9bf93850">refCount</a></td></tr>
 <tr class="memdesc:abc6aaa0595fa788544c4b18e9bf93850 inherit pro_attribs_classSteinberg_1_1FObject"><td class="mdescLeft">&#160;</td><td class="mdescRight">COM-model local reference count.  <a href="#abc6aaa0595fa788544c4b18e9bf93850">More...</a><br /></td></tr>
@@ -513,6 +539,22 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a0a27a7354589298ebf7327c7060a14bc"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t countDependencies </td>
+          <td>(</td>
+          <td class="paramtype">FUnknown *&#160;</td>
+          <td class="paramname"><em>object</em> = <code>0</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ada5cb0d0c48f04511582d6ac20eb4eb2"></a>
 <div class="memitem">
 <div class="memproto">
@@ -539,7 +581,7 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="aa1cef82bd3c810132b0b17f553465564"></a>
 <div class="memitem">
 <div class="memproto">
@@ -552,12 +594,12 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ac3b3acb56a5664131244aafb10fa82df"></a>
+<a class="anchor" id="a10f007ffba0c693f361ca6251345a84f"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classSteinberg_1_1FObject.html">FObject</a> <a class="el" href="fobject_8h.html#a69f2b09f8941011cb853819558eff4a7">SINGLETON</a> (<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>) private <a class="el" href="classSteinberg_1_1FLock.html">FLock</a> lock</td>
+          <td class="memname"><a class="el" href="classSteinberg_1_1FObject.html">FObject</a> <a class="el" href="fobject_8h.html#a69f2b09f8941011cb853819558eff4a7">SINGLETON</a> (<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>) private Steinberg::Base::Thread::FLock lock</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -576,7 +618,28 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="aeec50d307a3a7218b3c05edb14d0a875"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lockUpdates</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

@@ -2,37 +2,47 @@
 <tagfile>
   <compound kind="file">
     <name>conststringtable.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>conststringtable_8cpp</filename>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" imported="no">conststringtable.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>conststringtable.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>conststringtable_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <class kind="class">Steinberg::ConstStringTable</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
+    <name>coreiids.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <filename>coreiids_8cpp</filename>
+    <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
+    <includes id="iupdatehandler_8h" name="iupdatehandler.h" local="yes" imported="no">pluginterfaces/base/iupdatehandler.h</includes>
+    <includes id="icloneable_8h" name="icloneable.h" local="yes" imported="no">pluginterfaces/base/icloneable.h</includes>
+    <includes id="ibstream_8h" name="ibstream.h" local="yes" imported="no">pluginterfaces/base/ibstream.h</includes>
+    <namespace>Steinberg</namespace>
+  </compound>
+  <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
     <name>falignpop.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>falignpop_8h</filename>
   </compound>
   <compound kind="file">
     <name>falignpush.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>falignpush_8h</filename>
   </compound>
   <compound kind="file">
     <name>fplatform.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fplatform_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -58,7 +68,7 @@
   </compound>
   <compound kind="file">
     <name>fstrdefs.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fstrdefs_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" imported="no">conststringtable.h</includes>
@@ -100,6 +110,34 @@
     </member>
     <member kind="define">
       <type>#define</type>
+      <name>FORMAT_INT64A</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>adebf25a9067f8beae00b856b97e59493</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>FORMAT_UINT64A</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>acaa60848d1abc5e2ecc7bb7495cb167e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stricmp</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>a4e0be90a3757e352f42612d09a7d1aa5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>strnicmp</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>a16a19b1831112e876b010468ec15916f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
       <name>FORMAT_INT64W</name>
       <anchorfile>fstrdefs_8h.html</anchorfile>
       <anchor>a4f093ee514ef89a616a1fcf6bad65471</anchor>
@@ -124,6 +162,20 @@
       <name>FORMAT_UINT64</name>
       <anchorfile>fstrdefs_8h.html</anchorfile>
       <anchor>ad76e8f81482f416ef999fa817c37d1d9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>ENDLINE_A</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>a46520f93e91d264d018120231fdd7afa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>ENDLINE_W</name>
+      <anchorfile>fstrdefs_8h.html</anchorfile>
+      <anchor>a28de1ded2200fa58d2e63f3852ee7da0</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -360,7 +412,7 @@
   </compound>
   <compound kind="file">
     <name>ftypes.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ftypes_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">fplatform.h</includes>
     <namespace>Steinberg</namespace>
@@ -609,10 +661,17 @@
       <anchor>a1c13255fbcd5845d44bd45cc27bd3586</anchor>
       <arglist></arglist>
     </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformString</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>a45a730ec762ad31ab0e5c80e15560afc</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>funknown.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>funknown_8cpp</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">fstrdefs.h</includes>
@@ -628,7 +687,7 @@
   </compound>
   <compound kind="file">
     <name>funknown.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>funknown_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">pluginterfaces/base/fplatform.h</includes>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
@@ -831,7 +890,7 @@
   </compound>
   <compound kind="file">
     <name>futils.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>futils_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -901,9 +960,10 @@
   </compound>
   <compound kind="file">
     <name>fvariant.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fvariant_8h</filename>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">pluginterfaces/base/fstrdefs.h</includes>
+    <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::FVariant</class>
     <namespace>Steinberg</namespace>
     <member kind="function">
@@ -923,7 +983,7 @@
   </compound>
   <compound kind="file">
     <name>geoconstants.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>geoconstants_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::GeoConstants</namespace>
@@ -1056,7 +1116,7 @@
   </compound>
   <compound kind="file">
     <name>ibstream.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ibstream_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <class kind="class">Steinberg::IBStream</class>
@@ -1065,7 +1125,7 @@
   </compound>
   <compound kind="file">
     <name>icloneable.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>icloneable_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <class kind="class">Steinberg::ICloneable</class>
@@ -1073,7 +1133,7 @@
   </compound>
   <compound kind="file">
     <name>ierrorcontext.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ierrorcontext_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IErrorContext</class>
@@ -1081,7 +1141,7 @@
   </compound>
   <compound kind="file">
     <name>ipersistent.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ipersistent_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IPersistent</class>
@@ -1098,7 +1158,7 @@
   </compound>
   <compound kind="file">
     <name>ipluginbase.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ipluginbase_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">fstrdefs.h</includes>
@@ -1135,15 +1195,31 @@
   </compound>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">../base/funknown.h</includes>
     <class kind="struct">Steinberg::ViewRect</class>
     <class kind="class">Steinberg::IPlugView</class>
     <class kind="class">Steinberg::IPlugFrame</class>
-    <class kind="class">Steinberg::IPlugViewIdleHandler</class>
-    <class kind="class">Steinberg::IPlugFrameIdle</class>
+    <class kind="class">Steinberg::Linux::IEventHandler</class>
+    <class kind="class">Steinberg::Linux::ITimerHandler</class>
+    <class kind="class">Steinberg::Linux::IRunLoop</class>
     <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Linux</namespace>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>TimerInterval</name>
+      <anchorfile>namespaceSteinberg_1_1Linux.html</anchorfile>
+      <anchor>ad94d4fecedeef98b5d1709b61cfa0e7c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int</type>
+      <name>FileDescriptor</name>
+      <anchorfile>namespaceSteinberg_1_1Linux.html</anchorfile>
+      <anchor>a9c80aaf6d9c6451b471e97de46595753</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeHWND</name>
@@ -1181,8 +1257,18 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>iplugviewcontentscalesupport.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <filename>iplugviewcontentscalesupport_8h</filename>
+    <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
+    <includes id="falignpush_8h" name="falignpush.h" local="yes" imported="no">pluginterfaces/base/falignpush.h</includes>
+    <includes id="falignpop_8h" name="falignpop.h" local="yes" imported="no">pluginterfaces/base/falignpop.h</includes>
+    <class kind="class">Steinberg::IPlugViewContentScaleSupport</class>
+    <namespace>Steinberg</namespace>
+  </compound>
+  <compound kind="file">
     <name>istringresult.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>istringresult_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IStringResult</class>
@@ -1191,7 +1277,7 @@
   </compound>
   <compound kind="file">
     <name>iupdatehandler.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>iupdatehandler_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IUpdateHandler</class>
@@ -1200,7 +1286,7 @@
   </compound>
   <compound kind="file">
     <name>keycodes.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>keycodes_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <class kind="struct">Steinberg::KeyCode</class>
@@ -1782,14 +1868,14 @@
   </compound>
   <compound kind="file">
     <name>pluginbasefwd.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>pluginbasefwd_8h</filename>
     <class kind="class">Steinberg::IPtr</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>smartpointer.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>smartpointer_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">pluginterfaces/base/fplatform.h</includes>
     <class kind="class">Steinberg::IPtr</class>
@@ -1812,7 +1898,7 @@
   </compound>
   <compound kind="file">
     <name>ucolorspec.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ucolorspec_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -1842,6 +1928,272 @@
       <name>UColorComponent</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
       <anchor>a3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>StandardColor</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda84bb4627f551fc5ff2d9aedb8f3b4947</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kWhite</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda9e1b2d3dcb56c17a372440853228ad01</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray5</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda02a9193b86afaccf9bbf742a323100be</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray10</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda071b3be3908931dc26e8743b00ffde8d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray20</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1e226959be1359aaaa71395aa86f8208</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray30</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5ff656d817dae9754566238d59d39157</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray40</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda8bdc572a21805c3161278f91a3530712</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray50</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda9db2b60f76d6b83e56c35985b4b9205c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray60</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdadab15681c7200799430d2f338d0ed61e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray70</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda0354ed8af3577ebdf208137b26843594</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray80</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1928cdb81e838319f6953a0c49d64c28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray90</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda63b585983725a29a14552acb823a2949</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5a655b1a02e5b0311571ca57ce4f3900</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaa03531f6aa4608be014e3f8a8112f49d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda56b755177db5009ab61067b96229a9be</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda8ea4b941d1d41f4bd88387c38e13e9d3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac772acbace7fe195180ec04b0db54e3d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdad38f804f1c4b123fe442f81576461515</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaab48c32302f7159d81e081c41dc2d3d2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda133f1956c6567e805341ce1753a03d28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda6837b9736b787405dbed0a9d532eaf90</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda951e8c9c29427097fd137e19a3300e03</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda96ec73e5e8ede13098c92ca3b14c7c43</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1c83f6d971da4f2cb0a97fe97d1f34b5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac05df1f876c243e8f60ea03a9f866b80</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdae22e7268faee0570b14aa13c801fa3b9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda4943112719ee8d66b8de5b8f88ccd8ce</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda6ad203278f32dfcc959be28888e52582</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaf35707aff5cbf5d69b5f0aecd302d9b1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5fe89a70ee7bcac01feb5fc1de15985f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGold</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda14ef40d42e6bb88349bc9ad97aed7bdb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack50</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda186d906a7af8fff76bff867913a7969f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack70</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda64b4e2e55e8f2bd3d9759ad520723121</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kNumStandardColors</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda020c41a39f7c676ecb89ee23885070b6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac4512c2e2b20209b3fa8364b8be3483d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1ab75347fd43308dc34268db5a181108</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda78c5cc590de98a677b2dc3076c904128</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -1966,7 +2318,7 @@
   </compound>
   <compound kind="file">
     <name>ustring.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ustring_8cpp</filename>
     <includes id="ustring_8h" name="ustring.h" local="yes" imported="no">ustring.h</includes>
     <namespace>Steinberg</namespace>
@@ -1987,7 +2339,7 @@
   </compound>
   <compound kind="file">
     <name>ustring.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ustring_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <class kind="class">Steinberg::UString</class>
@@ -2071,7 +2423,10 @@
     <class kind="struct">Steinberg::ViewRect</class>
     <class kind="class">Steinberg::IPlugView</class>
     <class kind="class">Steinberg::IPlugFrame</class>
-    <class kind="class">Steinberg::IPlugFrameIdle</class>
+    <class kind="class">Steinberg::Linux::IEventHandler</class>
+    <class kind="class">Steinberg::Linux::ITimerHandler</class>
+    <class kind="class">Steinberg::Linux::IRunLoop</class>
+    <class kind="class">Steinberg::IPlugViewContentScaleSupport</class>
   </compound>
   <compound kind="group">
     <name>platformUIType</name>
@@ -2118,6 +2473,7 @@
     <filename>namespaceSteinberg.html</filename>
     <namespace>Steinberg::FUnknownPrivate</namespace>
     <namespace>Steinberg::GeoConstants</namespace>
+    <namespace>Steinberg::Linux</namespace>
     <class kind="class">Steinberg::ConstStringTable</class>
     <class kind="struct">Steinberg::FReleaser</class>
     <class kind="class">Steinberg::FUID</class>
@@ -2132,13 +2488,12 @@
     <class kind="class">Steinberg::IErrorContext</class>
     <class kind="class">Steinberg::IPersistent</class>
     <class kind="class">Steinberg::IPlugFrame</class>
-    <class kind="class">Steinberg::IPlugFrameIdle</class>
     <class kind="class">Steinberg::IPluginBase</class>
     <class kind="class">Steinberg::IPluginFactory</class>
     <class kind="class">Steinberg::IPluginFactory2</class>
     <class kind="class">Steinberg::IPluginFactory3</class>
     <class kind="class">Steinberg::IPlugView</class>
-    <class kind="class">Steinberg::IPlugViewIdleHandler</class>
+    <class kind="class">Steinberg::IPlugViewContentScaleSupport</class>
     <class kind="class">Steinberg::IPtr</class>
     <class kind="class">Steinberg::ISizeableStream</class>
     <class kind="class">Steinberg::IString</class>
@@ -3091,6 +3446,272 @@
       <anchor>a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c</anchor>
       <arglist></arglist>
     </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>StandardColor</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda84bb4627f551fc5ff2d9aedb8f3b4947</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kWhite</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda9e1b2d3dcb56c17a372440853228ad01</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray5</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda02a9193b86afaccf9bbf742a323100be</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray10</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda071b3be3908931dc26e8743b00ffde8d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray20</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1e226959be1359aaaa71395aa86f8208</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray30</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5ff656d817dae9754566238d59d39157</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray40</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda8bdc572a21805c3161278f91a3530712</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray50</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda9db2b60f76d6b83e56c35985b4b9205c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray60</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdadab15681c7200799430d2f338d0ed61e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray70</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda0354ed8af3577ebdf208137b26843594</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray80</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1928cdb81e838319f6953a0c49d64c28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray90</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda63b585983725a29a14552acb823a2949</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5a655b1a02e5b0311571ca57ce4f3900</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaa03531f6aa4608be014e3f8a8112f49d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkRed</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda56b755177db5009ab61067b96229a9be</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda8ea4b941d1d41f4bd88387c38e13e9d3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac772acbace7fe195180ec04b0db54e3d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkGreen</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdad38f804f1c4b123fe442f81576461515</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaab48c32302f7159d81e081c41dc2d3d2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda133f1956c6567e805341ce1753a03d28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkBlue</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda6837b9736b787405dbed0a9d532eaf90</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda951e8c9c29427097fd137e19a3300e03</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda96ec73e5e8ede13098c92ca3b14c7c43</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkMagenta</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1c83f6d971da4f2cb0a97fe97d1f34b5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac05df1f876c243e8f60ea03a9f866b80</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdae22e7268faee0570b14aa13c801fa3b9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkYellow</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda4943112719ee8d66b8de5b8f88ccd8ce</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda6ad203278f32dfcc959be28888e52582</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdaf35707aff5cbf5d69b5f0aecd302d9b1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkOrange</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda5fe89a70ee7bcac01feb5fc1de15985f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGold</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda14ef40d42e6bb88349bc9ad97aed7bdb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack50</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda186d906a7af8fff76bff867913a7969f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBlack70</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda64b4e2e55e8f2bd3d9759ad520723121</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kNumStandardColors</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda020c41a39f7c676ecb89ee23885070b6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLtGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cdac4512c2e2b20209b3fa8364b8be3483d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda1ab75347fd43308dc34268db5a181108</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kDkGray</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>acbbce6877e30abdb4f8fedfbcc3622cda78c5cc590de98a677b2dc3076c904128</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="function">
       <type>int32</type>
       <name>_tstrlen</name>
@@ -3604,6 +4225,13 @@
     </member>
     <member kind="variable">
       <type>const FIDString</type>
+      <name>kPlatformString</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>a45a730ec762ad31ab0e5c80e15560afc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
       <name>kPlatformTypeHWND</name>
       <anchorfile>group__platformUIType.html</anchorfile>
       <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
@@ -3758,13 +4386,6 @@
       <type></type>
       <name>FUID</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a0a711b0b8889b1bb6631111104a6fff4</anchor>
-      <arglist>(const TUID uid)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>FUID</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
       <anchor>a29217891f71b9c22549ae79a894f480f</anchor>
       <arglist>(uint32 l1, uint32 l2, uint32 l3, uint32 l4)</arglist>
     </member>
@@ -3804,39 +4425,11 @@
       <arglist>(const FUID &amp;f)</arglist>
     </member>
     <member kind="function">
-      <type>FUID &amp;</type>
-      <name>operator=</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a90cf55f0b465c63bddf54b44fffeb512</anchor>
-      <arglist>(FIDString uid)</arglist>
-    </member>
-    <member kind="function">
-      <type>FUID &amp;</type>
-      <name>operator=</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>ad4a05be7db1bacdd20d1f0836dedde07</anchor>
-      <arglist>(TUID uid)</arglist>
-    </member>
-    <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
       <anchor>ad222698c02d66bed34ceee73510ccc47</anchor>
       <arglist>(const FUID &amp;f) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a5efb5a01d695c6c68e5e8ee4bab27423</anchor>
-      <arglist>(FIDString uid) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a3b49350ae7a7acc3bef334fecbc0e084</anchor>
-      <arglist>(TUID uid) const </arglist>
     </member>
     <member kind="function">
       <type>bool</type>
@@ -3847,52 +4440,10 @@
     </member>
     <member kind="function">
       <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a5411ae49350e1630462d44da173c4bce</anchor>
-      <arglist>(FIDString uid) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>aad39e662bce690775bfc2b630dda8304</anchor>
-      <arglist>(TUID uid) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
       <name>operator!=</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
       <anchor>ad091599e39045804d00815f16d671944</anchor>
       <arglist>(const FUID &amp;f) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a4fefe95b50514a83f8256dd7c0fa76e3</anchor>
-      <arglist>(FIDString uid) const </arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a63c7734ebe7af27eefb4d8af26b79dfd</anchor>
-      <arglist>(TUID uid) const </arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>operator FIDString</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a06aa0c14df484ac130038af8c6444369</anchor>
-      <arglist>() const </arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>operator char *</name>
-      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a2c2bebb89803c6d54e0fe24f41f24924</anchor>
-      <arglist>()</arglist>
     </member>
     <member kind="function">
       <type>uint32</type>
@@ -3972,6 +4523,13 @@
       <arglist>(char8 *string=0, int32 style=kINLINE_UID) const </arglist>
     </member>
     <member kind="function">
+      <type></type>
+      <name>FUID</name>
+      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
+      <anchor>a040bfaa7ffe2ffd4074b2fc76923e5cf</anchor>
+      <arglist>(const int8(&amp;uid)[N])</arglist>
+    </member>
+    <member kind="function">
       <type>void</type>
       <name>toTUID</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
@@ -3979,11 +4537,25 @@
       <arglist>(TUID result) const </arglist>
     </member>
     <member kind="function">
+      <type></type>
+      <name>operator const TUID &amp;</name>
+      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
+      <anchor>a5a71b4b07494abc98444fcf80abf27fb</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
       <type>const TUID &amp;</type>
       <name>toTUID</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
       <anchor>ad2940cd2922179eb4a50cd3fe1965769</anchor>
       <arglist>() const </arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static FUID</type>
+      <name>fromTUID</name>
+      <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
+      <anchor>a23ebc24784d7e1065dd4685c348921d6</anchor>
+      <arglist>(const TUID uid)</arglist>
     </member>
     <member kind="variable" protection="protected">
       <type>TUID</type>
@@ -4227,6 +4799,20 @@
       <type></type>
       <name>FVariant</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a53232b87d8f25f4f0418964b260b9cf0</anchor>
+      <arglist>(bool b)</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>FVariant</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>af19117cd340e869e56a407f1da5bf6ba</anchor>
+      <arglist>(uint32 v)</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>FVariant</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
       <anchor>a6f1899f0b15a7da0117660534d4a761b</anchor>
       <arglist>(int64 v)</arglist>
     </member>
@@ -4274,6 +4860,48 @@
     </member>
     <member kind="function">
       <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a99f790fa98987b3f14ad6e21f274f084</anchor>
+      <arglist>(bool b)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a13e33996f2e8908319eb0cb8f91935ab</anchor>
+      <arglist>(uint32 v)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a7e5969c80b5949df833d82622082b43b</anchor>
+      <arglist>(int64 v)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>aae8208b02be6ecdcf6258ff849f48b57</anchor>
+      <arglist>(double v)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a138b7d146b09674005beb9094767749c</anchor>
+      <arglist>(const char8 *c)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>set</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a708a0328d16976ceefcea310580f776a</anchor>
+      <arglist>(const char16 *c)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
       <name>setInt</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
       <anchor>aac3ddf857b8f752aafc10aede06b641b</anchor>
@@ -4306,6 +4934,13 @@
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
       <anchor>a299d0820a6de5c1f779d80772a49d654</anchor>
       <arglist>(FUnknown *obj)</arglist>
+    </member>
+    <member kind="function">
+      <type>T</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a1541aac2858109c409fcf5eb4ba7799e</anchor>
+      <arglist>() const </arglist>
     </member>
     <member kind="function">
       <type>int64</type>
@@ -4390,6 +5025,69 @@
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
       <anchor>a9a4d7b0a805f99ab95362516ee336b3e</anchor>
       <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a3ab571198e46e6f9d9273dddadaa5d96</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>uint32</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>ae3e6ad82b8abf5e40b18ba6674b3355c</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>int32</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>af2a9b8644f292f50d63c30ee995d1ec4</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>int64</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>af7f756010100bde4c00bfcf69ef30343</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>float</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>ad0c1b1238a7ff12aba8db89e14737436</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>double</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>aaad5646fa632981c81f6cd3fa10389f3</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>const char8 *</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>aec350733368e8e6fa9ed259c4681834d</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>const char16 *</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>afa625c7df671bae841824d67046b3243</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>FUnknown *</type>
+      <name>get</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>a6f048d3be65d27c13df73ec0ac5f6dce</anchor>
+      <arglist>() const </arglist>
     </member>
     <member kind="variable">
       <type>uint16</type>
@@ -4741,32 +5439,6 @@
     </member>
   </compound>
   <compound kind="class">
-    <name>Steinberg::IPlugFrameIdle</name>
-    <filename>classSteinberg_1_1IPlugFrameIdle.html</filename>
-    <base>Steinberg::FUnknown</base>
-    <member kind="function" virtualness="pure">
-      <type>virtual tresult</type>
-      <name>addIdleHandler</name>
-      <anchorfile>classSteinberg_1_1IPlugFrameIdle.html</anchorfile>
-      <anchor>a7aed6bb4d156ca331c4188ff3a819278</anchor>
-      <arglist>(IPlugViewIdleHandler *handler)=0</arglist>
-    </member>
-    <member kind="function" virtualness="pure">
-      <type>virtual tresult</type>
-      <name>removeIdleHandler</name>
-      <anchorfile>classSteinberg_1_1IPlugFrameIdle.html</anchorfile>
-      <anchor>a76560af0c2d7ca9171cd6fabb98fa34c</anchor>
-      <arglist>(IPlugViewIdleHandler *handler)=0</arglist>
-    </member>
-    <member kind="variable" static="yes">
-      <type>static const FUID</type>
-      <name>iid</name>
-      <anchorfile>classSteinberg_1_1IPlugFrameIdle.html</anchorfile>
-      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
-      <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="class">
     <name>Steinberg::IPluginBase</name>
     <filename>classSteinberg_1_1IPluginBase.html</filename>
     <base>Steinberg::FUnknown</base>
@@ -4974,20 +5646,27 @@
     </member>
   </compound>
   <compound kind="class">
-    <name>Steinberg::IPlugViewIdleHandler</name>
-    <filename>classSteinberg_1_1IPlugViewIdleHandler.html</filename>
+    <name>Steinberg::IPlugViewContentScaleSupport</name>
+    <filename>classSteinberg_1_1IPlugViewContentScaleSupport.html</filename>
     <base>Steinberg::FUnknown</base>
+    <member kind="typedef">
+      <type>float</type>
+      <name>ScaleFactor</name>
+      <anchorfile>classSteinberg_1_1IPlugViewContentScaleSupport.html</anchorfile>
+      <anchor>a75ec4b5d086d2af3733ac3775ab008d8</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="function" virtualness="pure">
-      <type>virtual void</type>
-      <name>onPlugViewIdle</name>
-      <anchorfile>classSteinberg_1_1IPlugViewIdleHandler.html</anchorfile>
-      <anchor>a530080610ae79a49ff2375492f5800c3</anchor>
-      <arglist>()=0</arglist>
+      <type>virtual tresult</type>
+      <name>setContentScaleFactor</name>
+      <anchorfile>classSteinberg_1_1IPlugViewContentScaleSupport.html</anchorfile>
+      <anchor>af5b0fea85beba3cdcfeb8de66779f478</anchor>
+      <arglist>(ScaleFactor factor)=0</arglist>
     </member>
     <member kind="variable" static="yes">
       <type>static const FUID</type>
       <name>iid</name>
-      <anchorfile>classSteinberg_1_1IPlugViewIdleHandler.html</anchorfile>
+      <anchorfile>classSteinberg_1_1IPlugViewContentScaleSupport.html</anchorfile>
       <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
       <arglist></arglist>
     </member>
@@ -5947,12 +6626,112 @@
       <arglist>(Orientation dir)</arglist>
     </member>
   </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Linux</name>
+    <filename>namespaceSteinberg_1_1Linux.html</filename>
+    <class kind="class">Steinberg::Linux::IEventHandler</class>
+    <class kind="class">Steinberg::Linux::IRunLoop</class>
+    <class kind="class">Steinberg::Linux::ITimerHandler</class>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>TimerInterval</name>
+      <anchorfile>namespaceSteinberg_1_1Linux.html</anchorfile>
+      <anchor>ad94d4fecedeef98b5d1709b61cfa0e7c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int</type>
+      <name>FileDescriptor</name>
+      <anchorfile>namespaceSteinberg_1_1Linux.html</anchorfile>
+      <anchor>a9c80aaf6d9c6451b471e97de46595753</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Linux::IEventHandler</name>
+    <filename>classSteinberg_1_1Linux_1_1IEventHandler.html</filename>
+    <base>Steinberg::FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>onFDIsSet</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IEventHandler.html</anchorfile>
+      <anchor>ac953714233e0c3af5f14e7ab8dfc68f5</anchor>
+      <arglist>(FileDescriptor fd)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IEventHandler.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Linux::IRunLoop</name>
+    <filename>classSteinberg_1_1Linux_1_1IRunLoop.html</filename>
+    <base>Steinberg::FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>registerEventHandler</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IRunLoop.html</anchorfile>
+      <anchor>ae13eeed00dc375e958a4375fc29a6355</anchor>
+      <arglist>(IEventHandler *handler, FileDescriptor fd)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>unregisterEventHandler</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IRunLoop.html</anchorfile>
+      <anchor>a8aa17239995359c3ba6f120b041f4e7e</anchor>
+      <arglist>(IEventHandler *handler)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>registerTimer</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IRunLoop.html</anchorfile>
+      <anchor>aa9a7ecb89251432205aea8bc15e12c9a</anchor>
+      <arglist>(ITimerHandler *handler, TimerInterval milliseconds)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>unregisterTimer</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IRunLoop.html</anchorfile>
+      <anchor>ae84103b4ac33ddbe1fec57d28e917618</anchor>
+      <arglist>(ITimerHandler *handler)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1IRunLoop.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Linux::ITimerHandler</name>
+    <filename>classSteinberg_1_1Linux_1_1ITimerHandler.html</filename>
+    <base>Steinberg::FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>onTimer</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1ITimerHandler.html</anchorfile>
+      <anchor>a90a0d24275b47109b29b50f80d95c8d5</anchor>
+      <arglist>()=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Linux_1_1ITimerHandler.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
   <compound kind="dir">
     <name>base</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>dir_763ef224aee72e7677b478d3b8d1aaab.html</filename>
     <file>conststringtable.cpp</file>
     <file>conststringtable.h</file>
+    <file>coreiids.cpp</file>
     <file>doc.h</file>
     <file>falignpop.h</file>
     <file>falignpush.h</file>
@@ -5980,13 +6759,14 @@
   </compound>
   <compound kind="dir">
     <name>gui</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>dir_2b55989507b85f9714d7502e3b031586.html</filename>
     <file>iplugview.h</file>
+    <file>iplugviewcontentscalesupport.h</file>
   </compound>
   <compound kind="dir">
     <name>pluginterfaces</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
     <filename>dir_a16602e771dbe98bb8f2594e31082617.html</filename>
     <dir>base</dir>
     <dir>gui</dir>

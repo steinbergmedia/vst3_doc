@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Base Module
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -39,9 +46,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="modules.html"><span>Modules</span></a></li>
       <li class="current"><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -67,12 +73,27 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="namespacemembers.html"><span>Namespace&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('namespaceSteinberg_1_1Singleton.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -81,11 +102,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="namespaceSteinberg_1_1Singleton.html">Singleton</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#typedef-members">Typedefs</a> &#124;
@@ -124,8 +140,8 @@ Variables</h2></td></tr>
 <tr class="separator:ab5cb5c38a31d778cf922b01947589311"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae52f18a708ab305abe54c48ffc1c9840"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Singleton.html#ae52f18a708ab305abe54c48ffc1c9840">singletonsTerminated</a> = false</td></tr>
 <tr class="separator:ae52f18a708ab305abe54c48ffc1c9840"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29266b1d4111658632fadb4ef9b57b23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FLock.html">FLock</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Singleton.html#a29266b1d4111658632fadb4ef9b57b23">singletonsLock</a></td></tr>
-<tr class="separator:a29266b1d4111658632fadb4ef9b57b23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac67df8722321fe3f07d688a9710006cc"><td class="memItemLeft" align="right" valign="top">Steinberg::Base::Thread::FLock *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Singleton.html#ac67df8722321fe3f07d688a9710006cc">singletonsLock</a></td></tr>
+<tr class="separator:ac67df8722321fe3f07d688a9710006cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad6199b16f89340fdc59b661207d8ae40"><td class="memItemLeft" align="right" valign="top">struct <br class="typebreak" />
 Steinberg::Singleton::Deleter&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Singleton.html#ad6199b16f89340fdc59b661207d8ae40">deleter</a></td></tr>
 <tr class="separator:ad6199b16f89340fdc59b661207d8ae40"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -238,12 +254,12 @@ Steinberg::Singleton::Deleter&#160;</td><td class="memItemRight" valign="bottom"
 
 </div>
 </div>
-<a class="anchor" id="a29266b1d4111658632fadb4ef9b57b23"></a>
+<a class="anchor" id="ac67df8722321fe3f07d688a9710006cc"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classSteinberg_1_1FLock.html">FLock</a>* singletonsLock</td>
+          <td class="memname">Steinberg::Base::Thread::FLock* singletonsLock</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -263,6 +279,7 @@ Steinberg::Singleton::Deleter&#160;</td><td class="memItemRight" valign="bottom"
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

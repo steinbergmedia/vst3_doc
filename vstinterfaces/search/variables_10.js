@@ -14,6 +14,7 @@ var searchData=
   ['size',['size',['../../vstsdk/classSteinberg_1_1MemoryStream.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9',1,'Steinberg::MemoryStream::size()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#aa1728750481b853c3246037c1ba1c68b',1,'Steinberg::Vst::ParameterChangeTransfer::size()'],['../../vstsdk/structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9',1,'Steinberg::Vst::PresetFile::Entry::size()'],['../structSteinberg_1_1Vst_1_1DataEvent.html#a0d40f1591c12f359c3fa3f982f9a221d',1,'Steinberg::Vst::DataEvent::size()']]],
   ['smpteoffsetsubframes',['smpteOffsetSubframes',['../structSteinberg_1_1Vst_1_1ProcessContext.html#af46e5ad510319f6dd5687519ae47c76b',1,'Steinberg::Vst::ProcessContext']]],
   ['smtg_5foverride',['SMTG_OVERRIDE',['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a985dc60099827f0160cf03e294e3989b',1,'Steinberg::Vst::SingleComponentEffect']]],
+  ['sohandle',['soHandle',['../../vstsdk/namespaceVSTGUI.html#acfe0fc5dd43523202fab9c1ec6ef4e42',1,'VSTGUI']]],
   ['sourceoffset',['sourceOffset',['../../vstsdk/classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#ac307066b40cf8bf55dd44465564f3e65',1,'Steinberg::Vst::ReadOnlyBStream']]],
   ['sourcestream',['sourceStream',['../../vstsdk/classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#ab5f8047e9c69ee8936a446f5de7c6cc6',1,'Steinberg::Vst::ReadOnlyBStream']]],
   ['speaker',['speaker',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a46342207540a92616e060073b43f57f3',1,'Steinberg::Vst::SpeakerArray']]],

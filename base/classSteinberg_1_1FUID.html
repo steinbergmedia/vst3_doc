@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,18 +71,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classSteinberg_1_1FUID.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -84,22 +106,19 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a>  </div>
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="classSteinberg_1_1FUID-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">FUID Class Reference<div class="ingroups"><a class="el" href="group__pluginBase.html">Basic Interfaces</a></div></div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>Handling 16 Byte Globaly Unique Identifiers.  
+<p>Handling 16 Byte Globally Unique Identifiers.  
  <a href="classSteinberg_1_1FUID.html#details">More...</a></p>
 
 <p><code>#include &lt;funknown.h&gt;</code></p>
@@ -119,8 +138,6 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aef4d827e945c171d056b9ed79a8964f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#aef4d827e945c171d056b9ed79a8964f8">FUID</a> ()</td></tr>
 <tr class="separator:aef4d827e945c171d056b9ed79a8964f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a711b0b8889b1bb6631111104a6fff4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a0a711b0b8889b1bb6631111104a6fff4">FUID</a> (const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid)</td></tr>
-<tr class="separator:a0a711b0b8889b1bb6631111104a6fff4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29217891f71b9c22549ae79a894f480f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a29217891f71b9c22549ae79a894f480f">FUID</a> (<a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> l1, <a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> l2, <a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> l3, <a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> l4)</td></tr>
 <tr class="separator:a29217891f71b9c22549ae79a894f480f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0404d1a9d834c21a3c91a2d9b8c1a361"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a0404d1a9d834c21a3c91a2d9b8c1a361">FUID</a> (const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;)</td></tr>
@@ -135,32 +152,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aac1b70a2ed67ead038c4d3f5ac4d8a81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8fc81bf202c6eb2f5832bc9605bf0bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#ac8fc81bf202c6eb2f5832bc9605bf0bc">operator=</a> (const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;f)</td></tr>
 <tr class="separator:ac8fc81bf202c6eb2f5832bc9605bf0bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90cf55f0b465c63bddf54b44fffeb512"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a90cf55f0b465c63bddf54b44fffeb512">operator=</a> (<a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> uid)</td></tr>
-<tr class="separator:a90cf55f0b465c63bddf54b44fffeb512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4a05be7db1bacdd20d1f0836dedde07"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#ad4a05be7db1bacdd20d1f0836dedde07">operator=</a> (<a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid)</td></tr>
-<tr class="separator:ad4a05be7db1bacdd20d1f0836dedde07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad222698c02d66bed34ceee73510ccc47"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#ad222698c02d66bed34ceee73510ccc47">operator==</a> (const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;f) const </td></tr>
 <tr class="separator:ad222698c02d66bed34ceee73510ccc47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5efb5a01d695c6c68e5e8ee4bab27423"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a5efb5a01d695c6c68e5e8ee4bab27423">operator==</a> (<a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> uid) const </td></tr>
-<tr class="separator:a5efb5a01d695c6c68e5e8ee4bab27423"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b49350ae7a7acc3bef334fecbc0e084"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a3b49350ae7a7acc3bef334fecbc0e084">operator==</a> (<a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid) const </td></tr>
-<tr class="separator:a3b49350ae7a7acc3bef334fecbc0e084"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6aec818004cd35db7a78987976d1fad"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#aa6aec818004cd35db7a78987976d1fad">operator&lt;</a> (const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;f) const </td></tr>
 <tr class="separator:aa6aec818004cd35db7a78987976d1fad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5411ae49350e1630462d44da173c4bce"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a5411ae49350e1630462d44da173c4bce">operator&lt;</a> (<a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> uid) const </td></tr>
-<tr class="separator:a5411ae49350e1630462d44da173c4bce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad39e662bce690775bfc2b630dda8304"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#aad39e662bce690775bfc2b630dda8304">operator&lt;</a> (<a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid) const </td></tr>
-<tr class="separator:aad39e662bce690775bfc2b630dda8304"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad091599e39045804d00815f16d671944"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#ad091599e39045804d00815f16d671944">operator!=</a> (const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;f) const </td></tr>
 <tr class="separator:ad091599e39045804d00815f16d671944"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fefe95b50514a83f8256dd7c0fa76e3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a4fefe95b50514a83f8256dd7c0fa76e3">operator!=</a> (<a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> uid) const </td></tr>
-<tr class="separator:a4fefe95b50514a83f8256dd7c0fa76e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63c7734ebe7af27eefb4d8af26b79dfd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a63c7734ebe7af27eefb4d8af26b79dfd">operator!=</a> (<a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid) const </td></tr>
-<tr class="separator:a63c7734ebe7af27eefb4d8af26b79dfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06aa0c14df484ac130038af8c6444369"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a06aa0c14df484ac130038af8c6444369">operator FIDString</a> () const </td></tr>
-<tr class="separator:a06aa0c14df484ac130038af8c6444369"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2c2bebb89803c6d54e0fe24f41f24924"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a2c2bebb89803c6d54e0fe24f41f24924">operator char *</a> ()</td></tr>
-<tr class="separator:a2c2bebb89803c6d54e0fe24f41f24924"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ec11dc4635c50d3d550b70a5c35a776"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a9ec11dc4635c50d3d550b70a5c35a776">getLong1</a> () const </td></tr>
 <tr class="separator:a9ec11dc4635c50d3d550b70a5c35a776"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ad3ac87828b12b169e5d8f7dcb9d40c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a4ad3ac87828b12b169e5d8f7dcb9d40c">getLong2</a> () const </td></tr>
@@ -188,10 +185,20 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a2dec1c07af42dd3ef9195c4f35290903"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a2dec1c07af42dd3ef9195c4f35290903">print</a> (<a class="el" href="namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86">char8</a> *string=0, <a class="el" href="namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> style=<a class="el" href="classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83a9f131fba80cf6b9f835dbcd1893a8e2a">kINLINE_UID</a>) const </td></tr>
 <tr class="memdesc:a2dec1c07af42dd3ef9195c4f35290903"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prints the UID to a string (or debug output if string is NULL).  <a href="#a2dec1c07af42dd3ef9195c4f35290903">More...</a><br /></td></tr>
 <tr class="separator:a2dec1c07af42dd3ef9195c4f35290903"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a040bfaa7ffe2ffd4074b2fc76923e5cf"><td class="memTemplParams" colspan="2">template&lt;size_t N&gt; </td></tr>
+<tr class="memitem:a040bfaa7ffe2ffd4074b2fc76923e5cf"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a040bfaa7ffe2ffd4074b2fc76923e5cf">FUID</a> (const <a class="el" href="namespaceSteinberg.html#ae47c588f3ab8c61121c1c7ab7edc47cd">int8</a>(&amp;uid)[N])</td></tr>
+<tr class="separator:a040bfaa7ffe2ffd4074b2fc76923e5cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd37cfcc00bb93ae45b4e01f332c12d8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#abd37cfcc00bb93ae45b4e01f332c12d8">toTUID</a> (<a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> result) const </td></tr>
 <tr class="separator:abd37cfcc00bb93ae45b4e01f332c12d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a71b4b07494abc98444fcf80abf27fb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a5a71b4b07494abc98444fcf80abf27fb">operator const TUID &amp;</a> () const </td></tr>
+<tr class="separator:a5a71b4b07494abc98444fcf80abf27fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2940cd2922179eb4a50cd3fe1965769"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#ad2940cd2922179eb4a50cd3fe1965769">toTUID</a> () const </td></tr>
 <tr class="separator:ad2940cd2922179eb4a50cd3fe1965769"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a23ebc24784d7e1065dd4685c348921d6"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classSteinberg_1_1FUID.html">FUID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUID.html#a23ebc24784d7e1065dd4685c348921d6">fromTUID</a> (const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> uid)</td></tr>
+<tr class="separator:a23ebc24784d7e1065dd4685c348921d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
@@ -199,7 +206,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a5831f7a540668b040269fcc4a4634a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Handling 16 Byte Globaly Unique Identifiers. </p>
+<div class="textblock"><p>Handling 16 Byte Globally Unique Identifiers. </p>
 <p>Each interface declares its identifier as static member inside the interface namespace (e.g. <a class="el" href="classSteinberg_1_1FUnknown.html#ae78a44399218c930be44d3aa46521d0e">FUnknown::iid</a>). </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a class="anchor" id="a0f2fc16d77666544de6fbd65e184ced8"></a>
@@ -253,30 +260,6 @@ Protected Attributes</h2></td></tr>
           <td></td>
         </tr>
       </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a0a711b0b8889b1bb6631111104a6fff4"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -358,6 +341,30 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a040bfaa7ffe2ffd4074b2fc76923e5cf"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="namespaceSteinberg.html#ae47c588f3ab8c61121c1c7ab7edc47cd">int8</a>(&amp;)&#160;</td>
+          <td class="paramname"><em>uid</em>[N]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a class="anchor" id="aa854636edbaec64049039c593403bc70"></a>
 <div class="memitem">
@@ -411,38 +418,6 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a90cf55f0b465c63bddf54b44fffeb512"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp; operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ad4a05be7db1bacdd20d1f0836dedde07"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp; operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="ad222698c02d66bed34ceee73510ccc47"></a>
 <div class="memitem">
 <div class="memproto">
@@ -455,54 +430,6 @@ Protected Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;&#160;</td>
           <td class="paramname"><em>f</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a5efb5a01d695c6c68e5e8ee4bab27423"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator== </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a3b49350ae7a7acc3bef334fecbc0e084"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator== </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -539,54 +466,6 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a5411ae49350e1630462d44da173c4bce"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator&lt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="aad39e662bce690775bfc2b630dda8304"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator&lt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="ad091599e39045804d00815f16d671944"></a>
 <div class="memitem">
 <div class="memproto">
@@ -600,100 +479,6 @@ Protected Attributes</h2></td></tr>
           <td class="paramtype">const <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> &amp;&#160;</td>
           <td class="paramname"><em>f</em></td><td>)</td>
           <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a4fefe95b50514a83f8256dd7c0fa76e3"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator!= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a63c7734ebe7af27eefb4d8af26b79dfd"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool operator!= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
-          <td class="paramname"><em>uid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a06aa0c14df484ac130038af8c6444369"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">operator <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a2c2bebb89803c6d54e0fe24f41f24924"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">operator <a class="el" href="namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> * </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
         </tr>
       </table>
   </td>
@@ -954,6 +739,9 @@ Protected Attributes</h2></td></tr>
 <a class="anchor" id="abd37cfcc00bb93ae45b4e01f332c12d8"></a>
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">void toTUID </td>
@@ -963,6 +751,34 @@ Protected Attributes</h2></td></tr>
           <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a5a71b4b07494abc98444fcf80abf27fb"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">operator const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> &amp; </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -990,7 +806,31 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<a class="anchor" id="a23ebc24784d7e1065dd4685c348921d6"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classSteinberg_1_1FUID.html">FUID</a> fromTUID </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a>&#160;</td>
+          <td class="paramname"><em>uid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a5831f7a540668b040269fcc4a4634a6c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1012,6 +852,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

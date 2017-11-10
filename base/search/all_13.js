@@ -6,6 +6,7 @@ var searchData=
   ['terminate',['terminate',['../classSteinberg_1_1IPluginBase.html#a1563a6e0e622483924e5f21242407f16',1,'Steinberg::IPluginBase']]],
   ['thisbuffer',['thisBuffer',['../classSteinberg_1_1UString.html#a3c27fc65ab0075137e6846a73f0d5563',1,'Steinberg::UString']]],
   ['thissize',['thisSize',['../classSteinberg_1_1UString.html#a59ceecccb2f1154af32e79123fa041f4',1,'Steinberg::UString']]],
+  ['timerinterval',['TimerInterval',['../namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux']]],
   ['to4int',['to4Int',['../classSteinberg_1_1FUID.html#aa8cc6a07a3f18cf01313393f7e5e8c87',1,'Steinberg::FUID']]],
   ['toascii',['toAscii',['../classSteinberg_1_1UString.html#a6d5a9bd9b704922faa0d453b2670068d',1,'Steinberg::UString']]],
   ['tonormalized',['ToNormalized',['../namespaceSteinberg.html#a3b853af91258cfec3aaaf03bff12541b',1,'Steinberg']]],

@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>Interface Technology Basics: Data Fields</title>
+<title>Interface Technology Basics: Class Members</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,10 +71,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li class="current"><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li class="current"><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
   <div id="navrow3" class="tabs2">
@@ -107,12 +114,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('functions_o.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -122,11 +143,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div>
 
 <div class="contents">
-<div class="textblock">Here is a list of all struct and union fields with links to the structures/unions they belong to:</div>
+<div class="textblock">Here is a list of all class members with links to the classes they belong to:</div>
 
 <h3><a class="anchor" id="index_o"></a>- o -</h3><ul>
 <li>object
 : <a class="el" href="classSteinberg_1_1FVariant.html#aa9cfc397af28aeb7d10c6e1ecee2c401">FVariant</a>
+</li>
+<li>onFDIsSet()
+: <a class="el" href="classSteinberg_1_1Linux_1_1IEventHandler.html#ac953714233e0c3af5f14e7ab8dfc68f5">IEventHandler</a>
 </li>
 <li>onFocus()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#abc80a2e0d25e151cbc2fabd1bd200683">IPlugView</a>
@@ -137,23 +161,20 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>onKeyUp()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#ae726f4b3471ee2485a0bbb651cd35ff2">IPlugView</a>
 </li>
-<li>onPlugViewIdle()
-: <a class="el" href="classSteinberg_1_1IPlugViewIdleHandler.html#a530080610ae79a49ff2375492f5800c3">IPlugViewIdleHandler</a>
-</li>
 <li>onSize()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#a3e741e55c2c047a4cc10f102661f5654">IPlugView</a>
+</li>
+<li>onTimer()
+: <a class="el" href="classSteinberg_1_1Linux_1_1ITimerHandler.html#a90a0d24275b47109b29b50f80d95c8d5">ITimerHandler</a>
 </li>
 <li>onWheel()
 : <a class="el" href="classSteinberg_1_1IPlugView.html#a576b66ba9806bcecc3256110f5dd246a">IPlugView</a>
 </li>
-<li>operator char *()
-: <a class="el" href="classSteinberg_1_1FUID.html#a2c2bebb89803c6d54e0fe24f41f24924">FUID</a>
-</li>
 <li>operator const char16 *()
 : <a class="el" href="classSteinberg_1_1UString.html#a2c894a11fdd68a9206cddfc94c3c8e02">UString</a>
 </li>
-<li>operator FIDString()
-: <a class="el" href="classSteinberg_1_1FUID.html#a06aa0c14df484ac130038af8c6444369">FUID</a>
+<li>operator const TUID &amp;()
+: <a class="el" href="classSteinberg_1_1FUID.html#a5a71b4b07494abc98444fcf80abf27fb">FUID</a>
 </li>
 <li>operator I *()
 : <a class="el" href="classSteinberg_1_1IPtr.html#a4941340f5c6521d726566bf0de9dfa75">IPtr&lt; T &gt;</a>
@@ -175,13 +196,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 , <a class="el" href="classSteinberg_1_1OPtr.html#a37a50240500e6c0d77e174c050286ca9">OPtr&lt; I &gt;</a>
 </li>
 <li>operator==()
-: <a class="el" href="classSteinberg_1_1FUID.html#a3b49350ae7a7acc3bef334fecbc0e084">FUID</a>
+: <a class="el" href="classSteinberg_1_1FUID.html#ad222698c02d66bed34ceee73510ccc47">FUID</a>
 </li>
 <li>OPtr()
-: <a class="el" href="classSteinberg_1_1OPtr.html#ac8069465a6cfb121a6dadcf7b0474bcf">OPtr&lt; I &gt;</a>
+: <a class="el" href="classSteinberg_1_1OPtr.html#abc9725169c37ed88141040a66bd0bac8">OPtr&lt; I &gt;</a>
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

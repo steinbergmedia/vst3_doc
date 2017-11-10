@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,18 +71,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('structSteinberg_1_1Vst_1_1ProcessData.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -84,15 +106,11 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="namespaceSteinberg_1_1Vst_1_1Algo.html">Vst</a></li><li class="navelem"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Data Fields</a>  </div>
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="structSteinberg_1_1Vst_1_1ProcessData-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">ProcessData Struct Reference</div>  </div>
 </div><!--header-->
@@ -109,7 +127,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="structSteinberg_1_1Vst_1_1ProcessData__inherit__graph.png" border="0" usemap="#ProcessData_inherit__map" alt="Inheritance graph"/></div>
 <map name="ProcessData_inherit__map" id="ProcessData_inherit__map">
-<area shape="rect" id="node3" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html" title="{HostProcessData\n|+ kAllChannelsSilent\l# channelBufferOwner\l|+ HostProcessData()\l+ ~HostProcessData()\l+ prepare()\l+ unprepare()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffer()\l+ setChannelBuffer64()\l# createBuffers()\l# destroyBuffers()\l# checkIfReallocationNeeded()\l}" alt="" coords="5,281,189,535"/></map>
+<area shape="rect" id="node3" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html" title="{HostProcessData\n|+ kAllChannelsSilent\l# channelBufferOwner\l|+ HostProcessData()\l+ ~HostProcessData()\l+ prepare()\l+ unprepare()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffer()\l+ setChannelBuffer64()\l# createBuffers()\l# destroyBuffers()\l# checkIfReallocationNeeded()\l}" alt="" coords="5,281,189,535"/></map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -118,20 +136,20 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a100f97803b72565daedee80e34bbb7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
-Data Fields</h2></td></tr>
-<tr class="memitem:a0f85383979879cac64621f4ffb25cae0"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a0f85383979879cac64621f4ffb25cae0">processMode</a></td></tr>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a0f85383979879cac64621f4ffb25cae0"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a0f85383979879cac64621f4ffb25cae0">processMode</a></td></tr>
 <tr class="memdesc:a0f85383979879cac64621f4ffb25cae0"><td class="mdescLeft">&#160;</td><td class="mdescRight">processing mode - value of ProcessModes  <a href="#a0f85383979879cac64621f4ffb25cae0">More...</a><br /></td></tr>
 <tr class="separator:a0f85383979879cac64621f4ffb25cae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9392481e4890fb9c08015eed7c2655e0"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a9392481e4890fb9c08015eed7c2655e0">symbolicSampleSize</a></td></tr>
+<tr class="memitem:a9392481e4890fb9c08015eed7c2655e0"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a9392481e4890fb9c08015eed7c2655e0">symbolicSampleSize</a></td></tr>
 <tr class="memdesc:a9392481e4890fb9c08015eed7c2655e0"><td class="mdescLeft">&#160;</td><td class="mdescRight">sample size - value of SymbolicSampleSizes  <a href="#a9392481e4890fb9c08015eed7c2655e0">More...</a><br /></td></tr>
 <tr class="separator:a9392481e4890fb9c08015eed7c2655e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb42971a4bd34d7baa27cff8d7e3cf26"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26">numSamples</a></td></tr>
+<tr class="memitem:aeb42971a4bd34d7baa27cff8d7e3cf26"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26">numSamples</a></td></tr>
 <tr class="memdesc:aeb42971a4bd34d7baa27cff8d7e3cf26"><td class="mdescLeft">&#160;</td><td class="mdescRight">number of samples to process  <a href="#aeb42971a4bd34d7baa27cff8d7e3cf26">More...</a><br /></td></tr>
 <tr class="separator:aeb42971a4bd34d7baa27cff8d7e3cf26"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a852a74fc4e461ef086bac048313d2de9"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9">numInputs</a></td></tr>
+<tr class="memitem:a852a74fc4e461ef086bac048313d2de9"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9">numInputs</a></td></tr>
 <tr class="memdesc:a852a74fc4e461ef086bac048313d2de9"><td class="mdescLeft">&#160;</td><td class="mdescRight">number of audio input buses  <a href="#a852a74fc4e461ef086bac048313d2de9">More...</a><br /></td></tr>
 <tr class="separator:a852a74fc4e461ef086bac048313d2de9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1338255f88bad5cf4fb714c71f92b61a"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a">numOutputs</a></td></tr>
+<tr class="memitem:a1338255f88bad5cf4fb714c71f92b61a"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a">numOutputs</a></td></tr>
 <tr class="memdesc:a1338255f88bad5cf4fb714c71f92b61a"><td class="mdescLeft">&#160;</td><td class="mdescRight">number of audio output buses  <a href="#a1338255f88bad5cf4fb714c71f92b61a">More...</a><br /></td></tr>
 <tr class="separator:a1338255f88bad5cf4fb714c71f92b61a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a753be8bb50d436efaf9108959cb00cc4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html">AudioBusBuffers</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessData.html#a753be8bb50d436efaf9108959cb00cc4">inputs</a></td></tr>
@@ -158,7 +176,7 @@ Data Fields</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Any data needed in audio processing. </p>
-<p>The host prepares <a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html" title="Processing buffers of an audio bus. ">AudioBusBuffers</a> for each input/output bus, regardless of the bus activation state. <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1Bus.html">Bus</a> buffer indices always match with bus indices used in <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#a41b0e971a0ff153a4eb34274750b0c91" title="Called after the Plug-in is initialized. ">IComponent::getBusInfo</a> of media type kAudio. </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html" title="Processing buffers of an audio bus. ">AudioBusBuffers</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IParameterChanges.html" title="All parameter changes of a processing block. ">IParameterChanges</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IEventList.html" title="List of events to process. ">IEventList</a>, <a class="el" href="structSteinberg_1_1Vst_1_1ProcessContext.html" title="Audio processing context. ">ProcessContext</a> </dd></dl>
+<p>The host prepares <a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html" title="Processing buffers of an audio bus. ">AudioBusBuffers</a> for each input/output bus, regardless of the bus activation state. <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1Bus.html">Bus</a> buffer indices always match with bus indices used in <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#a41b0e971a0ff153a4eb34274750b0c91" title="Called after the Plug-in is initialized. ">IComponent::getBusInfo</a> of media type kAudio. </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html" title="Processing buffers of an audio bus. ">AudioBusBuffers</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IParameterChanges.html" title="All parameter changes of a processing block. ">IParameterChanges</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IEventList.html" title="List of events to process. ">IEventList</a>, <a class="el" href="structSteinberg_1_1Vst_1_1ProcessContext.html" title="Audio processing context. ">ProcessContext</a> </dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a100f97803b72565daedee80e34bbb7f0"></a>
 <div class="memitem">
@@ -183,13 +201,13 @@ Data Fields</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a0f85383979879cac64621f4ffb25cae0"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> processMode</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> processMode</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -203,7 +221,7 @@ Data Fields</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> symbolicSampleSize</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> symbolicSampleSize</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -217,7 +235,7 @@ Data Fields</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numSamples</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numSamples</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -231,7 +249,7 @@ Data Fields</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numInputs</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numInputs</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -245,7 +263,7 @@ Data Fields</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numOutputs</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> numOutputs</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -353,6 +371,7 @@ Data Fields</h2></td></tr>
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

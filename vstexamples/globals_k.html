@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>VST 3 Examples: Globals</title>
+<title>VST 3 Examples: File Members</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -41,7 +48,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,7 +71,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
       <li><a href="files.html"><span>File&#160;List</span></a></li>
-      <li class="current"><a href="globals.html"><span>Globals</span></a></li>
+      <li class="current"><a href="globals.html"><span>File&#160;Members</span></a></li>
     </ul>
   </div>
   <div id="navrow3" class="tabs2">
@@ -100,12 +107,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('globals_k.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -115,13 +136,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div>
 
 <div class="contents">
-<div class="textblock">Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:</div>
+<div class="textblock">Here is a list of all file members with links to the files they belong to:</div>
 
 <h3><a class="anchor" id="index_k"></a>- k -</h3><ul>
 <li>kBypassId
-: <a class="el" href="againparamids_8h.html#a06fc87d81c62e9abb8790b6e5713c55baf4e2f2cc267406eb8c152ecab32fd088">againparamids.h</a>
+: <a class="el" href="againparamids_8h.html#adf764cbdea00d65edcd07bb9953ad2b7af4e2f2cc267406eb8c152ecab32fd088">againparamids.h</a>
 , <a class="el" href="channelcontext_2source_2plugparamids_8h.html#a99fb83031ce9923c84392b4e92f956b5af4e2f2cc267406eb8c152ecab32fd088">channelcontext/source/plugparamids.h</a>
-, <a class="el" href="prefetchablesupport_2source_2plugparamids_8h.html#aba01db17f4a2bfbc3db60dc172972a25af4e2f2cc267406eb8c152ecab32fd088">prefetchablesupport/source/plugparamids.h</a>
+, <a class="el" href="prefetchablesupport_2source_2plugparamids_8h.html#aaf105ae5beaca1dee30ae54530691fceaf4e2f2cc267406eb8c152ecab32fd088">prefetchablesupport/source/plugparamids.h</a>
+, <a class="el" href="programchange_2source_2plugparamids_8h.html#a80155586fa275b28773c9b203f52cabaaf4e2f2cc267406eb8c152ecab32fd088">programchange/source/plugparamids.h</a>
+, <a class="el" href="note__expression__text_2source_2plugparamids_8h.html#aba01db17f4a2bfbc3db60dc172972a25af4e2f2cc267406eb8c152ecab32fd088">note_expression_text/source/plugparamids.h</a>
 </li>
 <li>kChannelColorId
 : <a class="el" href="channelcontext_2source_2plugparamids_8h.html#a99fb83031ce9923c84392b4e92f956b5a129fcb67ba283f51cacaf083b3ac2e46">channelcontext/source/plugparamids.h</a>
@@ -154,7 +177,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="channelcontext_2source_2plugparamids_8h.html#a99fb83031ce9923c84392b4e92f956b5a8f67e086bdde41003f9c5df719954159">channelcontext/source/plugparamids.h</a>
 </li>
 <li>kGainId
-: <a class="el" href="againparamids_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba9006dde2a6fcecd0d0f30fdcaec1ec16">againparamids.h</a>
+: <a class="el" href="againparamids_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a9006dde2a6fcecd0d0f30fdcaec1ec16">againparamids.h</a>
+, <a class="el" href="programchange_2source_2plugparamids_8h.html#a80155586fa275b28773c9b203f52cabaa9006dde2a6fcecd0d0f30fdcaec1ec16">programchange/source/plugparamids.h</a>
 </li>
 <li>kHelpOption
 : <a class="el" href="validator_8cpp.html#a17a1ef8a8f5434d4a35ed46c52222044">validator.cpp</a>
@@ -167,6 +191,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>kLogIdAudioPresentationLatencySamplesSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0f126be06bac7a5f43c0f3c32bd6768f">logevents.h</a>
+</li>
+<li>kLogIdCanProcessSampleSize32
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa7e14181470bfb902fd7b2d61576e6b0">logevents.h</a>
+</li>
+<li>kLogIdCanProcessSampleSize64
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a32e02c954b712c7597b893717c4e6676">logevents.h</a>
 </li>
 <li>kLogIdChannelContextSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a6658d3808b2305e38656d8156178dac2">logevents.h</a>
@@ -252,6 +282,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kLogIdInvalidSymbolicSampleSize
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a25c95c63ff95d5efed461887f2a3a9e1">logevents.h</a>
 </li>
+<li>kLogIdIParameterFinderSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1ed1e56eea06bb5be4b31c77f3ca3060">logevents.h</a>
+</li>
+<li>kLogIdIPlugFrameonResizeViewSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1aefcbcf0463d7bf0f8f7b7161f7a747">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewCalledAsync
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a4f95de0b10fb65dd04515513c5519538">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewCalledSync
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac378b712a17479518fae523d789378c0">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewcanResizeSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46af9c366449111f37cd95482993a6e0dca">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewcheckSizeConstraintSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a3cbb98fef5b3c02d57922500bcbf8e09">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewmultipleAttachSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46afcc95c47f081b009269f1136bd6ece46">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewNotCalled
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ae60e595aa437c08884e7ece02c3d158d">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewonSizeSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a936d56540180b5f1ab5c981b354375b9">logevents.h</a>
+</li>
 <li>kLogIdIPrefetchableSupportSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa6e9ee7941dbfaa2697fb36147470c67">logevents.h</a>
 </li>
@@ -315,8 +372,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kNumLogEvents
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae">logevents.h</a>
 </li>
+<li>kNumProgs
+: <a class="el" href="programchange_2source_2plugparamids_8h.html#a80155586fa275b28773c9b203f52cabaaab19460c4785d34ad085890b4ca086b6">programchange/source/plugparamids.h</a>
+</li>
 <li>kPrefetchableMode
-: <a class="el" href="prefetchablesupport_2source_2plugparamids_8h.html#aba01db17f4a2bfbc3db60dc172972a25add87fed6cb9da3f20263b368e4d3806a">prefetchablesupport/source/plugparamids.h</a>
+: <a class="el" href="prefetchablesupport_2source_2plugparamids_8h.html#aaf105ae5beaca1dee30ae54530691fceadd87fed6cb9da3f20263b368e4d3806a">prefetchablesupport/source/plugparamids.h</a>
+</li>
+<li>kProgramId
+: <a class="el" href="programchange_2source_2plugparamids_8h.html#a80155586fa275b28773c9b203f52cabaa3930e3c52d163188e53c557a69d9aa71">programchange/source/plugparamids.h</a>
 </li>
 <li>kQuietOption
 : <a class="el" href="validator_8cpp.html#a1cea1f2f66a395a6e91f0df45833d15a">validator.cpp</a>
@@ -337,20 +400,25 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="mdafactory_8cpp.html#a7a6b11a55e9b38681d4d7941f3cd28d6">mdafactory.cpp</a>
 </li>
 <li>kVstAudioEffectClass
-: <a class="el" href="againentry_8cpp.html#a747235f6e5700e3fbd1d59010b512b50">againentry.cpp</a>
-, <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">channelcontext/source/plugentry.cpp</a>
+: <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">channelcontext/source/plugentry.cpp</a>
+, <a class="el" href="note__expression__text_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">note_expression_text/source/plugentry.cpp</a>
+, <a class="el" href="programchange_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">programchange/source/plugentry.cpp</a>
 , <a class="el" href="prefetchablesupport_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">prefetchablesupport/source/plugentry.cpp</a>
+, <a class="el" href="againentry_8cpp.html#a747235f6e5700e3fbd1d59010b512b50">againentry.cpp</a>
 </li>
 <li>kVstVersionString
-: <a class="el" href="prefetchablesupport_2source_2plugentry_8cpp.html#a29707ed5621830ba9ca420b63a42b48d">prefetchablesupport/source/plugentry.cpp</a>
-, <a class="el" href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">againentry.cpp</a>
+: <a class="el" href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">againentry.cpp</a>
+, <a class="el" href="programchange_2source_2plugentry_8cpp.html#ac1309796378f282dc0a0d07f322a9727">programchange/source/plugentry.cpp</a>
+, <a class="el" href="note__expression__text_2source_2plugentry_8cpp.html#af95bfaaff460967d112f7e5db4232ea2">note_expression_text/source/plugentry.cpp</a>
+, <a class="el" href="prefetchablesupport_2source_2plugentry_8cpp.html#a29707ed5621830ba9ca420b63a42b48d">prefetchablesupport/source/plugentry.cpp</a>
 , <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a8e474a03994aa5c0ee4068ec2b3b7217">channelcontext/source/plugentry.cpp</a>
 </li>
 <li>kVuPPMId
-: <a class="el" href="againparamids_8h.html#a06fc87d81c62e9abb8790b6e5713c55bac89effee4c5c335b71019bc4a4fa1133">againparamids.h</a>
+: <a class="el" href="againparamids_8h.html#adf764cbdea00d65edcd07bb9953ad2b7ac89effee4c5c335b71019bc4a4fa1133">againparamids.h</a>
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

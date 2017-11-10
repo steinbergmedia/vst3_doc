@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li class="current"><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -87,12 +94,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('namespacemembers_k.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -123,6 +144,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>k111
 : <a class="el" href="group__speakerArrangements.html#ga740b694bcebcd228836a5610feeeb929">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>k111MPEG3D
+: <a class="el" href="group__speakerArrangements.html#gaacb60df68338ad8f622ea9a1f01416c8">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>k122
 : <a class="el" href="group__speakerArrangements.html#gadac6b9c961b9ffdf682f8ff85ea6be64">Steinberg::Vst::SpeakerArr</a>
 </li>
@@ -131,6 +155,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>k131
 : <a class="el" href="group__speakerArrangements.html#gac672a7aa5cabd6a5d4c4441e6aadc925">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>k140
+: <a class="el" href="group__speakerArrangements.html#gaf7c32506aada727a39b6f30173a5a572">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>k222
 : <a class="el" href="group__speakerArrangements.html#ga80683d5816c4db7345c6e25dfdbc87a0">Steinberg::Vst::SpeakerArr</a>
@@ -162,8 +189,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>k50
 : <a class="el" href="group__speakerArrangements.html#gada66cacb0407add2f87505ba08b98095">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>k50_4
+: <a class="el" href="group__speakerArrangements.html#gade838b7c4cdbe2c7a8357e2cb710baf2">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>k51
 : <a class="el" href="group__speakerArrangements.html#ga5ed1fd3424cda0c720d08dab3cdacdec">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>k51_4
+: <a class="el" href="group__speakerArrangements.html#ga9680715bcefe20b26397cab10f7fb18b">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>k60Cine
 : <a class="el" href="group__speakerArrangements.html#ga5c5769c0eac0d76ff06cc2b95cf15ca9">Steinberg::Vst::SpeakerArr</a>
@@ -177,6 +210,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>k61Music
 : <a class="el" href="group__speakerArrangements.html#ga7c2a763f2db01800286568722f724c30">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>k70_4
+: <a class="el" href="group__speakerArrangements.html#ga6246a745fadd335ea2e8ba88b4a4e507">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>k70Cine
 : <a class="el" href="group__speakerArrangements.html#ga957c53627e5492b9b62190be390255c1">Steinberg::Vst::SpeakerArr</a>
 </li>
@@ -185,6 +221,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>k71_2
 : <a class="el" href="group__speakerArrangements.html#gaa6ebca6edf27a3858c2780043ee022e6">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>k71_4
+: <a class="el" href="group__speakerArrangements.html#gae15aef0c82b6f1be96a54fb616a1a7cb">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>k71Cine
 : <a class="el" href="group__speakerArrangements.html#ga153beb2d5d562ed4fc8643bf51c711d8">Steinberg::Vst::SpeakerArr</a>
@@ -285,6 +324,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kAlternativeIndiePunk
 : <a class="el" href="group__musicalStyle.html#ga2b8b2179cf8d2b74f6c0eb2abb563a80">Steinberg::Vst::MusicalStyle</a>
 </li>
+<li>kAmbi1stOrderACN
+: <a class="el" href="group__speakerArrangements.html#ga02d21f6bfee6423fceb6a3695954c33b">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kAmbi2cdOrderACN
+: <a class="el" href="group__speakerArrangements.html#ga6117e1aa058a519559fbea82adb0aa69">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kAmbi3rdOrderACN
+: <a class="el" href="group__speakerArrangements.html#ga1b19ef3d9cbdfb96c008f4586b186997">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>kAmbientChillOut
 : <a class="el" href="group__musicalStyle.html#gaa5aa1cc4f7a5cf8fbcb025f426225676">Steinberg::Vst::MusicalStyle</a>
 </li>
@@ -299,6 +347,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>kAmbientChillOutNewAgeMeditation
 : <a class="el" href="group__musicalStyle.html#gab17d3d9dbddf245300a0e581f27d2b21">Steinberg::Vst::MusicalStyle</a>
+</li>
+<li>kAmbisonic
+: <a class="el" href="group__plugType.html#ga4abfdcef8f46cd006b6a4b78c936235e">Steinberg::Vst::PlugType</a>
 </li>
 <li>kAnalog
 : <a class="el" href="group__musicalCharacter.html#ga10904a318940018e74802140f840a4cc">Steinberg::Vst::MusicalCharacter</a>
@@ -323,12 +374,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>kBassSynthBass
 : <a class="el" href="group__musicalInstrument.html#gabbbabe9b591bdfbc9e8613220d7ce829">Steinberg::Vst::MusicalInstrument</a>
-</li>
-<li>kBFormat
-: <a class="el" href="group__speakerArrangements.html#ga1b2703b73a743bc1c75149acddeb42ad">Steinberg::Vst::SpeakerArr</a>
-</li>
-<li>kBFormat1stOrder
-: <a class="el" href="group__speakerArrangements.html#ga976822b4dfee259ae8f59a25c9a971af">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kBlues
 : <a class="el" href="group__musicalStyle.html#ga070e85734aa0ebd786f2c8ff8dca8301">Steinberg::Vst::MusicalStyle</a>
@@ -660,6 +705,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kFastAttack
 : <a class="el" href="group__musicalCharacter.html#ga8cd59e5d43ed1bd277845f9ed2f29351">Steinberg::Vst::MusicalCharacter</a>
 </li>
+<li>kFileName
+: <a class="el" href="group__presetAttributes.html#ga94927840ff999e51218b78a405316220">Steinberg::Vst::PresetAttributes</a>
+</li>
 <li>kFilePathStringType
 : <a class="el" href="group__presetAttributes.html#gad5fe1f71ae69e7b4daaf0e79130930c3">Steinberg::Vst::PresetAttributes</a>
 </li>
@@ -911,6 +959,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>kMuteFunc
 : <a class="el" href="namespaceSteinberg_1_1Vst_1_1AttributesFunction.html#a2714bad0648841cb021603303fb2cd17">Steinberg::Vst::AttributesFunction</a>
+</li>
+<li>kName
+: <a class="el" href="group__presetAttributes.html#ga0700a0c20b2ccab1debe99a8a815534d">Steinberg::Vst::PresetAttributes</a>
 </li>
 <li>kNew
 : <a class="el" href="group__musicalCharacter.html#ga8ff57c7698535ab97bfc64a7bf3ea9ac">Steinberg::Vst::MusicalCharacter</a>
@@ -1222,6 +1273,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kString131S
 : <a class="el" href="group__speakerArrangements.html#ga9cdfa2ff878225396509ca7b25af7f1f">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>kString140
+: <a class="el" href="group__speakerArrangements.html#ga030afab00e1f4278f53911d4a89a7b98">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kString140S
+: <a class="el" href="group__speakerArrangements.html#ga426116f26f987c030cf2bc70302aa219">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>kString222
 : <a class="el" href="group__speakerArrangements.html#gaad33c8ed818e1d8f2a30195dadf50af9">Steinberg::Vst::SpeakerArr</a>
 </li>
@@ -1279,11 +1336,23 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kString50
 : <a class="el" href="group__speakerArrangements.html#ga67879f0e2d9733cd1a725c10b6bd41ac">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>kString50_4
+: <a class="el" href="group__speakerArrangements.html#gacfc39ea40d9b3ee2c64ee332aadf9dc5">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kString50_4S
+: <a class="el" href="group__speakerArrangements.html#ga8f720e94eddcbd5b60ad0bce56349883">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>kString50S
 : <a class="el" href="group__speakerArrangements.html#gab8903815699fa69a4fd8ec717317dc29">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kString51
 : <a class="el" href="group__speakerArrangements.html#gad0d54db82db6123d96d1f586b443bca3">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kString51_4
+: <a class="el" href="group__speakerArrangements.html#ga3087980012d3e5dee03f977677790623">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kString51_4S
+: <a class="el" href="group__speakerArrangements.html#ga076816df2f77a47f7ffa7f954624886a">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kString51S
 : <a class="el" href="group__speakerArrangements.html#gafbb743a8f1f0002bae234e2d5910ee8a">Steinberg::Vst::SpeakerArr</a>
@@ -1312,6 +1381,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kString61MusicS
 : <a class="el" href="group__speakerArrangements.html#ga81d034a4b036e9e9bd0be527711db6fc">Steinberg::Vst::SpeakerArr</a>
 </li>
+<li>kString70_4
+: <a class="el" href="group__speakerArrangements.html#gabff1c300f5f6d675842dc5e8492b973e">Steinberg::Vst::SpeakerArr</a>
+</li>
 <li>kString70Cine
 : <a class="el" href="group__speakerArrangements.html#ga605e76c32caeb4f0d85ada0ffd422b89">Steinberg::Vst::SpeakerArr</a>
 </li>
@@ -1323,6 +1395,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>kString70MusicS
 : <a class="el" href="group__speakerArrangements.html#ga5f3a9a34dc5798908f848f0b881b8c06">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kString71_4
+: <a class="el" href="group__speakerArrangements.html#gad07e3ef7063ba3b63b8699fceab70e14">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kString71Cine
 : <a class="el" href="group__speakerArrangements.html#ga3475b1b161d22aca3939960e461307a5">Steinberg::Vst::SpeakerArr</a>
@@ -1408,32 +1483,38 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>kString81MusicS
 : <a class="el" href="group__speakerArrangements.html#ga5b7279077b689fa26044fc2520a413c7">Steinberg::Vst::SpeakerArr</a>
 </li>
-<li>kString90
-: <a class="el" href="group__speakerArrangements.html#ga6c5bc2454b2c47a01411fbddd25ee30a">Steinberg::Vst::SpeakerArr</a>
-</li>
-<li>kString90S
-: <a class="el" href="group__speakerArrangements.html#gace125bd22967cceb157097a44d258ef8">Steinberg::Vst::SpeakerArr</a>
-</li>
-<li>kString91
-: <a class="el" href="group__speakerArrangements.html#gaeb2f8e2f0aab973dbf138f73ff23661f">Steinberg::Vst::SpeakerArr</a>
-</li>
 <li>kString91Atmos
 : <a class="el" href="group__speakerArrangements.html#ga929f2c0539c237e4f67a11d46274e037">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kString91AtmosS
 : <a class="el" href="group__speakerArrangements.html#ga91cfddb4f5981d77f3350655d67880c0">Steinberg::Vst::SpeakerArr</a>
 </li>
-<li>kString91S
-: <a class="el" href="group__speakerArrangements.html#gae2ada93ca05061ff875826bd2c44029c">Steinberg::Vst::SpeakerArr</a>
+<li>kStringAmbi1stOrder
+: <a class="el" href="group__speakerArrangements.html#gae989a0ed646d1b90e700b6599b87e9c5">Steinberg::Vst::SpeakerArr</a>
 </li>
-<li>kStringBFormat1stOrder
-: <a class="el" href="group__speakerArrangements.html#ga68685cd555e022d616adae60c053ecc1">Steinberg::Vst::SpeakerArr</a>
+<li>kStringAmbi1stOrderS
+: <a class="el" href="group__speakerArrangements.html#ga319dbf573206d0bb1a8b77e7f476548d">Steinberg::Vst::SpeakerArr</a>
 </li>
-<li>kStringBFormat1stOrderS
-: <a class="el" href="group__speakerArrangements.html#gafb8e3e488df5eda20ec2081c389af4ae">Steinberg::Vst::SpeakerArr</a>
+<li>kStringAmbi2cdOrder
+: <a class="el" href="group__speakerArrangements.html#ga57421a0b5dd2faacfc03c8b4df47c626">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kStringAmbi2cdOrderS
+: <a class="el" href="group__speakerArrangements.html#ga81cbc11f839866ed8a91dc903e5a6d97">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kStringAmbi3rdOrder
+: <a class="el" href="group__speakerArrangements.html#gab530c1e2f6dfd766cfb9f1b4f11b6ddf">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kStringAmbi3rdOrderS
+: <a class="el" href="group__speakerArrangements.html#gab2317fa07e1e7ee2cfce204a07945c40">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kStringEmpty
 : <a class="el" href="group__speakerArrangements.html#ga38c557da6a4db5884d2d688c30cc5553">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kStringk70_4S
+: <a class="el" href="group__speakerArrangements.html#ga386b03e3be5ae4702e73e767c099af24">Steinberg::Vst::SpeakerArr</a>
+</li>
+<li>kStringk71_4S
+: <a class="el" href="group__speakerArrangements.html#gafcbf12c7de1d228a76dec2791c3b42a3">Steinberg::Vst::SpeakerArr</a>
 </li>
 <li>kStringMono
 : <a class="el" href="group__speakerArrangements.html#gacc3c2f0d3a1a7cefebcd21afcaff0a33">Steinberg::Vst::SpeakerArr</a>
@@ -1741,6 +1822,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

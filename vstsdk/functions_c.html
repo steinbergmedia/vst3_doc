@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>VST 3 SDK: Data Fields</title>
+<title>VST 3 SDK: Class Members</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,10 +71,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li class="current"><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li class="current"><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
   <div id="navrow3" class="tabs2">
@@ -110,12 +117,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('functions_c.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -125,7 +146,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div>
 
 <div class="contents">
-<div class="textblock">Here is a list of all struct and union fields with links to the structures/unions they belong to:</div>
+<div class="textblock">Here is a list of all class members with links to the classes they belong to:</div>
 
 <h3><a class="anchor" id="index_c"></a>- c -</h3><ul>
 <li>canProcessSampleSize()
@@ -183,14 +204,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1Vst_1_1PresetFile.html#a90bf0fdcd362780b8c115f2822930703">PresetFile</a>
 , <a class="el" href="structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#acf0c8e172b246ddf229587fa10e497f4">ClassInfo::Data</a>
 </li>
-<li>ClassInfo
-: <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#ab3aa0d2066929e476a55a482d1fc30b6">PlugProvider</a>
-</li>
 <li>classInfo
 : <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#a0c4daae75c9c796e333143d736bc766c">PlugProvider</a>
 </li>
-<li>ClassInfo()
-: <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#aa9a778c215c5b807bb8aa42a4e3b7f9f">ClassInfo</a>
+<li>ClassInfo
+: <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#ab3aa0d2066929e476a55a482d1fc30b6">PlugProvider</a>
+, <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#aa9a778c215c5b807bb8aa42a4e3b7f9f">ClassInfo</a>
 </li>
 <li>ClassInfos
 : <a class="el" href="classVST3_1_1Hosting_1_1PluginFactory.html#a9d81f84b772b33b33ba0b696baaa24e1">PluginFactory</a>
@@ -225,7 +244,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#aea3aa16cc1d285b2fc58eda39683fc8f">PlugProvider</a>
 </li>
 <li>componentHandler2
-: <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#a0055b7b0592368a6361a5cbcdf806501">EditController</a>
+: <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#a39488062cf0aeb73f2d0ca6be4e3d28f">EditController</a>
 </li>
 <li>componentNonDiscardable()
 : <a class="el" href="classVST3_1_1Hosting_1_1FactoryInfo.html#aa5f9ddd2554d3fb83b528c80329aa8bb">FactoryInfo</a>
@@ -260,7 +279,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 : <a class="el" href="classSteinberg_1_1CPluginFactory.html#a6337cf8d04686bb3a52e6f64d8771616">CPluginFactory</a>
 </li>
 <li>CPluginView()
-: <a class="el" href="classSteinberg_1_1CPluginView.html#a0c46d4c13873a3d6276bc6034ca7bb02">CPluginView</a>
+: <a class="el" href="classSteinberg_1_1CPluginView.html#a7c25891fe7dde6dc274a0ac9f20890a4">CPluginView</a>
 </li>
 <li>create()
 : <a class="el" href="classVST3_1_1Hosting_1_1Module.html#ab978f80b5342e4a6d9c50939bef14f99">Module</a>
@@ -274,13 +293,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 , <a class="el" href="classVST3_1_1Hosting_1_1PluginFactory.html#a281e36c942fab4bb6232edd54a57d3f2">PluginFactory</a>
 </li>
 <li>createView()
-: <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#acbd5c91b6db6ac3c2e669624561a2e69">EditController</a>
+: <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#a9ed9952fc33a6e0cac96a8f46de5d86c">EditController</a>
 </li>
 <li>cursor
 : <a class="el" href="classSteinberg_1_1MemoryStream.html#a8f5a6610de08dfeeed96670cff0abb50">MemoryStream</a>
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

@@ -5,6 +5,7 @@ var searchData=
   ['hbufpos',['hbufpos',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#ac746cc0fad0d8a63319f1025d760f85b',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['hdel',['hdel',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a3960e19630f0019552dc034b4de3fd7b',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['hdep',['hdep',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a6e7ca96ed08d072900c1e5e2f9b3f20a',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['height',['height',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#ad6796376ef5cc027ed35c4b2dd170f41',1,'Steinberg::Vst::HostCheckerController']]],
   ['hfil',['hfil',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a43e6c0365782783cd3d11b99d52475fc',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['hh0',['hh0',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a7b84b45a4b4eba13dcd43a1b7de4c31d',1,'Steinberg::Vst::mda::ComboProcessor']]],
   ['hh1',['hh1',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a1183531a21be4d567f0ec17360d37486',1,'Steinberg::Vst::mda::ComboProcessor']]],

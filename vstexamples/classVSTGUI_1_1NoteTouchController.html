@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -41,7 +48,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -63,18 +70,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classVSTGUI_1_1NoteTouchController.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -83,16 +105,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceVSTGUI.html">VSTGUI</a></li><li class="navelem"><a class="el" href="classVSTGUI_1_1NoteTouchController.html">NoteTouchController</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a>  </div>
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="classVSTGUI_1_1NoteTouchController-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">NoteTouchController Class Reference</div>  </div>
 </div><!--header-->
@@ -111,7 +129,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af189e77d3e17b324d02e6dec8ec97efb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#af189e77d3e17b324d02e6dec8ec97efb">NoteTouchController</a> (int32_t <a class="el" href="classVSTGUI_1_1NoteTouchController.html#a7ffee739cc92424b3ea742b048838896">pitch</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *<a class="el" href="classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3">host</a>)</td></tr>
+<tr class="memitem:af189e77d3e17b324d02e6dec8ec97efb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#af189e77d3e17b324d02e6dec8ec97efb">NoteTouchController</a> (int32_t <a class="el" href="classVSTGUI_1_1NoteTouchController.html#a7ffee739cc92424b3ea742b048838896">pitch</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *<a class="el" href="classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3">host</a>)</td></tr>
 <tr class="separator:af189e77d3e17b324d02e6dec8ec97efb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa87316510402b217a6f4f5afc305199"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#afa87316510402b217a6f4f5afc305199">setPitch</a> (int32_t <a class="el" href="classVSTGUI_1_1NoteTouchController.html#a7ffee739cc92424b3ea742b048838896">pitch</a>)</td></tr>
 <tr class="separator:afa87316510402b217a6f4f5afc305199"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -122,14 +140,14 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:afb237fa580f6f996152807bb666924be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#afb237fa580f6f996152807bb666924be">controlBeginEdit</a> (CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</td></tr>
-<tr class="separator:afb237fa580f6f996152807bb666924be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a846ca2c39bb810319513de1cd5360727"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a846ca2c39bb810319513de1cd5360727">controlEndEdit</a> (CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</td></tr>
-<tr class="separator:a846ca2c39bb810319513de1cd5360727"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbaca3887438c620a0a947ecf7184d48"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#afbaca3887438c620a0a947ecf7184d48">valueChanged</a> (CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</td></tr>
-<tr class="separator:afbaca3887438c620a0a947ecf7184d48"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0b8520e5feed0d9fd39b6cf1c29b4a2"><td class="memItemLeft" align="right" valign="top">CView *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#ad0b8520e5feed0d9fd39b6cf1c29b4a2">verifyView</a> (CView *view, const UIAttributes &amp;attributes, const IUIDescription *description) VSTGUI_OVERRIDE_VMETHOD</td></tr>
-<tr class="separator:ad0b8520e5feed0d9fd39b6cf1c29b4a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5710f4953ade5a9361b3b8342c0c1f3b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a5710f4953ade5a9361b3b8342c0c1f3b">controlBeginEdit</a> (CControl *pControl) override</td></tr>
+<tr class="separator:a5710f4953ade5a9361b3b8342c0c1f3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a137265ed70dca9006615cbcc86c29774"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a137265ed70dca9006615cbcc86c29774">controlEndEdit</a> (CControl *pControl) override</td></tr>
+<tr class="separator:a137265ed70dca9006615cbcc86c29774"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94d64f149dbf98863f121a3f6ce588ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a94d64f149dbf98863f121a3f6ce588ac">valueChanged</a> (CControl *pControl) override</td></tr>
+<tr class="separator:a94d64f149dbf98863f121a3f6ce588ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebae74569db42650b5f06a92c63a0550"><td class="memItemLeft" align="right" valign="top">CView *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#aebae74569db42650b5f06a92c63a0550">verifyView</a> (CView *view, const UIAttributes &amp;attributes, const IUIDescription *description) override</td></tr>
+<tr class="separator:aebae74569db42650b5f06a92c63a0550"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab0f8535ebb225c551de4fa95ae49bb00"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#ab0f8535ebb225c551de4fa95ae49bb00">startNote</a> (float velocity)</td></tr>
 <tr class="separator:ab0f8535ebb225c551de4fa95ae49bb00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a16f42f2efa3f6e691ad850acf8f73221"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a16f42f2efa3f6e691ad850acf8f73221">stopNote</a> (float velocity)</td></tr>
@@ -139,7 +157,7 @@ Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a416ef5aeb0c40849f69de8a80270c1a3"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3">host</a></td></tr>
+<tr class="memitem:a416ef5aeb0c40849f69de8a80270c1a3"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3">host</a></td></tr>
 <tr class="separator:a416ef5aeb0c40849f69de8a80270c1a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a129e460bdd8c7b1046ebcdc4e5e17ce5"><td class="memItemLeft" align="right" valign="top">CXYPad *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classVSTGUI_1_1NoteTouchController.html#a129e460bdd8c7b1046ebcdc4e5e17ce5">pad</a></td></tr>
 <tr class="separator:a129e460bdd8c7b1046ebcdc4e5e17ce5"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -168,7 +186,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a> *&#160;</td>
           <td class="paramname"><em>host</em>&#160;</td>
         </tr>
         <tr>
@@ -254,7 +272,7 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="afb237fa580f6f996152807bb666924be"></a>
+<a class="anchor" id="a5710f4953ade5a9361b3b8342c0c1f3b"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -271,14 +289,14 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="a846ca2c39bb810319513de1cd5360727"></a>
+<a class="anchor" id="a137265ed70dca9006615cbcc86c29774"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -295,14 +313,14 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="afbaca3887438c620a0a947ecf7184d48"></a>
+<a class="anchor" id="a94d64f149dbf98863f121a3f6ce588ac"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -319,14 +337,14 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="ad0b8520e5feed0d9fd39b6cf1c29b4a2"></a>
+<a class="anchor" id="aebae74569db42650b5f06a92c63a0550"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -359,7 +377,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -448,7 +466,7 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a416ef5aeb0c40849f69de8a80270c1a3"></a>
 <div class="memitem">
 <div class="memproto">
@@ -457,7 +475,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a>* host</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html">Steinberg::Vst::IInterAppAudioHost</a>* host</td>
         </tr>
       </table>
   </td>
@@ -590,6 +608,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

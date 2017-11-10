@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['fidstring',['FIDString',['../../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5',1,'Steinberg']]]
+  ['editormap',['EditorMap',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a7eb7bc3ca514ede042c8ad5d01414f4f',1,'Steinberg::Vst::HostCheckerController']]],
+  ['editorvector',['EditorVector',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a2acf420e46d11239fb9fb6f11447c41e',1,'Steinberg::Vst::HostCheckerController']]]
 ];

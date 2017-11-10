@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li class="current"><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,18 +71,33 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li><a href="classes.html"><span>Data&#160;Structure&#160;Index</span></a></li>
+      <li><a href="annotated.html"><span>Class&#160;List</span></a></li>
+      <li><a href="classes.html"><span>Class&#160;Index</span></a></li>
       <li><a href="inherits.html"><span>Class&#160;Hierarchy</span></a></li>
-      <li><a href="functions.html"><span>Data&#160;Fields</span></a></li>
+      <li><a href="functions.html"><span>Class&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('classSteinberg_1_1Vst_1_1Parameter.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -84,15 +106,11 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="namespaceSteinberg_1_1Vst.html">Vst</a></li><li class="navelem"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Data Fields</a>  </div>
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="classSteinberg_1_1Vst_1_1Parameter-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Parameter Class Reference<div class="ingroups"><a class="el" href="group__vstClasses.html">VST Implementation Helper Classes</a></div></div>  </div>
 </div><!--header-->
@@ -116,55 +134,55 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a722d0b273a6e3633c189fb21eaaa483c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a722d0b273a6e3633c189fb21eaaa483c">Parameter</a> ()</td></tr>
 <tr class="separator:a722d0b273a6e3633c189fb21eaaa483c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a388e837bf6198abab80b877ca32b5e26"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a388e837bf6198abab80b877ca32b5e26">Parameter</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;)</td></tr>
+<tr class="memitem:a388e837bf6198abab80b877ca32b5e26"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a388e837bf6198abab80b877ca32b5e26">Parameter</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;)</td></tr>
 <tr class="separator:a388e837bf6198abab80b877ca32b5e26"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a303b5e6590331abe7adc76569c9541f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a303b5e6590331abe7adc76569c9541f6">Parameter</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *title, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a> tag, const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *units=0, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> defaultValueNormalized=0., <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> stepCount=0, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> flags=<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af38562ef6dde00a339d67f9be4ec3a31">ParameterInfo::kCanAutomate</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> unitID=kRootUnitId)</td></tr>
-<tr class="separator:a303b5e6590331abe7adc76569c9541f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cc19eb29e2a2d796fe24eee17fdb935"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a5cc19eb29e2a2d796fe24eee17fdb935">Parameter</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *title, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a> tag, const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *units=<a class="el" href="module__win32_8cpp.html#aaca25b80fcc0199610511047767ed124">nullptr</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> defaultValueNormalized=0., <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> stepCount=0, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> flags=<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af38562ef6dde00a339d67f9be4ec3a31">ParameterInfo::kCanAutomate</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> unitID=kRootUnitId)</td></tr>
+<tr class="separator:a5cc19eb29e2a2d796fe24eee17fdb935"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a615c436bf6b0250e3518ba91a5d88f66"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a615c436bf6b0250e3518ba91a5d88f66">~Parameter</a> ()</td></tr>
 <tr class="separator:a615c436bf6b0250e3518ba91a5d88f66"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05f4560a930405134f5e39c35d7271da"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a05f4560a930405134f5e39c35d7271da">getInfo</a> () const </td></tr>
-<tr class="memdesc:a05f4560a930405134f5e39c35d7271da"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns its readonly info.  <a href="#a05f4560a930405134f5e39c35d7271da">More...</a><br /></td></tr>
+<tr class="memitem:a05f4560a930405134f5e39c35d7271da"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a05f4560a930405134f5e39c35d7271da">getInfo</a> () const </td></tr>
+<tr class="memdesc:a05f4560a930405134f5e39c35d7271da"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns its read only info.  <a href="#a05f4560a930405134f5e39c35d7271da">More...</a><br /></td></tr>
 <tr class="separator:a05f4560a930405134f5e39c35d7271da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a78058279b0eac5f204ea0176a7d63654"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a78058279b0eac5f204ea0176a7d63654">getInfo</a> ()</td></tr>
-<tr class="memdesc:a78058279b0eac5f204ea0176a7d63654"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns its writeable info.  <a href="#a78058279b0eac5f204ea0176a7d63654">More...</a><br /></td></tr>
+<tr class="memitem:a78058279b0eac5f204ea0176a7d63654"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a78058279b0eac5f204ea0176a7d63654">getInfo</a> ()</td></tr>
+<tr class="memdesc:a78058279b0eac5f204ea0176a7d63654"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns its writable info.  <a href="#a78058279b0eac5f204ea0176a7d63654">More...</a><br /></td></tr>
 <tr class="separator:a78058279b0eac5f204ea0176a7d63654"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90c03647b6bb419080013f74e8a8daea"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a90c03647b6bb419080013f74e8a8daea">setUnitID</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> id)</td></tr>
+<tr class="memitem:a90c03647b6bb419080013f74e8a8daea"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a90c03647b6bb419080013f74e8a8daea">setUnitID</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> id)</td></tr>
 <tr class="memdesc:a90c03647b6bb419080013f74e8a8daea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets its associated UnitId.  <a href="#a90c03647b6bb419080013f74e8a8daea">More...</a><br /></td></tr>
 <tr class="separator:a90c03647b6bb419080013f74e8a8daea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60b5722767ffe56fcba10b82aff1e05b"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a60b5722767ffe56fcba10b82aff1e05b">getUnitID</a> ()</td></tr>
+<tr class="memitem:a60b5722767ffe56fcba10b82aff1e05b"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a60b5722767ffe56fcba10b82aff1e05b">getUnitID</a> ()</td></tr>
 <tr class="memdesc:a60b5722767ffe56fcba10b82aff1e05b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets its associated UnitId.  <a href="#a60b5722767ffe56fcba10b82aff1e05b">More...</a><br /></td></tr>
 <tr class="separator:a60b5722767ffe56fcba10b82aff1e05b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a900f4c886d0ec3012445a0eda9bf89fb"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a900f4c886d0ec3012445a0eda9bf89fb">getNormalized</a> () const </td></tr>
+<tr class="memitem:a900f4c886d0ec3012445a0eda9bf89fb"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a900f4c886d0ec3012445a0eda9bf89fb">getNormalized</a> () const </td></tr>
 <tr class="memdesc:a900f4c886d0ec3012445a0eda9bf89fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets its normalized value [0.0, 1.0].  <a href="#a900f4c886d0ec3012445a0eda9bf89fb">More...</a><br /></td></tr>
 <tr class="separator:a900f4c886d0ec3012445a0eda9bf89fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31d234fd0b37a33579e134c6bc769e9d"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a31d234fd0b37a33579e134c6bc769e9d">setNormalized</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> v)</td></tr>
+<tr class="memitem:a31d234fd0b37a33579e134c6bc769e9d"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a31d234fd0b37a33579e134c6bc769e9d">setNormalized</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> v)</td></tr>
 <tr class="memdesc:a31d234fd0b37a33579e134c6bc769e9d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets its normalized value [0.0, 1.0].  <a href="#a31d234fd0b37a33579e134c6bc769e9d">More...</a><br /></td></tr>
 <tr class="separator:a31d234fd0b37a33579e134c6bc769e9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf2d66439b66c3c696d3c65ce53ca324"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#abf2d66439b66c3c696d3c65ce53ca324">toString</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> <a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> string) const </td></tr>
+<tr class="memitem:abf2d66439b66c3c696d3c65ce53ca324"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#abf2d66439b66c3c696d3c65ce53ca324">toString</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> <a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> string) const </td></tr>
 <tr class="memdesc:abf2d66439b66c3c696d3c65ce53ca324"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a normalized value to a string.  <a href="#abf2d66439b66c3c696d3c65ce53ca324">More...</a><br /></td></tr>
 <tr class="separator:abf2d66439b66c3c696d3c65ce53ca324"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0ff61e185c085fe7d7a34aed67fca38"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#aa0ff61e185c085fe7d7a34aed67fca38">fromString</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *string, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> &amp;<a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>) const </td></tr>
+<tr class="memitem:aa0ff61e185c085fe7d7a34aed67fca38"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#aa0ff61e185c085fe7d7a34aed67fca38">fromString</a> (const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *string, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> &amp;<a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>) const </td></tr>
 <tr class="memdesc:aa0ff61e185c085fe7d7a34aed67fca38"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a string to a normalized value.  <a href="#aa0ff61e185c085fe7d7a34aed67fca38">More...</a><br /></td></tr>
 <tr class="separator:aa0ff61e185c085fe7d7a34aed67fca38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4490b3abfe579ec2e70de79870c7dfd6"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a4490b3abfe579ec2e70de79870c7dfd6">toPlain</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> <a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>) const </td></tr>
+<tr class="memitem:a4490b3abfe579ec2e70de79870c7dfd6"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a4490b3abfe579ec2e70de79870c7dfd6">toPlain</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> <a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a>) const </td></tr>
 <tr class="memdesc:a4490b3abfe579ec2e70de79870c7dfd6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a normalized value to plain value (e.g.  <a href="#a4490b3abfe579ec2e70de79870c7dfd6">More...</a><br /></td></tr>
 <tr class="separator:a4490b3abfe579ec2e70de79870c7dfd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a0c6d8c8afd49db1e9a6c0746002d35"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a8a0c6d8c8afd49db1e9a6c0746002d35">toNormalized</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> plainValue) const </td></tr>
+<tr class="memitem:a8a0c6d8c8afd49db1e9a6c0746002d35"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a8a0c6d8c8afd49db1e9a6c0746002d35">toNormalized</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> plainValue) const </td></tr>
 <tr class="memdesc:a8a0c6d8c8afd49db1e9a6c0746002d35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a plain value to a normalized value (e.g.  <a href="#a8a0c6d8c8afd49db1e9a6c0746002d35">More...</a><br /></td></tr>
 <tr class="separator:a8a0c6d8c8afd49db1e9a6c0746002d35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b186fa231408e88f93f58e8144b5d61"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a2b186fa231408e88f93f58e8144b5d61">getPrecision</a> () const </td></tr>
+<tr class="memitem:a2b186fa231408e88f93f58e8144b5d61"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a2b186fa231408e88f93f58e8144b5d61">getPrecision</a> () const </td></tr>
 <tr class="memdesc:a2b186fa231408e88f93f58e8144b5d61"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the current precision (used for string representation of float).  <a href="#a2b186fa231408e88f93f58e8144b5d61">More...</a><br /></td></tr>
 <tr class="separator:a2b186fa231408e88f93f58e8144b5d61"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf80191a6dcaba94638e0bc7efd029c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#abf80191a6dcaba94638e0bc7efd029c5">setPrecision</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> val)</td></tr>
+<tr class="memitem:abf80191a6dcaba94638e0bc7efd029c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#abf80191a6dcaba94638e0bc7efd029c5">setPrecision</a> (<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> val)</td></tr>
 <tr class="memdesc:abf80191a6dcaba94638e0bc7efd029c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the precision for string representation of float value (for example 4.34 with 2 as precision).  <a href="#abf80191a6dcaba94638e0bc7efd029c5">More...</a><br /></td></tr>
 <tr class="separator:abf80191a6dcaba94638e0bc7efd029c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
-Data Fields</h2></td></tr>
+Public Attributes</h2></td></tr>
 <tr class="memitem:a0ccc625642bc5f50bad1ecf1de846017"><td class="memItemLeft" align="right" valign="top">OBJ_METHODS(<a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a>, FObject) <br class="typebreak" />
-protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a></td></tr>
+protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017">valueNormalized</a></td></tr>
 <tr class="separator:a0ccc625642bc5f50bad1ecf1de846017"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae19c2c90f8dec6b6c96ff91b584c2b11"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#ae19c2c90f8dec6b6c96ff91b584c2b11">precision</a></td></tr>
+<tr class="memitem:ae19c2c90f8dec6b6c96ff91b584c2b11"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html#ae19c2c90f8dec6b6c96ff91b584c2b11">precision</a></td></tr>
 <tr class="separator:ae19c2c90f8dec6b6c96ff91b584c2b11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -192,7 +210,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a> </td>
           <td>(</td>
-          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a> &amp;&#160;</td>
           <td class="paramname"><em>info</em></td><td>)</td>
           <td></td>
         </tr>
@@ -201,50 +219,50 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 
 </div>
 </div>
-<a class="anchor" id="a303b5e6590331abe7adc76569c9541f6"></a>
+<a class="anchor" id="a5cc19eb29e2a2d796fe24eee17fdb935"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a> </td>
           <td>(</td>
-          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
+          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
           <td class="paramname"><em>title</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a>&#160;</td>
           <td class="paramname"><em>tag</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
-          <td class="paramname"><em>units</em> = <code>0</code>, </td>
+          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
+          <td class="paramname"><em>units</em> = <code><a class="el" href="module__win32_8cpp.html#aaca25b80fcc0199610511047767ed124">nullptr</a></code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
           <td class="paramname"><em>defaultValueNormalized</em> = <code>0.</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
           <td class="paramname"><em>stepCount</em> = <code>0</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
-          <td class="paramname"><em>flags</em> = <code><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af38562ef6dde00a339d67f9be4ec3a31">ParameterInfo::kCanAutomate</a></code>, </td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
+          <td class="paramname"><em>flags</em> = <code><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af38562ef6dde00a339d67f9be4ec3a31">ParameterInfo::kCanAutomate</a></code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td>
           <td class="paramname"><em>unitID</em> = <code>kRootUnitId</code>&#160;</td>
         </tr>
         <tr>
@@ -289,7 +307,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a>&amp; getInfo </td>
+          <td class="memname">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a>&amp; getInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -302,7 +320,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 </table>
 </div><div class="memdoc">
 
-<p>Returns its readonly info. </p>
+<p>Returns its read only info. </p>
 
 </div>
 </div>
@@ -314,7 +332,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a>&amp; getInfo </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html">ParameterInfo</a>&amp; getInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -327,7 +345,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 </table>
 </div><div class="memdoc">
 
-<p>Returns its writeable info. </p>
+<p>Returns its writable info. </p>
 
 </div>
 </div>
@@ -341,7 +359,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname">void setUnitID </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>&#160;</td>
           <td class="paramname"><em>id</em></td><td>)</td>
           <td></td>
         </tr>
@@ -365,7 +383,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> getUnitID </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> getUnitID </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -390,7 +408,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> getNormalized </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> getNormalized </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -417,7 +435,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname">bool setNormalized </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
           <td class="paramname"><em>v</em></td><td>)</td>
           <td></td>
         </tr>
@@ -443,13 +461,13 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname">void toString </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
           <td class="paramname"><em>valueNormalized</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a>&#160;</td>
           <td class="paramname"><em>string</em>&#160;</td>
         </tr>
         <tr>
@@ -481,13 +499,13 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname">bool fromString </td>
           <td>(</td>
-          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
+          <td class="paramtype">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a> *&#160;</td>
           <td class="paramname"><em>string</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> &amp;&#160;</td>
           <td class="paramname"><em>valueNormalized</em>&#160;</td>
         </tr>
         <tr>
@@ -517,9 +535,9 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> toPlain </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> toPlain </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
           <td class="paramname"><em>valueNormalized</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -546,9 +564,9 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> toNormalized </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> toNormalized </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a>&#160;</td>
           <td class="paramname"><em>plainValue</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -575,7 +593,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> getPrecision </td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> getPrecision </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -602,7 +620,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
         <tr>
           <td class="memname">void setPrecision </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
+          <td class="paramtype"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td>
           <td class="paramname"><em>val</em></td><td>)</td>
           <td></td>
         </tr>
@@ -618,13 +636,13 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 
 </div>
 </div>
-<h2 class="groupheader">Field Documentation</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a0ccc625642bc5f50bad1ecf1de846017"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">OBJ_METHODS (<a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a>, FObject) protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> valueNormalized</td>
+          <td class="memname">OBJ_METHODS (<a class="el" href="classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a>, FObject) protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> valueNormalized</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -636,7 +654,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> precision</td>
+          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> precision</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -644,6 +662,7 @@ protected <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SD
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

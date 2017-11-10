@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['doc_2eh',['doc.h',['../interappaudio_2doc_8h.html',1,'']]],
   ['ibstream_2eh',['ibstream.h',['../../base/ibstream_8h.html',1,'']]],
   ['icloneable_2eh',['icloneable.h',['../../base/icloneable_8h.html',1,'']]],
   ['ierrorcontext_2eh',['ierrorcontext.h',['../../base/ierrorcontext_8h.html',1,'']]],
   ['ipersistent_2eh',['ipersistent.h',['../../base/ipersistent_8h.html',1,'']]],
   ['ipluginbase_2eh',['ipluginbase.h',['../../base/ipluginbase_8h.html',1,'']]],
-  ['iplugview_2eh',['iplugview.h',['../../base/iplugview_8h.html',1,'']]],
+  ['iplugview_2eh',['iplugview.h',['../../base/iplugview_8h.html',1,'(Global Namespace)'],['../../vstinterfaces/iplugview_8h.html',1,'(Global Namespace)']]],
+  ['iplugviewcontentscalesupport_2eh',['iplugviewcontentscalesupport.h',['../../base/iplugviewcontentscalesupport_8h.html',1,'(Global Namespace)'],['../../vstinterfaces/iplugviewcontentscalesupport_8h.html',1,'(Global Namespace)']]],
   ['istringresult_2eh',['istringresult.h',['../../base/istringresult_8h.html',1,'']]],
   ['iupdatehandler_2eh',['iupdatehandler.h',['../../base/iupdatehandler_8h.html',1,'']]],
   ['ivstattributes_2eh',['ivstattributes.h',['../../vstinterfaces/ivstattributes_8h.html',1,'']]],

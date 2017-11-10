@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['kplatformstring',['kPlatformString',['../namespaceSteinberg.html#a45a730ec762ad31ab0e5c80e15560afc',1,'Steinberg']]],
   ['kplatformstringios',['kPlatformStringIOS',['../namespaceSteinberg.html#a0e747a3b854268949a75a1c8e8fd070c',1,'Steinberg']]],
   ['kplatformstringlinux',['kPlatformStringLinux',['../namespaceSteinberg.html#a1c13255fbcd5845d44bd45cc27bd3586',1,'Steinberg']]],
   ['kplatformstringmac',['kPlatformStringMac',['../namespaceSteinberg.html#ad5ffc071fd688ac833b5283777037278',1,'Steinberg']]],

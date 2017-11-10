@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['noteexpressiontypeid',['NoteExpressionTypeID',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e',1,'Steinberg::Vst']]],
-  ['noteexpressionvalue',['NoteExpressionValue',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a9e134142463a8ca477018e7f2c3220f5',1,'Steinberg::Vst']]],
-  ['notes',['Notes',['../classEventListCheck.html#a1c3f77724d761c9817647c72fa8d64aa',1,'EventListCheck']]]
+  ['mediatype',['MediaType',['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'Steinberg::Vst::MediaType()'],['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'MediaType()(Global Namespace)']]],
+  ['module',['Module',['../classSteinberg_1_1Vst_1_1Validator.html#ab626c416deed7a37c2f1e52f754d4bd3',1,'Steinberg::Vst::Validator']]]
 ];

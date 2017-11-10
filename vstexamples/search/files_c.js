@@ -13,5 +13,13 @@ var searchData=
   ['note_5ftouch_5fcontroller_2eh',['note_touch_controller.h',['../note__touch__controller_8h.html',1,'']]],
   ['nsdataibstream_2eh',['NSDataIBStream.h',['../../vstsdk/NSDataIBStream_8h.html',1,'']]],
   ['nsdataibstream_2emm',['NSDataIBStream.mm',['../../vstsdk/NSDataIBStream_8mm.html',1,'']]],
+  ['plug_2ecpp',['plug.cpp',['../note__expression__text_2source_2plug_8cpp.html',1,'']]],
+  ['plug_2eh',['plug.h',['../note__expression__text_2source_2plug_8h.html',1,'']]],
+  ['plugcids_2eh',['plugcids.h',['../note__expression__text_2source_2plugcids_8h.html',1,'']]],
+  ['plugcontroller_2ecpp',['plugcontroller.cpp',['../note__expression__text_2source_2plugcontroller_8cpp.html',1,'']]],
+  ['plugcontroller_2eh',['plugcontroller.h',['../note__expression__text_2source_2plugcontroller_8h.html',1,'']]],
+  ['plugentry_2ecpp',['plugentry.cpp',['../note__expression__text_2source_2plugentry_8cpp.html',1,'']]],
+  ['plugparamids_2eh',['plugparamids.h',['../note__expression__text_2source_2plugparamids_8h.html',1,'']]],
+  ['version_2eh',['version.h',['../note__expression__text_2source_2version_8h.html',1,'']]],
   ['version_2eh',['version.h',['../note__expression__synth_2source_2version_8h.html',1,'']]]
 ];

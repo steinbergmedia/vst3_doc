@@ -1,22 +1,24 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces. " alt="" coords="6,375,85,401"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1IAttributes.html" title="Object Data Archive Interface. " alt="" coords="164,4,239,30"/>
-<area shape="rect" id="node7" href="$classSteinberg_1_1IBStream.html" title="Base class for streams. " alt="" coords="166,54,237,80"/>
-<area shape="rect" id="node9" href="$classSteinberg_1_1ICloneable.html" title="Interface allowing an object to be copied. " alt="" coords="162,103,241,129"/>
-<area shape="rect" id="node11" href="$classSteinberg_1_1IDependent.html" title="A dependent will get notified about changes of a model. " alt="" coords="160,152,243,178"/>
-<area shape="rect" id="node13" href="$classSteinberg_1_1IErrorContext.html" title="Interface for error handling. " alt="" coords="155,202,248,228"/>
-<area shape="rect" id="node15" href="$classSteinberg_1_1IPersistent.html" title="Persistent Object Interface. " alt="" coords="162,251,240,277"/>
-<area shape="rect" id="node17" href="$classSteinberg_1_1IPlugFrame.html" title="Callback interface passed to IPlugView. " alt="" coords="160,300,243,326"/>
-<area shape="rect" id="node19" href="$classSteinberg_1_1IPlugFrameIdle.html" title="Extension to IPlugFrame. " alt="" coords="150,350,253,376"/>
-<area shape="rect" id="node21" href="$classSteinberg_1_1IPluginBase.html" title="Basic interface to a Plug&#45;in component. " alt="" coords="159,399,244,425"/>
-<area shape="rect" id="node23" href="$classSteinberg_1_1IPluginFactory.html" title="Class factory that any Plug&#45;in defines for creating class instances. " alt="" coords="152,448,250,474"/>
-<area shape="rect" id="node29" href="$classSteinberg_1_1IPlugView.html" title="Plug&#45;in definition of a view. " alt="" coords="164,498,239,524"/>
-<area shape="rect" id="node31" href="$classSteinberg_1_1IPlugViewIdleHandler.html" title="IPlugViewIdleHandler" alt="" coords="133,547,269,573"/>
-<area shape="rect" id="node33" href="$classSteinberg_1_1ISizeableStream.html" title="Stream with a size. " alt="" coords="147,596,256,622"/>
-<area shape="rect" id="node35" href="$classSteinberg_1_1IString.html" title="Interface to a string of variable size and encoding. " alt="" coords="173,646,229,672"/>
-<area shape="rect" id="node37" href="$classSteinberg_1_1IStringResult.html" title="Interface to return an ascii string of variable size. " alt="" coords="156,695,246,721"/>
-<area shape="rect" id="node39" href="$classSteinberg_1_1IUpdateHandler.html" title="Host implements dependency handling for plugins. " alt="" coords="149,744,254,770"/>
-<area shape="rect" id="node5" href="$classSteinberg_1_1IAttributes2.html" title="Extended access to Attributes; supports Attribute retrieval via iteration. " alt="" coords="330,4,412,30"/>
-<area shape="rect" id="node25" href="$classSteinberg_1_1IPluginFactory2.html" title="Version 2 of class factory supporting PClassInfo2. " alt="" coords="318,448,423,474"/>
-<area shape="rect" id="node27" href="$classSteinberg_1_1IPluginFactory3.html" title="Version 3 of class factory supporting PClassInfoW. " alt="" coords="473,448,578,474"/>
+<area shape="rect" id="node1" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces. " alt="" coords="6,424,85,450"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1IAttributes.html" title="Object Data Archive Interface. " alt="" coords="190,4,266,30"/>
+<area shape="rect" id="node7" href="$classSteinberg_1_1IBStream.html" title="Base class for streams. " alt="" coords="192,54,264,80"/>
+<area shape="rect" id="node9" href="$classSteinberg_1_1ICloneable.html" title="Interface allowing an object to be copied. " alt="" coords="189,103,267,129"/>
+<area shape="rect" id="node11" href="$classSteinberg_1_1IDependent.html" title="A dependent will get notified about changes of a model. " alt="" coords="186,152,270,178"/>
+<area shape="rect" id="node13" href="$classSteinberg_1_1IErrorContext.html" title="Interface for error handling. " alt="" coords="182,202,274,228"/>
+<area shape="rect" id="node15" href="$classSteinberg_1_1IPersistent.html" title="Persistent Object Interface. " alt="" coords="189,251,267,277"/>
+<area shape="rect" id="node17" href="$classSteinberg_1_1IPlugFrame.html" title="Callback interface passed to IPlugView. " alt="" coords="186,300,270,326"/>
+<area shape="rect" id="node19" href="$classSteinberg_1_1IPluginBase.html" title="Basic interface to a Plug&#45;in component. " alt="" coords="185,350,271,376"/>
+<area shape="rect" id="node21" href="$classSteinberg_1_1IPluginFactory.html" title="Class factory that any Plug&#45;in defines for creating class instances. " alt="" coords="179,399,277,425"/>
+<area shape="rect" id="node27" href="$classSteinberg_1_1IPlugView.html" title="Plug&#45;in definition of a view. " alt="" coords="191,448,265,474"/>
+<area shape="rect" id="node29" href="$classSteinberg_1_1IPlugViewContentScaleSupport.html" title="Plug&#45;in view content scale support. " alt="" coords="134,498,322,524"/>
+<area shape="rect" id="node31" href="$classSteinberg_1_1ISizeableStream.html" title="Stream with a size. " alt="" coords="173,547,283,573"/>
+<area shape="rect" id="node33" href="$classSteinberg_1_1IString.html" title="Interface to a string of variable size and encoding. " alt="" coords="200,596,256,622"/>
+<area shape="rect" id="node35" href="$classSteinberg_1_1IStringResult.html" title="Interface to return an ascii string of variable size. " alt="" coords="183,646,273,672"/>
+<area shape="rect" id="node37" href="$classSteinberg_1_1IUpdateHandler.html" title="Host implements dependency handling for plugins. " alt="" coords="175,695,281,721"/>
+<area shape="rect" id="node39" href="$classSteinberg_1_1Linux_1_1IEventHandler.html" title="Linux event handler interface. " alt="" coords="179,744,277,770"/>
+<area shape="rect" id="node41" href="$classSteinberg_1_1Linux_1_1IRunLoop.html" title="Linux host run loop interface. " alt="" coords="191,794,265,820"/>
+<area shape="rect" id="node43" href="$classSteinberg_1_1Linux_1_1ITimerHandler.html" title="Linux timer handler interface. " alt="" coords="180,843,276,869"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1IAttributes2.html" title="Extended access to Attributes; supports Attribute retrieval via iteration. " alt="" coords="383,4,465,30"/>
+<area shape="rect" id="node23" href="$classSteinberg_1_1IPluginFactory2.html" title="Version 2 of class factory supporting PClassInfo2. " alt="" coords="372,399,476,425"/>
+<area shape="rect" id="node25" href="$classSteinberg_1_1IPluginFactory3.html" title="Version 3 of class factory supporting PClassInfoW. " alt="" coords="526,399,631,425"/>
 </map>

@@ -21,6 +21,7 @@ var searchData=
   ['conststringtable_2ecpp',['conststringtable.cpp',['../conststringtable_8cpp.html',1,'']]],
   ['conststringtable_2eh',['conststringtable.h',['../conststringtable_8h.html',1,'']]],
   ['copyto',['copyTo',['../classSteinberg_1_1UString.html#a1372f0527ea276e275d9dfda80572fbe',1,'Steinberg::UString']]],
+  ['coreiids_2ecpp',['coreiids.cpp',['../coreiids_8cpp.html',1,'']]],
   ['countattributes',['countAttributes',['../classSteinberg_1_1IAttributes2.html#afab9fceccb1640882d1a4d112b2c5b96',1,'Steinberg::IAttributes2']]],
   ['countclasses',['countClasses',['../classSteinberg_1_1IPluginFactory.html#a64f4f0e4c87d82b5a44d654f4addb960',1,'Steinberg::IPluginFactory']]],
   ['createinstance',['createInstance',['../classSteinberg_1_1IPluginFactory.html#a26a0c88f3703edf621060667eab3eb1f',1,'Steinberg::IPluginFactory']]],

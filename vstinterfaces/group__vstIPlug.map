@@ -1,9 +1,11 @@
 <map id="VST 3 Interfaces to be implemented by the Plug&#45;in" name="VST 3 Interfaces to be implemented by the Plug&#45;in">
-<area shape="rect" id="node1" href="$group__vstIHost.html" title="VST 3 Interfaces to\l be implemented by the Host" alt="" coords="390,28,564,67"/>
-<area shape="rect" id="node3" href="$group__vst300.html" title="VST 3 Interfaces defined\l in version 3.0.0" alt="" coords="401,176,554,215"/>
-<area shape="rect" id="node4" href="$group__vst301.html" title="VST 3 Interfaces defined\l in version 3.0.1" alt="" coords="401,240,554,279"/>
-<area shape="rect" id="node5" href="$group__vst310.html" title="VST 3 Interfaces defined\l in version 3.1.0" alt="" coords="401,308,554,347"/>
-<area shape="rect" id="node6" href="$group__vst350.html" title="VST 3 Interfaces defined\l in version 3.5.0" alt="" coords="401,476,554,515"/>
-<area shape="rect" id="node7" href="$group__vst360.html" title="VST 3 Interfaces defined\l in version 3.6.0" alt="" coords="401,561,554,601"/>
-<area shape="rect" id="node8" href="$group__vst365.html" title="VST 3 Interfaces defined\l in version 3.6.5" alt="" coords="401,646,554,686"/>
+<area shape="rect" id="node1" href="$group__vstIHost.html" title="VST 3 Interfaces to\l be implemented by the Host" alt="" coords="390,32,564,71"/>
+<area shape="rect" id="node3" href="$group__vst300.html" title="VST 3 Interfaces defined\l in version 3.0.0" alt="" coords="401,193,554,233"/>
+<area shape="rect" id="node4" href="$group__vst301.html" title="VST 3 Interfaces defined\l in version 3.0.1" alt="" coords="401,257,554,297"/>
+<area shape="rect" id="node5" href="$group__vst310.html" title="VST 3 Interfaces defined\l in version 3.1.0" alt="" coords="401,325,554,365"/>
+<area shape="rect" id="node6" href="$group__vst350.html" title="VST 3 Interfaces defined\l in version 3.5.0" alt="" coords="401,493,554,533"/>
+<area shape="rect" id="node7" href="$group__vst360.html" title="VST 3 Interfaces defined\l in version 3.6.0" alt="" coords="401,578,554,618"/>
+<area shape="rect" id="node8" href="$group__vst365.html" title="VST 3 Interfaces defined\l in version 3.6.5" alt="" coords="401,662,554,702"/>
+<area shape="rect" id="node9" href="$group__vst366.html" title="VST 3 Interfaces defined\l in version 3.6.6" alt="" coords="401,726,554,766"/>
+<area shape="rect" id="node10" href="$group__pluginGUI.html" title="Graphical User Interface" alt="" coords="402,804,553,830"/>
 </map>

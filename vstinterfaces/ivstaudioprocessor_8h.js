@@ -1,0 +1,56 @@
+var ivstaudioprocessor_8h =
+[
+    [ "ProcessSetup", "structSteinberg_1_1Vst_1_1ProcessSetup.html", "structSteinberg_1_1Vst_1_1ProcessSetup" ],
+    [ "AudioBusBuffers", "structSteinberg_1_1Vst_1_1AudioBusBuffers.html", "structSteinberg_1_1Vst_1_1AudioBusBuffers" ],
+    [ "ProcessData", "structSteinberg_1_1Vst_1_1ProcessData.html", "structSteinberg_1_1Vst_1_1ProcessData" ],
+    [ "kVstAudioEffectClass", "ivstaudioprocessor_8h.html#ae55c95a44e931e1cd78998c94bc65ee1", null ],
+    [ "ComponentFlags", "ivstaudioprocessor_8h.html#a626a070dcd2e025250f41b9c3f9817cd", [
+      [ "kDistributable", "ivstaudioprocessor_8h.html#a626a070dcd2e025250f41b9c3f9817cda3185111648c1599241528f1a7f523396", null ],
+      [ "kSimpleModeSupported", "ivstaudioprocessor_8h.html#a626a070dcd2e025250f41b9c3f9817cdabc2edc9bb281cebe9cc6dc00a7cac0ea", null ]
+    ] ],
+    [ "SymbolicSampleSizes", "ivstaudioprocessor_8h.html#addd8f2e89ed5a540c9fce2c002f35c06", [
+      [ "kSample32", "ivstaudioprocessor_8h.html#addd8f2e89ed5a540c9fce2c002f35c06a199093967f5a183f86bf92bd7e61e31f", null ],
+      [ "kSample64", "ivstaudioprocessor_8h.html#addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900", null ]
+    ] ],
+    [ "ProcessModes", "ivstaudioprocessor_8h.html#ae514554bd822c5370bf9496c70302e31", [
+      [ "kRealtime", "ivstaudioprocessor_8h.html#ae514554bd822c5370bf9496c70302e31af21cd390d9ad5f7929f3f0a3ab972e13", null ],
+      [ "kPrefetch", "ivstaudioprocessor_8h.html#ae514554bd822c5370bf9496c70302e31a3b1caa5d658939c027cbb7759358a88a", null ],
+      [ "kOffline", "ivstaudioprocessor_8h.html#ae514554bd822c5370bf9496c70302e31a27042cfd9e04c874beea670ee64ac9ab", null ]
+    ] ],
+    [ "kFxAnalyzer", "ivstaudioprocessor_8h.html#ga1c5f3f4e7d5210a9d81e6dcd76c79c67", null ],
+    [ "kFxDelay", "ivstaudioprocessor_8h.html#gae3635bf778d4382234cbcfc30d71db16", null ],
+    [ "kFxDistortion", "ivstaudioprocessor_8h.html#gac923ee5b5ba8b5bddb285aad2be3ff35", null ],
+    [ "kFxDynamics", "ivstaudioprocessor_8h.html#gaa892f409ac4c930c1af59459372c167b", null ],
+    [ "kFxEQ", "ivstaudioprocessor_8h.html#gae94c37234a2f8bc1c54f85e4d70ad1a2", null ],
+    [ "kFxFilter", "ivstaudioprocessor_8h.html#gaa7061a3bd7a1ef48e14f97503e6c0b2b", null ],
+    [ "kFx", "ivstaudioprocessor_8h.html#ga0411b97bcc13d604e738a28aee43bb61", null ],
+    [ "kFxInstrument", "ivstaudioprocessor_8h.html#gabe030351fd22d14dad35c817e1849f59", null ],
+    [ "kFxInstrumentExternal", "ivstaudioprocessor_8h.html#ga21938bb5dc145f05b8a08669e7a74be5", null ],
+    [ "kFxSpatial", "ivstaudioprocessor_8h.html#gaf5d6ce751eff5e1825c2e9cbf6de68a0", null ],
+    [ "kFxGenerator", "ivstaudioprocessor_8h.html#ga09060af560cf34b87e14d5dbd839ad52", null ],
+    [ "kFxMastering", "ivstaudioprocessor_8h.html#ga80ed69d85e565772a138ead6b8feff70", null ],
+    [ "kFxModulation", "ivstaudioprocessor_8h.html#gaf7fec6a731df379ba73e26bcd72d6f9a", null ],
+    [ "kFxPitchShift", "ivstaudioprocessor_8h.html#ga2b2725f60cbf68e604c85b125937f553", null ],
+    [ "kFxRestoration", "ivstaudioprocessor_8h.html#gaf2357711fdb99757b6fd3248cbc4ac15", null ],
+    [ "kFxReverb", "ivstaudioprocessor_8h.html#gae45eb21e5afa4a9b2a4e5c789fcac18d", null ],
+    [ "kFxSurround", "ivstaudioprocessor_8h.html#gad51565b155d38402b8660fca0d78927f", null ],
+    [ "kFxTools", "ivstaudioprocessor_8h.html#ga610bd26a1a9c791feeb94c3a01b85a3e", null ],
+    [ "kFxNetwork", "ivstaudioprocessor_8h.html#ga1644feff4e06fa14952bf64ee211003f", null ],
+    [ "kInstrument", "ivstaudioprocessor_8h.html#ga93cb7a7100ac96cfafceb6216770c42d", null ],
+    [ "kInstrumentDrum", "ivstaudioprocessor_8h.html#gadf01865c24020885cb974f200403351c", null ],
+    [ "kInstrumentSampler", "ivstaudioprocessor_8h.html#ga1a96d4882dec6d6cc809c6881456dafa", null ],
+    [ "kInstrumentSynth", "ivstaudioprocessor_8h.html#ga42c97cd14b97a2ea3052cc62ecc833f3", null ],
+    [ "kInstrumentSynthSampler", "ivstaudioprocessor_8h.html#gaa63699396d2e24978ad7a0f32f1a7187", null ],
+    [ "kInstrumentExternal", "ivstaudioprocessor_8h.html#gaf0e00ca5cee8c5b4319fb7789bb4b919", null ],
+    [ "kSpatial", "ivstaudioprocessor_8h.html#gaa334568999d986b4e50627646e51a8b4", null ],
+    [ "kSpatialFx", "ivstaudioprocessor_8h.html#ga9439d03e5e14fb7a35976d2e37f34e31", null ],
+    [ "kOnlyRealTime", "ivstaudioprocessor_8h.html#gae58eb0aafa16197f12c1a61428fd5584", null ],
+    [ "kOnlyOfflineProcess", "ivstaudioprocessor_8h.html#ga0181f4f0a361e99c4afa139b47e3642d", null ],
+    [ "kNoOfflineProcess", "ivstaudioprocessor_8h.html#ga1e894c4b97ff99e52706cf3a67c35627", null ],
+    [ "kUpDownMix", "ivstaudioprocessor_8h.html#ga9b7a9613e51e1f218461d3167dd50306", null ],
+    [ "kAnalyzer", "ivstaudioprocessor_8h.html#gadbe2a7d21efd81fbae4bb86fa428e900", null ],
+    [ "kAmbisonic", "ivstaudioprocessor_8h.html#ga4abfdcef8f46cd006b6a4b78c936235e", null ],
+    [ "kMono", "ivstaudioprocessor_8h.html#gad515322344056aab9256d76a6787eb42", null ],
+    [ "kStereo", "ivstaudioprocessor_8h.html#gae8acdf9398f33322690596dc2d00318f", null ],
+    [ "kSurround", "ivstaudioprocessor_8h.html#ga6e4cc6e531ad93aa1d60021b82dcdbe9", null ]
+];

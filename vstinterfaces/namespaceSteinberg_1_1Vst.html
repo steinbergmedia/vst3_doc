@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li class="current"><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -68,12 +75,27 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="namespacemembers.html"><span>Namespace&#160;Members</span></a></li>
     </ul>
   </div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('namespaceSteinberg_1_1Vst.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -82,15 +104,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
-<div id="nav-path" class="navpath">
-  <ul>
-<li class="navelem"><a class="el" href="namespaceSteinberg.html">Steinberg</a></li><li class="navelem"><a class="el" href="namespaceSteinberg_1_1Vst.html">Vst</a></li>  </ul>
-</div>
-</div><!-- top -->
 <div class="header">
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#nested-classes">Data Structures</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
@@ -136,7 +153,7 @@ Namespaces</h2></td></tr>
 <tr class="memdesc:namespaceSteinberg_1_1Vst_1_1MusicalStyle"><td class="mdescLeft">&#160;</td><td class="mdescRight">Predefined Musical Style. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespaceSteinberg_1_1Vst_1_1PlugType"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst_1_1PlugType.html">PlugType</a></td></tr>
-<tr class="memdesc:namespaceSteinberg_1_1Vst_1_1PlugType"><td class="mdescLeft">&#160;</td><td class="mdescRight">Component Types used as subCategories in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a>. <br /></td></tr>
+<tr class="memdesc:namespaceSteinberg_1_1Vst_1_1PlugType"><td class="mdescLeft">&#160;</td><td class="mdescRight">Component Types used as subCategories in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a>. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespaceSteinberg_1_1Vst_1_1PresetAttributes"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst_1_1PresetAttributes.html">PresetAttributes</a></td></tr>
 <tr class="memdesc:namespaceSteinberg_1_1Vst_1_1PresetAttributes"><td class="mdescLeft">&#160;</td><td class="mdescRight">Predefined Preset <a class="el" href="namespaceSteinberg_1_1Vst_1_1Attributes.html" title="Attributes used to defined a Layer in a VST XML Representation. ">Attributes</a>. <br /></td></tr>
@@ -152,12 +169,12 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
-Data Structures</h2></td></tr>
+Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html">AudioBusBuffers</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Processing buffers of an audio bus.  <a href="structSteinberg_1_1Vst_1_1AudioBusBuffers.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1BusInfo.html">BusInfo</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bus Description.  <a href="structSteinberg_1_1Vst_1_1BusInfo.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structSteinberg_1_1Vst_1_1BusInfo.html" title="BusInfo: This is the structure used with getBusInfo, informing the host about what is a specific give...">BusInfo</a>: This is the structure used with getBusInfo, informing the host about what is a specific given bus.  <a href="structSteinberg_1_1Vst_1_1BusInfo.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1Chord.html">Chord</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Description of a chord.  <a href="structSteinberg_1_1Vst_1_1Chord.html#details">More...</a><br /></td></tr>
@@ -197,6 +214,9 @@ Data Structures</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler3.html">IComponentHandler3</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extended Host callback interface <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler3.html" title="Extended Host callback interface IComponentHandler3 for an edit controller. ">IComponentHandler3</a> for an edit controller.  <a href="classSteinberg_1_1Vst_1_1IComponentHandler3.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandlerBusActivation.html">IComponentHandlerBusActivation</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extended Host callback interface <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandlerBusActivation.html" title="Extended Host callback interface IComponentHandlerBusActivation for an edit controller. ">IComponentHandlerBusActivation</a> for an edit controller.  <a href="classSteinberg_1_1Vst_1_1IComponentHandlerBusActivation.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IConnectionPoint.html">IConnectionPoint</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Connect a component with another one.  <a href="classSteinberg_1_1Vst_1_1IConnectionPoint.html#details">More...</a><br /></td></tr>
@@ -247,7 +267,7 @@ Data Structures</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">All parameter changes of a processing block.  <a href="classSteinberg_1_1Vst_1_1IParameterChanges.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IParameterFinder.html">IParameterFinder</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extension for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1IPlugView.html">IPlugView</a> to find view parameters (lookup value under mouse support)  <a href="classSteinberg_1_1Vst_1_1IParameterFinder.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extension for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1IPlugView.html" title="Plug-in definition of a view. ">IPlugView</a> to find view parameters (lookup value under mouse support)  <a href="classSteinberg_1_1Vst_1_1IParameterFinder.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html">IParamValueQueue</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Queue of changes for a specific parameter.  <a href="classSteinberg_1_1Vst_1_1IParamValueQueue.html#details">More...</a><br /></td></tr>
@@ -272,6 +292,9 @@ Data Structures</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html">IUnitInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Edit controller extension to describe the Plug-in structure.  <a href="classSteinberg_1_1Vst_1_1IUnitInfo.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html">IVst3ToAAXWrapper</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">VST 3 to AAX Wrapper Interface.  <a href="classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html">IVst3ToAUWrapper</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">VST 3 to AU Wrapper Interface.  <a href="classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html#details">More...</a><br /></td></tr>
@@ -325,7 +348,7 @@ Data Structures</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="structSteinberg_1_1Vst_1_1RepresentationInfo.html" title="RepresentationInfo is the structure describing a representation This structure is used in the functio...">RepresentationInfo</a> is the structure describing a representation This structure is used in the function.  <a href="structSteinberg_1_1Vst_1_1RepresentationInfo.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1RoutingInfo.html">RoutingInfo</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Routing Information.  <a href="structSteinberg_1_1Vst_1_1RoutingInfo.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Routing Information: When the Plug-in supports multiple I/O buses, a host may want to know how the buses are related.  <a href="structSteinberg_1_1Vst_1_1RoutingInfo.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ScaleEvent.html">ScaleEvent</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Scale event specific data.  <a href="structSteinberg_1_1Vst_1_1ScaleEvent.html#details">More...</a><br /></td></tr>
@@ -336,60 +359,60 @@ Data Structures</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a98965411c9e542b7c2a99a46c8c1dfa2"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a98965411c9e542b7c2a99a46c8c1dfa2">KnobMode</a></td></tr>
+<tr class="memitem:a98965411c9e542b7c2a99a46c8c1dfa2"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a98965411c9e542b7c2a99a46c8c1dfa2">KnobMode</a></td></tr>
 <tr class="memdesc:a98965411c9e542b7c2a99a46c8c1dfa2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Knob Mode.  <a href="#a98965411c9e542b7c2a99a46c8c1dfa2">More...</a><br /></td></tr>
 <tr class="separator:a98965411c9e542b7c2a99a46c8c1dfa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f6dd3f1f6742382e7301c1db5587a4e"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e">NoteExpressionTypeID</a></td></tr>
+<tr class="memitem:a1f6dd3f1f6742382e7301c1db5587a4e"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e">NoteExpressionTypeID</a></td></tr>
 <tr class="separator:a1f6dd3f1f6742382e7301c1db5587a4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e134142463a8ca477018e7f2c3220f5"><td class="memItemLeft" align="right" valign="top">typedef double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a9e134142463a8ca477018e7f2c3220f5">NoteExpressionValue</a></td></tr>
 <tr class="separator:a9e134142463a8ca477018e7f2c3220f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62cc12c76af32650e16a6920962ddbf1"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a62cc12c76af32650e16a6920962ddbf1">KeyswitchTypeID</a></td></tr>
+<tr class="memitem:a62cc12c76af32650e16a6920962ddbf1"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a62cc12c76af32650e16a6920962ddbf1">KeyswitchTypeID</a></td></tr>
 <tr class="separator:a62cc12c76af32650e16a6920962ddbf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8cd3dd5ea75e76ace81fd1a696544378"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a8cd3dd5ea75e76ace81fd1a696544378">PrefetchableSupport</a></td></tr>
+<tr class="memitem:a8cd3dd5ea75e76ace81fd1a696544378"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a8cd3dd5ea75e76ace81fd1a696544378">PrefetchableSupport</a></td></tr>
 <tr class="separator:a8cd3dd5ea75e76ace81fd1a696544378"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga9cc7040d53a88b14ecab90ffb052276d"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ad12e102dc50c08aa3136349a56e76fd3">char16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a></td></tr>
+<tr class="memitem:ga9cc7040d53a88b14ecab90ffb052276d"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ad12e102dc50c08aa3136349a56e76fd3">char16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a></td></tr>
 <tr class="memdesc:ga9cc7040d53a88b14ecab90ffb052276d"><td class="mdescLeft">&#160;</td><td class="mdescRight">UTF-16 character.  <a href="group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">More...</a><br /></td></tr>
 <tr class="separator:ga9cc7040d53a88b14ecab90ffb052276d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga4b750afeaca8056101ac7952543dfd47"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d">TChar</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> [128]</td></tr>
 <tr class="memdesc:ga4b750afeaca8056101ac7952543dfd47"><td class="mdescLeft">&#160;</td><td class="mdescRight">128 character UTF-16 string  <a href="group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">More...</a><br /></td></tr>
 <tr class="separator:ga4b750afeaca8056101ac7952543dfd47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaf857b729bfca1b912196dd4ff5421420"><td class="memItemLeft" align="right" valign="top">typedef const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86">char8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaf857b729bfca1b912196dd4ff5421420">CString</a></td></tr>
+<tr class="memitem:gaf857b729bfca1b912196dd4ff5421420"><td class="memItemLeft" align="right" valign="top">typedef const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86">char8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaf857b729bfca1b912196dd4ff5421420">CString</a></td></tr>
 <tr class="memdesc:gaf857b729bfca1b912196dd4ff5421420"><td class="mdescLeft">&#160;</td><td class="mdescRight">C-String.  <a href="group__vst3typedef.html#gaf857b729bfca1b912196dd4ff5421420">More...</a><br /></td></tr>
 <tr class="separator:gaf857b729bfca1b912196dd4ff5421420"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga5f0d28213b308d786ef7a1541d88368f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f">MediaType</a></td></tr>
+<tr class="memitem:ga5f0d28213b308d786ef7a1541d88368f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f">MediaType</a></td></tr>
 <tr class="memdesc:ga5f0d28213b308d786ef7a1541d88368f"><td class="mdescLeft">&#160;</td><td class="mdescRight">media type (audio/event)  <a href="group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f">More...</a><br /></td></tr>
 <tr class="separator:ga5f0d28213b308d786ef7a1541d88368f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0dc035dac7916366d61df365731f7b63"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga0dc035dac7916366d61df365731f7b63">BusDirection</a></td></tr>
+<tr class="memitem:ga0dc035dac7916366d61df365731f7b63"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga0dc035dac7916366d61df365731f7b63">BusDirection</a></td></tr>
 <tr class="memdesc:ga0dc035dac7916366d61df365731f7b63"><td class="mdescLeft">&#160;</td><td class="mdescRight">bus direction (in/out)  <a href="group__vst3typedef.html#ga0dc035dac7916366d61df365731f7b63">More...</a><br /></td></tr>
 <tr class="separator:ga0dc035dac7916366d61df365731f7b63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa6029db01759d30cfcb3504b84d5d04f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaa6029db01759d30cfcb3504b84d5d04f">BusType</a></td></tr>
+<tr class="memitem:gaa6029db01759d30cfcb3504b84d5d04f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaa6029db01759d30cfcb3504b84d5d04f">BusType</a></td></tr>
 <tr class="memdesc:gaa6029db01759d30cfcb3504b84d5d04f"><td class="mdescLeft">&#160;</td><td class="mdescRight">bus type (main/aux)  <a href="group__vst3typedef.html#gaa6029db01759d30cfcb3504b84d5d04f">More...</a><br /></td></tr>
 <tr class="separator:gaa6029db01759d30cfcb3504b84d5d04f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga479361a38cb42c6a07bc6845a5801e55"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga479361a38cb42c6a07bc6845a5801e55">IoMode</a></td></tr>
+<tr class="memitem:ga479361a38cb42c6a07bc6845a5801e55"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga479361a38cb42c6a07bc6845a5801e55">IoMode</a></td></tr>
 <tr class="memdesc:ga479361a38cb42c6a07bc6845a5801e55"><td class="mdescLeft">&#160;</td><td class="mdescRight">I/O mode.  <a href="group__vst3typedef.html#ga479361a38cb42c6a07bc6845a5801e55">More...</a><br /></td></tr>
 <tr class="separator:ga479361a38cb42c6a07bc6845a5801e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga6569c340fc68115670ee0161dd73b3ed"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a></td></tr>
+<tr class="memitem:ga6569c340fc68115670ee0161dd73b3ed"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a></td></tr>
 <tr class="memdesc:ga6569c340fc68115670ee0161dd73b3ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">unit identifier  <a href="group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">More...</a><br /></td></tr>
 <tr class="separator:ga6569c340fc68115670ee0161dd73b3ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga11508dccaa352a24d0ae6585a93f4641"><td class="memItemLeft" align="right" valign="top">typedef double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a></td></tr>
 <tr class="memdesc:ga11508dccaa352a24d0ae6585a93f4641"><td class="mdescLeft">&#160;</td><td class="mdescRight">parameter value type  <a href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">More...</a><br /></td></tr>
 <tr class="separator:ga11508dccaa352a24d0ae6585a93f4641"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga1dac5893f4a5c27f986d4e51741b544c"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a></td></tr>
+<tr class="memitem:ga1dac5893f4a5c27f986d4e51741b544c"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">ParamID</a></td></tr>
 <tr class="memdesc:ga1dac5893f4a5c27f986d4e51741b544c"><td class="mdescLeft">&#160;</td><td class="mdescRight">parameter identifier  <a href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c">More...</a><br /></td></tr>
 <tr class="separator:ga1dac5893f4a5c27f986d4e51741b544c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaac31a9d9a63927ad6927f2a298888c22"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a></td></tr>
+<tr class="memitem:gaac31a9d9a63927ad6927f2a298888c22"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a></td></tr>
 <tr class="memdesc:gaac31a9d9a63927ad6927f2a298888c22"><td class="mdescLeft">&#160;</td><td class="mdescRight">program list identifier  <a href="group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">More...</a><br /></td></tr>
 <tr class="separator:gaac31a9d9a63927ad6927f2a298888c22"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa67d0906fec66282a0c9488cb52162f6"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a4355d16fcf9f644c9ac84293f0b1801f">int16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaa67d0906fec66282a0c9488cb52162f6">CtrlNumber</a></td></tr>
+<tr class="memitem:gaa67d0906fec66282a0c9488cb52162f6"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a4355d16fcf9f644c9ac84293f0b1801f">int16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gaa67d0906fec66282a0c9488cb52162f6">CtrlNumber</a></td></tr>
 <tr class="memdesc:gaa67d0906fec66282a0c9488cb52162f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">MIDI controller number (see <a class="el" href="namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6">ControllerNumbers</a> for allowed values)  <a href="group__vst3typedef.html#gaa67d0906fec66282a0c9488cb52162f6">More...</a><br /></td></tr>
 <tr class="separator:gaa67d0906fec66282a0c9488cb52162f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gabf70aac64179b2b47bd877600a2e8c28"><td class="memItemLeft" align="right" valign="top">typedef double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28">TQuarterNotes</a></td></tr>
 <tr class="memdesc:gabf70aac64179b2b47bd877600a2e8c28"><td class="mdescLeft">&#160;</td><td class="mdescRight">time expressed in quarter notes  <a href="group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28">More...</a><br /></td></tr>
 <tr class="separator:gabf70aac64179b2b47bd877600a2e8c28"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gad2e841097395dbff119029f4684dad8f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#aecfc3c54bd29ad5964e1c1c3ccbf89df">int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f">TSamples</a></td></tr>
+<tr class="memitem:gad2e841097395dbff119029f4684dad8f"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#aecfc3c54bd29ad5964e1c1c3ccbf89df">int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f">TSamples</a></td></tr>
 <tr class="memdesc:gad2e841097395dbff119029f4684dad8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">time expressed in audio samples  <a href="group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f">More...</a><br /></td></tr>
 <tr class="separator:gad2e841097395dbff119029f4684dad8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga5b13d028fba1eee386ec9ac208c6238d"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga5b13d028fba1eee386ec9ac208c6238d">ColorSpec</a></td></tr>
+<tr class="memitem:ga5b13d028fba1eee386ec9ac208c6238d"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga5b13d028fba1eee386ec9ac208c6238d">ColorSpec</a></td></tr>
 <tr class="memdesc:ga5b13d028fba1eee386ec9ac208c6238d"><td class="mdescLeft">&#160;</td><td class="mdescRight">color defining by 4 component ARGB value (Alpha/Red/Green/Blue)  <a href="group__vst3typedef.html#ga5b13d028fba1eee386ec9ac208c6238d">More...</a><br /></td></tr>
 <tr class="separator:ga5b13d028fba1eee386ec9ac208c6238d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga353ad4086d31e4b7c57c9124965379a6"><td class="memItemLeft" align="right" valign="top">typedef float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga353ad4086d31e4b7c57c9124965379a6">Sample32</a></td></tr>
@@ -401,10 +424,10 @@ Typedefs</h2></td></tr>
 <tr class="memitem:ga11249ca544d179e7fa61b2200a092407"><td class="memItemLeft" align="right" valign="top">typedef double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407">SampleRate</a></td></tr>
 <tr class="memdesc:ga11249ca544d179e7fa61b2200a092407"><td class="mdescLeft">&#160;</td><td class="mdescRight">sample rate  <a href="group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407">More...</a><br /></td></tr>
 <tr class="separator:ga11249ca544d179e7fa61b2200a092407"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga54884a26d0b6dfa18eb919ea004775ac"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga54884a26d0b6dfa18eb919ea004775ac">SpeakerArrangement</a></td></tr>
+<tr class="memitem:ga54884a26d0b6dfa18eb919ea004775ac"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga54884a26d0b6dfa18eb919ea004775ac">SpeakerArrangement</a></td></tr>
 <tr class="memdesc:ga54884a26d0b6dfa18eb919ea004775ac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bitset of speakers.  <a href="group__speakerArrangements.html#ga54884a26d0b6dfa18eb919ea004775ac">More...</a><br /></td></tr>
 <tr class="separator:ga54884a26d0b6dfa18eb919ea004775ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga7a9fc6561fe897989fa3cea09ebb3250"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a></td></tr>
+<tr class="memitem:ga7a9fc6561fe897989fa3cea09ebb3250"><td class="memItemLeft" align="right" valign="top">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a></td></tr>
 <tr class="memdesc:ga7a9fc6561fe897989fa3cea09ebb3250"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bit for one speaker.  <a href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">More...</a><br /></td></tr>
 <tr class="separator:ga7a9fc6561fe897989fa3cea09ebb3250"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -589,8 +612,8 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">kDefaultFactoryFlags</a> = <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td></tr>
-<tr class="memdesc:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Standard value for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb">PFactoryInfo::flags</a>.  <a href="#a45d3e3dfb2fb99bbc186e4d9749f04ed">More...</a><br /></td></tr>
+<tr class="memitem:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">kDefaultFactoryFlags</a> = <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td></tr>
+<tr class="memdesc:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Standard value for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb">PFactoryInfo::flags</a>.  <a href="#a45d3e3dfb2fb99bbc186e4d9749f04ed">More...</a><br /></td></tr>
 <tr class="separator:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga851521dbd075cd021659099076c16157"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga851521dbd075cd021659099076c16157">kSpeakerL</a> = 1 &lt;&lt; 0</td></tr>
 <tr class="memdesc:ga851521dbd075cd021659099076c16157"><td class="mdescLeft">&#160;</td><td class="mdescRight">Speaker Definitions.  <a href="group__speakerArrangements.html#ga851521dbd075cd021659099076c16157">More...</a><br /></td></tr>
@@ -655,18 +678,54 @@ Variables</h2></td></tr>
 <tr class="memitem:ga5756399f47d692e0e5e587bcc8a06a9d"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga5756399f47d692e0e5e587bcc8a06a9d">kSpeakerM</a> = 1 &lt;&lt; 19</td></tr>
 <tr class="memdesc:ga5756399f47d692e0e5e587bcc8a06a9d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mono (M)  <a href="group__speakerArrangements.html#ga5756399f47d692e0e5e587bcc8a06a9d">More...</a><br /></td></tr>
 <tr class="separator:ga5756399f47d692e0e5e587bcc8a06a9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga74bc55608435bdfd690634768269607b"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga74bc55608435bdfd690634768269607b">kSpeakerW</a> = 1 &lt;&lt; 20</td></tr>
-<tr class="memdesc:ga74bc55608435bdfd690634768269607b"><td class="mdescLeft">&#160;</td><td class="mdescRight">B-Format W.  <a href="group__speakerArrangements.html#ga74bc55608435bdfd690634768269607b">More...</a><br /></td></tr>
-<tr class="separator:ga74bc55608435bdfd690634768269607b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga96ad07e593be8c0801adaa19994225c6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga96ad07e593be8c0801adaa19994225c6">kSpeakerX</a> = 1 &lt;&lt; 21</td></tr>
-<tr class="memdesc:ga96ad07e593be8c0801adaa19994225c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">B-Format X.  <a href="group__speakerArrangements.html#ga96ad07e593be8c0801adaa19994225c6">More...</a><br /></td></tr>
-<tr class="separator:ga96ad07e593be8c0801adaa19994225c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa3c5fe33b5315a6205c6a76596584d1f"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#gaa3c5fe33b5315a6205c6a76596584d1f">kSpeakerY</a> = 1 &lt;&lt; 22</td></tr>
-<tr class="memdesc:gaa3c5fe33b5315a6205c6a76596584d1f"><td class="mdescLeft">&#160;</td><td class="mdescRight">B-Format Y.  <a href="group__speakerArrangements.html#gaa3c5fe33b5315a6205c6a76596584d1f">More...</a><br /></td></tr>
-<tr class="separator:gaa3c5fe33b5315a6205c6a76596584d1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga2d5d470e4abab2cca2eff61d52bf3c64"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga2d5d470e4abab2cca2eff61d52bf3c64">kSpeakerZ</a> = 1 &lt;&lt; 23</td></tr>
-<tr class="memdesc:ga2d5d470e4abab2cca2eff61d52bf3c64"><td class="mdescLeft">&#160;</td><td class="mdescRight">B-Format Z.  <a href="group__speakerArrangements.html#ga2d5d470e4abab2cca2eff61d52bf3c64">More...</a><br /></td></tr>
-<tr class="separator:ga2d5d470e4abab2cca2eff61d52bf3c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga00ba599749f21d817eb4721f10d16ab7"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga00ba599749f21d817eb4721f10d16ab7">kSpeakerACN0</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 20</td></tr>
+<tr class="memdesc:ga00ba599749f21d817eb4721f10d16ab7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 0.  <a href="group__speakerArrangements.html#ga00ba599749f21d817eb4721f10d16ab7">More...</a><br /></td></tr>
+<tr class="separator:ga00ba599749f21d817eb4721f10d16ab7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gad03f321035ce5552ec0a8145a147585b"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#gad03f321035ce5552ec0a8145a147585b">kSpeakerACN1</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 21</td></tr>
+<tr class="memdesc:gad03f321035ce5552ec0a8145a147585b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 1.  <a href="group__speakerArrangements.html#gad03f321035ce5552ec0a8145a147585b">More...</a><br /></td></tr>
+<tr class="separator:gad03f321035ce5552ec0a8145a147585b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga55be9946868c6ffe425dbdd9abc70843"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga55be9946868c6ffe425dbdd9abc70843">kSpeakerACN2</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 22</td></tr>
+<tr class="memdesc:ga55be9946868c6ffe425dbdd9abc70843"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 2.  <a href="group__speakerArrangements.html#ga55be9946868c6ffe425dbdd9abc70843">More...</a><br /></td></tr>
+<tr class="separator:ga55be9946868c6ffe425dbdd9abc70843"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga4b0a12de443ae669b9dce39400837571"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga4b0a12de443ae669b9dce39400837571">kSpeakerACN3</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 23</td></tr>
+<tr class="memdesc:ga4b0a12de443ae669b9dce39400837571"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 3.  <a href="group__speakerArrangements.html#ga4b0a12de443ae669b9dce39400837571">More...</a><br /></td></tr>
+<tr class="separator:ga4b0a12de443ae669b9dce39400837571"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6f4ffe7c8d6138ddeb7c93dc971ffa1c"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga6f4ffe7c8d6138ddeb7c93dc971ffa1c">kSpeakerACN4</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 38</td></tr>
+<tr class="memdesc:ga6f4ffe7c8d6138ddeb7c93dc971ffa1c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 4.  <a href="group__speakerArrangements.html#ga6f4ffe7c8d6138ddeb7c93dc971ffa1c">More...</a><br /></td></tr>
+<tr class="separator:ga6f4ffe7c8d6138ddeb7c93dc971ffa1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6fad4bb1852d158b0aee5a5b324750de"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga6fad4bb1852d158b0aee5a5b324750de">kSpeakerACN5</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 39</td></tr>
+<tr class="memdesc:ga6fad4bb1852d158b0aee5a5b324750de"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 5.  <a href="group__speakerArrangements.html#ga6fad4bb1852d158b0aee5a5b324750de">More...</a><br /></td></tr>
+<tr class="separator:ga6fad4bb1852d158b0aee5a5b324750de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga38bd79e07efa7b1b2825a614e25e597e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga38bd79e07efa7b1b2825a614e25e597e">kSpeakerACN6</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 40</td></tr>
+<tr class="memdesc:ga38bd79e07efa7b1b2825a614e25e597e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 6.  <a href="group__speakerArrangements.html#ga38bd79e07efa7b1b2825a614e25e597e">More...</a><br /></td></tr>
+<tr class="separator:ga38bd79e07efa7b1b2825a614e25e597e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga7da30e8a25cd20fc4b44a292368092fc"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga7da30e8a25cd20fc4b44a292368092fc">kSpeakerACN7</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 41</td></tr>
+<tr class="memdesc:ga7da30e8a25cd20fc4b44a292368092fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 7.  <a href="group__speakerArrangements.html#ga7da30e8a25cd20fc4b44a292368092fc">More...</a><br /></td></tr>
+<tr class="separator:ga7da30e8a25cd20fc4b44a292368092fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga4d03f739a3250bd1cf51152ca75390ea"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga4d03f739a3250bd1cf51152ca75390ea">kSpeakerACN8</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 42</td></tr>
+<tr class="memdesc:ga4d03f739a3250bd1cf51152ca75390ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 8.  <a href="group__speakerArrangements.html#ga4d03f739a3250bd1cf51152ca75390ea">More...</a><br /></td></tr>
+<tr class="separator:ga4d03f739a3250bd1cf51152ca75390ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6d70109a287e2108ea5e9e6e020185d0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga6d70109a287e2108ea5e9e6e020185d0">kSpeakerACN9</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 43</td></tr>
+<tr class="memdesc:ga6d70109a287e2108ea5e9e6e020185d0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 9.  <a href="group__speakerArrangements.html#ga6d70109a287e2108ea5e9e6e020185d0">More...</a><br /></td></tr>
+<tr class="separator:ga6d70109a287e2108ea5e9e6e020185d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga1a373406598a8f7208d98e94a039d377"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga1a373406598a8f7208d98e94a039d377">kSpeakerACN10</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 44</td></tr>
+<tr class="memdesc:ga1a373406598a8f7208d98e94a039d377"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 10.  <a href="group__speakerArrangements.html#ga1a373406598a8f7208d98e94a039d377">More...</a><br /></td></tr>
+<tr class="separator:ga1a373406598a8f7208d98e94a039d377"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga2a834a6c97df49e2fa45315ff7045533"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga2a834a6c97df49e2fa45315ff7045533">kSpeakerACN11</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 45</td></tr>
+<tr class="memdesc:ga2a834a6c97df49e2fa45315ff7045533"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 11.  <a href="group__speakerArrangements.html#ga2a834a6c97df49e2fa45315ff7045533">More...</a><br /></td></tr>
+<tr class="separator:ga2a834a6c97df49e2fa45315ff7045533"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga9cf6c4325c79c1b83ced8529fa7aa4cf"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga9cf6c4325c79c1b83ced8529fa7aa4cf">kSpeakerACN12</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 46</td></tr>
+<tr class="memdesc:ga9cf6c4325c79c1b83ced8529fa7aa4cf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 12.  <a href="group__speakerArrangements.html#ga9cf6c4325c79c1b83ced8529fa7aa4cf">More...</a><br /></td></tr>
+<tr class="separator:ga9cf6c4325c79c1b83ced8529fa7aa4cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga1604729c414047881e20341108871354"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga1604729c414047881e20341108871354">kSpeakerACN13</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 47</td></tr>
+<tr class="memdesc:ga1604729c414047881e20341108871354"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 13.  <a href="group__speakerArrangements.html#ga1604729c414047881e20341108871354">More...</a><br /></td></tr>
+<tr class="separator:ga1604729c414047881e20341108871354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga3633546c0ee46e3c70c52843faf722e6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga3633546c0ee46e3c70c52843faf722e6">kSpeakerACN14</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 48</td></tr>
+<tr class="memdesc:ga3633546c0ee46e3c70c52843faf722e6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 14.  <a href="group__speakerArrangements.html#ga3633546c0ee46e3c70c52843faf722e6">More...</a><br /></td></tr>
+<tr class="separator:ga3633546c0ee46e3c70c52843faf722e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gae7a63dcd11e24560783142099359dca4"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#gae7a63dcd11e24560783142099359dca4">kSpeakerACN15</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 49</td></tr>
+<tr class="memdesc:gae7a63dcd11e24560783142099359dca4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ambisonic ACN 15.  <a href="group__speakerArrangements.html#gae7a63dcd11e24560783142099359dca4">More...</a><br /></td></tr>
+<tr class="separator:gae7a63dcd11e24560783142099359dca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gae27ef071e8ea85bdb2d5e35cb72c4313"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#gae27ef071e8ea85bdb2d5e35cb72c4313">kSpeakerTsl</a> = 1 &lt;&lt; 24</td></tr>
 <tr class="memdesc:gae27ef071e8ea85bdb2d5e35cb72c4313"><td class="mdescLeft">&#160;</td><td class="mdescRight">Top Side Left (Tsl)  <a href="group__speakerArrangements.html#gae27ef071e8ea85bdb2d5e35cb72c4313">More...</a><br /></td></tr>
 <tr class="separator:gae27ef071e8ea85bdb2d5e35cb72c4313"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -694,6 +753,21 @@ Variables</h2></td></tr>
 <tr class="memitem:ga5fb93993f0b3c038be5073e228dbb2b7"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga5fb93993f0b3c038be5073e228dbb2b7">kSpeakerPr</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 32</td></tr>
 <tr class="memdesc:ga5fb93993f0b3c038be5073e228dbb2b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Proximity Right (Pr)  <a href="group__speakerArrangements.html#ga5fb93993f0b3c038be5073e228dbb2b7">More...</a><br /></td></tr>
 <tr class="separator:ga5fb93993f0b3c038be5073e228dbb2b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga509a5cd9d9498ef62bdbce91425522f5"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga509a5cd9d9498ef62bdbce91425522f5">kSpeakerBsl</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 33</td></tr>
+<tr class="memdesc:ga509a5cd9d9498ef62bdbce91425522f5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bottom Side Left (Bsl)  <a href="group__speakerArrangements.html#ga509a5cd9d9498ef62bdbce91425522f5">More...</a><br /></td></tr>
+<tr class="separator:ga509a5cd9d9498ef62bdbce91425522f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga541bc43dc24e1a4d36ef35220c5c8ac2"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga541bc43dc24e1a4d36ef35220c5c8ac2">kSpeakerBsr</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 34</td></tr>
+<tr class="memdesc:ga541bc43dc24e1a4d36ef35220c5c8ac2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bottom Side Right (Bsr)  <a href="group__speakerArrangements.html#ga541bc43dc24e1a4d36ef35220c5c8ac2">More...</a><br /></td></tr>
+<tr class="separator:ga541bc43dc24e1a4d36ef35220c5c8ac2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga7932bc1e145b3d3c9d2d8b771dfe7626"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga7932bc1e145b3d3c9d2d8b771dfe7626">kSpeakerBrl</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 35</td></tr>
+<tr class="memdesc:ga7932bc1e145b3d3c9d2d8b771dfe7626"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bottom Rear Left (Brl)  <a href="group__speakerArrangements.html#ga7932bc1e145b3d3c9d2d8b771dfe7626">More...</a><br /></td></tr>
+<tr class="separator:ga7932bc1e145b3d3c9d2d8b771dfe7626"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gaa8f469e8c1955c1aea25d0e6ad85b18e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#gaa8f469e8c1955c1aea25d0e6ad85b18e">kSpeakerBrc</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 36</td></tr>
+<tr class="memdesc:gaa8f469e8c1955c1aea25d0e6ad85b18e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bottom Rear Center (Brc)  <a href="group__speakerArrangements.html#gaa8f469e8c1955c1aea25d0e6ad85b18e">More...</a><br /></td></tr>
+<tr class="separator:gaa8f469e8c1955c1aea25d0e6ad85b18e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga3818a39d5d27234b78a6dfa41385c749"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__speakerArrangements.html#ga3818a39d5d27234b78a6dfa41385c749">kSpeakerBrr</a> = (<a class="el" href="group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250">Speaker</a>)1 &lt;&lt; 37</td></tr>
+<tr class="memdesc:ga3818a39d5d27234b78a6dfa41385c749"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bottom Rear Right (Brr)  <a href="group__speakerArrangements.html#ga3818a39d5d27234b78a6dfa41385c749">More...</a><br /></td></tr>
+<tr class="separator:ga3818a39d5d27234b78a6dfa41385c749"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>All VST specific interfaces are located in <a class="el" href="namespaceSteinberg_1_1Vst.html" title="All VST specific interfaces are located in Vst namespace. ">Vst</a> namespace. </p>
@@ -703,7 +777,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a98965411c9e542b7c2a99a46c8c1dfa2">KnobMode</a></td>
+          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a98965411c9e542b7c2a99a46c8c1dfa2">KnobMode</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -717,7 +791,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e">NoteExpressionTypeID</a></td>
+          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e">NoteExpressionTypeID</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -741,7 +815,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a62cc12c76af32650e16a6920962ddbf1">KeyswitchTypeID</a></td>
+          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a62cc12c76af32650e16a6920962ddbf1">KeyswitchTypeID</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -753,7 +827,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a8cd3dd5ea75e76ace81fd1a696544378">PrefetchableSupport</a></td>
+          <td class="memname">typedef <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> <a class="el" href="namespaceSteinberg_1_1Vst.html#a8cd3dd5ea75e76ace81fd1a696544378">PrefetchableSupport</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -771,7 +845,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Component Flags used as classFlags in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a>. </p>
+<p>Component Flags used as classFlags in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a>. </p>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="a626a070dcd2e025250f41b9c3f9817cda3185111648c1599241528f1a7f523396"></a>kDistributable&#160;</td><td class="fielddoc">
 <p>Component can be run on remote computer. </p>
@@ -903,7 +977,7 @@ Variables</h2></td></tr>
 <dl class="section see"><dt>See also</dt><dd><a class="el" href="classSteinberg_1_1Vst_1_1IPrefetchableSupport.html" title="Indicates that the Plug-in could or not support Prefetch (dynamically). ">IPrefetchableSupport</a>) [SDK 3.6.1] </dd></dl>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d"></a>kRoutingInfoChanged&#160;</td><td class="fielddoc">
-<p><a class="el" href="structSteinberg_1_1Vst_1_1RoutingInfo.html" title="Routing Information. ">RoutingInfo</a> has changed (. </p>
+<p><a class="el" href="structSteinberg_1_1Vst_1_1RoutingInfo.html" title="Routing Information: When the Plug-in supports multiple I/O buses, a host may want to know how the bu...">RoutingInfo</a> has changed (. </p>
 <dl class="section see"><dt>See also</dt><dd><a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html" title="Component Base Interface. ">IComponent</a>) [SDK 3.6.6] </dd></dl>
 </td></tr>
 </table>
@@ -1263,16 +1337,17 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> kDefaultFactoryFlags = <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td>
+          <td class="memname">const <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> kDefaultFactoryFlags = <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Standard value for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb">PFactoryInfo::flags</a>. </p>
+<p>Standard value for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb">PFactoryInfo::flags</a>. </p>
 
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

@@ -90,6 +90,6 @@ var searchData=
   ['fscale',['fscale',['../classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a8b98a204283ed6ae9333cc68a9092e97',1,'Steinberg::Vst::mda::TestToneProcessor']]],
   ['fsus',['fsus',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a358a816f54ab0f2066dc089b1e14b572',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['fvuppmold',['fVuPPMOld',['../classSteinberg_1_1Vst_1_1AGain.html#ad26040642b7a7a3101a414385c259763',1,'Steinberg::Vst::AGain']]],
-  ['fx',['FX',['../classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html#a226d974d370bdeda67e69512d9310321',1,'Steinberg::Vst::mda::TalkBoxProcessor::FX()'],['../againentry_8cpp.html#a5b22b8428105605e67654e907261ab0a',1,'Fx():&#160;againentry.cpp'],['../prefetchablesupport_2source_2plugentry_8cpp.html#a0b0378024a341f5bb57b2e33ecdd08f9',1,'Fx():&#160;plugentry.cpp']]],
+  ['fx',['FX',['../classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html#a226d974d370bdeda67e69512d9310321',1,'Steinberg::Vst::mda::TalkBoxProcessor::FX()'],['../againentry_8cpp.html#a5b22b8428105605e67654e907261ab0a',1,'Fx():&#160;againentry.cpp'],['../prefetchablesupport_2source_2plugentry_8cpp.html#a0b0378024a341f5bb57b2e33ecdd08f9',1,'Fx():&#160;plugentry.cpp'],['../programchange_2source_2plugentry_8cpp.html#a03ad6af092cf43a7f45fd47eb11c1078',1,'Fx():&#160;plugentry.cpp']]],
   ['fzip',['fzip',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#af9882187ba7289aab8faecf7a211820e',1,'Steinberg::Vst::mda::JX10Processor']]]
 ];

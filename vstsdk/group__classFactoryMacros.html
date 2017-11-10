@@ -8,6 +8,13 @@
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -42,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -63,12 +70,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('group__classFactoryMacros.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Properties</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(12)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -164,9 +185,9 @@ Macros</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <b>Value:</b><div class="fragment"><div class="line"><span class="keyword">using namespace </span>Steinberg; <a class="code" href="pluginfactoryvst3_8h.html#af3a922cb183dcf388438f2d78b3865a0">\</a></div>
-<div class="line"><a class="code" href="pluginfactoryvst3_8h.html#af3a922cb183dcf388438f2d78b3865a0">	EXPORT_FACTORY</a> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1IPluginFactory.html">IPluginFactory</a>* PLUGIN_API <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/group__pluginBase.html#ga843ac97a36dfc717dadaa7192c7e8330">GetPluginFactory</a> () { \</div>
+<div class="line"><a class="code" href="pluginfactoryvst3_8h.html#af3a922cb183dcf388438f2d78b3865a0">	EXPORT_FACTORY</a> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1IPluginFactory.html">IPluginFactory</a>* PLUGIN_API <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/group__pluginBase.html#ga843ac97a36dfc717dadaa7192c7e8330">GetPluginFactory</a> () { \</div>
 <div class="line">    if (!gPluginFactory) \</div>
-<div class="line">    {   <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html">PFactoryInfo</a> factoryInfo (vendor,url,email,flags); \</div>
+<div class="line">    {   <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PFactoryInfo.html">PFactoryInfo</a> factoryInfo (vendor,url,email,flags); \</div>
 <div class="line">        gPluginFactory = <span class="keyword">new</span> <a class="code" href="classSteinberg_1_1CPluginFactory.html">CPluginFactory</a> (factoryInfo); \</div>
 <div class="ttc" id="structSteinberg_1_1PFactoryInfo_html"><div class="ttname"><a href="../base/structSteinberg_1_1PFactoryInfo.html">Steinberg::PFactoryInfo</a></div></div>
 <div class="ttc" id="classSteinberg_1_1CPluginFactory_html"><div class="ttname"><a href="classSteinberg_1_1CPluginFactory.html">Steinberg::CPluginFactory</a></div><div class="ttdoc">Default Class Factory implementation. </div><div class="ttdef"><b>Definition:</b> pluginfactoryvst3.h:48</div></div>
@@ -217,7 +238,7 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo.html">PClassInfo</a> componentClass (lcid,cardinality,category,name); \</div>
+<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo.html">PClassInfo</a> componentClass (lcid,cardinality,category,name); \</div>
 <div class="line">    gPluginFactory-&gt;registerClass (&amp;componentClass,createMethod); }</div>
 <div class="ttc" id="structSteinberg_1_1PClassInfo_html"><div class="ttname"><a href="../base/structSteinberg_1_1PClassInfo.html">Steinberg::PClassInfo</a></div></div>
 <div class="ttc" id="namespaceSteinberg_html_a32680add5f0b1c8a81e5b1c4cfe6a30c"><div class="ttname"><a href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a></div><div class="ttdeci">int8 TUID[16]</div></div>
@@ -265,7 +286,7 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">{ <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo.html">PClassInfo</a> componentClass (cid,cardinality,category,name); \</div>
+<b>Value:</b><div class="fragment"><div class="line">{ <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo.html">PClassInfo</a> componentClass (cid,cardinality,category,name); \</div>
 <div class="line">    gPluginFactory-&gt;registerClass (&amp;componentClass,createMethod); }</div>
 <div class="ttc" id="structSteinberg_1_1PClassInfo_html"><div class="ttname"><a href="../base/structSteinberg_1_1PClassInfo.html">Steinberg::PClassInfo</a></div></div>
 </div><!-- fragment -->
@@ -336,7 +357,7 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a> componentClass (lcid,cardinality,category,name,classFlags,subCategories, 0 ,version,sdkVersion);\</div>
+<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/structSteinberg_1_1PClassInfo2.html">PClassInfo2</a> componentClass (lcid,cardinality,category,name,classFlags,subCategories, 0 ,version,sdkVersion);\</div>
 <div class="line">    gPluginFactory-&gt;registerClass (&amp;componentClass,createMethod); }</div>
 <div class="ttc" id="structSteinberg_1_1PClassInfo2_html"><div class="ttname"><a href="../base/structSteinberg_1_1PClassInfo2.html">Steinberg::PClassInfo2</a></div></div>
 <div class="ttc" id="namespaceSteinberg_html_a32680add5f0b1c8a81e5b1c4cfe6a30c"><div class="ttname"><a href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a></div><div class="ttdeci">int8 TUID[16]</div></div>
@@ -408,7 +429,7 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> PClassInfoUnicode componentClass (lcid,cardinality,category,name,classFlags,subCategories, 0,version,sdkVersion);\</div>
+<b>Value:</b><div class="fragment"><div class="line">{ <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a> lcid = cid; <span class="keyword">static</span> PClassInfoUnicode componentClass (lcid,cardinality,category,name,classFlags,subCategories, 0,version,sdkVersion);\</div>
 <div class="line">    gPluginFactory-&gt;registerClass (&amp;componentClass,createMethod); }</div>
 <div class="ttc" id="namespaceSteinberg_html_a32680add5f0b1c8a81e5b1c4cfe6a30c"><div class="ttname"><a href="../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c">TUID</a></div><div class="ttdeci">int8 TUID[16]</div></div>
 </div><!-- fragment -->
@@ -423,13 +444,14 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">} <span class="keywordflow">else</span> gPluginFactory-&gt;<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">addRef</a> (); \</div>
+<b>Value:</b><div class="fragment"><div class="line">} <span class="keywordflow">else</span> gPluginFactory-&gt;<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">addRef</a> (); \</div>
 <div class="line">    return gPluginFactory; }</div>
 <div class="ttc" id="classSteinberg_1_1FUnknown_html_aaa3c5a2a5410d41153d7f5e3f4e0a635"><div class="ttname"><a href="../base/classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">Steinberg::FUnknown::addRef</a></div><div class="ttdeci">virtual uint32 addRef()=0</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

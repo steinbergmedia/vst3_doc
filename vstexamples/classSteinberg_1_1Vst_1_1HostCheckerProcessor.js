@@ -1,0 +1,27 @@
+var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
+[
+    [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a6597f3049abfd875de6339005caacc5f", null ],
+    [ "initialize", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
+    [ "process", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a2a13e09cc9ec3dd1b8617a38e3c07af5", null ],
+    [ "setupProcessing", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a754f2c1b5beff1179b96278344f1ef96", null ],
+    [ "setActive", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "notify", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a60bbab8211ead54d50dbb672be410342", null ],
+    [ "getTailSamples", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a2f5f13092735afd906695953628a602e", null ],
+    [ "canProcessSampleSize", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a1c7a40be692f5ed7f009896af248beed", null ],
+    [ "setState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a9228db732b48ece8b5b734e69b979d10", null ],
+    [ "getState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aee393393dc4dccf6e0b30a43380859b4", null ],
+    [ "sendLogEventMessage", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad990b6aadf707d63435e58dc9e339668", null ],
+    [ "setAudioPresentationLatencySamples", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aee99fc996654dfbb3e371d85f925ce15", null ],
+    [ "getPrefetchableSupport", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a41f2f903ceb464691f853ec06269767b", null ],
+    [ "DEF_INTERFACE", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a694e23add4075955df080b47c837be24", null ],
+    [ "addLogEvent", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a181b09f3964380df6a6c13669a4fe443", null ],
+    [ "informLatencyChanged", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a3d2c434afec1de448b62933f1819d988", null ],
+    [ "mHostCheck", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#af97f6f6a592f1fab3c8f81af699a0b99", null ],
+    [ "mBypassProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aff97b22fb27d01bea5efa7945a1bbccd", null ],
+    [ "mLastBlockMarkerValue", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ada49ef10ba1ab283b51c9feeeebaf8eb", null ],
+    [ "mNumNoteOns", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a67ca6088c256b04bb08a68badf4fcf00", null ],
+    [ "mLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aebb3bc994a79d305c48d82da0b14d437", null ],
+    [ "mWantedLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aed02d7ec62e586feebfa60bfbf6d46a9", null ],
+    [ "mGeneratePeaks", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad73b751920c09df1e9a2fd1ec37286c2", null ],
+    [ "mBypass", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aa09864e5d6f2062a14eb8ad2d1db297d", null ]
+];

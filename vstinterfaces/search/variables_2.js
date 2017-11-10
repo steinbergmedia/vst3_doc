@@ -19,7 +19,7 @@ var searchData=
   ['classinfo',['classInfo',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#a0c4daae75c9c796e333143d736bc766c',1,'Steinberg::Vst::PlugProvider']]],
   ['component',['component',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#abda27e260ba5fd0a31f038d57e2fab17',1,'Steinberg::Vst::PlugProvider']]],
   ['componentcp',['componentCP',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#aea3aa16cc1d285b2fc58eda39683fc8f',1,'Steinberg::Vst::PlugProvider']]],
-  ['componenthandler2',['componentHandler2',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a0055b7b0592368a6361a5cbcdf806501',1,'Steinberg::Vst::EditController']]],
+  ['componenthandler2',['componentHandler2',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a39488062cf0aeb73f2d0ca6be4e3d28f',1,'Steinberg::Vst::EditController']]],
   ['continoustimesamples',['continousTimeSamples',['../structSteinberg_1_1Vst_1_1ProcessContext.html#aa442da3063c73885d2f386deb479d870',1,'Steinberg::Vst::ProcessContext']]],
   ['controller',['controller',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a67dc2ffc34f15b2bf3623d385706f966',1,'Steinberg::Vst::EditorView::controller()'],['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#adec9a6f39ce77aa4383fef325929fb92',1,'Steinberg::Vst::PlugProvider::controller()'],['../../vstsdk/classSteinberg_1_1Vst_1_1VstTestBase.html#a41fc7431ae821e2bc34f1a767d20fcd3',1,'Steinberg::Vst::VstAutomationTest::controller()']]],
   ['controllercp',['controllerCP',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#a283a915b4c73ccad57dc6c0aca2fc224',1,'Steinberg::Vst::PlugProvider']]],

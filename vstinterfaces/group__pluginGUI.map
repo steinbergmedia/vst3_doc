@@ -1,0 +1,9 @@
+<map id="Graphical User Interface" name="Graphical User Interface">
+<area shape="rect" id="node1" href="$group__platformUIType.html" title="List of Platform UI types for IPlugView. " alt="" coords="390,4,506,30"/>
+<area shape="rect" id="node2" href="$group__vstIHost.html" title="VST 3 Interfaces to\l be implemented by the Host" alt="" coords="361,55,535,94"/>
+<area shape="rect" id="node3" href="$group__vstIPlug.html" title="VST 3 Interfaces to\l be implemented by the\l Plug&#45;in" alt="" coords="375,119,521,172"/>
+<area shape="rect" id="node4" href="$group__vst300.html" title="VST 3 Interfaces defined\l in version 3.0.0" alt="" coords="371,196,525,236"/>
+<area shape="rect" id="node5" href="$group__vst302.html" title="VST 3 Interfaces defined\l in version 3.0.2" alt="" coords="371,260,525,300"/>
+<area shape="rect" id="node6" href="$group__vst366.html" title="VST 3 Interfaces defined\l in version 3.6.6" alt="" coords="371,324,525,364"/>
+<area shape="rect" id="node7" href="$group__vst368.html" title="VST 3 Interfaces defined\l in version 3.6.8" alt="" coords="371,422,525,461"/>
+</map>

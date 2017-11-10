@@ -4,10 +4,17 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>Base Module: Globals</title>
+<title>Base Module: File Members</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+  $(window).load(resizeHeight);
+</script>
 <link href="search/search.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="search/search.js"></script>
 <script type="text/javascript">
@@ -23,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Base Module
-   &#160;<span id="projectnumber">VST 3.6.7</span>
+   &#160;<span id="projectnumber">VST 3.6.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -39,9 +46,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="modules.html"><span>Modules</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
-      <li><a href="annotated.html"><span>Data&#160;Structures</span></a></li>
+      <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
@@ -64,12 +70,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow2" class="tabs2">
     <ul class="tablist">
       <li><a href="files.html"><span>File&#160;List</span></a></li>
-      <li class="current"><a href="globals.html"><span>Globals</span></a></li>
+      <li class="current"><a href="globals.html"><span>File&#160;Members</span></a></li>
     </ul>
   </div>
   <div id="navrow3" class="tabs2">
     <ul class="tablist">
       <li><a href="globals.html"><span>All</span></a></li>
+      <li><a href="globals_type.html"><span>Typedefs</span></a></li>
       <li class="current"><a href="globals_defs.html"><span>Macros</span></a></li>
     </ul>
   </div>
@@ -93,12 +100,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     </ul>
   </div>
 </div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('globals_defs.html','');});
+</script>
+<div id="doc-content">
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Data Structures</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Groups</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -122,7 +143,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <h3><a class="anchor" id="index_a"></a>- a -</h3><ul>
 <li>ASSERT
-: <a class="el" href="fdebug_8h.html#a79da58dac9dcdbcd4005f1d440e363ba">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#af343b20373ba49a92fce523e948f2ab3">fdebug.h</a>
 </li>
 </ul>
 
@@ -171,11 +192,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>DBPRT5
 : <a class="el" href="fdebug_8h.html#a48286714bdcb0de021ab6a4bc8b49fd1">fdebug.h</a>
 </li>
-<li>DEBUG_LOCK
-: <a class="el" href="flock_8cpp.html#a7480a62cb6d1de6cc68d75ffc1d901bf">flock.cpp</a>
-</li>
 <li>DEBUGSTR
-: <a class="el" href="fdebug_8h.html#ae69e6846ddfd99b3f190961851c4503d">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#ad0a48883bb586ecd370427352cd3e017">fdebug.h</a>
 </li>
 <li>DEF_INTERFACE
 : <a class="el" href="fobject_8h.html#a53e7d200032b573e38e925748fdb89e3">fobject.h</a>
@@ -318,8 +336,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>SINGLETON
 : <a class="el" href="fobject_8h.html#a69f2b09f8941011cb853819558eff4a7">fobject.h</a>
 </li>
+<li>SMTG_ASSERT
+: <a class="el" href="fdebug_8h.html#afe9433f0fc5b657a2f73863c413d8690">fdebug.h</a>
+</li>
+<li>SMTG_DEBUGSTR
+: <a class="el" href="fdebug_8h.html#ac9bfa937bab4882709076060b7c00392">fdebug.h</a>
+</li>
 <li>SMTG_IS_TEST
 : <a class="el" href="fdebug_8h.html#a7d20c982526ebd75fb56ca5511380b4c">fdebug.h</a>
+</li>
+<li>SMTG_PRINTSYSERROR
+: <a class="el" href="fdebug_8h.html#aa58eec37e07b00b1ef4409319a6c1d48">fdebug.h</a>
 </li>
 <li>SMTG_STRING_CHECK_CONVERSION
 : <a class="el" href="fstring_8cpp.html#a4d8936bba50eec59bad21b4d3ba3ccd2">fstring.cpp</a>
@@ -329,6 +356,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </li>
 <li>SMTG_STRING_CHECK_MSG
 : <a class="el" href="fstring_8cpp.html#a31965eb0cfa7cfcf80410f2b94c40086">fstring.cpp</a>
+</li>
+<li>SMTG_VERIFY
+: <a class="el" href="fdebug_8h.html#ac9c56b9f1fc75b5e3738b1925418c949">fdebug.h</a>
+</li>
+<li>SMTG_VERIFY_IS
+: <a class="el" href="fdebug_8h.html#a520468517905bd79f5d9948759592773">fdebug.h</a>
+</li>
+<li>SMTG_VERIFY_NOT
+: <a class="el" href="fdebug_8h.html#a9fa41cf5abc4085415872f3ac6af6d5c">fdebug.h</a>
+</li>
+<li>SMTG_WARNING
+: <a class="el" href="fdebug_8h.html#a5e5a76c97ca0b07d2c08ce8de068cef3">fdebug.h</a>
 </li>
 <li>STRING8_MEMBER
 : <a class="el" href="fstdmethods_8h.html#a7f1231ffc827e3c4244a9b30c43ed5e2">fstdmethods.h</a>
@@ -347,23 +386,24 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <h3><a class="anchor" id="index_v"></a>- v -</h3><ul>
 <li>VERIFY
-: <a class="el" href="fdebug_8h.html#a5de907e07dd6433a750df8008c401755">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#ab64044259d5a2440725279dc7801f33e">fdebug.h</a>
 </li>
 <li>VERIFY_IS
-: <a class="el" href="fdebug_8h.html#a3bbad7c5d165445926888e1d4a7d7e76">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#a93c92efcb3b1c98a1ba51836017ebaad">fdebug.h</a>
 </li>
 <li>VERIFY_NOT
-: <a class="el" href="fdebug_8h.html#ab75274746844cb9543447f719c762f0f">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#accb3bda5a6288f9bf34cd6136c859473">fdebug.h</a>
 </li>
 </ul>
 
 
 <h3><a class="anchor" id="index_w"></a>- w -</h3><ul>
 <li>WARNING
-: <a class="el" href="fdebug_8h.html#a3dee4af8b0fd4925fc10f13a67ce61ba">fdebug.h</a>
+: <a class="el" href="fdebug_8h.html#a5cb439d9f933fde4cf23caa370c030e7">fdebug.h</a>
 </li>
 </ul>
 </div><!-- contents -->
+</div><!-- doc-content -->
 <html>
     <head>
 	    <title>Empty</title>

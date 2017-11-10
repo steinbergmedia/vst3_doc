@@ -7,7 +7,7 @@ var searchData=
   ['int16ptr',['int16Ptr',['../classSteinberg_1_1Buffer.html#a3948221f29d91cb858a4cceddc117390',1,'Steinberg::Buffer']]],
   ['int32ptr',['int32Ptr',['../classSteinberg_1_1Buffer.html#a571fa3f4781d2cdf4b5175b72a352598',1,'Steinberg::Buffer']]],
   ['int8ptr',['int8Ptr',['../classSteinberg_1_1Buffer.html#abf0e48e344b0cc8e2e719b12a29e194e',1,'Steinberg::Buffer']]],
-  ['isa',['isA',['../classSteinberg_1_1FLockObject.html#ace91ec0d351c50c9c1055c6d1c564517',1,'Steinberg::FLockObject::isA() const SMTG_OVERRIDE'],['../classSteinberg_1_1FLockObject.html#aa563bbb2a0eea088c585ed97f11ce69e',1,'Steinberg::FLockObject::isA(Steinberg::FClassID s) const SMTG_OVERRIDE'],['../classSteinberg_1_1FObject.html#a61cdbaf28157389877062a96a85eeb88',1,'Steinberg::FObject::isA() const '],['../classSteinberg_1_1FObject.html#a6f9af69d8deb84ca7c9f3dcd5a8c9e70',1,'Steinberg::FObject::isA(FClassID s) const ']]],
+  ['isa',['isA',['../classSteinberg_1_1FObject.html#a61cdbaf28157389877062a96a85eeb88',1,'Steinberg::FObject::isA() const '],['../classSteinberg_1_1FObject.html#a6f9af69d8deb84ca7c9f3dcd5a8c9e70',1,'Steinberg::FObject::isA(FClassID s) const ']]],
   ['isasciistring',['isAsciiString',['../classSteinberg_1_1ConstString.html#a295655282f71e36076d13d30fd8ed49c',1,'Steinberg::ConstString']]],
   ['ischaralpha',['isCharAlpha',['../classSteinberg_1_1ConstString.html#a6447bfca9b9d31ed9ce96a35fb987206',1,'Steinberg::ConstString::isCharAlpha(char8 character)'],['../classSteinberg_1_1ConstString.html#ac2291ddfae0133dedde40a26dbd51099',1,'Steinberg::ConstString::isCharAlpha(char16 character)']]],
   ['ischaralphanum',['isCharAlphaNum',['../classSteinberg_1_1ConstString.html#a2b48d0f2b9de6a59ee41f6029f030dfa',1,'Steinberg::ConstString::isCharAlphaNum(char8 character)'],['../classSteinberg_1_1ConstString.html#af748287f5024af4c82b3e6225660f88d',1,'Steinberg::ConstString::isCharAlphaNum(char16 character)']]],
@@ -18,11 +18,11 @@ var searchData=
   ['ischarupper',['isCharUpper',['../classSteinberg_1_1ConstString.html#a15c5156f789b384961e95ed427c62e9b',1,'Steinberg::ConstString::isCharUpper(char8 character)'],['../classSteinberg_1_1ConstString.html#a1735df81440afee9f39ffa303acfcc80',1,'Steinberg::ConstString::isCharUpper(char16 character)']]],
   ['isdigit',['isDigit',['../classSteinberg_1_1ConstString.html#a70bf0639db6a1f8738af56f7d3f68756',1,'Steinberg::ConstString']]],
   ['isempty',['isEmpty',['../classSteinberg_1_1ConstString.html#a479432127ee77145cc19d6a2d1590821',1,'Steinberg::ConstString']]],
-  ['isequalinstance',['isEqualInstance',['../classSteinberg_1_1FObject.html#aa719bd1d2cd364ea5f3eea2d465f958a',1,'Steinberg::FObject']]],
+  ['isequalinstance',['isEqualInstance',['../classSteinberg_1_1FObject.html#a5a7c5326199ffb542719387b078ed6da',1,'Steinberg::FObject']]],
   ['isfull',['isFull',['../classSteinberg_1_1Buffer.html#a7ffe8a6212a0eb3fc7bbc8e9bc51dfcd',1,'Steinberg::Buffer']]],
   ['isloaded',['isLoaded',['../classSteinberg_1_1FDynLibrary.html#a7ffa9fcfaa7e93495a34c760b8270731',1,'Steinberg::FDynLibrary']]],
   ['isnormalized',['isNormalized',['../classSteinberg_1_1ConstString.html#aabde9540d808cb7f31588d772c05cb30',1,'Steinberg::ConstString']]],
   ['isterminated',['isTerminated',['../namespaceSteinberg_1_1Singleton.html#a84acfabb69fd8f78cc6afad4301357b7',1,'Steinberg::Singleton']]],
-  ['istypeof',['isTypeOf',['../classSteinberg_1_1FLockObject.html#a7751d2e4dc5f4b240a218d585a74f5fa',1,'Steinberg::FLockObject::isTypeOf()'],['../classSteinberg_1_1FObject.html#a37fd18f3794dac0b78ae51253e2d4c25',1,'Steinberg::FObject::isTypeOf()']]],
+  ['istypeof',['isTypeOf',['../classSteinberg_1_1FObject.html#a37fd18f3794dac0b78ae51253e2d4c25',1,'Steinberg::FObject']]],
   ['iswidestring',['isWideString',['../classSteinberg_1_1ConstString.html#a9f51ffda3dea7bfd701b339d0cbc25ac',1,'Steinberg::ConstString::isWideString()'],['../classSteinberg_1_1StringObject.html#abe0c5776749310c92457109ed51ce23a',1,'Steinberg::StringObject::isWideString()']]]
 ];

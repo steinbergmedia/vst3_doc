@@ -6,6 +6,8 @@ var searchData=
   ['unprepare',['unprepare',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#af09fdb1736e7957252ac630096ef6357',1,'Steinberg::Vst::HostProcessData']]],
   ['unprepareprocessing',['unprepareProcessing',['../../vstsdk/classSteinberg_1_1Vst_1_1VstProcessTest.html#a34503c879cfca0506041bc273c97d9cb',1,'Steinberg::Vst::VstAutomationTest']]],
   ['unqueue',['unqueue',['../../base/classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568',1,'Steinberg::IAttributes']]],
+  ['unregistereventhandler',['unregisterEventHandler',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e',1,'Steinberg::Linux::IRunLoop']]],
+  ['unregistertimer',['unregisterTimer',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618',1,'Steinberg::Linux::IRunLoop']]],
   ['update',['update',['../../base/classSteinberg_1_1IDependent.html#a3d86c384d513182fbded4f128fc716be',1,'Steinberg::IDependent::update()'],['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#ad059d874e82bf94764760319e0d625fc',1,'Steinberg::Vst::EditControllerEx1::update()']]],
   ['url',['url',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#a3d1b81135890c4cc698ebec4217ed8c8',1,'VST3::Hosting::FactoryInfo']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3',1,'Steinberg::UString']]],

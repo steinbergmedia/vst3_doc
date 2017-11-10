@@ -15,6 +15,7 @@ var searchData=
   ['thisbuffer',['thisBuffer',['../../base/classSteinberg_1_1UString.html#a3c27fc65ab0075137e6846a73f0d5563',1,'Steinberg::UString']]],
   ['thissize',['thisSize',['../../base/classSteinberg_1_1UString.html#a59ceecccb2f1154af32e79123fa041f4',1,'Steinberg::UString']]],
   ['timer',['timer',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a',1,'Steinberg::Vst::VSTGUIEditor']]],
+  ['timerinterval',['TimerInterval',['../../base/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux']]],
   ['timesigdenominator',['timeSigDenominator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a7087d1fca166b09add2184085299de21',1,'Steinberg::Vst::ProcessContext']]],
   ['timesignumerator',['timeSigNumerator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a',1,'Steinberg::Vst::ProcessContext']]],
   ['title',['title',['../../vstinterfaces/structSteinberg_1_1Vst_1_1KeyswitchInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::KeyswitchInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::NoteExpressionTypeInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::ParameterInfo::title()']]],

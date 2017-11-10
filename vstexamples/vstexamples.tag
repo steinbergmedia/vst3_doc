@@ -2,38 +2,39 @@
 <tagfile>
   <compound kind="file">
     <name>adelaycontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelaycontroller_8cpp</filename>
     <includes id="adelaycontroller_8h" name="adelaycontroller.h" local="yes" imported="no">adelaycontroller.h</includes>
     <includes id="adelayids_8h" name="adelayids.h" local="yes" imported="no">adelayids.h</includes>
   </compound>
   <compound kind="file">
     <name>adelaycontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelaycontroller_8h</filename>
+    <class kind="class">Steinberg::Vst::IDelayTestController</class>
     <class kind="class">Steinberg::Vst::ADelayController</class>
   </compound>
   <compound kind="file">
     <name>adelayids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelayids_8h</filename>
   </compound>
   <compound kind="file">
     <name>adelayprocessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelayprocessor_8cpp</filename>
     <includes id="adelayprocessor_8h" name="adelayprocessor.h" local="yes" imported="no">adelayprocessor.h</includes>
     <includes id="adelayids_8h" name="adelayids.h" local="yes" imported="no">adelayids.h</includes>
   </compound>
   <compound kind="file">
     <name>adelayprocessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelayprocessor_8h</filename>
     <class kind="class">Steinberg::Vst::ADelayProcessor</class>
   </compound>
   <compound kind="file">
     <name>again.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>again_8cpp</filename>
     <includes id="again_8h" name="again.h" local="yes" imported="no">again.h</includes>
     <includes id="againprocess_8h" name="againprocess.h" local="yes" imported="no">againprocess.h</includes>
@@ -42,18 +43,18 @@
   </compound>
   <compound kind="file">
     <name>again.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>again_8h</filename>
     <class kind="class">Steinberg::Vst::AGain</class>
   </compound>
   <compound kind="file">
     <name>againcids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againcids_8h</filename>
   </compound>
   <compound kind="file">
     <name>againcontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againcontroller_8cpp</filename>
     <includes id="againcontroller_8h" name="againcontroller.h" local="yes" imported="no">againcontroller.h</includes>
     <includes id="againparamids_8h" name="againparamids.h" local="yes" imported="no">againparamids.h</includes>
@@ -61,14 +62,14 @@
   </compound>
   <compound kind="file">
     <name>againcontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againcontroller_8h</filename>
     <class kind="class">Steinberg::Vst::AGainUIMessageController</class>
     <class kind="class">Steinberg::Vst::AGainController</class>
   </compound>
   <compound kind="file">
     <name>againentry.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againentry_8cpp</filename>
     <includes id="again_8h" name="again.h" local="yes" imported="no">again.h</includes>
     <includes id="againsidechain_8h" name="againsidechain.h" local="yes" imported="no">againsidechain.h</includes>
@@ -148,7 +149,7 @@
   </compound>
   <compound kind="file">
     <name>againentry_vst2.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againentry__vst2_8cpp</filename>
     <includes id="againcids_8h" name="againcids.h" local="yes" imported="no">againcids.h</includes>
     <member kind="function">
@@ -161,38 +162,38 @@
   </compound>
   <compound kind="file">
     <name>againparamids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againparamids_8h</filename>
     <member kind="enumvalue">
       <type>@</type>
       <name>kGainId</name>
       <anchorfile>againparamids_8h.html</anchorfile>
-      <anchor>a06fc87d81c62e9abb8790b6e5713c55ba9006dde2a6fcecd0d0f30fdcaec1ec16</anchor>
+      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a9006dde2a6fcecd0d0f30fdcaec1ec16</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <type>@</type>
       <name>kVuPPMId</name>
       <anchorfile>againparamids_8h.html</anchorfile>
-      <anchor>a06fc87d81c62e9abb8790b6e5713c55bac89effee4c5c335b71019bc4a4fa1133</anchor>
+      <anchor>adf764cbdea00d65edcd07bb9953ad2b7ac89effee4c5c335b71019bc4a4fa1133</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <type>@</type>
       <name>kBypassId</name>
       <anchorfile>againparamids_8h.html</anchorfile>
-      <anchor>a06fc87d81c62e9abb8790b6e5713c55baf4e2f2cc267406eb8c152ecab32fd088</anchor>
+      <anchor>adf764cbdea00d65edcd07bb9953ad2b7af4e2f2cc267406eb8c152ecab32fd088</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>againprocess.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againprocess_8h</filename>
   </compound>
   <compound kind="file">
     <name>againsidechain.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againsidechain_8cpp</filename>
     <includes id="againsidechain_8h" name="againsidechain.h" local="yes" imported="no">againsidechain.h</includes>
     <includes id="againprocess_8h" name="againprocess.h" local="yes" imported="no">againprocess.h</includes>
@@ -201,45 +202,92 @@
   </compound>
   <compound kind="file">
     <name>againsidechain.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againsidechain_8h</filename>
     <includes id="again_8h" name="again.h" local="yes" imported="no">again.h</includes>
     <class kind="class">Steinberg::Vst::AGainWithSideChain</class>
   </compound>
   <compound kind="file">
     <name>againuimessagecontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
     <filename>againuimessagecontroller_8h</filename>
     <class kind="class">Steinberg::Vst::AGainUIMessageController</class>
   </compound>
   <compound kind="file">
+    <name>audiohost.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/source/</path>
+    <filename>audiohost_8cpp</filename>
+    <includes id="audiohost_8h" name="audiohost.h" local="yes" imported="no">public.sdk/samples/vst-hosting/audiohost/source/audiohost.h</includes>
+    <namespace>Steinberg::Vst::AudioHost</namespace>
+    <member kind="function">
+      <type>int</type>
+      <name>wmain</name>
+      <anchorfile>audiohost_8cpp.html</anchorfile>
+      <anchor>ae1325efcce4a4b1b4ea52247f0a0a0c1</anchor>
+      <arglist>(int argc, wchar_t *argv[])</arglist>
+    </member>
+  </compound>
+  <compound kind="file">
+    <name>audiohost.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/source/</path>
+    <filename>audiohost_8h</filename>
+    <class kind="class">Steinberg::Vst::AudioHost::App</class>
+    <namespace>Steinberg::Vst::AudioHost</namespace>
+  </compound>
+  <compound kind="file">
     <name>brownnoise.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>brownnoise_8h</filename>
     <class kind="class">Steinberg::Vst::NoteExpressionSynth::BrownNoise</class>
     <namespace>Steinberg::Vst::NoteExpressionSynth</namespace>
   </compound>
   <compound kind="file">
     <name>dirtyflagcontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>dirtyflagcontroller_8cpp</filename>
     <includes id="dirtyflagcontroller_8h" name="dirtyflagcontroller.h" local="yes" imported="no">dirtyflagcontroller.h</includes>
     <includes id="hostcheckercontroller_8h" name="hostcheckercontroller.h" local="yes" imported="no">hostcheckercontroller.h</includes>
   </compound>
   <compound kind="file">
     <name>dirtyflagcontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>dirtyflagcontroller_8h</filename>
     <class kind="class">Steinberg::Vst::DirtyFlagController</class>
   </compound>
   <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
+    <name>editorhost.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/source/</path>
+    <filename>editorhost_8cpp</filename>
+    <includes id="editorhost_8h" name="editorhost.h" local="yes" imported="no">public.sdk/samples/vst-hosting/editorhost/source/editorhost.h</includes>
+    <namespace>Steinberg::Vst::EditorHost</namespace>
+  </compound>
+  <compound kind="file">
+    <name>editorhost.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/source/</path>
+    <filename>editorhost_8h</filename>
+    <class kind="class">Steinberg::Vst::EditorHost::App</class>
+    <namespace>Steinberg::Vst::EditorHost</namespace>
+  </compound>
+  <compound kind="file">
+    <name>editorsizecontroller.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <filename>editorsizecontroller_8cpp</filename>
+    <includes id="editorsizecontroller_8h" name="editorsizecontroller.h" local="yes" imported="no">editorsizecontroller.h</includes>
+  </compound>
+  <compound kind="file">
+    <name>editorsizecontroller.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <filename>editorsizecontroller_8h</filename>
+    <class kind="class">Steinberg::Vst::EditorSizeController</class>
+  </compound>
+  <compound kind="file">
     <name>eventlistcheck.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlistcheck_8cpp</filename>
     <includes id="eventlistcheck_8h" name="eventlistcheck.h" local="yes" imported="no">eventlistcheck.h</includes>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
@@ -247,42 +295,40 @@
   </compound>
   <compound kind="file">
     <name>eventlistcheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlistcheck_8h</filename>
     <class kind="class">EventListCheck</class>
   </compound>
   <compound kind="file">
     <name>eventlogdatabrowsersource.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlogdatabrowsersource_8cpp</filename>
     <includes id="eventlogdatabrowsersource_8h" name="eventlogdatabrowsersource.h" local="yes" imported="no">eventlogdatabrowsersource.h</includes>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>eventlogdatabrowsersource.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlogdatabrowsersource_8h</filename>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
     <class kind="class">VSTGUI::EventLogDataBrowserSource</class>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>eventlogger.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlogger_8cpp</filename>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
   </compound>
   <compound kind="file">
     <name>eventlogger.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>eventlogger_8h</filename>
     <class kind="class">EventLogger</class>
   </compound>
   <compound kind="file">
     <name>exampletest.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>exampletest_8cpp</filename>
     <includes id="exampletest_8h" name="exampletest.h" local="yes" imported="no">exampletest.h</includes>
     <includes id="adelaycontroller_8h" name="adelaycontroller.h" local="yes" imported="no">adelaycontroller.h</includes>
@@ -290,14 +336,14 @@
   </compound>
   <compound kind="file">
     <name>exampletest.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>exampletest_8h</filename>
     <class kind="class">Steinberg::Vst::ADelayTest</class>
     <class kind="class">Steinberg::Vst::ADelayTestFactory</class>
   </compound>
   <compound kind="file">
     <name>adelay/source/factory.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelay_2source_2factory_8cpp</filename>
     <includes id="adelaycontroller_8h" name="adelaycontroller.h" local="yes" imported="no">adelaycontroller.h</includes>
     <includes id="adelayprocessor_8h" name="adelayprocessor.h" local="yes" imported="no">adelayprocessor.h</includes>
@@ -328,7 +374,7 @@
   </compound>
   <compound kind="file">
     <name>hostchecker/source/factory.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostchecker_2source_2factory_8cpp</filename>
     <includes id="hostcheckerprocessor_8h" name="hostcheckerprocessor.h" local="yes" imported="no">hostcheckerprocessor.h</includes>
     <includes id="hostcheckercontroller_8h" name="hostcheckercontroller.h" local="yes" imported="no">hostcheckercontroller.h</includes>
@@ -357,7 +403,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth/source/factory.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth_2source_2factory_8cpp</filename>
     <includes id="note__expression__synth__processor_8h" name="note_expression_synth_processor.h" local="yes" imported="no">note_expression_synth_processor.h</includes>
     <includes id="note__expression__synth__controller_8h" name="note_expression_synth_controller.h" local="yes" imported="no">note_expression_synth_controller.h</includes>
@@ -387,7 +433,7 @@
   </compound>
   <compound kind="file">
     <name>pitchnames/source/factory.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnames_2source_2factory_8cpp</filename>
     <includes id="pitchnames_8h" name="pitchnames.h" local="yes" imported="no">pitchnames.h</includes>
     <includes id="pitchnames_2source_2version_8h" name="pitchnames/source/version.h" local="yes" imported="no">version.h</includes>
@@ -415,7 +461,7 @@
   </compound>
   <compound kind="file">
     <name>filter.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>filter_8h</filename>
     <class kind="class">Steinberg::Vst::NoteExpressionSynth::Filter</class>
     <namespace>Steinberg::Vst::NoteExpressionSynth</namespace>
@@ -429,7 +475,7 @@
   </compound>
   <compound kind="file">
     <name>helpers.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>helpers_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -462,14 +508,14 @@
   </compound>
   <compound kind="file">
     <name>hostcheck.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheck_8cpp</filename>
     <includes id="hostcheck_8h" name="hostcheck.h" local="yes" imported="no">hostcheck.h</includes>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
   </compound>
   <compound kind="file">
     <name>hostcheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheck_8h</filename>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
@@ -481,16 +527,17 @@
   </compound>
   <compound kind="file">
     <name>hostcheckercontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheckercontroller_8cpp</filename>
     <includes id="hostcheckercontroller_8h" name="hostcheckercontroller.h" local="yes" imported="no">hostcheckercontroller.h</includes>
     <includes id="eventlogdatabrowsersource_8h" name="eventlogdatabrowsersource.h" local="yes" imported="no">eventlogdatabrowsersource.h</includes>
-    <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
+    <includes id="editorsizecontroller_8h" name="editorsizecontroller.h" local="yes" imported="no">editorsizecontroller.h</includes>
     <includes id="hostcheckerprocessor_8h" name="hostcheckerprocessor.h" local="yes" imported="no">hostcheckerprocessor.h</includes>
+    <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
   </compound>
   <compound kind="file">
     <name>hostcheckercontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheckercontroller_8h</filename>
     <includes id="eventlogdatabrowsersource_8h" name="eventlogdatabrowsersource.h" local="yes" imported="no">eventlogdatabrowsersource.h</includes>
     <includes id="hostcheck_8h" name="hostcheck.h" local="yes" imported="no">hostcheck.h</includes>
@@ -499,7 +546,7 @@
   </compound>
   <compound kind="file">
     <name>hostcheckerprocessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheckerprocessor_8cpp</filename>
     <includes id="hostcheckerprocessor_8h" name="hostcheckerprocessor.h" local="yes" imported="no">hostcheckerprocessor.h</includes>
     <includes id="hostcheckercontroller_8h" name="hostcheckercontroller.h" local="yes" imported="no">hostcheckercontroller.h</includes>
@@ -513,7 +560,7 @@
   </compound>
   <compound kind="file">
     <name>hostcheckerprocessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostcheckerprocessor_8h</filename>
     <includes id="hostcheck_8h" name="hostcheck.h" local="yes" imported="no">hostcheck.h</includes>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
@@ -521,7 +568,7 @@
   </compound>
   <compound kind="file">
     <name>logevents.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>logevents_8h</filename>
     <class kind="struct">LogEvent</class>
     <member kind="define">
@@ -694,6 +741,27 @@
     </member>
     <member kind="enumvalue">
       <type>@</type>
+      <name>kLogIdCanProcessSampleSize32</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46aa7e14181470bfb902fd7b2d61576e6b0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdCanProcessSampleSize64</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a32e02c954b712c7597b893717c4e6676</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdInvalidProcessContextSampleRate</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46acb67860eccd2ae0d167ab51c0dff17fb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
       <name>kLogIdNullPointerToChannelBuf</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46ae1e7066b76b319163016fb295fe87ca5</anchor>
@@ -841,13 +909,6 @@
     </member>
     <member kind="enumvalue">
       <type>@</type>
-      <name>kLogIdInvalidProcessContextSampleRate</name>
-      <anchorfile>logevents_8h.html</anchorfile>
-      <anchor>afc84f29132b630b33d341d0769a66d46acb67860eccd2ae0d167ab51c0dff17fb</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <type>@</type>
       <name>kLogIdInvalidParamValue</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46a328a9cf01b1397773be38d1c942bb6a3</anchor>
@@ -893,6 +954,27 @@
       <name>kLogIdParametersHaveSameSampleOffset</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46ae7f3dc2a418f6ea1bab85a972eda397e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIAttributeListInSetStateSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46ab097977874ae5e9bed9b65a775930054</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPrefetchableSupportSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46aa6e9ee7941dbfaa2697fb36147470c67</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdAudioPresentationLatencySamplesSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a0f126be06bac7a5f43c0f3c32bd6768f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -974,23 +1056,65 @@
     </member>
     <member kind="enumvalue">
       <type>@</type>
-      <name>kLogIdIAttributeListInSetStateSupported</name>
+      <name>kLogIdIPlugFrameonResizeViewSupported</name>
       <anchorfile>logevents_8h.html</anchorfile>
-      <anchor>afc84f29132b630b33d341d0769a66d46ab097977874ae5e9bed9b65a775930054</anchor>
+      <anchor>afc84f29132b630b33d341d0769a66d46a1aefcbcf0463d7bf0f8f7b7161f7a747</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <type>@</type>
-      <name>kLogIdAudioPresentationLatencySamplesSupported</name>
+      <name>kLogIdIPlugViewonSizeSupported</name>
       <anchorfile>logevents_8h.html</anchorfile>
-      <anchor>afc84f29132b630b33d341d0769a66d46a0f126be06bac7a5f43c0f3c32bd6768f</anchor>
+      <anchor>afc84f29132b630b33d341d0769a66d46a936d56540180b5f1ab5c981b354375b9</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <type>@</type>
-      <name>kLogIdIPrefetchableSupportSupported</name>
+      <name>kLogIdIPlugViewcanResizeSupported</name>
       <anchorfile>logevents_8h.html</anchorfile>
-      <anchor>afc84f29132b630b33d341d0769a66d46aa6e9ee7941dbfaa2697fb36147470c67</anchor>
+      <anchor>afc84f29132b630b33d341d0769a66d46af9c366449111f37cd95482993a6e0dca</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPlugViewcheckSizeConstraintSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a3cbb98fef5b3c02d57922500bcbf8e09</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPlugViewmultipleAttachSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46afcc95c47f081b009269f1136bd6ece46</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPlugViewNotCalled</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46ae60e595aa437c08884e7ece02c3d158d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPlugViewCalledAsync</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a4f95de0b10fb65dd04515513c5519538</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIPlugViewCalledSync</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46ac378b712a17479518fae523d789378c0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kLogIdIParameterFinderSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a1ed1e56eea06bb5be4b31c77f3ca3060</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -1003,14 +1127,14 @@
   </compound>
   <compound kind="file">
     <name>logscale.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
     <filename>logscale_8h</filename>
     <class kind="class">Steinberg::Vst::LogScale</class>
     <class kind="class">Steinberg::Vst::LogScaleParameter</class>
   </compound>
   <compound kind="file">
     <name>main.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/source/</path>
     <filename>main_8cpp</filename>
     <includes id="validator_8h" name="validator.h" local="yes" imported="no">validator.h</includes>
     <member kind="function">
@@ -1023,7 +1147,7 @@
   </compound>
   <compound kind="file">
     <name>main.m</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
     <filename>main_8m</filename>
     <includes id="VSTInterAppAudioAppDelegate_8h" name="VSTInterAppAudioAppDelegate.h" local="yes" imported="yes">VSTInterAppAudioAppDelegate.h</includes>
     <member kind="function">
@@ -1036,14 +1160,14 @@
   </compound>
   <compound kind="file">
     <name>mdaAmbienceController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaAmbienceController_8cpp</filename>
     <includes id="mdaAmbienceController_8h" name="mdaAmbienceController.h" local="yes" imported="no">mdaAmbienceController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaAmbienceController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaAmbienceController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaAmbienceProcessor_8h" name="mdaAmbienceProcessor.h" local="yes" imported="no">mdaAmbienceProcessor.h</includes>
@@ -1052,7 +1176,7 @@
   </compound>
   <compound kind="file">
     <name>mdaAmbienceProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaAmbienceProcessor_8cpp</filename>
     <includes id="mdaAmbienceProcessor_8h" name="mdaAmbienceProcessor.h" local="yes" imported="no">mdaAmbienceProcessor.h</includes>
     <includes id="mdaAmbienceController_8h" name="mdaAmbienceController.h" local="yes" imported="no">mdaAmbienceController.h</includes>
@@ -1060,7 +1184,7 @@
   </compound>
   <compound kind="file">
     <name>mdaAmbienceProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaAmbienceProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::AmbienceProcessor</class>
@@ -1068,14 +1192,14 @@
   </compound>
   <compound kind="file">
     <name>mdaBandistoController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBandistoController_8cpp</filename>
     <includes id="mdaBandistoController_8h" name="mdaBandistoController.h" local="yes" imported="no">mdaBandistoController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaBandistoController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBandistoController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaBandistoProcessor_8h" name="mdaBandistoProcessor.h" local="yes" imported="no">mdaBandistoProcessor.h</includes>
@@ -1084,7 +1208,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBandistoProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBandistoProcessor_8cpp</filename>
     <includes id="mdaBandistoProcessor_8h" name="mdaBandistoProcessor.h" local="yes" imported="no">mdaBandistoProcessor.h</includes>
     <includes id="mdaBandistoController_8h" name="mdaBandistoController.h" local="yes" imported="no">mdaBandistoController.h</includes>
@@ -1092,7 +1216,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBandistoProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBandistoProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::BandistoProcessor</class>
@@ -1100,7 +1224,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBaseController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBaseController_8cpp</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaParameter_8h" name="mdaParameter.h" local="yes" imported="no">mdaParameter.h</includes>
@@ -1109,7 +1233,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBaseController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBaseController_8h</filename>
     <includes id="mdaParameter_8h" name="mdaParameter.h" local="yes" imported="no">mdaParameter.h</includes>
     <class kind="class">Steinberg::Vst::mda::BaseController</class>
@@ -1117,7 +1241,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBaseProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBaseProcessor_8cpp</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
@@ -1133,21 +1257,21 @@
   </compound>
   <compound kind="file">
     <name>mdaBaseProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBaseProcessor_8h</filename>
     <class kind="class">Steinberg::Vst::mda::BaseProcessor</class>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaBeatBoxController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBeatBoxController_8cpp</filename>
     <includes id="mdaBeatBoxController_8h" name="mdaBeatBoxController.h" local="yes" imported="no">mdaBeatBoxController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaBeatBoxController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBeatBoxController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaBeatBoxProcessor_8h" name="mdaBeatBoxProcessor.h" local="yes" imported="no">mdaBeatBoxProcessor.h</includes>
@@ -1156,7 +1280,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBeatBoxProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBeatBoxProcessor_8cpp</filename>
     <includes id="mdaBeatBoxProcessor_8h" name="mdaBeatBoxProcessor.h" local="yes" imported="no">mdaBeatBoxProcessor.h</includes>
     <includes id="mdaBeatBoxController_8h" name="mdaBeatBoxController.h" local="yes" imported="no">mdaBeatBoxController.h</includes>
@@ -1164,7 +1288,7 @@
   </compound>
   <compound kind="file">
     <name>mdaBeatBoxProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaBeatBoxProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::BeatBoxProcessor</class>
@@ -1172,14 +1296,14 @@
   </compound>
   <compound kind="file">
     <name>mdaComboController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaComboController_8cpp</filename>
     <includes id="mdaComboController_8h" name="mdaComboController.h" local="yes" imported="no">mdaComboController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaComboController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaComboController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaComboProcessor_8h" name="mdaComboProcessor.h" local="yes" imported="no">mdaComboProcessor.h</includes>
@@ -1188,7 +1312,7 @@
   </compound>
   <compound kind="file">
     <name>mdaComboProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaComboProcessor_8cpp</filename>
     <includes id="mdaComboProcessor_8h" name="mdaComboProcessor.h" local="yes" imported="no">mdaComboProcessor.h</includes>
     <includes id="mdaComboController_8h" name="mdaComboController.h" local="yes" imported="no">mdaComboController.h</includes>
@@ -1196,7 +1320,7 @@
   </compound>
   <compound kind="file">
     <name>mdaComboProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaComboProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::ComboProcessor</class>
@@ -1204,14 +1328,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDeEsserController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDeEsserController_8cpp</filename>
     <includes id="mdaDeEsserController_8h" name="mdaDeEsserController.h" local="yes" imported="no">mdaDeEsserController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDeEsserController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDeEsserController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDeEsserProcessor_8h" name="mdaDeEsserProcessor.h" local="yes" imported="no">mdaDeEsserProcessor.h</includes>
@@ -1220,7 +1344,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDeEsserProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDeEsserProcessor_8cpp</filename>
     <includes id="mdaDeEsserProcessor_8h" name="mdaDeEsserProcessor.h" local="yes" imported="no">mdaDeEsserProcessor.h</includes>
     <includes id="mdaDeEsserController_8h" name="mdaDeEsserController.h" local="yes" imported="no">mdaDeEsserController.h</includes>
@@ -1228,7 +1352,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDeEsserProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDeEsserProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DeEsserProcessor</class>
@@ -1236,14 +1360,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDegradeController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDegradeController_8cpp</filename>
     <includes id="mdaDegradeController_8h" name="mdaDegradeController.h" local="yes" imported="no">mdaDegradeController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDegradeController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDegradeController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDegradeProcessor_8h" name="mdaDegradeProcessor.h" local="yes" imported="no">mdaDegradeProcessor.h</includes>
@@ -1252,7 +1376,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDegradeProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDegradeProcessor_8cpp</filename>
     <includes id="mdaDegradeProcessor_8h" name="mdaDegradeProcessor.h" local="yes" imported="no">mdaDegradeProcessor.h</includes>
     <includes id="mdaDegradeController_8h" name="mdaDegradeController.h" local="yes" imported="no">mdaDegradeController.h</includes>
@@ -1260,7 +1384,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDegradeProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDegradeProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DegradeProcessor</class>
@@ -1268,14 +1392,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDelayController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDelayController_8cpp</filename>
     <includes id="mdaDelayController_8h" name="mdaDelayController.h" local="yes" imported="no">mdaDelayController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDelayController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDelayController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDelayProcessor_8h" name="mdaDelayProcessor.h" local="yes" imported="no">mdaDelayProcessor.h</includes>
@@ -1284,7 +1408,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDelayProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDelayProcessor_8cpp</filename>
     <includes id="mdaDelayProcessor_8h" name="mdaDelayProcessor.h" local="yes" imported="no">mdaDelayProcessor.h</includes>
     <includes id="mdaDelayController_8h" name="mdaDelayController.h" local="yes" imported="no">mdaDelayController.h</includes>
@@ -1292,7 +1416,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDelayProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDelayProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DelayProcessor</class>
@@ -1300,14 +1424,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDetuneController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDetuneController_8cpp</filename>
     <includes id="mdaDetuneController_8h" name="mdaDetuneController.h" local="yes" imported="no">mdaDetuneController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDetuneController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDetuneController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDetuneProcessor_8h" name="mdaDetuneProcessor.h" local="yes" imported="no">mdaDetuneProcessor.h</includes>
@@ -1316,7 +1440,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDetuneProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDetuneProcessor_8cpp</filename>
     <includes id="mdaDetuneProcessor_8h" name="mdaDetuneProcessor.h" local="yes" imported="no">mdaDetuneProcessor.h</includes>
     <includes id="mdaDetuneController_8h" name="mdaDetuneController.h" local="yes" imported="no">mdaDetuneController.h</includes>
@@ -1331,7 +1455,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDetuneProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDetuneProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DetuneProcessor</class>
@@ -1339,14 +1463,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDitherController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDitherController_8cpp</filename>
     <includes id="mdaDitherController_8h" name="mdaDitherController.h" local="yes" imported="no">mdaDitherController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDitherController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDitherController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDitherProcessor_8h" name="mdaDitherProcessor.h" local="yes" imported="no">mdaDitherProcessor.h</includes>
@@ -1355,7 +1479,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDitherProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDitherProcessor_8cpp</filename>
     <includes id="mdaDitherProcessor_8h" name="mdaDitherProcessor.h" local="yes" imported="no">mdaDitherProcessor.h</includes>
     <includes id="mdaDitherController_8h" name="mdaDitherController.h" local="yes" imported="no">mdaDitherController.h</includes>
@@ -1363,7 +1487,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDitherProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDitherProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DitherProcessor</class>
@@ -1371,14 +1495,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDubDelayController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDubDelayController_8cpp</filename>
     <includes id="mdaDubDelayController_8h" name="mdaDubDelayController.h" local="yes" imported="no">mdaDubDelayController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDubDelayController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDubDelayController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDubDelayProcessor_8h" name="mdaDubDelayProcessor.h" local="yes" imported="no">mdaDubDelayProcessor.h</includes>
@@ -1387,7 +1511,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDubDelayProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDubDelayProcessor_8cpp</filename>
     <includes id="mdaDubDelayProcessor_8h" name="mdaDubDelayProcessor.h" local="yes" imported="no">mdaDubDelayProcessor.h</includes>
     <includes id="mdaDubDelayController_8h" name="mdaDubDelayController.h" local="yes" imported="no">mdaDubDelayController.h</includes>
@@ -1395,7 +1519,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDubDelayProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDubDelayProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DubDelayProcessor</class>
@@ -1403,14 +1527,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDX10Controller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDX10Controller_8cpp</filename>
     <includes id="mdaDX10Controller_8h" name="mdaDX10Controller.h" local="yes" imported="no">mdaDX10Controller.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDX10Controller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDX10Controller_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDX10Processor_8h" name="mdaDX10Processor.h" local="yes" imported="no">mdaDX10Processor.h</includes>
@@ -1419,7 +1543,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDX10Processor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDX10Processor_8cpp</filename>
     <includes id="mdaDX10Processor_8h" name="mdaDX10Processor.h" local="yes" imported="no">mdaDX10Processor.h</includes>
     <includes id="mdaDX10Controller_8h" name="mdaDX10Controller.h" local="yes" imported="no">mdaDX10Controller.h</includes>
@@ -1441,7 +1565,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDX10Processor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDX10Processor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DX10Processor</class>
@@ -1450,14 +1574,14 @@
   </compound>
   <compound kind="file">
     <name>mdaDynamicsController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDynamicsController_8cpp</filename>
     <includes id="mdaDynamicsController_8h" name="mdaDynamicsController.h" local="yes" imported="no">mdaDynamicsController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaDynamicsController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDynamicsController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaDynamicsProcessor_8h" name="mdaDynamicsProcessor.h" local="yes" imported="no">mdaDynamicsProcessor.h</includes>
@@ -1466,7 +1590,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDynamicsProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDynamicsProcessor_8cpp</filename>
     <includes id="mdaDynamicsProcessor_8h" name="mdaDynamicsProcessor.h" local="yes" imported="no">mdaDynamicsProcessor.h</includes>
     <includes id="mdaDynamicsController_8h" name="mdaDynamicsController.h" local="yes" imported="no">mdaDynamicsController.h</includes>
@@ -1474,7 +1598,7 @@
   </compound>
   <compound kind="file">
     <name>mdaDynamicsProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaDynamicsProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::DynamicsProcessor</class>
@@ -1482,14 +1606,14 @@
   </compound>
   <compound kind="file">
     <name>mdaEPianoController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaEPianoController_8cpp</filename>
     <includes id="mdaEPianoController_8h" name="mdaEPianoController.h" local="yes" imported="no">mdaEPianoController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaEPianoController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaEPianoController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaEPianoProcessor_8h" name="mdaEPianoProcessor.h" local="yes" imported="no">mdaEPianoProcessor.h</includes>
@@ -1498,7 +1622,7 @@
   </compound>
   <compound kind="file">
     <name>mdaEPianoData.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaEPianoData_8h</filename>
     <member kind="variable">
       <type>short</type>
@@ -1510,7 +1634,7 @@
   </compound>
   <compound kind="file">
     <name>mdaEPianoProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaEPianoProcessor_8cpp</filename>
     <includes id="mdaEPianoProcessor_8h" name="mdaEPianoProcessor.h" local="yes" imported="no">mdaEPianoProcessor.h</includes>
     <includes id="mdaEPianoController_8h" name="mdaEPianoController.h" local="yes" imported="no">mdaEPianoController.h</includes>
@@ -1554,7 +1678,7 @@
   </compound>
   <compound kind="file">
     <name>mdaEPianoProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaEPianoProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::EPianoProcessor</class>
@@ -1564,7 +1688,7 @@
   </compound>
   <compound kind="file">
     <name>mdafactory.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdafactory_8cpp</filename>
     <includes id="mdaAmbienceController_8h" name="mdaAmbienceController.h" local="yes" imported="no">mdaAmbienceController.h</includes>
     <includes id="mdaBandistoController_8h" name="mdaBandistoController.h" local="yes" imported="no">mdaBandistoController.h</includes>
@@ -1626,14 +1750,14 @@
   </compound>
   <compound kind="file">
     <name>mdaImageController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaImageController_8cpp</filename>
     <includes id="mdaImageController_8h" name="mdaImageController.h" local="yes" imported="no">mdaImageController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaImageController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaImageController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaImageProcessor_8h" name="mdaImageProcessor.h" local="yes" imported="no">mdaImageProcessor.h</includes>
@@ -1642,7 +1766,7 @@
   </compound>
   <compound kind="file">
     <name>mdaImageProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaImageProcessor_8cpp</filename>
     <includes id="mdaImageProcessor_8h" name="mdaImageProcessor.h" local="yes" imported="no">mdaImageProcessor.h</includes>
     <includes id="mdaImageController_8h" name="mdaImageController.h" local="yes" imported="no">mdaImageController.h</includes>
@@ -1650,7 +1774,7 @@
   </compound>
   <compound kind="file">
     <name>mdaImageProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaImageProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::ImageProcessor</class>
@@ -1658,14 +1782,14 @@
   </compound>
   <compound kind="file">
     <name>mdaJX10Controller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaJX10Controller_8cpp</filename>
     <includes id="mdaJX10Controller_8h" name="mdaJX10Controller.h" local="yes" imported="no">mdaJX10Controller.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaJX10Controller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaJX10Controller_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaJX10Processor_8h" name="mdaJX10Processor.h" local="yes" imported="no">mdaJX10Processor.h</includes>
@@ -1674,7 +1798,7 @@
   </compound>
   <compound kind="file">
     <name>mdaJX10Processor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaJX10Processor_8cpp</filename>
     <includes id="mdaJX10Processor_8h" name="mdaJX10Processor.h" local="yes" imported="no">mdaJX10Processor.h</includes>
     <includes id="mdaJX10Controller_8h" name="mdaJX10Controller.h" local="yes" imported="no">mdaJX10Controller.h</includes>
@@ -1717,7 +1841,7 @@
   </compound>
   <compound kind="file">
     <name>mdaJX10Processor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaJX10Processor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::JX10Processor</class>
@@ -1726,14 +1850,14 @@
   </compound>
   <compound kind="file">
     <name>mdaLeslieController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLeslieController_8cpp</filename>
     <includes id="mdaLeslieController_8h" name="mdaLeslieController.h" local="yes" imported="no">mdaLeslieController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaLeslieController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLeslieController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaLeslieProcessor_8h" name="mdaLeslieProcessor.h" local="yes" imported="no">mdaLeslieProcessor.h</includes>
@@ -1742,7 +1866,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLeslieProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLeslieProcessor_8cpp</filename>
     <includes id="mdaLeslieProcessor_8h" name="mdaLeslieProcessor.h" local="yes" imported="no">mdaLeslieProcessor.h</includes>
     <includes id="mdaLeslieController_8h" name="mdaLeslieController.h" local="yes" imported="no">mdaLeslieController.h</includes>
@@ -1750,7 +1874,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLeslieProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLeslieProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::LeslieProcessor</class>
@@ -1758,14 +1882,14 @@
   </compound>
   <compound kind="file">
     <name>mdaLimiterController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLimiterController_8cpp</filename>
     <includes id="mdaLimiterController_8h" name="mdaLimiterController.h" local="yes" imported="no">mdaLimiterController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaLimiterController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLimiterController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaLimiterProcessor_8h" name="mdaLimiterProcessor.h" local="yes" imported="no">mdaLimiterProcessor.h</includes>
@@ -1774,7 +1898,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLimiterProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLimiterProcessor_8cpp</filename>
     <includes id="mdaLimiterProcessor_8h" name="mdaLimiterProcessor.h" local="yes" imported="no">mdaLimiterProcessor.h</includes>
     <includes id="mdaLimiterController_8h" name="mdaLimiterController.h" local="yes" imported="no">mdaLimiterController.h</includes>
@@ -1782,7 +1906,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLimiterProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLimiterProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::LimiterProcessor</class>
@@ -1790,14 +1914,14 @@
   </compound>
   <compound kind="file">
     <name>mdaLoudnessController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLoudnessController_8cpp</filename>
     <includes id="mdaLoudnessController_8h" name="mdaLoudnessController.h" local="yes" imported="no">mdaLoudnessController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaLoudnessController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLoudnessController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaLoudnessProcessor_8h" name="mdaLoudnessProcessor.h" local="yes" imported="no">mdaLoudnessProcessor.h</includes>
@@ -1806,7 +1930,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLoudnessProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLoudnessProcessor_8cpp</filename>
     <includes id="mdaLoudnessProcessor_8h" name="mdaLoudnessProcessor.h" local="yes" imported="no">mdaLoudnessProcessor.h</includes>
     <includes id="mdaLoudnessController_8h" name="mdaLoudnessController.h" local="yes" imported="no">mdaLoudnessController.h</includes>
@@ -1814,7 +1938,7 @@
   </compound>
   <compound kind="file">
     <name>mdaLoudnessProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaLoudnessProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::LoudnessProcessor</class>
@@ -1822,14 +1946,14 @@
   </compound>
   <compound kind="file">
     <name>mdaMultiBandController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaMultiBandController_8cpp</filename>
     <includes id="mdaMultiBandController_8h" name="mdaMultiBandController.h" local="yes" imported="no">mdaMultiBandController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaMultiBandController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaMultiBandController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaMultiBandProcessor_8h" name="mdaMultiBandProcessor.h" local="yes" imported="no">mdaMultiBandProcessor.h</includes>
@@ -1838,7 +1962,7 @@
   </compound>
   <compound kind="file">
     <name>mdaMultiBandProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaMultiBandProcessor_8cpp</filename>
     <includes id="mdaMultiBandProcessor_8h" name="mdaMultiBandProcessor.h" local="yes" imported="no">mdaMultiBandProcessor.h</includes>
     <includes id="mdaMultiBandController_8h" name="mdaMultiBandController.h" local="yes" imported="no">mdaMultiBandController.h</includes>
@@ -1846,7 +1970,7 @@
   </compound>
   <compound kind="file">
     <name>mdaMultiBandProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaMultiBandProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::MultiBandProcessor</class>
@@ -1854,14 +1978,14 @@
   </compound>
   <compound kind="file">
     <name>mdaOverdriveController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaOverdriveController_8cpp</filename>
     <includes id="mdaOverdriveController_8h" name="mdaOverdriveController.h" local="yes" imported="no">mdaOverdriveController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaOverdriveController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaOverdriveController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaOverdriveProcessor_8h" name="mdaOverdriveProcessor.h" local="yes" imported="no">mdaOverdriveProcessor.h</includes>
@@ -1870,7 +1994,7 @@
   </compound>
   <compound kind="file">
     <name>mdaOverdriveProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaOverdriveProcessor_8cpp</filename>
     <includes id="mdaOverdriveProcessor_8h" name="mdaOverdriveProcessor.h" local="yes" imported="no">mdaOverdriveProcessor.h</includes>
     <includes id="mdaOverdriveController_8h" name="mdaOverdriveController.h" local="yes" imported="no">mdaOverdriveController.h</includes>
@@ -1878,7 +2002,7 @@
   </compound>
   <compound kind="file">
     <name>mdaOverdriveProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaOverdriveProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::OverdriveProcessor</class>
@@ -1886,14 +2010,14 @@
   </compound>
   <compound kind="file">
     <name>mdaParameter.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaParameter_8cpp</filename>
     <includes id="mdaParameter_8h" name="mdaParameter.h" local="yes" imported="no">mdaParameter.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaParameter.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaParameter_8h</filename>
     <class kind="class">Steinberg::Vst::mda::BaseParameter</class>
     <class kind="class">Steinberg::Vst::mda::IndexedParameter</class>
@@ -1902,14 +2026,14 @@
   </compound>
   <compound kind="file">
     <name>mdaPianoController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaPianoController_8cpp</filename>
     <includes id="mdaPianoController_8h" name="mdaPianoController.h" local="yes" imported="no">mdaPianoController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaPianoController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaPianoController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaPianoProcessor_8h" name="mdaPianoProcessor.h" local="yes" imported="no">mdaPianoProcessor.h</includes>
@@ -1918,7 +2042,7 @@
   </compound>
   <compound kind="file">
     <name>mdaPianoData.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaPianoData_8h</filename>
     <member kind="variable">
       <type>short</type>
@@ -1930,7 +2054,7 @@
   </compound>
   <compound kind="file">
     <name>mdaPianoProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaPianoProcessor_8cpp</filename>
     <includes id="mdaPianoProcessor_8h" name="mdaPianoProcessor.h" local="yes" imported="no">mdaPianoProcessor.h</includes>
     <includes id="mdaPianoController_8h" name="mdaPianoController.h" local="yes" imported="no">mdaPianoController.h</includes>
@@ -1946,7 +2070,7 @@
   </compound>
   <compound kind="file">
     <name>mdaPianoProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaPianoProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::PianoProcessor</class>
@@ -1956,14 +2080,14 @@
   </compound>
   <compound kind="file">
     <name>mdaRePsychoController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRePsychoController_8cpp</filename>
     <includes id="mdaRePsychoController_8h" name="mdaRePsychoController.h" local="yes" imported="no">mdaRePsychoController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaRePsychoController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRePsychoController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaRePsychoProcessor_8h" name="mdaRePsychoProcessor.h" local="yes" imported="no">mdaRePsychoProcessor.h</includes>
@@ -1972,7 +2096,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRePsychoProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRePsychoProcessor_8cpp</filename>
     <includes id="mdaRePsychoProcessor_8h" name="mdaRePsychoProcessor.h" local="yes" imported="no">mdaRePsychoProcessor.h</includes>
     <includes id="mdaRePsychoController_8h" name="mdaRePsychoController.h" local="yes" imported="no">mdaRePsychoController.h</includes>
@@ -1980,7 +2104,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRePsychoProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRePsychoProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::RePsychoProcessor</class>
@@ -1988,14 +2112,14 @@
   </compound>
   <compound kind="file">
     <name>mdaRezFilterController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRezFilterController_8cpp</filename>
     <includes id="mdaRezFilterController_8h" name="mdaRezFilterController.h" local="yes" imported="no">mdaRezFilterController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaRezFilterController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRezFilterController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaRezFilterProcessor_8h" name="mdaRezFilterProcessor.h" local="yes" imported="no">mdaRezFilterProcessor.h</includes>
@@ -2004,7 +2128,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRezFilterProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRezFilterProcessor_8cpp</filename>
     <includes id="mdaRezFilterProcessor_8h" name="mdaRezFilterProcessor.h" local="yes" imported="no">mdaRezFilterProcessor.h</includes>
     <includes id="mdaRezFilterController_8h" name="mdaRezFilterController.h" local="yes" imported="no">mdaRezFilterController.h</includes>
@@ -2012,7 +2136,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRezFilterProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRezFilterProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::RezFilterProcessor</class>
@@ -2020,14 +2144,14 @@
   </compound>
   <compound kind="file">
     <name>mdaRingModController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRingModController_8cpp</filename>
     <includes id="mdaRingModController_8h" name="mdaRingModController.h" local="yes" imported="no">mdaRingModController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaRingModController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRingModController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaRingModProcessor_8h" name="mdaRingModProcessor.h" local="yes" imported="no">mdaRingModProcessor.h</includes>
@@ -2036,7 +2160,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRingModProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRingModProcessor_8cpp</filename>
     <includes id="mdaRingModProcessor_8h" name="mdaRingModProcessor.h" local="yes" imported="no">mdaRingModProcessor.h</includes>
     <includes id="mdaRingModController_8h" name="mdaRingModController.h" local="yes" imported="no">mdaRingModController.h</includes>
@@ -2044,7 +2168,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRingModProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRingModProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::RingModProcessor</class>
@@ -2052,14 +2176,14 @@
   </compound>
   <compound kind="file">
     <name>mdaRoundPanController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRoundPanController_8cpp</filename>
     <includes id="mdaRoundPanController_8h" name="mdaRoundPanController.h" local="yes" imported="no">mdaRoundPanController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaRoundPanController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRoundPanController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaRoundPanProcessor_8h" name="mdaRoundPanProcessor.h" local="yes" imported="no">mdaRoundPanProcessor.h</includes>
@@ -2068,7 +2192,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRoundPanProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRoundPanProcessor_8cpp</filename>
     <includes id="mdaRoundPanProcessor_8h" name="mdaRoundPanProcessor.h" local="yes" imported="no">mdaRoundPanProcessor.h</includes>
     <includes id="mdaRoundPanController_8h" name="mdaRoundPanController.h" local="yes" imported="no">mdaRoundPanController.h</includes>
@@ -2076,7 +2200,7 @@
   </compound>
   <compound kind="file">
     <name>mdaRoundPanProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaRoundPanProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::RoundPanProcessor</class>
@@ -2084,14 +2208,14 @@
   </compound>
   <compound kind="file">
     <name>mdaShepardController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaShepardController_8cpp</filename>
     <includes id="mdaShepardController_8h" name="mdaShepardController.h" local="yes" imported="no">mdaShepardController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaShepardController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaShepardController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaShepardProcessor_8h" name="mdaShepardProcessor.h" local="yes" imported="no">mdaShepardProcessor.h</includes>
@@ -2100,7 +2224,7 @@
   </compound>
   <compound kind="file">
     <name>mdaShepardProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaShepardProcessor_8cpp</filename>
     <includes id="mdaShepardProcessor_8h" name="mdaShepardProcessor.h" local="yes" imported="no">mdaShepardProcessor.h</includes>
     <includes id="mdaShepardController_8h" name="mdaShepardController.h" local="yes" imported="no">mdaShepardController.h</includes>
@@ -2108,7 +2232,7 @@
   </compound>
   <compound kind="file">
     <name>mdaShepardProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaShepardProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::ShepardProcessor</class>
@@ -2116,14 +2240,14 @@
   </compound>
   <compound kind="file">
     <name>mdaSpecMeterController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSpecMeterController_8cpp</filename>
     <includes id="mdaSpecMeterController_8h" name="mdaSpecMeterController.h" local="yes" imported="no">mdaSpecMeterController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaSpecMeterController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSpecMeterController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaSpecMeterProcessor_8h" name="mdaSpecMeterProcessor.h" local="yes" imported="no">mdaSpecMeterProcessor.h</includes>
@@ -2132,7 +2256,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSpecMeterProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSpecMeterProcessor_8cpp</filename>
     <includes id="mdaSpecMeterProcessor_8h" name="mdaSpecMeterProcessor.h" local="yes" imported="no">mdaSpecMeterProcessor.h</includes>
     <includes id="mdaSpecMeterController_8h" name="mdaSpecMeterController.h" local="yes" imported="no">mdaSpecMeterController.h</includes>
@@ -2147,7 +2271,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSpecMeterProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSpecMeterProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::SpecMeterProcessor</class>
@@ -2155,14 +2279,14 @@
   </compound>
   <compound kind="file">
     <name>mdaSplitterController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSplitterController_8cpp</filename>
     <includes id="mdaSplitterController_8h" name="mdaSplitterController.h" local="yes" imported="no">mdaSplitterController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaSplitterController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSplitterController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaSplitterProcessor_8h" name="mdaSplitterProcessor.h" local="yes" imported="no">mdaSplitterProcessor.h</includes>
@@ -2171,7 +2295,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSplitterProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSplitterProcessor_8cpp</filename>
     <includes id="mdaSplitterProcessor_8h" name="mdaSplitterProcessor.h" local="yes" imported="no">mdaSplitterProcessor.h</includes>
     <includes id="mdaSplitterController_8h" name="mdaSplitterController.h" local="yes" imported="no">mdaSplitterController.h</includes>
@@ -2179,7 +2303,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSplitterProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSplitterProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::SplitterProcessor</class>
@@ -2187,14 +2311,14 @@
   </compound>
   <compound kind="file">
     <name>mdaStereoController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaStereoController_8cpp</filename>
     <includes id="mdaStereoController_8h" name="mdaStereoController.h" local="yes" imported="no">mdaStereoController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaStereoController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaStereoController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaStereoProcessor_8h" name="mdaStereoProcessor.h" local="yes" imported="no">mdaStereoProcessor.h</includes>
@@ -2203,7 +2327,7 @@
   </compound>
   <compound kind="file">
     <name>mdaStereoProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaStereoProcessor_8cpp</filename>
     <includes id="mdaStereoProcessor_8h" name="mdaStereoProcessor.h" local="yes" imported="no">mdaStereoProcessor.h</includes>
     <includes id="mdaStereoController_8h" name="mdaStereoController.h" local="yes" imported="no">mdaStereoController.h</includes>
@@ -2211,7 +2335,7 @@
   </compound>
   <compound kind="file">
     <name>mdaStereoProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaStereoProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::StereoProcessor</class>
@@ -2219,14 +2343,14 @@
   </compound>
   <compound kind="file">
     <name>mdaSubSynthController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSubSynthController_8cpp</filename>
     <includes id="mdaSubSynthController_8h" name="mdaSubSynthController.h" local="yes" imported="no">mdaSubSynthController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaSubSynthController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSubSynthController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaSubSynthProcessor_8h" name="mdaSubSynthProcessor.h" local="yes" imported="no">mdaSubSynthProcessor.h</includes>
@@ -2235,7 +2359,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSubSynthProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSubSynthProcessor_8cpp</filename>
     <includes id="mdaSubSynthProcessor_8h" name="mdaSubSynthProcessor.h" local="yes" imported="no">mdaSubSynthProcessor.h</includes>
     <includes id="mdaSubSynthController_8h" name="mdaSubSynthController.h" local="yes" imported="no">mdaSubSynthController.h</includes>
@@ -2243,7 +2367,7 @@
   </compound>
   <compound kind="file">
     <name>mdaSubSynthProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaSubSynthProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::SubSynthProcessor</class>
@@ -2251,14 +2375,14 @@
   </compound>
   <compound kind="file">
     <name>mdaTalkBoxController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTalkBoxController_8cpp</filename>
     <includes id="mdaTalkBoxController_8h" name="mdaTalkBoxController.h" local="yes" imported="no">mdaTalkBoxController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaTalkBoxController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTalkBoxController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaTalkBoxProcessor_8h" name="mdaTalkBoxProcessor.h" local="yes" imported="no">mdaTalkBoxProcessor.h</includes>
@@ -2267,7 +2391,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTalkBoxProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTalkBoxProcessor_8cpp</filename>
     <includes id="mdaTalkBoxProcessor_8h" name="mdaTalkBoxProcessor.h" local="yes" imported="no">mdaTalkBoxProcessor.h</includes>
     <includes id="mdaTalkBoxController_8h" name="mdaTalkBoxController.h" local="yes" imported="no">mdaTalkBoxController.h</includes>
@@ -2296,7 +2420,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTalkBoxProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTalkBoxProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::TalkBoxProcessor</class>
@@ -2304,14 +2428,14 @@
   </compound>
   <compound kind="file">
     <name>mdaTestToneController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTestToneController_8cpp</filename>
     <includes id="mdaTestToneController_8h" name="mdaTestToneController.h" local="yes" imported="no">mdaTestToneController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaTestToneController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTestToneController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaTestToneProcessor_8h" name="mdaTestToneProcessor.h" local="yes" imported="no">mdaTestToneProcessor.h</includes>
@@ -2320,7 +2444,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTestToneProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTestToneProcessor_8cpp</filename>
     <includes id="mdaTestToneProcessor_8h" name="mdaTestToneProcessor.h" local="yes" imported="no">mdaTestToneProcessor.h</includes>
     <includes id="mdaTestToneController_8h" name="mdaTestToneController.h" local="yes" imported="no">mdaTestToneController.h</includes>
@@ -2328,7 +2452,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTestToneProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTestToneProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::TestToneProcessor</class>
@@ -2336,14 +2460,14 @@
   </compound>
   <compound kind="file">
     <name>mdaThruZeroController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaThruZeroController_8cpp</filename>
     <includes id="mdaThruZeroController_8h" name="mdaThruZeroController.h" local="yes" imported="no">mdaThruZeroController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaThruZeroController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaThruZeroController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaThruZeroProcessor_8h" name="mdaThruZeroProcessor.h" local="yes" imported="no">mdaThruZeroProcessor.h</includes>
@@ -2352,7 +2476,7 @@
   </compound>
   <compound kind="file">
     <name>mdaThruZeroProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaThruZeroProcessor_8cpp</filename>
     <includes id="mdaThruZeroProcessor_8h" name="mdaThruZeroProcessor.h" local="yes" imported="no">mdaThruZeroProcessor.h</includes>
     <includes id="mdaThruZeroController_8h" name="mdaThruZeroController.h" local="yes" imported="no">mdaThruZeroController.h</includes>
@@ -2367,7 +2491,7 @@
   </compound>
   <compound kind="file">
     <name>mdaThruZeroProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaThruZeroProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::ThruZeroProcessor</class>
@@ -2375,14 +2499,14 @@
   </compound>
   <compound kind="file">
     <name>mdaTrackerController.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTrackerController_8cpp</filename>
     <includes id="mdaTrackerController_8h" name="mdaTrackerController.h" local="yes" imported="no">mdaTrackerController.h</includes>
     <namespace>Steinberg::Vst::mda</namespace>
   </compound>
   <compound kind="file">
     <name>mdaTrackerController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTrackerController_8h</filename>
     <includes id="mdaBaseController_8h" name="mdaBaseController.h" local="yes" imported="no">mdaBaseController.h</includes>
     <includes id="mdaTrackerProcessor_8h" name="mdaTrackerProcessor.h" local="yes" imported="no">mdaTrackerProcessor.h</includes>
@@ -2391,7 +2515,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTrackerProcessor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTrackerProcessor_8cpp</filename>
     <includes id="mdaTrackerProcessor_8h" name="mdaTrackerProcessor.h" local="yes" imported="no">mdaTrackerProcessor.h</includes>
     <includes id="mdaTrackerController_8h" name="mdaTrackerController.h" local="yes" imported="no">mdaTrackerController.h</includes>
@@ -2399,7 +2523,7 @@
   </compound>
   <compound kind="file">
     <name>mdaTrackerProcessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mdaTrackerProcessor_8h</filename>
     <includes id="mdaBaseProcessor_8h" name="mdaBaseProcessor.h" local="yes" imported="no">mdaBaseProcessor.h</includes>
     <class kind="class">Steinberg::Vst::mda::TrackerProcessor</class>
@@ -2407,7 +2531,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_controller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__controller_8cpp</filename>
     <includes id="note__expression__synth__controller_8h" name="note_expression_synth_controller.h" local="yes" imported="no">note_expression_synth_controller.h</includes>
     <includes id="note__expression__synth__voice_8h" name="note_expression_synth_voice.h" local="yes" imported="no">note_expression_synth_voice.h</includes>
@@ -2415,7 +2539,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_controller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__controller_8h</filename>
     <class kind="class">Steinberg::Vst::NoteExpressionSynth::Controller</class>
     <namespace>Steinberg::Vst::NoteExpressionSynth</namespace>
@@ -2576,7 +2700,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_processor.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__processor_8cpp</filename>
     <includes id="note__expression__synth__processor_8h" name="note_expression_synth_processor.h" local="yes" imported="no">note_expression_synth_processor.h</includes>
     <includes id="note__expression__synth__controller_8h" name="note_expression_synth_controller.h" local="yes" imported="no">note_expression_synth_controller.h</includes>
@@ -2585,7 +2709,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_processor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__processor_8h</filename>
     <includes id="note__expression__synth__voice_8h" name="note_expression_synth_voice.h" local="yes" imported="no">note_expression_synth_voice.h</includes>
     <class kind="class">Steinberg::Vst::NoteExpressionSynth::Processor</class>
@@ -2593,7 +2717,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_ui.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__ui_8cpp</filename>
     <includes id="note__expression__synth__ui_8h" name="note_expression_synth_ui.h" local="yes" imported="no">note_expression_synth_ui.h</includes>
     <includes id="note__touch__controller_8h" name="note_touch_controller.h" local="yes" imported="no">note_touch_controller.h</includes>
@@ -2601,7 +2725,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_ui.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__ui_8h</filename>
     <includes id="note__expression__synth__controller_8h" name="note_expression_synth_controller.h" local="yes" imported="no">note_expression_synth_controller.h</includes>
     <includes id="note__expression__synth__processor_8h" name="note_expression_synth_processor.h" local="yes" imported="no">note_expression_synth_processor.h</includes>
@@ -2611,14 +2735,14 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth_voice.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__voice_8cpp</filename>
     <includes id="note__expression__synth__voice_8h" name="note_expression_synth_voice.h" local="yes" imported="no">note_expression_synth_voice.h</includes>
     <namespace>Steinberg::Vst::NoteExpressionSynth</namespace>
   </compound>
   <compound kind="file">
     <name>note_expression_synth_voice.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth__voice_8h</filename>
     <includes id="voicebase_8h" name="voicebase.h" local="yes" imported="no">../../common/voicebase.h</includes>
     <includes id="logscale_8h" name="logscale.h" local="yes" imported="no">../../common/logscale.h</includes>
@@ -2751,21 +2875,19 @@
   </compound>
   <compound kind="file">
     <name>note_touch_controller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__touch__controller_8cpp</filename>
     <includes id="note__touch__controller_8h" name="note_touch_controller.h" local="yes" imported="no">note_touch_controller.h</includes>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>note_touch_controller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__touch__controller_8h</filename>
     <class kind="class">VSTGUI::NoteTouchController</class>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>parameterchangescheck.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>parameterchangescheck_8cpp</filename>
     <includes id="parameterchangescheck_8h" name="parameterchangescheck.h" local="yes" imported="no">parameterchangescheck.h</includes>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
@@ -2773,13 +2895,13 @@
   </compound>
   <compound kind="file">
     <name>parameterchangescheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>parameterchangescheck_8h</filename>
     <class kind="class">ParameterChangesCheck</class>
   </compound>
   <compound kind="file">
     <name>pitchnames.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnames_8cpp</filename>
     <includes id="pitchnames_8h" name="pitchnames.h" local="yes" imported="no">pitchnames.h</includes>
     <includes id="pitchnamesdatabrowsersource_8h" name="pitchnamesdatabrowsersource.h" local="yes" imported="no">pitchnamesdatabrowsersource.h</includes>
@@ -2793,92 +2915,154 @@
   </compound>
   <compound kind="file">
     <name>pitchnames.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnames_8h</filename>
     <class kind="class">Steinberg::Vst::PitchNamesController</class>
     <class kind="class">Steinberg::Vst::PitchNamesProcessor</class>
   </compound>
   <compound kind="file">
     <name>pitchnamesdatabrowsersource.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnamesdatabrowsersource_8cpp</filename>
     <includes id="pitchnamesdatabrowsersource_8h" name="pitchnamesdatabrowsersource.h" local="yes" imported="no">pitchnamesdatabrowsersource.h</includes>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>pitchnamesdatabrowsersource.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnamesdatabrowsersource_8h</filename>
     <class kind="class">VSTGUI::PitchNamesDataBrowserSource</class>
-    <namespace>VSTGUI</namespace>
   </compound>
   <compound kind="file">
     <name>channelcontext/source/plug.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plug_8cpp</filename>
     <includes id="channelcontext_2source_2plug_8h" name="channelcontext/source/plug.h" local="yes" imported="no">plug.h</includes>
     <includes id="channelcontext_2source_2plugparamids_8h" name="channelcontext/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
     <includes id="channelcontext_2source_2plugcids_8h" name="channelcontext/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plug.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plug_8cpp</filename>
+    <includes id="note__expression__text_2source_2plug_8h" name="note_expression_text/source/plug.h" local="yes" imported="no">plug.h</includes>
+    <includes id="note__expression__text_2source_2plugparamids_8h" name="note_expression_text/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
+    <includes id="note__expression__text_2source_2plugcids_8h" name="note_expression_text/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plug.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plug_8cpp</filename>
     <includes id="prefetchablesupport_2source_2plug_8h" name="prefetchablesupport/source/plug.h" local="yes" imported="no">plug.h</includes>
     <includes id="prefetchablesupport_2source_2plugparamids_8h" name="prefetchablesupport/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
     <includes id="prefetchablesupport_2source_2plugcids_8h" name="prefetchablesupport/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plug.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plug_8cpp</filename>
+    <includes id="programchange_2source_2plug_8h" name="programchange/source/plug.h" local="yes" imported="no">plug.h</includes>
+    <includes id="programchange_2source_2plugparamids_8h" name="programchange/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
+    <includes id="programchange_2source_2plugcids_8h" name="programchange/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plug.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plug_8h</filename>
     <class kind="class">Steinberg::Vst::Plug</class>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plug.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plug_8h</filename>
+    <class kind="class">Steinberg::Vst::Plug</class>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plug.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plug_8h</filename>
     <class kind="class">Steinberg::Vst::Plug</class>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plug.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plug_8h</filename>
+    <class kind="class">Steinberg::Vst::Plug</class>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plugcids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plugcids_8h</filename>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plugcids.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plugcids_8h</filename>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plugcids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plugcids_8h</filename>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plugcids.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plugcids_8h</filename>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plugcontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plugcontroller_8cpp</filename>
     <includes id="channelcontext_2source_2plugcontroller_8h" name="channelcontext/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
     <includes id="channelcontext_2source_2plugparamids_8h" name="channelcontext/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plugcontroller.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plugcontroller_8cpp</filename>
+    <includes id="note__expression__text_2source_2plugcontroller_8h" name="note_expression_text/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
+    <includes id="note__expression__text_2source_2plugparamids_8h" name="note_expression_text/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plugcontroller.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plugcontroller_8cpp</filename>
     <includes id="prefetchablesupport_2source_2plugcontroller_8h" name="prefetchablesupport/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
     <includes id="prefetchablesupport_2source_2plugparamids_8h" name="prefetchablesupport/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plugcontroller.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plugcontroller_8cpp</filename>
+    <includes id="programchange_2source_2plugcontroller_8h" name="programchange/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
+    <includes id="programchange_2source_2plugparamids_8h" name="programchange/source/plugparamids.h" local="yes" imported="no">plugparamids.h</includes>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plugcontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plugcontroller_8h</filename>
     <class kind="class">Steinberg::Vst::PlugController</class>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plugcontroller.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plugcontroller_8h</filename>
+    <class kind="class">Steinberg::Vst::PlugController</class>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plugcontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plugcontroller_8h</filename>
     <class kind="class">Steinberg::Vst::PlugController</class>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plugcontroller.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plugcontroller_8h</filename>
+    <class kind="class">Steinberg::Vst::PlugController</class>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plugentry.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plugentry_8cpp</filename>
     <includes id="channelcontext_2source_2plug_8h" name="channelcontext/source/plug.h" local="yes" imported="no">plug.h</includes>
     <includes id="channelcontext_2source_2plugcontroller_8h" name="channelcontext/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
@@ -2942,8 +3126,66 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plugentry.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plugentry_8cpp</filename>
+    <includes id="note__expression__text_2source_2plug_8h" name="note_expression_text/source/plug.h" local="yes" imported="no">plug.h</includes>
+    <includes id="note__expression__text_2source_2plugcontroller_8h" name="note_expression_text/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
+    <includes id="note__expression__text_2source_2plugcids_8h" name="note_expression_text/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
+    <includes id="note__expression__text_2source_2version_8h" name="note_expression_text/source/version.h" local="yes" imported="no">version.h</includes>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringPluginName</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a580d3236cf2654394fd9dda85651efc0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>InitModule</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a02cfb08432768bde2f63589cd3fb4a6c</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>DeinitModule</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>acfa434568d573f05a44fbc6dd35910ee</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>BEGIN_FACTORY_DEF</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a1075637db8f5731ef803159910f409f8</anchor>
+      <arglist>(&quot;Steinberg Media Technologies&quot;,&quot;http://www.steinberg.net&quot;,&quot;mailto:info@steinberg.de&quot;) DEF_CLASS2(INLINE_UID_FROM_FUID(PlugProcessorUID)</arglist>
+    </member>
+    <member kind="variable">
+      <type></type>
+      <name>kVstAudioEffectClass</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a7668929ac981fa3b7c508e7578a3e357</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Note Expression</type>
+      <name>Text</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a53ac779212edf501532da8751b27572c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Note Expression</type>
+      <name>kVstVersionString</name>
+      <anchorfile>note__expression__text_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>af95bfaaff460967d112f7e5db4232ea2</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plugentry.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plugentry_8cpp</filename>
     <includes id="prefetchablesupport_2source_2plug_8h" name="prefetchablesupport/source/plug.h" local="yes" imported="no">plug.h</includes>
     <includes id="prefetchablesupport_2source_2plugcontroller_8h" name="prefetchablesupport/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
@@ -3007,8 +3249,73 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>programchange/source/plugentry.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plugentry_8cpp</filename>
+    <includes id="programchange_2source_2plug_8h" name="programchange/source/plug.h" local="yes" imported="no">plug.h</includes>
+    <includes id="programchange_2source_2plugcontroller_8h" name="programchange/source/plugcontroller.h" local="yes" imported="no">plugcontroller.h</includes>
+    <includes id="programchange_2source_2plugcids_8h" name="programchange/source/plugcids.h" local="yes" imported="no">plugcids.h</includes>
+    <includes id="programchange_2source_2version_8h" name="programchange/source/version.h" local="yes" imported="no">version.h</includes>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringPluginName</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a580d3236cf2654394fd9dda85651efc0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>InitModule</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a02cfb08432768bde2f63589cd3fb4a6c</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>DeinitModule</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>acfa434568d573f05a44fbc6dd35910ee</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>BEGIN_FACTORY_DEF</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a1075637db8f5731ef803159910f409f8</anchor>
+      <arglist>(&quot;Steinberg Media Technologies&quot;,&quot;http://www.steinberg.net&quot;,&quot;mailto:info@steinberg.de&quot;) DEF_CLASS2(INLINE_UID_FROM_FUID(PlugProcessorUID)</arglist>
+    </member>
+    <member kind="variable">
+      <type></type>
+      <name>kVstAudioEffectClass</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a7668929ac981fa3b7c508e7578a3e357</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Test Program</type>
+      <name>Change</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a58bdd7fa7ecf0fa8b704e2be0dcceabd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Test Program</type>
+      <name>Fx</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>a03ad6af092cf43a7f45fd47eb11c1078</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Test Program</type>
+      <name>kVstVersionString</name>
+      <anchorfile>programchange_2source_2plugentry_8cpp.html</anchorfile>
+      <anchor>ac1309796378f282dc0a0d07f322a9727</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/plugparamids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2plugparamids_8h</filename>
     <member kind="enumvalue">
       <type>@</type>
@@ -3089,27 +3396,72 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/plugparamids.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2plugparamids_8h</filename>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBypassId</name>
+      <anchorfile>note__expression__text_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>aba01db17f4a2bfbc3db60dc172972a25af4e2f2cc267406eb8c152ecab32fd088</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>prefetchablesupport/source/plugparamids.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2plugparamids_8h</filename>
     <member kind="enumvalue">
       <type>@</type>
       <name>kBypassId</name>
       <anchorfile>prefetchablesupport_2source_2plugparamids_8h.html</anchorfile>
-      <anchor>aba01db17f4a2bfbc3db60dc172972a25af4e2f2cc267406eb8c152ecab32fd088</anchor>
+      <anchor>aaf105ae5beaca1dee30ae54530691fceaf4e2f2cc267406eb8c152ecab32fd088</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <type>@</type>
       <name>kPrefetchableMode</name>
       <anchorfile>prefetchablesupport_2source_2plugparamids_8h.html</anchorfile>
-      <anchor>aba01db17f4a2bfbc3db60dc172972a25add87fed6cb9da3f20263b368e4d3806a</anchor>
+      <anchor>aaf105ae5beaca1dee30ae54530691fceadd87fed6cb9da3f20263b368e4d3806a</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
+    <name>programchange/source/plugparamids.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2plugparamids_8h</filename>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kBypassId</name>
+      <anchorfile>programchange_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>a80155586fa275b28773c9b203f52cabaaf4e2f2cc267406eb8c152ecab32fd088</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kProgramId</name>
+      <anchorfile>programchange_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>a80155586fa275b28773c9b203f52cabaa3930e3c52d163188e53c557a69d9aa71</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kGainId</name>
+      <anchorfile>programchange_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>a80155586fa275b28773c9b203f52cabaa9006dde2a6fcecd0d0f30fdcaec1ec16</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kNumProgs</name>
+      <anchorfile>programchange_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>a80155586fa275b28773c9b203f52cabaaab19460c4785d34ad085890b4ca086b6</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>processcontextcheck.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>processcontextcheck_8cpp</filename>
     <includes id="processcontextcheck_8h" name="processcontextcheck.h" local="yes" imported="no">processcontextcheck.h</includes>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
@@ -3117,32 +3469,42 @@
   </compound>
   <compound kind="file">
     <name>processcontextcheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>processcontextcheck_8h</filename>
     <class kind="class">ProcessContextCheck</class>
   </compound>
   <compound kind="file">
     <name>processsetupcheck.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>processsetupcheck_8cpp</filename>
     <includes id="processsetupcheck_8h" name="processsetupcheck.h" local="yes" imported="no">processsetupcheck.h</includes>
     <includes id="logevents_8h" name="logevents.h" local="yes" imported="no">logevents.h</includes>
   </compound>
   <compound kind="file">
     <name>processsetupcheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>processsetupcheck_8h</filename>
     <includes id="eventlogger_8h" name="eventlogger.h" local="yes" imported="no">eventlogger.h</includes>
     <class kind="class">ProcessSetupCheck</class>
   </compound>
   <compound kind="file">
-    <name>usediids.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/source/</path>
-    <filename>usediids_8cpp</filename>
+    <name>audiohost/source/usediids.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/source/</path>
+    <filename>audiohost_2source_2usediids_8cpp</filename>
+  </compound>
+  <compound kind="file">
+    <name>editorhost/source/usediids.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/source/</path>
+    <filename>editorhost_2source_2usediids_8cpp</filename>
+  </compound>
+  <compound kind="file">
+    <name>validator/source/usediids.cpp</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/source/</path>
+    <filename>validator_2source_2usediids_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>validator.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/source/</path>
     <filename>validator_8cpp</filename>
     <includes id="validator_8h" name="validator.h" local="yes" imported="no">validator.h</includes>
     <member kind="define">
@@ -3197,7 +3559,7 @@
   </compound>
   <compound kind="file">
     <name>validator.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/source/</path>
     <filename>validator_8h</filename>
     <class kind="class">Steinberg::Vst::Validator</class>
     <class kind="class">Steinberg::Vst::VstModule</class>
@@ -3224,118 +3586,8 @@
     </member>
   </compound>
   <compound kind="file">
-    <name>again/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
-    <filename>again_2source_2version_8h</filename>
-    <member kind="define">
-      <type>#define</type>
-      <name>MAJOR_VERSION_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>adb2701b32a110347dbec4c7d92b3cce2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>MAJOR_VERSION_INT</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a1b1d372b4f38ad0455414c7bcfb7150d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>SUB_VERSION_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a8e969cd9064a794d4f76d0192491e634</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>SUB_VERSION_INT</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>ad82cb859636c1a68bbea1968d405ad7b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>RELEASE_NUMBER_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a1d8d20b64fc672d1f458dc8dd40c4b9d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>RELEASE_NUMBER_INT</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a7e0ef6f4f5763c59157b59e105f86374</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>BUILD_NUMBER_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a376e4da35d8404a22dd75e5d188d178e</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>BUILD_NUMBER_INT</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>adfb14851d45258eee920f43b201279e2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>FULL_VERSION_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>ab61e5bc2342cce876090e4b50ca2f60f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>VERSION_STR</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>acfc1668731750cb1ee8974b8a7c133ef</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>stringOriginalFilename</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>adb58dbe9424bfe0a2e594a5e6399c3e2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>stringFileDescription</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a9278205f41909b317803db604ed1075d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>stringCompanyName</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a959cc5c14daa39d176d88fffd211aa6c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>stringLegalCopyright</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>a7b9ca76cb4cc59f027ddabbe5f3f2118</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>stringLegalTrademarks</name>
-      <anchorfile>again_2source_2version_8h.html</anchorfile>
-      <anchor>aa863825ce130d257c1ba798e4e639d67</anchor>
-      <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="file">
     <name>adelay/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
     <filename>adelay_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -3444,8 +3696,118 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>again/source/version.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <filename>again_2source_2version_8h</filename>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>adb2701b32a110347dbec4c7d92b3cce2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_INT</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a1b1d372b4f38ad0455414c7bcfb7150d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a8e969cd9064a794d4f76d0192491e634</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_INT</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>ad82cb859636c1a68bbea1968d405ad7b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a1d8d20b64fc672d1f458dc8dd40c4b9d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_INT</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a7e0ef6f4f5763c59157b59e105f86374</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a376e4da35d8404a22dd75e5d188d178e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_INT</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>adfb14851d45258eee920f43b201279e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>FULL_VERSION_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>ab61e5bc2342cce876090e4b50ca2f60f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERSION_STR</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>acfc1668731750cb1ee8974b8a7c133ef</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringOriginalFilename</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>adb58dbe9424bfe0a2e594a5e6399c3e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringFileDescription</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a9278205f41909b317803db604ed1075d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringCompanyName</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a959cc5c14daa39d176d88fffd211aa6c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalCopyright</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>a7b9ca76cb4cc59f027ddabbe5f3f2118</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalTrademarks</name>
+      <anchorfile>again_2source_2version_8h.html</anchorfile>
+      <anchor>aa863825ce130d257c1ba798e4e639d67</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>channelcontext/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
     <filename>channelcontext_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -3555,7 +3917,7 @@
   </compound>
   <compound kind="file">
     <name>hostchecker/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
     <filename>hostchecker_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -3665,7 +4027,7 @@
   </compound>
   <compound kind="file">
     <name>mda-vst3/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
     <filename>mda-vst3_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -3782,7 +4144,7 @@
   </compound>
   <compound kind="file">
     <name>note_expression_synth/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
     <filename>note__expression__synth_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -3891,8 +4253,118 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>note_expression_text/source/version.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>note__expression__text_2source_2version_8h</filename>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>adb2701b32a110347dbec4c7d92b3cce2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_INT</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a1b1d372b4f38ad0455414c7bcfb7150d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a8e969cd9064a794d4f76d0192491e634</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_INT</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>ad82cb859636c1a68bbea1968d405ad7b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a1d8d20b64fc672d1f458dc8dd40c4b9d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_INT</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a7e0ef6f4f5763c59157b59e105f86374</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a376e4da35d8404a22dd75e5d188d178e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_INT</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>adfb14851d45258eee920f43b201279e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>FULL_VERSION_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>ab61e5bc2342cce876090e4b50ca2f60f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERSION_STR</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>acfc1668731750cb1ee8974b8a7c133ef</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringOriginalFilename</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>adb58dbe9424bfe0a2e594a5e6399c3e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringFileDescription</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a9278205f41909b317803db604ed1075d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringCompanyName</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a959cc5c14daa39d176d88fffd211aa6c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalCopyright</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>a7b9ca76cb4cc59f027ddabbe5f3f2118</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalTrademarks</name>
+      <anchorfile>note__expression__text_2source_2version_8h.html</anchorfile>
+      <anchor>aa863825ce130d257c1ba798e4e639d67</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>pitchnames/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
     <filename>pitchnames_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -4002,7 +4474,7 @@
   </compound>
   <compound kind="file">
     <name>prefetchablesupport/source/version.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
     <filename>prefetchablesupport_2source_2version_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -4111,8 +4583,118 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>programchange/source/version.h</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>programchange_2source_2version_8h</filename>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>adb2701b32a110347dbec4c7d92b3cce2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>MAJOR_VERSION_INT</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a1b1d372b4f38ad0455414c7bcfb7150d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a8e969cd9064a794d4f76d0192491e634</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>SUB_VERSION_INT</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>ad82cb859636c1a68bbea1968d405ad7b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a1d8d20b64fc672d1f458dc8dd40c4b9d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>RELEASE_NUMBER_INT</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a7e0ef6f4f5763c59157b59e105f86374</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a376e4da35d8404a22dd75e5d188d178e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BUILD_NUMBER_INT</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>adfb14851d45258eee920f43b201279e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>FULL_VERSION_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>ab61e5bc2342cce876090e4b50ca2f60f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERSION_STR</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>acfc1668731750cb1ee8974b8a7c133ef</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringOriginalFilename</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>adb58dbe9424bfe0a2e594a5e6399c3e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringFileDescription</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a9278205f41909b317803db604ed1075d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringCompanyName</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a959cc5c14daa39d176d88fffd211aa6c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalCopyright</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>a7b9ca76cb4cc59f027ddabbe5f3f2118</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>stringLegalTrademarks</name>
+      <anchorfile>programchange_2source_2version_8h.html</anchorfile>
+      <anchor>aa863825ce130d257c1ba798e4e639d67</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>voicebase.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
     <filename>voicebase_8h</filename>
     <class kind="class">Steinberg::Vst::VoiceBase</class>
     <member kind="define">
@@ -4125,7 +4707,7 @@
   </compound>
   <compound kind="file">
     <name>voiceprocessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
     <filename>voiceprocessor_8h</filename>
     <class kind="class">Steinberg::Vst::VoiceProcessor</class>
     <class kind="class">Steinberg::Vst::VoiceProcessorImplementation</class>
@@ -4146,26 +4728,26 @@
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegate.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
     <filename>VSTInterAppAudioAppDelegate_8h</filename>
     <class kind="class">VSTInterAppAudioAppDelegate</class>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegate.mm</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
     <filename>VSTInterAppAudioAppDelegate_8mm</filename>
     <includes id="VSTInterAppAudioAppDelegate_8h" name="VSTInterAppAudioAppDelegate.h" local="yes" imported="yes">VSTInterAppAudioAppDelegate.h</includes>
     <includes id="VSTInterAppAudioHostUIControllerViewController_8h" name="VSTInterAppAudioHostUIControllerViewController.h" local="yes" imported="yes">VSTInterAppAudioHostUIControllerViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioHostUIControllerViewController.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
     <filename>VSTInterAppAudioHostUIControllerViewController_8h</filename>
     <class kind="class">VSTInterAppAudioHostUIControllerViewController</class>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioHostUIControllerViewController.mm</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
     <filename>VSTInterAppAudioHostUIControllerViewController_8mm</filename>
     <includes id="VSTInterAppAudioHostUIControllerViewController_8h" name="VSTInterAppAudioHostUIControllerViewController.h" local="yes" imported="yes">VSTInterAppAudioHostUIControllerViewController.h</includes>
   </compound>
@@ -4735,6 +5317,7 @@
     <name>Steinberg::Vst::ADelayController</name>
     <filename>classSteinberg_1_1Vst_1_1ADelayController.html</filename>
     <base>Steinberg::Vst::EditController</base>
+    <base>Steinberg::Vst::IDelayTestController</base>
     <member kind="function">
       <type>tresult</type>
       <name>initialize</name>
@@ -4749,12 +5332,26 @@
       <anchor>a9d48aa02feb98d52c054d5f4198fa7c9</anchor>
       <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
     </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>doTest</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ADelayController.html</anchorfile>
+      <anchor>afac0aa17ba84bb08beed364eefd13b88</anchor>
+      <arglist>() SMTG_OVERRIDE</arglist>
+    </member>
     <member kind="function" static="yes">
       <type>static FUnknown *</type>
       <name>createInstance</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayController.html</anchorfile>
       <anchor>a35681a1de5678e85e97fe9f97200ab4a</anchor>
       <arglist>(void *)</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IDelayTestController.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -4856,32 +5453,32 @@
       <anchor>a9de02350a975c04bbd823a49cad8cd97</anchor>
       <arglist>(IPlugProvider *plugProvider)</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>setup</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayTest.html</anchorfile>
-      <anchor>a3943062f29432b87ee7dce96b096ebab</anchor>
+      <anchor>a9b4ec98f480506d062a27f0eef17374e</anchor>
       <arglist>() SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>run</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayTest.html</anchorfile>
-      <anchor>a82bb126b00617d33b2175c5395b16ce8</anchor>
+      <anchor>aef7cc52211589bbbbafe9737b33bb6ea</anchor>
       <arglist>(ITestResult *testResult) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>teardown</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayTest.html</anchorfile>
-      <anchor>a2fdeba496f46449a7c3987a49440f841</anchor>
+      <anchor>a3d1fb91255e41edeeaee8794cd488720</anchor>
       <arglist>() SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual const char *</type>
+    <member kind="function">
+      <type>const char *</type>
       <name>getDescription</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayTest.html</anchorfile>
-      <anchor>a2543819b84323aaa0c9658f9d5bb805f</anchor>
+      <anchor>a671efc2d3c17a5882d7375b9e6b5304f</anchor>
       <arglist>() SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -5319,26 +5916,114 @@
       <anchor>ae0b1cd34ac95c57615252d99f32f134d</anchor>
       <arglist>()</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual VSTGUI::CView *</type>
+    <member kind="function">
+      <type>VSTGUI::CView *</type>
       <name>verifyView</name>
       <anchorfile>classSteinberg_1_1Vst_1_1DirtyFlagController.html</anchorfile>
-      <anchor>a99c77cf034e7d83887d020cffbca82f3</anchor>
-      <arglist>(VSTGUI::CView *view, const VSTGUI::UIAttributes &amp;attributes, const VSTGUI::IUIDescription *description) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>a271e0d4801237fae9a463a265a4f6d48</anchor>
+      <arglist>(VSTGUI::CView *view, const VSTGUI::UIAttributes &amp;attributes, const VSTGUI::IUIDescription *description) override</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>valueChanged</name>
       <anchorfile>classSteinberg_1_1Vst_1_1DirtyFlagController.html</anchorfile>
-      <anchor>a948d3b7b7fad235f855fb6ec89051d6c</anchor>
-      <arglist>(VSTGUI::CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>a419a7042f1c31265091d5870ed70d100</anchor>
+      <arglist>(VSTGUI::CControl *pControl) override</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>controlBeginEdit</name>
       <anchorfile>classSteinberg_1_1Vst_1_1DirtyFlagController.html</anchorfile>
-      <anchor>a9d29ba6b37740b95d3477b2317739be0</anchor>
-      <arglist>(VSTGUI::CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>afb51d7f8c0a75b05503418a83a8e64ca</anchor>
+      <arglist>(VSTGUI::CControl *pControl) override</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::EditorSizeController</name>
+    <filename>classSteinberg_1_1Vst_1_1EditorSizeController.html</filename>
+    <member kind="typedef">
+      <type>std::function&lt; void(float)&gt;</type>
+      <name>SizeFunc</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>ad741ea56f6152c2588b56f489437a33e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>EditorSizeController</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>adaacfce4d25deb06a5971e726b913f53</anchor>
+      <arglist>(EditController *editController, const SizeFunc &amp;sizeFunc, double currentSizeFactor)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~EditorSizeController</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>aaf211a420e77b05478e8496317035d3c</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>update</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>ac4009a084661640328fe21fb458b2a3f</anchor>
+      <arglist>(FUnknown *changedUnknown, int32 message) override</arglist>
+    </member>
+    <member kind="function">
+      <type>VSTGUI::CView *</type>
+      <name>verifyView</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>a271e0d4801237fae9a463a265a4f6d48</anchor>
+      <arglist>(VSTGUI::CView *view, const VSTGUI::UIAttributes &amp;attributes, const VSTGUI::IUIDescription *description) override</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>valueChanged</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>a419a7042f1c31265091d5870ed70d100</anchor>
+      <arglist>(VSTGUI::CControl *pControl) override</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>controlBeginEdit</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>afb51d7f8c0a75b05503418a83a8e64ca</anchor>
+      <arglist>(VSTGUI::CControl *pControl) override</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>controlEndEdit</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>a5e27c5c3aba738f92df3f8cc22604b95</anchor>
+      <arglist>(VSTGUI::CControl *pControl) override</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>setSizeFactor</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>ad37d0ab1ad5d1fcc5abe2c3c22ed0ace</anchor>
+      <arglist>(double factor)</arglist>
+    </member>
+    <member kind="variable">
+      <type>OBJ_METHODS(EditorSizeController, FObject) private RangeParameter *</type>
+      <name>sizeParameter</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>ac72b91645ee694411999befd2ee20357</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>SizeFunc</type>
+      <name>sizeFunc</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>a15e52c729636fd5b144af13652ed7635</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const int32_t</type>
+      <name>kSizeParamTag</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorSizeController.html</anchorfile>
+      <anchor>a53fca78841fd083cb814731f96f6020c</anchor>
+      <arglist></arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -5463,6 +6148,20 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>setState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a9228db732b48ece8b5b734e69b979d10</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>aee393393dc4dccf6e0b30a43380859b4</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>setChannelContextInfos</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
       <anchor>a49f061b7873f1b192cbdcbc9e731ff09</anchor>
@@ -5511,11 +6210,53 @@
       <arglist>(int32 busIndex, int16 channel, NoteExpressionTypeID id, const TChar *string, NoteExpressionValue &amp;valueNormalized) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
+      <type>void</type>
+      <name>editorAttached</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>ac055deeb5f5ddca6e9e030e06a2fac7c</anchor>
+      <arglist>(EditorView *editor) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>editorRemoved</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a893fe346bfbb357724bb3e4154ff80af</anchor>
+      <arglist>(EditorView *editor) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>editorDestroyed</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a3ca86a9534ad2bb3adb4f5e4d71d68a5</anchor>
+      <arglist>(EditorView *editor) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>IController *</type>
+      <name>createSubController</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>af161b55b382c62c4868a760fff750cd0</anchor>
+      <arglist>(UTF8StringPtr name, const IUIDescription *description, VST3Editor *editor) override</arglist>
+    </member>
+    <member kind="function">
       <type>DEFINE_INTERFACES</type>
       <name>DEF_INTERFACE</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
       <anchor>ac24a94a161306c9599f2a68b43852058</anchor>
       <arglist>(IMidiMapping) DEF_INTERFACE(IXmlRepresentationController) DEF_INTERFACE(ChannelContext</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>addFeatureLog</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a83a49fd95229c954373fd326219461e6</anchor>
+      <arglist>(int32 iD)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>getSavedSize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>ade2695d37a61c84f45916730b968d507</anchor>
+      <arglist>(ViewRect &amp;size)</arglist>
     </member>
     <member kind="variable" static="yes">
       <type>static FUID</type>
@@ -5524,25 +6265,39 @@
       <anchor>a859caadd8560ff5658d51b9237ef24e2</anchor>
       <arglist></arglist>
     </member>
+    <member kind="typedef" protection="protected">
+      <type>std::vector&lt; Steinberg::Vst::EditorView * &gt;</type>
+      <name>EditorVector</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a2acf420e46d11239fb9fb6f11447c41e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef" protection="protected">
+      <type>std::map&lt; Steinberg::Vst::EditorView *, EditorSizeController * &gt;</type>
+      <name>EditorMap</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a7eb7bc3ca514ede042c8ad5d01414f4f</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="function" protection="protected">
       <type>void</type>
-      <name>addFeatureLog</name>
+      <name>extractCurrentInfo</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
-      <anchor>a83a49fd95229c954373fd326219461e6</anchor>
-      <arglist>(int32 iD)</arglist>
+      <anchor>aedf0d687c00670ca351bd00b0b83f440</anchor>
+      <arglist>(EditorView *editor)</arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>OwningPointer&lt; CDataBrowser &gt;</type>
+      <type>SharedPointer&lt; CDataBrowser &gt;</type>
       <name>mDataBrowser</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
-      <anchor>a3fed09280b6c442dd2b3ce9dcece9935</anchor>
+      <anchor>a085bee63fc152381c75c86f02918d677</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>OwningPointer&lt; EventLogDataBrowserSource &gt;</type>
+      <type>SharedPointer&lt; EventLogDataBrowserSource &gt;</type>
       <name>mDataSource</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
-      <anchor>a18b1fcd5686f43829d72d3c8f8937a24</anchor>
+      <anchor>a67f119d92d041e266489e2d952da29c6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
@@ -5557,6 +6312,41 @@
       <name>mWantedLatency</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
       <anchor>a182625d2b02683f36ec4aafa85911076</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>EditorVector</type>
+      <name>editors</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a2028ab458d2d798ff29b76a561306dc4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>EditorMap</type>
+      <name>editorsSubCtlerMap</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a06f291cb573e68c068f1575530e558a9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>uint32</type>
+      <name>width</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>a9ddae86018522bf2d708066884d89b3c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>uint32</type>
+      <name>height</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>ad6796376ef5cc027ed35c4b2dd170f41</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>double</type>
+      <name>sizeFactor</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerController.html</anchorfile>
+      <anchor>abaafe2485a80cde3e71a231286208fdb</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5617,6 +6407,13 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>canProcessSampleSize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
+      <anchor>a1c7a40be692f5ed7f009896af248beed</anchor>
+      <arglist>(int32 symbolicSampleSize) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>setState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
       <anchor>a9228db732b48ece8b5b734e69b979d10</anchor>
@@ -5636,15 +6433,15 @@
       <anchor>ad990b6aadf707d63435e58dc9e339668</anchor>
       <arglist>(const LogEvent &amp;logEvent)</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>setAudioPresentationLatencySamples</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
       <anchor>aee99fc996654dfbb3e371d85f925ce15</anchor>
       <arglist>(BusDirection dir, int32 busIndex, uint32 latencyInSamples) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>getPrefetchableSupport</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
       <anchor>a41f2f903ceb464691f853ec06269767b</anchor>
@@ -5721,10 +6518,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>bool</type>
+      <type>float</type>
       <name>mGeneratePeaks</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
-      <anchor>ae7fdef83842c9dcb4c8f1ddf54cf8df2</anchor>
+      <anchor>ad73b751920c09df1e9a2fd1ec37286c2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
@@ -5733,6 +6530,18 @@
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
       <anchor>aa09864e5d6f2062a14eb8ad2d1db297d</anchor>
       <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::IDelayTestController</name>
+    <filename>classSteinberg_1_1Vst_1_1IDelayTestController.html</filename>
+    <base>Steinberg::FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual bool</type>
+      <name>doTest</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IDelayTestController.html</anchorfile>
+      <anchor>a3348cedf7773d89835f8df92d8dfdec5</anchor>
+      <arglist>()=0</arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -6001,7 +6810,9 @@
     <name>Steinberg::Vst::Plug</name>
     <filename>classSteinberg_1_1Vst_1_1Plug.html</filename>
     <base>Steinberg::Vst::AudioEffect</base>
+    <base>Steinberg::Vst::AudioEffect</base>
     <base>Steinberg::Vst::IPrefetchableSupport</base>
+    <base>Steinberg::Vst::AudioEffect</base>
     <base>Steinberg::Vst::AudioEffect</base>
     <member kind="function">
       <type></type>
@@ -6075,10 +6886,101 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>sendTextMessage</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>aa53fbaf2cca1b26c300a7651667b677e</anchor>
+      <arglist>(const char16 *text)</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>Plug</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>ad139b05f833c3a1320c8eb716f68fbe3</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>initialize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a4dae123b5697706651d9ff20c9614f63</anchor>
+      <arglist>(FUnknown *context) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>process</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a2a13e09cc9ec3dd1b8617a38e3c07af5</anchor>
+      <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a9228db732b48ece8b5b734e69b979d10</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>aee393393dc4dccf6e0b30a43380859b4</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>getPrefetchableSupport</name>
       <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
       <anchor>a41f2f903ceb464691f853ec06269767b</anchor>
       <arglist>(PrefetchableSupport &amp;prefetchable) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>Plug</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>ad139b05f833c3a1320c8eb716f68fbe3</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>initialize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a4dae123b5697706651d9ff20c9614f63</anchor>
+      <arglist>(FUnknown *context) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>process</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a2a13e09cc9ec3dd1b8617a38e3c07af5</anchor>
+      <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a9228db732b48ece8b5b734e69b979d10</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>aee393393dc4dccf6e0b30a43380859b4</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static FUnknown *</type>
+      <name>createInstance</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a06ee2b7654aea24e36857ecee3885225</anchor>
+      <arglist>(void *context)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static FUnknown *</type>
+      <name>createInstance</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a06ee2b7654aea24e36857ecee3885225</anchor>
+      <arglist>(void *context)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static FUnknown *</type>
@@ -6108,11 +7010,42 @@
       <anchor>abc22129b24de048752fd93a6ca2f8910</anchor>
       <arglist></arglist>
     </member>
+    <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>mLastNoteOnId</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>ab339f0786371412cc11e743edf64fd5d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>mLastNoteOnPitch</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>af450460a7817e55054c194f496fb52a3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>currentProgram</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>a35330d583ecab989fc886e9b070413e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>float</type>
+      <name>currentGainValue</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1Plug.html</anchorfile>
+      <anchor>aa326f55344affc7dc381ce26bab76e65</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="class">
     <name>Steinberg::Vst::PlugController</name>
     <filename>classSteinberg_1_1Vst_1_1PlugController.html</filename>
     <base>Steinberg::Vst::EditControllerEx1</base>
+    <base>Steinberg::Vst::EditControllerEx1</base>
+    <base>Steinberg::Vst::EditControllerEx1</base>
+    <base>Steinberg::Vst::INoteExpressionController</base>
     <base>Steinberg::Vst::EditControllerEx1</base>
     <base>Steinberg::Vst::ChannelContext::IInfoListener</base>
     <member kind="function">
@@ -6151,11 +7084,123 @@
       <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
+      <type>IPlugView *</type>
+      <name>createView</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a634ef43d3538409b98c1fc2cd5e494a0</anchor>
+      <arglist>(const char *name) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>CView *</type>
+      <name>createCustomView</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>aeb86f6fdd0b8ce18fdc55881ebd60f72</anchor>
+      <arglist>(UTF8StringPtr name, const UIAttributes &amp;attributes, const IUIDescription *description, VST3Editor *editor) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>willClose</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>adcaa6b4cddc255715dff34434cf13b77</anchor>
+      <arglist>(VST3Editor *editor) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>notify</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a60bbab8211ead54d50dbb672be410342</anchor>
+      <arglist>(IMessage *message) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>receiveText</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>ae25e419f5f1a129dfe1e9de5987f157f</anchor>
+      <arglist>(const char8 *text) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>int32</type>
+      <name>getNoteExpressionCount</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a5d93e889ab504c7e08356683094be8a5</anchor>
+      <arglist>(int32 busIndex, int16 channel) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getNoteExpressionInfo</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a487e1f5b80a28b511301f98dca4a5d0b</anchor>
+      <arglist>(int32 busIndex, int16 channel, int32 noteExpressionIndex, NoteExpressionTypeInfo &amp;info) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getNoteExpressionStringByValue</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>abc366969b6b2e1cef34c221db92e806d</anchor>
+      <arglist>(int32 busIndex, int16 channel, NoteExpressionTypeID id, NoteExpressionValue valueNormalized, String128 string) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getNoteExpressionValueByString</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>af4d16dae99ff1010b80359cb70500e31</anchor>
+      <arglist>(int32 busIndex, int16 channel, NoteExpressionTypeID id, const TChar *string, NoteExpressionValue &amp;valueNormalized) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>initialize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a4dae123b5697706651d9ff20c9614f63</anchor>
+      <arglist>(FUnknown *context) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setComponentState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a9d48aa02feb98d52c054d5f4198fa7c9</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
       <type>tresult</type>
       <name>setParamNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
       <anchor>aeb78d794ce0bc5812c526a1cc2083d5d</anchor>
       <arglist>(ParamID tag, ParamValue value) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>initialize</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a4dae123b5697706651d9ff20c9614f63</anchor>
+      <arglist>(FUnknown *context) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setParamNormalized</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>aeb78d794ce0bc5812c526a1cc2083d5d</anchor>
+      <arglist>(ParamID tag, ParamValue value) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setComponentState</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a9d48aa02feb98d52c054d5f4198fa7c9</anchor>
+      <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static FUnknown *</type>
+      <name>createInstance</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a06ee2b7654aea24e36857ecee3885225</anchor>
+      <arglist>(void *context)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static FUnknown *</type>
+      <name>createInstance</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1PlugController.html</anchorfile>
+      <anchor>a06ee2b7654aea24e36857ecee3885225</anchor>
+      <arglist>(void *context)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static FUnknown *</type>
@@ -6600,6 +7645,52 @@
       <anchorfile>classSteinberg_1_1Vst_1_1VstModule.html</anchorfile>
       <anchor>adf38eeb88391ed02bef501e3e2f00395</anchor>
       <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Vst::AudioHost</name>
+    <filename>namespaceSteinberg_1_1Vst_1_1AudioHost.html</filename>
+    <class kind="class">Steinberg::Vst::AudioHost::App</class>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::AudioHost::App</name>
+    <filename>classSteinberg_1_1Vst_1_1AudioHost_1_1App.html</filename>
+    <member kind="function">
+      <type></type>
+      <name>~App</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1AudioHost_1_1App.html</anchorfile>
+      <anchor>ac7e42b802d980ec54a4d288b4295fa1d</anchor>
+      <arglist>() noexceptoverride</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>init</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1AudioHost_1_1App.html</anchorfile>
+      <anchor>a194800d8632edea19471ac4b39e1c784</anchor>
+      <arglist>(const std::vector&lt; std::string &gt; &amp;cmdArgs) override</arglist>
+    </member>
+  </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Vst::EditorHost</name>
+    <filename>namespaceSteinberg_1_1Vst_1_1EditorHost.html</filename>
+    <class kind="class">Steinberg::Vst::EditorHost::App</class>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::EditorHost::App</name>
+    <filename>classSteinberg_1_1Vst_1_1EditorHost_1_1App.html</filename>
+    <member kind="function">
+      <type></type>
+      <name>~App</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorHost_1_1App.html</anchorfile>
+      <anchor>ac7e42b802d980ec54a4d288b4295fa1d</anchor>
+      <arglist>() noexceptoverride</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>init</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1EditorHost_1_1App.html</anchorfile>
+      <anchor>a194800d8632edea19471ac4b39e1c784</anchor>
+      <arglist>(const std::vector&lt; std::string &gt; &amp;cmdArgs) override</arglist>
     </member>
   </compound>
   <compound kind="namespace">
@@ -10326,29 +11417,29 @@
       <anchor>a35aa3fed88ff6cfb7898384d9e608277</anchor>
       <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>hasProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
-      <anchor>a50e79a85052ab5f046300e4321f84906</anchor>
+      <anchor>ac1e6fe1a9c58033c643b713d6f34d1fd</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual Steinberg::uint32</type>
+    <member kind="function">
+      <type>Steinberg::uint32</type>
       <name>getCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
-      <anchor>ac61583a6a54d3ee3b0b26f2910abeb6d</anchor>
+      <anchor>a738c59f4cea27ff49f903708c8b9fe2c</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
       <anchor>a55903a4515c78f60fffa73b09a924bf4</anchor>
       <arglist>(Steinberg::uint32 val) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgramNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
       <anchor>a8bf90593e40ded7977f2c198b52ad973</anchor>
@@ -11199,29 +12290,29 @@
       <anchor>a35aa3fed88ff6cfb7898384d9e608277</anchor>
       <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>hasProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
-      <anchor>a50e79a85052ab5f046300e4321f84906</anchor>
+      <anchor>ac1e6fe1a9c58033c643b713d6f34d1fd</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual Steinberg::uint32</type>
+    <member kind="function">
+      <type>Steinberg::uint32</type>
       <name>getCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
-      <anchor>ac61583a6a54d3ee3b0b26f2910abeb6d</anchor>
+      <anchor>a738c59f4cea27ff49f903708c8b9fe2c</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
       <anchor>a55903a4515c78f60fffa73b09a924bf4</anchor>
       <arglist>(Steinberg::uint32 val) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgramNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
       <anchor>a8bf90593e40ded7977f2c198b52ad973</anchor>
@@ -12024,29 +13115,29 @@
       <anchor>a35aa3fed88ff6cfb7898384d9e608277</anchor>
       <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>hasProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
-      <anchor>a50e79a85052ab5f046300e4321f84906</anchor>
+      <anchor>ac1e6fe1a9c58033c643b713d6f34d1fd</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual Steinberg::uint32</type>
+    <member kind="function">
+      <type>Steinberg::uint32</type>
       <name>getCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
-      <anchor>ac61583a6a54d3ee3b0b26f2910abeb6d</anchor>
+      <anchor>a738c59f4cea27ff49f903708c8b9fe2c</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
       <anchor>a55903a4515c78f60fffa73b09a924bf4</anchor>
       <arglist>(Steinberg::uint32 val) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgramNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
       <anchor>a8bf90593e40ded7977f2c198b52ad973</anchor>
@@ -14134,29 +15225,29 @@
       <anchor>a35aa3fed88ff6cfb7898384d9e608277</anchor>
       <arglist>(ProcessData &amp;data) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
+    <member kind="function">
+      <type>bool</type>
       <name>hasProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
-      <anchor>a50e79a85052ab5f046300e4321f84906</anchor>
+      <anchor>ac1e6fe1a9c58033c643b713d6f34d1fd</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual Steinberg::uint32</type>
+    <member kind="function">
+      <type>Steinberg::uint32</type>
       <name>getCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
-      <anchor>ac61583a6a54d3ee3b0b26f2910abeb6d</anchor>
+      <anchor>a738c59f4cea27ff49f903708c8b9fe2c</anchor>
       <arglist>() const SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgram</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
       <anchor>a55903a4515c78f60fffa73b09a924bf4</anchor>
       <arglist>(Steinberg::uint32 val) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
+    <member kind="function">
+      <type>void</type>
       <name>setCurrentProgramNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
       <anchor>a8bf90593e40ded7977f2c198b52ad973</anchor>
@@ -18236,43 +19327,43 @@
       <anchor>a9d48aa02feb98d52c054d5f4198fa7c9</anchor>
       <arglist>(IBStream *state) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>setParamNormalized</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>aeb78d794ce0bc5812c526a1cc2083d5d</anchor>
       <arglist>(ParamID tag, ParamValue value) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>getMidiControllerAssignment</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>accb2b76127645a7a8ec171c7b220ce8d</anchor>
       <arglist>(int32 busIndex, int16 channel, CtrlNumber midiControllerNumber, ParamID &amp;id) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual int32</type>
+    <member kind="function">
+      <type>int32</type>
       <name>getNoteExpressionCount</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>a5d93e889ab504c7e08356683094be8a5</anchor>
       <arglist>(int32 busIndex, int16 channel) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>getNoteExpressionInfo</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>a487e1f5b80a28b511301f98dca4a5d0b</anchor>
       <arglist>(int32 busIndex, int16 channel, int32 noteExpressionIndex, NoteExpressionTypeInfo &amp;info) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>getNoteExpressionStringByValue</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>abc366969b6b2e1cef34c221db92e806d</anchor>
       <arglist>(int32 busIndex, int16 channel, NoteExpressionTypeID id, NoteExpressionValue valueNormalized, String128 string) SMTG_OVERRIDE</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual tresult</type>
+    <member kind="function">
+      <type>tresult</type>
       <name>getNoteExpressionValueByString</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>af4d16dae99ff1010b80359cb70500e31</anchor>
@@ -18297,8 +19388,8 @@
     <name>Steinberg::Vst::NoteExpressionSynth::ControllerWithUI</name>
     <filename>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</filename>
     <base>Steinberg::Vst::NoteExpressionSynth::Controller</base>
-    <member kind="function" virtualness="virtual">
-      <type>virtual IPlugView *</type>
+    <member kind="function">
+      <type>IPlugView *</type>
       <name>createView</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
       <anchor>aa2fea25360b1f4824345acc423b1f8db</anchor>
@@ -19131,13 +20222,6 @@
       <arglist></arglist>
     </member>
   </compound>
-  <compound kind="namespace">
-    <name>VSTGUI</name>
-    <filename>namespaceVSTGUI.html</filename>
-    <class kind="class">VSTGUI::EventLogDataBrowserSource</class>
-    <class kind="class">VSTGUI::NoteTouchController</class>
-    <class kind="class">VSTGUI::PitchNamesDataBrowserSource</class>
-  </compound>
   <compound kind="class">
     <name>VSTGUI::EventLogDataBrowserSource</name>
     <filename>classVSTGUI_1_1EventLogDataBrowserSource.html</filename>
@@ -19359,29 +20443,29 @@
       <type>void</type>
       <name>controlBeginEdit</name>
       <anchorfile>classVSTGUI_1_1NoteTouchController.html</anchorfile>
-      <anchor>afb237fa580f6f996152807bb666924be</anchor>
-      <arglist>(CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>a5710f4953ade5a9361b3b8342c0c1f3b</anchor>
+      <arglist>(CControl *pControl) override</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>void</type>
       <name>controlEndEdit</name>
       <anchorfile>classVSTGUI_1_1NoteTouchController.html</anchorfile>
-      <anchor>a846ca2c39bb810319513de1cd5360727</anchor>
-      <arglist>(CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>a137265ed70dca9006615cbcc86c29774</anchor>
+      <arglist>(CControl *pControl) override</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>void</type>
       <name>valueChanged</name>
       <anchorfile>classVSTGUI_1_1NoteTouchController.html</anchorfile>
-      <anchor>afbaca3887438c620a0a947ecf7184d48</anchor>
-      <arglist>(CControl *pControl) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>a94d64f149dbf98863f121a3f6ce588ac</anchor>
+      <arglist>(CControl *pControl) override</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>CView *</type>
       <name>verifyView</name>
       <anchorfile>classVSTGUI_1_1NoteTouchController.html</anchorfile>
-      <anchor>ad0b8520e5feed0d9fd39b6cf1c29b4a2</anchor>
-      <arglist>(CView *view, const UIAttributes &amp;attributes, const IUIDescription *description) VSTGUI_OVERRIDE_VMETHOD</arglist>
+      <anchor>aebae74569db42650b5f06a92c63a0550</anchor>
+      <arglist>(CView *view, const UIAttributes &amp;attributes, const IUIDescription *description) override</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>void</type>
@@ -19600,46 +20684,58 @@
   </compound>
   <compound kind="dir">
     <name>adelay</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/</path>
-    <filename>dir_85853d1f2c321934b2d0b4b8cda6e5c5.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/</path>
+    <filename>dir_04859f0213a6ffbdcfbd7c51982eeed4.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>again</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/</path>
-    <filename>dir_5ffc5b65933164afb77ebc5b5eb628d9.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/</path>
+    <filename>dir_eefd2ffdb3d116567df2143b6a3e79ca.html</filename>
+    <dir>source</dir>
+  </compound>
+  <compound kind="dir">
+    <name>audiohost</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/</path>
+    <filename>dir_71f58d66f400732de77828b915cad43f.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>channelcontext</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/</path>
-    <filename>dir_6e70dddd8efe192a200442b707c5a654.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/</path>
+    <filename>dir_8b24b7cbdafaca74699c2b6a088a6be3.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>common</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
-    <filename>dir_25155a3fac66965a025910ca5a9dd925.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/common/</path>
+    <filename>dir_1acc5ff332e463b803f6f2db59e1f892.html</filename>
     <file>logscale.h</file>
     <file>voicebase.h</file>
     <file>voiceprocessor.h</file>
   </compound>
   <compound kind="dir">
+    <name>editorhost</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/</path>
+    <filename>dir_c4915a1052ec68250e64ec698292e0c9.html</filename>
+    <dir>source</dir>
+  </compound>
+  <compound kind="dir">
     <name>hostchecker</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/</path>
-    <filename>dir_7a4e78622845ac8e2d8be874b02fb572.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/</path>
+    <filename>dir_d93e5e02a93f08a7df5c67abb40f04a4.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>InterAppAudio</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/</path>
-    <filename>dir_a8e36a444327f87643906ead2e71d6f1.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/</path>
+    <filename>dir_46f1b6e05b4226ee7d772e2dd4c3ea3a.html</filename>
     <dir>InterAppAudioExample</dir>
   </compound>
   <compound kind="dir">
     <name>InterAppAudioExample</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
-    <filename>dir_5c181f9a89ae6a2af320b8eafb17319a.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/InterAppAudio/InterAppAudioExample/</path>
+    <filename>dir_17c8f514ffa258dec28271bf91e79e85.html</filename>
     <file>main.m</file>
     <file>VSTInterAppAudioAppDelegate.h</file>
     <file>VSTInterAppAudioAppDelegate.mm</file>
@@ -19648,44 +20744,70 @@
   </compound>
   <compound kind="dir">
     <name>mda-vst3</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/</path>
-    <filename>dir_49976055b6bc2e03b4acc62441be6b92.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/</path>
+    <filename>dir_d4c154407fe1d2574e49ee001b8a1c9f.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>note_expression_synth</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/</path>
-    <filename>dir_0140fa053d2e858593a0f7abc2b650ff.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/</path>
+    <filename>dir_ef4e64b2393ecab5cd2532ec2b21d00c.html</filename>
+    <dir>source</dir>
+  </compound>
+  <compound kind="dir">
+    <name>note_expression_text</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/</path>
+    <filename>dir_fe541f4a376f7dedb05e0490b5fde39c.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>pitchnames</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/</path>
-    <filename>dir_b39eac9c57979fc2d284d85f699e7720.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/</path>
+    <filename>dir_5abbddcd432b7adb2df2b24bfa4cb94e.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>prefetchablesupport</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/</path>
-    <filename>dir_12f6b7b17c5635ab054371ff76a5507c.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/</path>
+    <filename>dir_c0fd7d8c8d0db04e25369a4d1aa631c2.html</filename>
+    <dir>source</dir>
+  </compound>
+  <compound kind="dir">
+    <name>programchange</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/</path>
+    <filename>dir_56605674df9a11d340b9e17bcc5f8576.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>public.sdk</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/</path>
-    <filename>dir_06b2911d428eab5a2cf7ddc3164ebf47.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/</path>
+    <filename>dir_2be96af37461d5ec61e866bd7dcc9907.html</filename>
     <dir>samples</dir>
   </compound>
   <compound kind="dir">
     <name>samples</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/</path>
-    <filename>dir_14ae8cef5b4cd5ebc5413814d7bbe8ce.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/</path>
+    <filename>dir_a2e9ae5b633a1cd361b7e3d913c6c2e1.html</filename>
     <dir>vst</dir>
+    <dir>vst-hosting</dir>
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
-    <filename>dir_918fdd5a817d7329f8eb79bbeab045c0.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/programchange/source/</path>
+    <filename>dir_4117c62097b35defc1e72cde2fc8e67a.html</filename>
+    <file>programchange/source/plug.cpp</file>
+    <file>programchange/source/plug.h</file>
+    <file>programchange/source/plugcids.h</file>
+    <file>programchange/source/plugcontroller.cpp</file>
+    <file>programchange/source/plugcontroller.h</file>
+    <file>programchange/source/plugentry.cpp</file>
+    <file>programchange/source/plugparamids.h</file>
+    <file>programchange/source/version.h</file>
+  </compound>
+  <compound kind="dir">
+    <name>source</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/prefetchablesupport/source/</path>
+    <filename>dir_2cd8223adb88d3abc08dfb66e9c2ba40.html</filename>
     <file>prefetchablesupport/source/plug.cpp</file>
     <file>prefetchablesupport/source/plug.h</file>
     <file>prefetchablesupport/source/plugcids.h</file>
@@ -19697,8 +20819,21 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
-    <filename>dir_6873155677356d3e12bf587df0acc85f.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_text/source/</path>
+    <filename>dir_b1b12f41ef6114f5756e929e8ec32e16.html</filename>
+    <file>note_expression_text/source/plug.cpp</file>
+    <file>note_expression_text/source/plug.h</file>
+    <file>note_expression_text/source/plugcids.h</file>
+    <file>note_expression_text/source/plugcontroller.cpp</file>
+    <file>note_expression_text/source/plugcontroller.h</file>
+    <file>note_expression_text/source/plugentry.cpp</file>
+    <file>note_expression_text/source/plugparamids.h</file>
+    <file>note_expression_text/source/version.h</file>
+  </compound>
+  <compound kind="dir">
+    <name>source</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/channelcontext/source/</path>
+    <filename>dir_aeed6beb2db3f4f0d705dc2e05052857.html</filename>
     <file>channelcontext/source/plug.cpp</file>
     <file>channelcontext/source/plug.h</file>
     <file>channelcontext/source/plugcids.h</file>
@@ -19710,17 +20845,17 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/source/</path>
-    <filename>dir_eb2e981a61e9630c0aca99d05100f0ec.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/source/</path>
+    <filename>dir_893af24825b2889fb81344746b3adcdf.html</filename>
     <file>main.cpp</file>
-    <file>usediids.cpp</file>
+    <file>validator/source/usediids.cpp</file>
     <file>validator.cpp</file>
     <file>validator.h</file>
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
-    <filename>dir_9b11b281bf06f006f7004a60519e42ce.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/mda-vst3/source/</path>
+    <filename>dir_d4b05468ed30783bca5c64dd9b76fca2.html</filename>
     <file>helpers.h</file>
     <file>mdaAmbienceController.cpp</file>
     <file>mdaAmbienceController.h</file>
@@ -19871,8 +21006,8 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
-    <filename>dir_5ede12d9735336edd908bddd8120d229.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/pitchnames/source/</path>
+    <filename>dir_392d65230994e633ba26086f8350f92e.html</filename>
     <file>pitchnames/source/factory.cpp</file>
     <file>pitchnames.cpp</file>
     <file>pitchnames.h</file>
@@ -19882,10 +21017,20 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
-    <filename>dir_bf6194ff8862ed10087e532de5ff169a.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/source/</path>
+    <filename>dir_f87c91590f7ec59833c3131bbb8e0322.html</filename>
+    <file>editorhost.cpp</file>
+    <file>editorhost.h</file>
+    <file>editorhost/source/usediids.cpp</file>
+  </compound>
+  <compound kind="dir">
+    <name>source</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/hostchecker/source/</path>
+    <filename>dir_de43d66c7378994ba39e45db63938b3e.html</filename>
     <file>dirtyflagcontroller.cpp</file>
     <file>dirtyflagcontroller.h</file>
+    <file>editorsizecontroller.cpp</file>
+    <file>editorsizecontroller.h</file>
     <file>eventlistcheck.cpp</file>
     <file>eventlistcheck.h</file>
     <file>eventlogdatabrowsersource.cpp</file>
@@ -19910,8 +21055,8 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
-    <filename>dir_459acea6bd11f568cdaac686bdce8b83.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/note_expression_synth/source/</path>
+    <filename>dir_482a70732d982c2ea65baf3b98e57c30.html</filename>
     <file>brownnoise.h</file>
     <file>note_expression_synth/source/factory.cpp</file>
     <file>filter.h</file>
@@ -19929,8 +21074,16 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
-    <filename>dir_5f0b57212033decce8bf708427ed83ec.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/source/</path>
+    <filename>dir_291c61f15e660799cde3fbebba25e4e1.html</filename>
+    <file>audiohost.cpp</file>
+    <file>audiohost.h</file>
+    <file>audiohost/source/usediids.cpp</file>
+  </compound>
+  <compound kind="dir">
+    <name>source</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/again/source/</path>
+    <filename>dir_9152dce30c3bf8e2ea78564cd2cfb329.html</filename>
     <file>again.cpp</file>
     <file>again.h</file>
     <file>againcids.h</file>
@@ -19947,8 +21100,8 @@
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
-    <filename>dir_5cb05f3dd94d4039ed4833502427bb87.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/adelay/source/</path>
+    <filename>dir_8e7cba10a58e1934cee165d53cae4bc4.html</filename>
     <file>adelaycontroller.cpp</file>
     <file>adelaycontroller.h</file>
     <file>adelayids.h</file>
@@ -19961,14 +21114,14 @@
   </compound>
   <compound kind="dir">
     <name>validator</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/validator/</path>
-    <filename>dir_504f3f6582c88869dcb0e7c0fcff5bdc.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/</path>
+    <filename>dir_3366c32b0ccce97639fcb88122a69901.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>vst</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/</path>
-    <filename>dir_5898a34b900eeb5b54fd3cf30212c70a.html</filename>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst/</path>
+    <filename>dir_a11b2f00aad830e13ad995618499a06a.html</filename>
     <dir>adelay</dir>
     <dir>again</dir>
     <dir>channelcontext</dir>
@@ -19977,10 +21130,19 @@
     <dir>InterAppAudio</dir>
     <dir>mda-vst3</dir>
     <dir>note_expression_synth</dir>
+    <dir>note_expression_text</dir>
     <dir>pitchnames</dir>
     <dir>prefetchablesupport</dir>
-    <dir>validator</dir>
+    <dir>programchange</dir>
     <file>doc.h</file>
+  </compound>
+  <compound kind="dir">
+    <name>vst-hosting</name>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/</path>
+    <filename>dir_4a5a5afc003cc452c581f7228d75b9b9.html</filename>
+    <dir>audiohost</dir>
+    <dir>editorhost</dir>
+    <dir>validator</dir>
   </compound>
   <compound kind="page">
     <name>index</name>

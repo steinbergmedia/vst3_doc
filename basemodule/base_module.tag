@@ -2,13 +2,13 @@
 <tagfile>
   <compound kind="file">
     <name>baseiids.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>baseiids_8cpp</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>classfactoryhelpers.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>classfactoryhelpers_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -69,12 +69,12 @@
   </compound>
   <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
     <name>fbuffer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8cpp</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -82,14 +82,14 @@
   </compound>
   <compound kind="file">
     <name>fbuffer.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8h</filename>
     <class kind="class">Steinberg::Buffer</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>fcleanup.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcleanup_8h</filename>
     <class kind="struct">Steinberg::FDeleter</class>
     <class kind="struct">Steinberg::FArrayDeleter</class>
@@ -110,7 +110,7 @@
   </compound>
   <compound kind="file">
     <name>fcommandline.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcommandline_8h</filename>
     <class kind="class">Steinberg::CommandLine::VariablesMap</class>
     <class kind="class">Steinberg::CommandLine::Description</class>
@@ -141,61 +141,61 @@
   </compound>
   <compound kind="file">
     <name>fdebug.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8cpp</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
   </compound>
   <compound kind="file">
     <name>fdebug.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8h</filename>
     <member kind="define">
       <type>#define</type>
-      <name>ASSERT</name>
+      <name>SMTG_ASSERT</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a79da58dac9dcdbcd4005f1d440e363ba</anchor>
+      <anchor>afe9433f0fc5b657a2f73863c413d8690</anchor>
       <arglist>(f)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>WARNING</name>
+      <name>SMTG_WARNING</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a3dee4af8b0fd4925fc10f13a67ce61ba</anchor>
+      <anchor>a5e5a76c97ca0b07d2c08ce8de068cef3</anchor>
       <arglist>(s)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>PRINTSYSERROR</name>
+      <name>SMTG_PRINTSYSERROR</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>ad48f9d61b00fa2397b11eb977c7785dd</anchor>
+      <anchor>aa58eec37e07b00b1ef4409319a6c1d48</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DEBUGSTR</name>
+      <name>SMTG_DEBUGSTR</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>ae69e6846ddfd99b3f190961851c4503d</anchor>
+      <anchor>ac9bfa937bab4882709076060b7c00392</anchor>
       <arglist>(s)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>VERIFY</name>
+      <name>SMTG_VERIFY</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a5de907e07dd6433a750df8008c401755</anchor>
+      <anchor>ac9c56b9f1fc75b5e3738b1925418c949</anchor>
       <arglist>(f)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>VERIFY_IS</name>
+      <name>SMTG_VERIFY_IS</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a3bbad7c5d165445926888e1d4a7d7e76</anchor>
+      <anchor>a520468517905bd79f5d9948759592773</anchor>
       <arglist>(f, r)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>VERIFY_NOT</name>
+      <name>SMTG_VERIFY_NOT</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>ab75274746844cb9543447f719c762f0f</anchor>
+      <anchor>a9fa41cf5abc4085415872f3ac6af6d5c</anchor>
       <arglist>(f, r)</arglist>
     </member>
     <member kind="define">
@@ -261,10 +261,59 @@
       <anchor>a7d20c982526ebd75fb56ca5511380b4c</anchor>
       <arglist></arglist>
     </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>ASSERT</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>af343b20373ba49a92fce523e948f2ab3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>WARNING</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>a5cb439d9f933fde4cf23caa370c030e7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DEBUGSTR</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>ad0a48883bb586ecd370427352cd3e017</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERIFY</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>ab64044259d5a2440725279dc7801f33e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERIFY_IS</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>a93c92efcb3b1c98a1ba51836017ebaad</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VERIFY_NOT</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>accb3bda5a6288f9bf34cd6136c859473</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>PRINTSYSERROR</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>ad48f9d61b00fa2397b11eb977c7785dd</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>fdynlib.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8cpp</filename>
     <includes id="fdynlib_8h" name="fdynlib.h" local="yes" imported="no">base/source/fdynlib.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -272,45 +321,17 @@
   </compound>
   <compound kind="file">
     <name>fdynlib.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::FDynLibrary</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
-    <name>flock.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
-    <filename>flock_8cpp</filename>
-    <includes id="flock_8h" name="flock.h" local="yes" imported="no">base/source/flock.h</includes>
-    <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
-    <namespace>Steinberg</namespace>
-    <member kind="define">
-      <type>#define</type>
-      <name>DEBUG_LOCK</name>
-      <anchorfile>flock_8cpp.html</anchorfile>
-      <anchor>a7480a62cb6d1de6cc68d75ffc1d901bf</anchor>
-      <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="file">
-    <name>flock.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
-    <filename>flock_8h</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">fobject.h</includes>
-    <class kind="struct">Steinberg::ILock</class>
-    <class kind="class">Steinberg::FLock</class>
-    <class kind="class">Steinberg::FLockObject</class>
-    <class kind="class">Steinberg::FGuard</class>
-    <class kind="class">Steinberg::FConditionalGuard</class>
-    <namespace>Steinberg</namespace>
-  </compound>
-  <compound kind="file">
     <name>fobject.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8cpp</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
-    <includes id="flock_8h" name="flock.h" local="yes" imported="no">base/source/flock.h</includes>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Singleton</namespace>
     <member kind="typedef">
@@ -370,10 +391,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>FLock *</type>
+      <type>Steinberg::Base::Thread::FLock *</type>
       <name>singletonsLock</name>
       <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a29266b1d4111658632fadb4ef9b57b23</anchor>
+      <anchor>ac67df8722321fe3f07d688a9710006cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -386,7 +407,7 @@
   </compound>
   <compound kind="file">
     <name>fobject.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8h</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
     <class kind="class">Steinberg::FObject</class>
@@ -584,7 +605,7 @@
   </compound>
   <compound kind="file">
     <name>fstdmethods.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstdmethods_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -729,7 +750,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8cpp</filename>
     <includes id="fstreamer_8h" name="fstreamer.h" local="yes" imported="no">fstreamer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -738,7 +759,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8h</filename>
     <class kind="class">Steinberg::FStreamer</class>
     <class kind="class">Steinberg::FStreamSizeHolder</class>
@@ -775,7 +796,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8cpp</filename>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
@@ -806,6 +827,20 @@
       <name>SMTG_STRING_CHECK_MSG</name>
       <anchorfile>fstring_8cpp.html</anchorfile>
       <anchor>a31965eb0cfa7cfcf80410f2b94c40086</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::codecvt_utf8_utf16&lt; char16_t &gt;</type>
+      <name>ConverterFacet</name>
+      <anchorfile>fstring_8cpp.html</anchorfile>
+      <anchor>a1ece0eb061ed782654f2aadfd088e204</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::wstring_convert&lt; ConverterFacet, char16_t &gt;</type>
+      <name>Converter</name>
+      <anchorfile>fstring_8cpp.html</anchorfile>
+      <anchor>a243f56b639b9bb0d1850454b40ea0cb8</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -846,7 +881,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::ConstString</class>
@@ -1262,7 +1297,7 @@
   </compound>
   <compound kind="file">
     <name>hexbinary.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>hexbinary_8h</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1284,7 +1319,7 @@
   </compound>
   <compound kind="file">
     <name>timer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8cpp</filename>
     <includes id="timer_8h" name="timer.h" local="yes" imported="no">base/source/timer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1299,7 +1334,7 @@
   </compound>
   <compound kind="file">
     <name>timer.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">fobject.h</includes>
     <class kind="class">Steinberg::ITimerCallback</class>
@@ -1331,12 +1366,13 @@
   </compound>
   <compound kind="file">
     <name>updatehandler.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8cpp</filename>
     <includes id="updatehandler_8h" name="updatehandler.h" local="yes" imported="no">base/source/updatehandler.h</includes>
     <includes id="classfactoryhelpers_8h" name="classfactoryhelpers.h" local="yes" imported="no">base/source/classfactoryhelpers.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
     <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Update</namespace>
     <member kind="define">
       <type>#define</type>
       <name>NON_EXISTING_DEPENDENCY_CHECK</name>
@@ -1351,12 +1387,103 @@
       <anchor>a748343c42faddaaa8b263d379c45a1a6</anchor>
       <arglist></arglist>
     </member>
+    <member kind="typedef">
+      <type>std::deque&lt; DeferedChange &gt;</type>
+      <name>DeferedChangeList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a86406d9344ab1f94abef244feb645da5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DeferedChangeList::const_iterator</type>
+      <name>DeferedChangeListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a10d43496e920ebdbc802ce76db8c613f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DeferedChangeList::iterator</type>
+      <name>DeferedChangeListIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a24a5111ee070e3b09070661e5cb3727f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::deque&lt; UpdateData &gt;</type>
+      <name>UpdateDataList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a14339b065a4127e95d7e5a27de6f012d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UpdateDataList::const_iterator</type>
+      <name>UpdateDataListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7ebf0b7085e9e7dae309e147ae1fcdd3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::vector&lt; IDependent * &gt;</type>
+      <name>DependentList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>ab166dfb9112adbdc750ee804d7f72002</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentList::iterator</type>
+      <name>DependentListIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a1c8d47043e3b6849e91de2d0721c1977</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentList::const_iterator</type>
+      <name>DependentListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7de7e7a5698f3e09a778c4c781f214c2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::map&lt; const FUnknown *, DependentList &gt;</type>
+      <name>DependentMap</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a72bc194877ebf5171a76175dc4f62c8e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentMap::iterator</type>
+      <name>DependentMapIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>aa90f729c8d7bf622a95894e0d6e71fb0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentMap::const_iterator</type>
+      <name>DependentMapIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>ac8308b38f9165020083bc91c2effdbd5</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="function">
-      <type></type>
-      <name>DEF_CLASS_IID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a03374ef5cb2e4ca5d36313f4c3dd85e2</anchor>
-      <arglist>(IUpdateManager) namespace Update</arglist>
+      <type>uint32</type>
+      <name>hashPointer</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a246841eba5cadc4df121e9d25c850834</anchor>
+      <arglist>(void *p)</arglist>
+    </member>
+    <member kind="function">
+      <type>IPtr&lt; FUnknown &gt;</type>
+      <name>getUnknownBase</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7cafef962152419f85a702f81054c31d</anchor>
+      <arglist>(FUnknown *unknown)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>updateDone</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a03d2e8f5e97048b6bb17dc6745ae314c</anchor>
+      <arglist>(FUnknown *unknown, int32 message)</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -1365,26 +1492,29 @@
       <anchor>a3ee8284939137d61a597836f314c71d8</anchor>
       <arglist>(UpdateHandler) static int32 countEntries(Update</arglist>
     </member>
+    <member kind="variable">
+      <type>const uint32</type>
+      <name>kHashSize</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>abef3793f2d7d9c88ea2060471e321bb6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const uint32</type>
+      <name>kMapSize</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a83c50e3d7a4159ec9a96a13782cdd412</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>updatehandler.h</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
-    <includes id="flock_8h" name="flock.h" local="yes" imported="no">base/source/flock.h</includes>
     <class kind="class">Steinberg::IUpdateManager</class>
     <class kind="class">Steinberg::UpdateHandler</class>
     <namespace>Steinberg</namespace>
-  </compound>
-  <compound kind="group">
-    <name>baseLocks</name>
-    <title>Locks</title>
-    <filename>group__baseLocks.html</filename>
-    <class kind="struct">Steinberg::ILock</class>
-    <class kind="class">Steinberg::FLock</class>
-    <class kind="class">Steinberg::FLockObject</class>
-    <class kind="class">Steinberg::FGuard</class>
-    <class kind="class">Steinberg::FConditionalGuard</class>
   </compound>
   <compound kind="namespace">
     <name>Steinberg</name>
@@ -1393,6 +1523,7 @@
     <namespace>Steinberg::HexBinary</namespace>
     <namespace>Steinberg::Singleton</namespace>
     <namespace>Steinberg::SystemTime</namespace>
+    <namespace>Steinberg::Update</namespace>
     <class kind="class">Steinberg::Buffer</class>
     <class kind="class">Steinberg::ConstString</class>
     <class kind="class">Steinberg::DisableDispatchingTimers</class>
@@ -1400,12 +1531,8 @@
     <class kind="struct">Steinberg::FBooleanSetter</class>
     <class kind="struct">Steinberg::FCloser</class>
     <class kind="struct">Steinberg::FConditionalBoolSetter</class>
-    <class kind="class">Steinberg::FConditionalGuard</class>
     <class kind="struct">Steinberg::FDeleter</class>
     <class kind="class">Steinberg::FDynLibrary</class>
-    <class kind="class">Steinberg::FGuard</class>
-    <class kind="class">Steinberg::FLock</class>
-    <class kind="class">Steinberg::FLockObject</class>
     <class kind="class">Steinberg::FMallocReleaser</class>
     <class kind="struct">Steinberg::FNuller</class>
     <class kind="class">Steinberg::FObject</class>
@@ -1413,7 +1540,6 @@
     <class kind="class">Steinberg::FStreamer</class>
     <class kind="class">Steinberg::FStreamSizeHolder</class>
     <class kind="class">Steinberg::IBStreamer</class>
-    <class kind="struct">Steinberg::ILock</class>
     <class kind="class">Steinberg::ITimerCallback</class>
     <class kind="class">Steinberg::IUpdateManager</class>
     <class kind="class">Steinberg::String</class>
@@ -1972,13 +2098,6 @@
       <anchorfile>namespaceSteinberg.html</anchorfile>
       <anchor>af754042087ab79da3c3b0d08681e9a93</anchor>
       <arglist>(const Call &amp;call)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>DEF_CLASS_IID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a03374ef5cb2e4ca5d36313f4c3dd85e2</anchor>
-      <arglist>(IUpdateManager) namespace Update</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -3622,24 +3741,6 @@
       <arglist></arglist>
     </member>
   </compound>
-  <compound kind="class">
-    <name>Steinberg::FConditionalGuard</name>
-    <filename>classSteinberg_1_1FConditionalGuard.html</filename>
-    <member kind="function">
-      <type></type>
-      <name>FConditionalGuard</name>
-      <anchorfile>classSteinberg_1_1FConditionalGuard.html</anchorfile>
-      <anchor>a21e430b048bb32da0139b8036ef7b9a5</anchor>
-      <arglist>(FLock *_lock)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>~FConditionalGuard</name>
-      <anchorfile>classSteinberg_1_1FConditionalGuard.html</anchorfile>
-      <anchor>a5f809cc3f2ab4d106e4836afeef02c14</anchor>
-      <arglist>()</arglist>
-    </member>
-  </compound>
   <compound kind="struct">
     <name>Steinberg::FDeleter</name>
     <filename>structSteinberg_1_1FDeleter.html</filename>
@@ -3849,8 +3950,8 @@
       <type>virtual bool</type>
       <name>isEqualInstance</name>
       <anchorfile>classSteinberg_1_1FObject.html</anchorfile>
-      <anchor>aa719bd1d2cd364ea5f3eea2d465f958a</anchor>
-      <arglist>(IDependent *d)</arglist>
+      <anchor>a5a7c5326199ffb542719387b078ed6da</anchor>
+      <arglist>(FUnknown *d)</arglist>
     </member>
     <member kind="variable">
       <type>OBJ_METHODS(FDynLibrary, FObject) protected void *</type>
@@ -3914,105 +4015,6 @@
       <anchorfile>classSteinberg_1_1FObject.html</anchorfile>
       <anchor>acee1b675f92ac47a457fc7692dfd3a67</anchor>
       <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="class">
-    <name>Steinberg::FGuard</name>
-    <filename>classSteinberg_1_1FGuard.html</filename>
-    <member kind="function">
-      <type></type>
-      <name>FGuard</name>
-      <anchorfile>classSteinberg_1_1FGuard.html</anchorfile>
-      <anchor>a805e846c8f56f0871f214af31b613e39</anchor>
-      <arglist>(ILock &amp;_lock)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>~FGuard</name>
-      <anchorfile>classSteinberg_1_1FGuard.html</anchorfile>
-      <anchor>a0725ecf1da567992f659c2132522fa6b</anchor>
-      <arglist>()</arglist>
-    </member>
-  </compound>
-  <compound kind="class">
-    <name>Steinberg::FLock</name>
-    <filename>classSteinberg_1_1FLock.html</filename>
-    <base>Steinberg::ILock</base>
-    <member kind="function">
-      <type></type>
-      <name>FLock</name>
-      <anchorfile>classSteinberg_1_1FLock.html</anchorfile>
-      <anchor>a97fe91f6c76709cb4d71ecabfad4b170</anchor>
-      <arglist>(const char8 *name=&quot;FLock&quot;)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>~FLock</name>
-      <anchorfile>classSteinberg_1_1FLock.html</anchorfile>
-      <anchor>a11c963234a659a3f5b1930c646068a4d</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
-      <name>lock</name>
-      <anchorfile>classSteinberg_1_1FLock.html</anchorfile>
-      <anchor>a487f7450d0bebbe588222de9ed6ac0c6</anchor>
-      <arglist>() SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual void</type>
-      <name>unlock</name>
-      <anchorfile>classSteinberg_1_1FLock.html</anchorfile>
-      <anchor>ac5aed2dfd115e022dbea7a80218db6ab</anchor>
-      <arglist>() SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
-      <name>trylock</name>
-      <anchorfile>classSteinberg_1_1FLock.html</anchorfile>
-      <anchor>acf213dd0b111fc7071568486cd804671</anchor>
-      <arglist>() SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual</type>
-      <name>~ILock</name>
-      <anchorfile>structSteinberg_1_1ILock.html</anchorfile>
-      <anchor>a0a6a52637f67bba0dc5c1469bdb8ffe3</anchor>
-      <arglist>()</arglist>
-    </member>
-  </compound>
-  <compound kind="class">
-    <name>Steinberg::FLockObject</name>
-    <filename>classSteinberg_1_1FLockObject.html</filename>
-    <base>Steinberg::FObject</base>
-    <base>Steinberg::FLock</base>
-    <member kind="function" virtualness="virtual">
-      <type>virtual Steinberg::FClassID</type>
-      <name>isA</name>
-      <anchorfile>classSteinberg_1_1FLockObject.html</anchorfile>
-      <anchor>ace91ec0d351c50c9c1055c6d1c564517</anchor>
-      <arglist>() const SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
-      <name>isA</name>
-      <anchorfile>classSteinberg_1_1FLockObject.html</anchorfile>
-      <anchor>aa563bbb2a0eea088c585ed97f11ce69e</anchor>
-      <arglist>(Steinberg::FClassID s) const SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual bool</type>
-      <name>isTypeOf</name>
-      <anchorfile>classSteinberg_1_1FLockObject.html</anchorfile>
-      <anchor>a7751d2e4dc5f4b240a218d585a74f5fa</anchor>
-      <arglist>(Steinberg::FClassID s, bool askBaseClass=true) const SMTG_OVERRIDE</arglist>
-    </member>
-    <member kind="function" static="yes">
-      <type>static Steinberg::FClassID</type>
-      <name>getFClassID</name>
-      <anchorfile>classSteinberg_1_1FLockObject.html</anchorfile>
-      <anchor>ab4fb0797983d1f5a1fcf335e4f464480</anchor>
-      <arglist>()</arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -4639,31 +4641,6 @@
       <anchorfile>classSteinberg_1_1IBStreamer.html</anchorfile>
       <anchor>a78d49eed9e150f042fe1e0434fb52102</anchor>
       <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="struct">
-    <name>Steinberg::ILock</name>
-    <filename>structSteinberg_1_1ILock.html</filename>
-    <member kind="function" virtualness="pure">
-      <type>virtual void</type>
-      <name>lock</name>
-      <anchorfile>structSteinberg_1_1ILock.html</anchorfile>
-      <anchor>a820f01a693f2f9a8afeb0d62061c1382</anchor>
-      <arglist>()=0</arglist>
-    </member>
-    <member kind="function" virtualness="pure">
-      <type>virtual void</type>
-      <name>unlock</name>
-      <anchorfile>structSteinberg_1_1ILock.html</anchorfile>
-      <anchor>a31262d17e02fcf1524984b10d72dee3e</anchor>
-      <arglist>()=0</arglist>
-    </member>
-    <member kind="function" virtualness="pure">
-      <type>virtual bool</type>
-      <name>trylock</name>
-      <anchorfile>structSteinberg_1_1ILock.html</anchorfile>
-      <anchor>a160dc7c751dbf45484e0ecd8fb50e66d</anchor>
-      <arglist>()=0</arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -5613,6 +5590,13 @@
       <arglist>(FUnknown *object=0) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
+      <type>size_t</type>
+      <name>countDependencies</name>
+      <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
+      <anchor>a0a27a7354589298ebf7327c7060a14bc</anchor>
+      <arglist>(FUnknown *object=0)</arglist>
+    </member>
+    <member kind="function">
       <type></type>
       <name>OBJ_METHODS</name>
       <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
@@ -5627,10 +5611,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>FObject SINGLETON(UpdateHandler) private FLock</type>
+      <type>FObject SINGLETON(UpdateHandler) private Steinberg::Base::Thread::FLock</type>
       <name>lock</name>
       <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
-      <anchor>ac3b3acb56a5664131244aafb10fa82df</anchor>
+      <anchor>a10f007ffba0c693f361ca6251345a84f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -5638,6 +5622,13 @@
       <name>table</name>
       <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
       <anchor>a11ab8afebbe1338f626a6d1be0137c4a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static bool</type>
+      <name>lockUpdates</name>
+      <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
+      <anchor>aeec50d307a3a7218b3c05edb14d0a875</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5871,10 +5862,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>FLock *</type>
+      <type>Steinberg::Base::Thread::FLock *</type>
       <name>singletonsLock</name>
       <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a29266b1d4111658632fadb4ef9b57b23</anchor>
+      <anchor>ac67df8722321fe3f07d688a9710006cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -5910,15 +5901,131 @@
       <arglist>(uint64 old, uint64 now)</arglist>
     </member>
   </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Update</name>
+    <filename>namespaceSteinberg_1_1Update.html</filename>
+    <member kind="typedef">
+      <type>std::deque&lt; DeferedChange &gt;</type>
+      <name>DeferedChangeList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a86406d9344ab1f94abef244feb645da5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DeferedChangeList::const_iterator</type>
+      <name>DeferedChangeListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a10d43496e920ebdbc802ce76db8c613f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DeferedChangeList::iterator</type>
+      <name>DeferedChangeListIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a24a5111ee070e3b09070661e5cb3727f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::deque&lt; UpdateData &gt;</type>
+      <name>UpdateDataList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a14339b065a4127e95d7e5a27de6f012d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UpdateDataList::const_iterator</type>
+      <name>UpdateDataListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7ebf0b7085e9e7dae309e147ae1fcdd3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::vector&lt; IDependent * &gt;</type>
+      <name>DependentList</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>ab166dfb9112adbdc750ee804d7f72002</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentList::iterator</type>
+      <name>DependentListIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a1c8d47043e3b6849e91de2d0721c1977</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentList::const_iterator</type>
+      <name>DependentListIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7de7e7a5698f3e09a778c4c781f214c2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::map&lt; const FUnknown *, DependentList &gt;</type>
+      <name>DependentMap</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a72bc194877ebf5171a76175dc4f62c8e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentMap::iterator</type>
+      <name>DependentMapIter</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>aa90f729c8d7bf622a95894e0d6e71fb0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>DependentMap::const_iterator</type>
+      <name>DependentMapIterConst</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>ac8308b38f9165020083bc91c2effdbd5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type>uint32</type>
+      <name>hashPointer</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a246841eba5cadc4df121e9d25c850834</anchor>
+      <arglist>(void *p)</arglist>
+    </member>
+    <member kind="function">
+      <type>IPtr&lt; FUnknown &gt;</type>
+      <name>getUnknownBase</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a7cafef962152419f85a702f81054c31d</anchor>
+      <arglist>(FUnknown *unknown)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>updateDone</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a03d2e8f5e97048b6bb17dc6745ae314c</anchor>
+      <arglist>(FUnknown *unknown, int32 message)</arglist>
+    </member>
+    <member kind="variable">
+      <type>const uint32</type>
+      <name>kHashSize</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>abef3793f2d7d9c88ea2060471e321bb6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const uint32</type>
+      <name>kMapSize</name>
+      <anchorfile>namespaceSteinberg_1_1Update.html</anchorfile>
+      <anchor>a83c50e3d7a4159ec9a96a13782cdd412</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
   <compound kind="dir">
     <name>base</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/</path>
     <filename>dir_e914ee4d4a44400f1fdb170cb4ead18a.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/147463379/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>dir_83799167c1376d980d4b19fd5c6a4400.html</filename>
     <file>baseiids.cpp</file>
     <file>classfactoryhelpers.h</file>
@@ -5931,8 +6038,6 @@
     <file>fdebug.h</file>
     <file>fdynlib.cpp</file>
     <file>fdynlib.h</file>
-    <file>flock.cpp</file>
-    <file>flock.h</file>
     <file>fobject.cpp</file>
     <file>fobject.h</file>
     <file>fstdmethods.h</file>

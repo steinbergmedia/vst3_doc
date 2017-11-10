@@ -5,7 +5,7 @@ var searchData=
   ['editorattached',['editorAttached',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a6b866568fd49fdf6f8b310fd468389ee',1,'Steinberg::Vst::EditController']]],
   ['editordestroyed',['editorDestroyed',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a0d848355600e651408719e8a288426ef',1,'Steinberg::Vst::EditController']]],
   ['editorremoved',['editorRemoved',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3',1,'Steinberg::Vst::EditController']]],
-  ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a65ba1b8088caf518991aa80bd06f8614',1,'Steinberg::Vst::EditorView']]],
+  ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf',1,'Steinberg::Vst::EditorView']]],
   ['email',['email',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo']]],
   ['empty',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant']]],
   ['endcell',['endCell',['../../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9fee3c40ec32cf0408b2e4480da153f4',1,'Steinberg::Vst::XmlRepresentationHelper']]],

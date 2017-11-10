@@ -10,6 +10,7 @@ var searchData=
   ['isactive',['isActive',['../classSteinberg_1_1Vst_1_1Bus.html#a7e0a17a20c2f0dd2d3d1e6a62c327cf6',1,'Steinberg::Vst::Bus::isActive()'],['../classSteinberg_1_1Vst_1_1BypassProcessor.html#a22761609071413dcce0632885c820e87',1,'Steinberg::Vst::BypassProcessor::isActive()']]],
   ['isapproximateequal',['IsApproximateEqual',['../../base/namespaceSteinberg.html#af300911d7995de5985af548ee4eadcf4',1,'Steinberg']]],
   ['isattached',['isAttached',['../classSteinberg_1_1CPluginView.html#a1b7f04ee36bdaecd09a2625370dc90d8',1,'Steinberg::CPluginView']]],
+  ['isauro',['isAuro',['../../vstinterfaces/group__speakerArrangements.html#gaa3a2c80faffa004172a77e983fd1d4ba',1,'Steinberg::Vst::SpeakerArr::isAuro()'],['../../vstinterfaces/group__speakerArrangements.html#gaa3a2c80faffa004172a77e983fd1d4ba',1,'isAuro()(Global Namespace)']]],
   ['isbuffersilent',['isBufferSilent',['../classSteinberg_1_1Vst_1_1VstSilenceProcessingTest.html#a00ff67fd98417ff8b9ccb40bd03c5386',1,'Steinberg::Vst::VstSilenceProcessingTest']]],
   ['isclassregistered',['isClassRegistered',['../classSteinberg_1_1CPluginFactory.html#a2713b7e1188eed338aca5eed221ecc39',1,'Steinberg::CPluginFactory']]],
   ['isempty',['isEmpty',['../../base/classSteinberg_1_1FVariant.html#a479432127ee77145cc19d6a2d1590821',1,'Steinberg::FVariant']]],

@@ -11,6 +11,7 @@ var searchData=
   ['geoconstants',['GeoConstants',['../../base/namespaceSteinberg_1_1GeoConstants.html',1,'Steinberg']]],
   ['interappaudio',['InterAppAudio',['../namespaceSteinberg_1_1Vst_1_1InterAppAudio.html',1,'Steinberg::Vst']]],
   ['layertype',['LayerType',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html',1,'Steinberg::Vst']]],
+  ['linux',['Linux',['../../base/namespaceSteinberg_1_1Linux.html',1,'Steinberg']]],
   ['musicalcharacter',['MusicalCharacter',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html',1,'Steinberg::Vst']]],
   ['musicalinstrument',['MusicalInstrument',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html',1,'Steinberg::Vst']]],
   ['musicalstyle',['MusicalStyle',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1MusicalStyle.html',1,'Steinberg::Vst']]],

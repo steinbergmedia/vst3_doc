@@ -10,6 +10,8 @@ var searchData=
   ['againwithsidechain',['AGainWithSideChain',['../classSteinberg_1_1Vst_1_1AGainWithSideChain.html',1,'Steinberg::Vst']]],
   ['ambiencecontroller',['AmbienceController',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html',1,'Steinberg::Vst::mda']]],
   ['ambienceprocessor',['AmbienceProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html',1,'Steinberg::Vst::mda']]],
+  ['app',['App',['../classSteinberg_1_1Vst_1_1AudioHost_1_1App.html',1,'Steinberg::Vst::AudioHost']]],
+  ['app',['App',['../classSteinberg_1_1Vst_1_1EditorHost_1_1App.html',1,'Steinberg::Vst::EditorHost']]],
   ['audiobuffer',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
   ['audiobusbuffers',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html',1,'Steinberg::Vst']]],

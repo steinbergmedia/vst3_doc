@@ -12,6 +12,7 @@ var searchData=
   ['copyto16',['copyTo16',['../classSteinberg_1_1ConstString.html#aac71be1002205b2c53ca7f7c378b9c36',1,'Steinberg::ConstString']]],
   ['copyto8',['copyTo8',['../classSteinberg_1_1ConstString.html#a93dd74c1b2c0c84cc852fecbeaa83880',1,'Steinberg::ConstString']]],
   ['count',['count',['../classSteinberg_1_1CommandLine_1_1VariablesMap.html#afb7655963db9a7c2d91d1216ccbb3e26',1,'Steinberg::CommandLine::VariablesMap']]],
+  ['countdependencies',['countDependencies',['../classSteinberg_1_1UpdateHandler.html#a0a27a7354589298ebf7327c7060a14bc',1,'Steinberg::UpdateHandler']]],
   ['countoccurences',['countOccurences',['../classSteinberg_1_1ConstString.html#a705c95a6de98886fb4f5909433223394',1,'Steinberg::ConstString::countOccurences(char8 c, uint32 startIndex, CompareMode=kCaseSensitive) const '],['../classSteinberg_1_1ConstString.html#a8e0d653da81e7df4840e6e06a26d27fe',1,'Steinberg::ConstString::countOccurences(char16 c, uint32 startIndex, CompareMode=kCaseSensitive) const ']]],
   ['create',['create',['../classSteinberg_1_1Timer.html#a65d64aa9a45908da2c3b8c6dfffa00b0',1,'Steinberg::Timer']]]
 ];

@@ -19,6 +19,6 @@ var searchData=
   ['att3',['att3',['../classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8cb865e4b76909b24401f9f68be53839',1,'Steinberg::Vst::mda::MultiBandProcessor']]],
   ['attributelist',['attributeList',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#a712f55c0af5b18d40130eaa26c7f6f66',1,'Steinberg::Vst::HostMessage']]],
   ['audioeffect',['audioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1VstTestEnh.html#a13adc72f47daf6dc87f28e58b52c72d0',1,'Steinberg::Vst::VstAutomationTest']]],
-  ['audioinputs',['audioInputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a4aa8a346dd92d12442011a456c651629',1,'Steinberg::Vst::AudioEffect::audioInputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a4918c0fce4a78d193457bcca2a6d4cca',1,'Steinberg::Vst::SingleComponentEffect::audioInputs()']]],
+  ['audioinputs',['audioInputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a3bb91eeb91df8bc7446713244ae11bac',1,'Steinberg::Vst::AudioEffect::audioInputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a4918c0fce4a78d193457bcca2a6d4cca',1,'Steinberg::Vst::SingleComponentEffect::audioInputs()']]],
   ['audiooutputs',['audioOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a65adc2e475dee42d4427686a20381160',1,'Steinberg::Vst::AudioEffect::audioOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a65adc2e475dee42d4427686a20381160',1,'Steinberg::Vst::SingleComponentEffect::audioOutputs()']]]
 ];

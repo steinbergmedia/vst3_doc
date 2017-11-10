@@ -17,11 +17,14 @@ var searchData=
   ['conststring',['ConstString',['../classSteinberg_1_1ConstString.html',1,'Steinberg']]],
   ['conststring',['ConstString',['../classSteinberg_1_1ConstString.html#a927687036677870519dd1a500e160edb',1,'Steinberg::ConstString::ConstString(const char8 *str, int32 length=-1)'],['../classSteinberg_1_1ConstString.html#af313334a239c94dd7ed44bb7a78d4e02',1,'Steinberg::ConstString::ConstString(const char16 *str, int32 length=-1)'],['../classSteinberg_1_1ConstString.html#a79f3283eec000755f3ec870a252ea177',1,'Steinberg::ConstString::ConstString(const ConstString &amp;str, int32 offset=0, int32 length=-1)'],['../classSteinberg_1_1ConstString.html#a45c99750b35e507bfb2d69a8ee0db3e9',1,'Steinberg::ConstString::ConstString(const FVariant &amp;var)'],['../classSteinberg_1_1ConstString.html#ae772e034332b4e5123c75abd3b926e66',1,'Steinberg::ConstString::ConstString()']]],
   ['contains',['contains',['../classSteinberg_1_1ConstString.html#a818353cdd0df3a345f3cf24643936c9d',1,'Steinberg::ConstString']]],
+  ['converter',['Converter',['../fstring_8cpp.html#a243f56b639b9bb0d1850454b40ea0cb8',1,'fstring.cpp']]],
+  ['converterfacet',['ConverterFacet',['../fstring_8cpp.html#a1ece0eb061ed782654f2aadfd088e204',1,'fstring.cpp']]],
   ['copy',['copy',['../classSteinberg_1_1Buffer.html#a9ee54180cb05034c130c3328c2617c85',1,'Steinberg::Buffer']]],
   ['copyto',['copyTo',['../classSteinberg_1_1ConstString.html#a9ddcf9f419638cba18aac44b3b202c73',1,'Steinberg::ConstString::copyTo(char *str, uint32 idx=0, int32 n=-1) const '],['../classSteinberg_1_1ConstString.html#ab50a653acec89ee5d20c2bc00c611aa9',1,'Steinberg::ConstString::copyTo(IStringResult *result) const '],['../classSteinberg_1_1ConstString.html#aca87d8dcd019e6ef9091fe4219e91a2b',1,'Steinberg::ConstString::copyTo(IString &amp;string) const ']]],
   ['copyto16',['copyTo16',['../classSteinberg_1_1ConstString.html#aac71be1002205b2c53ca7f7c378b9c36',1,'Steinberg::ConstString']]],
   ['copyto8',['copyTo8',['../classSteinberg_1_1ConstString.html#a93dd74c1b2c0c84cc852fecbeaa83880',1,'Steinberg::ConstString']]],
   ['count',['count',['../classSteinberg_1_1CommandLine_1_1VariablesMap.html#afb7655963db9a7c2d91d1216ccbb3e26',1,'Steinberg::CommandLine::VariablesMap']]],
+  ['countdependencies',['countDependencies',['../classSteinberg_1_1UpdateHandler.html#a0a27a7354589298ebf7327c7060a14bc',1,'Steinberg::UpdateHandler']]],
   ['countoccurences',['countOccurences',['../classSteinberg_1_1ConstString.html#a705c95a6de98886fb4f5909433223394',1,'Steinberg::ConstString::countOccurences(char8 c, uint32 startIndex, CompareMode=kCaseSensitive) const '],['../classSteinberg_1_1ConstString.html#a8e0d653da81e7df4840e6e06a26d27fe',1,'Steinberg::ConstString::countOccurences(char16 c, uint32 startIndex, CompareMode=kCaseSensitive) const ']]],
   ['create',['create',['../classSteinberg_1_1Timer.html#a65d64aa9a45908da2c3b8c6dfffa00b0',1,'Steinberg::Timer']]]
 ];

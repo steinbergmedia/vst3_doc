@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['key_20switch_20support',['Key Switch Support',['../../vstinterfaces/keyswitch.html',1,'']]]
+  ['note_20expression_20support',['Note Expression Support',['../../vstinterfaces/noteExpression.html',1,'']]]
 ];

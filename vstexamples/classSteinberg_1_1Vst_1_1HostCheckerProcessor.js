@@ -1,13 +1,22 @@
 var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
 [
+    [ "State", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674", [
+      [ "kUninitialized", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674a482f2e2692e5aa20fabf66a3c8cdd116", null ],
+      [ "kInitialized", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674ae0b771369dfb01dcddb2c023a9c1f89b", null ],
+      [ "kSetupDone", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674aa43ca8f6ea32753839fc8fb0663c5eda", null ],
+      [ "kActivated", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674a020ef293638f810c6d8a6e083d46b530", null ],
+      [ "kProcessing", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#abe1cac386b8bbb4e8b121556317c8674ac8622b41f339606a5f2d4e98c72a37f9", null ]
+    ] ],
     [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a6597f3049abfd875de6339005caacc5f", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
+    [ "terminate", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "process", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a2a13e09cc9ec3dd1b8617a38e3c07af5", null ],
     [ "setupProcessing", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a754f2c1b5beff1179b96278344f1ef96", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
     [ "notify", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a60bbab8211ead54d50dbb672be410342", null ],
     [ "getTailSamples", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a2f5f13092735afd906695953628a602e", null ],
     [ "canProcessSampleSize", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a1c7a40be692f5ed7f009896af248beed", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "setState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a9228db732b48ece8b5b734e69b979d10", null ],
     [ "getState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aee393393dc4dccf6e0b30a43380859b4", null ],
     [ "sendLogEventMessage", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad990b6aadf707d63435e58dc9e339668", null ],
@@ -23,5 +32,6 @@ var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
     [ "mLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aebb3bc994a79d305c48d82da0b14d437", null ],
     [ "mWantedLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aed02d7ec62e586feebfa60bfbf6d46a9", null ],
     [ "mGeneratePeaks", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad73b751920c09df1e9a2fd1ec37286c2", null ],
+    [ "mCurrentState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab6a0125edee61e33a460612e9c124e5d", null ],
     [ "mBypass", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aa09864e5d6f2062a14eb8ad2d1db297d", null ]
 ];

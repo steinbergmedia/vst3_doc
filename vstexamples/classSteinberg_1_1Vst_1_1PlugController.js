@@ -19,5 +19,6 @@ var classSteinberg_1_1Vst_1_1PlugController =
     [ "setParamNormalized", "classSteinberg_1_1Vst_1_1PlugController.html#aeb78d794ce0bc5812c526a1cc2083d5d", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1PlugController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "setParamNormalized", "classSteinberg_1_1Vst_1_1PlugController.html#aeb78d794ce0bc5812c526a1cc2083d5d", null ],
-    [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ]
+    [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
+    [ "getUnitByBus", "classSteinberg_1_1Vst_1_1PlugController.html#a5421004586b52d943f4b1fef3b935d39", null ]
 ];

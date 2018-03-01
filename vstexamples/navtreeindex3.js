@@ -1,5 +1,13 @@
 var NAVTREEINDEX3 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ace4a6726e700f163290eadcd213f392d":[1,0,0,0,2,6,4],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#acef92f4ee38add0cdbd9e207888fbbaf":[1,0,0,0,2,6,25],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,6,19],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ae6d1f2ac968715e2596f1849214a5f52":[1,0,0,0,2,6,28],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#aee393393dc4dccf6e0b30a43380859b4":[1,0,0,0,2,6,22],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#af8b29edd2aa8b0f1efd6fe304f98c445":[1,0,0,0,2,6,27],
+"classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html":[1,0,0,0,2,7],
+"classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a0114d51b222e8663f93dc0a8f1afb095":[1,0,0,0,2,7,1],
 "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,7,4],
 "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,7,3],
 "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a6d2a1929151bc7086c493054f3a7be85":[1,0,0,0,2,7,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX3 =
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a6793ffaccb42d314c342734eafbf98ed":[1,0,0,0,2,14,24],
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a8f6919474ec9fadece0e364c0ba7bad0":[1,0,0,0,2,14,22],
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a9e7a38a682940eb8f83c0369b8cf78b8":[1,0,0,0,2,14,21],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#aa58665156a47fae02e9ab6a0f48beba6":[1,0,0,0,2,14,16],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#aa85af06ffd4cdd8750df50e09d955246":[1,0,0,0,2,14,18],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#aab1361e504b14f24ab0335ba905eaef1":[1,0,0,0,2,14,11],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#aacfb31c7f4e2cfb0ab0967f7be16e38d":[1,0,0,0,2,14,20],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ab756503ec7eb8340aae55ee1455b31ae":[1,0,0,0,2,14,9],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ab9b0494e374832d69ec09de621426985":[1,0,0,0,2,14,26],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ac2e3cea99685b96d4498a75309a8e8c3":[1,0,0,0,2,14,8],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,14,4],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#adbf9e5ebc922884bcff9ecd86d455f0c":[1,0,0,0,2,14,23]
+"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#aa58665156a47fae02e9ab6a0f48beba6":[1,0,0,0,2,14,16]
 };

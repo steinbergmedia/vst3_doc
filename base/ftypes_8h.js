@@ -18,7 +18,7 @@ var ftypes_8h =
     [ "uint64", "ftypes_8h.html#a29940ae63ec06c9998bba873e25407ad", null ],
     [ "TSize", "ftypes_8h.html#abc5a03f91bd781b5062f4fccaa7851f0", null ],
     [ "tresult", "ftypes_8h.html#a902761e005a6252e538c766de48fc957", null ],
-    [ "TPtrInt", "ftypes_8h.html#a1c25ab481e482aafa3e751e3d2ada928", null ],
+    [ "TPtrInt", "ftypes_8h.html#adbdfa470c35e7bf57d7952f0767bbf57", null ],
     [ "TBool", "ftypes_8h.html#a1ea8addd740f35d207a1569dd38ef895", null ],
     [ "char8", "ftypes_8h.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86", null ],
     [ "char16", "ftypes_8h.html#ad12e102dc50c08aa3136349a56e76fd3", null ],

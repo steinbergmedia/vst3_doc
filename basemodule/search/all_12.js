@@ -39,7 +39,7 @@ var searchData=
   ['shared_5fmember',['SHARED_MEMBER',['../fstdmethods_8h.html#a9fe746aafac5178bf27bf6ac3fcaca4c',1,'fstdmethods.h']]],
   ['shiftat',['shiftAt',['../classSteinberg_1_1Buffer.html#ac3d0af936a5a4f5f9aa26b378e9f3ff5',1,'Steinberg::Buffer']]],
   ['shiftstart',['shiftStart',['../classSteinberg_1_1Buffer.html#a79b7870538d70d8e72427d8cb1504917',1,'Steinberg::Buffer']]],
-  ['single_5fcreate_5ffunc',['SINGLE_CREATE_FUNC',['../classfactoryhelpers_8h.html#a00b4a846a7ea809e79966dbb26cf86c0',1,'SINGLE_CREATE_FUNC():&#160;classfactoryhelpers.h'],['../namespaceSteinberg.html#a3ee8284939137d61a597836f314c71d8',1,'Steinberg::SINGLE_CREATE_FUNC()']]],
+  ['single_5fcreate_5ffunc',['SINGLE_CREATE_FUNC',['../classfactoryhelpers_8h.html#a00b4a846a7ea809e79966dbb26cf86c0',1,'classfactoryhelpers.h']]],
   ['singleton',['Singleton',['../namespaceSteinberg_1_1Singleton.html',1,'Steinberg']]],
   ['singleton',['SINGLETON',['../fobject_8h.html#a69f2b09f8941011cb853819558eff4a7',1,'fobject.h']]],
   ['singletoninstances',['singletonInstances',['../namespaceSteinberg_1_1Singleton.html#ab5cb5c38a31d778cf922b01947589311',1,'Steinberg::Singleton']]],

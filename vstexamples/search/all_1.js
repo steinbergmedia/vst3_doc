@@ -31,9 +31,9 @@ var searchData=
   ['addlogevent',['addLogEvent',['../classEventLogger.html#a181b09f3964380df6a6c13669a4fe443',1,'EventLogger::addLogEvent()'],['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a181b09f3964380df6a6c13669a4fe443',1,'Steinberg::Vst::HostCheckerProcessor::addLogEvent()']]],
   ['addmessage',['addMessage',['../classSteinberg_1_1Vst_1_1Validator.html#a2c9dba5d859ca650cf20f048e13ac370',1,'Steinberg::Vst::Validator']]],
   ['addnoteexpressiontype',['addNoteExpressionType',['../../vstsdk/classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a627417f066ae71732d720f0734cf633c',1,'Steinberg::Vst::NoteExpressionTypeContainer']]],
-  ['addparameter',['addParameter',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a85fdb751a90bc332b258174367c3ae21',1,'Steinberg::Vst::ParameterContainer::addParameter(const ParameterInfo &amp;info)'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#adc6ba86b2e6963efb77c690e6639c339',1,'Steinberg::Vst::ParameterContainer::addParameter(const TChar *title, const TChar *units=nullptr, int32 stepCount=0, ParamValue defaultValueNormalized=0., int32 flags=ParameterInfo::kCanAutomate, int32 tag=-1, UnitID unitID=kRootUnitId)'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a6214dce887302e2cdc39fe332ce899a5',1,'Steinberg::Vst::ParameterContainer::addParameter(Parameter *p)'],['../classHostCheck.html#a80e7a4b3c58843955139c761c5212b82',1,'HostCheck::addParameter()']]],
+  ['addparameter',['addParameter',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a85fdb751a90bc332b258174367c3ae21',1,'Steinberg::Vst::ParameterContainer::addParameter(const ParameterInfo &amp;info)'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#ab1ea7afd1ecc429f8324b751082e4b0f',1,'Steinberg::Vst::ParameterContainer::addParameter(const TChar *title, const TChar *units=nullptr, int32 stepCount=0, ParamValue defaultValueNormalized=0., int32 flags=ParameterInfo::kCanAutomate, int32 tag=-1, UnitID unitID=kRootUnitId, const TChar *shortTitle=nullptr)'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a6214dce887302e2cdc39fe332ce899a5',1,'Steinberg::Vst::ParameterContainer::addParameter(Parameter *p)'],['../classHostCheck.html#a80e7a4b3c58843955139c761c5212b82',1,'HostCheck::addParameter()']]],
   ['addparameterdata',['addParameterData',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterChanges.html#af8399d51b057de8ac28ccaa88b9a88e5',1,'Steinberg::Vst::IParameterChanges::addParameterData()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a',1,'Steinberg::Vst::ParameterChanges::addParameterData()'],['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a0407c51e3df3806fa7ca38bc34a0317e',1,'Steinberg::Vst::VstAutomationTest::addParameterData()']]],
-  ['addpoint',['addPoint',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IParamValueQueue.html#acf78c435afe4e71b1be548aa03ef4e3a',1,'Steinberg::Vst::IParamValueQueue::addPoint()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParamChanges.html#a84c243e6ce400ee8b7b00eee040e778d',1,'Steinberg::Vst::ParamChanges::addPoint()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a81dee9d1410d226baec024a983413241',1,'Steinberg::Vst::ParameterValueQueue::addPoint()']]],
+  ['addpoint',['addPoint',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IParamValueQueue.html#acf78c435afe4e71b1be548aa03ef4e3a',1,'Steinberg::Vst::IParamValueQueue::addPoint()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParamChanges.html#ab7eb03e949dfdd22d46a912533d7c07d',1,'Steinberg::Vst::ParamChanges::addPoint()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a81dee9d1410d226baec024a983413241',1,'Steinberg::Vst::ParameterValueQueue::addPoint()']]],
   ['addprocessor',['addProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#a35c0a5fa5367c71ed35c53737b88880c',1,'Steinberg::Vst::InterAppAudio::MidiIO']]],
   ['addprogram',['addProgram',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#abdd3a0c7d2b61659ffbb4b2867f5f4be',1,'Steinberg::Vst::ProgramList::addProgram()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a180996481eda89b66ef6b8729750f711',1,'Steinberg::Vst::ProgramListWithPitchNames::addProgram()']]],
   ['addprogramlist',['addProgramList',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a97c6d1b843066330ec399d1a66fe64d1',1,'Steinberg::Vst::EditControllerEx1']]],
@@ -69,6 +69,7 @@ var searchData=
   ['againuimessagecontroller',['AGainUIMessageController',['../classSteinberg_1_1Vst_1_1AGainUIMessageController.html#af4837295aab77b0570d4ad4206992755',1,'Steinberg::Vst::AGainUIMessageController']]],
   ['againuimessagecontroller',['AGainUIMessageController',['../classSteinberg_1_1Vst_1_1AGainUIMessageController.html',1,'Steinberg::Vst']]],
   ['againuimessagecontroller_2eh',['againuimessagecontroller.h',['../againuimessagecontroller_8h.html',1,'']]],
+  ['againvst3category',['AGainVST3Category',['../againcids_8h.html#a379f45d1d3bc07e8916d65b9b234c936',1,'againcids.h']]],
   ['againwithsidechain',['AGainWithSideChain',['../classSteinberg_1_1Vst_1_1AGainWithSideChain.html',1,'Steinberg::Vst']]],
   ['allnotesoff',['allNotesOff',['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#aec246739838d962211ec3124c7f26ff3',1,'Steinberg::Vst::mda::PianoProcessor']]],
   ['allocatemessage',['allocateMessage',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#a64f8151e5b14ca6a70074f0aba699276',1,'Steinberg::Vst::AudioEffect::allocateMessage()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a80587fa5437b07a138473ce70d3b7dda',1,'Steinberg::Vst::allocateMessage()']]],
@@ -109,8 +110,8 @@ var searchData=
   ['aucocoaview_2eh',['aucocoaview.h',['../../vstsdk/aucocoaview_8h.html',1,'']]],
   ['aucocoaview_2emm',['aucocoaview.mm',['../../vstsdk/aucocoaview_8mm.html',1,'']]],
   ['audio_5fbuffer',['AUDIO_BUFFER',['../logevents_8h.html#a987df35cd56a96cf7e2c4e63ffb0e38d',1,'logevents.h']]],
-  ['audiobuffer',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobuffer',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html#a53af24182f3165ed15b4f434d7088b53',1,'Steinberg::Vst::AudioBuffer']]],
+  ['audiobuffer',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
   ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html#aa88e9bd8e9d969a00f0bd035a03c359f',1,'Steinberg::Vst::AudioBus']]],
   ['audiobusbuffers',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html',1,'Steinberg::Vst']]],
@@ -131,6 +132,6 @@ var searchData=
   ['auwrapper_2emm',['auwrapper.mm',['../../vstsdk/auwrapper_8mm.html',1,'']]],
   ['factory_2ecpp',['factory.cpp',['../adelay_2source_2factory_8cpp.html',1,'']]],
   ['usediids_2ecpp',['usediids.cpp',['../audiohost_2source_2usediids_8cpp.html',1,'']]],
-  ['version_2eh',['version.h',['../adelay_2source_2version_8h.html',1,'']]],
-  ['version_2eh',['version.h',['../again_2source_2version_8h.html',1,'']]]
+  ['version_2eh',['version.h',['../again_2source_2version_8h.html',1,'']]],
+  ['version_2eh',['version.h',['../adelay_2source_2version_8h.html',1,'']]]
 ];

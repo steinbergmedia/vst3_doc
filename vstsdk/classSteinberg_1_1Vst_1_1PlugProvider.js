@@ -7,7 +7,7 @@ var classSteinberg_1_1Vst_1_1PlugProvider =
     [ "getComponent", "classSteinberg_1_1Vst_1_1PlugProvider.html#a7b48e5060e87f05aa6dbe009c49590b3", null ],
     [ "getController", "classSteinberg_1_1Vst_1_1PlugProvider.html#ab3729c4eddeab38f21f7e34ebd18dc25", null ],
     [ "releasePlugIn", "classSteinberg_1_1Vst_1_1PlugProvider.html#af532604d58ac09daa58a28f20af17ba4", null ],
-    [ "getSubCategories", "classSteinberg_1_1Vst_1_1PlugProvider.html#ad2f19936205311433b82493f180d488e", null ],
+    [ "getSubCategories", "classSteinberg_1_1Vst_1_1PlugProvider.html#abf23b404aa6d2db70fcd7d8dd719d622", null ],
     [ "getPluginUID", "classSteinberg_1_1Vst_1_1PlugProvider.html#aae81ddde67329001e6c1245e46abac8a", null ],
     [ "OBJ_METHODS", "classSteinberg_1_1Vst_1_1PlugProvider.html#ab0903b3c59d1867a029e51c51e23994c", null ],
     [ "setupPlugin", "classSteinberg_1_1Vst_1_1PlugProvider.html#a6e0a0488e3319db98db002bdce062d2b", null ],

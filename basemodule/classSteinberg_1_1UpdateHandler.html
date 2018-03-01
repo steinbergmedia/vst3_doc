@@ -153,8 +153,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a39f0d0d707770a5193c6f1d77b52d43c"><td class="memItemLeft" align="right" valign="top">virtual tresult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a39f0d0d707770a5193c6f1d77b52d43c">triggerDeferedUpdates</a> (FUnknown *object=0) SMTG_OVERRIDE</td></tr>
 <tr class="memdesc:a39f0d0d707770a5193c6f1d77b52d43c"><td class="mdescLeft">&#160;</td><td class="mdescRight">send pending messages send by  <a href="#a39f0d0d707770a5193c6f1d77b52d43c">More...</a><br /></td></tr>
 <tr class="separator:a39f0d0d707770a5193c6f1d77b52d43c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a27a7354589298ebf7327c7060a14bc"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a0a27a7354589298ebf7327c7060a14bc">countDependencies</a> (FUnknown *object=0)</td></tr>
-<tr class="separator:a0a27a7354589298ebf7327c7060a14bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc7bf9a003c1026bdf6877fbbc48728a"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#acc7bf9a003c1026bdf6877fbbc48728a">countDependencies</a> (FUnknown *object=nullptr)</td></tr>
+<tr class="separator:acc7bf9a003c1026bdf6877fbbc48728a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada5cb0d0c48f04511582d6ac20eb4eb2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#ada5cb0d0c48f04511582d6ac20eb4eb2">OBJ_METHODS</a> (<a class="el" href="classSteinberg_1_1UpdateHandler.html">UpdateHandler</a>, <a class="el" href="classSteinberg_1_1FObject.html">FObject</a>) <a class="el" href="fobject_8h.html#ad07f904465df9375353c5ca367a5dfb2">FUNKNOWN_METHODS2</a>(IUpdateHandler</td></tr>
 <tr class="separator:ada5cb0d0c48f04511582d6ac20eb4eb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classSteinberg_1_1FObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classSteinberg_1_1FObject')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classSteinberg_1_1FObject.html">FObject</a></td></tr>
@@ -223,7 +223,7 @@ Public Attributes</h2></td></tr>
 private <br class="typebreak" />
 Steinberg::Base::Thread::FLock&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a10f007ffba0c693f361ca6251345a84f">lock</a></td></tr>
 <tr class="separator:a10f007ffba0c693f361ca6251345a84f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a11ab8afebbe1338f626a6d1be0137c4a"><td class="memItemLeft" align="right" valign="top">Update::Table *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a11ab8afebbe1338f626a6d1be0137c4a">table</a></td></tr>
+<tr class="memitem:a11ab8afebbe1338f626a6d1be0137c4a"><td class="memItemLeft" align="right" valign="top">Update::Table *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1UpdateHandler.html#a11ab8afebbe1338f626a6d1be0137c4a">table</a> = nullptr</td></tr>
 <tr class="separator:a11ab8afebbe1338f626a6d1be0137c4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
@@ -539,7 +539,7 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a0a27a7354589298ebf7327c7060a14bc"></a>
+<a class="anchor" id="acc7bf9a003c1026bdf6877fbbc48728a"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -547,7 +547,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">size_t countDependencies </td>
           <td>(</td>
           <td class="paramtype">FUnknown *&#160;</td>
-          <td class="paramname"><em>object</em> = <code>0</code></td><td>)</td>
+          <td class="paramname"><em>object</em> = <code>nullptr</code></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -611,7 +611,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Update::Table* table</td>
+          <td class="memname">Update::Table* table = nullptr</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -650,7 +650,7 @@ Additional Inherited Members</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2017 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

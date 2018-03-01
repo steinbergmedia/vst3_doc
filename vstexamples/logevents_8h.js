@@ -2,6 +2,7 @@ var logevents_8h =
 [
     [ "LogEvent", "structLogEvent.html", "structLogEvent" ],
     [ "SETUP_CONTEXT", "logevents_8h.html#adfcd222e817c0d2841fc4adaf1353850", null ],
+    [ "STATE", "logevents_8h.html#aacd2cf60f504e45efada9aec028ee3cd", null ],
     [ "AUDIO_BUFFER", "logevents_8h.html#a987df35cd56a96cf7e2c4e63ffb0e38d", null ],
     [ "EVENT_LIST", "logevents_8h.html#a2cd9d1eb177a484140e69f47afd55568", null ],
     [ "PARAM_CHANGE", "logevents_8h.html#aab4457bfe7f68d261eb606601c698cf0", null ],
@@ -21,6 +22,10 @@ var logevents_8h =
     [ "LOG_CONTEXT", "logevents_8h.html#a779b90f0bd4c9d431184500eff9a3a83", null ],
     [ "eLogIds", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46", [
       [ "kLogIdProcessorControllerConnection", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a2e74dd2d4479078ccf9333ecfe6bcb96", null ],
+      [ "kLogIdInvalidStateInitializedMissing", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a6074c9d44c45f389e3a8f4f21de8c50d", null ],
+      [ "kLogIdInvalidStateSetupMissing", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a5398d25c9a56babb7ceb5fcae0a18b75", null ],
+      [ "kLogIdInvalidStateActivatedMissing", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1d7f0cf2ffc82eab61b4f15288519c25", null ],
+      [ "kLogIdInvalidStateProcessingMissing", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a3dff2e7ce12fdc6cddaa2a9b5a0034e1", null ],
       [ "kLogIdInvalidSymbolicSampleSize", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a25c95c63ff95d5efed461887f2a3a9e1", null ],
       [ "kLogIdInvalidProcessMode", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a7143c2172ae868d9546cee73deda7af2", null ],
       [ "kLogIdInvalidBlockSize", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac28f350d90314b1c5701947ef08c0229", null ],

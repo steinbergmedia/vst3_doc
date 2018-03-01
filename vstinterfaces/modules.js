@@ -18,7 +18,7 @@ var modules =
     [ "Predefined Musical Instrument", "group__musicalInstrument.html", "group__musicalInstrument" ],
     [ "Predefined Musical Style", "group__musicalStyle.html", "group__musicalStyle" ],
     [ "Predefined Musical Character", "group__musicalCharacter.html", "group__musicalCharacter" ],
-    [ "VST 3 Data Types", "group__vst3typedef.html", "group__vst3typedef" ],
     [ "Speaker Arrangements", "group__speakerArrangements.html", "group__speakerArrangements" ],
+    [ "VST 3 Data Types", "group__vst3typedef.html", "group__vst3typedef" ],
     [ "Graphical User Interface", "group__pluginGUI.html", "group__pluginGUI" ]
 ];

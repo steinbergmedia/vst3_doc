@@ -14,7 +14,7 @@ var files =
     [ "again.h", "again_8h.html", [
       [ "AGain", "classSteinberg_1_1Vst_1_1AGain.html", "classSteinberg_1_1Vst_1_1AGain" ]
     ] ],
-    [ "againcids.h", "againcids_8h.html", null ],
+    [ "againcids.h", "againcids_8h.html", "againcids_8h" ],
     [ "againcontroller.cpp", "againcontroller_8cpp.html", null ],
     [ "againcontroller.h", "againcontroller_8h.html", [
       [ "AGainUIMessageController", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", "classSteinberg_1_1Vst_1_1AGainUIMessageController" ],
@@ -37,10 +37,6 @@ var files =
     ] ],
     [ "brownnoise.h", "brownnoise_8h.html", [
       [ "BrownNoise", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise" ]
-    ] ],
-    [ "dirtyflagcontroller.cpp", "dirtyflagcontroller_8cpp.html", null ],
-    [ "dirtyflagcontroller.h", "dirtyflagcontroller_8h.html", [
-      [ "DirtyFlagController", "classSteinberg_1_1Vst_1_1DirtyFlagController.html", "classSteinberg_1_1Vst_1_1DirtyFlagController" ]
     ] ],
     [ "doc.h", "doc_8h.html", null ],
     [ "editorhost.cpp", "editorhost_8cpp.html", "editorhost_8cpp" ],

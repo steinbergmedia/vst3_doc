@@ -2,32 +2,32 @@
 <tagfile>
   <compound kind="file">
     <name>doc_locations.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>doc__locations_8h</filename>
   </compound>
   <compound kind="file">
     <name>doc_noteexpression.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>doc__noteexpression_8h</filename>
   </compound>
   <compound kind="file">
     <name>doc_vst.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>doc__vst_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -35,9 +35,10 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">ivstcomponent.h</includes>
+    <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" imported="no">vstspeaker.h</includes>
     <class kind="struct">Steinberg::Vst::ProcessSetup</class>
     <class kind="struct">Steinberg::Vst::AudioBusBuffers</class>
     <class kind="struct">Steinberg::Vst::ProcessData</class>
@@ -306,14 +307,14 @@
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -469,7 +470,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -555,7 +556,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -565,7 +566,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -594,7 +595,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstevents_8h</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" imported="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -609,7 +610,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" imported="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -619,7 +620,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -627,7 +628,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -635,12 +636,12 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h</filename>
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -653,7 +654,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -661,14 +662,14 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -676,7 +677,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -685,7 +686,7 @@
   </compound>
   <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -1371,7 +1372,7 @@
   </compound>
   <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstunits_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -1384,7 +1385,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <namespace>Steinberg::Vst::PresetAttributes</namespace>
@@ -3418,189 +3419,15 @@
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h</filename>
   </compound>
   <compound kind="file">
-    <name>vsttypes.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>vsttypes_8h</filename>
+    <name>vstspeaker.h</name>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <filename>vstspeaker_8h</filename>
+    <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">vsttypes.h</includes>
     <namespace>Steinberg::Vst::SpeakerArr</namespace>
-    <member kind="define">
-      <type>#define</type>
-      <name>kVstVersionString</name>
-      <anchorfile>vsttypes_8h.html</anchorfile>
-      <anchor>aced0665aaa99dc2ccc0a6b793710f60b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>kVstVersionMajor</name>
-      <anchorfile>vsttypes_8h.html</anchorfile>
-      <anchor>a307b16bcbe3263db838d1a65a1590775</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>kVstVersionMinor</name>
-      <anchorfile>vsttypes_8h.html</anchorfile>
-      <anchor>aad745365073e680343605ac17c381811</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>kVstVersionSub</name>
-      <anchorfile>vsttypes_8h.html</anchorfile>
-      <anchor>a6e91d244c8cfdd2b123d37e599043ca1</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="define">
-      <type>#define</type>
-      <name>VST_VERSION</name>
-      <anchorfile>vsttypes_8h.html</anchorfile>
-      <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>char16</type>
-      <name>TChar</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>TChar</type>
-      <name>String128</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
-      <arglist>[128]</arglist>
-    </member>
-    <member kind="typedef">
-      <type>const char8 *</type>
-      <name>CString</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>MediaType</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>BusDirection</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>BusType</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>IoMode</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>UnitID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>ParamValue</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32</type>
-      <name>ParamID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>ProgramListID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int16</type>
-      <name>CtrlNumber</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>TQuarterNotes</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int64</type>
-      <name>TSamples</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32</type>
-      <name>ColorSpec</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>float</type>
-      <name>Sample32</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>Sample64</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>SampleRate</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint64</type>
-      <name>SpeakerArrangement</name>
-      <anchorfile>group__speakerArrangements.html</anchorfile>
-      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint64</type>
-      <name>Speaker</name>
-      <anchorfile>group__speakerArrangements.html</anchorfile>
-      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
-      <arglist></arglist>
-    </member>
     <member kind="function">
       <type>int32</type>
       <name>getChannelCount</name>
@@ -5303,6 +5130,186 @@
       <arglist></arglist>
     </member>
   </compound>
+  <compound kind="file">
+    <name>vsttypes.h</name>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <filename>vsttypes_8h</filename>
+    <member kind="define">
+      <type>#define</type>
+      <name>kVstVersionString</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>aced0665aaa99dc2ccc0a6b793710f60b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>kVstVersionMajor</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a307b16bcbe3263db838d1a65a1590775</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>kVstVersionMinor</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>aad745365073e680343605ac17c381811</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>kVstVersionSub</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a6e91d244c8cfdd2b123d37e599043ca1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char16</type>
+      <name>TChar</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>TChar</type>
+      <name>String128</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
+      <arglist>[128]</arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>CString</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>MediaType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusDirection</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>IoMode</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>UnitID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>ParamValue</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ParamID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>ProgramListID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int16</type>
+      <name>CtrlNumber</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>TQuarterNotes</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64</type>
+      <name>TSamples</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>float</type>
+      <name>Sample32</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>Sample64</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>SampleRate</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>SpeakerArrangement</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>Speaker</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
   <compound kind="page">
     <name>vst3loc</name>
     <title>VST 3 Locations / Format</title>
@@ -5404,12 +5411,17 @@
   </compound>
   <compound kind="page">
     <name>cmakeUse</name>
-    <title>How to use cmake for Building VST 3 Plug-in</title>
+    <title>How to use cmake for Building VST 3 Plug-ins</title>
     <filename>cmakeUse</filename>
   </compound>
   <compound kind="page">
+    <name>addownplugs</name>
+    <title>How to add/create your own VST 3 Plug-ins</title>
+    <filename>addownplugs</filename>
+  </compound>
+  <compound kind="page">
     <name>linuxSetup</name>
-    <title>Setup Linux for building VST 3 Plug-in</title>
+    <title>Setup Linux for building VST 3 Plug-ins</title>
     <filename>linuxSetup</filename>
     <docanchor file="linuxSetup" title="Package Requirements">toolchainInstallation</docanchor>
   </compound>
@@ -7937,154 +7949,9 @@
     </member>
   </compound>
   <compound kind="group">
-    <name>vst3typedef</name>
-    <title>VST 3 Data Types</title>
-    <filename>group__vst3typedef.html</filename>
-    <member kind="typedef">
-      <type>char16</type>
-      <name>TChar</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>TChar</type>
-      <name>String128</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
-      <arglist>[128]</arglist>
-    </member>
-    <member kind="typedef">
-      <type>const char8 *</type>
-      <name>CString</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>MediaType</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>BusDirection</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>BusType</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>IoMode</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>UnitID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>ParamValue</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32</type>
-      <name>ParamID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>ProgramListID</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int16</type>
-      <name>CtrlNumber</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>TQuarterNotes</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>int64</type>
-      <name>TSamples</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32</type>
-      <name>ColorSpec</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>float</type>
-      <name>Sample32</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>Sample64</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>SampleRate</name>
-      <anchorfile>group__vst3typedef.html</anchorfile>
-      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
-      <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="group">
     <name>speakerArrangements</name>
     <title>Speaker Arrangements</title>
     <filename>group__speakerArrangements.html</filename>
-    <member kind="typedef">
-      <type>uint64</type>
-      <name>SpeakerArrangement</name>
-      <anchorfile>group__speakerArrangements.html</anchorfile>
-      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint64</type>
-      <name>Speaker</name>
-      <anchorfile>group__speakerArrangements.html</anchorfile>
-      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
-      <arglist></arglist>
-    </member>
     <member kind="function">
       <type>int32</type>
       <name>getChannelCount</name>
@@ -9784,6 +9651,151 @@
       <name>kStringAmbi3rdOrderS</name>
       <anchorfile>group__speakerArrangements.html</anchorfile>
       <anchor>gab2317fa07e1e7ee2cfce204a07945c40</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="group">
+    <name>vst3typedef</name>
+    <title>VST 3 Data Types</title>
+    <filename>group__vst3typedef.html</filename>
+    <member kind="typedef">
+      <type>char16</type>
+      <name>TChar</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>TChar</type>
+      <name>String128</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
+      <arglist>[128]</arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>CString</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>MediaType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusDirection</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>IoMode</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>UnitID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>ParamValue</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ParamID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>ProgramListID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int16</type>
+      <name>CtrlNumber</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>TQuarterNotes</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64</type>
+      <name>TSamples</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>float</type>
+      <name>Sample32</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>Sample64</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>SampleRate</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>SpeakerArrangement</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>Speaker</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -16834,21 +16846,21 @@
   </compound>
   <compound kind="dir">
     <name>gui</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>dir_2b55989507b85f9714d7502e3b031586.html</filename>
     <file>iplugview.h</file>
     <file>iplugviewcontentscalesupport.h</file>
   </compound>
   <compound kind="dir">
     <name>pluginterfaces</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
     <filename>dir_a16602e771dbe98bb8f2594e31082617.html</filename>
     <dir>gui</dir>
     <dir>vst</dir>
   </compound>
   <compound kind="dir">
     <name>vst</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>dir_2fcc4ce6f11e0f407f9d20609d32c488.html</filename>
     <file>doc_locations.h</file>
     <file>doc_noteexpression.h</file>
@@ -16874,6 +16886,7 @@
     <file>ivstunits.h</file>
     <file>vstpresetkeys.h</file>
     <file>vstpshpack4.h</file>
+    <file>vstspeaker.h</file>
     <file>vsttypes.h</file>
   </compound>
   <compound kind="page">

@@ -16,7 +16,7 @@ var indexSectionsWithContent =
   6: "cfgilstu",
   7: "cdfikosuv",
   8: "kv",
-  9: "_defiklqstu",
+  9: "_defiklpqstu",
   10: "bgp",
   11: "hiv"
 };

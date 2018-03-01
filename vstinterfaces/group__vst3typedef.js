@@ -17,5 +17,7 @@ var group__vst3typedef =
     [ "ColorSpec", "group__vst3typedef.html#ga5b13d028fba1eee386ec9ac208c6238d", null ],
     [ "Sample32", "group__vst3typedef.html#ga353ad4086d31e4b7c57c9124965379a6", null ],
     [ "Sample64", "group__vst3typedef.html#ga8887669e1feb9270b120bcd725d0d4c1", null ],
-    [ "SampleRate", "group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407", null ]
+    [ "SampleRate", "group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407", null ],
+    [ "SpeakerArrangement", "group__vst3typedef.html#ga54884a26d0b6dfa18eb919ea004775ac", null ],
+    [ "Speaker", "group__vst3typedef.html#ga7a9fc6561fe897989fa3cea09ebb3250", null ]
 ];

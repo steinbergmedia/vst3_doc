@@ -17,6 +17,7 @@ var searchData=
   ['mbypassprocessor',['mBypassProcessor',['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aff97b22fb27d01bea5efa7945a1bbccd',1,'Steinberg::Vst::HostCheckerProcessor']]],
   ['mclearoutputneeded',['mClearOutputNeeded',['../classSteinberg_1_1Vst_1_1VoiceProcessor.html#a2c940dd02450b042f786670ea167a9c6',1,'Steinberg::Vst::VoiceProcessor']]],
   ['mcomponent',['mComponent',['../classEventListCheck.html#a97bf8db9a16fed4a26a663b55f840c89',1,'EventListCheck']]],
+  ['mcurrentstate',['mCurrentState',['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab6a0125edee61e33a460612e9c124e5d',1,'Steinberg::Vst::HostCheckerProcessor']]],
   ['mdatabrowser',['mDataBrowser',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a085bee63fc152381c75c86f02918d677',1,'Steinberg::Vst::HostCheckerController']]],
   ['mdatasource',['mDataSource',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a67f119d92d041e266489e2d952da29c6',1,'Steinberg::Vst::HostCheckerController']]],
   ['mdec',['mdec',['../structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html#a283516433da13e38f12b2859bf2448e7',1,'Steinberg::Vst::mda::DX10Processor::VOICE::mdec()'],['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a283516433da13e38f12b2859bf2448e7',1,'Steinberg::Vst::mda::DX10Processor::mdec()']]],

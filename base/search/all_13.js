@@ -17,7 +17,7 @@ var searchData=
   ['toregistrystring',['toRegistryString',['../classSteinberg_1_1FUID.html#ab21b1a2ba3c9b29b35131450f9fc2bb1',1,'Steinberg::FUID']]],
   ['tostring',['toString',['../classSteinberg_1_1FUID.html#a04ad5872389ea0b0a8a4b5dfd3780d22',1,'Steinberg::FUID']]],
   ['totuid',['toTUID',['../classSteinberg_1_1FUID.html#abd37cfcc00bb93ae45b4e01f332c12d8',1,'Steinberg::FUID::toTUID(TUID result) const '],['../classSteinberg_1_1FUID.html#ad2940cd2922179eb4a50cd3fe1965769',1,'Steinberg::FUID::toTUID() const ']]],
-  ['tptrint',['TPtrInt',['../namespaceSteinberg.html#a1c25ab481e482aafa3e751e3d2ada928',1,'Steinberg']]],
+  ['tptrint',['TPtrInt',['../namespaceSteinberg.html#adbdfa470c35e7bf57d7952f0767bbf57',1,'Steinberg']]],
   ['tresult',['tresult',['../namespaceSteinberg.html#a902761e005a6252e538c766de48fc957',1,'Steinberg']]],
   ['triggerupdates',['triggerUpdates',['../classSteinberg_1_1IUpdateHandler.html#a5df36e1fc97bddca8eaabc6b39de6530',1,'Steinberg::IUpdateHandler']]],
   ['tsize',['TSize',['../namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0',1,'Steinberg']]],

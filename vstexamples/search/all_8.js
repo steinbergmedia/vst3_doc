@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['how_20to_20use_20cmake_20for_20building_20vst_203_20plug_2din',['How to use cmake for Building VST 3 Plug-in',['../../vstinterfaces/cmakeUse.html',1,'']]],
+  ['how_20to_20add_2fcreate_20your_20own_20vst_203_20plug_2dins',['How to add/create your own VST 3 Plug-ins',['../../vstinterfaces/addownplugs.html',1,'']]],
+  ['how_20to_20use_20cmake_20for_20building_20vst_203_20plug_2dins',['How to use cmake for Building VST 3 Plug-ins',['../../vstinterfaces/cmakeUse.html',1,'']]],
   ['factory_2ecpp',['factory.cpp',['../hostchecker_2source_2factory_8cpp.html',1,'']]],
   ['hasdelay',['hasDelay',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1a013a451f71921f677fc504173431e3',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['haspitchnames',['hasPitchNames',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#abcd21a0dc142da8852f0c14e8bc01dcf',1,'Steinberg::Vst::ProgramList::hasPitchNames()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a64c521f40929f86cadce19cab89cf272',1,'Steinberg::Vst::ProgramListWithPitchNames::hasPitchNames()']]],

@@ -67,8 +67,9 @@ var NAVTREE =
     [ "Channel Context Info Support", "channelContextInfo.html", null ],
     [ "Prefetchable Support", "prefetchableSupport.html", null ],
     [ "Request Bus Activation", "requestbusactivation.html", null ],
-    [ "How to use cmake for Building VST 3 Plug-in", "cmakeUse.html", null ],
-    [ "Setup Linux for building VST 3 Plug-in", "linuxSetup.html", [
+    [ "How to use cmake for Building VST 3 Plug-ins", "cmakeUse.html", null ],
+    [ "How to add/create your own VST 3 Plug-ins", "addownplugs.html", null ],
+    [ "Setup Linux for building VST 3 Plug-ins", "linuxSetup.html", [
       [ "Package Requirements", "linuxSetup.html#toolchainInstallation", null ]
     ] ],
     [ "VST 3 Workflow Diagrams", "workflow.html", [
@@ -116,14 +117,14 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e",
-"functions_l.html",
-"group__musicalStyle.html#ga886ab03c6a77598d7e78c3a6ec922441",
-"group__speakerArrangements.html#ga9680715bcefe20b26397cab10f7fb18b",
-"ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5af5308f6f5d92e718ccbd4cb0ca414907",
-"requestbusactivation.html",
-"vst3Automation.html#vst3automationRecording",
-"vstpresetkeys_8h.html#gabac2c7c2f88a2511bcb9536a62847e64",
-"vsttypes_8h.html#gaa8801dd84fb2f8566448a99c418d1185"
+"functions_k.html",
+"group__musicalStyle.html#ga853a4803393e2d1684fe32e5adafcffe",
+"group__speakerArrangements.html#ga97ce8834f00cbf7ffb2e4610f9aba296",
+"ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ae2e3ed4527f88e577a2aeb595bd853fd",
+"representation.html#win7xml",
+"vst3Automation.html#vst3automationPlayback",
+"vstpresetkeys_8h.html#gab9114e6b0673188dc5228aed3d3df2da",
+"vstspeaker_8h.html#gabe9f3f14a428188b0fd0a229f15bf580"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

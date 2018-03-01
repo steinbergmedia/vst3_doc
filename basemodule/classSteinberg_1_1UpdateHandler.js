@@ -8,7 +8,7 @@ var classSteinberg_1_1UpdateHandler =
     [ "deferUpdates", "classSteinberg_1_1UpdateHandler.html#a1ba21e80d0caaaf9e1040c880d7e9927", null ],
     [ "cancelUpdates", "classSteinberg_1_1UpdateHandler.html#a0b58de7d5b5775a8ee4975abaf3e938e", null ],
     [ "triggerDeferedUpdates", "classSteinberg_1_1UpdateHandler.html#a39f0d0d707770a5193c6f1d77b52d43c", null ],
-    [ "countDependencies", "classSteinberg_1_1UpdateHandler.html#a0a27a7354589298ebf7327c7060a14bc", null ],
+    [ "countDependencies", "classSteinberg_1_1UpdateHandler.html#acc7bf9a003c1026bdf6877fbbc48728a", null ],
     [ "OBJ_METHODS", "classSteinberg_1_1UpdateHandler.html#ada5cb0d0c48f04511582d6ac20eb4eb2", null ],
     [ "LockUpdateDependencies", "classSteinberg_1_1UpdateHandler.html#a003b316e37e77a6e911ff73d06fc5e31", null ],
     [ "IUpdateManager", "classSteinberg_1_1UpdateHandler.html#aa1cef82bd3c810132b0b17f553465564", null ],

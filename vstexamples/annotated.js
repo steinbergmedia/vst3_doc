@@ -14,7 +14,6 @@ var annotated =
         [ "AGainController", "classSteinberg_1_1Vst_1_1AGainController.html", "classSteinberg_1_1Vst_1_1AGainController" ],
         [ "AGainUIMessageController", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", "classSteinberg_1_1Vst_1_1AGainUIMessageController" ],
         [ "AGainWithSideChain", "classSteinberg_1_1Vst_1_1AGainWithSideChain.html", "classSteinberg_1_1Vst_1_1AGainWithSideChain" ],
-        [ "DirtyFlagController", "classSteinberg_1_1Vst_1_1DirtyFlagController.html", "classSteinberg_1_1Vst_1_1DirtyFlagController" ],
         [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", "classSteinberg_1_1Vst_1_1EditorSizeController" ],
         [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", "classSteinberg_1_1Vst_1_1HostCheckerController" ],
         [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html", "classSteinberg_1_1Vst_1_1HostCheckerProcessor" ],

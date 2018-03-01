@@ -5,7 +5,7 @@ var structSteinberg_1_1PClassInfo =
     ] ],
     [ "kCategorySize", "structSteinberg_1_1PClassInfo.html#a61dadd085c1777f559549e05962b2c9ea8f7919f981f4374ad578a660b8dbe01b", null ],
     [ "kNameSize", "structSteinberg_1_1PClassInfo.html#a61dadd085c1777f559549e05962b2c9ea5b9d2840f143c8288f728f5be29f638e", null ],
-    [ "PClassInfo", "structSteinberg_1_1PClassInfo.html#abbb3f6602c841be320dfe0bc600aae0b", null ],
+    [ "PClassInfo", "structSteinberg_1_1PClassInfo.html#a0896d5d20fa2cd6dbd8231e6b446c91e", null ],
     [ "PClassInfo", "structSteinberg_1_1PClassInfo.html#a9ac42914ded80ccb37fa6ac9d2f40d7a", null ],
     [ "cid", "structSteinberg_1_1PClassInfo.html#a418a6a237a27e446af982acc6cfa1f48", null ],
     [ "cardinality", "structSteinberg_1_1PClassInfo.html#aaeac80bf9a3a2680cfec481edb605d5e", null ],

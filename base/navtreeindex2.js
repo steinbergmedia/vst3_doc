@@ -1,5 +1,10 @@
 var NAVTREEINDEX2 =
 {
+"keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493d":[7,0,23,2],
+"keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078":[7,0,23,2,2],
+"keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c":[7,0,23,2,3],
+"keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da7dee5096e7803ac26cee7abe740d777d":[7,0,23,2,0],
+"keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da8779d8eaee888493c6c5db7acc5d4a0a":[7,0,23,2,1],
 "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22b":[7,0,23,1],
 "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba01bce78a73ad136a7b42941297aff373":[7,0,23,1,42],
 "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba01d2889f9a7550008ad6140c41e733de":[7,0,23,1,6],
@@ -124,6 +129,7 @@ var NAVTREEINDEX2 =
 "structSteinberg_1_1KeyCode.html#abd7634cbb7389a3980e3b6b1b27c95a3":[6,0,0,26,3],
 "structSteinberg_1_1KeyCode.html#ac6027d2dbb9ac08b3b6729341c0bcf8f":[6,0,0,26,1],
 "structSteinberg_1_1PClassInfo.html":[4,0,7],
+"structSteinberg_1_1PClassInfo.html#a0896d5d20fa2cd6dbd8231e6b446c91e":[4,0,7,3],
 "structSteinberg_1_1PClassInfo.html#a32bb1f3165cfe0587146dd5a616af919":[4,0,7,7],
 "structSteinberg_1_1PClassInfo.html#a418a6a237a27e446af982acc6cfa1f48":[4,0,7,5],
 "structSteinberg_1_1PClassInfo.html#a61dadd085c1777f559549e05962b2c9ea5b9d2840f143c8288f728f5be29f638e":[4,0,7,2],
@@ -133,7 +139,6 @@ var NAVTREEINDEX2 =
 "structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeece":[4,0,7,0],
 "structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2":[4,0,7,0,0],
 "structSteinberg_1_1PClassInfo.html#aaeac80bf9a3a2680cfec481edb605d5e":[4,0,7,6],
-"structSteinberg_1_1PClassInfo.html#abbb3f6602c841be320dfe0bc600aae0b":[4,0,7,3],
 "structSteinberg_1_1PClassInfo2.html":[4,0,9],
 "structSteinberg_1_1PClassInfo2.html#a106c76c37c57aa35e42654278412ee90":[4,0,9,10],
 "structSteinberg_1_1PClassInfo2.html#a10a16351d8da082eba2e5cbd16e6aed1":[4,0,9,12],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdadab15681c7200799430d2f338d0ed61e":[7,0,26,4,8],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdae22e7268faee0570b14aa13c801fa3b9":[7,0,26,4,25],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdaf35707aff5cbf5d69b5f0aecd302d9b1":[7,0,26,4,28],
-"ucolorspec_8h.html#acc3eb6a10830817ab0ede3f36a445345":[7,0,26,9],
-"ucolorspec_8h.html#acca20a890a507ef361864ea1f2914af1":[7,0,26,20],
-"ucolorspec_8h.html#ad78eaefa656353e5d08aeba89ad27279":[7,0,26,18],
-"ucolorspec_8h.html#af1189c83b63820c6ccc3167402601fea":[7,0,26,1],
-"ucolorspec_8h.html#afd838e124bec32788d0ec8efafe64a7e":[7,0,26,15],
-"ustring_8cpp.html":[7,0,27]
+"ucolorspec_8h.html#acc3eb6a10830817ab0ede3f36a445345":[7,0,26,9]
 };

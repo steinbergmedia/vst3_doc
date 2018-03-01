@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.7"/>
-<title>VST 3 Interfaces: How to use cmake for Building VST 3 Plug-in</title>
+<title>VST 3 Interfaces: How to use cmake for Building VST 3 Plug-ins</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -100,12 +100,11 @@ $(document).ready(function(){initNavTree('cmakeUse.html','');});
 
 <div class="header">
   <div class="headertitle">
-<div class="title">How to use cmake for Building VST 3 Plug-in </div>  </div>
+<div class="title">How to use cmake for Building VST 3 Plug-ins </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><pre>
- 1. Download cmake from: <a href="https://cmake.org">https://cmake.org</a> or use a package manager for your OS.
- 2. you can use the command line or the cmake editor (cmake-gui)
+ 1. Download cmake from: <a href="https://cmake.org">https://cmake.org</a> or use a package manager for your OS.</pre><pre> 2. you can use the command line or the cmake editor (cmake-gui)
     2.1 Command line for Windows to build Microsoft "Visual 2015" solution:
         // go in to the folder where you extracted the VST 3 SDK
         &gt;mkdir build
@@ -132,14 +131,21 @@ $(document).ready(function(){initNavTree('cmakeUse.html','');});
         &gt;cmake -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++
         or
         &gt;cmake -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++</pre><pre>    2.7 available options
+          SMTG_ADD_VST3_PLUGINS_SAMPLES: add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Plug-ins Samples to the project (default ON)
+          SMTG_ADD_VST3_HOSTING_SAMPLES: add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Hosting Samples to the solution (default ON)
+          SMTG_ADD_VSTGUI           : add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVSTGUI.html">VSTGUI</a> Support (default ON)
+          SMTG_BUILD_UNIVERSAL_BINARY: Build universal binary (32 &amp; 64 bit) (Mac only)
+          SMTG_IOS_DEVELOPMENT_TEAM : Needed for building the InterAppAudio and AUv3 examples for iOS (Mac only)
           SMTG_CREATE_VST2_VERSION  : allow to create the VST2 version of again example (default OFF)
+          SMTG_CREATE_VST3_LINK     : Create symbolic link for each <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-in in ${VST3_FOLDER_NAME} Folder (you need to have the Administrator right on Windows!)
           SMTG_ENABLE_USE_OF_JACK   : allow to create the audiohost application using Jack (default OFF)
+          SMTG_MYPLUGINS_SRC_PATH   : Here you can add Your <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder
           SMTG_RENAME_ASSERT        : rename ASSERT to SMTG_ASSERT to avoid potential conflict with 3rd party libraries (default ON)
-          SMTG_RUN_VST_VALIDATOR    : run the VST validator on <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins each time they are built  (default ON)
-          SMTG_USE_STATIC_CRT       : use static crt on Windows (option /MT) (default OFF)</pre><pre>3 Use your IDE for compiling the examples
-    3.1 solution/project (vstsdk.sln / vstsdk.xcodeproj) is then generated in the "build" folder.
-    3.2 the created Plug-ins are located in sub-folder /VST3/Release or /VST3/Debug in the "build" folder.
-    In order to allow DAW to find these Plug-ins you have to create links from the official <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Locations to them (see <a class="el" href="vst3loc.html">VST 3 Locations / Format</a>).
+          SMTG_RUN_VST_VALIDATOR    : run the VST validator on <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins each time they are built (default ON)
+          SMTG_USE_STATIC_CRT       : use static CRuntime on Windows (option /MT) (default OFF) (Windows only)
+          SMTG_VST3_TARGET_PATH     : Here you can redefine the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder</pre><pre>3. Use your IDE for compiling the examples
+    3.1 solution/project (vstsdk.sln / vstsdk.xcodeproj) is then generated in the "build" folder.</pre><pre>    3.2 the created Plug-ins are located in sub-folder /VST3/Release or /VST3/Debug in the "build" folder.
+    In order to allow DAW to find these Plug-ins you have to create links from the official <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Locations to them (see <a class="el" href="vst3loc.html">VST 3 Locations / Format</a>).
 </pre> </div></div><!-- contents -->
 </div><!-- doc-content -->
 <html>
@@ -152,7 +158,7 @@ $(document).ready(function(){initNavTree('cmakeUse.html','');});
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2017 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

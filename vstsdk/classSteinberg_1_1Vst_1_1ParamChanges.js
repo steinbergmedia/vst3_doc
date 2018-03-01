@@ -2,7 +2,7 @@ var classSteinberg_1_1Vst_1_1ParamChanges =
 [
     [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a19c556e05b55163f598ad6e47241c535", null ],
     [ "~ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a48bc6787be75ee3550b8023bacd24982", null ],
-    [ "init", "classSteinberg_1_1Vst_1_1ParamChanges.html#a60e71c8dd5734b58616dddbfbe9c197a", null ],
+    [ "init", "classSteinberg_1_1Vst_1_1ParamChanges.html#a7c3bd9cd507536d15097a2aa0ef69661", null ],
     [ "setPoint", "classSteinberg_1_1Vst_1_1ParamChanges.html#a850bc14c2676e3ad3c25217b548c2b43", null ],
     [ "resetPoints", "classSteinberg_1_1Vst_1_1ParamChanges.html#aa9728817d91fee2593fc8b6480c773e1", null ],
     [ "getProcessedFrames", "classSteinberg_1_1Vst_1_1ParamChanges.html#a1974e241cd715633518756450a8599bc", null ],
@@ -11,5 +11,5 @@ var classSteinberg_1_1Vst_1_1ParamChanges =
     [ "getParameterId", "classSteinberg_1_1Vst_1_1ParamChanges.html#a1d82c755fa67c189b94dec5c76121824", null ],
     [ "getPointCount", "classSteinberg_1_1Vst_1_1ParamChanges.html#a1e68d8b8453af59faf7bdd8353a45958", null ],
     [ "getPoint", "classSteinberg_1_1Vst_1_1ParamChanges.html#a65b4fe001a665525b4704b6ee3b864ea", null ],
-    [ "addPoint", "classSteinberg_1_1Vst_1_1ParamChanges.html#a84c243e6ce400ee8b7b00eee040e778d", null ]
+    [ "addPoint", "classSteinberg_1_1Vst_1_1ParamChanges.html#ab7eb03e949dfdd22d46a912533d7c07d", null ]
 ];

@@ -270,7 +270,7 @@ var group__vstClasses =
     [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html", [
       [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a722d0b273a6e3633c189fb21eaaa483c", null ],
       [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a388e837bf6198abab80b877ca32b5e26", null ],
-      [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a5cc19eb29e2a2d796fe24eee17fdb935", null ],
+      [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a75669d5409d1f3c14d0786633330046e", null ],
       [ "~Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a615c436bf6b0250e3518ba91a5d88f66", null ],
       [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a05f4560a930405134f5e39c35d7271da", null ],
       [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a78058279b0eac5f204ea0176a7d63654", null ],
@@ -289,7 +289,7 @@ var group__vstClasses =
     ] ],
     [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html", [
       [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#a5a97834c5e607e30474978393cd01d35", null ],
-      [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#aa4068bece94e60c67840a07cd7e5a7f4", null ],
+      [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#a9f3ded62c97296929ef2933cd432fdaf", null ],
       [ "getMin", "classSteinberg_1_1Vst_1_1RangeParameter.html#a0983c983ec34756d0e48caa0e09d1b9a", null ],
       [ "setMin", "classSteinberg_1_1Vst_1_1RangeParameter.html#acbbcff1787274988f70716800f19aafb", null ],
       [ "getMax", "classSteinberg_1_1Vst_1_1RangeParameter.html#a2da8f7d907b89deb5617e3aff7e2f38b", null ],
@@ -303,7 +303,7 @@ var group__vstClasses =
     ] ],
     [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html", [
       [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#ad830e59d14da834c55835fcfcfc3bd34", null ],
-      [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#ab1676b894f656b976ea5933fe830badb", null ],
+      [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#afe9e2d41b95886ea385ad5d482ffee58", null ],
       [ "~StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#ab4ba98e0ccec0024584c624af372708f", null ],
       [ "appendString", "classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7", null ],
       [ "replaceString", "classSteinberg_1_1Vst_1_1StringListParameter.html#ad17abefa165bfcf74201afba909a3d51", null ],
@@ -320,7 +320,7 @@ var group__vstClasses =
       [ "~ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585", null ],
       [ "init", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a45c61e90b4a6fc07b6597c9acc55b483", null ],
       [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a85fdb751a90bc332b258174367c3ae21", null ],
-      [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#adc6ba86b2e6963efb77c690e6639c339", null ],
+      [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#ab1ea7afd1ecc429f8324b751082e4b0f", null ],
       [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a6214dce887302e2cdc39fe332ce899a5", null ],
       [ "getParameterCount", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a0321ac02fa41dfbea9fd1339c7946c8b", null ],
       [ "getParameterByIndex", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a70cb545d308a834b588275737a35144c", null ],

@@ -1,7 +1,5 @@
 var group__speakerArrangements =
 [
-    [ "SpeakerArrangement", "group__speakerArrangements.html#ga54884a26d0b6dfa18eb919ea004775ac", null ],
-    [ "Speaker", "group__speakerArrangements.html#ga7a9fc6561fe897989fa3cea09ebb3250", null ],
     [ "getChannelCount", "group__speakerArrangements.html#gaa8258a29fe4e3164d9239869c1afc1e0", null ],
     [ "getSpeakerIndex", "group__speakerArrangements.html#ga5e43f8bd9b65e001e85706fb6229e54d", null ],
     [ "getSpeaker", "group__speakerArrangements.html#ga365c311dce7ea3c41e6674d0c31893d9", null ],

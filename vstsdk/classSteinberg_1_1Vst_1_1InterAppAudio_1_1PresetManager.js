@@ -5,7 +5,7 @@ var classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager =
     [ "runSavePresetBrowser", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a731e67b8c442e617dd135c18c668d0ef", null ],
     [ "loadNextPreset", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a3cabde7a9da60ba41d928d08bc60b374", null ],
     [ "loadPreviousPreset", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a03e03c3eacafc1b39524a5ccbab50faf", null ],
-    [ "getPresetPaths", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a60fe390a5ecaa8de9de596221a2ca7b3", null ],
+    [ "getPresetPaths", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#ab067e967b56f7457879ba0ee94a39e87", null ],
     [ "loadPreset", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a499c00d1698d113024242d598d5ace69", null ],
     [ "loadPreset", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a89d71e499b5dd3bf4c5ed2d75811f1b5", null ],
     [ "savePreset", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a44a50538a33e1cf9037b41fb3c228825", null ],

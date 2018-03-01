@@ -35,7 +35,6 @@ var searchData=
   ['detachdata',['detachData',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a26a553e881945d805cc01edc52109dff',1,'Steinberg::MemoryStream']]],
   ['detunecontroller',['DetuneController',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html#a23dd39d12a7fbfa1efb5d687de6c0672',1,'Steinberg::Vst::mda::DetuneController']]],
   ['detuneprocessor',['DetuneProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html#a45dd973ee62e98ca34f7f487b8123dbc',1,'Steinberg::Vst::mda::DetuneProcessor']]],
-  ['dirtyflagcontroller',['DirtyFlagController',['../classSteinberg_1_1Vst_1_1DirtyFlagController.html#a55bd748f268d0eb38f2d30f3ee8d1e85',1,'Steinberg::Vst::DirtyFlagController']]],
   ['disableerrorui',['disableErrorUI',['../../base/classSteinberg_1_1IErrorContext.html#a6984fa8a3247acec65a270803e43bc84',1,'Steinberg::IErrorContext']]],
   ['disconnect',['disconnect',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e',1,'Steinberg::Vst::IConnectionPoint::disconnect()'],['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12',1,'Steinberg::Vst::AudioEffect::disconnect()']]],
   ['disconnectcomponents',['disconnectComponents',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#a12cbed77ca2d669e478a375473de6fb1',1,'Steinberg::Vst::PlugProvider']]],

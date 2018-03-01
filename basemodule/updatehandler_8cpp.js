@@ -16,7 +16,6 @@ var updatehandler_8cpp =
     [ "hashPointer", "updatehandler_8cpp.html#a246841eba5cadc4df121e9d25c850834", null ],
     [ "getUnknownBase", "updatehandler_8cpp.html#a7cafef962152419f85a702f81054c31d", null ],
     [ "updateDone", "updatehandler_8cpp.html#a03d2e8f5e97048b6bb17dc6745ae314c", null ],
-    [ "SINGLE_CREATE_FUNC", "updatehandler_8cpp.html#a3ee8284939137d61a597836f314c71d8", null ],
     [ "kHashSize", "updatehandler_8cpp.html#abef3793f2d7d9c88ea2060471e321bb6", null ],
     [ "kMapSize", "updatehandler_8cpp.html#a83c50e3d7a4159ec9a96a13782cdd412", null ]
 ];

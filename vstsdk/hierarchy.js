@@ -125,16 +125,15 @@ var hierarchy =
         [ "VstBusInvalidIndexTest", "classSteinberg_1_1Vst_1_1VstBusInvalidIndexTest.html", null ],
         [ "VstCheckAudioBusArrangementTest", "classSteinberg_1_1Vst_1_1VstCheckAudioBusArrangementTest.html", null ],
         [ "VstEditorClassesTest", "classSteinberg_1_1Vst_1_1VstEditorClassesTest.html", null ],
-        [ "VstInvalidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstInvalidStateTransitionTest.html", null ],
         [ "VstKeyswitchTest", "classSteinberg_1_1Vst_1_1VstKeyswitchTest.html", null ],
         [ "VstMidiMappingTest", "classSteinberg_1_1Vst_1_1VstMidiMappingTest.html", null ],
         [ "VstNoteExpressionTest", "classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html", null ],
         [ "VstProgramInfoTest", "classSteinberg_1_1Vst_1_1VstProgramInfoTest.html", null ],
-        [ "VstRepeatIdenticalStateTransitionTest", "classSteinberg_1_1Vst_1_1VstRepeatIdenticalStateTransitionTest.html", null ],
         [ "VstScanBussesTest", "classSteinberg_1_1Vst_1_1VstScanBussesTest.html", null ],
         [ "VstScanParametersTest", "classSteinberg_1_1Vst_1_1VstScanParametersTest.html", null ],
         [ "VstTerminateInitializeTest", "classSteinberg_1_1Vst_1_1VstTerminateInitializeTest.html", null ],
         [ "VstTestEnh", "classSteinberg_1_1Vst_1_1VstTestEnh.html", [
+          [ "VstInvalidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstInvalidStateTransitionTest.html", null ],
           [ "VstProcessTest", "classSteinberg_1_1Vst_1_1VstProcessTest.html", [
             [ "VstAutomationTest", "classSteinberg_1_1Vst_1_1VstAutomationTest.html", null ],
             [ "VstProcessFormatTest", "classSteinberg_1_1Vst_1_1VstProcessFormatTest.html", null ],
@@ -145,11 +144,12 @@ var hierarchy =
             [ "VstSpeakerArrangementTest", "classSteinberg_1_1Vst_1_1VstSpeakerArrangementTest.html", null ],
             [ "VstVariableBlockSizeTest", "classSteinberg_1_1Vst_1_1VstVariableBlockSizeTest.html", null ]
           ] ],
-          [ "VstSuspendResumeTest", "classSteinberg_1_1Vst_1_1VstSuspendResumeTest.html", null ]
+          [ "VstRepeatIdenticalStateTransitionTest", "classSteinberg_1_1Vst_1_1VstRepeatIdenticalStateTransitionTest.html", null ],
+          [ "VstSuspendResumeTest", "classSteinberg_1_1Vst_1_1VstSuspendResumeTest.html", null ],
+          [ "VstValidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstValidStateTransitionTest.html", null ]
         ] ],
         [ "VstUnitInfoTest", "classSteinberg_1_1Vst_1_1VstUnitInfoTest.html", null ],
-        [ "VstUnitStructureTest", "classSteinberg_1_1Vst_1_1VstUnitStructureTest.html", null ],
-        [ "VstValidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstValidStateTransitionTest.html", null ]
+        [ "VstUnitStructureTest", "classSteinberg_1_1Vst_1_1VstUnitStructureTest.html", null ]
       ] ]
     ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1RangeParameter =
 [
     [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#a5a97834c5e607e30474978393cd01d35", null ],
-    [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#aa4068bece94e60c67840a07cd7e5a7f4", null ],
+    [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html#a9f3ded62c97296929ef2933cd432fdaf", null ],
     [ "getMin", "classSteinberg_1_1Vst_1_1RangeParameter.html#a0983c983ec34756d0e48caa0e09d1b9a", null ],
     [ "setMin", "classSteinberg_1_1Vst_1_1RangeParameter.html#acbbcff1787274988f70716800f19aafb", null ],
     [ "getMax", "classSteinberg_1_1Vst_1_1RangeParameter.html#a2da8f7d907b89deb5617e3aff7e2f38b", null ],

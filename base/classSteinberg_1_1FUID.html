@@ -641,8 +641,12 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Converts UID to a string. </p>
-<p>The string will be 32 characters long, representing the hexadecimal values of each data byte (e.g. "9127BE30160E4BB69966670AA6087880"). </p>
-
+<p>The string will be 32 characters long, representing the hexadecimal values of each data byte (e.g. "9127BE30160E4BB69966670AA6087880").</p>
+<p>Typical use-case is: </p><div class="fragment"><div class="line"><a class="code" href="namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86">char8</a>[33] strUID = {0};</div>
+<div class="line"><a class="code" href="classSteinberg_1_1FUID.html#aef4d827e945c171d056b9ed79a8964f8">FUID</a> uid;</div>
+<div class="line"><span class="keywordflow">if</span> (uid.generate ())</div>
+<div class="line">    uid.toString (strUID);</div>
+</div><!-- fragment --> 
 </div>
 </div>
 <a class="anchor" id="a1e809eb52c1b13101a137f4f722d93ab"></a>
@@ -863,7 +867,7 @@ Protected Attributes</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2017 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

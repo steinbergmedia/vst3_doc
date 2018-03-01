@@ -33,7 +33,7 @@ var searchData=
   ['totchar',['toTChar',['../namespaceVST3.html#a207e23e9cafce1b77acf9da2f72f2fc9',1,'VST3']]],
   ['totuid',['toTUID',['../../base/classSteinberg_1_1FUID.html#abd37cfcc00bb93ae45b4e01f332c12d8',1,'Steinberg::FUID::toTUID(TUID result) const '],['../../base/classSteinberg_1_1FUID.html#ad2940cd2922179eb4a50cd3fe1965769',1,'Steinberg::FUID::toTUID() const ']]],
   ['toughtests',['TOUGHTESTS',['../vsttestsuite_8cpp.html#a2bc47e76f3f6ff23e0ccf3374974c0be',1,'vsttestsuite.cpp']]],
-  ['tptrint',['TPtrInt',['../../base/namespaceSteinberg.html#a1c25ab481e482aafa3e751e3d2ada928',1,'Steinberg']]],
+  ['tptrint',['TPtrInt',['../../base/namespaceSteinberg.html#adbdfa470c35e7bf57d7952f0767bbf57',1,'Steinberg']]],
   ['tquarternotes',['TQuarterNotes',['../../vstinterfaces/group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'Steinberg::Vst::TQuarterNotes()'],['../../vstinterfaces/group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'TQuarterNotes()(Global Namespace)']]],
   ['transferchangesfrom',['transferChangesFrom',['../classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a958d810af44271155222fb51b9a1bca6',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['transferchangesto',['transferChangesTo',['../classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a5bc38e228c5ff68f4193697272b90963',1,'Steinberg::Vst::ParameterChangeTransfer']]],

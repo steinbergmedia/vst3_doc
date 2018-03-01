@@ -37,6 +37,7 @@ var searchData=
   ['vstrepresentation_2eh',['vstrepresentation.h',['../vstrepresentation_8h.html',1,'']]],
   ['vstsinglecomponenteffect_2ecpp',['vstsinglecomponenteffect.cpp',['../vstsinglecomponenteffect_8cpp.html',1,'']]],
   ['vstsinglecomponenteffect_2eh',['vstsinglecomponenteffect.h',['../vstsinglecomponenteffect_8h.html',1,'']]],
+  ['vstspeaker_2eh',['vstspeaker.h',['../../vstinterfaces/vstspeaker_8h.html',1,'']]],
   ['vstspeakerarray_2eh',['vstspeakerarray.h',['../vstspeakerarray_8h.html',1,'']]],
   ['vsttestsuite_2ecpp',['vsttestsuite.cpp',['../vsttestsuite_8cpp.html',1,'']]],
   ['vsttestsuite_2eh',['vsttestsuite.h',['../vsttestsuite_8h.html',1,'']]],

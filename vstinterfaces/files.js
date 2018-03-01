@@ -40,5 +40,6 @@ var files =
     [ "ivstunits.h", "ivstunits_8h.html", "ivstunits_8h" ],
     [ "vstpresetkeys.h", "vstpresetkeys_8h.html", "vstpresetkeys_8h" ],
     [ "vstpshpack4.h", "vstpshpack4_8h.html", null ],
+    [ "vstspeaker.h", "vstspeaker_8h.html", "vstspeaker_8h" ],
     [ "vsttypes.h", "vsttypes_8h.html", "vsttypes_8h" ]
 ];

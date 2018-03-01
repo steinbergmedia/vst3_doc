@@ -2,13 +2,13 @@
 <tagfile>
   <compound kind="file">
     <name>baseiids.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>baseiids_8cpp</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>classfactoryhelpers.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>classfactoryhelpers_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -69,12 +69,12 @@
   </compound>
   <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
     <name>fbuffer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8cpp</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -82,14 +82,14 @@
   </compound>
   <compound kind="file">
     <name>fbuffer.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8h</filename>
     <class kind="class">Steinberg::Buffer</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>fcleanup.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcleanup_8h</filename>
     <class kind="struct">Steinberg::FDeleter</class>
     <class kind="struct">Steinberg::FArrayDeleter</class>
@@ -110,7 +110,7 @@
   </compound>
   <compound kind="file">
     <name>fcommandline.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcommandline_8h</filename>
     <class kind="class">Steinberg::CommandLine::VariablesMap</class>
     <class kind="class">Steinberg::CommandLine::Description</class>
@@ -141,13 +141,13 @@
   </compound>
   <compound kind="file">
     <name>fdebug.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8cpp</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
   </compound>
   <compound kind="file">
     <name>fdebug.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -313,7 +313,7 @@
   </compound>
   <compound kind="file">
     <name>fdynlib.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8cpp</filename>
     <includes id="fdynlib_8h" name="fdynlib.h" local="yes" imported="no">base/source/fdynlib.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -321,7 +321,7 @@
   </compound>
   <compound kind="file">
     <name>fdynlib.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::FDynLibrary</class>
@@ -329,7 +329,7 @@
   </compound>
   <compound kind="file">
     <name>fobject.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8cpp</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <namespace>Steinberg</namespace>
@@ -407,7 +407,7 @@
   </compound>
   <compound kind="file">
     <name>fobject.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8h</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
     <class kind="class">Steinberg::FObject</class>
@@ -605,7 +605,7 @@
   </compound>
   <compound kind="file">
     <name>fstdmethods.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstdmethods_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -750,7 +750,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8cpp</filename>
     <includes id="fstreamer_8h" name="fstreamer.h" local="yes" imported="no">fstreamer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -759,7 +759,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8h</filename>
     <class kind="class">Steinberg::FStreamer</class>
     <class kind="class">Steinberg::FStreamSizeHolder</class>
@@ -796,7 +796,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8cpp</filename>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
@@ -881,7 +881,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::ConstString</class>
@@ -1297,7 +1297,7 @@
   </compound>
   <compound kind="file">
     <name>hexbinary.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>hexbinary_8h</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1319,7 +1319,7 @@
   </compound>
   <compound kind="file">
     <name>timer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8cpp</filename>
     <includes id="timer_8h" name="timer.h" local="yes" imported="no">base/source/timer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1334,7 +1334,7 @@
   </compound>
   <compound kind="file">
     <name>timer.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">fobject.h</includes>
     <class kind="class">Steinberg::ITimerCallback</class>
@@ -1366,7 +1366,7 @@
   </compound>
   <compound kind="file">
     <name>updatehandler.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8cpp</filename>
     <includes id="updatehandler_8h" name="updatehandler.h" local="yes" imported="no">base/source/updatehandler.h</includes>
     <includes id="classfactoryhelpers_8h" name="classfactoryhelpers.h" local="yes" imported="no">base/source/classfactoryhelpers.h</includes>
@@ -1485,13 +1485,6 @@
       <anchor>a03d2e8f5e97048b6bb17dc6745ae314c</anchor>
       <arglist>(FUnknown *unknown, int32 message)</arglist>
     </member>
-    <member kind="function">
-      <type></type>
-      <name>SINGLE_CREATE_FUNC</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a3ee8284939137d61a597836f314c71d8</anchor>
-      <arglist>(UpdateHandler) static int32 countEntries(Update</arglist>
-    </member>
     <member kind="variable">
       <type>const uint32</type>
       <name>kHashSize</name>
@@ -1509,7 +1502,7 @@
   </compound>
   <compound kind="file">
     <name>updatehandler.h</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::IUpdateManager</class>
@@ -2098,13 +2091,6 @@
       <anchorfile>namespaceSteinberg.html</anchorfile>
       <anchor>af754042087ab79da3c3b0d08681e9a93</anchor>
       <arglist>(const Call &amp;call)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SINGLE_CREATE_FUNC</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a3ee8284939137d61a597836f314c71d8</anchor>
-      <arglist>(UpdateHandler) static int32 countEntries(Update</arglist>
     </member>
     <member kind="variable">
       <type>struct Steinberg::FObjectIIDInitializer</type>
@@ -5593,8 +5579,8 @@
       <type>size_t</type>
       <name>countDependencies</name>
       <anchorfile>classSteinberg_1_1UpdateHandler.html</anchorfile>
-      <anchor>a0a27a7354589298ebf7327c7060a14bc</anchor>
-      <arglist>(FUnknown *object=0)</arglist>
+      <anchor>acc7bf9a003c1026bdf6877fbbc48728a</anchor>
+      <arglist>(FUnknown *object=nullptr)</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -6019,13 +6005,13 @@
   </compound>
   <compound kind="dir">
     <name>base</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/</path>
     <filename>dir_e914ee4d4a44400f1fdb170cb4ead18a.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/178329215/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>dir_83799167c1376d980d4b19fd5c6a4400.html</filename>
     <file>baseiids.cpp</file>
     <file>classfactoryhelpers.h</file>

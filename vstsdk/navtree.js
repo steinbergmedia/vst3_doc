@@ -26,7 +26,9 @@ var NAVTREE =
         [ "Q: How report to the host that the Plug-in latency has changed?", "faq.html#faqProcessing12", null ],
         [ "Q: How report to the host that the Plug-in Arrangement has changed?", "faq.html#faqProcessing13", null ],
         [ "Q: Can IAudioProcessor::setProcessing be called without any IAudioProcessor::process call?", "faq.html#faqProcessing14", null ],
-        [ "Q: How to make sure that a plug-in is always processed?", "faq.html#faqProcessing15", null ]
+        [ "Q: How to make sure that a plug-in is always processed?", "faq.html#faqProcessing15", null ],
+        [ "Q: Can IComponent::getState()/setState() could be called during processing?", "faq.html#faqProcessing16", null ],
+        [ "Q: How can a Plug-in be informed that it is currently processed in offline processing?", "faq.html#faqProcessing17", null ]
       ] ],
       [ "GUI-Editor", "faq.html#faqEditor", [
         [ "Q: The host doesn't open my Plug-in UI, why?", "faq.html#faqEditor1", null ]
@@ -53,7 +55,8 @@ var NAVTREE =
         [ "Q: Is it possible to ask a Plug-in about which speaker arrangements are supported?", "faq.html#faqMiscellaneous7", null ],
         [ "Q: Which version of Steinberg Sequencers support VST 3 Note Expression?", "faq.html#faqMiscellaneous8", null ],
         [ "Q: When compiling for Mac AudioUnit, I have a compiler error in AUCarbonViewBase.cpp. What can i do?", "faq.html#faqMiscellaneous9", null ],
-        [ "Q: How can i develop a SurroundPanner Plug-in which is integrated in Nuendo as Panner?", "faq.html#faqMiscellaneous10", null ]
+        [ "Q: How can i develop a SurroundPanner Plug-in which is integrated in Nuendo as Panner?", "faq.html#faqMiscellaneous10", null ],
+        [ "Q: How can i validate my Plug-in?", "faq.html#faqMiscellaneous11", null ]
       ] ]
     ] ],
     [ "VST 3 Licensing Issues", "vst3License.html", [
@@ -73,7 +76,7 @@ var NAVTREE =
     ] ],
     [ "Other Copyrights/Trademarks", "otherCopyright.html", null ],
     [ "Test Applications", "applications.html", [
-      [ "Validator", "applications.html#Validator", null ],
+      [ "Validator command line", "applications.html#validator", null ],
       [ "AudioHost - Cross-platform Standalone", "applications.html#audiohost", null ],
       [ "EditorHost - Cross-platform Standalone", "applications.html#editorhost", null ],
       [ "VST 3 Plug-in Test Host", "applications.html#vstTestHost", [
@@ -90,6 +93,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
+      [ "Version 3.6.9 (2018/03/01)", "vst3History.html#rev369", null ],
       [ "Version 3.6.8 (2017/11/08)", "vst3History.html#rev368", null ],
       [ "Version 3.6.7 (2017/03/03)", "vst3History.html#rev367", null ],
       [ "Version 3.6.6 (2016/06/17)", "vst3History.html#rev366", null ],
@@ -111,7 +115,7 @@ var NAVTREE =
       [ "Introduction", "AUWrapper.html#AUIntroduction", null ],
       [ "How does it work?", "AUWrapper.html#AUhowdoesitwork", null ]
     ] ],
-    [ "VST 3 - Audio Unit v3 Wrapper (Preview)", "AUv3Wrapper.html", [
+    [ "VST 3 - Audio Unit v3 Wrapper", "AUv3Wrapper.html", [
       [ "Introduction", "AUv3Wrapper.html#AUv3Introduction", null ],
       [ "How does it work?", "AUv3Wrapper.html#howtoAUv3", null ]
     ] ],
@@ -178,7 +182,7 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1ParameterChanges.html",
 "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a9b6d44e6eb5f2b1b8ae9399dc56a6ad7",
 "classVST3_1_1Hosting_1_1FactoryInfo.html#a92b852ccebf419816579c8f6877dbcd1",
-"stringconvert_8h.html#a516c6fb6f3feea42db8958f97e146129"
+"stringconvert_8cpp.html#ad0e56044e282dcac7890cbce544aa83f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

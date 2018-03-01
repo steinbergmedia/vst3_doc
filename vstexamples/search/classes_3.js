@@ -11,7 +11,6 @@ var searchData=
   ['delayprocessor',['DelayProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html',1,'Steinberg::Vst::mda']]],
   ['detunecontroller',['DetuneController',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html',1,'Steinberg::Vst::mda']]],
   ['detuneprocessor',['DetuneProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html',1,'Steinberg::Vst::mda']]],
-  ['dirtyflagcontroller',['DirtyFlagController',['../classSteinberg_1_1Vst_1_1DirtyFlagController.html',1,'Steinberg::Vst']]],
   ['dithercontroller',['DitherController',['../classSteinberg_1_1Vst_1_1mda_1_1DitherController.html',1,'Steinberg::Vst::mda']]],
   ['ditherprocessor',['DitherProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html',1,'Steinberg::Vst::mda']]],
   ['dubdelaycontroller',['DubDelayController',['../classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html',1,'Steinberg::Vst::mda']]],

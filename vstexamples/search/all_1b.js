@@ -26,7 +26,6 @@ var searchData=
   ['_7edelayprocessor',['~DelayProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html#a35e8133b24e7fb47cdc6918ab74391ef',1,'Steinberg::Vst::mda::DelayProcessor']]],
   ['_7edetunecontroller',['~DetuneController',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html#a4d583ab9c017f0552d6ab5927478ea98',1,'Steinberg::Vst::mda::DetuneController']]],
   ['_7edetuneprocessor',['~DetuneProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html#ad030c98cd04b12a2660da2273939f7c9',1,'Steinberg::Vst::mda::DetuneProcessor']]],
-  ['_7edirtyflagcontroller',['~DirtyFlagController',['../classSteinberg_1_1Vst_1_1DirtyFlagController.html#ae0b1cd34ac95c57615252d99f32f134d',1,'Steinberg::Vst::DirtyFlagController']]],
   ['_7edithercontroller',['~DitherController',['../classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#aa19349fa150637f7c6b8341ab4a9fbdc',1,'Steinberg::Vst::mda::DitherController']]],
   ['_7editherprocessor',['~DitherProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a1adb5bf22d42171d470bc4072e9aa999',1,'Steinberg::Vst::mda::DitherProcessor']]],
   ['_7edubdelaycontroller',['~DubDelayController',['../classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#afa343308c21321c4bf9660a5c299d744',1,'Steinberg::Vst::mda::DubDelayController']]],

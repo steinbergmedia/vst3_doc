@@ -1,5 +1,7 @@
 var NAVTREEINDEX9 =
 {
+"vstspeaker_8h.html#gabab50191c9f7c6a497f7d148cc3a9741":[20,0,26,131],
+"vstspeaker_8h.html#gabbfecee6091fbab1bbd2d3e073b86f5d":[20,0,26,156],
 "vstspeaker_8h.html#gabe9f3f14a428188b0fd0a229f15bf580":[20,0,26,10],
 "vstspeaker_8h.html#gabec483e2214863d8fbfd2f68815647a8":[20,0,26,65],
 "vstspeaker_8h.html#gabff1c300f5f6d675842dc5e8492b973e":[20,0,26,178],

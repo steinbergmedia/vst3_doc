@@ -619,6 +619,7 @@ var searchData=
   ['klong',['kLong',['../../vstinterfaces/group__musicalCharacter.html#ga1d83ca1c98b52785de6b205cf10ba2cc',1,'Steinberg::Vst::MusicalCharacter::kLong()'],['../../vstinterfaces/group__musicalCharacter.html#ga1d83ca1c98b52785de6b205cf10ba2cc',1,'kLong()(Global Namespace)']]],
   ['klongrelease',['kLongRelease',['../../vstinterfaces/group__musicalCharacter.html#gadb9b1ab770dcdf2bb4d526b5aac6b1ec',1,'Steinberg::Vst::MusicalCharacter::kLongRelease()'],['../../vstinterfaces/group__musicalCharacter.html#gadb9b1ab770dcdf2bb4d526b5aac6b1ec',1,'kLongRelease()(Global Namespace)']]],
   ['klookupinstalledplugins',['kLookupInstalledPlugIns',['../validator_8cpp.html#a7f8529ab0bdb3534e701e2575022c151',1,'validator.cpp']]],
+  ['klookuppluginsnapshots',['kLookupPlugInSnapshots',['../validator_8cpp.html#ae1db5ef980d185a54ee70f77c2d57867',1,'validator.cpp']]],
   ['kloop',['kLoop',['../../vstinterfaces/group__musicalCharacter.html#ga37e6e5e54e1d052d21d739a032593282',1,'Steinberg::Vst::MusicalCharacter::kLoop()'],['../../vstinterfaces/group__musicalCharacter.html#ga37e6e5e54e1d052d21d739a032593282',1,'kLoop()(Global Namespace)']]],
   ['klowpass',['kLowpass',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html#a1d1cfd8ffb84e947f82999c682b666a7a0666cd257339a1612b9a59b0c1e39b0d',1,'Steinberg::Vst::NoteExpressionSynth::Filter']]],
   ['kltblue',['kLtBlue',['../../base/namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cda133f1956c6567e805341ce1753a03d28',1,'Steinberg']]],

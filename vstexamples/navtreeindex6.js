@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ac2e3cea99685b96d4498a75309a8e8c3":[1,0,0,0,2,41,25],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#acb595380964a99547e8677a3ce18e282":[1,0,0,0,2,41,10],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,41,4],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ad79aca159f5b0f497390712b7b25e612":[1,0,0,0,2,41,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,58,2],
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5460de0e13faf8df4ebc17a4483ee14c":[1,0,0,0,2,58,17],
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b":[1,0,0,0,2,58,25],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a591fd1363c1626fddf38c5187bd33aed":[1,0,0,0,2,58,9],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5d5f28315548a7d539bf0266562a7c86":[1,0,0,0,2,58,12]
+"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a591fd1363c1626fddf38c5187bd33aed":[1,0,0,0,2,58,9]
 };

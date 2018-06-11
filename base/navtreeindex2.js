@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"keycodes_8h.html":[7,0,23],
 "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493d":[7,0,23,2],
 "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078":[7,0,23,2,2],
 "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c":[7,0,23,2,3],
@@ -88,8 +89,8 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg.html":[5,0,0],
 "namespaceSteinberg_1_1FUnknownPrivate.html":[5,0,0,0],
 "namespaceSteinberg_1_1GeoConstants.html":[5,0,0,1],
-"namespaceSteinberg_1_1Linux.html":[5,0,0,2],
 "namespaceSteinberg_1_1Linux.html":[6,0,0,0],
+"namespaceSteinberg_1_1Linux.html":[5,0,0,2],
 "namespacemembers.html":[5,1,0],
 "namespacemembers.html":[5,1,0,0],
 "namespacemembers_a.html":[5,1,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdad38f804f1c4b123fe442f81576461515":[7,0,26,4,17],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdadab15681c7200799430d2f338d0ed61e":[7,0,26,4,8],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdae22e7268faee0570b14aa13c801fa3b9":[7,0,26,4,25],
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdaf35707aff5cbf5d69b5f0aecd302d9b1":[7,0,26,4,28],
-"ucolorspec_8h.html#acc3eb6a10830817ab0ede3f36a445345":[7,0,26,9]
+"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdaf35707aff5cbf5d69b5f0aecd302d9b1":[7,0,26,4,28]
 };

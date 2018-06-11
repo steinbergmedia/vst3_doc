@@ -11,7 +11,7 @@ var searchData=
   ['sbuf2',['sbuf2',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a9adf152e37b7a75de7835a49f006c595',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['sbuflen',['sbuflen',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a0b00da249f3972bcbac076d3f4068fd4',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['sbufpos',['sbufpos',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#ae362b742b900e53018a279e291b5b941',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
-  ['scalefactor',['scaleFactor',['../classSteinberg_1_1Vst_1_1LogScale.html#adfdc379fe1efc92fd013b49e24ea6d22',1,'Steinberg::Vst::LogScale']]],
+  ['scalefactor',['scaleFactor',['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html#a7abda017cb76ae387450f3791f534046',1,'VST3::Hosting::Module::Snapshot::ImageDesc::scaleFactor()'],['../classSteinberg_1_1Vst_1_1LogScale.html#adfdc379fe1efc92fd013b49e24ea6d22',1,'Steinberg::Vst::LogScale::scaleFactor()']]],
   ['scalefactorinv',['scaleFactorInv',['../classSteinberg_1_1Vst_1_1LogScale.html#a7f25d28a1b9ee86bca0a15e69144bfce',1,'Steinberg::Vst::LogScale']]],
   ['scaleheadroom',['scaleHeadRoom',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics.html#a083829764df27ee35ed5e76d6223f8f7',1,'Steinberg::Vst::NoteExpressionSynth::VoiceStatics']]],
   ['scalenorm2gainc1',['scaleNorm2GainC1',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics.html#ac94ca4a7f4ae0fde708128b72102a2b4',1,'Steinberg::Vst::NoteExpressionSynth::VoiceStatics']]],

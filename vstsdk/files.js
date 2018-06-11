@@ -46,7 +46,9 @@ var files =
       [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html", "classVST3_1_1Hosting_1_1ClassInfo" ],
       [ "Data", "structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html", "structVST3_1_1Hosting_1_1ClassInfo_1_1Data" ],
       [ "PluginFactory", "classVST3_1_1Hosting_1_1PluginFactory.html", "classVST3_1_1Hosting_1_1PluginFactory" ],
-      [ "Module", "classVST3_1_1Hosting_1_1Module.html", "classVST3_1_1Hosting_1_1Module" ]
+      [ "Module", "classVST3_1_1Hosting_1_1Module.html", "classVST3_1_1Hosting_1_1Module" ],
+      [ "Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", "structVST3_1_1Hosting_1_1Module_1_1Snapshot" ],
+      [ "ImageDesc", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc" ]
     ] ],
     [ "module_linux.cpp", "module__linux_8cpp.html", "module__linux_8cpp" ],
     [ "module_mac.mm", "module__mac_8mm.html", "module__mac_8mm" ],

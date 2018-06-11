@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#acbcf1360c00f6662701dd7b7891f0d44":[1,0,0,0,2,28,6],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#acd9191c0e5c0105430a03731ac9f9701":[1,0,0,0,2,28,41],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,28,9],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#adbc1ac78169fb87f5523d5acd706c11e":[1,0,0,0,2,28,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa805acc76e087669585fb54c41833703":[1,0,0,0,2,41,28],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa99973d5a2968e9ec4c3148fe68e513f":[1,0,0,0,2,41,21],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab756503ec7eb8340aae55ee1455b31ae":[1,0,0,0,2,41,27],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab7bd2a156007e3d5ff5b020386edae9c":[1,0,0,0,2,41,13],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ac2e3cea99685b96d4498a75309a8e8c3":[1,0,0,0,2,41,25]
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab7bd2a156007e3d5ff5b020386edae9c":[1,0,0,0,2,41,13]
 };

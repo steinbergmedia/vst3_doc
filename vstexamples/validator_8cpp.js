@@ -7,5 +7,7 @@ var validator_8cpp =
     [ "kQuietOption", "validator_8cpp.html#a1cea1f2f66a395a6e91f0df45833d15a", null ],
     [ "kTestComponentPath", "validator_8cpp.html#ad10ee17c8ff5dae8cf4ec3aaa071c033", null ],
     [ "kLookupInstalledPlugIns", "validator_8cpp.html#a7f8529ab0bdb3534e701e2575022c151", null ],
-    [ "printAllInstalledPlugins", "validator_8cpp.html#afa68f5ed80bcc519b74d081502e142d3", null ]
+    [ "kLookupPlugInSnapshots", "validator_8cpp.html#ae1db5ef980d185a54ee70f77c2d57867", null ],
+    [ "printAllInstalledPlugins", "validator_8cpp.html#afa68f5ed80bcc519b74d081502e142d3", null ],
+    [ "printAllSnapshots", "validator_8cpp.html#adc2a11d96c803c5e50d332aab6ca5fc5", null ]
 ];

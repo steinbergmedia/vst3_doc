@@ -61,9 +61,9 @@ var group__sdkBase =
     [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", [
       [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html#a6337cf8d04686bb3a52e6f64d8771616", null ],
       [ "~CPluginFactory", "classSteinberg_1_1CPluginFactory.html#a274f29174ecc826eb5f8a95ad59c8529", null ],
-      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#a44138aed2f69ca485fd4776e10948b22", null ],
-      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#a51bd1a9d6ee10c766e981e34d6fd6407", null ],
-      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#a83b6e54aa733eea0c4332201c949f442", null ],
+      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#a1dc6a662d90baccc5157fc79eac046f6", null ],
+      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#a210337a5a149d08250c25287e91ff919", null ],
+      [ "registerClass", "classSteinberg_1_1CPluginFactory.html#ab5cc0a61b6949ae295a79c1a67a81749", null ],
       [ "isClassRegistered", "classSteinberg_1_1CPluginFactory.html#a2713b7e1188eed338aca5eed221ecc39", null ],
       [ "getFactoryInfo", "classSteinberg_1_1CPluginFactory.html#a9b6e31f0d8d6ac33f48b48241d0a2359", null ],
       [ "countClasses", "classSteinberg_1_1CPluginFactory.html#a3546f0319d7a25802f223c6f6e17edf6", null ],

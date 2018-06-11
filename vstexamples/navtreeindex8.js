@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#ad92e1375ba0d21396ac67f99226b0e7d":[1,0,0,0,2,72,1],
 "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#adc555d54eea3713247297be28cb3032b":[1,0,0,0,2,72,0],
 "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#ae759ae3ca15c8cd6096dd139ceb29000":[1,0,0,0,2,72,33],
 "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#ae7c7355cca034a0ad4a661f6cd9a00c6":[1,0,0,0,2,72,26],
@@ -146,8 +147,8 @@ var NAVTREEINDEX8 =
 "functions_type.html":[1,3,3],
 "functions_u.html":[1,3,0,19],
 "functions_v.html":[1,3,0,20],
-"functions_vars.html":[1,3,2],
 "functions_vars.html":[1,3,2,0],
+"functions_vars.html":[1,3,2],
 "functions_vars_b.html":[1,3,2,1],
 "functions_vars_c.html":[1,3,2,2],
 "functions_vars_d.html":[1,3,2,3],
@@ -181,8 +182,8 @@ var NAVTREEINDEX8 =
 "globals_b.html":[2,1,0,1],
 "globals_c.html":[2,1,0,2],
 "globals_d.html":[2,1,0,3],
-"globals_defs.html":[2,1,5],
 "globals_defs.html":[2,1,5,0],
+"globals_defs.html":[2,1,5],
 "globals_defs_b.html":[2,1,5,1],
 "globals_defs_c.html":[2,1,5,2],
 "globals_defs_d.html":[2,1,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "hostcheckercontroller_8cpp.html":[2,0,41],
 "hostcheckercontroller_8h.html":[2,0,42],
 "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a62b2022052e868671bb75cd58084574f":[2,0,42,1],
-"hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a895c3f08d5334358ee7628f412529369":[2,0,42,3],
-"hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04accae6362415ab072a25d0f720df50d28":[2,0,42,4]
+"hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a895c3f08d5334358ee7628f412529369":[2,0,42,3]
 };

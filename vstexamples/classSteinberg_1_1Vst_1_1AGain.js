@@ -14,6 +14,7 @@ var classSteinberg_1_1Vst_1_1AGain =
     [ "canProcessSampleSize", "classSteinberg_1_1Vst_1_1AGain.html#a1c7a40be692f5ed7f009896af248beed", null ],
     [ "notify", "classSteinberg_1_1Vst_1_1AGain.html#a60bbab8211ead54d50dbb672be410342", null ],
     [ "processAudio", "classSteinberg_1_1Vst_1_1AGain.html#a1bfe25345ab8c9724f1a9054bcc0119e", null ],
+    [ "processVuPPM", "classSteinberg_1_1Vst_1_1AGain.html#aae38d5bb8d3a9b1ee8362e0c7966bb7e", null ],
     [ "fGain", "classSteinberg_1_1Vst_1_1AGain.html#a98ba8d09babc608a4d6c9566c73abf42", null ],
     [ "fGainReduction", "classSteinberg_1_1Vst_1_1AGain.html#acb0d816f650e0ce8fd07a0e74327265e", null ],
     [ "fVuPPMOld", "classSteinberg_1_1Vst_1_1AGain.html#ad26040642b7a7a3101a414385c259763", null ],

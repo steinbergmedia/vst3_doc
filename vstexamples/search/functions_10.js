@@ -46,6 +46,7 @@ var searchData=
   ['processorwithuicontroller',['ProcessorWithUIController',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ProcessorWithUIController.html#ab5228721f9b22a253dcbea1d0fc23a0e',1,'Steinberg::Vst::NoteExpressionSynth::ProcessorWithUIController']]],
   ['processparameterchanges',['processParameterChanges',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a0ffd894a28d7e846f89200ec9ec5c5f8',1,'Steinberg::Vst::mda::BaseProcessor']]],
   ['processsetupcheck',['ProcessSetupCheck',['../classProcessSetupCheck.html#aed3951668033205a68bbba7d2869c18f',1,'ProcessSetupCheck']]],
+  ['processvuppm',['processVuPPM',['../classSteinberg_1_1Vst_1_1AGain.html#aae38d5bb8d3a9b1ee8362e0c7966bb7e',1,'Steinberg::Vst::AGain']]],
   ['programdatasupported',['programDataSupported',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html#abc46e67ff37c30223ab01b70fe49a2e3',1,'Steinberg::Vst::IProgramListData']]],
   ['programlist',['ProgramList',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#a064d4941eb4a37a951ba11db619139a1',1,'Steinberg::Vst::ProgramList::ProgramList(const String128 name, ProgramListID listId, UnitID unitId)'],['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#af096804513689f8f3e210b22c69df785',1,'Steinberg::Vst::ProgramList::ProgramList(const ProgramList &amp;programList)']]],
   ['programlistwithpitchnames',['ProgramListWithPitchNames',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ac35cdc8c766d4de4e9677d278c01382a',1,'Steinberg::Vst::ProgramListWithPitchNames']]]

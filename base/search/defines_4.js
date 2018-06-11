@@ -1,9 +1,11 @@
 var searchData=
 [
-  ['implement_5ffunknown_5fmethods',['IMPLEMENT_FUNKNOWN_METHODS',['../funknown_8h.html#a3131ec3273dc17d39bef17154309b893',1,'funknown.h']]],
-  ['implement_5fqueryinterface',['IMPLEMENT_QUERYINTERFACE',['../funknown_8h.html#a023a5c16eb6b8a0057d712343f9d752c',1,'funknown.h']]],
-  ['implement_5frefcount',['IMPLEMENT_REFCOUNT',['../funknown_8h.html#ae3db5eac4c75b5199dcdc4462b6289aa',1,'funknown.h']]],
-  ['inline_5fuid',['INLINE_UID',['../funknown_8h.html#a8024fad3ea7ecdd1ab3221d15e04aa52',1,'funknown.h']]],
-  ['inline_5fuid_5ffrom_5ffuid',['INLINE_UID_FROM_FUID',['../funknown_8h.html#ae43645513f5c72529a3fb6c6d1e76b46',1,'funknown.h']]],
-  ['inline_5fuid_5fof',['INLINE_UID_OF',['../funknown_8h.html#aaf419cd3f56488ae59cd1b9c8397377b',1,'funknown.h']]]
+  ['format_5fint64',['FORMAT_INT64',['../fstrdefs_8h.html#a6fc06c408b7c51eb867462d2733051a6',1,'fstrdefs.h']]],
+  ['format_5fint64a',['FORMAT_INT64A',['../fstrdefs_8h.html#adebf25a9067f8beae00b856b97e59493',1,'fstrdefs.h']]],
+  ['format_5fint64w',['FORMAT_INT64W',['../fstrdefs_8h.html#a4f093ee514ef89a616a1fcf6bad65471',1,'fstrdefs.h']]],
+  ['format_5fuint64',['FORMAT_UINT64',['../fstrdefs_8h.html#ad76e8f81482f416ef999fa817c37d1d9',1,'fstrdefs.h']]],
+  ['format_5fuint64a',['FORMAT_UINT64A',['../fstrdefs_8h.html#acaa60848d1abc5e2ecc7bb7495cb167e',1,'fstrdefs.h']]],
+  ['format_5fuint64w',['FORMAT_UINT64W',['../fstrdefs_8h.html#a74240c0f7b8afe191585707326ec9b5e',1,'fstrdefs.h']]],
+  ['funknown_5fctor',['FUNKNOWN_CTOR',['../funknown_8h.html#a2e898abff4a673feaa52f7ed20a42e50',1,'funknown.h']]],
+  ['funknown_5fdtor',['FUNKNOWN_DTOR',['../funknown_8h.html#ac31390eb834d3acfda3d871db3f9f959',1,'funknown.h']]]
 ];

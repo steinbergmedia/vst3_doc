@@ -1,7 +1,9 @@
 var classVST3_1_1Hosting_1_1Module =
 [
+    [ "Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", "structVST3_1_1Hosting_1_1Module_1_1Snapshot" ],
     [ "Ptr", "classVST3_1_1Hosting_1_1Module.html#a6b597424e1e3214bbaa370140e784b15", null ],
     [ "PathList", "classVST3_1_1Hosting_1_1Module.html#acdb10dcad8762c5983d925df70f95732", null ],
+    [ "SnapshotList", "classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587", null ],
     [ "~Module", "classVST3_1_1Hosting_1_1Module.html#aaa8f4978d4cd166724c0856b02208dab", null ],
     [ "getName", "classVST3_1_1Hosting_1_1Module.html#ae97c2724ea480d85272ba2cb5a1da524", null ],
     [ "getPath", "classVST3_1_1Hosting_1_1Module.html#adbf9f5b3b8a667bdbbfc3928108b09aa", null ],

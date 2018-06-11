@@ -29,6 +29,7 @@ var searchData=
   ['iinterappaudiohost',['IInterAppAudioHost',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html',1,'Steinberg::Vst']]],
   ['iinterappaudiopresetmanager',['IInterAppAudioPresetManager',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html',1,'Steinberg::Vst']]],
   ['ikeyswitchcontroller',['IKeyswitchController',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IKeyswitchController.html',1,'Steinberg::Vst']]],
+  ['imagedesc',['ImageDesc',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html',1,'VST3::Hosting::Module::Snapshot']]],
   ['imessage',['IMessage',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMessage.html',1,'Steinberg::Vst']]],
   ['imidimapping',['IMidiMapping',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html',1,'Steinberg::Vst']]],
   ['inoteexpressioncontroller',['INoteExpressionController',['../../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionController.html',1,'Steinberg::Vst']]],

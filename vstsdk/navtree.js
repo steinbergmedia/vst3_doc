@@ -66,12 +66,14 @@ var NAVTREE =
         [ "\"Open-source GPLv3\" license", "vst3License.html#lic3", null ]
       ] ],
       [ "Which files of the VST 3 SDK are under which license?", "vst3License.html#lic4", null ],
+      [ "Whats about VST 2?", "vst3License.html#licvst2", null ],
       [ "Developer use cases", "vst3License.html#lic5", [
-        [ "I would like to share the source code of my plug-in/host on GitHub.", "vst3License.html#usecase1", null ],
-        [ "I would like to distribute my plug-in/host as freeware.", "vst3License.html#usecase2", null ],
-        [ "I would like to sell my plug-in/host in binary form.", "vst3License.html#usecase3", null ],
+        [ "I would like to share the source code of my VST 3 plug-in/host on GitHub.", "vst3License.html#usecase1", null ],
+        [ "I would like to distribute my VST 3 plug-in/host as freeware.", "vst3License.html#usecase2", null ],
+        [ "I would like to sell my VST 3 plug-in/host in binary form.", "vst3License.html#usecase3", null ],
         [ "I would like to reuse a distributed modified version of the VST 3 SDK for my own plug-ins/host.", "vst3License.html#usecase4", null ],
-        [ "I would like to distribute my plug-in/host in binary form based on a modified version of VST 3 SDK which is under GPLv3.", "vst3License.html#usecase5", null ]
+        [ "I would like to distribute my VST 3 plug-in/host in binary form based on a modified version of VST 3 SDK which is under GPLv3.", "vst3License.html#usecase5", null ],
+        [ "I would like to share the source code of my VST 2 plug-in/host on GitHub or other web-based exchange platform.", "vst3License.html#usecase6", null ]
       ] ]
     ] ],
     [ "Other Copyrights/Trademarks", "otherCopyright.html", null ],
@@ -93,6 +95,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
+      [ "Version 3.6.10 (2018/06/04)", "vst3History.html#rev3610", null ],
       [ "Version 3.6.9 (2018/03/01)", "vst3History.html#rev369", null ],
       [ "Version 3.6.8 (2017/11/08)", "vst3History.html#rev368", null ],
       [ "Version 3.6.7 (2017/03/03)", "vst3History.html#rev367", null ],
@@ -111,7 +114,7 @@ var NAVTREE =
       [ "Introduction", "AAXWrapper.html#AAXIntroduction", null ],
       [ "How does it work?", "AAXWrapper.html#howtoAAX", null ]
     ] ],
-    [ "VST 3 - AudioUnit Wrapper", "AUWrapper.html", [
+    [ "VST 3 - Audio Unit Wrapper", "AUWrapper.html", [
       [ "Introduction", "AUWrapper.html#AUIntroduction", null ],
       [ "How does it work?", "AUWrapper.html#AUhowdoesitwork", null ]
     ] ],
@@ -182,7 +185,7 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1ParameterChanges.html",
 "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a9b6d44e6eb5f2b1b8ae9399dc56a6ad7",
 "classVST3_1_1Hosting_1_1FactoryInfo.html#a92b852ccebf419816579c8f6877dbcd1",
-"stringconvert_8cpp.html#ad0e56044e282dcac7890cbce544aa83f"
+"stringconvert_8cpp.html#abff8a368026b5ff872b48945fcf3113f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

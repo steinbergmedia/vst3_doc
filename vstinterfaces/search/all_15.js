@@ -2,7 +2,7 @@ var searchData=
 [
   ['vst_203_20_2d_20aax_20wrapper',['VST 3 - AAX Wrapper',['../../vstsdk/AAXWrapper.html',1,'']]],
   ['vst_203_20_2d_20audio_20unit_20v3_20wrapper',['VST 3 - Audio Unit v3 Wrapper',['../../vstsdk/AUv3Wrapper.html',1,'']]],
-  ['vst_203_20_2d_20audiounit_20wrapper',['VST 3 - AudioUnit Wrapper',['../../vstsdk/AUWrapper.html',1,'']]],
+  ['vst_203_20_2d_20audio_20unit_20wrapper',['VST 3 - Audio Unit Wrapper',['../../vstsdk/AUWrapper.html',1,'']]],
   ['hosting',['Hosting',['../../vstsdk/namespaceVST3_1_1Hosting.html',1,'VST3']]],
   ['vst_20module_20architecture',['VST Module Architecture',['../../base/index.html',1,'(Global Namespace)'],['../index.html',1,'(Global Namespace)']]],
   ['stringconvert',['StringConvert',['../../vstsdk/namespaceVST3_1_1StringConvert.html',1,'VST3']]],

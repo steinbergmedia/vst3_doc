@@ -118,6 +118,7 @@ var hierarchy =
         [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html", null ]
       ] ]
     ] ],
+    [ "Module::Snapshot::ImageDesc", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html", null ],
     [ "ITest", null, [
       [ "VstTestBase", "classSteinberg_1_1Vst_1_1VstTestBase.html", [
         [ "VstBusActivationTest", "classSteinberg_1_1Vst_1_1VstBusActivationTest.html", null ],
@@ -165,6 +166,7 @@ var hierarchy =
     [ "ProcessData", "../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html", [
       [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html", null ]
     ] ],
+    [ "Module::Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", null ],
     [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", null ],
     [ "<UIApplicationDelegate>", null, [
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]

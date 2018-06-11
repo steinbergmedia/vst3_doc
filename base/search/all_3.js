@@ -3,6 +3,7 @@ var searchData=
   ['canresize',['canResize',['../classSteinberg_1_1IPlugView.html#a07d7a22ae1ef493c4bb22c9411ae7ddf',1,'Steinberg::IPlugView']]],
   ['cardinality',['cardinality',['../structSteinberg_1_1PClassInfo.html#aaeac80bf9a3a2680cfec481edb605d5e',1,'Steinberg::PClassInfo::cardinality()'],['../structSteinberg_1_1PClassInfo2.html#aaeac80bf9a3a2680cfec481edb605d5e',1,'Steinberg::PClassInfo2::cardinality()'],['../structSteinberg_1_1PClassInfoW.html#aaeac80bf9a3a2680cfec481edb605d5e',1,'Steinberg::PClassInfoW::cardinality()']]],
   ['category',['category',['../structSteinberg_1_1PClassInfo.html#a32bb1f3165cfe0587146dd5a616af919',1,'Steinberg::PClassInfo::category()'],['../structSteinberg_1_1PClassInfo2.html#a2d66c6812ef6fe8c155f83d3820e6fee',1,'Steinberg::PClassInfo2::category()'],['../structSteinberg_1_1PClassInfoW.html#a2d66c6812ef6fe8c155f83d3820e6fee',1,'Steinberg::PClassInfoW::category()']]],
+  ['cconst',['CCONST',['../futils_8h.html#abe9ebeb8fb703ceffa08dc69d920a27d',1,'futils.h']]],
   ['changemessage',['ChangeMessage',['../classSteinberg_1_1IDependent.html#a4b88d1d42482ecad4964cf7c7f35b8c1',1,'Steinberg::IDependent']]],
   ['char',['char',['../namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579',1,'Steinberg']]],
   ['char16',['char16',['../namespaceSteinberg.html#ad12e102dc50c08aa3136349a56e76fd3',1,'Steinberg']]],

@@ -10,7 +10,7 @@ var searchData=
   ['params',['params',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a09ad76517b311128144d1a5d0dbfee99',1,'Steinberg::Vst::ParameterContainer::params()'],['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a5e973ce6708933be80032fa04ba40c03',1,'Steinberg::Vst::mda::BaseProcessor::params()']]],
   ['paramstate',['paramState',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html#a70f2ba736c12beba073fd0701a8a5b92',1,'Steinberg::Vst::NoteExpressionSynth::Processor']]],
   ['parentunitid',['parentUnitId',['../../vstinterfaces/structSteinberg_1_1Vst_1_1UnitInfo.html#a5cd97a596c57f5f28ebad702f2d6f06a',1,'Steinberg::Vst::UnitInfo']]],
-  ['path',['path',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a4d455efceee21e97d8e21ee40e9b4a20',1,'VST3::Hosting::Module']]],
+  ['path',['path',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a4d455efceee21e97d8e21ee40e9b4a20',1,'VST3::Hosting::Module::path()'],['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html#a4d455efceee21e97d8e21ee40e9b4a20',1,'VST3::Hosting::Module::Snapshot::ImageDesc::path()']]],
   ['pbend',['pbend',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a65c8b50901014cb0c49d6c94d753548a',1,'Steinberg::Vst::mda::DX10Processor::pbend()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a65c8b50901014cb0c49d6c94d753548a',1,'Steinberg::Vst::mda::JX10Processor::pbend()']]],
   ['peerconnection',['peerConnection',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#ad50a75d3eaa8c85449a62283c5b995b9',1,'Steinberg::Vst::AudioEffect']]],
   ['period',['period',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#ae08ac1ff9a62c213c5768ca3a538e546',1,'Steinberg::Vst::mda::JX10Processor::VOICE']]],

@@ -22,10 +22,12 @@ var NAVTREEINDEX7 =
 "vst3loc.html#macformat":[1,0,0],
 "vst3loc.html#maclocation":[1,1,0],
 "vst3loc.html#macpreset":[1,3,0],
+"vst3loc.html#mergedbundles":[1,0,4],
 "vst3loc.html#plugFormat":[1,0],
 "vst3loc.html#pluginloc":[1,1],
 "vst3loc.html#presetformat":[1,2],
 "vst3loc.html#presetloc":[1,3],
+"vst3loc.html#snapshots":[1,0,3],
 "vst3loc.html#win2000preset":[1,3,1],
 "vst3loc.html#win7preset":[1,3,2],
 "vst3loc.html#winformat":[1,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX7 =
 "vstpresetkeys_8h.html#gab5f48d90dba2837a9b0552446258746c":[20,0,24,28],
 "vstpresetkeys_8h.html#gab5face7509d33a16c6be75f042d5f56a":[20,0,24,273],
 "vstpresetkeys_8h.html#gab6f7ddec4db62d879f3d4147da295e5d":[20,0,24,117],
-"vstpresetkeys_8h.html#gab7285dab701bff67bb281688a4c1b93a":[20,0,24,208],
-"vstpresetkeys_8h.html#gab7fc6fc1b343016898c32d9095895973":[20,0,24,202],
-"vstpresetkeys_8h.html#gab86682f9fb5dd5c56199feba1afadc8f":[20,0,24,249]
+"vstpresetkeys_8h.html#gab7285dab701bff67bb281688a4c1b93a":[20,0,24,208]
 };

@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="FUnknown" alt="" coords="6,958,85,984"/>
-<area shape="rect" id="node3" href="/Volumes/SSD/Builddata/re/185775518/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title="IPluginBase" alt="" coords="192,28,277,54"/>
+<area shape="rect" id="node1" href="/Volumes/SSD/Builddata/re/193843424/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="FUnknown" alt="" coords="6,958,85,984"/>
+<area shape="rect" id="node3" href="/Volumes/SSD/Builddata/re/193843424/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title="IPluginBase" alt="" coords="192,28,277,54"/>
 <area shape="rect" id="node9" href="$classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html" title="Channel Context Interface. " alt="" coords="191,78,278,104"/>
 <area shape="rect" id="node11" href="$classSteinberg_1_1Vst_1_1IAttributeList.html" title="Attribute list used in IMessage and IStreamAttributes. " alt="" coords="191,127,279,153"/>
 <area shape="rect" id="node13" href="$classSteinberg_1_1Vst_1_1IAudioPresentationLatency.html" title="Extended IAudioProcessor interface for a component. " alt="" coords="152,176,317,202"/>

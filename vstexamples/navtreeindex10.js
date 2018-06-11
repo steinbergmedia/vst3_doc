@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"mdaSpecMeterController_8h.html":[2,0,163],
 "mdaSpecMeterProcessor_8cpp.html":[2,0,164],
 "mdaSpecMeterProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc":[2,0,164,0],
 "mdaSpecMeterProcessor_8h.html":[2,0,165],
@@ -39,12 +40,12 @@ var NAVTREEINDEX10 =
 "mdafactory_8cpp.html#a02cfb08432768bde2f63589cd3fb4a6c":[2,0,106,1],
 "mdafactory_8cpp.html#a7a6b11a55e9b38681d4d7941f3cd28d6":[2,0,106,0],
 "mdafactory_8cpp.html#acfa434568d573f05a44fbc6dd35910ee":[2,0,106,2],
-"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[0,0,0,0,0],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,0,0],
+"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[0,0,0,0,0],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,0,1],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[0,0,0,0,1],
-"namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[0,0,0,0,3],
 "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[1,0,0,0,3],
+"namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[0,0,0,0,3],
 "namespaceSteinberg_1_1Vst_1_1mda.html":[0,0,0,0,2],
 "namespaceSteinberg_1_1Vst_1_1mda.html":[1,0,0,0,2],
 "namespacemembers.html":[0,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "programchange_2source_2version_8h.html#ab61e5bc2342cce876090e4b50ca2f60f":[2,0,256,8],
 "programchange_2source_2version_8h.html#acfc1668731750cb1ee8974b8a7c133ef":[2,0,256,9],
 "programchange_2source_2version_8h.html#ad82cb859636c1a68bbea1968d405ad7b":[2,0,256,3],
-"programchange_2source_2version_8h.html#adb2701b32a110347dbec4c7d92b3cce2":[2,0,256,0],
-"programchange_2source_2version_8h.html#adb58dbe9424bfe0a2e594a5e6399c3e2":[2,0,256,10]
+"programchange_2source_2version_8h.html#adb2701b32a110347dbec4c7d92b3cce2":[2,0,256,0]
 };

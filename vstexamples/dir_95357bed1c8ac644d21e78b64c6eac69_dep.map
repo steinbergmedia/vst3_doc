@@ -1,0 +1,17 @@
+<map id="vst" name="vst">
+<area shape="rect" id="node4" href="dir_3a333ed7e1e4e734a17f93badf3e477e.html" title="adelay" alt="" coords="1304,61,1376,109"/>
+<area shape="rect" id="node5" href="dir_6b76df2377ee2ded17bb7d21caf69f68.html" title="again" alt="" coords="1208,61,1280,109"/>
+<area shape="rect" id="node6" href="dir_e8f7f2e814c78e1b8c3799ded94f4b1f.html" title="channelcontext" alt="" coords="1082,61,1184,109"/>
+<area shape="rect" id="node7" href="dir_1b8556fb571549fd93dc8007f7e2b988.html" title="common" alt="" coords="621,157,693,205"/>
+<area shape="rect" id="node8" href="dir_668e552acd6f92e28aa1d164e26fee11.html" title="hostchecker" alt="" coords="972,61,1057,109"/>
+<area shape="rect" id="node9" href="dir_30bd15ea116e89bc51b6442d818bea42.html" title="InterAppAudio" alt="" coords="850,61,947,109"/>
+<area shape="rect" id="node10" href="dir_6209bacba6359fa43992fa9e5f3b2a7d.html" title="mda&#45;vst3" alt="" coords="753,61,825,109"/>
+<area shape="rect" id="node11" href="dir_3c53b2d1c3390700b27800d62e2225d4.html" title="note_expression_synth" alt="" coords="585,61,729,109"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000010_000020.html" title="3" alt="" coords="662,132,669,146"/>
+<area shape="rect" id="node12" href="dir_91417670ee38241327785f877b8d0eeb.html" title="note_expression_text" alt="" coords="426,61,560,109"/>
+<area shape="rect" id="node13" href="dir_bd49944c86c88ee2f8e2c0f40bc8ae10.html" title="pitchnames" alt="" coords="319,61,401,109"/>
+<area shape="rect" id="node14" href="dir_b2d45db8d67da3efb32fd95262aaffc0.html" title="prefetchablesupport" alt="" coords="167,61,293,109"/>
+<area shape="rect" id="node15" href="dir_b8a3ecee7a7b9a318579476de04fea7a.html" title="programchange" alt="" coords="38,61,143,109"/>
+<area shape="rect" id="graph3" href="dir_95357bed1c8ac644d21e78b64c6eac69.html" alt="" coords="27,51,1483,216"/>
+<area shape="rect" id="graph2" href="dir_d62575ed9b90377cbb4a1b62a59dcf93.html" title="samples" alt="" coords="16,16,1493,227"/>
+</map>

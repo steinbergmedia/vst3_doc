@@ -31,6 +31,7 @@ var searchData=
   ['iinterappaudiopresetmanager',['IInterAppAudioPresetManager',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html',1,'Steinberg::Vst']]],
   ['ikeyswitchcontroller',['IKeyswitchController',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IKeyswitchController.html',1,'Steinberg::Vst']]],
   ['imagecontroller',['ImageController',['../classSteinberg_1_1Vst_1_1mda_1_1ImageController.html',1,'Steinberg::Vst::mda']]],
+  ['imagedesc',['ImageDesc',['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html',1,'VST3::Hosting::Module::Snapshot']]],
   ['imageprocessor',['ImageProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html',1,'Steinberg::Vst::mda']]],
   ['imessage',['IMessage',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMessage.html',1,'Steinberg::Vst']]],
   ['imidimapping',['IMidiMapping',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html',1,'Steinberg::Vst']]],

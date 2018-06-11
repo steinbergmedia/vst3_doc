@@ -4,13 +4,15 @@ var NAVTREE =
     [ "VST 3 API Documentation", "index.html", null ],
     [ "VST 3 Locations / Format", "vst3loc.html", [
       [ "Plug-in Format", "vst3loc.html#plugFormat", [
-        [ "For Mac platform", "vst3loc.html#macformat", null ],
-        [ "For Windows platform", "vst3loc.html#winformat", null ],
-        [ "For Linux platform", "vst3loc.html#linuxformat", null ]
+        [ "For the macOS platform", "vst3loc.html#macformat", null ],
+        [ "For the Windows platform", "vst3loc.html#winformat", null ],
+        [ "For the Linux platform", "vst3loc.html#linuxformat", null ],
+        [ "Snapshots", "vst3loc.html#snapshots", null ],
+        [ "Merged Bundle", "vst3loc.html#mergedbundles", null ]
       ] ],
       [ "Plug-in Locations", "vst3loc.html#pluginloc", [
-        [ "For Mac platform", "vst3loc.html#maclocation", null ],
-        [ "For Windows platform", "vst3loc.html#winlocation", null ],
+        [ "For the macOS platform", "vst3loc.html#maclocation", null ],
+        [ "For the Windows platform", "vst3loc.html#winlocation", null ],
         [ "For Linux platform", "vst3loc.html#linuxlocation", null ]
       ] ],
       [ "Preset Format", "vst3loc.html#presetformat", null ],
@@ -123,8 +125,8 @@ var NAVTREEINDEX =
 "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ae2e3ed4527f88e577a2aeb595bd853fd",
 "representation.html#win7xml",
 "vst3Automation.html#vst3automationPlayback",
-"vstpresetkeys_8h.html#gab9114e6b0673188dc5228aed3d3df2da",
-"vstspeaker_8h.html#gabe9f3f14a428188b0fd0a229f15bf580"
+"vstpresetkeys_8h.html#gab7fc6fc1b343016898c32d9095895973",
+"vstspeaker_8h.html#gabab50191c9f7c6a497f7d148cc3a9741"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

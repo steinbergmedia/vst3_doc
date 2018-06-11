@@ -5,6 +5,7 @@ var searchData=
   ['samplerate',['SampleRate',['../../vstinterfaces/group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407',1,'Steinberg::Vst::SampleRate()'],['../../vstinterfaces/group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407',1,'SampleRate()(Global Namespace)']]],
   ['scalefactor',['ScaleFactor',['../../base/classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport']]],
   ['sizefunc',['SizeFunc',['../classSteinberg_1_1Vst_1_1EditorSizeController.html#ad741ea56f6152c2588b56f489437a33e',1,'Steinberg::Vst::EditorSizeController']]],
+  ['snapshotlist',['SnapshotList',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587',1,'VST3::Hosting::Module']]],
   ['speaker',['Speaker',['../../vstinterfaces/group__vst3typedef.html#ga7a9fc6561fe897989fa3cea09ebb3250',1,'Steinberg::Vst::Speaker()'],['../../vstinterfaces/group__vst3typedef.html#ga7a9fc6561fe897989fa3cea09ebb3250',1,'Speaker()(Global Namespace)']]],
   ['speakerarrangement',['SpeakerArrangement',['../../vstinterfaces/group__vst3typedef.html#ga54884a26d0b6dfa18eb919ea004775ac',1,'Steinberg::Vst::SpeakerArrangement()'],['../../vstinterfaces/group__vst3typedef.html#ga54884a26d0b6dfa18eb919ea004775ac',1,'SpeakerArrangement()(Global Namespace)']]],
   ['speakertype',['SpeakerType',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#ac29b5ae06a98cb03a0f046667a1075e6',1,'Steinberg::Vst::SpeakerArray']]],

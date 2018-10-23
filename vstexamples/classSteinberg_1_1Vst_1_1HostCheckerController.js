@@ -27,6 +27,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "getNoteExpressionInfo", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a487e1f5b80a28b511301f98dca4a5d0b", null ],
     [ "getNoteExpressionStringByValue", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abc366969b6b2e1cef34c221db92e806d", null ],
     [ "getNoteExpressionValueByString", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af4d16dae99ff1010b80359cb70500e31", null ],
+    [ "getPhysicalUIMapping", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a49b13e53849d51156521f6270c7ad6ee", null ],
     [ "editorAttached", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac055deeb5f5ddca6e9e030e06a2fac7c", null ],
     [ "editorRemoved", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a893fe346bfbb357724bb3e4154ff80af", null ],
     [ "editorDestroyed", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a3ca86a9534ad2bb3adb4f5e4d71d68a5", null ],

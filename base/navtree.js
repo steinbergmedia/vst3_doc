@@ -69,8 +69,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "conststringtable_8cpp.html",
-"keycodes_8h.html",
-"ucolorspec_8h.html#acc3eb6a10830817ab0ede3f36a445345"
+"keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22b",
+"ucolorspec_8h.html#ad78eaefa656353e5d08aeba89ad27279"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

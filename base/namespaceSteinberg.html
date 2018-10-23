@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.8</span>
+   &#160;<span id="projectnumber">VST 3.6.11</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -123,6 +123,9 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespaceSteinberg_1_1GeoConstants"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1GeoConstants.html">GeoConstants</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespaceSteinberg_1_1KeyCodes"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1KeyCodes.html">KeyCodes</a></td></tr>
+<tr class="memdesc:namespaceSteinberg_1_1KeyCodes"><td class="mdescLeft">&#160;</td><td class="mdescRight">Utility functions to handle key-codes. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespaceSteinberg_1_1Linux"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Linux.html">Linux</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -204,6 +207,7 @@ Classes</h2></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Host implements dependency handling for plugins.  <a href="classSteinberg_1_1IUpdateHandler.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1KeyCode.html">KeyCode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simple data-struct representing a key-stroke on the keyboard.  <a href="structSteinberg_1_1KeyCode.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1OPtr.html">OPtr</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classSteinberg_1_1OPtr.html" title="OPtr - &quot;owning&quot; smart pointer used for newly created FObjects. ">OPtr</a> - "owning" smart pointer used for newly created FObjects.  <a href="classSteinberg_1_1OPtr.html#details">More...</a><br /></td></tr>
@@ -437,6 +441,7 @@ Enumerations</h2></td></tr>
 <a class="el" href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078">kCommandKey</a> = 1 &lt;&lt; 2, 
 <a class="el" href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c">kControlKey</a> = 1 &lt;&lt; 3
  }</td></tr>
+<tr class="memdesc:a743f60968fa58cdae68b31a1a3eb493d"><td class="mdescLeft">&#160;</td><td class="mdescRight">OS-independent enumeration of virtual modifier-codes.  <a href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493d">More...</a><br /></td></tr>
 <tr class="separator:a743f60968fa58cdae68b31a1a3eb493d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acbbce6877e30abdb4f8fedfbcc3622cd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cd">StandardColor</a> { <br />
 &#160;&#160;<a class="el" href="namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cda84bb4627f551fc5ff2d9aedb8f3b4947">kBlack</a> = 0, 
@@ -675,21 +680,18 @@ Variables</h2></td></tr>
 <tr class="separator:a1c13255fbcd5845d44bd45cc27bd3586"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a45a730ec762ad31ab0e5c80e15560afc"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a45a730ec762ad31ab0e5c80e15560afc">kPlatformString</a> = <a class="el" href="namespaceSteinberg.html#a1c13255fbcd5845d44bd45cc27bd3586">kPlatformStringLinux</a></td></tr>
 <tr class="separator:a45a730ec762ad31ab0e5c80e15560afc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa1e68ac1f25da9c85c937d0360dbc601"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__platformUIType.html#gaa1e68ac1f25da9c85c937d0360dbc601">kPlatformTypeHWND</a> = &quot;HWND&quot;</td></tr>
-<tr class="memdesc:gaa1e68ac1f25da9c85c937d0360dbc601"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a HWND handle.  <a href="group__platformUIType.html#gaa1e68ac1f25da9c85c937d0360dbc601">More...</a><br /></td></tr>
-<tr class="separator:gaa1e68ac1f25da9c85c937d0360dbc601"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga974cabea219cb31ad8218ba15d1f7071"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__platformUIType.html#ga974cabea219cb31ad8218ba15d1f7071">kPlatformTypeHIView</a> = &quot;HIView&quot;</td></tr>
-<tr class="memdesc:ga974cabea219cb31ad8218ba15d1f7071"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a WindowRef.  <a href="group__platformUIType.html#ga974cabea219cb31ad8218ba15d1f7071">More...</a><br /></td></tr>
-<tr class="separator:ga974cabea219cb31ad8218ba15d1f7071"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga8ce69944b5475d65206469b9ebcbf755"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__platformUIType.html#ga8ce69944b5475d65206469b9ebcbf755">kPlatformTypeNSView</a> = &quot;NSView&quot;</td></tr>
-<tr class="memdesc:ga8ce69944b5475d65206469b9ebcbf755"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a NSView pointer.  <a href="group__platformUIType.html#ga8ce69944b5475d65206469b9ebcbf755">More...</a><br /></td></tr>
-<tr class="separator:ga8ce69944b5475d65206469b9ebcbf755"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga6362a7ca65b87d30c561dac986b757bd"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__platformUIType.html#ga6362a7ca65b87d30c561dac986b757bd">kPlatformTypeUIView</a> = &quot;UIView&quot;</td></tr>
-<tr class="memdesc:ga6362a7ca65b87d30c561dac986b757bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a UIView pointer.  <a href="group__platformUIType.html#ga6362a7ca65b87d30c561dac986b757bd">More...</a><br /></td></tr>
-<tr class="separator:ga6362a7ca65b87d30c561dac986b757bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gac945decc5f26f3fdb5419e8de833a0e1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__platformUIType.html#gac945decc5f26f3fdb5419e8de833a0e1">kPlatformTypeX11EmbedWindowID</a> = &quot;X11EmbedWindowID&quot;</td></tr>
-<tr class="memdesc:gac945decc5f26f3fdb5419e8de833a0e1"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a X11 Window supporting XEmbed.  <a href="group__platformUIType.html#gac945decc5f26f3fdb5419e8de833a0e1">More...</a><br /></td></tr>
-<tr class="separator:gac945decc5f26f3fdb5419e8de833a0e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a974cabea219cb31ad8218ba15d1f7071"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a974cabea219cb31ad8218ba15d1f7071">kPlatformTypeHIView</a> = &quot;HIView&quot;</td></tr>
+<tr class="memdesc:a974cabea219cb31ad8218ba15d1f7071"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a WindowRef.  <a href="#a974cabea219cb31ad8218ba15d1f7071">More...</a><br /></td></tr>
+<tr class="separator:a974cabea219cb31ad8218ba15d1f7071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ce69944b5475d65206469b9ebcbf755"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a8ce69944b5475d65206469b9ebcbf755">kPlatformTypeNSView</a> = &quot;NSView&quot;</td></tr>
+<tr class="memdesc:a8ce69944b5475d65206469b9ebcbf755"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a NSView pointer.  <a href="#a8ce69944b5475d65206469b9ebcbf755">More...</a><br /></td></tr>
+<tr class="separator:a8ce69944b5475d65206469b9ebcbf755"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6362a7ca65b87d30c561dac986b757bd"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a6362a7ca65b87d30c561dac986b757bd">kPlatformTypeUIView</a> = &quot;UIView&quot;</td></tr>
+<tr class="memdesc:a6362a7ca65b87d30c561dac986b757bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a UIView pointer.  <a href="#a6362a7ca65b87d30c561dac986b757bd">More...</a><br /></td></tr>
+<tr class="separator:a6362a7ca65b87d30c561dac986b757bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac945decc5f26f3fdb5419e8de833a0e1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#ac945decc5f26f3fdb5419e8de833a0e1">kPlatformTypeX11EmbedWindowID</a> = &quot;X11EmbedWindowID&quot;</td></tr>
+<tr class="memdesc:ac945decc5f26f3fdb5419e8de833a0e1"><td class="mdescLeft">&#160;</td><td class="mdescRight">The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a X11 Window supporting XEmbed.  <a href="#ac945decc5f26f3fdb5419e8de833a0e1">More...</a><br /></td></tr>
+<tr class="separator:ac945decc5f26f3fdb5419e8de833a0e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a class="anchor" id="ae47c588f3ab8c61121c1c7ab7edc47cd"></a>
@@ -1321,6 +1323,8 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>OS-independent enumeration of virtual modifier-codes. </p>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="a743f60968fa58cdae68b31a1a3eb493da7dee5096e7803ac26cee7abe740d777d"></a>kShiftKey&#160;</td><td class="fielddoc">
 <p>same on both PC and Mac </p>
@@ -3687,6 +3691,66 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a974cabea219cb31ad8218ba15d1f7071"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> kPlatformTypeHIView = &quot;HIView&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a WindowRef. </p>
+<p>You should attach a HIViewRef to the content view of the window. HIViewRef. (Mac OS X) </p>
+
+</div>
+</div>
+<a class="anchor" id="a8ce69944b5475d65206469b9ebcbf755"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> kPlatformTypeNSView = &quot;NSView&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a NSView pointer. </p>
+<p>You should attach a NSView to it. NSView pointer. (Mac OS X) </p>
+
+</div>
+</div>
+<a class="anchor" id="a6362a7ca65b87d30c561dac986b757bd"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> kPlatformTypeUIView = &quot;UIView&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a UIView pointer. </p>
+<p>You should attach an UIView to it. UIView pointer. (iOS) </p>
+
+</div>
+</div>
+<a class="anchor" id="ac945decc5f26f3fdb5419e8de833a0e1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> kPlatformTypeX11EmbedWindowID = &quot;X11EmbedWindowID&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The parent parameter in <a class="el" href="classSteinberg_1_1IPlugView.html#a9fbc345c1e87f7e6210a8a49fdb96793" title="The parent window of the view has been created, the (platform) representation of the view should now ...">IPlugView::attached()</a> is a X11 Window supporting XEmbed. </p>
+<p>You should attach a Window to it that supports the XEmbed extension. X11 Window ID. (X11) </p>
 
 </div>
 </div>

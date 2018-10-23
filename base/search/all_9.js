@@ -45,6 +45,7 @@ var searchData=
   ['isapproximateequal',['IsApproximateEqual',['../namespaceSteinberg.html#af300911d7995de5985af548ee4eadcf4',1,'Steinberg']]],
   ['isempty',['isEmpty',['../classSteinberg_1_1FVariant.html#a479432127ee77145cc19d6a2d1590821',1,'Steinberg::FVariant']]],
   ['isizeablestream',['ISizeableStream',['../classSteinberg_1_1ISizeableStream.html',1,'Steinberg']]],
+  ['ismodifieronlykey',['isModifierOnlyKey',['../namespaceSteinberg_1_1KeyCodes.html#ad183c365a06b5560e86a61439e756a19',1,'Steinberg::KeyCodes']]],
   ['isowner',['isOwner',['../classSteinberg_1_1FVariant.html#a6c975d7981c86e14801166e34183eec7',1,'Steinberg::FVariant']]],
   ['isplatformtypesupported',['isPlatformTypeSupported',['../classSteinberg_1_1IPlugView.html#abcfa60e135807caa316f3915622d9488',1,'Steinberg::IPlugView']]],
   ['isstring',['isString',['../classSteinberg_1_1FVariant.html#a3ea0b05483601e9acd735f48ccf7ed80',1,'Steinberg::FVariant']]],

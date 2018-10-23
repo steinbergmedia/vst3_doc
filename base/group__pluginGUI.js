@@ -1,6 +1,6 @@
 var group__pluginGUI =
 [
-    [ "Platform UI Types", "group__platformUIType.html", "group__platformUIType" ],
+    [ "Platform UI Types", "group__platformUIType.html", null ],
     [ "ViewRect", "structSteinberg_1_1ViewRect.html", [
       [ "ViewRect", "structSteinberg_1_1ViewRect.html#afcdde0147792d1103d06537c37e59ef0", null ],
       [ "getWidth", "structSteinberg_1_1ViewRect.html#a945705dce8930a0dc58dcb044729b1c0", null ],

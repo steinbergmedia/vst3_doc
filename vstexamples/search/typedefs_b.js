@@ -11,5 +11,6 @@ var searchData=
   ['speakertype',['SpeakerType',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#ac29b5ae06a98cb03a0f046667a1075e6',1,'Steinberg::Vst::SpeakerArray']]],
   ['string',['String',['../../base/classSteinberg_1_1FUID.html#a0f2fc16d77666544de6fbd65e184ced8',1,'Steinberg::FUID']]],
   ['string128',['String128',['../../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47',1,'Steinberg::Vst::String128()'],['../../vstinterfaces/group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47',1,'String128()(Global Namespace)']]],
+  ['stringvector',['StringVector',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#a63eff4f46fd409e38056e9a7c27e8466',1,'Steinberg::Vst::ProgramList']]],
   ['subcategories',['SubCategories',['../../vstsdk/classVST3_1_1Hosting_1_1ClassInfo.html#aa489b07acb4219dd706f6dd8db7a6e11',1,'VST3::Hosting::ClassInfo']]]
 ];

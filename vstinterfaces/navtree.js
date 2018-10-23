@@ -69,6 +69,7 @@ var NAVTREE =
     [ "Channel Context Info Support", "channelContextInfo.html", null ],
     [ "Prefetchable Support", "prefetchableSupport.html", null ],
     [ "Request Bus Activation", "requestbusactivation.html", null ],
+    [ "NoteExpression Physical UI Mapping Support", "noteExpressionPhysicalUIMapping.html", null ],
     [ "How to use cmake for Building VST 3 Plug-ins", "cmakeUse.html", null ],
     [ "How to add/create your own VST 3 Plug-ins", "addownplugs.html", null ],
     [ "Setup Linux for building VST 3 Plug-ins", "linuxSetup.html", [
@@ -119,14 +120,14 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e",
-"functions_k.html",
-"group__musicalStyle.html#ga853a4803393e2d1684fe32e5adafcffe",
-"group__speakerArrangements.html#ga97ce8834f00cbf7ffb2e4610f9aba296",
-"ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ae2e3ed4527f88e577a2aeb595bd853fd",
-"representation.html#win7xml",
-"vst3Automation.html#vst3automationPlayback",
-"vstpresetkeys_8h.html#gab7fc6fc1b343016898c32d9095895973",
-"vstspeaker_8h.html#gabab50191c9f7c6a497f7d148cc3a9741"
+"functions_eval.html",
+"group__musicalStyle.html#ga772e326e01f9245ba8a8177301a55d4c",
+"group__speakerArrangements.html#ga9ad1279216eaac4c4c2cd665e6d61c82",
+"ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99",
+"prefetchableSupport.html",
+"structSteinberg_1_1Vst_1_1UnitInfo.html#afef3772baf373fc218c8b091d9eeb6bb",
+"vstpresetkeys_8h.html#gab5f48d90dba2837a9b0552446258746c",
+"vstspeaker_8h.html#gab514f5233daf9f0d39022eaf6bc3ee39"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

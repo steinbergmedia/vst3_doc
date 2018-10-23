@@ -148,7 +148,8 @@ var group__vstClasses =
       [ "info", "classSteinberg_1_1Vst_1_1Unit.html#ada34a9c3bca142b51fbefe76a6002a23", null ]
     ] ],
     [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html", [
-      [ "ProgramInfoVector", "classSteinberg_1_1Vst_1_1ProgramList.html#ae4f9fe19acbb40d1895fad4395ce8836", null ],
+      [ "StringVector", "classSteinberg_1_1Vst_1_1ProgramList.html#a63eff4f46fd409e38056e9a7c27e8466", null ],
+      [ "ProgramInfoVector", "classSteinberg_1_1Vst_1_1ProgramList.html#a43790e03c786a44ac4501bf277e660e6", null ],
       [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html#a064d4941eb4a37a951ba11db619139a1", null ],
       [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html#af096804513689f8f3e210b22c69df785", null ],
       [ "getInfo", "classSteinberg_1_1Vst_1_1ProgramList.html#a0f55ca555669766ed9fdda63093dd162", null ],
@@ -163,7 +164,6 @@ var group__vstClasses =
       [ "addProgram", "classSteinberg_1_1Vst_1_1ProgramList.html#abdd3a0c7d2b61659ffbb4b2867f5f4be", null ],
       [ "setProgramInfo", "classSteinberg_1_1Vst_1_1ProgramList.html#a690f43fc8ce29a0a0e14b59e9877588c", null ],
       [ "getParameter", "classSteinberg_1_1Vst_1_1ProgramList.html#a1d7e6db44f9cda4d229ae18b9ca157f1", null ],
-      [ "StringVector", "classSteinberg_1_1Vst_1_1ProgramList.html#a78eb9f7fc56acb9f1ccccf9e1f609be3", null ],
       [ "info", "classSteinberg_1_1Vst_1_1ProgramList.html#a03672ebc5c493f1caa8f647dd62e7019", null ],
       [ "unitId", "classSteinberg_1_1Vst_1_1ProgramList.html#a4d2e0574df0f6d36f26fae1ad759a14f", null ],
       [ "programNames", "classSteinberg_1_1Vst_1_1ProgramList.html#a374d0d28218114229c2469dec596b9ff", null ],
@@ -171,17 +171,18 @@ var group__vstClasses =
       [ "parameter", "classSteinberg_1_1Vst_1_1ProgramList.html#a358b386509845867bf922db4a27535c6", null ]
     ] ],
     [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html", [
+      [ "PitchNamesVector", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a8af35b796490c0fc57e0152bfa30ceb6", null ],
       [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ac35cdc8c766d4de4e9677d278c01382a", null ],
       [ "setPitchName", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a104e9768ddee171300a82f6568993cdd", null ],
       [ "removePitchName", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a43fd572150a2444e22d340013631c6d8", null ],
       [ "addProgram", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a180996481eda89b66ef6b8729750f711", null ],
       [ "hasPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a64c521f40929f86cadce19cab89cf272", null ],
       [ "getPitchName", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a4c792517c5cedaa5014646c1f2aefa76", null ],
-      [ "PitchNamesVector", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a6c6657ddef973ffcc117f62f1b8cd4b7", null ],
       [ "pitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ad76fb6b4e4f56aa2571ddf2f96a5ff4b", null ]
     ] ],
     [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html", [
-      [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a40fa76ce86ab170e891f2157d74ecbf1", null ],
+      [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf", null ],
+      [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc", null ],
       [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a811774900d44bda403000f2b423bcbe5", null ],
       [ "~EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#acc3cd6743b5b660c4724a1497899d595", null ],
       [ "addUnit", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a8fbc2c8dab1b94795bcaf35473fabdfc", null ],
@@ -203,7 +204,6 @@ var group__vstClasses =
       [ "setUnitProgramData", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#aa44429aec2955d5c9e94a9b7b3d7cb43", null ],
       [ "notifyUnitSelection", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a0ec9c7e1b0b5039f98e5342d846d1e77", null ],
       [ "update", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#ad059d874e82bf94764760319e0d625fc", null ],
-      [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#ac82cfa7e2edb1b09c5e56cf9bf5a233b", null ],
       [ "units", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a6d1eb8c7229080be20f950a9dbb693c3", null ],
       [ "programLists", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a215db3e492d1cc53b75f16239f2afc23", null ],
       [ "programIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#adff4e706a786b881134df97ce6755050", null ],
@@ -228,8 +228,7 @@ var group__vstClasses =
       [ "onKeyDown", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5a7e733f61da105e40e0aa3fb7c6d69e", null ],
       [ "onKeyUp", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a2d31595a47da84d3705e26dffeae7330", null ],
       [ "onWheel", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#ad6981de6e844c55c1f98ab591d58e396", null ],
-      [ "setFrame", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aeb9fb024ee5698f6332af52755497262", null ],
-      [ "timer", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a", null ]
+      [ "setFrame", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aeb9fb024ee5698f6332af52755497262", null ]
     ] ],
     [ "NoteExpressionType", "classSteinberg_1_1Vst_1_1NoteExpressionType.html", [
       [ "NoteExpressionType", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#ad5533f7ddbc7cc00e817397709c08617", null ],
@@ -241,8 +240,11 @@ var group__vstClasses =
       [ "getValueByString", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a8a56c1da16268a00189b69e670190222", null ],
       [ "getPrecision", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a2b186fa231408e88f93f58e8144b5d61", null ],
       [ "setPrecision", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#abf80191a6dcaba94638e0bc7efd029c5", null ],
+      [ "getPhysicalUIType", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a2f98266f39d184941603d260bb7ea49d", null ],
+      [ "setPhysicalUITypeID", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a8d529444c76a7df6ef7323538a65bc60", null ],
       [ "associatedParameter", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a399a58c623c23e7abc78f9c6a443d16f", null ],
-      [ "precision", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#ae19c2c90f8dec6b6c96ff91b584c2b11", null ]
+      [ "precision", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#ae19c2c90f8dec6b6c96ff91b584c2b11", null ],
+      [ "physicalUITypeID", "classSteinberg_1_1Vst_1_1NoteExpressionType.html#a687e62464d033194e6fadb9171470c16", null ]
     ] ],
     [ "RangeNoteExpressionType", "classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html", [
       [ "RangeNoteExpressionType", "classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#a71ad654389a50ee640478ebb0308ccec", null ],
@@ -264,6 +266,7 @@ var group__vstClasses =
       [ "getNoteExpressionInfo", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ae706465d9b2048175c378291fdfeb518", null ],
       [ "getNoteExpressionStringByValue", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a45a86b6c379a97091c3abe9dc128a431", null ],
       [ "getNoteExpressionValueByString", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a9d8f0b17d2dfc86e6eb8c2282c3f54e2", null ],
+      [ "getMappedNoteExpression", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ae6d96845d749ee274d85820210b2de82", null ],
       [ "find", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ac93bea44934ede96c71738cd52fa29ba", null ],
       [ "noteExps", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a8aa4091983fc7ad18dda56edea18d9e9", null ]
     ] ],
@@ -271,19 +274,19 @@ var group__vstClasses =
       [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a722d0b273a6e3633c189fb21eaaa483c", null ],
       [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a388e837bf6198abab80b877ca32b5e26", null ],
       [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a75669d5409d1f3c14d0786633330046e", null ],
-      [ "~Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a615c436bf6b0250e3518ba91a5d88f66", null ],
-      [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a05f4560a930405134f5e39c35d7271da", null ],
-      [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a78058279b0eac5f204ea0176a7d63654", null ],
-      [ "setUnitID", "classSteinberg_1_1Vst_1_1Parameter.html#a90c03647b6bb419080013f74e8a8daea", null ],
-      [ "getUnitID", "classSteinberg_1_1Vst_1_1Parameter.html#a60b5722767ffe56fcba10b82aff1e05b", null ],
+      [ "~Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a7861fe34a626dcd417dc1ebe50be25b6", null ],
+      [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a71d6e49dfb5ed250f9df6593c811ee54", null ],
+      [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a2bc73892288f11d7c221582273a1bd05", null ],
+      [ "setUnitID", "classSteinberg_1_1Vst_1_1Parameter.html#adbfcb4b21973f6480502111f899ff8da", null ],
+      [ "getUnitID", "classSteinberg_1_1Vst_1_1Parameter.html#a21aef1eeb23ef6e414cba252690795a5", null ],
       [ "getNormalized", "classSteinberg_1_1Vst_1_1Parameter.html#a900f4c886d0ec3012445a0eda9bf89fb", null ],
       [ "setNormalized", "classSteinberg_1_1Vst_1_1Parameter.html#a31d234fd0b37a33579e134c6bc769e9d", null ],
       [ "toString", "classSteinberg_1_1Vst_1_1Parameter.html#abf2d66439b66c3c696d3c65ce53ca324", null ],
       [ "fromString", "classSteinberg_1_1Vst_1_1Parameter.html#aa0ff61e185c085fe7d7a34aed67fca38", null ],
       [ "toPlain", "classSteinberg_1_1Vst_1_1Parameter.html#a4490b3abfe579ec2e70de79870c7dfd6", null ],
       [ "toNormalized", "classSteinberg_1_1Vst_1_1Parameter.html#a8a0c6d8c8afd49db1e9a6c0746002d35", null ],
-      [ "getPrecision", "classSteinberg_1_1Vst_1_1Parameter.html#a2b186fa231408e88f93f58e8144b5d61", null ],
-      [ "setPrecision", "classSteinberg_1_1Vst_1_1Parameter.html#abf80191a6dcaba94638e0bc7efd029c5", null ],
+      [ "getPrecision", "classSteinberg_1_1Vst_1_1Parameter.html#a3b53ec71314befdb8764d3061bbd55d6", null ],
+      [ "setPrecision", "classSteinberg_1_1Vst_1_1Parameter.html#af3783cde85022795e4e6cfc78e627262", null ],
       [ "valueNormalized", "classSteinberg_1_1Vst_1_1Parameter.html#a0ccc625642bc5f50bad1ecf1de846017", null ],
       [ "precision", "classSteinberg_1_1Vst_1_1Parameter.html#ae19c2c90f8dec6b6c96ff91b584c2b11", null ]
     ] ],
@@ -304,7 +307,7 @@ var group__vstClasses =
     [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html", [
       [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#ad830e59d14da834c55835fcfcfc3bd34", null ],
       [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#afe9e2d41b95886ea385ad5d482ffee58", null ],
-      [ "~StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#ab4ba98e0ccec0024584c624af372708f", null ],
+      [ "~StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html#aa4056bdab127f0ae3fd36fef00fe86c1", null ],
       [ "appendString", "classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7", null ],
       [ "replaceString", "classSteinberg_1_1Vst_1_1StringListParameter.html#ad17abefa165bfcf74201afba909a3d51", null ],
       [ "toString", "classSteinberg_1_1Vst_1_1StringListParameter.html#ab8cb2d05d8f8af76a610e783faecb324", null ],
@@ -314,8 +317,8 @@ var group__vstClasses =
       [ "strings", "classSteinberg_1_1Vst_1_1StringListParameter.html#a5a9dee2a0836631d70d59cde796132a0", null ]
     ] ],
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html", [
-      [ "ParameterPtrVector", "classSteinberg_1_1Vst_1_1ParameterContainer.html#ac88725d170faea460497b55f39efeca8", null ],
-      [ "IndexMap", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a43455f6aabca5d446752c12d47653516", null ],
+      [ "ParameterPtrVector", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a6c53528dbca2a65e9fd7e368c4e17b27", null ],
+      [ "IndexMap", "classSteinberg_1_1Vst_1_1ParameterContainer.html#acc6c61f4d3ab4f9f73bcb86f5dde86ab", null ],
       [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a754120b3ba17224055c6de192ec053a2", null ],
       [ "~ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585", null ],
       [ "init", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a45c61e90b4a6fc07b6597c9acc55b483", null ],

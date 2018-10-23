@@ -10,6 +10,7 @@ var searchData=
   ['funknownprivate',['FUnknownPrivate',['../../base/namespaceSteinberg_1_1FUnknownPrivate.html',1,'Steinberg']]],
   ['geoconstants',['GeoConstants',['../../base/namespaceSteinberg_1_1GeoConstants.html',1,'Steinberg']]],
   ['interappaudio',['InterAppAudio',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1InterAppAudio.html',1,'Steinberg::Vst']]],
+  ['keycodes',['KeyCodes',['../../base/namespaceSteinberg_1_1KeyCodes.html',1,'Steinberg']]],
   ['layertype',['LayerType',['../namespaceSteinberg_1_1Vst_1_1LayerType.html',1,'Steinberg::Vst']]],
   ['linux',['Linux',['../../base/namespaceSteinberg_1_1Linux.html',1,'Steinberg']]],
   ['musicalcharacter',['MusicalCharacter',['../namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html',1,'Steinberg::Vst']]],

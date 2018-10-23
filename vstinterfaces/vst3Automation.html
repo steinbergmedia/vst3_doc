@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.8</span>
+   &#160;<span id="projectnumber">VST 3.6.11</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -228,7 +228,7 @@ In each processing block the section of the curve for each parameter is transmit
 <li>If the curve has a constant slope other than 0 over the period of several blocks, only the value for the last sample of the block is transmitted. In this case the last valid point is at block position -1. The processor can calculate the value for each sample in the block by using a linear interpolation: <div class="fragment"><div class="line"><span class="keywordtype">double</span> x1 = -1; <span class="comment">// position of last point related to current buffer</span></div>
 <div class="line"><span class="keywordtype">double</span> y1 = currentParameterValue; <span class="comment">// last transmitted value</span></div>
 <div class="line"></div>
-<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/193843424/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
+<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
 <div class="line"><a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> pointValue = 0;</div>
 <div class="line">IParamValueQueue::getPoint (0, pointTime, pointValue);</div>
 <div class="line"></div>

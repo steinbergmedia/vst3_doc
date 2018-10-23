@@ -23,6 +23,7 @@ var searchData=
   ['ivstmidicontrollers_2eh',['ivstmidicontrollers.h',['../../vstinterfaces/ivstmidicontrollers_8h.html',1,'']]],
   ['ivstnoteexpression_2eh',['ivstnoteexpression.h',['../../vstinterfaces/ivstnoteexpression_8h.html',1,'']]],
   ['ivstparameterchanges_2eh',['ivstparameterchanges.h',['../../vstinterfaces/ivstparameterchanges_8h.html',1,'']]],
+  ['ivstphysicalui_2eh',['ivstphysicalui.h',['../../vstinterfaces/ivstphysicalui_8h.html',1,'']]],
   ['ivstplugview_2eh',['ivstplugview.h',['../../vstinterfaces/ivstplugview_8h.html',1,'']]],
   ['ivstprefetchablesupport_2eh',['ivstprefetchablesupport.h',['../../vstinterfaces/ivstprefetchablesupport_8h.html',1,'']]],
   ['ivstprocesscontext_2eh',['ivstprocesscontext.h',['../../vstinterfaces/ivstprocesscontext_8h.html',1,'']]],

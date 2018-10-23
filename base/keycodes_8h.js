@@ -84,5 +84,6 @@ var keycodes_8h =
       [ "kControlKey", "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c", null ]
     ] ],
     [ "VirtualKeyCodeToChar", "keycodes_8h.html#aac1c8cc4f206d2342fdd10c5c3d2fc6f", null ],
-    [ "CharToVirtualKeyCode", "keycodes_8h.html#af3106a92c99884d4eb8bef6f0f35e4b8", null ]
+    [ "CharToVirtualKeyCode", "keycodes_8h.html#af3106a92c99884d4eb8bef6f0f35e4b8", null ],
+    [ "isModifierOnlyKey", "keycodes_8h.html#ad183c365a06b5560e86a61439e756a19", null ]
 ];

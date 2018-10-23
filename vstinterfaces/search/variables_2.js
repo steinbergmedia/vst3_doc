@@ -23,7 +23,7 @@ var searchData=
   ['continoustimesamples',['continousTimeSamples',['../structSteinberg_1_1Vst_1_1ProcessContext.html#aa442da3063c73885d2f386deb479d870',1,'Steinberg::Vst::ProcessContext']]],
   ['controller',['controller',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a67dc2ffc34f15b2bf3623d385706f966',1,'Steinberg::Vst::EditorView::controller()'],['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#adec9a6f39ce77aa4383fef325929fb92',1,'Steinberg::Vst::PlugProvider::controller()'],['../../vstsdk/classSteinberg_1_1Vst_1_1VstTestBase.html#a41fc7431ae821e2bc34f1a767d20fcd3',1,'Steinberg::Vst::VstAutomationTest::controller()']]],
   ['controllercp',['controllerCP',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html#a283a915b4c73ccad57dc6c0aca2fc224',1,'Steinberg::Vst::PlugProvider']]],
-  ['count',['count',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a1c206276093ebc1cdaa9be54a901ce1b',1,'Steinberg::Vst::SpeakerArray']]],
+  ['count',['count',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a1c206276093ebc1cdaa9be54a901ce1b',1,'Steinberg::Vst::SpeakerArray::count()'],['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#ae19373f8138c83a1f557f935099b3063',1,'Steinberg::Vst::PhysicalUIMapList::count()']]],
   ['countparamchanges',['countParamChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a220fb15c259c7cf09d0423d33b818dd1',1,'Steinberg::Vst::VstAutomationTest']]],
   ['cursor',['cursor',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a8f5a6610de08dfeeed96670cff0abb50',1,'Steinberg::MemoryStream']]],
   ['cycleendmusic',['cycleEndMusic',['../structSteinberg_1_1Vst_1_1ProcessContext.html#afc2ff5534156a67b58ead0eb0370b45a',1,'Steinberg::Vst::ProcessContext']]],

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.8</span>
+   &#160;<span id="projectnumber">VST 3.6.11</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -119,11 +119,15 @@ $(document).ready(function(){initNavTree('keycodes_8h.html','');});
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1KeyCode.html">KeyCode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simple data-struct representing a key-stroke on the keyboard.  <a href="structSteinberg_1_1KeyCode.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
 <tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html">Steinberg</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespaceSteinberg_1_1KeyCodes"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1KeyCodes.html">Steinberg::KeyCodes</a></td></tr>
+<tr class="memdesc:namespaceSteinberg_1_1KeyCodes"><td class="mdescLeft">&#160;</td><td class="mdescRight">Utility functions to handle key-codes. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -230,6 +234,7 @@ Enumerations</h2></td></tr>
 <a class="el" href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078">kCommandKey</a> = 1 &lt;&lt; 2, 
 <a class="el" href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c">kControlKey</a> = 1 &lt;&lt; 3
  }</td></tr>
+<tr class="memdesc:a743f60968fa58cdae68b31a1a3eb493d"><td class="mdescLeft">&#160;</td><td class="mdescRight">OS-independent enumeration of virtual modifier-codes.  <a href="namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493d">More...</a><br /></td></tr>
 <tr class="separator:a743f60968fa58cdae68b31a1a3eb493d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
@@ -238,6 +243,10 @@ Functions</h2></td></tr>
 <tr class="separator:aac1c8cc4f206d2342fdd10c5c3d2fc6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3106a92c99884d4eb8bef6f0f35e4b8"><td class="memItemLeft" align="right" valign="top">uint8&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#af3106a92c99884d4eb8bef6f0f35e4b8">CharToVirtualKeyCode</a> (char character)</td></tr>
 <tr class="separator:af3106a92c99884d4eb8bef6f0f35e4b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad183c365a06b5560e86a61439e756a19"><td class="memTemplParams" colspan="2">template&lt;typename Key &gt; </td></tr>
+<tr class="memitem:ad183c365a06b5560e86a61439e756a19"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1KeyCodes.html#ad183c365a06b5560e86a61439e756a19">isModifierOnlyKey</a> (const Key &amp;key)</td></tr>
+<tr class="memdesc:ad183c365a06b5560e86a61439e756a19"><td class="mdescLeft">&#160;</td><td class="mdescRight">Is only a modifier pressed on the keyboard?  <a href="#ad183c365a06b5560e86a61439e756a19">More...</a><br /></td></tr>
+<tr class="separator:ad183c365a06b5560e86a61439e756a19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->

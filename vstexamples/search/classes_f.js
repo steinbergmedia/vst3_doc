@@ -15,6 +15,8 @@ var searchData=
   ['pclassinfo2',['PClassInfo2',['../../base/structSteinberg_1_1PClassInfo2.html',1,'Steinberg']]],
   ['pclassinfow',['PClassInfoW',['../../base/structSteinberg_1_1PClassInfoW.html',1,'Steinberg']]],
   ['pfactoryinfo',['PFactoryInfo',['../../base/structSteinberg_1_1PFactoryInfo.html',1,'Steinberg']]],
+  ['physicaluimap',['PhysicalUIMap',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMap.html',1,'Steinberg::Vst']]],
+  ['physicaluimaplist',['PhysicalUIMapList',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html',1,'Steinberg::Vst']]],
   ['pianocontroller',['PianoController',['../classSteinberg_1_1Vst_1_1mda_1_1PianoController.html',1,'Steinberg::Vst::mda']]],
   ['pianoprocessor',['PianoProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html',1,'Steinberg::Vst::mda']]],
   ['pitchnamescontroller',['PitchNamesController',['../classSteinberg_1_1Vst_1_1PitchNamesController.html',1,'Steinberg::Vst']]],

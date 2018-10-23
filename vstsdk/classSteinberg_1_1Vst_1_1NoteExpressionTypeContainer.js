@@ -9,6 +9,7 @@ var classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer =
     [ "getNoteExpressionInfo", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ae706465d9b2048175c378291fdfeb518", null ],
     [ "getNoteExpressionStringByValue", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a45a86b6c379a97091c3abe9dc128a431", null ],
     [ "getNoteExpressionValueByString", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a9d8f0b17d2dfc86e6eb8c2282c3f54e2", null ],
+    [ "getMappedNoteExpression", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ae6d96845d749ee274d85820210b2de82", null ],
     [ "find", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ac93bea44934ede96c71738cd52fa29ba", null ],
     [ "noteExps", "classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a8aa4091983fc7ad18dda56edea18d9e9", null ]
 ];

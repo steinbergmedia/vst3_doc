@@ -1,5 +1,12 @@
 var NAVTREEINDEX5 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a931e9878dd9dca52cf2a0cb56a59a583":[1,0,0,0,2,28,31],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a9bfa57661d80e1ab66c5ce95cc7cad9d":[1,0,0,0,2,28,20],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#aa1728750481b853c3246037c1ba1c68b":[1,0,0,0,2,28,29],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#aac84e897226e9f44e01a2cf52653763d":[1,0,0,0,2,28,38],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ab857b673b2fcf24d6aeb56e88dde60f9":[1,0,0,0,2,28,30],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ac1e6fe1a9c58033c643b713d6f34d1fd":[1,0,0,0,2,28,11],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ac86d7ac6ef2ae32897a8ca85e5052f69":[1,0,0,0,2,28,17],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#acbcf1360c00f6662701dd7b7891f0d44":[1,0,0,0,2,28,6],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#acd9191c0e5c0105430a03731ac9f9701":[1,0,0,0,2,28,41],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,28,9],
@@ -242,12 +249,5 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a7e0e9b3d718ae96e40d4f47a10e64b1a":[1,0,0,0,2,41,0],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8865ee0be281cd63ec3c2e21a9d4e006":[1,0,0,0,2,41,22],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8cb865e4b76909b24401f9f68be53839":[1,0,0,0,2,41,19],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8df580977c491f3635991f9d795f7b5f":[1,0,0,0,2,41,15],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a908a4dce49e93ede6f1b2f02e35cfb38":[1,0,0,0,2,41,7],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a9be6fb08a3ae972aa870b3e5e3411c8d":[1,0,0,0,2,41,29],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a9dd034fe8d4f5d790ad7ed3f99639321":[1,0,0,0,2,41,8],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa805acc76e087669585fb54c41833703":[1,0,0,0,2,41,28],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa99973d5a2968e9ec4c3148fe68e513f":[1,0,0,0,2,41,21],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab756503ec7eb8340aae55ee1455b31ae":[1,0,0,0,2,41,27],
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab7bd2a156007e3d5ff5b020386edae9c":[1,0,0,0,2,41,13]
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8df580977c491f3635991f9d795f7b5f":[1,0,0,0,2,41,15]
 };

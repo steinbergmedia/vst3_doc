@@ -2,8 +2,8 @@ var searchData=
 [
   ['validator',['Validator',['../classSteinberg_1_1Vst_1_1Validator.html',1,'Steinberg::Vst']]],
   ['viewrect',['ViewRect',['../../base/structSteinberg_1_1ViewRect.html',1,'Steinberg']]],
-  ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html',1,'Steinberg::Vst::mda::DX10Processor']]],
+  ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['voice',['Voice',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html',1,'Steinberg::Vst::NoteExpressionSynth']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html',1,'Steinberg::Vst::mda::PianoProcessor']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html',1,'Steinberg::Vst::mda::EPianoProcessor']]],

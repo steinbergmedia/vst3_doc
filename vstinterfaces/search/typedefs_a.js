@@ -9,7 +9,7 @@ var searchData=
   ['uint64',['uint64',['../../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad',1,'Steinberg']]],
   ['uint8',['uint8',['../../base/namespaceSteinberg.html#adde6aaee8457bee49c2a92621fe22b79',1,'Steinberg']]],
   ['unitid',['UnitID',['../group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed',1,'Steinberg::Vst']]],
-  ['unitvector',['UnitVector',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a40fa76ce86ab170e891f2157d74ecbf1',1,'Steinberg::Vst::EditControllerEx1']]],
+  ['unitvector',['UnitVector',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc',1,'Steinberg::Vst::EditControllerEx1']]],
   ['ustring128',['UString128',['../../base/namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5',1,'Steinberg']]],
   ['ustring256',['UString256',['../../base/namespaceSteinberg.html#a71098a25fa252b10d271a11807153385',1,'Steinberg']]]
 ];

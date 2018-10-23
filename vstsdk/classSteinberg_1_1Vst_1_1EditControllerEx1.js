@@ -1,6 +1,7 @@
 var classSteinberg_1_1Vst_1_1EditControllerEx1 =
 [
-    [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a40fa76ce86ab170e891f2157d74ecbf1", null ],
+    [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf", null ],
+    [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc", null ],
     [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a811774900d44bda403000f2b423bcbe5", null ],
     [ "~EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#acc3cd6743b5b660c4724a1497899d595", null ],
     [ "addUnit", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a8fbc2c8dab1b94795bcaf35473fabdfc", null ],
@@ -22,7 +23,6 @@ var classSteinberg_1_1Vst_1_1EditControllerEx1 =
     [ "setUnitProgramData", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#aa44429aec2955d5c9e94a9b7b3d7cb43", null ],
     [ "notifyUnitSelection", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a0ec9c7e1b0b5039f98e5342d846d1e77", null ],
     [ "update", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#ad059d874e82bf94764760319e0d625fc", null ],
-    [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#ac82cfa7e2edb1b09c5e56cf9bf5a233b", null ],
     [ "units", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a6d1eb8c7229080be20f950a9dbb693c3", null ],
     [ "programLists", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a215db3e492d1cc53b75f16239f2afc23", null ],
     [ "programIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#adff4e706a786b881134df97ce6755050", null ],

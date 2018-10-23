@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['tag',['tag',['../../vstinterfaces/structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenu::Item']]],
+  ['tag',['tag',['../../vstinterfaces/structSteinberg_1_1Vst_1_1IContextMenuItem.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenuItem']]],
   ['target',['target',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#af0df2177301e4061ab72ade2ea437bcd',1,'Steinberg::Vst::mda::JX10Processor::VOICE']]],
   ['tatt',['tatt',['../classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a8b80bac1f364dac85639fd845f9f6075',1,'Steinberg::Vst::mda::RezFilterProcessor']]],
   ['tcount',['tcount',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a09467367454312afdf090ec7d63cb8b3',1,'Steinberg::Vst::mda::DegradeProcessor']]],
@@ -16,7 +16,6 @@ var searchData=
   ['thresh',['thresh',['../classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#aac8fef4e3b3d833f16d5cef8ddce1ae1',1,'Steinberg::Vst::mda::LimiterProcessor']]],
   ['thru',['thru',['../classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a46fc11aca1e39fba7c5033c40690c4a7',1,'Steinberg::Vst::mda::TestToneProcessor']]],
   ['tim',['tim',['../classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a46336872a13f7624153028a309558b97',1,'Steinberg::Vst::mda::RePsychoProcessor']]],
-  ['timer',['timer',['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a',1,'Steinberg::Vst::VSTGUIEditor']]],
   ['timesigdenominator',['timeSigDenominator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a7087d1fca166b09add2184085299de21',1,'Steinberg::Vst::ProcessContext']]],
   ['timesignumerator',['timeSigNumerator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a',1,'Steinberg::Vst::ProcessContext']]],
   ['title',['title',['../../vstinterfaces/structSteinberg_1_1Vst_1_1KeyswitchInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::KeyswitchInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::NoteExpressionTypeInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::ParameterInfo::title()']]],

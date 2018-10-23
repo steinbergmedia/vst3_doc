@@ -5,6 +5,7 @@ var vstspeaker_8h =
     [ "getSpeaker", "vstspeaker_8h.html#ga365c311dce7ea3c41e6674d0c31893d9", null ],
     [ "isSubsetOf", "vstspeaker_8h.html#gaf586d67f2382fd76829515ec1a845f0d", null ],
     [ "isAuro", "vstspeaker_8h.html#gaa3a2c80faffa004172a77e983fd1d4ba", null ],
+    [ "isAmbisonics", "vstspeaker_8h.html#ga1eb079a06c32ed8dfe5640d1ea129beb", null ],
     [ "getSpeakerArrangementFromString", "vstspeaker_8h.html#gae59865c6f6e439696b408a8e3a35fb67", null ],
     [ "getSpeakerArrangementString", "vstspeaker_8h.html#ga8f3040f601ddc82b7ff76bd0ac66b32b", null ],
     [ "getSpeakerShortName", "vstspeaker_8h.html#gaea8fb2e63d819b83b1811645b5f5c0a0", null ],

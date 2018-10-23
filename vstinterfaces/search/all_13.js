@@ -1,7 +1,7 @@
 var searchData=
 [
   ['test_20applications',['Test Applications',['../../vstsdk/applications.html',1,'']]],
-  ['tag',['tag',['../structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenu::Item']]],
+  ['tag',['tag',['../structSteinberg_1_1Vst_1_1IContextMenuItem.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenuItem']]],
   ['take',['take',['../../base/classSteinberg_1_1IString.html#a278b6bc34d672210e69dbde261f52cab',1,'Steinberg::IString']]],
   ['tbool',['TBool',['../../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895',1,'Steinberg']]],
   ['tchar',['TChar',['../group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d',1,'Steinberg::Vst']]],
@@ -14,7 +14,6 @@ var searchData=
   ['textlen',['textLen',['../structSteinberg_1_1Vst_1_1ChordEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ChordEvent::textLen()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ScaleEvent::textLen()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#abb89858832dfc88064874fe14e4ed2ff',1,'Steinberg::Vst::NoteExpressionTextEvent::textLen()']]],
   ['thisbuffer',['thisBuffer',['../../base/classSteinberg_1_1UString.html#a3c27fc65ab0075137e6846a73f0d5563',1,'Steinberg::UString']]],
   ['thissize',['thisSize',['../../base/classSteinberg_1_1UString.html#a59ceecccb2f1154af32e79123fa041f4',1,'Steinberg::UString']]],
-  ['timer',['timer',['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a',1,'Steinberg::Vst::VSTGUIEditor']]],
   ['timerinterval',['TimerInterval',['../../base/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux']]],
   ['timesigdenominator',['timeSigDenominator',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a7087d1fca166b09add2184085299de21',1,'Steinberg::Vst::ProcessContext']]],
   ['timesignumerator',['timeSigNumerator',['../structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a',1,'Steinberg::Vst::ProcessContext']]],
@@ -52,5 +51,6 @@ var searchData=
   ['tuid',['TUID',['../../vstsdk/structVST3_1_1UID.html#aa87b025f78fcc7af3b438559a4de73c1',1,'VST3::UID::TUID()'],['../../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c',1,'Steinberg::TUID()']]],
   ['tuning',['tuning',['../structSteinberg_1_1Vst_1_1NoteOnEvent.html#a0fb775127789ce2215c83775414e6f37',1,'Steinberg::Vst::NoteOnEvent::tuning()'],['../structSteinberg_1_1Vst_1_1NoteOffEvent.html#a0fb775127789ce2215c83775414e6f37',1,'Steinberg::Vst::NoteOffEvent::tuning()']]],
   ['type',['type',['../../base/classSteinberg_1_1FVariant.html#af9b2e23a8f32ca09cfeb7d828436fb01',1,'Steinberg::FVariant::type()'],['../../vstsdk/classSteinberg_1_1Vst_1_1BusList.html#a9efc310404a7d775d72cc8974e5e3b58',1,'Steinberg::Vst::BusList::type()'],['../structSteinberg_1_1Vst_1_1DataEvent.html#af356674bbaaf9bb782af79059eef1346',1,'Steinberg::Vst::DataEvent::type()'],['../structSteinberg_1_1Vst_1_1Event.html#af9b2e23a8f32ca09cfeb7d828436fb01',1,'Steinberg::Vst::Event::type()']]],
-  ['typeid',['typeId',['../structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionValueEvent::typeId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionTextEvent::typeId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionTypeInfo::typeId()'],['../structSteinberg_1_1Vst_1_1KeyswitchInfo.html#adc03aa09c3341a6a08543d04e31897ef',1,'Steinberg::Vst::KeyswitchInfo::typeId()']]]
+  ['typeid',['typeId',['../structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionValueEvent::typeId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionTextEvent::typeId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a8cecee2171d29eb98141c9364baa346e',1,'Steinberg::Vst::NoteExpressionTypeInfo::typeId()'],['../structSteinberg_1_1Vst_1_1KeyswitchInfo.html#adc03aa09c3341a6a08543d04e31897ef',1,'Steinberg::Vst::KeyswitchInfo::typeId()']]],
+  ['typesizecheck_2eh',['typesizecheck.h',['../../base/typesizecheck_8h.html',1,'']]]
 ];

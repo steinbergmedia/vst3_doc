@@ -32,7 +32,7 @@ var group__plugType =
     [ "kNoOfflineProcess", "group__plugType.html#ga1e894c4b97ff99e52706cf3a67c35627", null ],
     [ "kUpDownMix", "group__plugType.html#ga9b7a9613e51e1f218461d3167dd50306", null ],
     [ "kAnalyzer", "group__plugType.html#gadbe2a7d21efd81fbae4bb86fa428e900", null ],
-    [ "kAmbisonic", "group__plugType.html#ga4abfdcef8f46cd006b6a4b78c936235e", null ],
+    [ "kAmbisonics", "group__plugType.html#ga1ad4df7997d26c16d515a1202b4bdc1b", null ],
     [ "kMono", "group__plugType.html#gad515322344056aab9256d76a6787eb42", null ],
     [ "kStereo", "group__plugType.html#gae8acdf9398f33322690596dc2d00318f", null ],
     [ "kSurround", "group__plugType.html#ga6e4cc6e531ad93aa1d60021b82dcdbe9", null ]

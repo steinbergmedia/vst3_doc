@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.8</span>
+   &#160;<span id="projectnumber">VST 3.6.11</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -119,11 +119,17 @@ How does it work?</h1>
 <li>Library (main wrapper library)</li>
 </ul>
 </li>
-<li>How-To use the VST3-&gt;AUv3 Wrapper:<ul>
+<li>How-To use the VST3-&gt;AUv3 Wrapper with the sample code:<ul>
+<li>make sure you have correct code signing set up</li>
+<li>build &amp; run targets</li>
+</ul>
+</li>
+<li>How-To use the VST3-&gt;AUv3 Wrapper with your own VST Plugin:<ul>
 <li>remove the AGain Source files from this project and include/link all your necessary <a class="el" href="namespaceVST3.html">VST3</a> Plugin source files (add to AUv3WrappermacOSLib and AUv3WrapperiOSLib target) and resource files (add to AUv3WrappermacOS, AUv3WrappermacOSExtension, AUv3WrapperiOS, AUv3WrapperiOSExtension targets)</li>
 <li>edit the <a class="el" href="audiounitconfig_8h.html">audiounitconfig.h</a> file (see comment "AUWRAPPER_CHANGE" there)</li>
 <li>rename the targets and bundle identifiers according to your needs</li>
-<li>make sure you have correct code signing set up </li>
+<li>make sure you have correct code signing set up</li>
+<li>build &amp; run targets </li>
 </ul>
 </li>
 </ul>

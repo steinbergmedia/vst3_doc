@@ -2,6 +2,7 @@ var searchData=
 [
   ['funknownprivate',['FUnknownPrivate',['../namespaceSteinberg_1_1FUnknownPrivate.html',1,'Steinberg']]],
   ['geoconstants',['GeoConstants',['../namespaceSteinberg_1_1GeoConstants.html',1,'Steinberg']]],
+  ['keycodes',['KeyCodes',['../namespaceSteinberg_1_1KeyCodes.html',1,'Steinberg']]],
   ['linux',['Linux',['../namespaceSteinberg_1_1Linux.html',1,'Steinberg']]],
   ['saveattributes',['saveAttributes',['../classSteinberg_1_1IPersistent.html#a67e0bc28988160ead2fae757e4f33900',1,'Steinberg::IPersistent']]],
   ['scalefactor',['ScaleFactor',['../classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport']]],
@@ -38,6 +39,7 @@ var searchData=
   ['smtg_5fnever_5finline',['SMTG_NEVER_INLINE',['../ftypes_8h.html#af946828d11bb0aed103fac1d14b4b1b8',1,'ftypes.h']]],
   ['smtg_5fnoexcept',['SMTG_NOEXCEPT',['../fplatform_8h.html#a5932d425a53de42eaf3ccb6ab2695e71',1,'fplatform.h']]],
   ['smtg_5foverride',['SMTG_OVERRIDE',['../fplatform_8h.html#a3c5f727b2149b22fddea9edf2add04a8',1,'fplatform.h']]],
+  ['smtg_5ftype_5fsize_5fcheck',['SMTG_TYPE_SIZE_CHECK',['../typesizecheck_8h.html#adbb7668735803a4b3cde75dbba49a548',1,'typesizecheck.h']]],
   ['standardcolor',['StandardColor',['../namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cd',1,'Steinberg']]],
   ['steinberg',['Steinberg',['../namespaceSteinberg.html',1,'']]],
   ['str',['STR',['../fstrdefs_8h.html#a18d295a837ac71add5578860b55e5502',1,'fstrdefs.h']]],

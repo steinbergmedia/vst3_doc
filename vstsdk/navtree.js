@@ -95,7 +95,8 @@ var NAVTREE =
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
-      [ "Version 3.6.10 (2018/06/04)", "vst3History.html#rev3610", null ],
+      [ "Version 3.6.11 (2018/10/22)", "vst3History.html#rev3611", null ],
+      [ "Version 3.6.10 (2018/06/11)", "vst3History.html#rev3610", null ],
       [ "Version 3.6.9 (2018/03/01)", "vst3History.html#rev369", null ],
       [ "Version 3.6.8 (2017/11/08)", "vst3History.html#rev368", null ],
       [ "Version 3.6.7 (2017/03/03)", "vst3History.html#rev367", null ],
@@ -182,10 +183,10 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1ComponentBase.html#a60bbab8211ead54d50dbb672be410342",
-"classSteinberg_1_1Vst_1_1ParameterChanges.html",
-"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a9b6d44e6eb5f2b1b8ae9399dc56a6ad7",
-"classVST3_1_1Hosting_1_1FactoryInfo.html#a92b852ccebf419816579c8f6877dbcd1",
-"stringconvert_8cpp.html#abff8a368026b5ff872b48945fcf3113f"
+"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a958d810af44271155222fb51b9a1bca6",
+"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5b4c5a35f6d87fdccb5ace7ec93b5327",
+"classVST3_1_1Hosting_1_1FactoryInfo.html#a885580ca363af362434de5af9ecfcb24",
+"stringconvert_8cpp.html#a7b24e433664bafa3dd3f9357ec3f6c4d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

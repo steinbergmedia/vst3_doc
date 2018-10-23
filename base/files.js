@@ -38,6 +38,7 @@ var files =
     [ "keycodes.h", "keycodes_8h.html", "keycodes_8h" ],
     [ "pluginbasefwd.h", "pluginbasefwd_8h.html", null ],
     [ "smartpointer.h", "smartpointer_8h.html", "smartpointer_8h" ],
+    [ "typesizecheck.h", "typesizecheck_8h.html", "typesizecheck_8h" ],
     [ "ucolorspec.h", "ucolorspec_8h.html", "ucolorspec_8h" ],
     [ "ustring.cpp", "ustring_8cpp.html", "ustring_8cpp" ],
     [ "ustring.h", "ustring_8h.html", "ustring_8h" ]

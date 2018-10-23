@@ -1,5 +1,12 @@
 var NAVTREEINDEX3 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a877aa2de60e2da5066d443340cf650bd":[1,0,0,0,2,6,0],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a8b45c1a26471f6a61f303ae52130c1dd":[1,0,0,0,2,6,2],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a8dddd66e4cbe80f46ecb9f1bb9011190":[1,0,0,0,2,6,6],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a9228db732b48ece8b5b734e69b979d10":[1,0,0,0,2,6,21],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a9bfa0e9668e297f609b86ad41d53e915":[1,0,0,0,2,6,8],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#aa0717eb65af14a8ec9de39bbc5ba5037":[1,0,0,0,2,6,9],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#abbbfd6eeab035dc13744e90a7df6c4c2":[1,0,0,0,2,6,12],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ac0404a15bbbe4fbeb43a28ac3e653d2c":[1,0,0,0,2,6,3],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ace4a6726e700f163290eadcd213f392d":[1,0,0,0,2,6,4],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#acef92f4ee38add0cdbd9e207888fbbaf":[1,0,0,0,2,6,25],
@@ -242,12 +249,5 @@ var NAVTREEINDEX3 =
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a2b14e4cce2142c4ff74ceb653cee8c13":[1,0,0,0,2,14,12],
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,14,6],
 "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,14,5],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a464c879cfefa7930dc2d32db28b796e3":[1,0,0,0,2,14,1],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,14,2],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a5013f0bf35c33ad3274f73f6536c5b74":[1,0,0,0,2,14,15],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a553c6e115917b80711dba186bcb67189":[1,0,0,0,2,14,10],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a581debe7d16bce9d187b97855f4e99d4":[1,0,0,0,2,14,13],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a6793ffaccb42d314c342734eafbf98ed":[1,0,0,0,2,14,24],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a8f6919474ec9fadece0e364c0ba7bad0":[1,0,0,0,2,14,22],
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a9e7a38a682940eb8f83c0369b8cf78b8":[1,0,0,0,2,14,21]
+"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a464c879cfefa7930dc2d32db28b796e3":[1,0,0,0,2,14,1]
 };

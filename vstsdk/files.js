@@ -104,6 +104,8 @@ var files =
     [ "vstcomponentbase.h", "vstcomponentbase_8h.html", null ],
     [ "vsteditcontroller.cpp", "vsteditcontroller_8cpp.html", null ],
     [ "vsteditcontroller.h", "vsteditcontroller_8h.html", null ],
+    [ "vstgui_win32_bundle_support.cpp", "vstgui__win32__bundle__support_8cpp.html", "vstgui__win32__bundle__support_8cpp" ],
+    [ "vstgui_win32_bundle_support.h", "vstgui__win32__bundle__support_8h.html", "vstgui__win32__bundle__support_8h" ],
     [ "vstguieditor.cpp", "vstguieditor_8cpp.html", "vstguieditor_8cpp" ],
     [ "vstguieditor.h", "vstguieditor_8h.html", "vstguieditor_8h" ],
     [ "vstinitiids.cpp", "vstinitiids_8cpp.html", null ],
@@ -124,6 +126,7 @@ var files =
     [ "vstspeakerarray.h", "vstspeakerarray_8h.html", [
       [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", "classSteinberg_1_1Vst_1_1SpeakerArray" ]
     ] ],
+    [ "vststructsizecheck.h", "vststructsizecheck_8h.html", "vststructsizecheck_8h" ],
     [ "vsttestsuite.cpp", "vsttestsuite_8cpp.html", "vsttestsuite_8cpp" ],
     [ "vsttestsuite.h", "vsttestsuite_8h.html", "vsttestsuite_8h" ]
 ];

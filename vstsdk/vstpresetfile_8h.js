@@ -4,7 +4,7 @@ var vstpresetfile_8h =
     [ "FileStream", "classSteinberg_1_1Vst_1_1FileStream.html", "classSteinberg_1_1Vst_1_1FileStream" ],
     [ "ReadOnlyBStream", "classSteinberg_1_1Vst_1_1ReadOnlyBStream.html", "classSteinberg_1_1Vst_1_1ReadOnlyBStream" ],
     [ "BufferStream", "classSteinberg_1_1Vst_1_1BufferStream.html", "classSteinberg_1_1Vst_1_1BufferStream" ],
-    [ "ChunkID", "vstpresetfile_8h.html#a9b7e7d0091e6ca559d6ff8ddb3d5ed7a", null ],
+    [ "ChunkID", "vstpresetfile_8h.html#adaf388baf0aebf53f3a12e1055fbd7ec", null ],
     [ "ChunkType", "vstpresetfile_8h.html#a6742d03aa1e93ba39b234d0ea402ee6d", [
       [ "kHeader", "vstpresetfile_8h.html#a6742d03aa1e93ba39b234d0ea402ee6da247a9a25a5fcf2b9a22b25874fdbb32b", null ],
       [ "kComponentState", "vstpresetfile_8h.html#a6742d03aa1e93ba39b234d0ea402ee6da847efe92e412b647b41977961910049d", null ],

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['mactive',['mActive',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
+  ['map',['map',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
   ['mastertuning',['masterTuning',['../structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html#af8296533e137c4a4fc17a3f9c440ff1c',1,'Steinberg::Vst::NoteExpressionSynth::GlobalParameterState']]],
   ['mastervolume',['masterVolume',['../structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html#a66d4dcfb9ee0cd26ce8d6cdf035d3669',1,'Steinberg::Vst::NoteExpressionSynth::GlobalParameterState']]],

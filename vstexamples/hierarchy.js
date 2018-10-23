@@ -6,6 +6,10 @@ var hierarchy =
       [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", null ],
       [ "PitchNamesDataBrowserSource", "classVSTGUI_1_1PitchNamesDataBrowserSource.html", null ]
     ] ],
+    [ "DataBrowserDelegateAdapter", null, [
+      [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", null ],
+      [ "PitchNamesDataBrowserSource", "classVSTGUI_1_1PitchNamesDataBrowserSource.html", null ]
+    ] ],
     [ "EventListCheck", "classEventListCheck.html", null ],
     [ "EventLogger", "classEventLogger.html", null ],
     [ "Filter", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html", null ],
@@ -164,6 +168,10 @@ var hierarchy =
         [ "Controller", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html", null ],
         [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", null ]
       ] ],
+      [ "INoteExpressionPhysicalUIMapping", "../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html", [
+        [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],
+        [ "Controller", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html", null ]
+      ] ],
       [ "IPrefetchableSupport", "../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html", [
         [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html", null ],
         [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", null ]
@@ -190,10 +198,6 @@ var hierarchy =
       [ "AGainUIMessageController< T >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ],
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ]
     ] ],
-    [ "IDataBrowserDelegate", null, [
-      [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", null ],
-      [ "PitchNamesDataBrowserSource", "classVSTGUI_1_1PitchNamesDataBrowserSource.html", null ]
-    ] ],
     [ "ITest", null, [
       [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", null ]
     ] ],
@@ -202,9 +206,6 @@ var hierarchy =
     ] ],
     [ "ITestResult", null, [
       [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ]
-    ] ],
-    [ "IViewListenerAdapter", null, [
-      [ "AGainUIMessageController< T >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ]
     ] ],
     [ "EPianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
     [ "PianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
@@ -224,8 +225,11 @@ var hierarchy =
     [ "UIViewController", null, [
       [ "VSTInterAppAudioHostUIControllerViewController", "interfaceVSTInterAppAudioHostUIControllerViewController.html", null ]
     ] ],
-    [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
+    [ "ViewListenerAdapter", null, [
+      [ "AGainUIMessageController< T >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ]
+    ] ],
     [ "DX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
+    [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
     [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
     [ "VoiceBase< numValues, SamplePrecision, numChannels, GlobalParameterStorage >", "classSteinberg_1_1Vst_1_1VoiceBase.html", null ],

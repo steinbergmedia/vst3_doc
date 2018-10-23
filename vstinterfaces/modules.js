@@ -2,6 +2,7 @@ var modules =
 [
     [ "VST 3 Interfaces to be implemented by the Plug-in", "group__vstIPlug.html", "group__vstIPlug" ],
     [ "VST 3 Interfaces to be implemented by the Host", "group__vstIHost.html", "group__vstIHost" ],
+    [ "VST 3 Interfaces defined in version 3.6.11", "group__vst3611.html", "group__vst3611" ],
     [ "VST 3 Interfaces defined in version 3.6.8", "group__vst368.html", "group__vst368" ],
     [ "VST 3 Interfaces defined in version 3.6.6", "group__vst366.html", "group__vst366" ],
     [ "VST 3 Interfaces defined in version 3.6.5", "group__vst365.html", "group__vst365" ],

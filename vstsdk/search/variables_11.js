@@ -1,12 +1,11 @@
 var searchData=
 [
-  ['tag',['tag',['../../vstinterfaces/structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenu::Item']]],
+  ['tag',['tag',['../../vstinterfaces/structSteinberg_1_1Vst_1_1IContextMenuItem.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenuItem']]],
   ['tempo',['tempo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#aff2f6d52166217d13f9b2072c9e67c13',1,'Steinberg::Vst::ProcessContext']]],
   ['text',['text',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::ChordEvent::text()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::NoteExpressionTextEvent::text()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::ScaleEvent::text()']]],
   ['textlen',['textLen',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ChordEvent::textLen()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#abb89858832dfc88064874fe14e4ed2ff',1,'Steinberg::Vst::NoteExpressionTextEvent::textLen()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ScaleEvent::textLen()']]],
   ['thisbuffer',['thisBuffer',['../../base/classSteinberg_1_1UString.html#a3c27fc65ab0075137e6846a73f0d5563',1,'Steinberg::UString']]],
   ['thissize',['thisSize',['../../base/classSteinberg_1_1UString.html#a59ceecccb2f1154af32e79123fa041f4',1,'Steinberg::UString']]],
-  ['timer',['timer',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a',1,'Steinberg::Vst::VSTGUIEditor']]],
   ['timesigdenominator',['timeSigDenominator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a7087d1fca166b09add2184085299de21',1,'Steinberg::Vst::ProcessContext']]],
   ['timesignumerator',['timeSigNumerator',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a',1,'Steinberg::Vst::ProcessContext']]],
   ['title',['title',['../../vstinterfaces/structSteinberg_1_1Vst_1_1KeyswitchInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::KeyswitchInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::NoteExpressionTypeInfo::title()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#a2a11c98c9656a37e74885b25aa4e1bb7',1,'Steinberg::Vst::ParameterInfo::title()']]],

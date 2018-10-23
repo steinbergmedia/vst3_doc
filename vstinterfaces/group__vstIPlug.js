@@ -87,6 +87,9 @@ var group__vstIPlug =
       [ "getKeyswitchCount", "classSteinberg_1_1Vst_1_1IKeyswitchController.html#aa98a707edb1b58d05da0c50e38983a4e", null ],
       [ "getKeyswitchInfo", "classSteinberg_1_1Vst_1_1IKeyswitchController.html#a8193190849039a70d08b084241d29e38", null ]
     ] ],
+    [ "INoteExpressionPhysicalUIMapping", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html", [
+      [ "getPhysicalUIMapping", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html#a8cf4ab098e30cf53962a1e3079b0f5e5", null ]
+    ] ],
     [ "IPrefetchableSupport", "classSteinberg_1_1Vst_1_1IPrefetchableSupport.html", [
       [ "getPrefetchableSupport", "classSteinberg_1_1Vst_1_1IPrefetchableSupport.html#a127acb45e09dda596a2cdb7cf31b5a32", null ]
     ] ],

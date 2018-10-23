@@ -17,7 +17,8 @@ var ivstnoteexpression_8h =
       [ "kBrightnessTypeID", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fa3eb020a0ad7005b2be7b70e373cc4431", null ],
       [ "kTextTypeID", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fa77f4a0bbec04c57e50441d58dddc753e", null ],
       [ "kPhonemeTypeID", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fa4ebd202862aff5265a6c1bcd901bd5b8", null ],
-      [ "kCustomStart", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fa1c30475ef992f89f37c2fe0aafcc6283", null ]
+      [ "kCustomStart", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fa1c30475ef992f89f37c2fe0aafcc6283", null ],
+      [ "kInvalidTypeID", "ivstnoteexpression_8h.html#ad0ffd0330ad7b273e149549dc3fc394fae9353615a5098aba2a5dc927d5497132", null ]
     ] ],
     [ "KeyswitchTypeIDs", "ivstnoteexpression_8h.html#ae4ba9459c2e2a5cc9c25e73b5f69b5a2", [
       [ "kNoteOnKeyswitchTypeID", "ivstnoteexpression_8h.html#ae4ba9459c2e2a5cc9c25e73b5f69b5a2a19aaecc29b830ac94b9804b3f6b1aebb", null ],

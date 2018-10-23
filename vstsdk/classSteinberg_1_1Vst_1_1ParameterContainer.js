@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1ParameterContainer =
 [
-    [ "ParameterPtrVector", "classSteinberg_1_1Vst_1_1ParameterContainer.html#ac88725d170faea460497b55f39efeca8", null ],
-    [ "IndexMap", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a43455f6aabca5d446752c12d47653516", null ],
+    [ "ParameterPtrVector", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a6c53528dbca2a65e9fd7e368c4e17b27", null ],
+    [ "IndexMap", "classSteinberg_1_1Vst_1_1ParameterContainer.html#acc6c61f4d3ab4f9f73bcb86f5dde86ab", null ],
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a754120b3ba17224055c6de192ec053a2", null ],
     [ "~ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585", null ],
     [ "init", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a45c61e90b4a6fc07b6597c9acc55b483", null ],

@@ -25,18 +25,7 @@ var group__vstIHost =
       [ "executeMenuItem", "classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f", null ]
     ] ],
     [ "IContextMenu", "classSteinberg_1_1Vst_1_1IContextMenu.html", [
-      [ "Item", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html", [
-        [ "Flags", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295f", [
-          [ "kIsSeparator", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295faeeede7e231c10707303ad1084bb20519", null ],
-          [ "kIsDisabled", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295fa2206f46f57bc94b30fe890f42c64c303", null ],
-          [ "kIsChecked", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295fa877e05e66286af1b983c061e6d46dda0", null ],
-          [ "kIsGroupStart", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295fa9d61fc687d4b6b50d56db8afe6011d57", null ],
-          [ "kIsGroupEnd", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#aa705cf7e79a21c2352b00ffe20cd295fade2b2aeffaec861931cf871d56e22bcf", null ]
-        ] ],
-        [ "name", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a1b0ba9a9710fe4cbad60cb03e38a02d1", null ],
-        [ "tag", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a7cba719b5e6843c30b66241e6181688b", null ],
-        [ "flags", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html#a8ffba1d4311e48ae488bc118f20d7edb", null ]
-      ] ],
+      [ "Item", "classSteinberg_1_1Vst_1_1IContextMenu.html#aaabd9d08e6c2ff48c35ca2d1f664e124", null ],
       [ "getItemCount", "classSteinberg_1_1Vst_1_1IContextMenu.html#ac0c7c1da210637ba2bb458b21580272f", null ],
       [ "getItem", "classSteinberg_1_1Vst_1_1IContextMenu.html#a241e6e88af766e7075c675215a62c82d", null ],
       [ "addItem", "classSteinberg_1_1Vst_1_1IContextMenu.html#ac172d5fa00b2028a352c704dd906f236", null ],

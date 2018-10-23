@@ -3,6 +3,7 @@ var searchData=
   ['macros_20for_20defining_20the_20class_20factory',['Macros for defining the class factory',['../../vstsdk/group__classFactoryMacros.html',1,'']]],
   ['mactive',['mActive',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
   ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#a09d4d9d1e784a8c828716951dd2dbaed',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#a921b4c66c57a500044bf0d277304d6dd',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
+  ['map',['map',['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
   ['masks',['Masks',['../structSteinberg_1_1Vst_1_1Chord.html#a15c053e1a487c607ed4f57d29a07e117',1,'Steinberg::Vst::Chord']]],
   ['max',['Max',['../../base/namespaceSteinberg.html#a0f480f7384f085c2606eff5f310ad194',1,'Steinberg']]],

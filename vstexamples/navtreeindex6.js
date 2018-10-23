@@ -1,5 +1,12 @@
 var NAVTREEINDEX6 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a908a4dce49e93ede6f1b2f02e35cfb38":[1,0,0,0,2,41,7],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a9be6fb08a3ae972aa870b3e5e3411c8d":[1,0,0,0,2,41,29],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a9dd034fe8d4f5d790ad7ed3f99639321":[1,0,0,0,2,41,8],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa805acc76e087669585fb54c41833703":[1,0,0,0,2,41,28],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#aa99973d5a2968e9ec4c3148fe68e513f":[1,0,0,0,2,41,21],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab756503ec7eb8340aae55ee1455b31ae":[1,0,0,0,2,41,27],
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ab7bd2a156007e3d5ff5b020386edae9c":[1,0,0,0,2,41,13],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ac2e3cea99685b96d4498a75309a8e8c3":[1,0,0,0,2,41,25],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#acb595380964a99547e8677a3ce18e282":[1,0,0,0,2,41,10],
 "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,41,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,58,7],
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3070d8c67fde5aa7e1ed30783734d4da":[1,0,0,0,2,58,23],
 "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a307e2014ad3e047dbef35ca478756daa":[1,0,0,0,2,58,30],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3164c6eded46552e0d1678ea79409072":[1,0,0,0,2,58,14],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,58,5],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a372a24837c926db3b9df19f15017182f":[1,0,0,0,2,58,32],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3d4a9d27772234d72a52a433bfdec2b0":[1,0,0,0,2,58,10],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,58,2],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5460de0e13faf8df4ebc17a4483ee14c":[1,0,0,0,2,58,17],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b":[1,0,0,0,2,58,25],
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a591fd1363c1626fddf38c5187bd33aed":[1,0,0,0,2,58,9]
+"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3164c6eded46552e0d1678ea79409072":[1,0,0,0,2,58,14]
 };

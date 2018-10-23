@@ -11,7 +11,7 @@ var files =
     [ "ivstchannelcontextinfo.h", "ivstchannelcontextinfo_8h.html", "ivstchannelcontextinfo_8h" ],
     [ "ivstcomponent.h", "ivstcomponent_8h.html", "ivstcomponent_8h" ],
     [ "ivstcontextmenu.h", "ivstcontextmenu_8h.html", [
-      [ "Item", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item.html", "structSteinberg_1_1Vst_1_1IContextMenu_1_1Item" ]
+      [ "IContextMenuItem", "structSteinberg_1_1Vst_1_1IContextMenuItem.html", "structSteinberg_1_1Vst_1_1IContextMenuItem" ]
     ] ],
     [ "ivsteditcontroller.h", "ivsteditcontroller_8h.html", "ivsteditcontroller_8h" ],
     [ "ivstevents.h", "ivstevents_8h.html", [
@@ -29,6 +29,7 @@ var files =
     [ "ivstmidicontrollers.h", "ivstmidicontrollers_8h.html", "ivstmidicontrollers_8h" ],
     [ "ivstnoteexpression.h", "ivstnoteexpression_8h.html", "ivstnoteexpression_8h" ],
     [ "ivstparameterchanges.h", "ivstparameterchanges_8h.html", null ],
+    [ "ivstphysicalui.h", "ivstphysicalui_8h.html", "ivstphysicalui_8h" ],
     [ "ivstplugview.h", "ivstplugview_8h.html", null ],
     [ "ivstprefetchablesupport.h", "ivstprefetchablesupport_8h.html", "ivstprefetchablesupport_8h" ],
     [ "ivstprocesscontext.h", "ivstprocesscontext_8h.html", [

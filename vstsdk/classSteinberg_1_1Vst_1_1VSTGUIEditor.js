@@ -18,6 +18,5 @@ var classSteinberg_1_1Vst_1_1VSTGUIEditor =
     [ "onKeyDown", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5a7e733f61da105e40e0aa3fb7c6d69e", null ],
     [ "onKeyUp", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a2d31595a47da84d3705e26dffeae7330", null ],
     [ "onWheel", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#ad6981de6e844c55c1f98ab591d58e396", null ],
-    [ "setFrame", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aeb9fb024ee5698f6332af52755497262", null ],
-    [ "timer", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a6a0d50f7d256fccc000fa4b72a486c7a", null ]
+    [ "setFrame", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aeb9fb024ee5698f6332af52755497262", null ]
 ];

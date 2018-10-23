@@ -72,7 +72,7 @@ var searchData=
   ['copy64',['copy64',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Algo.html#a26d0efd0ec8967f561d09ef4bcae7655',1,'Steinberg::Vst::Algo']]],
   ['copyto',['copyTo',['../../base/classSteinberg_1_1UString.html#a1372f0527ea276e275d9dfda80572fbe',1,'Steinberg::UString']]],
   ['coreiids_2ecpp',['coreiids.cpp',['../../base/coreiids_8cpp.html',1,'']]],
-  ['count',['count',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a1c206276093ebc1cdaa9be54a901ce1b',1,'Steinberg::Vst::SpeakerArray']]],
+  ['count',['count',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a1c206276093ebc1cdaa9be54a901ce1b',1,'Steinberg::Vst::SpeakerArray::count()'],['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#ae19373f8138c83a1f557f935099b3063',1,'Steinberg::Vst::PhysicalUIMapList::count()']]],
   ['countattributes',['countAttributes',['../../base/classSteinberg_1_1IAttributes2.html#afab9fceccb1640882d1a4d112b2c5b96',1,'Steinberg::IAttributes2']]],
   ['countclasses',['countClasses',['../../base/classSteinberg_1_1IPluginFactory.html#a64f4f0e4c87d82b5a44d654f4addb960',1,'Steinberg::IPluginFactory::countClasses()'],['../../vstsdk/classSteinberg_1_1CPluginFactory.html#a3546f0319d7a25802f223c6f6e17edf6',1,'Steinberg::CPluginFactory::countClasses()']]],
   ['countparamchanges',['countParamChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a220fb15c259c7cf09d0423d33b818dd1',1,'Steinberg::Vst::VstAutomationTest']]],

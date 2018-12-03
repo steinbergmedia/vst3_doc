@@ -90,11 +90,12 @@ var NAVTREE =
           [ "Info Window", "applications.html#info", null ],
           [ "Transport", "applications.html#transport", null ]
         ] ],
-        [ "VST 3 Plug-ins Tests Window", "applications.html#vstTestHostTests", null ],
+        [ "<b>VST 3 Plug-ins</b> Tests Window", "applications.html#vstTestHostTests", null ],
         [ "Preset Editor", "applications.html#vstTestHostPresets", null ]
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
+      [ "Version 3.6.12 (2018/12/03)", "vst3History.html#rev3612", null ],
       [ "Version 3.6.11 (2018/10/22)", "vst3History.html#rev3611", null ],
       [ "Version 3.6.10 (2018/06/11)", "vst3History.html#rev3610", null ],
       [ "Version 3.6.9 (2018/03/01)", "vst3History.html#rev369", null ],
@@ -182,11 +183,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classSteinberg_1_1Vst_1_1ComponentBase.html#a60bbab8211ead54d50dbb672be410342",
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a958d810af44271155222fb51b9a1bca6",
-"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5b4c5a35f6d87fdccb5ace7ec93b5327",
-"classVST3_1_1Hosting_1_1FactoryInfo.html#a885580ca363af362434de5af9ecfcb24",
-"stringconvert_8cpp.html#a7b24e433664bafa3dd3f9357ec3f6c4d"
+"classSteinberg_1_1Vst_1_1EditController.html#a375821f541e8b3338d3e2dbfae7433d8",
+"classSteinberg_1_1Vst_1_1ParameterContainer.html",
+"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af3d919de401537b4ce04488bc40caa60",
+"classVST3_1_1Hosting_1_1FactoryInfo.html#aa1211ff3b6c1995ca0408b668ebbd666",
+"stringconvert_8cpp.html#ab16efb35664dd3b3202ebc37571ae369"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -26,6 +26,7 @@ var searchData=
   ['hmix',['hmix',['../classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html#a0b8cfdb941d0485219db6afc073f58e3',1,'Steinberg::Vst::mda::DelayProcessor::hmix()'],['../classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a0b8cfdb941d0485219db6afc073f58e3',1,'Steinberg::Vst::mda::DubDelayProcessor::hmix()']]],
   ['hmom',['hmom',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e',1,'Steinberg::Vst::mda::LeslieProcessor']]],
   ['host',['host',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html#a74766a169cd1c18bc001b99e1984a901',1,'Steinberg::Vst::RepresentationInfo::host()'],['../classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3',1,'VSTGUI::NoteTouchController::host()']]],
+  ['host_5ffeature_5fsupport',['HOST_FEATURE_SUPPORT',['../logevents_8h.html#ad535885ce8f80d2d5eddc5423e73393e',1,'logevents.h']]],
   ['hostapp_2eh',['HostApp.h',['../../vstsdk/HostApp_8h.html',1,'']]],
   ['hostapp_2emm',['HostApp.mm',['../../vstsdk/HostApp_8mm.html',1,'']]],
   ['hostapplication',['HostApplication',['../../vstsdk/classSteinberg_1_1Vst_1_1HostApplication.html',1,'Steinberg::Vst']]],

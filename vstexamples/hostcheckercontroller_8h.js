@@ -6,5 +6,6 @@ var hostcheckercontroller_8h =
     [ "kLatencyTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a895c3f08d5334358ee7628f412529369", null ],
     [ "kBypassTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04accae6362415ab072a25d0f720df50d28", null ],
     [ "kCanResizeTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a7f4718263113cc1893694bc352eac2af", null ],
+    [ "kScoreTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a549f60a171e154b6a8a5fc3fd29a9dbf", null ],
     [ "kUnitId", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a390c94ed7f81f33a64dc96dd65c24aad", null ]
 ];

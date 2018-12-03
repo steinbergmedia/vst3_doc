@@ -25,6 +25,7 @@ var searchData=
   ['vstguieditor',['VSTGUIEditor',['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#abe4d797f9faae89502fe8e63c032ddf8',1,'Steinberg::Vst::VSTGUIEditor']]],
   ['vstinvalidstatetransitiontest',['VstInvalidStateTransitionTest',['../../vstsdk/classSteinberg_1_1Vst_1_1VstInvalidStateTransitionTest.html#adba2c9972dcb07e7ebf6c761a698b61f',1,'Steinberg::Vst::VstInvalidStateTransitionTest']]],
   ['vstkeyswitchtest',['VstKeyswitchTest',['../../vstsdk/classSteinberg_1_1Vst_1_1VstKeyswitchTest.html#aaa887d49abddfba3610c79e5197ddab9',1,'Steinberg::Vst::VstKeyswitchTest']]],
+  ['vstmidilearntest',['VstMidiLearnTest',['../../vstsdk/classSteinberg_1_1Vst_1_1VstMidiLearnTest.html#af552d524ae46e2651b30693df9e80046',1,'Steinberg::Vst::VstMidiLearnTest']]],
   ['vstmidimappingtest',['VstMidiMappingTest',['../../vstsdk/classSteinberg_1_1Vst_1_1VstMidiMappingTest.html#aa786872ae239ebf850eaf3bf552a633a',1,'Steinberg::Vst::VstMidiMappingTest']]],
   ['vstmodule',['VstModule',['../classSteinberg_1_1Vst_1_1VstModule.html#a07265715a7ea82a5e5fbf8e1e441e20a',1,'Steinberg::Vst::VstModule']]],
   ['vstnoteexpressiontest',['VstNoteExpressionTest',['../../vstsdk/classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html#ad04e5074c9176e7a9c8f70a407644688',1,'Steinberg::Vst::VstNoteExpressionTest']]],

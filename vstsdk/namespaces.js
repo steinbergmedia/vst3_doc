@@ -3,6 +3,7 @@ var namespaces =
     [ "Steinberg", null, [
       [ "Vst", null, [
         [ "Algo", "namespaceSteinberg_1_1Vst_1_1Algo.html", null ],
+        [ "Helpers", "namespaceSteinberg_1_1Vst_1_1Helpers.html", null ],
         [ "InterAppAudio", "namespaceSteinberg_1_1Vst_1_1InterAppAudio.html", null ]
       ] ]
     ] ],

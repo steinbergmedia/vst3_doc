@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['scaleevent',['ScaleEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html',1,'Steinberg::Vst']]],
-  ['singlecomponenteffect',['SingleComponentEffect',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html',1,'Steinberg::Vst']]],
-  ['snapshot',['Snapshot',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html',1,'VST3::Hosting::Module']]],
-  ['speakerarray',['SpeakerArray',['../classSteinberg_1_1Vst_1_1SpeakerArray.html',1,'Steinberg::Vst']]],
-  ['stringlistparameter',['StringListParameter',['../classSteinberg_1_1Vst_1_1StringListParameter.html',1,'Steinberg::Vst']]]
+  ['rangenoteexpressiontype',['RangeNoteExpressionType',['../classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html',1,'Steinberg::Vst']]],
+  ['rangeparameter',['RangeParameter',['../classSteinberg_1_1Vst_1_1RangeParameter.html',1,'Steinberg::Vst']]],
+  ['readonlybstream',['ReadOnlyBStream',['../classSteinberg_1_1Vst_1_1ReadOnlyBStream.html',1,'Steinberg::Vst']]],
+  ['representationinfo',['RepresentationInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html',1,'Steinberg::Vst']]],
+  ['routinginfo',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]]
 ];

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Base Module
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -152,10 +152,9 @@ The command-line parser uses <a class="el" href="classSteinberg_1_1CommandLine_1
 <div class="line"><span class="keywordtype">int</span> main (<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span>* argv[])</div>
 <div class="line">{</div>
 <div class="line">    <span class="keyword">using namespace </span>std;</div>
-<div class="line">    <span class="keyword">using namespace </span>Steinberg;</div>
 <div class="line"></div>
-<div class="line">    <a class="code" href="classSteinberg_1_1CommandLine_1_1Descriptions.html">CommandLine::Descriptions</a> desc;</div>
-<div class="line">    <a class="code" href="classSteinberg_1_1CommandLine_1_1VariablesMap.html">CommandLine::VariablesMap</a> valueMap;</div>
+<div class="line">    CommandLine::Descriptions desc;</div>
+<div class="line">    CommandLine::VariablesMap valueMap;</div>
 <div class="line"></div>
 <div class="line">    desc.addOptions (<span class="stringliteral">&quot;myTool&quot;</span>)</div>
 <div class="line">        (<span class="stringliteral">&quot;help&quot;</span>, <span class="stringliteral">&quot;produce help message&quot;</span>)</div>

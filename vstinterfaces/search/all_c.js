@@ -24,6 +24,7 @@ var searchData=
   ['memorystream',['MemoryStream',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a28d4c334557e9abb58b418e80c709905',1,'Steinberg::MemoryStream::MemoryStream()'],['../../vstsdk/classSteinberg_1_1MemoryStream.html#a6bcbcbec3385623cdb252d1082ae5766',1,'Steinberg::MemoryStream::MemoryStream(void *memory, TSize memorySize)']]],
   ['memorystream_2eh',['memorystream.h',['../../vstsdk/memorystream_8h.html',1,'']]],
   ['messageid',['messageId',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#a8abe39cab1a7ce414d4f4458eb57de66',1,'Steinberg::Vst::HostMessage']]],
+  ['midiccout',['midiCCOut',['../structSteinberg_1_1Vst_1_1Event.html#a3f45fbed968cf574aa1f9b859f0a0972',1,'Steinberg::Vst::Event']]],
   ['midiio',['MidiIO',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html',1,'Steinberg::Vst::InterAppAudio']]],
   ['midiio_2eh',['MidiIO.h',['../../vstsdk/MidiIO_8h.html',1,'']]],
   ['midiio_2emm',['MidiIO.mm',['../../vstsdk/MidiIO_8mm.html',1,'']]],
@@ -43,5 +44,6 @@ var searchData=
   ['module_5flinux_2ecpp',['module_linux.cpp',['../../vstsdk/module__linux_8cpp.html',1,'']]],
   ['module_5fmac_2emm',['module_mac.mm',['../../vstsdk/module__mac_8mm.html',1,'']]],
   ['module_5fwin32_2ecpp',['module_win32.cpp',['../../vstsdk/module__win32_8cpp.html',1,'']]],
-  ['moutpos',['mOutPos',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]]
+  ['moutpos',['mOutPos',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
+  ['mpluginterfacesupport',['mPlugInterfaceSupport',['../../vstsdk/classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]]
 ];

@@ -77,6 +77,9 @@ var group__vstIPlug =
       [ "disconnect", "classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e", null ],
       [ "notify", "classSteinberg_1_1Vst_1_1IConnectionPoint.html#a870cdbe19a2c9798e1e68fab65e72a77", null ]
     ] ],
+    [ "IMidiLearn", "classSteinberg_1_1Vst_1_1IMidiLearn.html", [
+      [ "onLiveMIDIControllerInput", "classSteinberg_1_1Vst_1_1IMidiLearn.html#a466e384c55a31345e75c59564ac0b593", null ]
+    ] ],
     [ "INoteExpressionController", "classSteinberg_1_1Vst_1_1INoteExpressionController.html", [
       [ "getNoteExpressionCount", "classSteinberg_1_1Vst_1_1INoteExpressionController.html#a197a1b66cc45ba1935d9ce0894b1ee02", null ],
       [ "getNoteExpressionInfo", "classSteinberg_1_1Vst_1_1INoteExpressionController.html#ab12d543cbd83560a9f098ed4a5c76af8", null ],

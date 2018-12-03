@@ -11,6 +11,7 @@ var searchData=
   ['editorhost',['EditorHost',['../namespaceSteinberg_1_1Vst_1_1EditorHost.html',1,'Steinberg::Vst']]],
   ['funknownprivate',['FUnknownPrivate',['../../base/namespaceSteinberg_1_1FUnknownPrivate.html',1,'Steinberg']]],
   ['geoconstants',['GeoConstants',['../../base/namespaceSteinberg_1_1GeoConstants.html',1,'Steinberg']]],
+  ['helpers',['Helpers',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Helpers.html',1,'Steinberg::Vst']]],
   ['interappaudio',['InterAppAudio',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1InterAppAudio.html',1,'Steinberg::Vst']]],
   ['keycodes',['KeyCodes',['../../base/namespaceSteinberg_1_1KeyCodes.html',1,'Steinberg']]],
   ['layertype',['LayerType',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html',1,'Steinberg::Vst']]],

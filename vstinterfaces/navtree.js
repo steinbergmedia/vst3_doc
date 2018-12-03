@@ -120,14 +120,14 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e",
-"functions_eval.html",
-"group__musicalStyle.html#ga772e326e01f9245ba8a8177301a55d4c",
-"group__speakerArrangements.html#ga9ad1279216eaac4c4c2cd665e6d61c82",
-"ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99",
-"prefetchableSupport.html",
-"structSteinberg_1_1Vst_1_1UnitInfo.html#afef3772baf373fc218c8b091d9eeb6bb",
-"vstpresetkeys_8h.html#gab5f48d90dba2837a9b0552446258746c",
-"vstspeaker_8h.html#gab514f5233daf9f0d39022eaf6bc3ee39"
+"classes.html",
+"group__musicalStyle.html#ga56cc1195da3ec7bc16d67a303c489c6a",
+"group__speakerArrangements.html#ga8848385489d48df96843cd8022dbbfe1",
+"ivstcomponent_8h.html#gga576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3",
+"namespaceSteinberg_1_1Vst_1_1PresetAttributes.html",
+"structSteinberg_1_1Vst_1_1ProcessSetup.html#a0f85383979879cac64621f4ffb25cae0",
+"vstpresetkeys_8h.html#ga9e3c1f6becf1b50e07e2d8212fadea0d",
+"vstspeaker_8h.html#ga957c53627e5492b9b62190be390255c1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

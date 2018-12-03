@@ -5,7 +5,7 @@ var classSteinberg_1_1Vst_1_1VSTGUIEditor =
     [ "open", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5b4c5a35f6d87fdccb5ace7ec93b5327", null ],
     [ "close", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549", null ],
     [ "setIdleRate", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af480ce3bd3536701eef1f46d6b4d61eb", null ],
-    [ "notify", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a2155ea3b476970b61363b9eee8c8e427", null ],
+    [ "notify", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a762c9d50d0e1d51c70870a89780e5255", null ],
     [ "forget", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#ad217d6699b5b1207b06329ddc5c77a2a", null ],
     [ "remember", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aff6b7ca7d910582ee2f1f100eb0e2cc4", null ],
     [ "getNbReference", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a7eae0b5bb3ba18d648a0b4eb192bf5af", null ],

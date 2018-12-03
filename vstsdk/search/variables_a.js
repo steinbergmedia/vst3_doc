@@ -24,5 +24,6 @@ var searchData=
   ['mmaxsamples',['mMaxSamples',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#ab2841cac1a12b91be43d0bf07ab9607b',1,'Steinberg::Vst::AudioBuffer']]],
   ['modifier',['modifier',['../../base/structSteinberg_1_1KeyCode.html#abd7634cbb7389a3980e3b6b1b27c95a3',1,'Steinberg::KeyCode']]],
   ['modulehandle',['moduleHandle',['../vstguieditor_8cpp.html#ab302317af2233cef9ab2bd2a2d89b60f',1,'vstguieditor.cpp']]],
-  ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]]
+  ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
+  ['mpluginterfacesupport',['mPlugInterfaceSupport',['../classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]]
 ];

@@ -40,6 +40,7 @@ var hierarchy =
         [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html", null ],
         [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html", null ]
       ] ],
+      [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", null ],
       [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ],
       [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html", [
         [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html", null ]
@@ -111,6 +112,9 @@ var hierarchy =
         [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html", null ],
         [ "ParameterValueQueue", "classSteinberg_1_1Vst_1_1ParameterValueQueue.html", null ]
       ] ],
+      [ "IPlugInterfaceSupport", "../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html", [
+        [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", null ]
+      ] ],
       [ "IPlugProvider", "classSteinberg_1_1Vst_1_1IPlugProvider.html", [
         [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
       ] ],
@@ -127,6 +131,7 @@ var hierarchy =
         [ "VstCheckAudioBusArrangementTest", "classSteinberg_1_1Vst_1_1VstCheckAudioBusArrangementTest.html", null ],
         [ "VstEditorClassesTest", "classSteinberg_1_1Vst_1_1VstEditorClassesTest.html", null ],
         [ "VstKeyswitchTest", "classSteinberg_1_1Vst_1_1VstKeyswitchTest.html", null ],
+        [ "VstMidiLearnTest", "classSteinberg_1_1Vst_1_1VstMidiLearnTest.html", null ],
         [ "VstMidiMappingTest", "classSteinberg_1_1Vst_1_1VstMidiMappingTest.html", null ],
         [ "VstNoteExpressionTest", "classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html", null ],
         [ "VstProgramInfoTest", "classSteinberg_1_1Vst_1_1VstProgramInfoTest.html", null ],

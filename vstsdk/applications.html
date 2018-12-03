@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -104,26 +104,26 @@ $(document).ready(function(){initNavTree('applications.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>Some Host Applications showing how to use VST 3.</p>
-<p>It uses cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a></p>
+<p>It uses cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a></p>
 <h1><a class="anchor" id="validator"></a>
 Validator command line</h1>
 <p>The validator is a small command line host application (source code included) which can be used to check your Plug-in for VST 3 conformity.</p>
 <p>You can also write your own test code and let the validator execute it (see adelay for an example). Very nice for automatic build server integration.</p>
-<p>Check the folder public.sdk/samples/vst/validator of the SDK! <br />
+<p>Check the folder <a href="../../public.sdk/samples/vst-hosting/validator" target="_blank">public.sdk/samples/vst-hosting/validator</a> of the SDK! <br />
 <br />
 </p>
 <h1><a class="anchor" id="audiohost"></a>
 AudioHost - Cross-platform Standalone</h1>
 <p>Simple cross-platform (only tested on Linux) host application allowing to register a <a class="el" href="namespaceVST3.html">VST3</a> Plug-in to Jack Server. You have to download at first the Jack Audio SDK and application server (<a href="http://www.jackaudio.org">http://www.jackaudio.org</a>).</p>
 <p>Windows (not tested): audiohost.exe "C:\PATH_TO_PLUGIN" macOS (not tested) / Linux: audiohost PATH_TO_PLUGIN</p>
-<p>On Windows and macOS you can also drag and drop a VST 3 Plug-in on the executable via Explorer/Finder.</p>
+<p>On Windows and macOS you can also drag and drop a <b>VST 3 Plug-in</b> on the executable via Explorer/Finder.</p>
 <p>Check the folder <a href="../../public.sdk/samples/vst-hosting/audiohost" target="_blank">public.sdk/samples/vst-hosting/audiohost</a> of the SDK! <br />
 <br />
  </p>
 <h1><a class="anchor" id="editorhost"></a>
 EditorHost - Cross-platform Standalone</h1>
 <p>Simple cross-platform (Win/macOS/Linux) host application allowing to open the editor of a <a class="el" href="namespaceVST3.html">VST3</a> Plug-in. (With HiDPI support on Windows/macOS) Call it from the command line: Windows: editorhost.exe "C:\PATH_TO_PLUGIN" macOS/Linux: editorhost PATH_TO_PLUGIN</p>
-<p>On Windows and macOS you can also drag and drop a VST 3 Plug-in on the executable via Explorer/Finder.</p>
+<p>On Windows and macOS you can also drag and drop a <b>VST 3 Plug-in</b> on the executable via Explorer/Finder.</p>
 <p>Check the folder <a href="../../public.sdk/samples/vst-hosting/editorhost" target="_blank">public.sdk/samples/vst-hosting/editorhost</a> of the SDK! <br />
 <br />
  </p>
@@ -140,7 +140,7 @@ How to use it?</h2>
 <img src="plugintesthost.jpg" alt="plugintesthost.jpg"/>
 </div>
 <ul>
-<li><b>View -&gt; Open Plug-in Information Window</b>: opens a window showing all registered component and controller VST 3 Plug-ins</li>
+<li><b>View -&gt; Open Plug-in Information Window</b>: opens a window showing all registered component and controller <b>VST 3 Plug-ins</b></li>
 <li><b>View -&gt; Open Plug-in Unit Tests Window</b>: opens a window where you can test your Plug-in with a series of unit tests.</li>
 <li><b>View -&gt; Open Preset Editor</b>: allows you to open, check and modify VST 3 presets (adding meta attributes like in Instrument/Style/Character)</li>
 <li><b>File -&gt; Convert <a class="el" href="namespaceVST3.html">VST3</a> Preset to VST2 preset (fxp or fxb)</b>: allow to convert <a class="el" href="namespaceVST3.html">VST3</a> Presets to compatible VST2 Presets.</li>
@@ -224,7 +224,7 @@ Transport</h3>
 <br />
  </p>
 <h2><a class="anchor" id="vstTestHostTests"></a>
-VST 3 Plug-ins Tests Window</h2>
+&lt;b&gt;VST 3 Plug-ins&lt;/b&gt; Tests Window</h2>
 <div class="image">
 <img src="plugintestwin.jpg" alt="plugintestwin.jpg"/>
 </div>

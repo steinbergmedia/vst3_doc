@@ -15,7 +15,6 @@ var files =
     [ "aucocoaview.mm", "aucocoaview_8mm.html", null ],
     [ "AudioIO.h", "AudioIO_8h.html", null ],
     [ "AudioIO.mm", "AudioIO_8mm.html", "AudioIO_8mm" ],
-    [ "audiounitconfig.h", "audiounitconfig_8h.html", "audiounitconfig_8h" ],
     [ "ausdk.mm", "ausdk_8mm.html", null ],
     [ "auwrapper.h", "auwrapper_8h.html", null ],
     [ "auwrapper.mm", "auwrapper_8mm.html", null ],
@@ -64,6 +63,8 @@ var files =
       [ "ParameterChange", "structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html", "structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange" ]
     ] ],
     [ "pluginfactoryvst3.h", "pluginfactoryvst3_8h.html", "pluginfactoryvst3_8h" ],
+    [ "pluginterfacesupport.cpp", "pluginterfacesupport_8cpp.html", null ],
+    [ "pluginterfacesupport.h", "pluginterfacesupport_8h.html", null ],
     [ "pluginview.h", "pluginview_8h.html", null ],
     [ "plugprovider.cpp", "plugprovider_8cpp.html", "plugprovider_8cpp" ],
     [ "plugprovider.h", "plugprovider_8h.html", [
@@ -104,6 +105,7 @@ var files =
     [ "vstcomponentbase.h", "vstcomponentbase_8h.html", null ],
     [ "vsteditcontroller.cpp", "vsteditcontroller_8cpp.html", null ],
     [ "vsteditcontroller.h", "vsteditcontroller_8h.html", null ],
+    [ "vsteventshelper.h", "vsteventshelper_8h.html", "vsteventshelper_8h" ],
     [ "vstgui_win32_bundle_support.cpp", "vstgui__win32__bundle__support_8cpp.html", "vstgui__win32__bundle__support_8cpp" ],
     [ "vstgui_win32_bundle_support.h", "vstgui__win32__bundle__support_8h.html", "vstgui__win32__bundle__support_8h" ],
     [ "vstguieditor.cpp", "vstguieditor_8cpp.html", "vstguieditor_8cpp" ],

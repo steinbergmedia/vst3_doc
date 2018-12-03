@@ -40,16 +40,16 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1AGainController.html#a0c25846cfb4cee3a28d6446c4f324877",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html#a71e6e1ee23909faf1fbcf67e5c4d9ab8",
-"classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a877aa2de60e2da5066d443340cf650bd",
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a4dae123b5697706651d9ff20c9614f63",
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a931e9878dd9dca52cf2a0cb56a59a583",
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a908a4dce49e93ede6f1b2f02e35cfb38",
-"classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a35aa3fed88ff6cfb7898384d9e608277",
-"classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#aacfb31c7f4e2cfb0ab0967f7be16e38d",
-"hostchecker_2source_2version_8h.html#adb2701b32a110347dbec4c7d92b3cce2",
-"mdaPianoProcessor_8h.html",
-"programchange_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357"
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html#a9228db732b48ece8b5b734e69b979d10",
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a77f12234bacd276ef1f27a6c69fabe36",
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4fc43e5d31b41de090f95e23a406e205",
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a01ab1ef3a4bcdf5f08ef526065518fc5",
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a62c3c6c279f672e5f6ac32ff3a04d133",
+"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a3026090cef033b689dc36c5f122924f9",
+"classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ab30c622a174639ec92b375db9b2ee56d",
+"globals_h.html",
+"mdaEPianoProcessor_8cpp.html#ae468832efa6adf5e9a96cabd8f878b47",
+"prefetchablesupport_2source_2plugcids_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -7,6 +7,7 @@ var searchData=
   ['vst_203_20interfaces_20defined_20in_20version_203_2e5_2e0',['VST 3 Interfaces defined in version 3.5.0',['../group__vst350.html',1,'']]],
   ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e0',['VST 3 Interfaces defined in version 3.6.0',['../group__vst360.html',1,'']]],
   ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e11',['VST 3 Interfaces defined in version 3.6.11',['../group__vst3611.html',1,'']]],
+  ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e12',['VST 3 Interfaces defined in version 3.6.12',['../group__vst3612.html',1,'']]],
   ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e5',['VST 3 Interfaces defined in version 3.6.5',['../group__vst365.html',1,'']]],
   ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e6',['VST 3 Interfaces defined in version 3.6.6',['../group__vst366.html',1,'']]],
   ['vst_203_20interfaces_20defined_20in_20version_203_2e6_2e8',['VST 3 Interfaces defined in version 3.6.8',['../group__vst368.html',1,'']]],

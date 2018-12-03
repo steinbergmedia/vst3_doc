@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -214,11 +214,13 @@ Automation Playback</h2>
 <p> <hr width="100%" size="2" align="left" />  <b><a class="el" href="classSteinberg_1_1Vst_1_1IParameterChanges.html" title="All parameter changes of a processing block. ">Steinberg::Vst::IParameterChanges</a></b> <br />
 - [host imp]</p><ul>
 <li>[released: 3.0.0]</li>
+<li>[mandatory]</li>
 </ul>
 <p>This interface is used to transmit any changes that shall be applied to parameters in the current processing block. A change can be caused by GUI interaction as well as automation. They are transmitted as a list of queues (IParamValueQueue) containing only queues for parameters that actually did change. </p><dl class="section see"><dt>See also</dt><dd>IParamValueQueue, ProcessData  <hr width="100%" size="2" align="left" />  <b><a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html" title="Queue of changes for a specific parameter. ">Steinberg::Vst::IParamValueQueue</a></b> <br />
  Queue of changes for a specific parameter.<ul>
 <li>[host imp]</li>
 <li>[released: 3.0.0]</li>
+<li>[mandatory]</li>
 </ul>
 </dd></dl>
 <p>The change queue can be interpreted as segment of an automation curve. For each processing block a segment with the size of the block is transmitted to the processor. The curve is expressed as sampling points of a linear approximation of the original automation curve. If the original already is a linear curve it can be transmitted precisely. A non-linear curve has to be converted to a linear approximation by the host. Every point of the value queue defines a linear section of the curve as a straight line from the previous point of a block to the new one. So the Plug-in can calculate the value of the curve for any sample position in the block.</p>
@@ -228,7 +230,7 @@ In each processing block the section of the curve for each parameter is transmit
 <li>If the curve has a constant slope other than 0 over the period of several blocks, only the value for the last sample of the block is transmitted. In this case the last valid point is at block position -1. The processor can calculate the value for each sample in the block by using a linear interpolation: <div class="fragment"><div class="line"><span class="keywordtype">double</span> x1 = -1; <span class="comment">// position of last point related to current buffer</span></div>
 <div class="line"><span class="keywordtype">double</span> y1 = currentParameterValue; <span class="comment">// last transmitted value</span></div>
 <div class="line"></div>
-<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
+<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
 <div class="line"><a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> pointValue = 0;</div>
 <div class="line">IParamValueQueue::getPoint (0, pointTime, pointValue);</div>
 <div class="line"></div>

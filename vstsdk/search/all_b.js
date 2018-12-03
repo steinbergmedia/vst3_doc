@@ -3,6 +3,7 @@ var searchData=
   ['large_5fint',['LARGE_INT',['../../base/namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
   ['lastpreset',['lastPreset',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a46ad71fcafe9288a61041dd87173d9a6',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['left',['left',['../../base/structSteinberg_1_1ViewRect.html#ae08ef45a841fb76eef2ed11f7f6661ad',1,'Steinberg::ViewRect']]],
+  ['legacymidiccoutevent',['LegacyMIDICCOutEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html',1,'Steinberg::Vst']]],
   ['length',['length',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteOnEvent.html#ab91fc0c68b937719298bf91ba200640c',1,'Steinberg::Vst::NoteOnEvent']]],
   ['licensecheck',['licenseCheck',['../classVST3_1_1Hosting_1_1FactoryInfo.html#a8f0936359821bafbd5ec36603d6b7874',1,'VST3::Hosting::FactoryInfo']]],
   ['list',['list',['../classSteinberg_1_1Vst_1_1HostAttributeList.html#a8d0302c54beb3e7bd78bd730f55056b5',1,'Steinberg::Vst::HostAttributeList']]],

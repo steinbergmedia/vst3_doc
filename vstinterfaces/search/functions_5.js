@@ -8,6 +8,7 @@ var searchData=
   ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf',1,'Steinberg::Vst::EditorView']]],
   ['email',['email',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo']]],
   ['empty',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant']]],
+  ['enablempeinputprocessing',['enableMPEInputProcessing',['../classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#a322e79e7c76c3e2b5f717e9666870c58',1,'Steinberg::Vst::IVst3WrapperMPESupport']]],
   ['endcell',['endCell',['../../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9fee3c40ec32cf0408b2e4480da153f4',1,'Steinberg::Vst::XmlRepresentationHelper']]],
   ['endchunk',['endChunk',['../../vstsdk/classSteinberg_1_1Vst_1_1PresetFile.html#ad0d16af68cecbf287c638e6d1bf6a6ce',1,'Steinberg::Vst::PresetFile']]],
   ['endedit',['endEdit',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a786a5b0d67bd899354a805363a1a46b4',1,'Steinberg::Vst::EditController::endEdit()'],['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5412c3e3a2e82927cccbfdabafb576b8',1,'Steinberg::Vst::VSTGUIEditor::endEdit()'],['../classSteinberg_1_1Vst_1_1IComponentHandler.html#ae380206486b11f000cad7c0d9b6e877c',1,'Steinberg::Vst::IComponentHandler::endEdit()']]],

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -111,10 +111,11 @@ $(document).ready(function(){initNavTree('index.html','');});
 <li><a class="el" href="index.html#PitchNames">PitchNames Plug-in</a></li>
 <li><a class="el" href="index.html#HostChecker">HostChecker Plug-in</a></li>
 <li><a class="el" href="index.html#channelcontext">TestChannelContext Plug-in</a></li>
+<li><a class="el" href="index.html#legacymidiccout">TestLegacyMIDICCOut Plug-in</a></li>
 <li><a class="el" href="index.html#prefetchablesupport">TestPrefetchableSupport Plug-in</a></li>
 <li><a class="el" href="index.html#programchange">TestProgramChange Plug-in</a></li>
 </ul>
-<p>Note: They use cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a>  order to add your own plug-ins check: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/addownplugs.html">How to add/create your own VST 3 Plug-ins</a> <br />
+<p>Note: They use cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a>  order to add your own plug-ins check: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/addownplugs.html">How to add/create your own VST 3 Plug-ins</a> <br />
 <br />
  </p>
 <h1><a class="anchor" id="adelay"></a>
@@ -131,7 +132,7 @@ ADelay Plug-in</h1>
 </ul>
 <h1><a class="anchor" id="again"></a>
 AGain Plug-in</h1>
-<p>The SDK includes a AGain Plug-in which is a very simple VST 3 Plug-in. This Plug-in:</p><ul>
+<p>The SDK includes a AGain Plug-in which is a very simple <b>VST 3 Plug-in</b>. This Plug-in:</p><ul>
 <li>is multichannel compatible,</li>
 <li>supports bypass processing,</li>
 <li>has an automated gain parameter,</li>
@@ -243,13 +244,13 @@ HostChecker Plug-in</h1>
 <div class="image">
 <img src="hostchecker.jpg" alt="hostchecker.jpg"/>
 </div>
-<p>Check the folder <a href="../../public.sdk/samples/vst/hostchecker" target="_blank">public.sdk/samples/vst/hostchecker</a> of the SDK!</p>
-<p><br />
+<p>Check the folder <a href="../../public.sdk/samples/vst/hostchecker" target="_blank">public.sdk/samples/vst/hostchecker</a> of the SDK! <br />
+<br />
  </p>
 <h1><a class="anchor" id="channelcontext"></a>
 TestChannelContext Plug-in</h1>
 <p>Very simple Plug-in:</p><ul>
-<li>showing how to use the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface</li>
+<li>showing how to use the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface</li>
 <li>using a generic UI</li>
 </ul>
 <div class="image">
@@ -257,19 +258,32 @@ TestChannelContext Plug-in</h1>
 </div>
 <p>Check the folder <a href="../../public.sdk/samples/vst/channelcontext" target="_blank">public.sdk/samples/vst/channelcontext</a> of the SDK! <br />
 <br />
-<br />
  </p>
+<h1><a class="anchor" id="legacymidiccout"></a>
+TestLegacyMIDICCOut Plug-in</h1>
+<p>Very simple Plug-in:</p><ul>
+<li>showing how to use LegacyMIDICCOutEvent which allow to generate MIDI CC as output event</li>
+<li>VST parameters change which create LegacyMIDICCOutEvent Event</li>
+</ul>
+<div class="image">
+<img src="legacymidiccout.jpg" alt="legacymidiccout.jpg"/>
+</div>
+<p>Check the folder <a href="../../public.sdk/samples/vst/legacymidiccout" target="_blank">public.sdk/samples/vst/legacymidiccout</a> of the SDK!</p>
+<p>Classes:</p><ul>
+<li>LegacyMIDICCOut::Plug <br />
+<br />
+ </li>
+</ul>
 <h1><a class="anchor" id="prefetchablesupport"></a>
 TestPrefetchableSupport Plug-in</h1>
 <p>Very simple Plug-in:</p><ul>
-<li>showing how to use the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface</li>
+<li>showing how to use the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface</li>
 <li>using a generic UI</li>
 </ul>
 <div class="image">
 <img src="prefetchablesupport.jpg" alt="prefetchablesupport.jpg"/>
 </div>
 <p>Check the folder <a href="../../public.sdk/samples/vst/prefetchablesupport" target="_blank">public.sdk/samples/vst/prefetchablesupport</a> of the SDK! <br />
-<br />
 <br />
  </p>
 <h1><a class="anchor" id="programchange"></a>

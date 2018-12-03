@@ -1,7 +1,7 @@
 var searchData=
 [
   ['_7eagain',['~AGain',['../classSteinberg_1_1Vst_1_1AGain.html#aeedd6f72391025cc1c6f5ee3593cfb6e',1,'Steinberg::Vst::AGain']]],
-  ['_7eagainuimessagecontroller',['~AGainUIMessageController',['../classSteinberg_1_1Vst_1_1AGainUIMessageController.html#a24ac3c2b3d486c096b5cf370f1e9849a',1,'Steinberg::Vst::AGainUIMessageController']]],
+  ['_7eagainuimessagecontroller',['~AGainUIMessageController',['../classSteinberg_1_1Vst_1_1AGainUIMessageController.html#a6e2f02176a0703536d598b074df761f9',1,'Steinberg::Vst::AGainUIMessageController']]],
   ['_7eambiencecontroller',['~AmbienceController',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html#a5e35c5d570e4a6214b15358000ce8f6d',1,'Steinberg::Vst::mda::AmbienceController']]],
   ['_7eambienceprocessor',['~AmbienceProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a69d45320830df3c378aa391d1c7f6a9f',1,'Steinberg::Vst::mda::AmbienceProcessor']]],
   ['_7eapp',['~App',['../classSteinberg_1_1Vst_1_1AudioHost_1_1App.html#ac7e42b802d980ec54a4d288b4295fa1d',1,'Steinberg::Vst::AudioHost::App::~App()'],['../classSteinberg_1_1Vst_1_1EditorHost_1_1App.html#ac7e42b802d980ec54a4d288b4295fa1d',1,'Steinberg::Vst::EditorHost::App::~App()']]],

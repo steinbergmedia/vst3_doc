@@ -34,7 +34,6 @@ var searchData=
   ['audiohost_2eh',['audiohost.h',['../audiohost_8h.html',1,'']]],
   ['audioio_2eh',['AudioIO.h',['../../vstsdk/AudioIO_8h.html',1,'']]],
   ['audioio_2emm',['AudioIO.mm',['../../vstsdk/AudioIO_8mm.html',1,'']]],
-  ['audiounitconfig_2eh',['audiounitconfig.h',['../../vstsdk/audiounitconfig_8h.html',1,'']]],
   ['ausdk_2emm',['ausdk.mm',['../../vstsdk/ausdk_8mm.html',1,'']]],
   ['auwrapper_2eh',['auwrapper.h',['../../vstsdk/auwrapper_8h.html',1,'']]],
   ['auwrapper_2emm',['auwrapper.mm',['../../vstsdk/auwrapper_8mm.html',1,'']]],

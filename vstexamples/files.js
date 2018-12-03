@@ -386,7 +386,7 @@ var files =
     [ "note_expression_synth_processor.h", "note__expression__synth__processor_8h.html", [
       [ "Processor", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor" ]
     ] ],
-    [ "note_expression_synth_ui.cpp", "note__expression__synth__ui_8cpp.html", null ],
+    [ "note_expression_synth_ui.cpp", "note__expression__synth__ui_8cpp.html", "note__expression__synth__ui_8cpp" ],
     [ "note_expression_synth_ui.h", "note__expression__synth__ui_8h.html", [
       [ "ControllerWithUI", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI" ],
       [ "ProcessorWithUIController", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ProcessorWithUIController.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ProcessorWithUIController" ]

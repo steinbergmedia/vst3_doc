@@ -61,6 +61,9 @@ var ivstmidicontrollers_8h =
       [ "kCtrlPolyModeOn", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a9d27c8af6ca2742411edac39853d4063", null ],
       [ "kAfterTouch", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a999df7727e25b9ef9062b19f91a26cbd", null ],
       [ "kPitchBend", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a39b06e8637d7c40f7a845d1c191f6d8f", null ],
-      [ "kCountCtrlNumber", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6af6ba8b5a08c0e4e7c4d8f6603df78bd5", null ]
+      [ "kCountCtrlNumber", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6af6ba8b5a08c0e4e7c4d8f6603df78bd5", null ],
+      [ "kCtrlProgramChange", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a24741548a45124ddce729c1cdd78f1c0", null ],
+      [ "kCtrlPolyPressure", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a3276c68bfcf39d2acb1dda3814ca0602", null ],
+      [ "kCtrlQuarterFrame", "ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a8fdd692227d34e50628b4c26cc824565", null ]
     ] ]
 ];

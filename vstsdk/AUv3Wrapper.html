@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -106,17 +106,17 @@ $(document).ready(function(){initNavTree('AUv3Wrapper.html','');});
 <div class="textblock"><p>Helper Class wrapping a VST 3 Plug-in to a Audio Unit v3 Plug-in</p>
 <h1><a class="anchor" id="AUv3Introduction"></a>
 Introduction</h1>
-<p>The VST 3 SDK comes with a helper class which wraps one VST 3 Audio Processor and Edit Controller to a AUv3 Plug-in. <br />
+<p>The VST 3 SDK comes with a helper class which wraps one VST 3 Audio Processor and Edit Controller to a AUv3 Plug-in.</p>
+<p>The wrapped AudioUnit does support MPE when the <a class="el" href="namespaceVST3.html">VST3</a> Plug-in has Note Expression support. You need to implement <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html">Steinberg::Vst::INoteExpressionPhysicalUIMapping</a> to map your Note Expression to the limited three expressions defined by MPE.</p>
+<p><br />
 <br />
 </p>
 <h1><a class="anchor" id="howtoAUv3"></a>
 How does it work?</h1>
 <ul>
-<li>it works with <a class="el" href="namespaceVSTGUI.html">VSTGUI</a> on iOS</li>
 <li>Structure:<ul>
 <li>App (container app which initializes the AU through small Playback Engine)</li>
 <li>Extension (extension which is loaded by hosts, also initializes the AU)</li>
-<li>Library (main wrapper library)</li>
 </ul>
 </li>
 <li>How-To use the VST3-&gt;AUv3 Wrapper with the sample code:<ul>
@@ -125,10 +125,9 @@ How does it work?</h1>
 </ul>
 </li>
 <li>How-To use the VST3-&gt;AUv3 Wrapper with your own VST Plugin:<ul>
-<li>remove the AGain Source files from this project and include/link all your necessary <a class="el" href="namespaceVST3.html">VST3</a> Plugin source files (add to AUv3WrappermacOSLib and AUv3WrapperiOSLib target) and resource files (add to AUv3WrappermacOS, AUv3WrappermacOSExtension, AUv3WrapperiOS, AUv3WrapperiOSExtension targets)</li>
-<li>edit the <a class="el" href="audiounitconfig_8h.html">audiounitconfig.h</a> file (see comment "AUWRAPPER_CHANGE" there)</li>
-<li>rename the targets and bundle identifiers according to your needs</li>
-<li>make sure you have correct code signing set up</li>
+<li>duplicate either the folder again_auv3 or note_expression_synth_auv3 in public.sdk/samples/vst, rename it as you like and edit the CMakelist.txt to add your sources, resources and modify target names etc.</li>
+<li>take special attention to the stuff in audiounitconfig.h and change the definitions in there.</li>
+<li>also change the other files in that folder to your needs. -Code signing is required, but you can build and test with a developer only identity.</li>
 <li>build &amp; run targets </li>
 </ul>
 </li>

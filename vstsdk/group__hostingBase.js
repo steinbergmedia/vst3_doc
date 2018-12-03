@@ -4,7 +4,9 @@ var group__hostingBase =
       [ "HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#a917b260c602e1aa5332bb349ef0f2c20", null ],
       [ "~HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#ab70750617d8b8bae95f59312c50ca846", null ],
       [ "getName", "classSteinberg_1_1Vst_1_1HostApplication.html#a7dee101dcc417cd0bb88a3babbca1895", null ],
-      [ "createInstance", "classSteinberg_1_1Vst_1_1HostApplication.html#a26be08c650d6821878a3581c90166da4", null ]
+      [ "createInstance", "classSteinberg_1_1Vst_1_1HostApplication.html#a26be08c650d6821878a3581c90166da4", null ],
+      [ "getPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#aa5be70d82b7920c483cff0230e293a8b", null ],
+      [ "mPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9", null ]
     ] ],
     [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", [
       [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a660b0d7ed498d6fedfca1edc0b7afc45", null ],
@@ -75,6 +77,12 @@ var group__hostingBase =
       [ "changes", "classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a40eebc46ee9addec3780f266037c642f", null ],
       [ "readIndex", "classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a03027b3181599682f2c0e1d099276726", null ],
       [ "writeIndex", "classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#aae9e5d42c6d5c365662d7d936fcdbdc3", null ]
+    ] ],
+    [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", [
+      [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a6aff0e9fe16fb13679074f0610f6c82c", null ],
+      [ "isPlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a1e255dede2eb780708771c99f881293f", null ],
+      [ "addPlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a15c7d05751b83f5db57ccb8647be63f3", null ],
+      [ "removePlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a53b31091ef4b0735bd6e336992a4ee6e", null ]
     ] ],
     [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html", [
       [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html#a1219ed60708074921829632e8bda4915", null ],

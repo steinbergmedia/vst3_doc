@@ -19,5 +19,6 @@ var searchData=
   ['outputs',['outputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a28fedbd059e95b0d0c0ebfe3b081b4e5',1,'Steinberg::Vst::ProcessData']]],
   ['outr',['outr',['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a388bb4f1d708946f5687b985a59bb6e9',1,'Steinberg::Vst::mda::EPianoProcessor::VOICE::outr()'],['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html#a388bb4f1d708946f5687b985a59bb6e9',1,'Steinberg::Vst::mda::PianoProcessor::VOICE::outr()']]],
   ['overdrive',['overdrive',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a1bb96b0ce6b5beb8412364764228f088',1,'Steinberg::Vst::mda::EPianoProcessor']]],
+  ['override',['override',['../classSteinberg_1_1Vst_1_1Validator.html#ab73fdf8f77ef8c89f6be6c636a26f511',1,'Steinberg::Vst::Validator']]],
   ['ownmemory',['ownMemory',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a963b9333e77938c3f9ba35e65639ba2b',1,'Steinberg::MemoryStream']]]
 ];

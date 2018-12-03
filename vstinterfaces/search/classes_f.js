@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['uid',['UID',['../../vstsdk/structVST3_1_1UID.html',1,'VST3']]],
-  ['unit',['Unit',['../../vstsdk/classSteinberg_1_1Vst_1_1Unit.html',1,'Steinberg::Vst']]],
-  ['unitinfo',['UnitInfo',['../structSteinberg_1_1Vst_1_1UnitInfo.html',1,'Steinberg::Vst']]],
-  ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
-  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
+  ['scaleevent',['ScaleEvent',['../structSteinberg_1_1Vst_1_1ScaleEvent.html',1,'Steinberg::Vst']]],
+  ['singlecomponenteffect',['SingleComponentEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html',1,'Steinberg::Vst']]],
+  ['snapshot',['Snapshot',['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot.html',1,'VST3::Hosting::Module']]],
+  ['speakerarray',['SpeakerArray',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html',1,'Steinberg::Vst']]],
+  ['stringlistparameter',['StringListParameter',['../../vstsdk/classSteinberg_1_1Vst_1_1StringListParameter.html',1,'Steinberg::Vst']]]
 ];

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -114,11 +114,11 @@ $(document).ready(function(){initNavTree('noteExpressionPhysicalUIMapping.html',
 <p>With this Plug-in interface, the host can retrieve the preferred physical mapping associated to note expression supported by the Plug-in. When the mapping changes (for example when switching presets) the Plug-in needs to inform the host about it via IComponentHandler::restartComponent (kNoteExpressionChanged).</p>
 <h1><a class="anchor" id="INoteExpressionPhysicalUIMappingExample"></a>
 Example</h1>
-<div class="fragment"><div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API myPlug::::getPhysicalUIMapping (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> busIndex, <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a4355d16fcf9f644c9ac84293f0b1801f">int16</a> channel, PhysicalUIMapList&amp; list)</div>
+<div class="fragment"><div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API myPlug::::getPhysicalUIMapping (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> busIndex, <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a4355d16fcf9f644c9ac84293f0b1801f">int16</a> channel, PhysicalUIMapList&amp; list)</div>
 <div class="line">{</div>
 <div class="line">    <span class="keywordflow">if</span> (busIndex == 0 &amp;&amp; channel == 0)</div>
 <div class="line">    {</div>
-<div class="line">        <span class="keywordflow">for</span> (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> i = 0; i &lt; list.count; ++i)</div>
+<div class="line">        <span class="keywordflow">for</span> (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> i = 0; i &lt; list.count; ++i)</div>
 <div class="line">        {</div>
 <div class="line">            NoteExpressionTypeID type = kInvalidTypeID;</div>
 <div class="line">            <span class="keywordflow">if</span> (kPUIXMovement == list.map[i].physicalUITypeID)</div>
@@ -126,9 +126,9 @@ Example</h1>
 <div class="line">            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (kPUIYMovement == list.map[i].physicalUITypeID)</div>
 <div class="line">                list.map[i].noteExpressionTypeID = kCustomStart + 2;</div>
 <div class="line">        }</div>
-<div class="line">        <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
+<div class="line">        <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
 <div class="line">    }</div>
-<div class="line">    <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55bab954d2583eb15d3a762c5df29270f483">kResultFalse</a>;</div>
+<div class="line">    <span class="keywordflow">return</span> <a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55bab954d2583eb15d3a762c5df29270f483">kResultFalse</a>;</div>
 <div class="line">}</div>
 </div><!-- fragment --><p><br />
 Back to <b><a class="el" href="index.html#vst3Contents">Contents</a></b> <br />

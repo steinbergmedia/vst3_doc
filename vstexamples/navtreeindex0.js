@@ -248,6 +248,6 @@ var NAVTREEINDEX0 =
 "classSteinberg_1_1Vst_1_1AGain.html#aee393393dc4dccf6e0b30a43380859b4":[1,0,0,0,8,8],
 "classSteinberg_1_1Vst_1_1AGain.html#aeedd6f72391025cc1c6f5ee3593cfb6e":[1,0,0,0,8,1],
 "classSteinberg_1_1Vst_1_1AGainController.html":[1,0,0,0,9],
-"classSteinberg_1_1Vst_1_1AGainController.html#a089d871d42bc566bfacc222eee802f78":[1,0,0,0,9,10],
-"classSteinberg_1_1Vst_1_1AGainController.html#a0b46980f2ea48e70014c9749d4c9c8bd":[1,0,0,0,9,17]
+"classSteinberg_1_1Vst_1_1AGainController.html#a089d871d42bc566bfacc222eee802f78":[1,0,0,0,9,14],
+"classSteinberg_1_1Vst_1_1AGainController.html#a0b46980f2ea48e70014c9749d4c9c8bd":[1,0,0,0,9,21]
 };

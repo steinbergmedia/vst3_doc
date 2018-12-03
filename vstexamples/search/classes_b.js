@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['legacymidiccoutevent',['LegacyMIDICCOutEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html',1,'Steinberg::Vst']]],
   ['lesliecontroller',['LeslieController',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html',1,'Steinberg::Vst::mda']]],
   ['leslieprocessor',['LeslieProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html',1,'Steinberg::Vst::mda']]],
   ['limitercontroller',['LimiterController',['../classSteinberg_1_1Vst_1_1mda_1_1LimiterController.html',1,'Steinberg::Vst::mda']]],

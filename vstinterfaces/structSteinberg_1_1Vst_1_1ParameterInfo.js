@@ -1,6 +1,7 @@
 var structSteinberg_1_1Vst_1_1ParameterInfo =
 [
     [ "ParameterFlags", "structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645", [
+      [ "kNoFlags", "structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645aacc42d61d53f9b50d3f1f3b463ede0b5", null ],
       [ "kCanAutomate", "structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af38562ef6dde00a339d67f9be4ec3a31", null ],
       [ "kIsReadOnly", "structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645a6d0f0315e38602bca6847abb752ab10f", null ],
       [ "kIsWrapAround", "structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645ab6db0c541e451f24f819ab231f3ecf96", null ],

@@ -4,6 +4,7 @@ var searchData=
   ['beginedit',['beginEdit',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#a3d48394e540892e42a1ea9364f007cb7',1,'Steinberg::Vst::EditController::beginEdit()'],['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a9b6d44e6eb5f2b1b8ae9399dc56a6ad7',1,'Steinberg::Vst::VSTGUIEditor::beginEdit()'],['../classSteinberg_1_1Vst_1_1IComponentHandler.html#a8456ad739430267a12dda11a53fe9223',1,'Steinberg::Vst::IComponentHandler::beginEdit()']]],
   ['begineditfromhost',['beginEditFromHost',['../classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#a97cc85e97b22ff0d4fb9b5109a1a2bf2',1,'Steinberg::Vst::IEditControllerHostEditing']]],
   ['bound',['Bound',['../../base/namespaceSteinberg.html#a1d0f063a19e621ae10e8e532e0ce3395',1,'Steinberg']]],
+  ['boundto',['boundTo',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Helpers.html#af6b5e0825fbe7c215d5e05b118ab2e1e',1,'Steinberg::Vst::Helpers']]],
   ['bufferstream',['BufferStream',['../../vstsdk/classSteinberg_1_1Vst_1_1BufferStream.html#a2e9907a25f5c5e10eaa2489fb059a022',1,'Steinberg::Vst::BufferStream']]],
   ['bus',['Bus',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html#a3648ba31bae2ff74f94633ca0cdc132d',1,'Steinberg::Vst::AudioBus']]],
   ['buslist',['BusList',['../../vstsdk/classSteinberg_1_1Vst_1_1BusList.html#a5ba12052fe11364762c6b63f2e075961',1,'Steinberg::Vst::BusList']]],

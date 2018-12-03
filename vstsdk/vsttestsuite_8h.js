@@ -10,6 +10,7 @@ var vsttestsuite_8h =
     [ "VstScanBussesTest", "classSteinberg_1_1Vst_1_1VstScanBussesTest.html", "classSteinberg_1_1Vst_1_1VstScanBussesTest" ],
     [ "VstScanParametersTest", "classSteinberg_1_1Vst_1_1VstScanParametersTest.html", "classSteinberg_1_1Vst_1_1VstScanParametersTest" ],
     [ "VstMidiMappingTest", "classSteinberg_1_1Vst_1_1VstMidiMappingTest.html", "classSteinberg_1_1Vst_1_1VstMidiMappingTest" ],
+    [ "VstMidiLearnTest", "classSteinberg_1_1Vst_1_1VstMidiLearnTest.html", "classSteinberg_1_1Vst_1_1VstMidiLearnTest" ],
     [ "VstNoteExpressionTest", "classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html", "classSteinberg_1_1Vst_1_1VstNoteExpressionTest" ],
     [ "VstKeyswitchTest", "classSteinberg_1_1Vst_1_1VstKeyswitchTest.html", "classSteinberg_1_1Vst_1_1VstKeyswitchTest" ],
     [ "VstEditorClassesTest", "classSteinberg_1_1Vst_1_1VstEditorClassesTest.html", "classSteinberg_1_1Vst_1_1VstEditorClassesTest" ],

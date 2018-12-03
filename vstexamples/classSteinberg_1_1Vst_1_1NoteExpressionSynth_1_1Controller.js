@@ -22,5 +22,6 @@ var classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller =
     [ "getNoteExpressionInfo", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a487e1f5b80a28b511301f98dca4a5d0b", null ],
     [ "getNoteExpressionStringByValue", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#abc366969b6b2e1cef34c221db92e806d", null ],
     [ "getNoteExpressionValueByString", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#af4d16dae99ff1010b80359cb70500e31", null ],
-    [ "getPhysicalUIMapping", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a49b13e53849d51156521f6270c7ad6ee", null ]
+    [ "getPhysicalUIMapping", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a49b13e53849d51156521f6270c7ad6ee", null ],
+    [ "midiCCMapping", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#aaad58ca2f563a040d5bbee68f033971d", null ]
 ];

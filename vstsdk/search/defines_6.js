@@ -1,19 +1,4 @@
 var searchData=
 [
-  ['kaucomponentdescription',['kAUcomponentDescription',['../audiounitconfig_8h.html#a4019d8ce3bdbd1f14eb6c6429cb097f9',1,'audiounitconfig.h']]],
-  ['kaucomponentflags',['kAUcomponentFlags',['../audiounitconfig_8h.html#af51e79c5ec243a082686a9f441aefafa',1,'audiounitconfig.h']]],
-  ['kaucomponentflagsmask',['kAUcomponentFlagsMask',['../audiounitconfig_8h.html#aaf9e8ddda61d8ddd8ad10c507533643e',1,'audiounitconfig.h']]],
-  ['kaucomponentmanufacturer',['kAUcomponentManufacturer',['../audiounitconfig_8h.html#abae7faa0480421761493fea8346c1587',1,'audiounitconfig.h']]],
-  ['kaucomponentmanufacturer1',['kAUcomponentManufacturer1',['../audiounitconfig_8h.html#a673df5bd51e1927c698e4934cae14c98',1,'audiounitconfig.h']]],
-  ['kaucomponentname',['kAUcomponentName',['../audiounitconfig_8h.html#aec608402638dd0120398bda1074a4eb2',1,'audiounitconfig.h']]],
-  ['kaucomponentsubtype',['kAUcomponentSubType',['../audiounitconfig_8h.html#ad84fd3bf68b1aeebb32efab604f5dafd',1,'audiounitconfig.h']]],
-  ['kaucomponentsubtype1',['kAUcomponentSubType1',['../audiounitconfig_8h.html#ab4c92ba5e6b1c1d97773bf0cc84125bc',1,'audiounitconfig.h']]],
-  ['kaucomponenttag',['kAUcomponentTag',['../audiounitconfig_8h.html#ad8225b98baf3f9d12f5f22981f990d53',1,'audiounitconfig.h']]],
-  ['kaucomponenttype',['kAUcomponentType',['../audiounitconfig_8h.html#aa5487d926fdfe6333497df02061b0758',1,'audiounitconfig.h']]],
-  ['kaucomponenttype1',['kAUcomponentType1',['../audiounitconfig_8h.html#a476caadf14c9cb14d70ae895e4c5047f',1,'audiounitconfig.h']]],
-  ['kaucomponentversion',['kAUcomponentVersion',['../audiounitconfig_8h.html#af1327eb2e2055860752d5b164adc03cf',1,'audiounitconfig.h']]],
-  ['kaudiofileformat',['kAudioFileFormat',['../audiounitconfig_8h.html#a270b560b1a8891081787ed0ba81c6f35',1,'audiounitconfig.h']]],
-  ['kaudiofilename',['kAudioFileName',['../audiounitconfig_8h.html#aa9b5ee2bd3eae06aa44950043b4ed2b0',1,'audiounitconfig.h']]],
-  ['kmaxchannelssupported',['kMaxChannelsSupported',['../vstbypassprocessor_8h.html#aa38fb44000f5b68aae2850bafd0b8391',1,'vstbypassprocessor.h']]],
-  ['ksupportednumchannels',['kSupportedNumChannels',['../audiounitconfig_8h.html#a3cac5ff5fa6d00c89872bd159c33e552',1,'audiounitconfig.h']]]
+  ['kmaxchannelssupported',['kMaxChannelsSupported',['../vstbypassprocessor_8h.html#aa38fb44000f5b68aae2850bafd0b8391',1,'vstbypassprocessor.h']]]
 ];

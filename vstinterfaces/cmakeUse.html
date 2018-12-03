@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -103,16 +103,17 @@ $(document).ready(function(){initNavTree('cmakeUse.html','');});
 <div class="title">How to use cmake for Building VST 3 Plug-ins </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><pre>
+<div class="textblock"><p>The SDK provides a set of cmake files allowing you to compile the included samples and to develop new Plug-ins.</p>
+<pre>
  1. Download cmake from: <a href="https://cmake.org">https://cmake.org</a> or use a package manager for your OS.</pre><pre> 2. you can use the command line or the cmake editor (cmake-gui)
     2.1 Command line for Windows to build Microsoft "Visual 2015" solution:
         // go in to the folder where you extracted the VST 3 SDK
         &gt;mkdir build
         &gt;cd build
-        &gt;cmake -G"Visual Studio 14 2015 Win64" "..\VST3_SDK"
+        &gt;cmake -G"Visual Studio 15 2017 Win64" "..\VST3_SDK"
         // for Visual 2017: &gt;cmake -G"Visual Studio 15 2017 Win64" "..\VST3_SDK"
      or for 32bit
-        &gt;cmake -G"Visual Studio 14 2015" "..\VST3_SDK"
+        &gt;cmake -G"Visual Studio 15 2017" "..\VST3_SDK"
          // note: you can find the string definition for different Visual Studio Generators in the cmake online documentation</pre><pre>    2.2 Command line for macOS to build Xcode project:
         // go in to the folder where you extracted the VST 3 SDK
         &gt;mkdir build
@@ -127,29 +128,29 @@ $(document).ready(function(){initNavTree('cmakeUse.html','');});
         2.4.4 click on "Configure"
         2.4.5 click on "Generate" for creating project/solution</pre><pre>    2.5 Compile with cmake command line
         &gt;cd build
-        &gt;cmake &ndash;build .</pre><pre>    2.6 choose a specific compiler with cmake (command line on linux)
+        &gt;cmake &ndash;build .</pre><pre>    2.6 choose a specific compiler with cmake (command line on Linux)
         &gt;cmake -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++
         or
         &gt;cmake -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++</pre><pre>    2.7 available options
-          SMTG_ADD_VST3_HOSTING_SAMPLES : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Hosting Samples to the solution (default ON)
-          SMTG_ADD_VST3_PLUGINS_SAMPLES : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Plug-ins Samples to the project (default ON)
-          SMTG_ADD_VSTGUI               : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVSTGUI.html">VSTGUI</a> Support (default ON)
+          SMTG_ADD_VST3_HOSTING_SAMPLES : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Hosting Samples to the solution (default ON)
+          SMTG_ADD_VST3_PLUGINS_SAMPLES : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Plug-ins Samples to the project (default ON)
+          SMTG_ADD_VSTGUI               : Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVSTGUI.html">VSTGUI</a> Support (default ON)
           SMTG_BUILD_UNIVERSAL_BINARY   : Build universal binary (32 &amp; 64 bit) (Mac only)
-          SMTG_CREATE_BUNDLE_FOR_WINDOWS: Create Bundle on Windows for the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Plug-ins (New since 3.6.10! Windows only) (default ON)
+          SMTG_CREATE_BUNDLE_FOR_WINDOWS: Create Bundle on Windows for the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Plug-ins (New since 3.6.10! Windows only) (default ON)
           SMTG_CREATE_VST2_AGAIN_SAMPLE_VERSION : Allow to create the VST2 version of the Sample Plug-in AGain, be sure that you have copied the VST2 interfaces into the folder VST_SDK/VST3_SDK/pluginterfaces/vst2.x (default OFF)
-          SMTG_CREATE_VST3_LINK         : Create symbolic link for each <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-in in ${VST3_FOLDER_NAME} Folder (you need to have the Administrator right on Windows!)
+          SMTG_CREATE_VST3_LINK         : Create symbolic link for each <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-in in ${VST3_FOLDER_NAME} Folder (you need to have the Administrator right on Windows!)
           SMTG_ENABLE_TARGET_VARS_LOG   : Enable to log target variables for debugging (New since 3.6.11!) (default OFF) 
           SMTG_ENABLE_USE_OF_JACK       : Allow to create the audiohost application using Jack (default OFF)
           SMTG_IOS_DEVELOPMENT_TEAM     : Needed for building the InterAppAudio and AUv3 examples for iOS (Mac only)
-          SMTG_MYPLUGINS_SRC_PATH       : Here you can add Your <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder
+          SMTG_MYPLUGINS_SRC_PATH       : Here you can add Your <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder
           SMTG_RENAME_ASSERT            : Rename ASSERT to SMTG_ASSERT to avoid potential conflict with 3rd party libraries (default ON)
-          SMTG_RUN_VST_VALIDATOR        : Run the VST validator on <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins each time they are built (default ON)
+          SMTG_RUN_VST_VALIDATOR        : Run the VST validator on <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins each time they are built (default ON)
           SMTG_USE_STATIC_CRT           : Use static CRuntime on Windows (option /MT) (default OFF) (Windows only)
-          SMTG_VST3_TARGET_PATH         : Here you can redefine the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder</pre><pre>        Some other variables:
+          SMTG_VST3_TARGET_PATH         : Here you can redefine the <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> plug-ins folder</pre><pre>        Some other variables:
           SMTG_AAX_SDK_PATH             : Here you can define where the AAX SDK is located (if needed)
           SMTG_COREAUDIO_SDK_PATH       : Here you can define where the COREAUDIO SDK is located (Mac only, if needed)</pre><pre>3. Use your IDE for compiling the examples
     3.1 solution/project (vstsdk.sln / vstsdk.xcodeproj) is then generated in the "build" folder.</pre><pre>    3.2 the created Plug-ins are located in sub-folder /VST3/Release or /VST3/Debug in the "build" folder.
-    In order to allow DAW to find these Plug-ins you have to create links from the official <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Locations to them (see <a class="el" href="vst3loc.html">VST 3 Locations / Format</a>).
+    In order to allow DAW to find these Plug-ins you have to create links from the official <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> Locations to them (see <a class="el" href="vst3loc.html">VST 3 Locations / Format</a>).
 </pre> </div></div><!-- contents -->
 </div><!-- doc-content -->
 <html>

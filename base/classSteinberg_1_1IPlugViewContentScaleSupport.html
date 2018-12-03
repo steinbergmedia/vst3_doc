@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Interface Technology Basics
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -167,7 +167,8 @@ Static Public Attributes</h2></td></tr>
 <li>[optional]</li>
 </ul>
 <p>This interface communicates the content scale factor from the host to the plug-in view on systems where plug-ins cannot get this information directly like Microsoft Windows.</p>
-<p>The host calls setContentScaleFactor directly after the plug view was attached and when the scale factor changes (system change or window moved to another screen with different scaling settings). The host could call setContentScaleFactor in a different context, for example: scaling the plug-in editor for better readability. When a plug-in handles this (by returning kResultTrue), it needs to scale the width and height of its view by the scale factor and inform the host via a <a class="el" href="classSteinberg_1_1IPlugFrame.html#a94f218315acd695606fff41166294d56" title="Called to inform the host about the resize of a given view. ">IPlugFrame::resizeView()</a>, the host will then call <a class="el" href="classSteinberg_1_1IPlugView.html#a3e741e55c2c047a4cc10f102661f5654" title="Resizes the platform representation of the view to the given rect. ">IPlugView::onSize()</a> </p>
+<p>The host calls setContentScaleFactor directly after the plug view was attached and when the scale factor changes (system change or window moved to another screen with different scaling settings). The host could call setContentScaleFactor in a different context, for example: scaling the plug-in editor for better readability. When a plug-in handles this (by returning kResultTrue), it needs to scale the width and height of its view by the scale factor and inform the host via a <a class="el" href="classSteinberg_1_1IPlugFrame.html#a94f218315acd695606fff41166294d56" title="Called to inform the host about the resize of a given view. ">IPlugFrame::resizeView()</a>, the host will then call <a class="el" href="classSteinberg_1_1IPlugView.html#a3e741e55c2c047a4cc10f102661f5654" title="Resizes the platform representation of the view to the given rect. ">IPlugView::onSize()</a>.</p>
+<p>Note that the host is allowed to call <a class="el" href="classSteinberg_1_1IPlugViewContentScaleSupport.html#af5b0fea85beba3cdcfeb8de66779f478">setContentScaleFactor()</a> at any time the <a class="el" href="classSteinberg_1_1IPlugView.html" title="Plug-in definition of a view. ">IPlugView</a> is alive. </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a class="anchor" id="a75ec4b5d086d2af3733ac3775ab008d8"></a>
 <div class="memitem">

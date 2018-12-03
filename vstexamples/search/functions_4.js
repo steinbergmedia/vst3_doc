@@ -22,7 +22,7 @@ var searchData=
   ['deessercontroller',['DeEsserController',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#ae1393cd500ea7918602c141166ecc592',1,'Steinberg::Vst::mda::DeEsserController']]],
   ['deesserprocessor',['DeEsserProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a29aa9aaa9007e7dd3c04058ac99b789e',1,'Steinberg::Vst::mda::DeEsserProcessor']]],
   ['def_5fclass2',['DEF_CLASS2',['../againentry_8cpp.html#a72a890cc711f723d8b1951f391e4905c',1,'againentry.cpp']]],
-  ['def_5finterface',['DEF_INTERFACE',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#ac24a94a161306c9599f2a68b43852058',1,'Steinberg::Vst::HostCheckerController::DEF_INTERFACE()'],['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a694e23add4075955df080b47c837be24',1,'Steinberg::Vst::HostCheckerProcessor::DEF_INTERFACE()']]],
+  ['def_5finterface',['DEF_INTERFACE',['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a694e23add4075955df080b47c837be24',1,'Steinberg::Vst::HostCheckerProcessor']]],
   ['deferupdates',['deferUpdates',['../../base/classSteinberg_1_1IUpdateHandler.html#a161a23aead9a302f8b4b2021d8553e29',1,'Steinberg::IUpdateHandler']]],
   ['degradecontroller',['DegradeController',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#ac301b14dff40a06c4aa8dbcc67d243d7',1,'Steinberg::Vst::mda::DegradeController']]],
   ['degradeprocessor',['DegradeProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a1a55ed8e0d46bc5f64d71fde9dbcc239',1,'Steinberg::Vst::mda::DegradeProcessor']]],

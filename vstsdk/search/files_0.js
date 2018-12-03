@@ -15,7 +15,6 @@ var searchData=
   ['aucocoaview_2emm',['aucocoaview.mm',['../aucocoaview_8mm.html',1,'']]],
   ['audioio_2eh',['AudioIO.h',['../AudioIO_8h.html',1,'']]],
   ['audioio_2emm',['AudioIO.mm',['../AudioIO_8mm.html',1,'']]],
-  ['audiounitconfig_2eh',['audiounitconfig.h',['../audiounitconfig_8h.html',1,'']]],
   ['ausdk_2emm',['ausdk.mm',['../ausdk_8mm.html',1,'']]],
   ['auwrapper_2eh',['auwrapper.h',['../auwrapper_8h.html',1,'']]],
   ['auwrapper_2emm',['auwrapper.mm',['../auwrapper_8mm.html',1,'']]]

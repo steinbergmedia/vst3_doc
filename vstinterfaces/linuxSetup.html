@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -114,9 +114,10 @@ We mainly used Ubuntu 16.04 LTS for the preview.</p>
 Package Requirements</h1>
 <p>Building the SDK examples requires several packages which must be installed: <br />
 </p><pre>
-  1. Required: sudo apt-get install cmake gcc "libstdc++6" libx11-xcb-dev libxcb-util-dev libxcb-cursor-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev libfontconfig1-dev libcairo2-dev
+  1. Required: sudo apt-get install cmake gcc "libstdc++6" libx11-xcb-dev libxcb-util-dev libxcb-cursor-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev libfontconfig1-dev libcairo2-dev libgtkmm-3.0-dev libsqlite3-dev libxcb-keysyms1-dev
   2. Optional: sudo apt-get install subversion git ninja-build
   3. IDE Optional: sudo apt-get install qtcreator 
+  Note: on Raspbian replace "libxcb-util-dev" with "libxcb-util0-dev" 
 </pre><p> <br />
 Instead of gcc a recent version of clang will also do it! <br />
 libgtkmm3 is required for vstgui and the editorhost example! <br />

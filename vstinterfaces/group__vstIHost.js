@@ -59,6 +59,10 @@ var group__vstIHost =
     [ "IVst3ToVst2Wrapper", "classSteinberg_1_1Vst_1_1IVst3ToVst2Wrapper.html", null ],
     [ "IVst3ToAUWrapper", "classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html", null ],
     [ "IVst3ToAAXWrapper", "classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html", null ],
+    [ "IVst3WrapperMPESupport", "classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html", [
+      [ "enableMPEInputProcessing", "classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#a322e79e7c76c3e2b5f717e9666870c58", null ],
+      [ "setMPEInputDeviceSettings", "classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1", null ]
+    ] ],
     [ "IInterAppAudioHost", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html", [
       [ "getScreenSize", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a36e1db0db800560f4c70031e3ebc0a31", null ],
       [ "connectedToHost", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a85482697be15b427dd93a5488beaf9a8", null ],
@@ -84,6 +88,9 @@ var group__vstIHost =
       [ "getParameterCount", "classSteinberg_1_1Vst_1_1IParameterChanges.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1", null ],
       [ "getParameterData", "classSteinberg_1_1Vst_1_1IParameterChanges.html#a6afbd15adb1f5b2f6d2101ad73b5c375", null ],
       [ "addParameterData", "classSteinberg_1_1Vst_1_1IParameterChanges.html#af8399d51b057de8ac28ccaa88b9a88e5", null ]
+    ] ],
+    [ "IPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html", [
+      [ "isPlugInterfaceSupported", "classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html#acd41b87681c74169d1983afebc7fa3af", null ]
     ] ],
     [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", [
       [ "notifyUnitSelection", "classSteinberg_1_1Vst_1_1IUnitHandler.html#ab05a9a8dcca888caeabdb8ed74766bc6", null ],

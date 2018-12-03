@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -103,11 +103,11 @@ $(document).ready(function(){initNavTree('AUWrapper.html','');});
 <div class="title">VST 3 - Audio Unit Wrapper </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Helper Class wrapping a VST 3 Plug-in to a Audio Unit v2 Plug-in</p>
+<div class="textblock"><p>Helper Class wrapping a <b>VST 3 Plug-in</b> to a Audio Unit v2 Plug-in</p>
 <h1><a class="anchor" id="AUIntroduction"></a>
 Introduction</h1>
 <p>The VST 3 SDK comes with an AudioUnit wrapper, which can wrap one VST 3 Audio Processor and Edit Controller as an AudioUnit effect/instrument.</p>
-<p>The wrapper is a small dynamic library which loads the VST 3 Plug-in. As AudioUnits store some important information in their resource fork, this library must be compiled for every VST 3 Plug-in. <br />
+<p>The wrapper is a small dynamic library which loads the <b>VST 3 Plug-in</b>. As AudioUnits store some important information in their resource fork, this library must be compiled for every <b>VST 3 Plug-in</b>. <br />
 <br />
 </p>
 <h1><a class="anchor" id="AUhowdoesitwork"></a>
@@ -119,11 +119,11 @@ How does it work?</h1>
 <li>edit the target settings of the project and change<ul>
 <li>Product Name</li>
 <li>Library search path so that it points to the directory where libauwrapper.a exists</li>
-<li>architecture setting so that it only includes architectures the VST 3 Plug-in supports</li>
+<li>architecture setting so that it only includes architectures the <b>VST 3 Plug-in</b> supports</li>
 </ul>
 </li>
 <li>search in the project for AUWRAPPER_CHANGE and change the settings to your needs, especially in :<ul>
-<li>edit <a class="el" href="audiounitconfig_8h.html">audiounitconfig.h</a> see comments there</li>
+<li>edit audiounitconfig.h see comments there</li>
 <li>edit Info.plist see comments there</li>
 </ul>
 </li>
@@ -131,7 +131,7 @@ How does it work?</h1>
 <li>build your project</li>
 <li>done... that is all!</li>
 </ul>
-<p>For the release version, you must place a copy or an alias of your VST 3 Plug-in in the resource folder of the bundle named "plugin.vst3" </p>
+<p>For the release version, you must place a copy or an alias of your <b>VST 3 Plug-in</b> in the resource folder of the bundle named "plugin.vst3" </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <html>

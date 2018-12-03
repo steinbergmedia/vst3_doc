@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('vst3loc.html','');});
 Plug-in Format</h1>
 <h2><a class="anchor" id="macformat"></a>
 For the macOS platform</h2>
-<p>On the macOS platform, VST 3 Plug-in is a standard macOS bundle, its file extension is <b>".vst3"</b> and has the following folder structure: <br />
+<p>On the macOS platform, <b>VST 3 Plug-in</b> is a standard macOS bundle, its file extension is <b>".vst3"</b> and has the following folder structure: <br />
 </p><pre>
 MyPlugin.vst3/Contents/Resources/    =&gt; folder contains all additional resource files useful for the Plug-in
 MyPlugin.vst3/Contents/MacOS/        =&gt; folder contains the Plug-in’s macOS universal binary (Mach-O)
@@ -119,7 +119,7 @@ MyPlugin.vst3/Contents/PkgInfo       =&gt; specifies the type and creator codes 
  </p>
 <h2><a class="anchor" id="winformat"></a>
 For the Windows platform</h2>
-<p>On the Windows platform a VST 3 Plug-in is organized as a bundle like package format (simple folder), its file extension is <b>".vst3"</b> and has the following folder structure: <br />
+<p>On the Windows platform a <b>VST 3 Plug-in</b> is organized as a bundle like package format (simple folder), its file extension is <b>".vst3"</b> and has the following folder structure: <br />
 </p><pre>
 MyPlugin.vst3/Contents/Resources/                 =&gt; folder can contain resource files useful for the Plug-in
 MyPlugin.vst3/Contents/x86-win/MyPlugin.vst3      =&gt; folder contains the Plug-in binary (32 bit dll for the i386 architecture)
@@ -128,7 +128,7 @@ MyPlugin.vst3/Contents/arm-win/MyPlugin.vst3      =&gt; Proposal: folder contain
 MyPlugin.vst3/Contents/arm_64-win/MyPlugin.vst3   =&gt; Proposal: folder contains the Plug-in binary (64 bit dll for the arm64 architecture)</pre><pre>MyPlugin.vst3/desktop.ini                         =&gt; used to set custom icon in Windows Explorer
 MyPlugin.vst3/Plugin.ico                          =&gt; customized Plug-in icon
 </pre><p> <br />
-In previous SDK's the Plug-in was defined as a single dll file with the vst3 extension. This is deprecated since version 3.6.10.</p>
+In previous SDK's the <b>VST 3 Plug-in</b> was defined as a single dll file with the vst3 extension. This is deprecated since VST 3.6.10.</p>
 <p>The file <b>desktop.ini</b> should contain: </p><pre>
 [.ShellClassInfo]
 IconResource=Plugin.ico,0
@@ -140,7 +140,7 @@ attrib +r +h Plugin.ico
 </p>
 <h2><a class="anchor" id="linuxformat"></a>
 For the Linux platform</h2>
-<p>On Linux a VST 3 Plug-in is organized as a bundle like package format, its file extension is <b>".vst3"</b>, it follows this folder structure: <br />
+<p>On Linux a <b>VST 3 Plug-in</b> is organized as a bundle like package format, its file extension is <b>".vst3"</b>, it follows this folder structure: <br />
 </p><pre>
 MyPlugin.vst3/Contents/Resources     =&gt; folder contains all additional resource files useful for the Plug-in
 MyPlugin.vst3/Contents/i386-linux    =&gt; folder contains the Plug-in binary (32 bit shared library .so for Kernel Architecture i386)
@@ -153,7 +153,7 @@ MyPlugin.vst3/Contents/XXXX-linux    =&gt; with XXXX the architecture name (base
 </p>
 <h2><a class="anchor" id="snapshots"></a>
 Snapshots</h2>
-<p>A <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> bundle can contain prerendered snapshot images for a <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> host as a visual representation of the Plug-in UI. <br />
+<p>Since VST 3.6.10 a <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> bundle can contain prerendered snapshot images for a <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a> host as a visual representation of the Plug-in UI. <br />
 This snapshots must have a predefined format and filename so that a host can recognize it.</p><ul>
 <li>The image format must be PNG</li>
 <li>The image needs to be located inside the bundle directory in the folder <b>Resources/Snapshots/</b></li>
@@ -228,7 +228,7 @@ Plug-in Locations</h1>
  </p>
 <h2><a class="anchor" id="maclocation"></a>
 For the macOS platform</h2>
-<p>On the macOS platform, the host application expects VST 3 Plug-ins to be located in:</p>
+<p>On the macOS platform, the host application expects <b>VST 3 Plug-ins</b> to be located in:</p>
 <pre>
 -------------------------------------------------------------------------------------------------------------------
 Priority   Location             Path 
@@ -243,7 +243,7 @@ Priority   Location             Path
  </p>
 <h2><a class="anchor" id="winlocation"></a>
 For the Windows platform</h2>
-<p>On the Windows platform, the host application expects VST 3 Plug-ins to be located in:</p>
+<p>On the Windows platform, the host application expects <b>VST 3 Plug-ins</b> to be located in:</p>
 <pre>
 -------------------------------------------------------------------------------------------------------------------
 Priority   Location             Path                                       Comment
@@ -257,7 +257,7 @@ Priority   Location             Path                                       Comme
  </p>
 <h2><a class="anchor" id="linuxlocation"></a>
 For Linux platform</h2>
-<p>On the Linux platform, the host application expects VST 3 Plug-ins to be located in:</p>
+<p>On the Linux platform, the host application expects <b>VST 3 Plug-ins</b> to be located in:</p>
 <pre>
 -------------------------------------------------------------------------------------------------------------------
 Priority   Location             Path                                       Comment

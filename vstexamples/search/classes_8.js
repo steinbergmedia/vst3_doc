@@ -35,6 +35,7 @@ var searchData=
   ['imagedesc',['ImageDesc',['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html',1,'VST3::Hosting::Module::Snapshot']]],
   ['imageprocessor',['ImageProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html',1,'Steinberg::Vst::mda']]],
   ['imessage',['IMessage',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMessage.html',1,'Steinberg::Vst']]],
+  ['imidilearn',['IMidiLearn',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn.html',1,'Steinberg::Vst']]],
   ['imidimapping',['IMidiMapping',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html',1,'Steinberg::Vst']]],
   ['indexedparameter',['IndexedParameter',['../classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html',1,'Steinberg::Vst::mda']]],
   ['inoteexpressioncontroller',['INoteExpressionController',['../../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionController.html',1,'Steinberg::Vst']]],
@@ -48,6 +49,7 @@ var searchData=
   ['ipluginfactory',['IPluginFactory',['../../base/classSteinberg_1_1IPluginFactory.html',1,'Steinberg']]],
   ['ipluginfactory2',['IPluginFactory2',['../../base/classSteinberg_1_1IPluginFactory2.html',1,'Steinberg']]],
   ['ipluginfactory3',['IPluginFactory3',['../../base/classSteinberg_1_1IPluginFactory3.html',1,'Steinberg']]],
+  ['ipluginterfacesupport',['IPlugInterfaceSupport',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html',1,'Steinberg::Vst']]],
   ['iplugprovider',['IPlugProvider',['../../vstsdk/classSteinberg_1_1Vst_1_1IPlugProvider.html',1,'Steinberg::Vst']]],
   ['iplugview',['IPlugView',['../../base/classSteinberg_1_1IPlugView.html',1,'Steinberg']]],
   ['iplugviewcontentscalesupport',['IPlugViewContentScaleSupport',['../../base/classSteinberg_1_1IPlugViewContentScaleSupport.html',1,'Steinberg']]],
@@ -61,6 +63,7 @@ var searchData=
   ['iptr_3c_20steinberg_3a_3avst_3a_3aicomponent_20_3e',['IPtr&lt; Steinberg::Vst::IComponent &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['iptr_3c_20steinberg_3a_3avst_3a_3aieditcontroller_20_3e',['IPtr&lt; Steinberg::Vst::IEditController &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['iptr_3c_20steinberg_3a_3avst_3a_3aiinterappaudiopresetmanager_20_3e',['IPtr&lt; Steinberg::Vst::IInterAppAudioPresetManager &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
+  ['iptr_3c_20steinberg_3a_3avst_3a_3apluginterfacesupport_20_3e',['IPtr&lt; Steinberg::Vst::PlugInterfaceSupport &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['iptr_3c_20steinberg_3a_3avst_3a_3aplugprovider_20_3e',['IPtr&lt; Steinberg::Vst::PlugProvider &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['irunloop',['IRunLoop',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html',1,'Steinberg::Linux']]],
   ['isizeablestream',['ISizeableStream',['../../base/classSteinberg_1_1ISizeableStream.html',1,'Steinberg']]],
@@ -76,5 +79,6 @@ var searchData=
   ['ivst3toaaxwrapper',['IVst3ToAAXWrapper',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html',1,'Steinberg::Vst']]],
   ['ivst3toauwrapper',['IVst3ToAUWrapper',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html',1,'Steinberg::Vst']]],
   ['ivst3tovst2wrapper',['IVst3ToVst2Wrapper',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3ToVst2Wrapper.html',1,'Steinberg::Vst']]],
+  ['ivst3wrappermpesupport',['IVst3WrapperMPESupport',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html',1,'Steinberg::Vst']]],
   ['ixmlrepresentationcontroller',['IXmlRepresentationController',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IXmlRepresentationController.html',1,'Steinberg::Vst']]]
 ];

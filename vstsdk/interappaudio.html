@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.11</span>
+   &#160;<span id="projectnumber">VST 3.6.12</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -103,10 +103,10 @@ $(document).ready(function(){initNavTree('interappaudio.html','');});
 <div class="title">iOS Inter-App Audio support </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>iOS InterApp-Audio Application out of your VST 3 Plug-in</p>
+<div class="textblock"><p>iOS InterApp-Audio Application out of your <b>VST 3 Plug-in</b></p>
 <h1><a class="anchor" id="iaa_introduction"></a>
 Introduction</h1>
-<p>The VST 3 SDK provides an easy way to create an iOS InterApp-Audio Application out of your VST 3 Plug-in.</p>
+<p>The VST 3 SDK provides an easy way to create an iOS InterApp-Audio Application out of your <b>VST 3 Plug-in</b>.</p>
 <p>The SDK comes with an iOS VST 3 host application that can run standalone or as an Inter-App Audio slave. If your plug-in does not use any specific Windows or Mac OS X API's, it should be reasonably easy to get your plug-in running on iOS.</p>
 <p>If you use VSTGUI4 with the VST3Editor class as your UI, you mainly only have to create a new UI description for the different device sizes.</p>
 <h1><a class="anchor" id="iaa_howto"></a>
@@ -160,7 +160,7 @@ UI Handling</h1>
 <h2><a class="anchor" id="iaa_editor"></a>
 Creating a different UI when running on iOS</h2>
 <p>To create a different view for iOS, you can check the host context for the IInterAppAudioWrapper interface: </p><div class="fragment"><div class="line"><span class="comment">//-----------------------------------------------------------------------------</span></div>
-<div class="line">IPlugView* PLUGIN_API MyEditController::createView (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205096888/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> _name)</div>
+<div class="line">IPlugView* PLUGIN_API MyEditController::createView (<a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> _name)</div>
 <div class="line">{</div>
 <div class="line">  ConstString name (_name);</div>
 <div class="line">  <span class="keywordflow">if</span> (name == ViewType::kEditor)</div>

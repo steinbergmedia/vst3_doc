@@ -48,5 +48,6 @@ var searchData=
   ['moduleentryfunc',['ModuleEntryFunc',['../module__linux_8cpp.html#a8896b62003cc5e422a639b79c575e670',1,'module_linux.cpp']]],
   ['moduleexitfunc',['ModuleExitFunc',['../module__linux_8cpp.html#a6a54ca4a38bb52e14b06b693c7973bfd',1,'module_linux.cpp']]],
   ['modulehandle',['moduleHandle',['../vstguieditor_8cpp.html#ab302317af2233cef9ab2bd2a2d89b60f',1,'vstguieditor.cpp']]],
-  ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]]
+  ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
+  ['mpluginterfacesupport',['mPlugInterfaceSupport',['../classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]]
 ];

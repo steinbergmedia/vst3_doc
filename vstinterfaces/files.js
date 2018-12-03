@@ -21,15 +21,18 @@ var files =
       [ "PolyPressureEvent", "structSteinberg_1_1Vst_1_1PolyPressureEvent.html", "structSteinberg_1_1Vst_1_1PolyPressureEvent" ],
       [ "ChordEvent", "structSteinberg_1_1Vst_1_1ChordEvent.html", "structSteinberg_1_1Vst_1_1ChordEvent" ],
       [ "ScaleEvent", "structSteinberg_1_1Vst_1_1ScaleEvent.html", "structSteinberg_1_1Vst_1_1ScaleEvent" ],
+      [ "LegacyMIDICCOutEvent", "structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html", "structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent" ],
       [ "Event", "structSteinberg_1_1Vst_1_1Event.html", "structSteinberg_1_1Vst_1_1Event" ]
     ] ],
     [ "ivsthostapplication.h", "ivsthostapplication_8h.html", "ivsthostapplication_8h" ],
     [ "ivstinterappaudio.h", "ivstinterappaudio_8h.html", null ],
     [ "ivstmessage.h", "ivstmessage_8h.html", null ],
     [ "ivstmidicontrollers.h", "ivstmidicontrollers_8h.html", "ivstmidicontrollers_8h" ],
+    [ "ivstmidilearn.h", "ivstmidilearn_8h.html", null ],
     [ "ivstnoteexpression.h", "ivstnoteexpression_8h.html", "ivstnoteexpression_8h" ],
     [ "ivstparameterchanges.h", "ivstparameterchanges_8h.html", null ],
     [ "ivstphysicalui.h", "ivstphysicalui_8h.html", "ivstphysicalui_8h" ],
+    [ "ivstpluginterfacesupport.h", "ivstpluginterfacesupport_8h.html", null ],
     [ "ivstplugview.h", "ivstplugview_8h.html", null ],
     [ "ivstprefetchablesupport.h", "ivstprefetchablesupport_8h.html", "ivstprefetchablesupport_8h" ],
     [ "ivstprocesscontext.h", "ivstprocesscontext_8h.html", [

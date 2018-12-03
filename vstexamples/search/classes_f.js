@@ -25,6 +25,7 @@ var searchData=
   ['plug',['Plug',['../classSteinberg_1_1Vst_1_1Plug.html',1,'Steinberg::Vst']]],
   ['plugcontroller',['PlugController',['../classSteinberg_1_1Vst_1_1PlugController.html',1,'Steinberg::Vst']]],
   ['pluginfactory',['PluginFactory',['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'VST3::Hosting']]],
+  ['pluginterfacesupport',['PlugInterfaceSupport',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html',1,'Steinberg::Vst']]],
   ['plugprovider',['PlugProvider',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html',1,'Steinberg::Vst']]],
   ['polypressureevent',['PolyPressureEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html',1,'Steinberg::Vst']]],
   ['presetfile',['PresetFile',['../../vstsdk/classSteinberg_1_1Vst_1_1PresetFile.html',1,'Steinberg::Vst']]],

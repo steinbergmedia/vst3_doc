@@ -1,6 +1,10 @@
 var classSteinberg_1_1Vst_1_1AGainController =
 [
-    [ "UIMessageController", "classSteinberg_1_1Vst_1_1AGainController.html#a9259f57c419662f68967af1a29d03e55", null ],
+    [ "UIMessageController", "classSteinberg_1_1Vst_1_1AGainController.html#ae6481b2aec7c49ca0673c645a305696a", null ],
+    [ "UTF8StringPtr", "classSteinberg_1_1Vst_1_1AGainController.html#af7e79066204c7e0be05f30d63bcafb24", null ],
+    [ "IUIDescription", "classSteinberg_1_1Vst_1_1AGainController.html#aa946c9736e3aad934fd2d9b7b916cc43", null ],
+    [ "IController", "classSteinberg_1_1Vst_1_1AGainController.html#af63358114b145c306987ac513b4e908d", null ],
+    [ "VST3Editor", "classSteinberg_1_1Vst_1_1AGainController.html#ae5ece0a3a8c6e4295d9adedb76d6edd8", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1AGainController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1AGainController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setComponentState", "classSteinberg_1_1Vst_1_1AGainController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],

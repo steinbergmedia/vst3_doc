@@ -20,6 +20,7 @@ var searchData=
   ['vstcomponentbase_2eh',['vstcomponentbase.h',['../../vstsdk/vstcomponentbase_8h.html',1,'']]],
   ['vsteditcontroller_2ecpp',['vsteditcontroller.cpp',['../../vstsdk/vsteditcontroller_8cpp.html',1,'']]],
   ['vsteditcontroller_2eh',['vsteditcontroller.h',['../../vstsdk/vsteditcontroller_8h.html',1,'']]],
+  ['vsteventshelper_2eh',['vsteventshelper.h',['../../vstsdk/vsteventshelper_8h.html',1,'']]],
   ['vstgui_5fwin32_5fbundle_5fsupport_2ecpp',['vstgui_win32_bundle_support.cpp',['../../vstsdk/vstgui__win32__bundle__support_8cpp.html',1,'']]],
   ['vstgui_5fwin32_5fbundle_5fsupport_2eh',['vstgui_win32_bundle_support.h',['../../vstsdk/vstgui__win32__bundle__support_8h.html',1,'']]],
   ['vstguieditor_2ecpp',['vstguieditor.cpp',['../../vstsdk/vstguieditor_8cpp.html',1,'']]],

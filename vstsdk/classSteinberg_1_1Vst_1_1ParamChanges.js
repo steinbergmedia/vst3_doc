@@ -1,8 +1,8 @@
 var classSteinberg_1_1Vst_1_1ParamChanges =
 [
-    [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a19c556e05b55163f598ad6e47241c535", null ],
-    [ "~ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a48bc6787be75ee3550b8023bacd24982", null ],
-    [ "init", "classSteinberg_1_1Vst_1_1ParamChanges.html#a7c3bd9cd507536d15097a2aa0ef69661", null ],
+    [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a3d64a0fd4bd7066dc9d2ae1bfa495572", null ],
+    [ "~ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html#a6b8036f810ac3cd2a17d2606f34dc9e8", null ],
+    [ "init", "classSteinberg_1_1Vst_1_1ParamChanges.html#a0b6f0fb23c90a7f61804948458756b4c", null ],
     [ "setPoint", "classSteinberg_1_1Vst_1_1ParamChanges.html#a850bc14c2676e3ad3c25217b548c2b43", null ],
     [ "resetPoints", "classSteinberg_1_1Vst_1_1ParamChanges.html#aa9728817d91fee2593fc8b6480c773e1", null ],
     [ "getProcessedFrames", "classSteinberg_1_1Vst_1_1ParamChanges.html#a1974e241cd715633518756450a8599bc", null ],

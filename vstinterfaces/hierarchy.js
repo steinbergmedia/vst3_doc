@@ -44,6 +44,7 @@ var hierarchy =
       [ "IPrefetchableSupport", "classSteinberg_1_1Vst_1_1IPrefetchableSupport.html", null ],
       [ "IProgramListData", "classSteinberg_1_1Vst_1_1IProgramListData.html", null ],
       [ "IStreamAttributes", "classSteinberg_1_1Vst_1_1IStreamAttributes.html", null ],
+      [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", null ],
       [ "IUnitData", "classSteinberg_1_1Vst_1_1IUnitData.html", null ],
       [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", null ],
       [ "IUnitHandler2", "classSteinberg_1_1Vst_1_1IUnitHandler2.html", null ],

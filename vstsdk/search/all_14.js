@@ -22,12 +22,13 @@ var searchData=
   ['units',['units',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1c553556d9764875c3e04ac9eea2f247',1,'Steinberg::Vst::NoteExpressionTypeInfo::units()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#a1c553556d9764875c3e04ac9eea2f247',1,'Steinberg::Vst::ParameterInfo::units()'],['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#a6d1eb8c7229080be20f950a9dbb693c3',1,'Steinberg::Vst::EditControllerEx1::units()']]],
   ['unitvector',['UnitVector',['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc',1,'Steinberg::Vst::EditControllerEx1']]],
   ['unprepare',['unprepare',['../classSteinberg_1_1Vst_1_1HostProcessData.html#af09fdb1736e7957252ac630096ef6357',1,'Steinberg::Vst::HostProcessData']]],
-  ['unprepareprocessing',['unprepareProcessing',['../classSteinberg_1_1Vst_1_1VstProcessTest.html#a34503c879cfca0506041bc273c97d9cb',1,'Steinberg::Vst::VstProcessTest']]],
   ['unqueue',['unqueue',['../../base/classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568',1,'Steinberg::IAttributes']]],
   ['unregistereventhandler',['unregisterEventHandler',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e',1,'Steinberg::Linux::IRunLoop']]],
   ['unregistertimer',['unregisterTimer',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618',1,'Steinberg::Linux::IRunLoop']]],
   ['update',['update',['../../base/classSteinberg_1_1IDependent.html#a3d86c384d513182fbded4f128fc716be',1,'Steinberg::IDependent::update()'],['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#ad059d874e82bf94764760319e0d625fc',1,'Steinberg::Vst::EditControllerEx1::update()']]],
   ['url',['url',['../../base/structSteinberg_1_1PFactoryInfo.html#aa4ccdd008796e1fda60a64aca8fc6a16',1,'Steinberg::PFactoryInfo::url()'],['../classVST3_1_1Hosting_1_1FactoryInfo.html#a3d1b81135890c4cc698ebec4217ed8c8',1,'VST3::Hosting::FactoryInfo::url()']]],
+  ['use_5fole',['USE_OLE',['../module__win32_8cpp.html#af1ce76814dd30ab1a712aaee424a9525',1,'module_win32.cpp']]],
+  ['usediids_2ecpp',['usediids.cpp',['../usediids_8cpp.html',1,'']]],
   ['usedqueuecount',['usedQueueCount',['../classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd',1,'Steinberg::Vst::ParameterChanges']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3',1,'Steinberg::UString']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
@@ -35,7 +36,7 @@ var searchData=
   ['ustring_2eh',['ustring.h',['../../base/ustring_8h.html',1,'']]],
   ['ustring128',['UString128',['../../base/namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5',1,'Steinberg']]],
   ['ustring256',['UString256',['../../base/namespaceSteinberg.html#a71098a25fa252b10d271a11807153385',1,'Steinberg']]],
-  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html#ad2c1eac721335328075dcbfb452dde55',1,'Steinberg::UStringBuffer::UStringBuffer()'],['../../base/classSteinberg_1_1UStringBuffer.html#a6f858761bd4a84aa683759e4cc4b5fbd',1,'Steinberg::UStringBuffer::UStringBuffer(const char16 *src, int32 srcSize=-1)'],['../../base/classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf',1,'Steinberg::UStringBuffer::UStringBuffer(const char *src, int32 srcSize=-1)']]],
   ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
+  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html#ad2c1eac721335328075dcbfb452dde55',1,'Steinberg::UStringBuffer::UStringBuffer()'],['../../base/classSteinberg_1_1UStringBuffer.html#a6f858761bd4a84aa683759e4cc4b5fbd',1,'Steinberg::UStringBuffer::UStringBuffer(const char16 *src, int32 srcSize=-1)'],['../../base/classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf',1,'Steinberg::UStringBuffer::UStringBuffer(const char *src, int32 srcSize=-1)']]],
   ['units',['Units',['../../vstinterfaces/vst3Units.html',1,'']]]
 ];

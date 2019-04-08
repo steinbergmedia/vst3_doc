@@ -8,9 +8,10 @@ var searchData=
   ['noteid',['noteId',['../structSteinberg_1_1Vst_1_1NoteOnEvent.html#a10cb194b5adb5b7bd968688cdd58de53',1,'Steinberg::Vst::NoteOnEvent::noteId()'],['../structSteinberg_1_1Vst_1_1NoteOffEvent.html#a10cb194b5adb5b7bd968688cdd58de53',1,'Steinberg::Vst::NoteOffEvent::noteId()'],['../structSteinberg_1_1Vst_1_1PolyPressureEvent.html#a10cb194b5adb5b7bd968688cdd58de53',1,'Steinberg::Vst::PolyPressureEvent::noteId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a10cb194b5adb5b7bd968688cdd58de53',1,'Steinberg::Vst::NoteExpressionValueEvent::noteId()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#a10cb194b5adb5b7bd968688cdd58de53',1,'Steinberg::Vst::NoteExpressionTextEvent::noteId()']]],
   ['noteoff',['noteOff',['../structSteinberg_1_1Vst_1_1Event.html#a21c98848a005b27ed5ed3951555d94a5',1,'Steinberg::Vst::Event']]],
   ['noteon',['noteOn',['../structSteinberg_1_1Vst_1_1Event.html#aa7ce3c35c89b80c286a732eb1794307c',1,'Steinberg::Vst::Event']]],
+  ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
   ['numchannels',['numChannels',['../structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
+  ['numiterations',['numIterations',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],
   ['numoutputs',['numOutputs',['../structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a',1,'Steinberg::Vst::ProcessData']]],
-  ['numparams',['numParams',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a9142236c5e313083fb82c1d4673083d6',1,'Steinberg::Vst::VstAutomationTest']]],
   ['numsamples',['numSamples',['../structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26',1,'Steinberg::Vst::ProcessData']]]
 ];

@@ -21,7 +21,8 @@ var NAVTREE =
         [ "For Windows XP/2000 platform", "vst3loc.html#win2000preset", null ],
         [ "For Windows Vista/7/8/10 platform", "vst3loc.html#win7preset", null ],
         [ "For Linux platform", "vst3loc.html#linuxpreset", null ]
-      ] ]
+      ] ],
+      [ "Remote Representation Locations", "vst3loc.html#representationloc", null ]
     ] ],
     [ "Note Expression Support", "noteExpression.html", [
       [ "Introduction", "noteExpression.html#neintro", null ],
@@ -120,14 +121,14 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e",
-"classes.html",
-"group__musicalStyle.html#ga56cc1195da3ec7bc16d67a303c489c6a",
-"group__speakerArrangements.html#ga8848385489d48df96843cd8022dbbfe1",
-"ivstcomponent_8h.html#gga576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3",
-"namespaceSteinberg_1_1Vst_1_1PresetAttributes.html",
-"structSteinberg_1_1Vst_1_1ProcessSetup.html#a0f85383979879cac64621f4ffb25cae0",
-"vstpresetkeys_8h.html#ga9e3c1f6becf1b50e07e2d8212fadea0d",
-"vstspeaker_8h.html#ga957c53627e5492b9b62190be390255c1"
+"classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1",
+"group__musicalStyle.html#ga4c9fd026e505a151e4ebcb41a026a273",
+"group__speakerArrangements.html#ga8204788aa5b2fce1730c157dc8a9239f",
+"ivstcomponent_8h.html#ga4849e8fa0da1b39bd3e0af87b441675a",
+"namespaceSteinberg_1_1Vst_1_1AttributesStyle.html",
+"structSteinberg_1_1Vst_1_1ProcessData.html#a55878a119a399f3e35f46272faac21b5",
+"vstpresetkeys_8h.html#ga92057d09ae8339165840fd850e77868d",
+"vstspeaker_8h.html#ga8840a665e6fa4dac19167726473d6072"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

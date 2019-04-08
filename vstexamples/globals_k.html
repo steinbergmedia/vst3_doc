@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.12</span>
+   &#160;<span id="projectnumber">VST 3.6.13</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -232,6 +232,9 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
 <li>kLogIdIAttributeListInSetStateSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ab097977874ae5e9bed9b65a775930054">logevents.h</a>
 </li>
+<li>kLogIdIAutomationStateSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ae9fc5c75cff407d888117c27e2656eb9">logevents.h</a>
+</li>
 <li>kLogIdIComponentHandler2RequestOpenEditorSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a5b98172cce849afe514457278bc7288f">logevents.h</a>
 </li>
@@ -246,6 +249,15 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
 </li>
 <li>kLogIdIEditController2Supported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a30c505ab3dd463ca785a89d69ba5d4c3">logevents.h</a>
+</li>
+<li>kLogIdIEditControllerHostEditingMisused
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa64318f163741a2b46e6d6be3919ac39">logevents.h</a>
+</li>
+<li>kLogIdIEditControllerHostEditingSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a372a76180c616d9934f058ca624f8be4">logevents.h</a>
+</li>
+<li>kLogIdIKeyswitchControllerSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a3ce8600eb13dfcdd97d686c27d9890ea">logevents.h</a>
 </li>
 <li>kLogIdIMidiLearn_onLiveMIDIControllerInputSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1abe2730e8344db5e5243e84987edaba">logevents.h</a>
@@ -355,8 +367,20 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
 <li>kLogIdIPlugViewNotCalled
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ae60e595aa437c08884e7ece02c3d158d">logevents.h</a>
 </li>
+<li>kLogIdIPlugViewOnFocusCalled
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46af126e9f9da5d03a320057ae84e44d141">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewOnKeyDownSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a5f0ec8778771e51399a1700e016b7f57">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewOnKeyUpSupported
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1acac65302aa5192bcaa70d55f0596ec">logevents.h</a>
+</li>
 <li>kLogIdIPlugViewonSizeSupported
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a936d56540180b5f1ab5c981b354375b9">logevents.h</a>
+</li>
+<li>kLogIdIPlugViewOnWheelCalled
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a7b19887d370482d5c4c2b0ebe1eac038">logevents.h</a>
 </li>
 <li>kLogIdIPlugViewremovedWithoutAttached
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a5fb9550c3dfb27797071bc17ef7adabf">logevents.h</a>
@@ -390,6 +414,9 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
 </li>
 <li>kLogIdNullPointerToAudioBusBuffer
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac259cd881ad45c5f84417ae2b2297461">logevents.h</a>
+</li>
+<li>kLogIdNullPointerToAuxChannelBuf
+: <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46a75167ff761bc619af55ae8f389fed047">logevents.h</a>
 </li>
 <li>kLogIdNullPointerToChannelBuf
 : <a class="el" href="logevents_8h.html#afc84f29132b630b33d341d0769a66d46ae1e7066b76b319163016fb295fe87ca5">logevents.h</a>
@@ -465,15 +492,15 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
 </li>
 <li>kVstAudioEffectClass
 : <a class="el" href="prefetchablesupport_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">prefetchablesupport/source/plugentry.cpp</a>
-, <a class="el" href="programchange_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">programchange/source/plugentry.cpp</a>
+, <a class="el" href="againentry_8cpp.html#a747235f6e5700e3fbd1d59010b512b50">againentry.cpp</a>
 , <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">channelcontext/source/plugentry.cpp</a>
 , <a class="el" href="note__expression__text_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">note_expression_text/source/plugentry.cpp</a>
-, <a class="el" href="againentry_8cpp.html#a747235f6e5700e3fbd1d59010b512b50">againentry.cpp</a>
+, <a class="el" href="programchange_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357">programchange/source/plugentry.cpp</a>
 </li>
 <li>kVstVersionString
-: <a class="el" href="programchange_2source_2plugentry_8cpp.html#ac1309796378f282dc0a0d07f322a9727">programchange/source/plugentry.cpp</a>
+: <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a8e474a03994aa5c0ee4068ec2b3b7217">channelcontext/source/plugentry.cpp</a>
 , <a class="el" href="note__expression__text_2source_2plugentry_8cpp.html#af95bfaaff460967d112f7e5db4232ea2">note_expression_text/source/plugentry.cpp</a>
-, <a class="el" href="channelcontext_2source_2plugentry_8cpp.html#a8e474a03994aa5c0ee4068ec2b3b7217">channelcontext/source/plugentry.cpp</a>
+, <a class="el" href="programchange_2source_2plugentry_8cpp.html#ac1309796378f282dc0a0d07f322a9727">programchange/source/plugentry.cpp</a>
 , <a class="el" href="prefetchablesupport_2source_2plugentry_8cpp.html#a29707ed5621830ba9ca420b63a42b48d">prefetchablesupport/source/plugentry.cpp</a>
 , <a class="el" href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">againentry.cpp</a>
 </li>
@@ -493,7 +520,7 @@ $(document).ready(function(){initNavTree('globals_k.html','');});
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2019 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

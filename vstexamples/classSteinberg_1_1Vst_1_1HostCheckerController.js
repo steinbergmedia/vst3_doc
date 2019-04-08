@@ -19,6 +19,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "notify", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a60bbab8211ead54d50dbb672be410342", null ],
     [ "connect", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a170e3042a5e695227c6931fba321debb", null ],
     [ "createCustomView", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a668ebd0a20787d498f761c94e34f6203", null ],
+    [ "willClose", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ab3ab4a69e656ba2673a228fb6e22e2bd", null ],
     [ "setKnobMode", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a9c53db76959c3f687ebf0a9e039b5523", null ],
     [ "openHelp", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a990e31f5d0bcc88d2c3a8e8c370a23ca", null ],
     [ "openAboutBox", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aff61c36b9f383b24e53096d1ff4ca451", null ],
@@ -33,6 +34,11 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "getNoteExpressionStringByValue", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abc366969b6b2e1cef34c221db92e806d", null ],
     [ "getNoteExpressionValueByString", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af4d16dae99ff1010b80359cb70500e31", null ],
     [ "getPhysicalUIMapping", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a49b13e53849d51156521f6270c7ad6ee", null ],
+    [ "getKeyswitchCount", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a07afea77ec32591cdc9647baf9e5341c", null ],
+    [ "getKeyswitchInfo", "classSteinberg_1_1Vst_1_1HostCheckerController.html#acbe6bf21938011dad882eda62cfde163", null ],
+    [ "setAutomationState", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a4b5c159b9bb3502dc68a852b65c631cb", null ],
+    [ "beginEditFromHost", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af90af6cdca41f0ab7ac5d4387c28efd8", null ],
+    [ "endEditFromHost", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a480ad57ca0f00afd09fb0bb580865688", null ],
     [ "editorAttached", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac055deeb5f5ddca6e9e030e06a2fac7c", null ],
     [ "editorRemoved", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a893fe346bfbb357724bb3e4154ff80af", null ],
     [ "editorDestroyed", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a3ca86a9534ad2bb3adb4f5e4d71d68a5", null ],
@@ -42,7 +48,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "addFeatureLog", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a83a49fd95229c954373fd326219461e6", null ],
     [ "getSavedSize", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ade2695d37a61c84f45916730b968d507", null ],
     [ "extractCurrentInfo", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aedf0d687c00670ca351bd00b0b83f440", null ],
-    [ "mDataBrowser", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aeb4bf4547cee8727b47753ee5fefaeeb", null ],
+    [ "mDataBrowserMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#afc56b230d780947eb7b477efb0e055f0", null ],
     [ "mDataSource", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abcb2607c54f1115af6663eed8d3cee25", null ],
     [ "mLatencyInEdit", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a0e0358aa35e63cb6a96d4738b86a4cb2", null ],
     [ "mWantedLatency", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a182625d2b02683f36ec4aafa85911076", null ],
@@ -50,5 +56,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "editorsSubCtlerMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a06f291cb573e68c068f1575530e558a9", null ],
     [ "width", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a9ddae86018522bf2d708066884d89b3c", null ],
     [ "height", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ad6796376ef5cc027ed35c4b2dd170f41", null ],
-    [ "sizeFactor", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abaafe2485a80cde3e71a231286208fdb", null ]
+    [ "sizeFactor", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abaafe2485a80cde3e71a231286208fdb", null ],
+    [ "inEditFromHost", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a2b6ba748205d6006eb07be58ca71afb2", null ],
+    [ "threadChecker", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af7bb4bec2475d18c304cc1263092e2cc", null ]
 ];

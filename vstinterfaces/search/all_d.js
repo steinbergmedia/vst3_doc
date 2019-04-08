@@ -31,9 +31,10 @@ var searchData=
   ['notifyunitselection',['notifyUnitSelection',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a0ec9c7e1b0b5039f98e5342d846d1e77',1,'Steinberg::Vst::EditControllerEx1::notifyUnitSelection()'],['../classSteinberg_1_1Vst_1_1IUnitHandler.html#ab05a9a8dcca888caeabdb8ed74766bc6',1,'Steinberg::Vst::IUnitHandler::notifyUnitSelection()']]],
   ['nsdataibstream_2eh',['NSDataIBStream.h',['../../vstsdk/NSDataIBStream_8h.html',1,'']]],
   ['nsdataibstream_2emm',['NSDataIBStream.mm',['../../vstsdk/NSDataIBStream_8mm.html',1,'']]],
+  ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
   ['numchannels',['numChannels',['../structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
+  ['numiterations',['numIterations',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],
   ['numoutputs',['numOutputs',['../structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a',1,'Steinberg::Vst::ProcessData']]],
-  ['numparams',['numParams',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a9142236c5e313083fb82c1d4673083d6',1,'Steinberg::Vst::VstAutomationTest']]],
   ['numsamples',['numSamples',['../structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26',1,'Steinberg::Vst::ProcessData']]]
 ];

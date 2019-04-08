@@ -20,10 +20,12 @@ var searchData=
   ['notes',['notes',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a0974b824be35dc4a6be444677e4b3ae2',1,'Steinberg::Vst::mda::DX10Processor::notes()'],['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a6500a14679530b4ab147abe3dbf6df38',1,'Steinberg::Vst::mda::EPianoProcessor::notes()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a0974b824be35dc4a6be444677e4b3ae2',1,'Steinberg::Vst::mda::JX10Processor::notes()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a0974b824be35dc4a6be444677e4b3ae2',1,'Steinberg::Vst::mda::PianoProcessor::notes()']]],
   ['nul',['nul',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#a20aa5006a199342a4739598fac4cc8e4',1,'Steinberg::Vst::mda::RingModProcessor']]],
   ['num',['num',['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a6208dcc3a58e480b5b6d6bf53f76f984',1,'Steinberg::Vst::mda::TrackerProcessor']]],
+  ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
   ['numchannels',['numChannels',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
+  ['numiterations',['numIterations',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],
   ['numoutputs',['numOutputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a',1,'Steinberg::Vst::ProcessData']]],
-  ['numparams',['numParams',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a9142236c5e313083fb82c1d4673083d6',1,'Steinberg::Vst::VstAutomationTest::numParams()'],['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a43b565fdb49cf57214b8103f9b5d3d37',1,'Steinberg::Vst::mda::BaseProcessor::numParams()']]],
+  ['numparams',['numParams',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a43b565fdb49cf57214b8103f9b5d3d37',1,'Steinberg::Vst::mda::BaseProcessor']]],
   ['numsamples',['numSamples',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26',1,'Steinberg::Vst::ProcessData']]],
   ['numtestsfailed',['numTestsFailed',['../classSteinberg_1_1Vst_1_1Validator.html#a04333b79129a2a6fbeb8927dcdf9c361',1,'Steinberg::Vst::Validator']]],
   ['numtestspassed',['numTestsPassed',['../classSteinberg_1_1Vst_1_1Validator.html#ad88cf3c988d08f5f55d36e4394f489fd',1,'Steinberg::Vst::Validator']]]

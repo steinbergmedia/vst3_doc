@@ -3,7 +3,7 @@ var searchData=
   ['mactive',['mActive',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
   ['map',['map',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
-  ['maxclasscount',['maxClassCount',['../classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88',1,'Steinberg::CPluginFactory']]],
+  ['maxblocksize',['maxBlockSize',['../structSteinberg_1_1Vst_1_1TestDefaults.html#a7e2b5ed168b97046059a1ada78a28d6f',1,'Steinberg::Vst::TestDefaults']]],
   ['maximum',['maximum',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf',1,'Steinberg::Vst::NoteExpressionValueDescription']]],
   ['maxplain',['maxPlain',['../classSteinberg_1_1Vst_1_1RangeParameter.html#aa8344438020842aadfa3cb0480c6fd0b',1,'Steinberg::Vst::RangeParameter']]],
   ['maxsamplesperblock',['maxSamplesPerBlock',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#a41cd06a0c942a1b3f283092b893d0de3',1,'Steinberg::Vst::ProcessSetup']]],

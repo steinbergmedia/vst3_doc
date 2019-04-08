@@ -10,6 +10,5 @@ var searchData=
   ['conststringtable',['ConstStringTable',['../../base/classSteinberg_1_1ConstStringTable.html',1,'Steinberg']]],
   ['controller',['Controller',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html',1,'Steinberg::Vst::NoteExpressionSynth']]],
   ['controllerwithui',['ControllerWithUI',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html',1,'Steinberg::Vst::NoteExpressionSynth']]],
-  ['cpluginfactory',['CPluginFactory',['../../vstsdk/classSteinberg_1_1CPluginFactory.html',1,'Steinberg']]],
   ['cpluginview',['CPluginView',['../../vstsdk/classSteinberg_1_1CPluginView.html',1,'Steinberg']]]
 ];

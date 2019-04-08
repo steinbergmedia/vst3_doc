@@ -1,5 +1,11 @@
 var NAVTREEINDEX2 =
 {
+"fdebug_8h.html#ad0a48883bb586ecd370427352cd3e017":[2,0,8,18],
+"fdebug_8h.html#ad35e7b53a5662120a18c70972419c62c":[2,0,8,26],
+"fdebug_8h.html#ad48f9d61b00fa2397b11eb977c7785dd":[2,0,8,22],
+"fdebug_8h.html#ad4d5ecc14ee9d6837b2e6683db5e0921":[2,0,8,10],
+"fdebug_8h.html#adf0a2e0c60ba7aee4aefe4f0b9a4cf32":[2,0,8,24],
+"fdebug_8h.html#af343b20373ba49a92fce523e948f2ab3":[2,0,8,16],
 "fdebug_8h.html#afb65a67a21fbcdc32ced37642a0ba690":[2,0,8,14],
 "fdebug_8h.html#afe9433f0fc5b657a2f73863c413d8690":[2,0,8,0],
 "fdynlib_8cpp.html":[2,0,9],
@@ -159,8 +165,8 @@ var NAVTREEINDEX2 =
 "functions_enum.html":[1,3,3],
 "functions_eval.html":[1,3,4],
 "functions_f.html":[1,3,0,5],
-"functions_func.html":[1,3,1,0],
 "functions_func.html":[1,3,1],
+"functions_func.html":[1,3,1,0],
 "functions_func_b.html":[1,3,1,1],
 "functions_func_c.html":[1,3,1,2],
 "functions_func_d.html":[1,3,1,3],
@@ -215,10 +221,10 @@ var NAVTREEINDEX2 =
 "index.html#baseOtherUsefulClasses":[6],
 "index.html#baseString":[1],
 "index.html#basefdebug_h":[5],
-"namespaceSteinberg.html":[1,0,0],
 "namespaceSteinberg.html":[0,7,0],
-"namespaceSteinberg_1_1CommandLine.html":[1,0,0,0],
+"namespaceSteinberg.html":[1,0,0],
 "namespaceSteinberg_1_1CommandLine.html":[0,7,0,0],
+"namespaceSteinberg_1_1CommandLine.html":[1,0,0,0],
 "namespaceSteinberg_1_1HexBinary.html":[0,7,0,1],
 "namespaceSteinberg_1_1Singleton.html":[0,7,0,2],
 "namespaceSteinberg_1_1SystemTime.html":[0,7,0,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX2 =
 "structSteinberg_1_1FCloser.html#a2187198e46898e7a63b0db52f9e2bf03":[1,0,0,6,1],
 "structSteinberg_1_1FCloser.html#a370d397cf44fe716a1016d49f41defe1":[1,0,0,6,2],
 "structSteinberg_1_1FCloser.html#a46a490c0e086deff18fe1a1d484b2910":[1,0,0,6,0],
-"structSteinberg_1_1FConditionalBoolSetter.html":[1,0,0,7],
-"structSteinberg_1_1FConditionalBoolSetter.html#a46c5ce3d2063724dc2cac0a21fef7529":[1,0,0,7,0],
-"structSteinberg_1_1FConditionalBoolSetter.html#a619a26a5580c9ea4043a887063b8b6b7":[1,0,0,7,1],
-"structSteinberg_1_1FConditionalBoolSetter.html#a9ace53f30ba43c34f8512bf5e92d2097":[1,0,0,7,2],
-"structSteinberg_1_1FDeleter.html":[1,0,0,8],
-"structSteinberg_1_1FDeleter.html#a8d904032d15002f7232451f551053c29":[1,0,0,8,0],
-"structSteinberg_1_1FDeleter.html#a96acfe8f38200ad7c85bff6c9032fc95":[1,0,0,8,2]
+"structSteinberg_1_1FConditionalBoolSetter.html":[1,0,0,7]
 };

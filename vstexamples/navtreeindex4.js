@@ -1,5 +1,17 @@
 var NAVTREEINDEX4 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a6aa88badc7e8cd93437d2ccf85c589c2":[1,0,0,0,2,11,0,2],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a9d66ddaf312a7a2580a3624fc05860f8":[1,0,0,0,2,11,0,0],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55":[1,0,0,0,2,11,0,3],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#aa508bb2127050ccb3cba6ba84dc09b91":[1,0,0,0,2,11,2],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#ae1393cd500ea7918602c141166ecc592":[1,0,0,0,2,11,1],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html":[1,0,0,0,2,12],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,12,3],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a29aa9aaa9007e7dd3c04058ac99b789e":[1,0,0,0,2,12,0],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,12,6],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,12,5],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a386ee47d5e3d4167555bcbe7e458c50e":[1,0,0,0,2,12,7],
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,12,2],
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4fc43e5d31b41de090f95e23a406e205":[1,0,0,0,2,12,14],
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a60d333d34d9a06bb06b78b69a1a1dd67":[1,0,0,0,2,12,9],
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a6cbe32dd86cefd1a8b182b3ee652e9bf":[1,0,0,0,2,12,11],
@@ -237,17 +249,5 @@ var NAVTREEINDEX4 =
 "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[1,0,0,0,2,26,4],
 "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#ae6dcfa01294dc9910a3cef1d2fdda8fd":[1,0,0,0,2,26,20],
 "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#ae89365c175ccaf9d7770ef280b851770":[1,0,0,0,2,26,11],
-"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#aeab43b16f2fd52c9b88654edcb64db59":[1,0,0,0,2,26,13],
-"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af1251a78af95b174cf6fa123dbe441a7":[1,0,0,0,2,26,8],
-"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af5c922cc1f7054edc9060d83074d7a8f":[1,0,0,0,2,26,10],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html":[1,0,0,0,2,27],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,27,3],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,27,2],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a6773404a49785daf2b48d40ffa022114":[1,0,0,0,2,27,1],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a813cbf9dee7a64708f56160974dd37b0":[1,0,0,0,2,27,5],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[1,0,0,0,2,27,6],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#abc17a4353fdb4409c985b7a056ab1f02":[1,0,0,0,2,27,0],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#aeb78d794ce0bc5812c526a1cc2083d5d":[1,0,0,0,2,27,4],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html":[1,0,0,0,2,28],
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a016abda2855c77dcc1630f9d2f9f8d18":[1,0,0,0,2,28,49]
+"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#aeab43b16f2fd52c9b88654edcb64db59":[1,0,0,0,2,26,13]
 };

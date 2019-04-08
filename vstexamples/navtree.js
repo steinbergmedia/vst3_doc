@@ -40,16 +40,16 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1AGainController.html#a0c25846cfb4cee3a28d6446c4f324877",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html#a9228db732b48ece8b5b734e69b979d10",
-"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a77f12234bacd276ef1f27a6c69fabe36",
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4fc43e5d31b41de090f95e23a406e205",
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a01ab1ef3a4bcdf5f08ef526065518fc5",
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a62c3c6c279f672e5f6ac32ff3a04d133",
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a3026090cef033b689dc36c5f122924f9",
-"classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ab30c622a174639ec92b375db9b2ee56d",
-"globals_h.html",
-"mdaEPianoProcessor_8cpp.html#ae468832efa6adf5e9a96cabd8f878b47",
-"prefetchablesupport_2source_2plugcids_8h.html"
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html#afe0b33e85bc0cd3854f21cb1f3c80f47",
+"classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html#af20521d23db4b37d1443c21346fa73f2",
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a6aa88badc7e8cd93437d2ccf85c589c2",
+"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af1251a78af95b174cf6fa123dbe441a7",
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a813cbf9dee7a64708f56160974dd37b0",
+"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html",
+"classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a04ce053e4cd48d3cf10e0128c0484738",
+"globals_defs_o.html",
+"mdaDetuneProcessor_8cpp.html",
+"pitchnames_2source_2version_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

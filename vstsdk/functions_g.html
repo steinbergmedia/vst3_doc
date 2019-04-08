@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.12</span>
+   &#160;<span id="projectnumber">VST 3.6.13</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -151,6 +151,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <h3><a class="anchor" id="index_g"></a>- g -</h3><ul>
 <li>get()
 : <a class="el" href="classSteinberg_1_1Vst_1_1ParamPoint.html#a81d85b4c1dc3729d33806edc322bbd34">ParamPoint</a>
+, <a class="el" href="structSteinberg_1_1Vst_1_1TestingPluginContext.html#a2a035e60d23215fd5abbd85fa6961bbc">TestingPluginContext</a>
 , <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#adf775aa456b188024706b24ccea0425b">ClassInfo</a>
 , <a class="el" href="classVST3_1_1Hosting_1_1FactoryInfo.html#aa01b1bfd981de3ceb41c30f4c23a3084">FactoryInfo</a>
 , <a class="el" href="classVST3_1_1Hosting_1_1PluginFactory.html#ab400f65393af1a14131cd2714ad04692">PluginFactory</a>
@@ -192,25 +193,17 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getClassID()
 : <a class="el" href="classSteinberg_1_1Vst_1_1PresetFile.html#a0518e18874378e575de0d7a7a56f9023">PresetFile</a>
 </li>
-<li>getClassInfo()
-: <a class="el" href="classSteinberg_1_1CPluginFactory.html#a846571c585d86f37a36ec46acb6feba7">CPluginFactory</a>
-</li>
-<li>getClassInfo2()
-: <a class="el" href="classSteinberg_1_1CPluginFactory.html#a82f3e8be88625a9e528e369974b81097">CPluginFactory</a>
-</li>
-<li>getClassInfoUnicode()
-: <a class="el" href="classSteinberg_1_1CPluginFactory.html#a7c0d301dd81356797c1001f9bbf86707">CPluginFactory</a>
-</li>
 <li>getComponent()
-: <a class="el" href="classSteinberg_1_1Vst_1_1IPlugProvider.html#abec872fb216eae440b5b7de078d464a6">IPlugProvider</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#a7b48e5060e87f05aa6dbe009c49590b3">PlugProvider</a>
+: <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#a7b48e5060e87f05aa6dbe009c49590b3">PlugProvider</a>
 </li>
 <li>getComponentHandler()
 : <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#abc58c5d47a3e00815e1b3c043daeefa3">EditController</a>
 </li>
+<li>getComponentUID()
+: <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#a547929ce1c484ec21872a64c72d22882">PlugProvider</a>
+</li>
 <li>getController()
 : <a class="el" href="classSteinberg_1_1Vst_1_1EditorView.html#ae8428a86e4365479017e33c8bc86152c">EditorView</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1IPlugProvider.html#aaf82c4f26b97f522e6ead97028a3f7c4">IPlugProvider</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#ab3729c4eddeab38f21f7e34ebd18dc25">PlugProvider</a>
 </li>
 <li>getControllerClassId()
@@ -249,9 +242,6 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 </li>
 <li>getFactory()
 : <a class="el" href="classVST3_1_1Hosting_1_1Module.html#af02425e760491b6944e5a9868e9e770e">Module</a>
-</li>
-<li>getFactoryInfo()
-: <a class="el" href="classSteinberg_1_1CPluginFactory.html#a9b6e31f0d8d6ac33f48b48241d0a2359">CPluginFactory</a>
 </li>
 <li>getFloat()
 : <a class="el" href="classSteinberg_1_1Vst_1_1HostAttributeList.html#a652b6cec9cdb02ed407ce375d00039e1">HostAttributeList</a>
@@ -314,39 +304,8 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getName()
 : <a class="el" href="classSteinberg_1_1Vst_1_1HostApplication.html#a7dee101dcc417cd0bb88a3babbca1895">HostApplication</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1ProgramList.html#a83c7c1d26e0f0086b1046e064671741d">ProgramList</a>
+, <a class="el" href="classSteinberg_1_1Vst_1_1TestBase.html#a144500b31544cf7c45c8562ebd9985fe">TestBase</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1Unit.html#a83c7c1d26e0f0086b1046e064671741d">Unit</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstAutomationTest.html#a932e68c15c44957766f4928dae17248b">VstAutomationTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstBusActivationTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstBusActivationTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstBusConsistencyTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstBusConsistencyTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstBusInvalidIndexTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstBusInvalidIndexTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstCheckAudioBusArrangementTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstCheckAudioBusArrangementTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstEditorClassesTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstEditorClassesTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstFlushParamTest2.html#a7b814e618b2f2d2795db6bdfc33678b0">VstFlushParamTest2</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstFlushParamTest3.html#a7b814e618b2f2d2795db6bdfc33678b0">VstFlushParamTest3</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstFlushParamTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstFlushParamTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstInvalidStateTransitionTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstInvalidStateTransitionTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstKeyswitchTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstKeyswitchTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstMidiLearnTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstMidiLearnTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstMidiMappingTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstMidiMappingTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstNoteExpressionTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstProcessFormatTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstProcessFormatTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstProcessInputOverwritingTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstProcessInputOverwritingTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstProcessTailTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstProcessTailTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstProcessTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstProcessTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstProgramInfoTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstProgramInfoTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstRepeatIdenticalStateTransitionTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstRepeatIdenticalStateTransitionTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstScanBussesTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstScanBussesTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstScanParametersTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstScanParametersTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstSilenceFlagsTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstSilenceFlagsTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstSilenceProcessingTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstSilenceProcessingTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstSpeakerArrangementTest.html#a932e68c15c44957766f4928dae17248b">VstSpeakerArrangementTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstSuspendResumeTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstSuspendResumeTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstTerminateInitializeTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstTerminateInitializeTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstTestBase.html#a144500b31544cf7c45c8562ebd9985fe">VstTestBase</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstUnitInfoTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstUnitInfoTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstUnitStructureTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstUnitStructureTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstValidStateTransitionTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstValidStateTransitionTest</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstVariableBlockSizeTest.html#a7b814e618b2f2d2795db6bdfc33678b0">VstVariableBlockSizeTest</a>
 , <a class="el" href="classVST3_1_1Hosting_1_1Module.html#ae97c2724ea480d85272ba2cb5a1da524">Module</a>
 </li>
 <li>getNbReference()
@@ -384,11 +343,9 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="classSteinberg_1_1Vst_1_1EditController.html#a1a882472b7c228eb1f709c7f15b15999">EditController</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1ParameterChanges.html#a1a882472b7c228eb1f709c7f15b15999">ParameterChanges</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1ParameterContainer.html#a0321ac02fa41dfbea9fd1339c7946c8b">ParameterContainer</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstAutomationTest.html#a1a882472b7c228eb1f709c7f15b15999">VstAutomationTest</a>
 </li>
 <li>getParameterData()
 : <a class="el" href="classSteinberg_1_1Vst_1_1ParameterChanges.html#a46ca129ca2f1fe147c7defc0658d7295">ParameterChanges</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1VstAutomationTest.html#a46ca129ca2f1fe147c7defc0658d7295">VstAutomationTest</a>
 </li>
 <li>getParameterId()
 : <a class="el" href="classSteinberg_1_1Vst_1_1ParamChanges.html#a1d82c755fa67c189b94dec5c76121824">ParamChanges</a>
@@ -427,10 +384,6 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 </li>
 <li>getPlugInterfaceSupport()
 : <a class="el" href="classSteinberg_1_1Vst_1_1HostApplication.html#aa5be70d82b7920c483cff0230e293a8b">HostApplication</a>
-</li>
-<li>getPluginUID()
-: <a class="el" href="classSteinberg_1_1Vst_1_1IPlugProvider.html#a49746cff360c676aa909f336b7893056">IPlugProvider</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#aae81ddde67329001e6c1245e46abac8a">PlugProvider</a>
 </li>
 <li>getPoint()
 : <a class="el" href="classSteinberg_1_1Vst_1_1ParamChanges.html#a65b4fe001a665525b4704b6ee3b864ea">ParamChanges</a>
@@ -490,9 +443,6 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getSnapshots()
 : <a class="el" href="classVST3_1_1Hosting_1_1Module.html#a51e2d9832eba2bdb0f129c5bad470150">Module</a>
 </li>
-<li>getSpeakerArrangementName()
-: <a class="el" href="classSteinberg_1_1Vst_1_1VstSpeakerArrangementTest.html#abd98453065a511a13082d5d165005ca9">VstSpeakerArrangementTest</a>
-</li>
 <li>getSpeakerIndex()
 : <a class="el" href="classSteinberg_1_1Vst_1_1SpeakerArray.html#a3f1cae73c7bc34d528fc6985beee5600">SpeakerArray</a>
 </li>
@@ -512,8 +462,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 , <a class="el" href="classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#a5793c3e551b4cf0ee5b4c29adb61d03b">RangeNoteExpressionType</a>
 </li>
 <li>getSubCategories()
-: <a class="el" href="classSteinberg_1_1Vst_1_1IPlugProvider.html#a69046c569d5465800508421d51f7870e">IPlugProvider</a>
-, <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#abf23b404aa6d2db70fcd7d8dd719d622">PlugProvider</a>
+: <a class="el" href="classSteinberg_1_1Vst_1_1PlugProvider.html#a131548654f635c364467a1dd563e6b85">PlugProvider</a>
 </li>
 <li>getTailSamples()
 : <a class="el" href="classSteinberg_1_1Vst_1_1AudioEffect.html#a2f5f13092735afd906695953628a602e">AudioEffect</a>
@@ -541,9 +490,6 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="classSteinberg_1_1Vst_1_1NoteExpressionType.html#a8a56c1da16268a00189b69e670190222">NoteExpressionType</a>
 , <a class="el" href="classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#afccc02c9baeb9a880bd44a480d4ce66a">RangeNoteExpressionType</a>
 </li>
-<li>growClasses()
-: <a class="el" href="classSteinberg_1_1CPluginFactory.html#aee66f1513cbfdd6f722781473b14704a">CPluginFactory</a>
-</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -557,7 +503,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2019 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

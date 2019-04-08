@@ -64,13 +64,6 @@ var hierarchy =
           [ "EditController", "classSteinberg_1_1Vst_1_1EditController.html", null ]
         ] ]
       ] ],
-      [ "IPluginFactory", "../base/classSteinberg_1_1IPluginFactory.html", [
-        [ "IPluginFactory2", "../base/classSteinberg_1_1IPluginFactory2.html", [
-          [ "IPluginFactory3", "../base/classSteinberg_1_1IPluginFactory3.html", [
-            [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", null ]
-          ] ]
-        ] ]
-      ] ],
       [ "IPlugView", "../base/classSteinberg_1_1IPlugView.html", [
         [ "CPluginView", "classSteinberg_1_1CPluginView.html", null ]
       ] ],
@@ -100,13 +93,7 @@ var hierarchy =
         [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", null ]
       ] ],
       [ "IParameterChanges", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterChanges.html", [
-        [ "ParameterChanges", "classSteinberg_1_1Vst_1_1ParameterChanges.html", null ],
-        [ "VstAutomationTest", "classSteinberg_1_1Vst_1_1VstAutomationTest.html", [
-          [ "VstFlushParamTest", "classSteinberg_1_1Vst_1_1VstFlushParamTest.html", [
-            [ "VstFlushParamTest2", "classSteinberg_1_1Vst_1_1VstFlushParamTest2.html", null ],
-            [ "VstFlushParamTest3", "classSteinberg_1_1Vst_1_1VstFlushParamTest3.html", null ]
-          ] ]
-        ] ]
+        [ "ParameterChanges", "classSteinberg_1_1Vst_1_1ParameterChanges.html", null ]
       ] ],
       [ "IParamValueQueue", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParamValueQueue.html", [
         [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html", null ],
@@ -115,7 +102,7 @@ var hierarchy =
       [ "IPlugInterfaceSupport", "../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html", [
         [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", null ]
       ] ],
-      [ "IPlugProvider", "classSteinberg_1_1Vst_1_1IPlugProvider.html", [
+      [ "ITestPlugProvider", "../vstinterfaces/classSteinberg_1_1Vst_1_1ITestPlugProvider.html", [
         [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
       ] ],
       [ "IUnitInfo", "../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html", [
@@ -124,38 +111,8 @@ var hierarchy =
     ] ],
     [ "Module::Snapshot::ImageDesc", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html", null ],
     [ "ITest", null, [
-      [ "VstTestBase", "classSteinberg_1_1Vst_1_1VstTestBase.html", [
-        [ "VstBusActivationTest", "classSteinberg_1_1Vst_1_1VstBusActivationTest.html", null ],
-        [ "VstBusConsistencyTest", "classSteinberg_1_1Vst_1_1VstBusConsistencyTest.html", null ],
-        [ "VstBusInvalidIndexTest", "classSteinberg_1_1Vst_1_1VstBusInvalidIndexTest.html", null ],
-        [ "VstCheckAudioBusArrangementTest", "classSteinberg_1_1Vst_1_1VstCheckAudioBusArrangementTest.html", null ],
-        [ "VstEditorClassesTest", "classSteinberg_1_1Vst_1_1VstEditorClassesTest.html", null ],
-        [ "VstKeyswitchTest", "classSteinberg_1_1Vst_1_1VstKeyswitchTest.html", null ],
-        [ "VstMidiLearnTest", "classSteinberg_1_1Vst_1_1VstMidiLearnTest.html", null ],
-        [ "VstMidiMappingTest", "classSteinberg_1_1Vst_1_1VstMidiMappingTest.html", null ],
-        [ "VstNoteExpressionTest", "classSteinberg_1_1Vst_1_1VstNoteExpressionTest.html", null ],
-        [ "VstProgramInfoTest", "classSteinberg_1_1Vst_1_1VstProgramInfoTest.html", null ],
-        [ "VstScanBussesTest", "classSteinberg_1_1Vst_1_1VstScanBussesTest.html", null ],
-        [ "VstScanParametersTest", "classSteinberg_1_1Vst_1_1VstScanParametersTest.html", null ],
-        [ "VstTerminateInitializeTest", "classSteinberg_1_1Vst_1_1VstTerminateInitializeTest.html", null ],
-        [ "VstTestEnh", "classSteinberg_1_1Vst_1_1VstTestEnh.html", [
-          [ "VstInvalidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstInvalidStateTransitionTest.html", null ],
-          [ "VstProcessTest", "classSteinberg_1_1Vst_1_1VstProcessTest.html", [
-            [ "VstAutomationTest", "classSteinberg_1_1Vst_1_1VstAutomationTest.html", null ],
-            [ "VstProcessFormatTest", "classSteinberg_1_1Vst_1_1VstProcessFormatTest.html", null ],
-            [ "VstProcessInputOverwritingTest", "classSteinberg_1_1Vst_1_1VstProcessInputOverwritingTest.html", null ],
-            [ "VstProcessTailTest", "classSteinberg_1_1Vst_1_1VstProcessTailTest.html", null ],
-            [ "VstSilenceFlagsTest", "classSteinberg_1_1Vst_1_1VstSilenceFlagsTest.html", null ],
-            [ "VstSilenceProcessingTest", "classSteinberg_1_1Vst_1_1VstSilenceProcessingTest.html", null ],
-            [ "VstSpeakerArrangementTest", "classSteinberg_1_1Vst_1_1VstSpeakerArrangementTest.html", null ],
-            [ "VstVariableBlockSizeTest", "classSteinberg_1_1Vst_1_1VstVariableBlockSizeTest.html", null ]
-          ] ],
-          [ "VstRepeatIdenticalStateTransitionTest", "classSteinberg_1_1Vst_1_1VstRepeatIdenticalStateTransitionTest.html", null ],
-          [ "VstSuspendResumeTest", "classSteinberg_1_1Vst_1_1VstSuspendResumeTest.html", null ],
-          [ "VstValidStateTransitionTest", "classSteinberg_1_1Vst_1_1VstValidStateTransitionTest.html", null ]
-        ] ],
-        [ "VstUnitInfoTest", "classSteinberg_1_1Vst_1_1VstUnitInfoTest.html", null ],
-        [ "VstUnitStructureTest", "classSteinberg_1_1Vst_1_1VstUnitStructureTest.html", null ]
+      [ "TestBase", "classSteinberg_1_1Vst_1_1TestBase.html", [
+        [ "TestEnh", "classSteinberg_1_1Vst_1_1TestEnh.html", null ]
       ] ]
     ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],
@@ -173,6 +130,8 @@ var hierarchy =
     ] ],
     [ "Module::Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", null ],
     [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", null ],
+    [ "TestDefaults", "structSteinberg_1_1Vst_1_1TestDefaults.html", null ],
+    [ "TestingPluginContext", "structSteinberg_1_1Vst_1_1TestingPluginContext.html", null ],
     [ "<UIApplicationDelegate>", null, [
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]
     ] ],

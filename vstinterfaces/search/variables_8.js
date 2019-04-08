@@ -233,6 +233,7 @@ var searchData=
   ['kinstrument',['kInstrument',['../group__plugType.html#ga93cb7a7100ac96cfafceb6216770c42d',1,'Steinberg::Vst::PlugType::kInstrument()'],['../group__presetAttributes.html#ga93cb7a7100ac96cfafceb6216770c42d',1,'Steinberg::Vst::PresetAttributes::kInstrument()']]],
   ['kinstrumentdrum',['kInstrumentDrum',['../group__plugType.html#gadf01865c24020885cb974f200403351c',1,'Steinberg::Vst::PlugType']]],
   ['kinstrumentexternal',['kInstrumentExternal',['../group__plugType.html#gaf0e00ca5cee8c5b4319fb7789bb4b919',1,'Steinberg::Vst::PlugType']]],
+  ['kinstrumentpiano',['kInstrumentPiano',['../group__plugType.html#gace8c5d52ef6b889593c8eccd7bed6bfe',1,'Steinberg::Vst::PlugType']]],
   ['kinstrumentsampler',['kInstrumentSampler',['../group__plugType.html#ga1a96d4882dec6d6cc809c6881456dafa',1,'Steinberg::Vst::PlugType']]],
   ['kinstrumentsynth',['kInstrumentSynth',['../group__plugType.html#ga42c97cd14b97a2ea3052cc62ecc833f3',1,'Steinberg::Vst::PlugType']]],
   ['kinstrumentsynthsampler',['kInstrumentSynthSampler',['../group__plugType.html#gaa63699396d2e24978ad7a0f32f1a7187',1,'Steinberg::Vst::PlugType']]],

@@ -16,7 +16,6 @@ var searchData=
   ['eventoutputs',['eventOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::AudioEffect::eventOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::SingleComponentEffect::eventOutputs()']]],
   ['eventpos',['eventPos',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a5180288363feed1a874e44792301aab9',1,'Steinberg::Vst::mda::EPianoProcessor::eventPos()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a5180288363feed1a874e44792301aab9',1,'Steinberg::Vst::mda::PianoProcessor::eventPos()']]],
   ['events',['events',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
-  ['everynsamples',['everyNSamples',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#af5eee01da8b2dc7a966e3bb60011c55f',1,'Steinberg::Vst::VstAutomationTest']]],
   ['expo',['expo',['../classSteinberg_1_1Vst_1_1LogScale.html#a80421b87027aba8fe8a854b99080c633',1,'Steinberg::Vst::LogScale']]],
   ['expoinv',['expoInv',['../classSteinberg_1_1Vst_1_1LogScale.html#abc50abe8ae9ffa1c61dc23eed88b1335',1,'Steinberg::Vst::LogScale']]]
 ];

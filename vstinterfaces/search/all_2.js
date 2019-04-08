@@ -9,6 +9,7 @@ var searchData=
   ['bottom',['bottom',['../../base/structSteinberg_1_1ViewRect.html#a056cba400137ab9db43fdc7da2132a40',1,'Steinberg::ViewRect']]],
   ['bound',['Bound',['../../base/namespaceSteinberg.html#a1d0f063a19e621ae10e8e532e0ce3395',1,'Steinberg']]],
   ['boundto',['boundTo',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Helpers.html#af6b5e0825fbe7c215d5e05b118ab2e1e',1,'Steinberg::Vst::Helpers']]],
+  ['buffersareequal',['buffersAreEqual',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#ab601a897082adf69326ab72c789e3471',1,'Steinberg::Vst::TestDefaults']]],
   ['bufferstream',['BufferStream',['../../vstsdk/classSteinberg_1_1Vst_1_1BufferStream.html#a2e9907a25f5c5e10eaa2489fb059a022',1,'Steinberg::Vst::BufferStream']]],
   ['bufferstream',['BufferStream',['../../vstsdk/classSteinberg_1_1Vst_1_1BufferStream.html',1,'Steinberg::Vst']]],
   ['bus',['Bus',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html',1,'Steinberg::Vst']]],
@@ -22,9 +23,8 @@ var searchData=
   ['buslist',['BusList',['../../vstsdk/classSteinberg_1_1Vst_1_1BusList.html#a5ba12052fe11364762c6b63f2e075961',1,'Steinberg::Vst::BusList']]],
   ['bustype',['busType',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html#a19466623a694c883892184cab092ebfc',1,'Steinberg::Vst::AudioBus::busType()'],['../structSteinberg_1_1Vst_1_1BusInfo.html#a795177c339bd0b25de0ea4189aa6c893',1,'Steinberg::Vst::BusInfo::busType()'],['../group__vst3typedef.html#gaa6029db01759d30cfcb3504b84d5d04f',1,'Steinberg::Vst::BusType()']]],
   ['bustypes',['BusTypes',['../group__vstBus.html#ga4849e8fa0da1b39bd3e0af87b441675a',1,'Steinberg::Vst']]],
-  ['bypassid',['bypassId',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a60af319012a87c6e94f5251843612a51',1,'Steinberg::Vst::VstAutomationTest']]],
-  ['bypassprocessor',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#a65dfc5518bfcfa58c79cf25488415a40',1,'Steinberg::Vst::BypassProcessor']]],
   ['bypassprocessor',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'Steinberg::Vst']]],
+  ['bypassprocessor',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#a65dfc5518bfcfa58c79cf25488415a40',1,'Steinberg::Vst::BypassProcessor']]],
   ['bytes',['bytes',['../structSteinberg_1_1Vst_1_1DataEvent.html#ab0e4bfcd0606119dacd07fd9388de747',1,'Steinberg::Vst::DataEvent']]],
   ['basic_20interfaces',['Basic Interfaces',['../../base/group__pluginBase.html',1,'']]]
 ];

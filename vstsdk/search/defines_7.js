@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['max_5fblock_5fsize',['MAX_BLOCK_SIZE',['../vsttestsuite_8cpp.html#aa8bad2cd89820cdaf2a7f26392774014',1,'vsttestsuite.cpp']]],
-  ['medium_5ftitle_5flimit',['MEDIUM_TITLE_LIMIT',['../vstrepresentation_8cpp.html#a5f06ae4658965cf3d2cf60606969f20c',1,'vstrepresentation.cpp']]]
+  ['use_5fole',['USE_OLE',['../module__win32_8cpp.html#af1ce76814dd30ab1a712aaee424a9525',1,'module_win32.cpp']]]
 ];

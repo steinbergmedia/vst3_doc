@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getstate',['getState',['../vstsinglecomponenteffect_8cpp.html#ac0b53834dee70ce2548a1416cceb35ab',1,'getState():&#160;vstsinglecomponenteffect.cpp'],['../vstsinglecomponenteffect_8h.html#ac0b53834dee70ce2548a1416cceb35ab',1,'getState():&#160;vstsinglecomponenteffect.h']]]
+  ['medium_5ftitle_5flimit',['MEDIUM_TITLE_LIMIT',['../vstrepresentation_8cpp.html#a5f06ae4658965cf3d2cf60606969f20c',1,'vstrepresentation.cpp']]]
 ];

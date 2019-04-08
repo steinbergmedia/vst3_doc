@@ -33,7 +33,7 @@ var searchData=
   ['noteexpressiontypecontainer',['NoteExpressionTypeContainer',['../../vstsdk/classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html',1,'Steinberg::Vst']]],
   ['noteexpressiontypeflags',['NoteExpressionTypeFlags',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1de059ac90343b011aac2c14646d7ec8',1,'Steinberg::Vst::NoteExpressionTypeInfo']]],
   ['noteexpressiontypeid',['noteExpressionTypeID',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMap.html#ab0906976199e1a43b097ead682ca228f',1,'Steinberg::Vst::PhysicalUIMap::noteExpressionTypeID()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e',1,'Steinberg::Vst::NoteExpressionTypeID()']]],
-  ['noteexpressiontypeids',['NoteExpressionTypeIds',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954',1,'Steinberg::Vst::NoteExpressionSynth::Controller::NoteExpressionTypeIds()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#ad0ffd0330ad7b273e149549dc3fc394f',1,'Steinberg::Vst::NoteExpressionTypeIDs()']]],
+  ['noteexpressiontypeids',['NoteExpressionTypeIds',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954',1,'Steinberg::Vst::NoteExpressionSynth::Controller::NoteExpressionTypeIds()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310',1,'Steinberg::Vst::NoteExpressionTypeIDs()']]],
   ['noteexpressiontypeinfo',['NoteExpressionTypeInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html',1,'Steinberg::Vst']]],
   ['noteexpressionvalue',['NoteExpressionValue',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a9e134142463a8ca477018e7f2c3220f5',1,'Steinberg::Vst']]],
   ['noteexpressionvaluedescription',['NoteExpressionValueDescription',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html',1,'Steinberg::Vst']]],
@@ -64,10 +64,12 @@ var searchData=
   ['num',['num',['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a6208dcc3a58e480b5b6d6bf53f76f984',1,'Steinberg::Vst::mda::TrackerProcessor']]],
   ['num_5ffilter_5ftype',['NUM_FILTER_TYPE',['../note__expression__synth__controller_8h.html#a3e41ba21c7275da72ab1d028c2ae6c3a',1,'note_expression_synth_controller.h']]],
   ['num_5ftuning_5frange',['NUM_TUNING_RANGE',['../note__expression__synth__controller_8h.html#a175afda9e102dad81527e8286041df73',1,'note_expression_synth_controller.h']]],
+  ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
   ['numchannels',['numChannels',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
+  ['numiterations',['numIterations',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],
   ['numoutputs',['numOutputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a',1,'Steinberg::Vst::ProcessData']]],
-  ['numparams',['numParams',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#a9142236c5e313083fb82c1d4673083d6',1,'Steinberg::Vst::VstAutomationTest::numParams()'],['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a43b565fdb49cf57214b8103f9b5d3d37',1,'Steinberg::Vst::mda::BaseProcessor::numParams()']]],
+  ['numparams',['numParams',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a43b565fdb49cf57214b8103f9b5d3d37',1,'Steinberg::Vst::mda::BaseProcessor']]],
   ['numsamples',['numSamples',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26',1,'Steinberg::Vst::ProcessData']]],
   ['numtestsfailed',['numTestsFailed',['../classSteinberg_1_1Vst_1_1Validator.html#a04333b79129a2a6fbeb8927dcdf9c361',1,'Steinberg::Vst::Validator']]],
   ['numtestspassed',['numTestsPassed',['../classSteinberg_1_1Vst_1_1Validator.html#ad88cf3c988d08f5f55d36e4394f489fd',1,'Steinberg::Vst::Validator']]],
@@ -79,6 +81,6 @@ var searchData=
   ['plugcontroller_2eh',['plugcontroller.h',['../note__expression__text_2source_2plugcontroller_8h.html',1,'']]],
   ['plugentry_2ecpp',['plugentry.cpp',['../note__expression__text_2source_2plugentry_8cpp.html',1,'']]],
   ['plugparamids_2eh',['plugparamids.h',['../note__expression__text_2source_2plugparamids_8h.html',1,'']]],
-  ['version_2eh',['version.h',['../note__expression__text_2source_2version_8h.html',1,'']]],
-  ['version_2eh',['version.h',['../note__expression__synth_2source_2version_8h.html',1,'']]]
+  ['version_2eh',['version.h',['../note__expression__synth_2source_2version_8h.html',1,'']]],
+  ['version_2eh',['version.h',['../note__expression__text_2source_2version_8h.html',1,'']]]
 ];

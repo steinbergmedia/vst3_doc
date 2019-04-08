@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['macros_20for_20defining_20the_20class_20factory',['Macros for defining the class factory',['../../vstsdk/group__classFactoryMacros.html',1,'']]],
   ['m_5fpi',['M_PI',['../filter_8h.html#ae71449b1cc6e6250b91f539153a7a0d3',1,'filter.h']]],
   ['m_5fpi_5fmul_5f2',['M_PI_MUL_2',['../note__expression__synth__voice_8h.html#a2b12f538abaa78f3020c16a431d4eeb5',1,'note_expression_synth_voice.h']]],
   ['mactive',['mActive',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
@@ -18,7 +17,7 @@ var searchData=
   ['max',['max',['../classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#afdd72a8595565398789f66327935d7d0',1,'Steinberg::Vst::mda::ShepardProcessor::max()'],['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#afdd72a8595565398789f66327935d7d0',1,'Steinberg::Vst::mda::TrackerProcessor::max()'],['../../base/namespaceSteinberg.html#a0f480f7384f085c2606eff5f310ad194',1,'Steinberg::Max()']]],
   ['max_5frelease_5ftime_5fsec',['MAX_RELEASE_TIME_SEC',['../note__expression__synth__controller_8h.html#a55d209b7b8449c2dde8d7c4545eddd64',1,'note_expression_synth_controller.h']]],
   ['max_5fvoices',['MAX_VOICES',['../note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5',1,'note_expression_synth_controller.h']]],
-  ['maxclasscount',['maxClassCount',['../../vstsdk/classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88',1,'Steinberg::CPluginFactory']]],
+  ['maxblocksize',['maxBlockSize',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a7e2b5ed168b97046059a1ada78a28d6f',1,'Steinberg::Vst::TestDefaults']]],
   ['maximum',['maximum',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf',1,'Steinberg::Vst::NoteExpressionValueDescription']]],
   ['maxplain',['maxPlain',['../../vstsdk/classSteinberg_1_1Vst_1_1RangeParameter.html#aa8344438020842aadfa3cb0480c6fd0b',1,'Steinberg::Vst::RangeParameter']]],
   ['maxsamplesperblock',['maxSamplesPerBlock',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#a41cd06a0c942a1b3f283092b893d0de3',1,'Steinberg::Vst::ProcessSetup']]],
@@ -160,7 +159,7 @@ var searchData=
   ['mdasubsynthcontroller_2eh',['mdaSubSynthController.h',['../mdaSubSynthController_8h.html',1,'']]],
   ['mdasubsynthprocessor_2ecpp',['mdaSubSynthProcessor.cpp',['../mdaSubSynthProcessor_8cpp.html',1,'']]],
   ['mdasubsynthprocessor_2eh',['mdaSubSynthProcessor.h',['../mdaSubSynthProcessor_8h.html',1,'']]],
-  ['mdatabrowser',['mDataBrowser',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#aeb4bf4547cee8727b47753ee5fefaeeb',1,'Steinberg::Vst::HostCheckerController']]],
+  ['mdatabrowsermap',['mDataBrowserMap',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#afc56b230d780947eb7b477efb0e055f0',1,'Steinberg::Vst::HostCheckerController']]],
   ['mdatalkboxcontroller_2ecpp',['mdaTalkBoxController.cpp',['../mdaTalkBoxController_8cpp.html',1,'']]],
   ['mdatalkboxcontroller_2eh',['mdaTalkBoxController.h',['../mdaTalkBoxController_8h.html',1,'']]],
   ['mdatalkboxprocessor_2ecpp',['mdaTalkBoxProcessor.cpp',['../mdaTalkBoxProcessor_8cpp.html',1,'']]],

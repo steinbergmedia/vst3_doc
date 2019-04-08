@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['channel_5fis_5fsilent',['CHANNEL_IS_SILENT',['../vsttestsuite_8cpp.html#a9ec5fd3351f6ad4f32994fd74215fb76',1,'vsttestsuite.cpp']]]
+  ['end_5ftag_5fstring',['END_TAG_STRING',['../vstrepresentation_8cpp.html#a7e9b782fde8cf593b205b178f7796270',1,'vstrepresentation.cpp']]]
 ];

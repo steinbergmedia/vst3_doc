@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['uid',['UID',['../../vstsdk/structVST3_1_1UID.html',1,'VST3']]],
-  ['unit',['Unit',['../../vstsdk/classSteinberg_1_1Vst_1_1Unit.html',1,'Steinberg::Vst']]],
-  ['unitinfo',['UnitInfo',['../structSteinberg_1_1Vst_1_1UnitInfo.html',1,'Steinberg::Vst']]],
-  ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
-  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
+  ['testbase',['TestBase',['../../vstsdk/classSteinberg_1_1Vst_1_1TestBase.html',1,'Steinberg::Vst']]],
+  ['testdefaults',['TestDefaults',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html',1,'Steinberg::Vst']]],
+  ['testenh',['TestEnh',['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html',1,'Steinberg::Vst']]],
+  ['testingplugincontext',['TestingPluginContext',['../../vstsdk/structSteinberg_1_1Vst_1_1TestingPluginContext.html',1,'Steinberg::Vst']]]
 ];

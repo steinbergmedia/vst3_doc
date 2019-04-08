@@ -62,7 +62,6 @@ var files =
       [ "ParameterQueueValue", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue" ],
       [ "ParameterChange", "structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html", "structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange" ]
     ] ],
-    [ "pluginfactoryvst3.h", "pluginfactoryvst3_8h.html", "pluginfactoryvst3_8h" ],
     [ "pluginterfacesupport.cpp", "pluginterfacesupport_8cpp.html", null ],
     [ "pluginterfacesupport.h", "pluginterfacesupport_8h.html", null ],
     [ "pluginview.h", "pluginview_8h.html", null ],
@@ -84,7 +83,10 @@ var files =
     [ "SettingsViewController.mm", "SettingsViewController_8mm.html", "SettingsViewController_8mm" ],
     [ "stringconvert.cpp", "stringconvert_8cpp.html", "stringconvert_8cpp" ],
     [ "stringconvert.h", "stringconvert_8h.html", "stringconvert_8h" ],
+    [ "testbase.cpp", "testbase_8cpp.html", "testbase_8cpp" ],
+    [ "testbase.h", "testbase_8h.html", "testbase_8h" ],
     [ "uid.h", "uid_8h.html", "uid_8h" ],
+    [ "usediids.cpp", "usediids_8cpp.html", null ],
     [ "vst2wrapper.cpp", "vst2wrapper_8cpp.html", null ],
     [ "vst2wrapper.h", "vst2wrapper_8h.html", null ],
     [ "vst2wrapper.sdk.cpp", "vst2wrapper_8sdk_8cpp.html", null ],
@@ -129,6 +131,6 @@ var files =
       [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", "classSteinberg_1_1Vst_1_1SpeakerArray" ]
     ] ],
     [ "vststructsizecheck.h", "vststructsizecheck_8h.html", "vststructsizecheck_8h" ],
-    [ "vsttestsuite.cpp", "vsttestsuite_8cpp.html", "vsttestsuite_8cpp" ],
-    [ "vsttestsuite.h", "vsttestsuite_8h.html", "vsttestsuite_8h" ]
+    [ "vsttestsuite.cpp", "vsttestsuite_8cpp.html", null ],
+    [ "vsttestsuite.h", "vsttestsuite_8h.html", null ]
 ];

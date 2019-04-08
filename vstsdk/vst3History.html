@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.12</span>
+   &#160;<span id="projectnumber">VST 3.6.13</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -104,6 +104,38 @@ $(document).ready(function(){initNavTree('vst3History.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>All released Versions with changes and dates</p>
+<h1><a class="anchor" id="rev3613"></a>
+Version 3.6.13 (2019/04/08)</h1>
+<ul>
+<li><a href="../../vstgui4/vstgui/Documentation/index.html" target="content">VSTGUI 4.8</a></li>
+<li>Interfaces Changes:<ul>
+<li>new PluginType kInstrumentPiano (Instrument for Piano sounds)</li>
+</ul>
+</li>
+<li>cmake:<ul>
+<li>small refactoring</li>
+<li>add Visual Studio 2019 support</li>
+</ul>
+</li>
+<li>Samples:<ul>
+<li>add some more checks in <a href="../vstexamples/index.html" target="HostChecker">HostChecker Plug-in</a></li>
+<li>add some debug output for editorhost</li>
+</ul>
+</li>
+<li>Plug-in Wrappers:<ul>
+<li>AAX Wrapper (<a class="el" href="AAXWrapper.html">VST 3 - AAX Wrapper</a>):<ul>
+<li>loading of preset should not overwrite the current Bypass state</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>VST3PluginTestHost: <a class="el" href="applications.html#vstTestHost">VST 3 Plug-in Test Host</a><ul>
+<li>support of IPlugInterfaceSupport</li>
+<li>support of MPE</li>
+<li>possibility to open 2 times the same Plug-in editor</li>
+</ul>
+</li>
+</ul>
 <h1><a class="anchor" id="rev3612"></a>
 Version 3.6.12 (2018/12/03)</h1>
 <ul>
@@ -114,10 +146,10 @@ Version 3.6.12 (2018/12/03)</h1>
 </ul>
 </li>
 <li>Interfaces Changes:<ul>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html">LegacyMIDICCOutEvent</a> (Plug-in): allow a Plug-in to generate MIDI CC as output event.</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn.html">IMidiLearn</a> (Plug-in): allow a Plug-in to get the currently live playing MIDI CC to implement custom MIDI learning.</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html">IPlugInterfaceSupport</a> (Host): allow a Plug-in to ask the host if a given Plug-in interface is supported/used by the host.</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html">IVst3WrapperMPESupport</a> (Wrapper): allow a Plug-in to setup MPE support in wrappers.</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html">LegacyMIDICCOutEvent</a> (Plug-in): allow a Plug-in to generate MIDI CC as output event.</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn.html">IMidiLearn</a> (Plug-in): allow a Plug-in to get the currently live playing MIDI CC to implement custom MIDI learning.</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html">IPlugInterfaceSupport</a> (Host): allow a Plug-in to ask the host if a given Plug-in interface is supported/used by the host.</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html">IVst3WrapperMPESupport</a> (Wrapper): allow a Plug-in to setup MPE support in wrappers.</li>
 </ul>
 </li>
 <li>cmake:<ul>
@@ -128,14 +160,14 @@ Version 3.6.12 (2018/12/03)</h1>
 </ul>
 </li>
 <li>Samples:<ul>
-<li>New LegacyMIDICCOut <a class="el" href="namespaceVST3.html">VST3</a> Plug-in showing the use of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html">LegacyMIDICCOutEvent</a></li>
-<li>Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn.html">IMidiLearn</a> support for NoteExpressionSynth</li>
+<li>New LegacyMIDICCOut <a class="el" href="namespaceVST3.html">VST3</a> Plug-in showing the use of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html">LegacyMIDICCOutEvent</a></li>
+<li>Add <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn.html">IMidiLearn</a> support for NoteExpressionSynth</li>
 <li>Add Audio Unit v3 NoteExpressionSynth example with MPE support</li>
 </ul>
 </li>
 <li>Plug-in Wrappers:<ul>
 <li>Audio Unit v3 (AUv3) Wrapper (<a class="el" href="AUv3Wrapper.html">VST 3 - Audio Unit v3 Wrapper</a>):<ul>
-<li>out of the box MPE support. As MPE is a limited subset of the Note Expression feature, the three expressions are simply mapped to the note expressions returned via <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html">INoteExpressionPhysicalUIMapping</a> interface.</li>
+<li>out of the box MPE support. As MPE is a limited subset of the Note Expression feature, the three expressions are simply mapped to the note expressions returned via <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html">INoteExpressionPhysicalUIMapping</a> interface.</li>
 <li>note that you must have certificates to sign on macOS/iOS for AUv3.</li>
 <li>complete folder restructuring for easy adaption</li>
 </ul>
@@ -171,7 +203,7 @@ Version 3.6.11 (2018/10/22)</h1>
 <li>New icon for <a class="el" href="namespaceVST3.html">VST3</a> bundles: VST_Logo_Steinberg.ico and VST_Logo_Steinberg.icns (located in VST_SDK/VST3_SDK/doc/artwork folder)</li>
 <li>Interfaces Changes:<ul>
 <li>VST2 interface not anymore available!</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html">Steinberg::Vst::INoteExpressionPhysicalUIMapping</a> (Plug-in): allowing the host to retrieve the preferred physical mapping associated to note expression supported by the Plug-in.</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html">Steinberg::Vst::INoteExpressionPhysicalUIMapping</a> (Plug-in): allowing the host to retrieve the preferred physical mapping associated to note expression supported by the Plug-in.</li>
 </ul>
 </li>
 <li>cmake:<ul>
@@ -198,8 +230,8 @@ Version 3.6.11 (2018/10/22)</h1>
 <h1><a class="anchor" id="rev3610"></a>
 Version 3.6.10 (2018/06/11)</h1>
 <ul>
-<li>New definition of Plug-in format for Windows including icon support (<a class="el" href="namespaceVST3.html">VST3</a> Bundle: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vst3loc.html">VST 3 Locations / Format</a>)</li>
-<li>Support of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vst3loc.html#snapshots">Snapshots</a> inside the <a class="el" href="namespaceVST3.html">VST3</a> Bundle</li>
+<li>New definition of Plug-in format for Windows including icon support (<a class="el" href="namespaceVST3.html">VST3</a> Bundle: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vst3loc.html">VST 3 Locations / Format</a>)</li>
+<li>Support of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vst3loc.html#snapshots">Snapshots</a> inside the <a class="el" href="namespaceVST3.html">VST3</a> Bundle</li>
 <li>cmake:<ul>
 <li>adapt cmake files for better integration of users projects</li>
 <li>fix support Universal Binary for AudioUnit</li>
@@ -238,14 +270,14 @@ Version 3.6.9 (2018/03/01)</h1>
 <li>LINUX =&gt; SMTG_OS_LINUX</li>
 </ul>
 </li>
-<li>extract Speaker Arrangement from <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vsttypes_8h.html">vsttypes.h</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vstspeaker_8h.html">vstspeaker.h</a></li>
+<li>extract Speaker Arrangement from <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vsttypes_8h.html">vsttypes.h</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vstspeaker_8h.html">vstspeaker.h</a></li>
 <li>new kNoParamId constant for uninitialized parameter id</li>
 </ul>
 </li>
 <li>Samples:<ul>
 <li>fix Validator State test</li>
 <li>NoteExpressionSynth uses the new KeyboardView</li>
-<li>New HelloWorld <a class="el" href="namespaceVST3.html">VST3</a> Plug-ins (template): <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/addownplugs.html">How to add/create your own VST 3 Plug-ins</a></li>
+<li>New HelloWorld <a class="el" href="namespaceVST3.html">VST3</a> Plug-ins (template): <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/addownplugs.html">How to add/create your own VST 3 Plug-ins</a></li>
 </ul>
 </li>
 <li>Plug-in Wrappers:<ul>
@@ -268,7 +300,7 @@ Version 3.6.8 (2017/11/08)</h1>
 <li>This SDK version required compilers supporting C++11. It requires on Windows Visual Studio 2015 minimum!</li>
 <li>Linux support in Beta</li>
 <li>Interfaces Changes:<ul>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandlerBusActivation.html">Steinberg::Vst::IComponentHandlerBusActivation</a> (Host): allowing a Plug-in to request the host to activate or deactivate a specific bus (useful for instrument with multiple outputs)</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandlerBusActivation.html">Steinberg::Vst::IComponentHandlerBusActivation</a> (Host): allowing a Plug-in to request the host to activate or deactivate a specific bus (useful for instrument with multiple outputs)</li>
 </ul>
 </li>
 <li>New Flags/Enums:<ul>
@@ -293,9 +325,9 @@ Version 3.6.8 (2017/11/08)</h1>
 <h1><a class="anchor" id="rev367"></a>
 Version 3.6.7 (2017/03/03)</h1>
 <ul>
-<li>Preview Linux support (check <a href="https://sdk.steinberg.net">https://sdk.steinberg.net</a> for discussion): <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/linuxSetup.html">Setup Linux for building VST 3 Plug-ins</a></li>
+<li>Preview Linux support (check <a href="https://sdk.steinberg.net">https://sdk.steinberg.net</a> for discussion): <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/linuxSetup.html">Setup Linux for building VST 3 Plug-ins</a></li>
 <li>Licensing has changed! Please read the new <a class="el" href="vst3License.html">VST 3 Licensing Issues</a>.</li>
-<li>Use cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a></li>
+<li>Use cmake as project generator: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/cmakeUse.html">How to use cmake for Building VST 3 Plug-ins</a></li>
 <li>This is the last version of the SDK supporting C++98, future versions will used C++11.</li>
 <li>Samples:<ul>
 <li>New VST 3 <a href="../vstexamples/index.html" target="content">Host implementation example</a>:<ul>
@@ -387,17 +419,17 @@ Version 3.6.6 (2016/06/17)</h1>
 Version 3.6.5 (2015/08/28)</h1>
 <ul>
 <li>Interfaces Changes:<ul>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface: informing the Plug-in about the channel in which it is instanciated (name, color...)</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface: allowing a Plug-in to inform the host that it does not support prefetch/ASIO Guard (could be dynamically)</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitHandler2.html">Steinberg::Vst::IUnitHandler2</a> interface: allowing a Plug-in to inform the host that an assignment Unit-Bus defined by IUnitInfo::getUnitByBus has changed</li>
-<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAutomationState.html">Steinberg::Vst::IAutomationState</a> interface: informing the Plug-in about its current automation state</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface: informing the Plug-in about the channel in which it is instanciated (name, color...)</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface: allowing a Plug-in to inform the host that it does not support prefetch/ASIO Guard (could be dynamically)</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitHandler2.html">Steinberg::Vst::IUnitHandler2</a> interface: allowing a Plug-in to inform the host that an assignment Unit-Bus defined by IUnitInfo::getUnitByBus has changed</li>
+<li>New <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAutomationState.html">Steinberg::Vst::IAutomationState</a> interface: informing the Plug-in about its current automation state</li>
 <li>use "#pragma once" instead of "#ifndef"</li>
 </ul>
 </li>
 <li>Samples:<ul>
 <li>New VST 3 <a href="../vstexamples/index.html" target="content">Plug-ins examples</a>:<ul>
-<li>New <b>VST 3 Plug-in</b> ChannelContext showing how <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface is working</li>
-<li>New <b>VST 3 Plug-in</b> PrefetchableSupport showing how <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface is working</li>
+<li>New <b>VST 3 Plug-in</b> ChannelContext showing how <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html">Steinberg::Vst::ChannelContext::IInfoListener</a> interface is working</li>
+<li>New <b>VST 3 Plug-in</b> PrefetchableSupport showing how <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IPrefetchableSupport.html">Steinberg::Vst::IPrefetchableSupport</a> interface is working</li>
 </ul>
 </li>
 <li>"VST3 Host Checker" Plug-in updated with new checks</li>
@@ -425,8 +457,8 @@ Version 3.6.5 (2015/08/28)</h1>
 Version 3.6.0 (2013/11/22)</h1>
 <ul>
 <li>Interfaces Changes:<ul>
-<li>Preset meta information via <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IStreamAttributes.html">Steinberg::Vst::IStreamAttributes</a></li>
-<li>New Event Types: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html">Steinberg::Vst::ChordEvent</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html">Steinberg::Vst::ScaleEvent</a></li>
+<li>Preset meta information via <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IStreamAttributes.html">Steinberg::Vst::IStreamAttributes</a></li>
+<li>New Event Types: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html">Steinberg::Vst::ChordEvent</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html">Steinberg::Vst::ScaleEvent</a></li>
 </ul>
 </li>
 <li>Plug-in Wrappers:<ul>
@@ -507,7 +539,7 @@ Version 3.5.2 (2012/09/25)</h1>
 </ul>
 </li>
 <li>Some documentation changes<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterFinder.html">Steinberg::Vst::IParameterFinder</a> : To enable important functionalities (like AI Knob) a recommendation to implement this interface was added.</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterFinder.html">Steinberg::Vst::IParameterFinder</a> : To enable important functionalities (like AI Knob) a recommendation to implement this interface was added.</li>
 <li>The <a class="el" href="namespaceVST3.html">VST3</a> Plug-in locations priority has been changed: Application level should be scanned from host after Global level.</li>
 </ul>
 </li>
@@ -517,7 +549,7 @@ Version 3.5.2 (2012/09/25)</h1>
 Version 3.5.1 (2011/11/11)</h1>
 <ul>
 <li>Interfaces Changes:<ul>
-<li>due to a missing calling convention in IContextMenu interfaces, we had to generate new iids for this set of interfaces, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a> hosts will be updated (from 6.0.5) in order to support correctly this interface set. The old interfaces when already used will continue to be supported in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a> hosts. Sorry for this issue...</li>
+<li>due to a missing calling convention in IContextMenu interfaces, we had to generate new iids for this set of interfaces, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a> hosts will be updated (from 6.0.5) in order to support correctly this interface set. The old interfaces when already used will continue to be supported in <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a> hosts. Sorry for this issue...</li>
 </ul>
 </li>
 <li>Helpers Classes:<ul>
@@ -562,19 +594,19 @@ Version 3.5.1 (2011/11/11)</h1>
 Version 3.5.0 (2011/02/04)</h1>
 <ul>
 <li>New Interfaces:<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionController.html">Steinberg::Vst::INoteExpressionController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/noteExpression.html">Note Expression Support</a>.</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IKeyswitchController.html">Steinberg::Vst::IKeyswitchController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/keyswitch.html">Key Switch Support</a> (used for building VST Expression Map in Cubase 6 for example).</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IXmlRepresentationController.html">Steinberg::Vst::IXmlRepresentationController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/representation.html">Remote Representation of Parameters Support</a> (allows to define different parameter mappings for different remotes device).</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html">Steinberg::Vst::IEditControllerHostEditing</a> : Parameter editing from host/remote control (better support of linked parameters when editing from remote control)</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler3.html">Steinberg::Vst::IComponentHandler3</a> / <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenu.html">Steinberg::Vst::IContextMenu</a> / <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html">Steinberg::Vst::IContextMenuTarget</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/contextmenu.html">Context Menu Support</a> (allows the Plug-in to create a context menu for a given parameter, partially filled by the host).</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionController.html">Steinberg::Vst::INoteExpressionController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/noteExpression.html">Note Expression Support</a>.</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IKeyswitchController.html">Steinberg::Vst::IKeyswitchController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/keyswitch.html">Key Switch Support</a> (used for building VST Expression Map in Cubase 6 for example).</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IXmlRepresentationController.html">Steinberg::Vst::IXmlRepresentationController</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/representation.html">Remote Representation of Parameters Support</a> (allows to define different parameter mappings for different remotes device).</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html">Steinberg::Vst::IEditControllerHostEditing</a> : Parameter editing from host/remote control (better support of linked parameters when editing from remote control)</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler3.html">Steinberg::Vst::IComponentHandler3</a> / <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenu.html">Steinberg::Vst::IContextMenu</a> / <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html">Steinberg::Vst::IContextMenuTarget</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/contextmenu.html">Context Menu Support</a> (allows the Plug-in to create a context menu for a given parameter, partially filled by the host).</li>
 </ul>
 </li>
 <li>New Flags/Enums:<ul>
-<li>Add new restart flag: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5abf3d2b0a3519f44507b88691c0e6555e">Steinberg::Vst::kIoTitlesChanged</a> : informing the host about titles changes of buses.</li>
+<li>Add new restart flag: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5abf3d2b0a3519f44507b88691c0e6555e">Steinberg::Vst::kIoTitlesChanged</a> : informing the host about titles changes of buses.</li>
 </ul>
 </li>
 <li>Helpers Classes:<ul>
-<li>New <a class="el" href="classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html" title="Helper for XML Representation creation. ">Steinberg::Vst::XmlRepresentationHelper</a> : helper for constructing a remote representation (xml based). See <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/representation.html">Remote Representation of Parameters Support</a>.</li>
+<li>New <a class="el" href="classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html" title="Helper for XML Representation creation. ">Steinberg::Vst::XmlRepresentationHelper</a> : helper for constructing a remote representation (xml based). See <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/representation.html">Remote Representation of Parameters Support</a>.</li>
 <li><a class="el" href="classSteinberg_1_1Vst_1_1EditControllerEx1.html" title="Advanced implementation (support IUnitInfo) for a VST 3 edit controller. ">Steinberg::Vst::EditControllerEx1</a> : support of ProgramPitchNames added.</li>
 </ul>
 </li>
@@ -614,18 +646,18 @@ Version 3.1.0 (2010/06/25)</h1>
 </ul>
 </li>
 <li>New Interfaces:<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController2.html">Steinberg::Vst::IEditController2</a> : support for setKnobMode/openHelp/openAboutBox</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler2.html">Steinberg::Vst::IComponentHandler2</a> : support for parameter group editing from Plug-in UI, dirty state and request host to open the Plug-in editor</li>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioPresentationLatency.html">Steinberg::Vst::IAudioPresentationLatency</a> : informs the Plug-in about the Audio Presentation Latencies (in/out)</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController2.html">Steinberg::Vst::IEditController2</a> : support for setKnobMode/openHelp/openAboutBox</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler2.html">Steinberg::Vst::IComponentHandler2</a> : support for parameter group editing from Plug-in UI, dirty state and request host to open the Plug-in editor</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioPresentationLatency.html">Steinberg::Vst::IAudioPresentationLatency</a> : informs the Plug-in about the Audio Presentation Latencies (in/out)</li>
 </ul>
 </li>
 <li>New Event Structure:<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html">Steinberg::Vst::PolyPressureEvent</a> : Polypressure event support</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html">Steinberg::Vst::PolyPressureEvent</a> : Polypressure event support</li>
 </ul>
 </li>
 <li>New Flags/Enums:<ul>
-<li>New Plug-in Types used for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst_1_1PlugType.html">subCategories</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#gad515322344056aab9256d76a6787eb42">PlugType::kMono</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#gae8acdf9398f33322690596dc2d00318f">PlugType::kStereo</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#ga6e4cc6e531ad93aa1d60021b82dcdbe9">PlugType::kSurround</a> (<a class="el" href="faq.html#faqMiscellaneous5">FAQ</a>)</li>
-<li>New parameter flag <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645a1d80e03f3f6f05a10b4bd1778c00e901">ParameterInfo::kIsList</a> : flags the parameter as a list of discrete string values</li>
+<li>New Plug-in Types used for <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst_1_1PlugType.html">subCategories</a> : <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#gad515322344056aab9256d76a6787eb42">PlugType::kMono</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#gae8acdf9398f33322690596dc2d00318f">PlugType::kStereo</a>, <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/group__plugType.html#ga6e4cc6e531ad93aa1d60021b82dcdbe9">PlugType::kSurround</a> (<a class="el" href="faq.html#faqMiscellaneous5">FAQ</a>)</li>
+<li>New parameter flag <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645a1d80e03f3f6f05a10b4bd1778c00e901">ParameterInfo::kIsList</a> : flags the parameter as a list of discrete string values</li>
 <li>New IoModes enum : Steinberg::Vst::IoModes::kOfflineProcessing used with setIoMode when the Plug-in is used in an offline processing context</li>
 </ul>
 </li>
@@ -655,7 +687,7 @@ Version 3.1.0 (2010/06/25)</h1>
 Version 3.0.2 (2009/01/15)</h1>
 <ul>
 <li>New Interface:<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterFinder.html">Steinberg::Vst::IParameterFinder</a> : Extension for IPlugView to find view parameters (lookup value under mouse support)</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterFinder.html">Steinberg::Vst::IParameterFinder</a> : Extension for IPlugView to find view parameters (lookup value under mouse support)</li>
 </ul>
 </li>
 <li>Samples:<ul>
@@ -670,19 +702,19 @@ Version 3.0.2 (2009/01/15)</h1>
 Version 3.0.1 (2008/03/19)</h1>
 <ul>
 <li>New Interface:<ul>
-<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html">Steinberg::Vst::IMidiMapping</a> : allowing to support MIDI Controllers and Pitchbend</li>
+<li><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html">Steinberg::Vst::IMidiMapping</a> : allowing to support MIDI Controllers and Pitchbend</li>
 </ul>
 </li>
 <li>New Flags/Enums:<ul>
-<li>Add new restart flag: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5ae2e3ed4527f88e577a2aeb595bd853fd">Steinberg::Vst::kMidiCCAssignmentChanged</a></li>
+<li>Add new restart flag: <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5ae2e3ed4527f88e577a2aeb595bd853fd">Steinberg::Vst::kMidiCCAssignmentChanged</a></li>
 </ul>
 </li>
 <li>Restructuring of the SDK :<ul>
-<li>Move <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5">RestartFlags</a> from <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vsttypes_8h.html">vstTypes.h</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivsteditcontroller_8h.html">ivsteditcontroller.h</a></li>
+<li>Move <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5">RestartFlags</a> from <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vsttypes_8h.html">vstTypes.h</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivsteditcontroller_8h.html">ivsteditcontroller.h</a></li>
 <li>Restructured helper classes by adding new files <a class="el" href="vstbus_8cpp.html">vstbus.cpp</a> and <a class="el" href="vstparameters_8cpp.html">vstparameters.cpp</a></li>
-<li>Change the default refcount implementation of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html">Steinberg::FUnknown</a> (IMPLEMENT_REFCOUNT) to use atomic operations</li>
+<li>Change the default refcount implementation of <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html">Steinberg::FUnknown</a> (IMPLEMENT_REFCOUNT) to use atomic operations</li>
 <li>Change InitModule/ExitModule to be called from host and not in DllMain (Cubase 4.2 needed)</li>
-<li>Rename <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">Steinberg::Vst::IUnitData</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">Steinberg::Vst::IProgramListData</a> and introduce new interface <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">Steinberg::Vst::IUnitData</a></li>
+<li>Rename <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">Steinberg::Vst::IUnitData</a> to <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">Steinberg::Vst::IProgramListData</a> and introduce new interface <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">Steinberg::Vst::IUnitData</a></li>
 </ul>
 </li>
 <li>Helpers Classes:<ul>
@@ -720,7 +752,7 @@ Version 3.0.0 (2008/01/17)</h1>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2019 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

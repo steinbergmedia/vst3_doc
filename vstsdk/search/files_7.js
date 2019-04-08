@@ -30,5 +30,6 @@ var searchData=
   ['ivstprefetchablesupport_2eh',['ivstprefetchablesupport.h',['../../vstinterfaces/ivstprefetchablesupport_8h.html',1,'']]],
   ['ivstprocesscontext_2eh',['ivstprocesscontext.h',['../../vstinterfaces/ivstprocesscontext_8h.html',1,'']]],
   ['ivstrepresentation_2eh',['ivstrepresentation.h',['../../vstinterfaces/ivstrepresentation_8h.html',1,'']]],
+  ['ivsttestplugprovider_2eh',['ivsttestplugprovider.h',['../../vstinterfaces/ivsttestplugprovider_8h.html',1,'']]],
   ['ivstunits_2eh',['ivstunits.h',['../../vstinterfaces/ivstunits_8h.html',1,'']]]
 ];

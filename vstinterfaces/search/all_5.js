@@ -27,13 +27,12 @@ var searchData=
   ['eventbus',['EventBus',['../../vstsdk/classSteinberg_1_1Vst_1_1EventBus.html#a2ed5ab3d3805e3dfc2f6370c59a217ed',1,'Steinberg::Vst::EventBus']]],
   ['eventflags',['EventFlags',['../structSteinberg_1_1Vst_1_1Event.html#ab52fb080a2898a94efbd54969f61e5d5',1,'Steinberg::Vst::Event']]],
   ['eventinputs',['eventInputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a183bab90c30bb13225535e57cbe982b0',1,'Steinberg::Vst::AudioEffect::eventInputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a183bab90c30bb13225535e57cbe982b0',1,'Steinberg::Vst::SingleComponentEffect::eventInputs()']]],
-  ['eventlist',['EventList',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html',1,'Steinberg::Vst']]],
   ['eventlist',['EventList',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a1cbe1abefe1aa274c4a68aefe8255eef',1,'Steinberg::Vst::EventList']]],
+  ['eventlist',['EventList',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html',1,'Steinberg::Vst']]],
   ['eventlist_2ecpp',['eventlist.cpp',['../../vstsdk/eventlist_8cpp.html',1,'']]],
   ['eventlist_2eh',['eventlist.h',['../../vstsdk/eventlist_8h.html',1,'']]],
   ['eventoutputs',['eventOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::AudioEffect::eventOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::SingleComponentEffect::eventOutputs()']]],
   ['events',['events',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
   ['eventtypes',['EventTypes',['../structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8',1,'Steinberg::Vst::Event']]],
-  ['everynsamples',['everyNSamples',['../../vstsdk/classSteinberg_1_1Vst_1_1VstAutomationTest.html#af5eee01da8b2dc7a966e3bb60011c55f',1,'Steinberg::Vst::VstAutomationTest']]],
   ['executemenuitem',['executeMenuItem',['../classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]]
 ];

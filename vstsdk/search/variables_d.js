@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['paramchanges',['paramChanges',['../classSteinberg_1_1Vst_1_1VstAutomationTest.html#a1b30ed250817f16026829872e72ea44c',1,'Steinberg::Vst::VstAutomationTest']]],
   ['parameter',['parameter',['../classSteinberg_1_1Vst_1_1ProgramList.html#a358b386509845867bf922db4a27535c6',1,'Steinberg::Vst::ProgramList']]],
   ['parameters',['parameters',['../classSteinberg_1_1Vst_1_1EditController.html#ac4e5827457c66ced54509c5179a5bb4c',1,'Steinberg::Vst::EditController']]],
   ['paramid',['paramID',['../classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a044984f36e927dae9c14ca9d8d787a15',1,'Steinberg::Vst::ParameterValueQueue']]],
@@ -15,14 +14,13 @@ var searchData=
   ['plugframe',['plugFrame',['../classSteinberg_1_1CPluginView.html#a7083b1a69f4db7fd4cf2c69665d8b7ec',1,'Steinberg::CPluginView']]],
   ['plugin',['plugin',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#ac123d00a3893bfdbaa7572a668b6dabe',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['plugisglobal',['plugIsGlobal',['../classSteinberg_1_1Vst_1_1PlugProvider.html#a6249cbd10d897a88d111a89c2ca6b6b6',1,'Steinberg::Vst::PlugProvider']]],
-  ['plugprovider',['plugProvider',['../classSteinberg_1_1Vst_1_1VstTestBase.html#a289da8705a54ec7291d8dd811e39a306',1,'Steinberg::Vst::VstTestBase']]],
+  ['plugprovider',['plugProvider',['../classSteinberg_1_1Vst_1_1TestBase.html#aee0912e53e2d7f7ae563fad4e96c5d13',1,'Steinberg::Vst::TestBase']]],
   ['ppqposition',['ppqPosition',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#a5da7304404b66954c04f2c61242b4336',1,'Steinberg::Vst::Event']]],
   ['precision',['precision',['../classSteinberg_1_1Vst_1_1NoteExpressionType.html#ae19c2c90f8dec6b6c96ff91b584c2b11',1,'Steinberg::Vst::NoteExpressionType::precision()'],['../classSteinberg_1_1Vst_1_1Parameter.html#ae19c2c90f8dec6b6c96ff91b584c2b11',1,'Steinberg::Vst::Parameter::precision()']]],
   ['pressure',['pressure',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html#ac870e1249bab4a2a68cc4126761d24ef',1,'Steinberg::Vst::PolyPressureEvent']]],
   ['processcontext',['processContext',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#ad27334aa1361d4ff3b139ca305bf1fad',1,'Steinberg::Vst::ProcessData']]],
-  ['processdata',['processData',['../classSteinberg_1_1Vst_1_1VstProcessTest.html#a89c62c83c9ff40808a490db173d52e38',1,'Steinberg::Vst::VstProcessTest']]],
   ['processmode',['processMode',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a0f85383979879cac64621f4ffb25cae0',1,'Steinberg::Vst::ProcessData::processMode()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#a0f85383979879cac64621f4ffb25cae0',1,'Steinberg::Vst::ProcessSetup::processMode()']]],
-  ['processsetup',['processSetup',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a9a162bdcd28aabf4f53dc808ffccfb94',1,'Steinberg::Vst::SingleComponentEffect::processSetup()'],['../classSteinberg_1_1Vst_1_1VstTestEnh.html#a76b5743ddf47012b09501e7118c30c32',1,'Steinberg::Vst::VstTestEnh::processSetup()']]],
+  ['processsetup',['processSetup',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a9a162bdcd28aabf4f53dc808ffccfb94',1,'Steinberg::Vst::SingleComponentEffect::processSetup()'],['../classSteinberg_1_1Vst_1_1TestEnh.html#a76b5743ddf47012b09501e7118c30c32',1,'Steinberg::Vst::TestEnh::processSetup()']]],
   ['programcount',['programCount',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProgramListInfo.html#aa480d0c44ff2b505ebf3581427dd8c05',1,'Steinberg::Vst::ProgramListInfo']]],
   ['programindexmap',['programIndexMap',['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#adff4e706a786b881134df97ce6755050',1,'Steinberg::Vst::EditControllerEx1']]],
   ['programinfos',['programInfos',['../classSteinberg_1_1Vst_1_1ProgramList.html#a932cfb942e9ea765480dbd9524fed209',1,'Steinberg::Vst::ProgramList']]],

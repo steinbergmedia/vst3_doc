@@ -68,12 +68,15 @@ var NAVTREE =
       [ "Which files of the VST 3 SDK are under which license?", "vst3License.html#lic4", null ],
       [ "Whats about VST 2?", "vst3License.html#licvst2", null ],
       [ "Developer use cases", "vst3License.html#lic5", [
-        [ "I would like to share the source code of my VST 3 plug-in/host on GitHub.", "vst3License.html#usecase1", null ],
-        [ "I would like to distribute my VST 3 plug-in/host as freeware.", "vst3License.html#usecase2", null ],
-        [ "I would like to sell my VST 3 plug-in/host in binary form.", "vst3License.html#usecase3", null ],
-        [ "I would like to reuse a distributed modified version of the VST 3 SDK for my own plug-ins/host.", "vst3License.html#usecase4", null ],
-        [ "I would like to distribute my VST 3 plug-in/host in binary form based on a modified version of VST 3 SDK which is under GPLv3.", "vst3License.html#usecase5", null ],
-        [ "I would like to share the source code of my VST 2 plug-in/host on GitHub or other web-based exchange platform.", "vst3License.html#usecase6", null ]
+        [ "I would like to share the source code of my VST 3 plug-in/host on GitHub or other such kind of platform.", "vst3License.html#usecase1", null ],
+        [ "I would like to distribute my VST 3 plug-in/host as freeware/shareware in binary form only.", "vst3License.html#usecase2", null ],
+        [ "I would like to sell my VST 3 plug-in/host in binary form only.", "vst3License.html#usecase3", null ],
+        [ "I would like to adapt the VST 3 SDK's sources to my VST 3 plug-in/host's needs.", "vst3License.html#usecase4", null ],
+        [ "I would like to reuse a distributed modified version of the VST 3 SDK for my own VST 3 plug-ins/host.", "vst3License.html#usecase5", null ],
+        [ "I would like to distribute my VST 3 plug-in/host in binary form based on a modified version of VST 3 SDK which is under GPLv3.", "vst3License.html#usecase6", null ],
+        [ "I would like to sell my VST 3 plug-in/host in binary form which is based on a 3rd party SDK like JUCE.", "vst3License.html#usecase7", null ],
+        [ "I would like to distribute my VST 3 plug-in/host in binary form which is based on a 3rd party SDK like JUCE and used its GPLv3 license.", "vst3License.html#usecase8", null ],
+        [ "I would like to share the source code of my VST 2 plug-in/host on GitHub or other web-based exchange platform.", "vst3License.html#usecase9", null ]
       ] ]
     ] ],
     [ "Other Copyrights/Trademarks", "otherCopyright.html", null ],
@@ -95,6 +98,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
+      [ "Version 3.6.13 (2019/04/08)", "vst3History.html#rev3613", null ],
       [ "Version 3.6.12 (2018/12/03)", "vst3History.html#rev3612", null ],
       [ "Version 3.6.11 (2018/10/22)", "vst3History.html#rev3611", null ],
       [ "Version 3.6.10 (2018/06/11)", "vst3History.html#rev3610", null ],
@@ -183,11 +187,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classSteinberg_1_1Vst_1_1EditController.html#a375821f541e8b3338d3e2dbfae7433d8",
-"classSteinberg_1_1Vst_1_1ParameterContainer.html",
-"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af3d919de401537b4ce04488bc40caa60",
-"classVST3_1_1Hosting_1_1FactoryInfo.html#aa1211ff3b6c1995ca0408b668ebbd666",
-"stringconvert_8cpp.html#ab16efb35664dd3b3202ebc37571ae369"
+"classSteinberg_1_1Vst_1_1EditController.html#ab79fa22ff4d37cecd630af788e524a85",
+"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#ac8bb3912a3ce86b15842e79d0b421204",
+"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549",
+"module_8cpp.html",
+"vstparameters_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

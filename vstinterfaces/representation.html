@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.12</span>
+   &#160;<span id="projectnumber">VST 3.6.13</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -221,7 +221,7 @@ Graphical overview</h1>
  </p>
 <h1><a class="anchor" id="example"></a>
 Example of implementation using helper class</h1>
-<p>See <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html">Steinberg::Vst::XmlRepresentationHelper</a>.</p>
+<p>See <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html">Steinberg::Vst::XmlRepresentationHelper</a>.</p>
 <p><br />
 <br />
  </p>
@@ -230,56 +230,71 @@ Location table for VST XMLs Representation</h1>
 <p>When a host needs to use a VST XMLs Representation (for internal use like Quick-Controls assignment to get the most important parameters sorted per Page of a Plug-in), the host will check the presence in a specific location for a given remote and for this given Plug-in a Representation XML file with the remote name as filename (check below about how the path is defined). If this is not found the host will ask the Plug-in by using <a class="el" href="classSteinberg_1_1Vst_1_1IXmlRepresentationController.html" title="Extended Plug-in interface IEditController for a component. ">Steinberg::Vst::IXmlRepresentationController</a> (if implemented).</p>
 <p>Explanation:</p><ul>
 <li>priority column:<ul>
-<li>specifies the scan order by the host. Path #1 will be checked first, #3 will be checked last. The first XML found will be used and overrides the others.</li>
+<li>specifies the scan order by the host. Path #1 will be checked first, #8 will be checked last. The first XML found will be used and overrides the others.</li>
 </ul>
 </li>
 <li>Type of column:<ul>
 <li>user : specific to the currently logged in user</li>
 <li>shared : for all users of this machine</li>
-<li>factory : installed by Plug-in installer with the Plug-in</li>
+<li>factory : installed by Plug-in or App installer with the Plug-in</li>
 </ul>
 </li>
 <li>$COMPANY and $PLUGIN-NAME folder names contain only allowed characters for file naming (replace characters "\\*?/:&lt;&gt;|\" by "_")</li>
-</ul>
-<p><br />
+<li>$UID is the Unique ID of the processor in its string representation (for example: "57F704D1FA974D668083E4B9AF581D23" len=32) <br />
 <br />
- </p>
+ </li>
+</ul>
 <h2><a class="anchor" id="macxml"></a>
 For Mac platform:</h2>
 <pre>
--------------------------------------------------------------------------------------
-Priority  Type      Path
--------------------------------------------------------------------------------------
-1         user      $USER/Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/     
-2         shared    Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/
-3         factory   $PLUGIN-PATH/Contents/Resources/VST XMLs/ 
--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+Prio  Type         Scope  Writable  Path                                                                Comment
+--------------------------------------------------------------------------------------------------------------------------
+1     User         User      X      Users/$USERNAME/Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/
+2     User         User      X      Users/$USERNAME/Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/
+3  Shared_Factory Public     -      Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                   Computer shared FactoryROM
+4  Shared_Factory Public     -      Library/Audio/VST XMLs/$COMPANY/$PLUGIN-NAME/                        Computer shared FactoryROM
+5   App_Factory    Apps      -      [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                    Host Application (Cubase, ...)
+6   App_Factory    Apps      -      [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/                         Host Application (Cubase, ...)
+7   App_Factory    Apps      -      $PLUGIN-PATH/Contents/Resources/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/ Plugin Bundle
+8   App_Factory    Apps      -      $PLUGIN-PATH/Contents/Resources/VST XMLs/$COMPANY/$PLUGIN-NAME/      Plugin Bundle
+--------------------------------------------------------------------------------------------------------------------------
 </pre><p> <br />
 <br />
  </p>
 <h2><a class="anchor" id="win7xml"></a>
 For Windows Vista/7/8/10 platform:</h2>
 <pre>
--------------------------------------------------------------------------------------
-Priority  Type      Path
--------------------------------------------------------------------------------------
-1         user      Users/$USERNAME/AppData/Roaming]/VST XMLs/$COMPANY/$PLUGIN-NAME/
-2         shared    [ProgramData]/VST XMLs/$COMPANY/$PLUGIN-NAME/
-3         factory   [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/
--------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+Prio  Type         Scope  Writable Path                                                                    Comment
+------------------------------------------------------------------------------------------------------------------------------
+1     User         User      X     [Users/$USERNAME/Documents]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/        FOLDERID_Documents
+2     User         User      X     [Users/$USERNAME/Documents]/VST XMLs/$COMPANY/$PLUGIN-NAME/             FOLDERID_Documents
+3   User_Factory   User      X     [Users/$USERNAME/AppData/Roaming]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/  FOLDERID_RoamingAppData
+4   User_Factory   User      X     [Users/$USERNAME/AppData/Roaming]/VST XMLs/$COMPANY/$PLUGIN-NAME/       FOLDERID_RoamingAppData
+5  Shared_Factory Public     -     [ProgramData]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                      FOLDERID_ProgramData
+6  Shared_Factory Public     -     [ProgramData]/VST XMLs/$COMPANY/$PLUGIN-NAME/                           FOLDERID_ProgramData
+7   App_Factory    Apps      -     [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                       Host Application (Cubase, ...)
+8   App_Factory    Apps      -     [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/                            Host Application (Cubase, ...)
+------------------------------------------------------------------------------------------------------------------------------
 </pre><p> <br />
 <br />
  </p>
 <h2><a class="anchor" id="win2000xml"></a>
 For Windows XP/2000 platform:</h2>
 <pre>
--------------------------------------------------------------------------------------
-Priority  Type      Path
--------------------------------------------------------------------------------------
-1         user      [Documents and Settings/$USERNAME/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/
-2         shared    [Documents and Settings/$ALLUSERS/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/
-3         factory   [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/
--------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+Prio  Type         Scope  Writable Path                                                                                     Comment
+-----------------------------------------------------------------------------------------------------------------------------------------
+1     User         User      X     [My Documents]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                                  CSIDL_PERSONAL
+2     User         User      X     [My Documents]/VST XMLs/$COMPANY/$PLUGIN-NAME/                                       CSIDL_PERSONAL
+3   User_Factory   User      X     [Documents and Settings/$USERNAME/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/ CSIDL_APPDATA
+4   User_Factory   User      X     [Documents and Settings/$USERNAME/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/  CSIDL_APPDATA
+5  Shared_Factory Public     -     [Documents and Settings/$ALLUSERS/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/ CSIDL_COMMON_APPDATA
+6  Shared_Factory Public     -     [Documents and Settings/$ALLUSERS/Application Data]/VST XMLs/$COMPANY/$PLUGIN-NAME/  CSIDL_COMMON_APPDATA
+7   App_Factory    Apps      -     [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/$UID/                                    Host Application (Cubase, ...)
+8   App_Factory    Apps      -     [$APPFOLDER]/VST XMLs/$COMPANY/$PLUGIN-NAME/                                         Host Application (Cubase, ...)
+-----------------------------------------------------------------------------------------------------------------------------------------
 </pre><p><br />
 Back to <b><a class="el" href="index.html#vst3Contents">Contents</a></b> <br />
 </p>
@@ -295,7 +310,7 @@ Back to <b><a class="el" href="index.html#vst3Contents">Contents</a></b> <br />
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2019 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

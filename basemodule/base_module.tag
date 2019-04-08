@@ -2,13 +2,13 @@
 <tagfile>
   <compound kind="file">
     <name>baseiids.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>baseiids_8cpp</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>classfactoryhelpers.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>classfactoryhelpers_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -69,12 +69,12 @@
   </compound>
   <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
     <name>fbuffer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8cpp</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -82,14 +82,14 @@
   </compound>
   <compound kind="file">
     <name>fbuffer.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fbuffer_8h</filename>
     <class kind="class">Steinberg::Buffer</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>fcleanup.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcleanup_8h</filename>
     <class kind="struct">Steinberg::FDeleter</class>
     <class kind="struct">Steinberg::FArrayDeleter</class>
@@ -110,7 +110,7 @@
   </compound>
   <compound kind="file">
     <name>fcommandline.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fcommandline_8h</filename>
     <class kind="class">Steinberg::CommandLine::VariablesMap</class>
     <class kind="class">Steinberg::CommandLine::Description</class>
@@ -141,13 +141,13 @@
   </compound>
   <compound kind="file">
     <name>fdebug.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8cpp</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
   </compound>
   <compound kind="file">
     <name>fdebug.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdebug_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -200,44 +200,44 @@
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT0</name>
+      <name>SMTG_DBPRT0</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a2f013bfa17e5cb0bd5862f0d080ea14c</anchor>
+      <anchor>a81910a1b73bfa4f5ed5693dabb3ca055</anchor>
       <arglist>(a)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT1</name>
+      <name>SMTG_DBPRT1</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a2e4b32cfde5e0a19d72edb87782d9b67</anchor>
+      <anchor>aa66fa2c41eb9ea81c7c91b4a7d0d1318</anchor>
       <arglist>(a, b)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT2</name>
+      <name>SMTG_DBPRT2</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a00277439f4c9047cc504b15606acb54f</anchor>
+      <anchor>ab10a4ae99c89b67133e8a052d4d935aa</anchor>
       <arglist>(a, b, c)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT3</name>
+      <name>SMTG_DBPRT3</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a658c71ee64ed6ab44027b43be64a6290</anchor>
+      <anchor>ad4d5ecc14ee9d6837b2e6683db5e0921</anchor>
       <arglist>(a, b, c, d)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT4</name>
+      <name>SMTG_DBPRT4</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a78cb615acc200cca7666a3f57e652733</anchor>
+      <anchor>aa36f1d3aee0d987774c0b378c3f0d388</anchor>
       <arglist>(a, b, c, d, e)</arglist>
     </member>
     <member kind="define">
       <type>#define</type>
-      <name>DBPRT5</name>
+      <name>SMTG_DBPRT5</name>
       <anchorfile>fdebug_8h.html</anchorfile>
-      <anchor>a48286714bdcb0de021ab6a4bc8b49fd1</anchor>
+      <anchor>a1f6a3bf7072ece31220823a76e2841ae</anchor>
       <arglist>(a, b, c, d, e, f)</arglist>
     </member>
     <member kind="define">
@@ -310,10 +310,52 @@
       <anchor>ad48f9d61b00fa2397b11eb977c7785dd</anchor>
       <arglist></arglist>
     </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT0</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>a62bbf991e4c25adfb4e69bf873b0a5b5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT1</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>adf0a2e0c60ba7aee4aefe4f0b9a4cf32</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT2</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>abe8e98ef330a8917afeea58f231c2fd2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT3</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>ad35e7b53a5662120a18c70972419c62c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT4</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>a11a2c50ad704f0b137fd686f34331140</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>DBPRT5</name>
+      <anchorfile>fdebug_8h.html</anchorfile>
+      <anchor>ac57ffc0fbda8df0d6977b8df435a5d68</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>fdynlib.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8cpp</filename>
     <includes id="fdynlib_8h" name="fdynlib.h" local="yes" imported="no">base/source/fdynlib.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -321,7 +363,7 @@
   </compound>
   <compound kind="file">
     <name>fdynlib.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fdynlib_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::FDynLibrary</class>
@@ -329,7 +371,7 @@
   </compound>
   <compound kind="file">
     <name>fobject.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8cpp</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <namespace>Steinberg</namespace>
@@ -407,7 +449,7 @@
   </compound>
   <compound kind="file">
     <name>fobject.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fobject_8h</filename>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
     <class kind="class">Steinberg::FObject</class>
@@ -605,7 +647,7 @@
   </compound>
   <compound kind="file">
     <name>fstdmethods.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstdmethods_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -750,7 +792,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8cpp</filename>
     <includes id="fstreamer_8h" name="fstreamer.h" local="yes" imported="no">fstreamer.h</includes>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
@@ -759,7 +801,7 @@
   </compound>
   <compound kind="file">
     <name>fstreamer.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstreamer_8h</filename>
     <class kind="class">Steinberg::FStreamer</class>
     <class kind="class">Steinberg::FStreamSizeHolder</class>
@@ -796,7 +838,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8cpp</filename>
     <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
     <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
@@ -881,7 +923,7 @@
   </compound>
   <compound kind="file">
     <name>fstring.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>fstring_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::ConstString</class>
@@ -1297,7 +1339,7 @@
   </compound>
   <compound kind="file">
     <name>hexbinary.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>hexbinary_8h</filename>
     <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1319,7 +1361,7 @@
   </compound>
   <compound kind="file">
     <name>timer.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8cpp</filename>
     <includes id="timer_8h" name="timer.h" local="yes" imported="no">base/source/timer.h</includes>
     <namespace>Steinberg</namespace>
@@ -1334,7 +1376,7 @@
   </compound>
   <compound kind="file">
     <name>timer.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>timer_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">fobject.h</includes>
     <class kind="class">Steinberg::ITimerCallback</class>
@@ -1366,7 +1408,7 @@
   </compound>
   <compound kind="file">
     <name>updatehandler.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8cpp</filename>
     <includes id="updatehandler_8h" name="updatehandler.h" local="yes" imported="no">base/source/updatehandler.h</includes>
     <includes id="classfactoryhelpers_8h" name="classfactoryhelpers.h" local="yes" imported="no">base/source/classfactoryhelpers.h</includes>
@@ -1502,7 +1544,7 @@
   </compound>
   <compound kind="file">
     <name>updatehandler.h</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>updatehandler_8h</filename>
     <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::IUpdateManager</class>
@@ -6005,13 +6047,13 @@
   </compound>
   <compound kind="dir">
     <name>base</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/</path>
     <filename>dir_e914ee4d4a44400f1fdb170cb4ead18a.html</filename>
     <dir>source</dir>
   </compound>
   <compound kind="dir">
     <name>source</name>
-    <path>/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/base/source/</path>
+    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/base/source/</path>
     <filename>dir_83799167c1376d980d4b19fd5c6a4400.html</filename>
     <file>baseiids.cpp</file>
     <file>classfactoryhelpers.h</file>

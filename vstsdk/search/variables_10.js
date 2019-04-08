@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['sampleaccuracy',['sampleAccuracy',['../classSteinberg_1_1Vst_1_1VstAutomationTest.html#a8379677a31022017056761547a02f4c3',1,'Steinberg::Vst::VstAutomationTest']]],
   ['sampleoffset',['sampleOffset',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#a9b2081be7783cb98c534aa1ff955ac5c',1,'Steinberg::Vst::Event::sampleOffset()'],['../structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html#a9b2081be7783cb98c534aa1ff955ac5c',1,'Steinberg::Vst::ParameterValueQueue::ParameterQueueValue::sampleOffset()'],['../structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html#a9b2081be7783cb98c534aa1ff955ac5c',1,'Steinberg::Vst::ParameterChangeTransfer::ParameterChange::sampleOffset()']]],
   ['samplerate',['sampleRate',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a2bd79d2ab2dfb6aeaf75c2878ad30e1f',1,'Steinberg::Vst::ProcessContext::sampleRate()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#afb7316112f9d8e74b30331957e7ca9b3',1,'Steinberg::Vst::ProcessSetup::sampleRate()']]],
   ['samplestonextclock',['samplesToNextClock',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a01be967abff36568fab07ab7d4eac7d9',1,'Steinberg::Vst::ProcessContext']]],

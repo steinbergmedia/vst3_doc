@@ -1,5 +1,11 @@
 var NAVTREEINDEX2 =
 {
+"classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1":[18,2,0,1],
+"classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1":[18,1,14,1],
+"classSteinberg_1_1Vst_1_1IXmlRepresentationController.html":[18,0,17],
+"classSteinberg_1_1Vst_1_1IXmlRepresentationController.html":[18,8,6],
+"classSteinberg_1_1Vst_1_1IXmlRepresentationController.html#a12aaff5f46c6f620fb724e9c9763ac21":[18,0,17,0],
+"classSteinberg_1_1Vst_1_1IXmlRepresentationController.html#a12aaff5f46c6f620fb724e9c9763ac21":[18,8,6,0],
 "classes.html":[20,1],
 "cmakeUse.html":[14],
 "contextmenu.html":[9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX2 =
 "group__musicalStyle.html#ga4367d681da9e6a9259373fe33bd58162":[18,18,86],
 "group__musicalStyle.html#ga43aa90fa2a5718ec3f233186bef3b745":[18,18,42],
 "group__musicalStyle.html#ga4bf8090a24491f751c9d75218ba8ffc6":[18,18,49],
-"group__musicalStyle.html#ga4c7fb7c56f3573b219287833e847113c":[18,18,78],
-"group__musicalStyle.html#ga4c9fd026e505a151e4ebcb41a026a273":[18,18,43],
-"group__musicalStyle.html#ga4cfb53a16c9ad176d8c2a3b9a4a267a1":[18,18,72],
-"group__musicalStyle.html#ga4e60a460c89c2aa3f05c8e15c4a74b76":[18,18,6],
-"group__musicalStyle.html#ga5043e48daf7d4433d082c9d726b90a2b":[18,18,17],
-"group__musicalStyle.html#ga52b06f4c922bceb8a7af486f8f9e8ead":[18,18,75],
-"group__musicalStyle.html#ga54a477d7f94dacdfa325bdf693d180ab":[18,18,19]
+"group__musicalStyle.html#ga4c7fb7c56f3573b219287833e847113c":[18,18,78]
 };

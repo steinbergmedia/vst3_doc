@@ -13,7 +13,6 @@ var searchData=
   ['foreach64',['foreach64',['../namespaceSteinberg_1_1Vst_1_1Algo.html#a4cb4ac5d134f87d28833172d318eee91',1,'Steinberg::Vst::Algo::foreach64(AudioBusBuffers &amp;audioBuffer, const T &amp;func)'],['../namespaceSteinberg_1_1Vst_1_1Algo.html#adf74545ab50d6cd580ca0c81cc5918b0',1,'Steinberg::Vst::Algo::foreach64(AudioBusBuffers &amp;buffer1, AudioBusBuffers &amp;buffer2, const T &amp;func)']]],
   ['foreachlast',['foreachLast',['../namespaceSteinberg_1_1Vst_1_1Algo.html#a25ed939a301649331125f0929334df23',1,'Steinberg::Vst::Algo']]],
   ['forget',['forget',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#ad217d6699b5b1207b06329ddc5c77a2a',1,'Steinberg::Vst::VSTGUIEditor']]],
-  ['freebuffers',['freeBuffers',['../classSteinberg_1_1Vst_1_1VstProcessTest.html#aa94ab93a33f2d5b86e2a47e701a904c0',1,'Steinberg::Vst::VstProcessTest']]],
   ['freleaser',['FReleaser',['../../base/structSteinberg_1_1FReleaser.html#a9aeee674f38393febf98f8cf953657f5',1,'Steinberg::FReleaser']]],
   ['from4int',['from4Int',['../../base/classSteinberg_1_1FUID.html#ad4ecb2d9af5f8cf17d6ec497f871f13a',1,'Steinberg::FUID']]],
   ['fromascii',['fromAscii',['../../base/structSteinberg_1_1PClassInfoW.html#a4bf4cd78c431e64f21d4bd2005813e9d',1,'Steinberg::PClassInfoW::fromAscii()'],['../../base/classSteinberg_1_1UString.html#a3862d0f352b58aaf5159ff9751d1b3d1',1,'Steinberg::UString::fromAscii()']]],

@@ -72,7 +72,7 @@ var files =
     [ "hostcheck.h", "hostcheck_8h.html", [
       [ "HostCheck", "classHostCheck.html", "classHostCheck" ]
     ] ],
-    [ "hostcheckercontroller.cpp", "hostcheckercontroller_8cpp.html", null ],
+    [ "hostcheckercontroller.cpp", "hostcheckercontroller_8cpp.html", "hostcheckercontroller_8cpp" ],
     [ "hostcheckercontroller.h", "hostcheckercontroller_8h.html", "hostcheckercontroller_8h" ],
     [ "hostcheckerprocessor.cpp", "hostcheckerprocessor_8cpp.html", "hostcheckerprocessor_8cpp" ],
     [ "hostcheckerprocessor.h", "hostcheckerprocessor_8h.html", [
@@ -462,6 +462,12 @@ var files =
     [ "processsetupcheck.h", "processsetupcheck_8h.html", [
       [ "ProcessSetupCheck", "classProcessSetupCheck.html", "classProcessSetupCheck" ]
     ] ],
+    [ "threadchecker.h", "threadchecker_8h.html", [
+      [ "ThreadChecker", "classSteinberg_1_1Vst_1_1ThreadChecker.html", "classSteinberg_1_1Vst_1_1ThreadChecker" ]
+    ] ],
+    [ "threadchecker_linux.cpp", "threadchecker__linux_8cpp.html", null ],
+    [ "threadchecker_mac.mm", "threadchecker__mac_8mm.html", null ],
+    [ "threadchecker_win32.cpp", "threadchecker__win32_8cpp.html", null ],
     [ "audiohost/source/usediids.cpp", "audiohost_2source_2usediids_8cpp.html", null ],
     [ "editorhost/source/usediids.cpp", "editorhost_2source_2usediids_8cpp.html", null ],
     [ "validator/source/usediids.cpp", "validator_2source_2usediids_8cpp.html", null ],

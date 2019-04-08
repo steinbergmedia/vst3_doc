@@ -44,6 +44,7 @@ var annotated =
         [ "IPrefetchableSupport", "classSteinberg_1_1Vst_1_1IPrefetchableSupport.html", "classSteinberg_1_1Vst_1_1IPrefetchableSupport" ],
         [ "IProgramListData", "classSteinberg_1_1Vst_1_1IProgramListData.html", "classSteinberg_1_1Vst_1_1IProgramListData" ],
         [ "IStreamAttributes", "classSteinberg_1_1Vst_1_1IStreamAttributes.html", "classSteinberg_1_1Vst_1_1IStreamAttributes" ],
+        [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider" ],
         [ "IUnitData", "classSteinberg_1_1Vst_1_1IUnitData.html", "classSteinberg_1_1Vst_1_1IUnitData" ],
         [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", "classSteinberg_1_1Vst_1_1IUnitHandler" ],
         [ "IUnitHandler2", "classSteinberg_1_1Vst_1_1IUnitHandler2.html", "classSteinberg_1_1Vst_1_1IUnitHandler2" ],

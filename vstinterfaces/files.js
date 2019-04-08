@@ -41,6 +41,9 @@ var files =
       [ "ProcessContext", "structSteinberg_1_1Vst_1_1ProcessContext.html", "structSteinberg_1_1Vst_1_1ProcessContext" ]
     ] ],
     [ "ivstrepresentation.h", "ivstrepresentation_8h.html", "ivstrepresentation_8h" ],
+    [ "ivsttestplugprovider.h", "ivsttestplugprovider_8h.html", [
+      [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider" ]
+    ] ],
     [ "ivstunits.h", "ivstunits_8h.html", "ivstunits_8h" ],
     [ "vstpresetkeys.h", "vstpresetkeys_8h.html", "vstpresetkeys_8h" ],
     [ "vstpshpack4.h", "vstpshpack4_8h.html", null ],

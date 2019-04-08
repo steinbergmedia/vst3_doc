@@ -22,5 +22,5 @@ var searchData=
   ['voltrim',['voltrim',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ad3afa7d2709fc11bf7c566d8c4ade0d8',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['volume',['volume',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a016abda2855c77dcc1630f9d2f9f8d18',1,'Steinberg::Vst::mda::DX10Processor::volume()'],['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a016abda2855c77dcc1630f9d2f9f8d18',1,'Steinberg::Vst::mda::EPianoProcessor::volume()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a016abda2855c77dcc1630f9d2f9f8d18',1,'Steinberg::Vst::mda::JX10Processor::volume()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a016abda2855c77dcc1630f9d2f9f8d18',1,'Steinberg::Vst::mda::PianoProcessor::volume()']]],
   ['vst3',['VST3',['../againentry_8cpp.html#aa2957643985a01da1edc5c69727584d1',1,'againentry.cpp']]],
-  ['vstplug',['vstPlug',['../../vstsdk/classSteinberg_1_1Vst_1_1VstTestBase.html#a0e0fe11841b030f07950700afd64d822',1,'Steinberg::Vst::VstAutomationTest']]]
+  ['vstplug',['vstPlug',['../../vstsdk/classSteinberg_1_1Vst_1_1TestBase.html#a0e0fe11841b030f07950700afd64d822',1,'Steinberg::Vst::TestBase']]]
 ];

@@ -1,5 +1,17 @@
 var NAVTREEINDEX5 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af1251a78af95b174cf6fa123dbe441a7":[1,0,0,0,2,26,8],
+"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af5c922cc1f7054edc9060d83074d7a8f":[1,0,0,0,2,26,10],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html":[1,0,0,0,2,27],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,27,3],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,27,2],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a6773404a49785daf2b48d40ffa022114":[1,0,0,0,2,27,1],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#a813cbf9dee7a64708f56160974dd37b0":[1,0,0,0,2,27,5],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[1,0,0,0,2,27,6],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#abc17a4353fdb4409c985b7a056ab1f02":[1,0,0,0,2,27,0],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html#aeb78d794ce0bc5812c526a1cc2083d5d":[1,0,0,0,2,27,4],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html":[1,0,0,0,2,28],
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a016abda2855c77dcc1630f9d2f9f8d18":[1,0,0,0,2,28,49],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a01ab1ef3a4bcdf5f08ef526065518fc5":[1,0,0,0,2,28,16],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a0411cd49bb5b71852cecd93bcbf0ca2da5c8e28051181340ee43c6e393d8e4a56":[1,0,0,0,2,28,3],
 "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a0411cd49bb5b71852cecd93bcbf0ca2da8792536856d889f8135bc325f2598a33":[1,0,0,0,2,28,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html":[1,0,0,0,2,38],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a15a046a994045f876d80d45fb1254717":[1,0,0,0,2,38,1],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,38,3],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,38,2],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a813cbf9dee7a64708f56160974dd37b0":[1,0,0,0,2,38,4],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#ab1e069a5e328d16ced977ee0bf131833":[1,0,0,0,2,38,0],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[1,0,0,0,2,38,5],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html":[1,0,0,0,2,39],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,39,3],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a276eca5290e17ef9227e019ca41d77b1":[1,0,0,0,2,39,1],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a2fa065b100d8f5db66d6ec88074e0068":[1,0,0,0,2,39,16],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,39,7],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,39,5],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,39,2],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a5d476218c50f30055b64d7cf946c2021":[1,0,0,0,2,39,14],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a627c2297758371e8e0ff55c5d8b98810":[1,0,0,0,2,39,9]
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,38,2]
 };

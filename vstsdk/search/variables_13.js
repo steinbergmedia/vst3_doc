@@ -11,5 +11,5 @@ var searchData=
   ['virt',['virt',['../../base/structSteinberg_1_1KeyCode.html#a710c5cefa06d25fe01febb579ab09a7d',1,'Steinberg::KeyCode']]],
   ['visiblepresetbrowserviewcontroller',['visiblePresetBrowserViewController',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#ac60dd00b000418f96ab856133252abd9',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['visiblesavepresetviewcontroller',['visibleSavePresetViewController',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a78c0dff72fd03c33fe4e2c3e4c9d4d62',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
-  ['vstplug',['vstPlug',['../classSteinberg_1_1Vst_1_1VstTestBase.html#a0e0fe11841b030f07950700afd64d822',1,'Steinberg::Vst::VstTestBase']]]
+  ['vstplug',['vstPlug',['../classSteinberg_1_1Vst_1_1TestBase.html#a0e0fe11841b030f07950700afd64d822',1,'Steinberg::Vst::TestBase']]]
 ];

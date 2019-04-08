@@ -13,7 +13,7 @@ var searchData=
   ['noteexpressiontypecontainer',['NoteExpressionTypeContainer',['../classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#a304e30f2f5cf0bd312fb215487cdf26d',1,'Steinberg::Vst::NoteExpressionTypeContainer']]],
   ['noteexpressiontypeflags',['NoteExpressionTypeFlags',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1de059ac90343b011aac2c14646d7ec8',1,'Steinberg::Vst::NoteExpressionTypeInfo']]],
   ['noteexpressiontypeid',['noteExpressionTypeID',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMap.html#ab0906976199e1a43b097ead682ca228f',1,'Steinberg::Vst::PhysicalUIMap::noteExpressionTypeID()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e',1,'Steinberg::Vst::NoteExpressionTypeID()']]],
-  ['noteexpressiontypeids',['NoteExpressionTypeIDs',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#ad0ffd0330ad7b273e149549dc3fc394f',1,'Steinberg::Vst']]],
+  ['noteexpressiontypeids',['NoteExpressionTypeIDs',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310',1,'Steinberg::Vst']]],
   ['noteexpressiontypeinfo',['NoteExpressionTypeInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html',1,'Steinberg::Vst']]],
   ['noteexpressionvalue',['NoteExpressionValue',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a9e134142463a8ca477018e7f2c3220f5',1,'Steinberg::Vst']]],
   ['noteexpressionvaluedescription',['NoteExpressionValueDescription',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html',1,'Steinberg::Vst']]],
@@ -29,11 +29,10 @@ var searchData=
   ['nsdataibstream_2eh',['NSDataIBStream.h',['../NSDataIBStream_8h.html',1,'']]],
   ['nsdataibstream_2emm',['NSDataIBStream.mm',['../NSDataIBStream_8mm.html',1,'']]],
   ['nullptr',['nullptr',['../module__linux_8cpp.html#a55c82854a871c7f2b9e38643206d9911',1,'nullptr():&#160;module_linux.cpp'],['../module__win32_8cpp.html#aaca25b80fcc0199610511047767ed124',1,'nullptr():&#160;module_win32.cpp']]],
-  ['num_5faudio_5fblocks_5fto_5fprocess',['NUM_AUDIO_BLOCKS_TO_PROCESS',['../vsttestsuite_8cpp.html#a12350286f0029900491791492a7ffd71',1,'vsttestsuite.cpp']]],
-  ['num_5fiterations',['NUM_ITERATIONS',['../vsttestsuite_8cpp.html#ab3be0641eb76161a48ed528e6eea2ac3',1,'vsttestsuite.cpp']]],
+  ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
   ['numchannels',['numChannels',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
+  ['numiterations',['numIterations',['../structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],
   ['numoutputs',['numOutputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a',1,'Steinberg::Vst::ProcessData']]],
-  ['numparams',['numParams',['../classSteinberg_1_1Vst_1_1VstAutomationTest.html#a9142236c5e313083fb82c1d4673083d6',1,'Steinberg::Vst::VstAutomationTest']]],
   ['numsamples',['numSamples',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#aeb42971a4bd34d7baa27cff8d7e3cf26',1,'Steinberg::Vst::ProcessData']]]
 ];

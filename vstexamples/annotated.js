@@ -24,6 +24,7 @@ var annotated =
         [ "PitchNamesProcessor", "classSteinberg_1_1Vst_1_1PitchNamesProcessor.html", "classSteinberg_1_1Vst_1_1PitchNamesProcessor" ],
         [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", "classSteinberg_1_1Vst_1_1Plug" ],
         [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", "classSteinberg_1_1Vst_1_1PlugController" ],
+        [ "ThreadChecker", "classSteinberg_1_1Vst_1_1ThreadChecker.html", "classSteinberg_1_1Vst_1_1ThreadChecker" ],
         [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", "classSteinberg_1_1Vst_1_1Validator" ],
         [ "VoiceBase", "classSteinberg_1_1Vst_1_1VoiceBase.html", "classSteinberg_1_1Vst_1_1VoiceBase" ],
         [ "VoiceProcessor", "classSteinberg_1_1Vst_1_1VoiceProcessor.html", "classSteinberg_1_1Vst_1_1VoiceProcessor" ],

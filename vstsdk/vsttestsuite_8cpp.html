@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 SDK
-   &#160;<span id="projectnumber">VST 3.6.12</span>
+   &#160;<span id="projectnumber">VST 3.6.13</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -105,175 +105,10 @@ $(document).ready(function(){initNavTree('vsttestsuite_8cpp.html','');});
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">vsttestsuite.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="vsttestsuite_8h.html">vsttestsuite.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="stringconvert_8h.html">public.sdk/source/vst/hosting/stringconvert.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstaudioprocessor_8h.html">pluginterfaces/vst/ivstaudioprocessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstcomponent_8h.html">pluginterfaces/vst/ivstcomponent.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivsteditcontroller_8h.html">pluginterfaces/vst/ivsteditcontroller.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmessage_8h.html">pluginterfaces/vst/ivstmessage.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmidicontrollers_8h.html">pluginterfaces/vst/ivstmidicontrollers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstnoteexpression_8h.html">pluginterfaces/vst/ivstnoteexpression.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstphysicalui_8h.html">pluginterfaces/vst/ivstphysicalui.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstprocesscontext_8h.html">pluginterfaces/vst/ivstprocesscontext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstunits_8h.html">pluginterfaces/vst/ivstunits.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/vstpresetkeys_8h.html">pluginterfaces/vst/vstpresetkeys.h</a>&quot;</code><br />
-<code>#include &quot;base/source/fdebug.h&quot;</code><br />
-<code>#include &quot;base/source/fstring.h&quot;</code><br />
-<code>#include &lt;cstdio&gt;</code><br />
-<code>#include &lt;math.h&gt;</code><br />
-<code>#include &lt;stdarg.h&gt;</code><br />
-<code>#include &lt;stdlib.h&gt;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmidilearn_8h.html">pluginterfaces/vst/ivstmidilearn.h</a>&quot;</code><br />
-</div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/205114991/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ab3be0641eb76161a48ed528e6eea2ac3"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#ab3be0641eb76161a48ed528e6eea2ac3">NUM_ITERATIONS</a>&#160;&#160;&#160;20</td></tr>
-<tr class="separator:ab3be0641eb76161a48ed528e6eea2ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe9b1c28165a7071e354bd9d7823ca1a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#abe9b1c28165a7071e354bd9d7823ca1a">DEFAULT_SAMPLE_RATE</a>&#160;&#160;&#160;44100</td></tr>
-<tr class="separator:abe9b1c28165a7071e354bd9d7823ca1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac42c901b241f3189fb2451bfea993e1a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#ac42c901b241f3189fb2451bfea993e1a">DEFAULT_BLOCK_SIZE</a>&#160;&#160;&#160;64</td></tr>
-<tr class="separator:ac42c901b241f3189fb2451bfea993e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8bad2cd89820cdaf2a7f26392774014"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#aa8bad2cd89820cdaf2a7f26392774014">MAX_BLOCK_SIZE</a>&#160;&#160;&#160;8192</td></tr>
-<tr class="separator:aa8bad2cd89820cdaf2a7f26392774014"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9e21524eb427917989ca669c0726f31"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#ad9e21524eb427917989ca669c0726f31">BUFFERS_ARE_EQUAL</a>&#160;&#160;&#160;0</td></tr>
-<tr class="separator:ad9e21524eb427917989ca669c0726f31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a12350286f0029900491791492a7ffd71"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#a12350286f0029900491791492a7ffd71">NUM_AUDIO_BLOCKS_TO_PROCESS</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:a12350286f0029900491791492a7ffd71"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ec5fd3351f6ad4f32994fd74215fb76"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#a9ec5fd3351f6ad4f32994fd74215fb76">CHANNEL_IS_SILENT</a>&#160;&#160;&#160;1</td></tr>
-<tr class="separator:a9ec5fd3351f6ad4f32994fd74215fb76"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2bc47e76f3f6ff23e0ccf3374974c0be"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vsttestsuite_8cpp.html#a2bc47e76f3f6ff23e0ccf3374974c0be">TOUGHTESTS</a>&#160;&#160;&#160;0</td></tr>
-<tr class="separator:a2bc47e76f3f6ff23e0ccf3374974c0be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a71ffce1e11a8064f6cb5a4b09b1de3a2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><b>DEF_CLASS_IID</b> (IPlugProvider) FUnknown *gStandardPluginContext</td></tr>
-<tr class="separator:a71ffce1e11a8064f6cb5a4b09b1de3a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b240f86f95e4c6ad68aae092750fe0c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><b>setStandardPluginContext</b> (FUnknown *context)</td></tr>
-<tr class="memdesc:a0b240f86f95e4c6ad68aae092750fe0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set from outside the plug-in context (simulating a host context)  <a href="#a0b240f86f95e4c6ad68aae092750fe0c">More...</a><br /></td></tr>
-<tr class="separator:a0b240f86f95e4c6ad68aae092750fe0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00440c974c94f57613ac576e199cf298"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><b>IMPLEMENT_FUNKNOWN_METHODS</b> (VstTestBase, ITest, ITest::iid) bool VstTestBase</td></tr>
-<tr class="separator:a00440c974c94f57613ac576e199cf298"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d0fbc3f034e26b2a6e6906ced4a121d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><b>IMPLEMENT_FUNKNOWN_METHODS</b> (ParamChanges, IParamValueQueue, IParamValueQueue::iid) IMPLEMENT_FUNKNOWN_METHODS(VstAutomationTest</td></tr>
-<tr class="separator:a6d0fbc3f034e26b2a6e6906ced4a121d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a06c28a79a86726a57f6b02107124a83b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><b>IParameterChanges</b></td></tr>
-<tr class="separator:a06c28a79a86726a57f6b02107124a83b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a class="anchor" id="ab3be0641eb76161a48ed528e6eea2ac3"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define NUM_ITERATIONS&#160;&#160;&#160;20</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="abe9b1c28165a7071e354bd9d7823ca1a"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define DEFAULT_SAMPLE_RATE&#160;&#160;&#160;44100</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ac42c901b241f3189fb2451bfea993e1a"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define DEFAULT_BLOCK_SIZE&#160;&#160;&#160;64</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="aa8bad2cd89820cdaf2a7f26392774014"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_BLOCK_SIZE&#160;&#160;&#160;8192</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ad9e21524eb427917989ca669c0726f31"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define BUFFERS_ARE_EQUAL&#160;&#160;&#160;0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a12350286f0029900491791492a7ffd71"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define NUM_AUDIO_BLOCKS_TO_PROCESS&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a9ec5fd3351f6ad4f32994fd74215fb76"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define CHANNEL_IS_SILENT&#160;&#160;&#160;1</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a2bc47e76f3f6ff23e0ccf3374974c0be"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TOUGHTESTS&#160;&#160;&#160;0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <html>
@@ -286,7 +121,7 @@ Variables</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=left>
-        Copyright &copy;2018 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2019 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

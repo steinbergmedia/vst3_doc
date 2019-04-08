@@ -1,5 +1,17 @@
 var NAVTREEINDEX6 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a813cbf9dee7a64708f56160974dd37b0":[1,0,0,0,2,38,4],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#ab1e069a5e328d16ced977ee0bf131833":[1,0,0,0,2,38,0],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[1,0,0,0,2,38,5],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html":[1,0,0,0,2,39],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,39,3],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a276eca5290e17ef9227e019ca41d77b1":[1,0,0,0,2,39,1],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a2fa065b100d8f5db66d6ec88074e0068":[1,0,0,0,2,39,16],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,39,7],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,39,5],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,39,2],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a5d476218c50f30055b64d7cf946c2021":[1,0,0,0,2,39,14],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a627c2297758371e8e0ff55c5d8b98810":[1,0,0,0,2,39,9],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a62c3c6c279f672e5f6ac32ff3a04d133":[1,0,0,0,2,39,10],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a7f0c18c70cdaaa13df3e80baa55e9b9c":[1,0,0,0,2,39,11],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a96098e566609d80b0850e89701436b54":[1,0,0,0,2,39,6],
@@ -237,17 +249,5 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html#ab8cb2d05d8f8af76a610e783faecb324":[1,0,0,0,2,54,3],
 "classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html#acf4fcdd3cdb0f5ca9eb41df8e85aad8e":[1,0,0,0,2,54,6],
 "classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html#af7aab53314d6d62ad5b017ba85ab50b5":[1,0,0,0,2,54,4],
-"classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html#af7e7f0fc9f3c394f66dc5a8947742272":[1,0,0,0,2,54,1],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html":[1,0,0,0,2,55],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,55,3],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,55,2],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#a813cbf9dee7a64708f56160974dd37b0":[1,0,0,0,2,55,4],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[1,0,0,0,2,55,5],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#acbf9716b7a26d5a082f9ba2f2327983a":[1,0,0,0,2,55,1],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html#acda9c5cfedeeb38209f5218b5ec5cd39":[1,0,0,0,2,55,0],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html":[1,0,0,0,2,56],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a0b872fb569a8d6ca3c6e55e3d7182e57":[1,0,0,0,2,56,9],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a0d600152186b39c5ab43070dc2ddffda":[1,0,0,0,2,56,0],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a1d39518fbf2f23bc7f57d0b823c8239a":[1,0,0,0,2,56,13],
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,56,3]
+"classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html#af7e7f0fc9f3c394f66dc5a8947742272":[1,0,0,0,2,54,1]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX3 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html#af20521d23db4b37d1443c21346fa73f2":[1,0,0,0,2,3,0],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html":[1,0,0,0,2,4],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a0c25846cfb4cee3a28d6446c4f324877":[1,0,0,0,2,4,17],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a14e43faff229f25734bc51b0eae0f84e":[1,0,0,0,2,4,24],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a1ab3531dda4715c32544c69d4cb06d0f":[1,0,0,0,2,4,18],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a2a3941823f36ec6291cbc7d815541d00":[1,0,0,0,2,4,15],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a2bd79d2ab2dfb6aeaf75c2878ad30e1f":[1,0,0,0,2,4,23],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a3c156401c25f7677a4a6a63a4229af4b":[1,0,0,0,2,4,10],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,4,11],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a579f67d43479032fad177c903cad9a49":[1,0,0,0,2,4,19],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a60bbab8211ead54d50dbb672be410342":[1,0,0,0,2,4,13],
+"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a7038d21b7871588b7fd082629d56d4e9":[1,0,0,0,2,4,20],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a77f12234bacd276ef1f27a6c69fabe36":[1,0,0,0,2,4,16],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a985dc60099827f0160cf03e294e3989b":[1,0,0,0,2,4,21],
 "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a9d308272407ba5f7a6768604ff716e47":[1,0,0,0,2,4,22],
@@ -237,17 +249,5 @@ var NAVTREEINDEX3 =
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,11,4],
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,11,3],
 "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85":[1,0,0,0,2,11,0],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a23cd617e615e56c4d6019ecc4553a3a3":[1,0,0,0,2,11,0,1],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a6aa88badc7e8cd93437d2ccf85c589c2":[1,0,0,0,2,11,0,2],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a9d66ddaf312a7a2580a3624fc05860f8":[1,0,0,0,2,11,0,0],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55":[1,0,0,0,2,11,0,3],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#aa508bb2127050ccb3cba6ba84dc09b91":[1,0,0,0,2,11,2],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#ae1393cd500ea7918602c141166ecc592":[1,0,0,0,2,11,1],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html":[1,0,0,0,2,12],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[1,0,0,0,2,12,3],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a29aa9aaa9007e7dd3c04058ac99b789e":[1,0,0,0,2,12,0],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a3026090cef033b689dc36c5f122924f9":[1,0,0,0,2,12,6],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[1,0,0,0,2,12,5],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a386ee47d5e3d4167555bcbe7e458c50e":[1,0,0,0,2,12,7],
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4dae123b5697706651d9ff20c9614f63":[1,0,0,0,2,12,2]
+"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a23cd617e615e56c4d6019ecc4553a3a3":[1,0,0,0,2,11,0,1]
 };

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['buffers_5fare_5fequal',['BUFFERS_ARE_EQUAL',['../vsttestsuite_8cpp.html#ad9e21524eb427917989ca669c0726f31',1,'vsttestsuite.cpp']]]
+  ['declare_5fvsttest',['DECLARE_VSTTEST',['../testbase_8h.html#a23f4ad9728f7038aeac2897684bcc326',1,'testbase.h']]]
 ];

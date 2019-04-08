@@ -4,7 +4,6 @@ var searchData=
   ['unit',['Unit',['../../vstsdk/classSteinberg_1_1Vst_1_1Unit.html#a50125d90c2d04510fdb684ba3fac21dd',1,'Steinberg::Vst::Unit::Unit(const String128 name, UnitID unitId, UnitID parentUnitId=kRootUnitId, ProgramListID programListId=kNoProgramListId)'],['../../vstsdk/classSteinberg_1_1Vst_1_1Unit.html#a74283874e8ea9c7f41dfdcf9ff43ee30',1,'Steinberg::Vst::Unit::Unit(const UnitInfo &amp;unit)']]],
   ['unitdatasupported',['unitDataSupported',['../classSteinberg_1_1Vst_1_1IUnitData.html#a77520fed67487e60b57cebde871d7f48',1,'Steinberg::Vst::IUnitData']]],
   ['unprepare',['unprepare',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#af09fdb1736e7957252ac630096ef6357',1,'Steinberg::Vst::HostProcessData']]],
-  ['unprepareprocessing',['unprepareProcessing',['../../vstsdk/classSteinberg_1_1Vst_1_1VstProcessTest.html#a34503c879cfca0506041bc273c97d9cb',1,'Steinberg::Vst::VstAutomationTest']]],
   ['unqueue',['unqueue',['../../base/classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568',1,'Steinberg::IAttributes']]],
   ['unregistereventhandler',['unregisterEventHandler',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e',1,'Steinberg::Linux::IRunLoop']]],
   ['unregistertimer',['unregisterTimer',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618',1,'Steinberg::Linux::IRunLoop']]],

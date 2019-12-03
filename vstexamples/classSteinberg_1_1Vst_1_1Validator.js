@@ -1,5 +1,6 @@
 var classSteinberg_1_1Vst_1_1Validator =
 [
+    [ "ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig" ],
     [ "Module", "classSteinberg_1_1Vst_1_1Validator.html#ab626c416deed7a37c2f1e52f754d4bd3", null ],
     [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html#af28d894fd2a793dd760457dda83c36e5", null ],
     [ "~Validator", "classSteinberg_1_1Vst_1_1Validator.html#a188a914e53ad8c752e60cca75a9c1016", null ],
@@ -9,17 +10,16 @@ var classSteinberg_1_1Vst_1_1Validator =
     [ "addMessage", "classSteinberg_1_1Vst_1_1Validator.html#a2c9dba5d859ca650cf20f048e13ac370", null ],
     [ "getName", "classSteinberg_1_1Vst_1_1Validator.html#abcfd783e3f96ce0afe0bbd6aa6a5a100", null ],
     [ "createInstance", "classSteinberg_1_1Vst_1_1Validator.html#a960c7957e1318f6cdee291ff365ce07d", null ],
-    [ "filterClassCategory", "classSteinberg_1_1Vst_1_1Validator.html#aa3ee0bc506208a550f50be213f595d02", null ],
-    [ "createTests", "classSteinberg_1_1Vst_1_1Validator.html#a258c65759b46aca2b095a491be5201da", null ],
+    [ "createTests", "classSteinberg_1_1Vst_1_1Validator.html#a609e5d942b477b469958a5ecddaf93d4", null ],
     [ "addTest", "classSteinberg_1_1Vst_1_1Validator.html#afc96923e9a5755b429017d66df8759eb", null ],
     [ "runTestSuite", "classSteinberg_1_1Vst_1_1Validator.html#a58f90336ee18c10ad6f66c9841eb3ac6", null ],
+    [ "testModule", "classSteinberg_1_1Vst_1_1Validator.html#a8539dccb2d9f887d16820e3f241b17b7", null ],
     [ "override", "classSteinberg_1_1Vst_1_1Validator.html#ab73fdf8f77ef8c89f6be6c636a26f511", null ],
     [ "argc", "classSteinberg_1_1Vst_1_1Validator.html#ad1447518f4372828b8435ae82e48499e", null ],
     [ "argv", "classSteinberg_1_1Vst_1_1Validator.html#af2efa898e9eed6fe6715279cb1ec35b0", null ],
     [ "mPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1Validator.html#a5552f3d766a2708d4f59dc2ca9865dc9", null ],
-    [ "module", "classSteinberg_1_1Vst_1_1Validator.html#af6d4e324a6c424dd406109a9fade0365", null ],
-    [ "testModule", "classSteinberg_1_1Vst_1_1Validator.html#af2b22681f7646b4b1ebada27852739bf", null ],
-    [ "testSuite", "classSteinberg_1_1Vst_1_1Validator.html#ab8f259078c230918ae561efae6828646", null ],
     [ "numTestsFailed", "classSteinberg_1_1Vst_1_1Validator.html#a04333b79129a2a6fbeb8927dcdf9c361", null ],
-    [ "numTestsPassed", "classSteinberg_1_1Vst_1_1Validator.html#ad88cf3c988d08f5f55d36e4394f489fd", null ]
+    [ "numTestsPassed", "classSteinberg_1_1Vst_1_1Validator.html#ad88cf3c988d08f5f55d36e4394f489fd", null ],
+    [ "infoStream", "classSteinberg_1_1Vst_1_1Validator.html#a115212bd9693823b40af1f6df57b62fa", null ],
+    [ "errorStream", "classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f", null ]
 ];

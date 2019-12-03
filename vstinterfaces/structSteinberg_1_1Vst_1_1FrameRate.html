@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -116,7 +116,7 @@ $(document).ready(function(){initNavTree('structSteinberg_1_1Vst_1_1FrameRate.ht
 </div><!--header-->
 <div class="contents">
 
-<p>Frame Rate.  
+<p>Frame Rate A frame rate describes the number of image (frame) displayed per second.  
  <a href="structSteinberg_1_1Vst_1_1FrameRate.html#details">More...</a></p>
 
 <p><code>#include &lt;ivstprocesscontext.h&gt;</code></p>
@@ -130,15 +130,27 @@ Public Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9f29f1e74507c8ad3d1be129fc8b7b53"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1FrameRate.html#a9f29f1e74507c8ad3d1be129fc8b7b53">framesPerSecond</a></td></tr>
+<tr class="memitem:a9f29f1e74507c8ad3d1be129fc8b7b53"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1FrameRate.html#a9f29f1e74507c8ad3d1be129fc8b7b53">framesPerSecond</a></td></tr>
 <tr class="memdesc:a9f29f1e74507c8ad3d1be129fc8b7b53"><td class="mdescLeft">&#160;</td><td class="mdescRight">frame rate  <a href="#a9f29f1e74507c8ad3d1be129fc8b7b53">More...</a><br /></td></tr>
 <tr class="separator:a9f29f1e74507c8ad3d1be129fc8b7b53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81a27ce50e78368b0d0de1e8767fd32d"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1FrameRate.html#a81a27ce50e78368b0d0de1e8767fd32d">flags</a></td></tr>
+<tr class="memitem:a81a27ce50e78368b0d0de1e8767fd32d"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1FrameRate.html#a81a27ce50e78368b0d0de1e8767fd32d">flags</a></td></tr>
 <tr class="memdesc:a81a27ce50e78368b0d0de1e8767fd32d"><td class="mdescLeft">&#160;</td><td class="mdescRight">flags <a class="el" href="structSteinberg_1_1Vst_1_1FrameRate.html#a0e1b90fc53cc88f751388bc4466a4665">FrameRateFlags</a>  <a href="#a81a27ce50e78368b0d0de1e8767fd32d">More...</a><br /></td></tr>
 <tr class="separator:a81a27ce50e78368b0d0de1e8767fd32d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Frame Rate. </p>
+<div class="textblock"><p>Frame Rate A frame rate describes the number of image (frame) displayed per second. </p>
+<p>Some examples:</p><ul>
+<li>23.976 fps is framesPerSecond: 24 and flags: kPullDownRate</li>
+<li>24 fps is framesPerSecond: 24 and flags: 0</li>
+<li>25 fps is framesPerSecond: 25 and flags: 0</li>
+<li>29.97 drop fps is framesPerSecond: 30 and flags: kDropRate|kPullDownRate</li>
+<li>29.97 fps is framesPerSecond: 30 and flags: kPullDownRate</li>
+<li>30 fps is framesPerSecond: 30 and flags: 0</li>
+<li>30 drop fps is framesPerSecond: 30 and flags: kDropRate</li>
+<li>50 fps is framesPerSecond: 50 and flags: 0</li>
+<li>59.94 fps is framesPerSecond: 60 and flags: kPullDownRate</li>
+<li>60 fps is framesPerSecond: 60 and flags: 0 </li>
+</ul>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a class="anchor" id="a0e1b90fc53cc88f751388bc4466a4665"></a>
 <div class="memitem">
@@ -151,10 +163,8 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="a0e1b90fc53cc88f751388bc4466a4665aa2055ed514ccc81c537ca60ddbdaa226"></a>kPullDownRate&#160;</td><td class="fielddoc">
-<p>for ex. HDTV: 23.976 fps with 24 as frame rate </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="a0e1b90fc53cc88f751388bc4466a4665a859f363f2bc4f6bb60331d4106870722"></a>kDropRate&#160;</td><td class="fielddoc">
-<p>for ex. 29.97 fps drop with 30 as frame rate </p>
 </td></tr>
 </table>
 
@@ -166,7 +176,7 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> framesPerSecond</td>
+          <td class="memname"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> framesPerSecond</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -180,7 +190,7 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> flags</td>
+          <td class="memname"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a> flags</td>
         </tr>
       </table>
 </div><div class="memdoc">

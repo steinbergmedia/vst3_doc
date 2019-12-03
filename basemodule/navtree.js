@@ -35,6 +35,7 @@ var NAVTREE =
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -46,8 +47,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classSteinberg_1_1FStreamer.html#a079a7a951eee3154e9e89808d02ecc3d",
-"fdebug_8h.html#ad0a48883bb586ecd370427352cd3e017",
-"structSteinberg_1_1FConditionalBoolSetter.html#a46c5ce3d2063724dc2cac0a21fef7529"
+"fdebug_8h.html#ac9bfa937bab4882709076060b7c00392",
+"structSteinberg_1_1FCloser.html#a2187198e46898e7a63b0db52f9e2bf03"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

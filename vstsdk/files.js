@@ -18,6 +18,10 @@ var files =
     [ "ausdk.mm", "ausdk_8mm.html", null ],
     [ "auwrapper.h", "auwrapper_8h.html", null ],
     [ "auwrapper.mm", "auwrapper_8mm.html", null ],
+    [ "connectionproxy.cpp", "connectionproxy_8cpp.html", null ],
+    [ "connectionproxy.h", "connectionproxy_8h.html", [
+      [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", "classSteinberg_1_1Vst_1_1ConnectionProxy" ]
+    ] ],
     [ "doc.h", "doc_8h.html", null ],
     [ "doc_faq.h", "doc__faq_8h.html", null ],
     [ "doc_license.h", "doc__license_8h.html", null ],
@@ -99,7 +103,6 @@ var files =
     [ "vstaudioprocessoralgo.h", "vstaudioprocessoralgo_8h.html", "vstaudioprocessoralgo_8h" ],
     [ "vstbus.cpp", "vstbus_8cpp.html", null ],
     [ "vstbus.h", "vstbus_8h.html", null ],
-    [ "vstbypassprocessor.cpp", "vstbypassprocessor_8cpp.html", null ],
     [ "vstbypassprocessor.h", "vstbypassprocessor_8h.html", "vstbypassprocessor_8h" ],
     [ "vstcomponent.cpp", "vstcomponent_8cpp.html", "vstcomponent_8cpp" ],
     [ "vstcomponent.h", "vstcomponent_8h.html", "vstcomponent_8h" ],

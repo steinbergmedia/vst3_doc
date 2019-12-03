@@ -30,6 +30,7 @@ var searchData=
   ['setfillsize',['setFillSize',['../classSteinberg_1_1Buffer.html#aeb44fb76e1d019848f6e3fae79232254',1,'Steinberg::Buffer']]],
   ['setmaxsize',['setMaxSize',['../classSteinberg_1_1Buffer.html#adbdb3ea09c55b9e12675c45709999dfe',1,'Steinberg::Buffer']]],
   ['setsize',['setSize',['../classSteinberg_1_1Buffer.html#a5db5816376f3e60cbe277ed6f714f5b4',1,'Steinberg::Buffer']]],
+  ['setsmtgunittesting',['setSmtgUnitTesting',['../fdebug_8cpp.html#a52efd3b482fb6cae898073589f43d0c7',1,'setSmtgUnitTesting():&#160;fdebug.cpp'],['../fdebug_8h.html#a52efd3b482fb6cae898073589f43d0c7',1,'setSmtgUnitTesting():&#160;fdebug.cpp']]],
   ['settext',['setText',['../classSteinberg_1_1StringObject.html#aeb29f2426e613590c2e115c359e36d2c',1,'Steinberg::StringObject']]],
   ['settext16',['setText16',['../classSteinberg_1_1StringObject.html#ab5045b0923620a934e187656a5890d80',1,'Steinberg::StringObject']]],
   ['settext8',['setText8',['../classSteinberg_1_1StringObject.html#ab27dd84b242953e7a25e17d8a378744e',1,'Steinberg::StringObject']]],

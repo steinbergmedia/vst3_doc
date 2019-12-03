@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kmaxchannelssupported',['kMaxChannelsSupported',['../vstbypassprocessor_8h.html#aa38fb44000f5b68aae2850bafd0b8391',1,'vstbypassprocessor.h']]]
+  ['getstate',['getState',['../vstsinglecomponenteffect_8cpp.html#ac0b53834dee70ce2548a1416cceb35ab',1,'getState():&#160;vstsinglecomponenteffect.cpp'],['../vstsinglecomponenteffect_8h.html#ac0b53834dee70ce2548a1416cceb35ab',1,'getState():&#160;vstsinglecomponenteffect.h']]]
 ];

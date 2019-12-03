@@ -1,7 +1,7 @@
 var searchData=
 [
   ['mactive',['mActive',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
-  ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#a09d4d9d1e784a8c828716951dd2dbaed',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#a921b4c66c57a500044bf0d277304d6dd',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
+  ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
   ['map',['map',['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
   ['masks',['Masks',['../structSteinberg_1_1Vst_1_1Chord.html#a15c053e1a487c607ed4f57d29a07e117',1,'Steinberg::Vst::Chord']]],
@@ -11,8 +11,8 @@ var searchData=
   ['maxplain',['maxPlain',['../../vstsdk/classSteinberg_1_1Vst_1_1RangeParameter.html#aa8344438020842aadfa3cb0480c6fd0b',1,'Steinberg::Vst::RangeParameter']]],
   ['maxsamplesperblock',['maxSamplesPerBlock',['../structSteinberg_1_1Vst_1_1ProcessSetup.html#a41cd06a0c942a1b3f283092b893d0de3',1,'Steinberg::Vst::ProcessSetup']]],
   ['maxsize',['maxSize',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a609c4f8034f898f63d031c2d0a50e74c',1,'Steinberg::Vst::EventList']]],
-  ['mbuffer',['mBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html#a899855a84c2a3c9adf1d471a5768b38e',1,'Steinberg::Vst::AudioBuffer::mBuffer()'],['../../vstsdk/classSteinberg_1_1Vst_1_1BufferStream.html#a5d0b20ac855d21274cac7f4e614d839d',1,'Steinberg::Vst::BufferStream::mBuffer()']]],
-  ['mdelaybuffer',['mDelayBuffer',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#ac2063663fd4c3d10222a35fb68b1f04d',1,'Steinberg::Vst::BypassProcessor::Delay']]],
+  ['mbuffer',['mBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html#a2ac1103ffae191ddfb568b0731b49b79',1,'Steinberg::Vst::AudioBuffer::mBuffer()'],['../../vstsdk/classSteinberg_1_1Vst_1_1BufferStream.html#a5d0b20ac855d21274cac7f4e614d839d',1,'Steinberg::Vst::BufferStream::mBuffer()']]],
+  ['mdelaybuffer',['mDelayBuffer',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a7b0892748450b983c4775c5ffdc3a24d',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mdelays',['mDelays',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#af03bc4cf393d19019897417293c55663',1,'Steinberg::Vst::BypassProcessor']]],
   ['mdelaysamples',['mDelaySamples',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1b6e654cccea1d9d3b8ac8fdf5d349ef',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mediatype',['mediaType',['../structSteinberg_1_1Vst_1_1BusInfo.html#ac12e8d0c4308238a04fefe98e39b1514',1,'Steinberg::Vst::BusInfo::mediaType()'],['../structSteinberg_1_1Vst_1_1RoutingInfo.html#ac12e8d0c4308238a04fefe98e39b1514',1,'Steinberg::Vst::RoutingInfo::mediaType()'],['../group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'Steinberg::Vst::MediaType()']]],

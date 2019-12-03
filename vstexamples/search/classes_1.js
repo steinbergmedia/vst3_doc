@@ -13,5 +13,7 @@ var searchData=
   ['bus',['Bus',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html',1,'Steinberg::Vst']]],
   ['businfo',['BusInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1BusInfo.html',1,'Steinberg::Vst']]],
   ['buslist',['BusList',['../../vstsdk/classSteinberg_1_1Vst_1_1BusList.html',1,'Steinberg::Vst']]],
-  ['bypassprocessor',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'Steinberg::Vst']]]
+  ['bypassprocessor',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'Steinberg::Vst']]],
+  ['bypassprocessor_3c_20vst_3a_3asample32_20_3e',['BypassProcessor&lt; Vst::Sample32 &gt;',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'Steinberg::Vst']]],
+  ['bypassprocessor_3c_20vst_3a_3asample64_20_3e',['BypassProcessor&lt; Vst::Sample64 &gt;',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'Steinberg::Vst']]]
 ];

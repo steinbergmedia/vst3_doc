@@ -1,7 +1,7 @@
 var group__pluginBase =
 [
     [ "FUID", "classSteinberg_1_1FUID.html", [
-      [ "String", "classSteinberg_1_1FUID.html#a0f2fc16d77666544de6fbd65e184ced8", null ],
+      [ "String", "classSteinberg_1_1FUID.html#a2e69817c730e10bae2a6d442eb32b9a7", null ],
       [ "UIDPrintStyle", "classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83", [
         [ "kINLINE_UID", "classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83a9f131fba80cf6b9f835dbcd1893a8e2a", null ],
         [ "kDECLARE_UID", "classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83a0645d915ab71dfc6a46b46b2e0437b01", null ],
@@ -191,6 +191,8 @@ var group__pluginBase =
       [ "operator I *", "classSteinberg_1_1IPtr.html#a4941340f5c6521d726566bf0de9dfa75", null ],
       [ "operator->", "classSteinberg_1_1IPtr.html#a93399dd839b3516b6474de96a0f8ba70", null ],
       [ "get", "classSteinberg_1_1IPtr.html#a833176d8a4233f0989e7b24a44be4cfd", null ],
+      [ "reset", "classSteinberg_1_1IPtr.html#a9ef8df82f56d037f33eedf88dc642ac1", null ],
+      [ "take", "classSteinberg_1_1IPtr.html#ad23e3081bab74289f4472701b2707ad3", null ],
       [ "operator=", "classSteinberg_1_1IPtr.html#abb98e2094ca55f8b3b6f1dd7a275f8bd", null ],
       [ "ptr", "classSteinberg_1_1IPtr.html#a7c145f458643ff993b929f236d4a2ac0", null ]
     ] ],

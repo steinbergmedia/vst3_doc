@@ -46,6 +46,7 @@ var searchData=
   ['epianoprocessor',['EPianoProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html',1,'Steinberg::Vst::mda']]],
   ['eprefetchablesupport',['ePrefetchableSupport',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a18aa40e583fe3a75b569e7129e0d89b5',1,'Steinberg::Vst']]],
   ['errormessageshown',['errorMessageShown',['../../base/classSteinberg_1_1IErrorContext.html#a344d0ab2c2edc4aa4f47af8617375d4f',1,'Steinberg::IErrorContext']]],
+  ['errorstream',['errorStream',['../classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f',1,'Steinberg::Vst::Validator']]],
   ['event',['Event',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html',1,'Steinberg::Vst']]],
   ['event_5flist',['EVENT_LIST',['../logevents_8h.html#a2cd9d1eb177a484140e69f47afd55568',1,'logevents.h']]],
   ['eventbuffer',['EVENTBUFFER',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a726ca809ffd3d67ab4b8476646f26635a87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::DX10Processor::EVENTBUFFER()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57a87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::JX10Processor::EVENTBUFFER()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a385c44f6fb256e5716a2302a5b940388a87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::PianoProcessor::EVENTBUFFER()']]],

@@ -17,7 +17,7 @@ var indexSectionsWithContent =
   7: "abcdefikmnoprsuv",
   8: "kv",
   9: "w",
-  10: "defgkmsuv",
+  10: "_defgkmsuv",
   11: "bcgpsv",
   12: "cfhiknoprstuv"
 };

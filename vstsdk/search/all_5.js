@@ -37,5 +37,5 @@ var searchData=
   ['events',['events',['../classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
   ['eventtypes',['EventTypes',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8',1,'Steinberg::Vst::Event']]],
   ['executemenuitem',['executeMenuItem',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]],
-  ['exitmodulefunc',['ExitModuleFunc',['../module__win32_8cpp.html#aa4b58c536332406d52d24e2c922249fa',1,'module_win32.cpp']]]
+  ['exitmodulefunc',['ExitModuleFunc',['../module__win32_8cpp.html#a56b0f237e07f0782cc40b2e9f12d4a92',1,'module_win32.cpp']]]
 ];

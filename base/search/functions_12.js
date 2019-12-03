@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['take',['take',['../classSteinberg_1_1IString.html#a278b6bc34d672210e69dbde261f52cab',1,'Steinberg::IString']]],
+  ['take',['take',['../classSteinberg_1_1IString.html#a278b6bc34d672210e69dbde261f52cab',1,'Steinberg::IString::take()'],['../classSteinberg_1_1IPtr.html#ad23e3081bab74289f4472701b2707ad3',1,'Steinberg::IPtr::take()']]],
   ['tell',['tell',['../classSteinberg_1_1IBStream.html#a25dc574e08d9d76e0c2805bb2f30f7ba',1,'Steinberg::IBStream']]],
   ['terminate',['terminate',['../classSteinberg_1_1IPluginBase.html#a1563a6e0e622483924e5f21242407f16',1,'Steinberg::IPluginBase']]],
   ['to4int',['to4Int',['../classSteinberg_1_1FUID.html#aa8cc6a07a3f18cf01313393f7e5e8c87',1,'Steinberg::FUID']]],

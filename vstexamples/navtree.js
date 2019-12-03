@@ -5,6 +5,7 @@ var NAVTREE =
       [ "Namespace List", "namespaces.html", "namespaces" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
+        [ "Variables", "namespacemembers_vars.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ],
         [ "Enumerator", "namespacemembers_eval.html", null ]
       ] ]
@@ -39,17 +40,18 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classSteinberg_1_1Vst_1_1AGainController.html#a0c25846cfb4cee3a28d6446c4f324877",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html#afe0b33e85bc0cd3854f21cb1f3c80f47",
-"classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html#af20521d23db4b37d1443c21346fa73f2",
-"classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85a6aa88badc7e8cd93437d2ccf85c589c2",
-"classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#af1251a78af95b174cf6fa123dbe441a7",
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#a813cbf9dee7a64708f56160974dd37b0",
-"classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html",
-"classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a04ce053e4cd48d3cf10e0128c0484738",
-"globals_defs_o.html",
-"mdaDetuneProcessor_8cpp.html",
-"pitchnames_2source_2version_8h.html"
+"classSteinberg_1_1Vst_1_1AGainController.html",
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html#a74db25f9a66a670ff6eb17b6dbe263ee",
+"classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55",
+"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a8e951c7637c5524807294806bb2948cc",
+"classSteinberg_1_1Vst_1_1mda_1_1DynamicsController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55",
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae859c6fbd7fb9f595683538ee5e98735",
+"classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html",
+"classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a46fc11aca1e39fba7c5033c40690c4a7",
+"functions_vars_w.html",
+"logevents_8h.html#afc84f29132b630b33d341d0769a66d46acca55d9df20a4e82dbd4db7a92b7bc2a",
+"note__expression__synth_2source_2version_8h.html#a9278205f41909b317803db604ed1075d",
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a388bb4f1d708946f5687b985a59bb6e9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

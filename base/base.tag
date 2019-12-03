@@ -2,14 +2,14 @@
 <tagfile>
   <compound kind="file">
     <name>conststringtable.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>conststringtable_8cpp</filename>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" imported="no">conststringtable.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>conststringtable.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>conststringtable_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <class kind="class">Steinberg::ConstStringTable</class>
@@ -17,7 +17,7 @@
   </compound>
   <compound kind="file">
     <name>coreiids.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>coreiids_8cpp</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <includes id="ibstream_8h" name="ibstream.h" local="yes" imported="no">pluginterfaces/base/ibstream.h</includes>
@@ -28,22 +28,22 @@
   </compound>
   <compound kind="file">
     <name>doc.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>doc_8h</filename>
   </compound>
   <compound kind="file">
     <name>falignpop.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>falignpop_8h</filename>
   </compound>
   <compound kind="file">
     <name>falignpush.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>falignpush_8h</filename>
   </compound>
   <compound kind="file">
     <name>fplatform.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fplatform_8h</filename>
     <member kind="define">
       <type>#define</type>
@@ -96,6 +96,13 @@
     </member>
     <member kind="define">
       <type>#define</type>
+      <name>SMTG_CONSTEXPR</name>
+      <anchorfile>fplatform_8h.html</anchorfile>
+      <anchor>ae879ea0d66915005ec8ea88f2f1f2762</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
       <name>SMTG_NOEXCEPT</name>
       <anchorfile>fplatform_8h.html</anchorfile>
       <anchor>a5932d425a53de42eaf3ccb6ab2695e71</anchor>
@@ -118,7 +125,7 @@
   </compound>
   <compound kind="file">
     <name>fstrdefs.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fstrdefs_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" imported="no">conststringtable.h</includes>
@@ -462,7 +469,7 @@
   </compound>
   <compound kind="file">
     <name>ftypes.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ftypes_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">fplatform.h</includes>
     <namespace>Steinberg</namespace>
@@ -721,7 +728,7 @@
   </compound>
   <compound kind="file">
     <name>funknown.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>funknown_8cpp</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">fstrdefs.h</includes>
@@ -737,7 +744,7 @@
   </compound>
   <compound kind="file">
     <name>funknown.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>funknown_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">pluginterfaces/base/fplatform.h</includes>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
@@ -940,7 +947,7 @@
   </compound>
   <compound kind="file">
     <name>futils.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>futils_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -1017,7 +1024,7 @@
   </compound>
   <compound kind="file">
     <name>fvariant.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>fvariant_8h</filename>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">pluginterfaces/base/fstrdefs.h</includes>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
@@ -1040,7 +1047,7 @@
   </compound>
   <compound kind="file">
     <name>geoconstants.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>geoconstants_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::GeoConstants</namespace>
@@ -1173,7 +1180,7 @@
   </compound>
   <compound kind="file">
     <name>ibstream.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ibstream_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <class kind="class">Steinberg::IBStream</class>
@@ -1182,7 +1189,7 @@
   </compound>
   <compound kind="file">
     <name>icloneable.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>icloneable_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <class kind="class">Steinberg::ICloneable</class>
@@ -1190,7 +1197,7 @@
   </compound>
   <compound kind="file">
     <name>ierrorcontext.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ierrorcontext_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IErrorContext</class>
@@ -1198,7 +1205,7 @@
   </compound>
   <compound kind="file">
     <name>ipersistent.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ipersistent_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IPersistent</class>
@@ -1215,7 +1222,7 @@
   </compound>
   <compound kind="file">
     <name>ipluginbase.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ipluginbase_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" imported="no">fstrdefs.h</includes>
@@ -1252,7 +1259,7 @@
   </compound>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <includes id="typesizecheck_8h" name="typesizecheck.h" local="yes" imported="no">pluginterfaces/base/typesizecheck.h</includes>
@@ -1309,7 +1316,7 @@
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <includes id="falignpush_8h" name="falignpush.h" local="yes" imported="no">pluginterfaces/base/falignpush.h</includes>
@@ -1319,7 +1326,7 @@
   </compound>
   <compound kind="file">
     <name>istringresult.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>istringresult_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IStringResult</class>
@@ -1328,7 +1335,7 @@
   </compound>
   <compound kind="file">
     <name>iupdatehandler.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>iupdatehandler_8h</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" imported="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IUpdateHandler</class>
@@ -1337,7 +1344,7 @@
   </compound>
   <compound kind="file">
     <name>keycodes.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>keycodes_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <class kind="struct">Steinberg::KeyCode</class>
@@ -1927,14 +1934,14 @@
   </compound>
   <compound kind="file">
     <name>pluginbasefwd.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>pluginbasefwd_8h</filename>
     <class kind="class">Steinberg::IPtr</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>smartpointer.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>smartpointer_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">pluginterfaces/base/fplatform.h</includes>
     <class kind="class">Steinberg::IPtr</class>
@@ -1957,7 +1964,7 @@
   </compound>
   <compound kind="file">
     <name>typesizecheck.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>typesizecheck_8h</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" imported="no">pluginterfaces/base/fplatform.h</includes>
     <member kind="define">
@@ -1970,7 +1977,7 @@
   </compound>
   <compound kind="file">
     <name>ucolorspec.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ucolorspec_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -2269,45 +2276,45 @@
       <arglist></arglist>
     </member>
     <member kind="function">
-      <type>ColorSpec</type>
+      <type>SMTG_CONSTEXPR ColorSpec</type>
       <name>MakeColorSpec</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a09d4d9d1e784a8c828716951dd2dbaed</anchor>
+      <anchor>aa3e0271047ce95a6e8097ece6edd712b</anchor>
       <arglist>(ColorComponent r, ColorComponent g, ColorComponent b)</arglist>
     </member>
     <member kind="function">
-      <type>ColorSpec</type>
+      <type>SMTG_CONSTEXPR ColorSpec</type>
       <name>MakeColorSpec</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a921b4c66c57a500044bf0d277304d6dd</anchor>
+      <anchor>ae445afc6fd5a0c291ebfa793a174a68f</anchor>
       <arglist>(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetBlue</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a936e38e001cf33dd00adf19e5418796b</anchor>
+      <anchor>a52909a27914fed2be847c64aca5b8a1a</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetGreen</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a66228d341cdb92315d3c91de4ed5216b</anchor>
+      <anchor>aefa5c41df3f68bedacc9309e35242615</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetRed</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acc3eb6a10830817ab0ede3f36a445345</anchor>
+      <anchor>aa2093d47e98716adb212069f951ff841</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetAlpha</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a08e37f461297919e3b3210aee592ecfa</anchor>
+      <anchor>a51cd02b8f8dac485a264e43521c05477</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
@@ -2387,10 +2394,17 @@
       <anchor>a40e3829433bee573a0e88fe838e79d9f</anchor>
       <arglist>(ColorSpec argb)</arglist>
     </member>
+    <member kind="function">
+      <type>ColorSpec SMTG_CONSTEXPR</type>
+      <name>BlendColor</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>ad887b85aff864f174833a619cfa5fba9</anchor>
+      <arglist>(ColorSpec color, double opacity)</arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>ustring.cpp</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ustring_8cpp</filename>
     <includes id="ustring_8h" name="ustring.h" local="yes" imported="no">ustring.h</includes>
     <namespace>Steinberg</namespace>
@@ -2411,7 +2425,7 @@
   </compound>
   <compound kind="file">
     <name>ustring.h</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>ustring_8h</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" imported="no">ftypes.h</includes>
     <class kind="class">Steinberg::UString</class>
@@ -4101,45 +4115,45 @@
       <arglist>(I *p)</arglist>
     </member>
     <member kind="function">
-      <type>ColorSpec</type>
+      <type>SMTG_CONSTEXPR ColorSpec</type>
       <name>MakeColorSpec</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a09d4d9d1e784a8c828716951dd2dbaed</anchor>
+      <anchor>aa3e0271047ce95a6e8097ece6edd712b</anchor>
       <arglist>(ColorComponent r, ColorComponent g, ColorComponent b)</arglist>
     </member>
     <member kind="function">
-      <type>ColorSpec</type>
+      <type>SMTG_CONSTEXPR ColorSpec</type>
       <name>MakeColorSpec</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a921b4c66c57a500044bf0d277304d6dd</anchor>
+      <anchor>ae445afc6fd5a0c291ebfa793a174a68f</anchor>
       <arglist>(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetBlue</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a936e38e001cf33dd00adf19e5418796b</anchor>
+      <anchor>a52909a27914fed2be847c64aca5b8a1a</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetGreen</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a66228d341cdb92315d3c91de4ed5216b</anchor>
+      <anchor>aefa5c41df3f68bedacc9309e35242615</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetRed</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acc3eb6a10830817ab0ede3f36a445345</anchor>
+      <anchor>aa2093d47e98716adb212069f951ff841</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
-      <type>ColorComponent</type>
+      <type>SMTG_CONSTEXPR ColorComponent</type>
       <name>GetAlpha</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a08e37f461297919e3b3210aee592ecfa</anchor>
+      <anchor>a51cd02b8f8dac485a264e43521c05477</anchor>
       <arglist>(ColorSpec cs)</arglist>
     </member>
     <member kind="function">
@@ -4218,6 +4232,13 @@
       <anchorfile>namespaceSteinberg.html</anchorfile>
       <anchor>a40e3829433bee573a0e88fe838e79d9f</anchor>
       <arglist>(ColorSpec argb)</arglist>
+    </member>
+    <member kind="function">
+      <type>ColorSpec SMTG_CONSTEXPR</type>
+      <name>BlendColor</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>ad887b85aff864f174833a619cfa5fba9</anchor>
+      <arglist>(ColorSpec color, double opacity)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
@@ -4403,8 +4424,8 @@
       <type>char8</type>
       <name>String</name>
       <anchorfile>classSteinberg_1_1FUID.html</anchorfile>
-      <anchor>a0f2fc16d77666544de6fbd65e184ced8</anchor>
-      <arglist>[64]</arglist>
+      <anchor>a2e69817c730e10bae2a6d442eb32b9a7</anchor>
+      <arglist>[33]</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -4751,6 +4772,27 @@
       <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
       <anchor>a833176d8a4233f0989e7b24a44be4cfd</anchor>
       <arglist>() const</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>reset</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>a9ef8df82f56d037f33eedf88dc642ac1</anchor>
+      <arglist>(I *obj=nullptr)</arglist>
+    </member>
+    <member kind="function">
+      <type>I *</type>
+      <name>take</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>ad23e3081bab74289f4472701b2707ad3</anchor>
+      <arglist>() SMTG_NOEXCEPT</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static IPtr&lt; I &gt;</type>
+      <name>adopt</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>a7bb3f6e7f2c0de237814076dfe445742</anchor>
+      <arglist>(I *obj) SMTG_NOEXCEPT</arglist>
     </member>
     <member kind="variable" protection="protected">
       <type>I *</type>
@@ -5784,6 +5826,20 @@
       <arglist>() const </arglist>
     </member>
     <member kind="function">
+      <type>void</type>
+      <name>reset</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>a9ef8df82f56d037f33eedf88dc642ac1</anchor>
+      <arglist>(I *obj=nullptr)</arglist>
+    </member>
+    <member kind="function">
+      <type>I *</type>
+      <name>take</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>ad23e3081bab74289f4472701b2707ad3</anchor>
+      <arglist>() SMTG_NOEXCEPT</arglist>
+    </member>
+    <member kind="function">
       <type></type>
       <name>IPtr</name>
       <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
@@ -5796,6 +5852,13 @@
       <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
       <anchor>abb98e2094ca55f8b3b6f1dd7a275f8bd</anchor>
       <arglist>(const IPtr&lt; I &gt; &amp;_ptr)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static IPtr&lt; T &gt;</type>
+      <name>adopt</name>
+      <anchorfile>classSteinberg_1_1IPtr.html</anchorfile>
+      <anchor>a7bb3f6e7f2c0de237814076dfe445742</anchor>
+      <arglist>(T *obj) SMTG_NOEXCEPT</arglist>
     </member>
     <member kind="variable" protection="protected">
       <type>I *</type>
@@ -6776,7 +6839,7 @@
   </compound>
   <compound kind="dir">
     <name>base</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/base/</path>
     <filename>dir_763ef224aee72e7677b478d3b8d1aaab.html</filename>
     <file>conststringtable.cpp</file>
     <file>conststringtable.h</file>
@@ -6809,14 +6872,14 @@
   </compound>
   <compound kind="dir">
     <name>gui</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>dir_2b55989507b85f9714d7502e3b031586.html</filename>
     <file>iplugview.h</file>
     <file>iplugviewcontentscalesupport.h</file>
   </compound>
   <compound kind="dir">
     <name>pluginterfaces</name>
-    <path>/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
+    <path>/Builddata/re/232983844/b/VST_SDK/VST3_SDK/pluginterfaces/</path>
     <filename>dir_a16602e771dbe98bb8f2594e31082617.html</filename>
     <dir>base</dir>
     <dir>gui</dir>

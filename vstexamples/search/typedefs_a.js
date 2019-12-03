@@ -2,7 +2,7 @@ var searchData=
 [
   ['parameterptrvector',['ParameterPtrVector',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterContainer.html#a6c53528dbca2a65e9fd7e368c4e17b27',1,'Steinberg::Vst::ParameterContainer']]],
   ['paramid',['ParamID',['../../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c',1,'Steinberg::Vst::ParamID()'],['../../vstinterfaces/group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c',1,'ParamID()(Global Namespace)']]],
-  ['paramids',['ParamIDs',['../classHostCheck.html#a7624bb7d972e2a7632214507b6f6c8b1',1,'HostCheck::ParamIDs()'],['../classParameterChangesCheck.html#a7624bb7d972e2a7632214507b6f6c8b1',1,'ParameterChangesCheck::ParamIDs()']]],
+  ['paramids',['ParamIDs',['../classHostCheck.html#a12545cf3694a77e5788dab059a35cbce',1,'HostCheck::ParamIDs()'],['../classParameterChangesCheck.html#a7624bb7d972e2a7632214507b6f6c8b1',1,'ParameterChangesCheck::ParamIDs()']]],
   ['paramvalue',['ParamValue',['../../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641',1,'Steinberg::Vst::ParamValue()'],['../../vstinterfaces/group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641',1,'ParamValue()(Global Namespace)']]],
   ['pathlist',['PathList',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#acdb10dcad8762c5983d925df70f95732',1,'VST3::Hosting::Module']]],
   ['pclassinfo',['PClassInfo',['../../vstsdk/classVST3_1_1Hosting_1_1ClassInfo.html#a544d91c2095ee771f555b023fa317f0b',1,'VST3::Hosting::ClassInfo']]],

@@ -11,7 +11,6 @@ var searchData=
   ['smtg_5fdbprt4',['SMTG_DBPRT4',['../fdebug_8h.html#aa36f1d3aee0d987774c0b378c3f0d388',1,'fdebug.h']]],
   ['smtg_5fdbprt5',['SMTG_DBPRT5',['../fdebug_8h.html#a1f6a3bf7072ece31220823a76e2841ae',1,'fdebug.h']]],
   ['smtg_5fdebugstr',['SMTG_DEBUGSTR',['../fdebug_8h.html#ac9bfa937bab4882709076060b7c00392',1,'fdebug.h']]],
-  ['smtg_5fis_5ftest',['SMTG_IS_TEST',['../fdebug_8h.html#a7d20c982526ebd75fb56ca5511380b4c',1,'fdebug.h']]],
   ['smtg_5fprintsyserror',['SMTG_PRINTSYSERROR',['../fdebug_8h.html#aa58eec37e07b00b1ef4409319a6c1d48',1,'fdebug.h']]],
   ['smtg_5fstring_5fcheck_5fconversion',['SMTG_STRING_CHECK_CONVERSION',['../fstring_8cpp.html#a4d8936bba50eec59bad21b4d3ba3ccd2',1,'fstring.cpp']]],
   ['smtg_5fstring_5fcheck_5fconversion_5fno_5fbreak',['SMTG_STRING_CHECK_CONVERSION_NO_BREAK',['../fstring_8cpp.html#ae9b310832caa4fdd9b19f123b86e8cab',1,'fstring.cpp']]],

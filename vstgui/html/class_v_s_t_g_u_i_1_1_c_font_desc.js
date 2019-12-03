@@ -1,0 +1,25 @@
+var class_v_s_t_g_u_i_1_1_c_font_desc =
+[
+    [ "PlatformFontPtr", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a92a65435a53ecdc78fe79c313978b5e2", null ],
+    [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a14ed77aef1dc970d25f0f52ff2ca26f3", null ],
+    [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a157fa104aedea9ca50ac572388f6816a", null ],
+    [ "~CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a746556b1ae9de2c280d38a27a0a5eb12", null ],
+    [ "beforeDelete", "class_v_s_t_g_u_i_1_1_c_font_desc.html#adc36f3faf62b04701b310c82c0b605a5", null ],
+    [ "cleanup", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a4b66d5e31b5dc18b314c8a68163263bd", null ],
+    [ "freePlatformFont", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a8320c1ae5fc44c383e96220707f3654c", null ],
+    [ "getFontPainter", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a2c0e60cb340ad9ebb420aee48ac6677c", null ],
+    [ "getName", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a9a2998915c15190196b1131ac28ec33e", null ],
+    [ "getPlatformFont", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a3f96def1edba45f4bc348b1a746e3dba", null ],
+    [ "getSize", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a41e097ceebffe54a8ed361d006164fc6", null ],
+    [ "getStyle", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a8258f5208a5d8e941b3018bf004e6367", null ],
+    [ "operator!=", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a6ca660bbec14c63095cf21e32f2becfa", null ],
+    [ "operator=", "class_v_s_t_g_u_i_1_1_c_font_desc.html#af9620c5c8b5fea506df5242bc5b8b1ea", null ],
+    [ "operator==", "class_v_s_t_g_u_i_1_1_c_font_desc.html#aaa01de3ec437604dde2e44183bb053b5", null ],
+    [ "setName", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a10e3f98c54dd5f47ad22f951c24a8b7c", null ],
+    [ "setSize", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a628f10b3308511e5cc29f9ed76ef8b07", null ],
+    [ "setStyle", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a921dad1b65204e0e6c501e64b83dcc02", null ],
+    [ "name", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a820ae9ca94c72fb06fcac9cc544ea24b", null ],
+    [ "platformFont", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a46439ec22f4f0d42293edb8ed44970ba", null ],
+    [ "size", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a9d44b70e2b1d21a30d7e20040217307e", null ],
+    [ "style", "class_v_s_t_g_u_i_1_1_c_font_desc.html#ac2aa43786a8b7cbdcfb76f31c05f9068", null ]
+];

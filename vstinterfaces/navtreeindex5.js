@@ -1,5 +1,14 @@
 var NAVTREEINDEX5 =
 {
+"ivstchannelcontextinfo_8h.html#af1189c83b63820c6ccc3167402601fea":[21,0,8,1],
+"ivstchannelcontextinfo_8h.html#af44825ca23e7c673682f438d8cf6283e":[21,0,8,8],
+"ivstcomponent_8h.html":[21,0,9],
+"ivstcomponent_8h.html#a45d3e3dfb2fb99bbc186e4d9749f04ed":[21,0,9,6],
+"ivstcomponent_8h.html#a777e41b5a2df0f7e836856644a5982d3":[21,0,9,1],
+"ivstcomponent_8h.html#aec143ffe42b4aa77d9b2cf27183a554e":[21,0,9,5],
+"ivstcomponent_8h.html#aec143ffe42b4aa77d9b2cf27183a554ea069611c39f2a76f05446198e47ac9e35":[21,0,9,5,2],
+"ivstcomponent_8h.html#aec143ffe42b4aa77d9b2cf27183a554ea66def9a432bacb7d44369f4694d38fc1":[21,0,9,5,0],
+"ivstcomponent_8h.html#aec143ffe42b4aa77d9b2cf27183a554ea9419e79f15763b134e99b963cad57fab":[21,0,9,5,1],
 "ivstcomponent_8h.html#ga4849e8fa0da1b39bd3e0af87b441675a":[21,0,9,4],
 "ivstcomponent_8h.html#ga48a6eea2da1c202231eb653f3f764af2":[21,0,9,3],
 "ivstcomponent_8h.html#ga576e5da9bdc49812cf65f803bb303ad5":[21,0,9,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX5 =
 "ivstrepresentation_8h.html#afb97a4db6eec1e1220525a26b21cb306":[21,0,25,77],
 "ivstrepresentation_8h.html#afdd9a4e103915db68761ddaf0ffb4aab":[21,0,25,84],
 "ivsttestplugprovider_8h.html":[21,0,26],
-"ivstunits_8h.html":[21,0,27],
-"keyswitch.html":[3],
-"keyswitch.html#kshowitwork":[3,1],
-"keyswitch.html#ksintro":[3,0],
-"linuxSetup.html":[16],
-"linuxSetup.html#toolchainInstallation":[16,0],
-"modules.html":[18],
-"namespaceSteinberg_1_1Vst_1_1Attributes.html":[19,0,0,0,0],
-"namespaceSteinberg_1_1Vst_1_1AttributesFlags.html":[19,0,0,0,1],
-"namespaceSteinberg_1_1Vst_1_1AttributesFunction.html":[19,0,0,0,2]
+"ivstunits_8h.html":[21,0,27]
 };

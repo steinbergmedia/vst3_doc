@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -106,39 +106,52 @@ $(document).ready(function(){initNavTree('hostcheckerprocessor_8cpp.html','');})
 <div class="header">
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a>  </div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">hostcheckerprocessor.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="hostcheckerprocessor_8h.html">hostcheckerprocessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="cids_8h.html">cids.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="hostcheckercontroller_8h.html">hostcheckercontroller.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vstaudioprocessoralgo_8h.html">public.sdk/source/vst/vstaudioprocessoralgo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vstaudioprocessoralgo_8h.html">public.sdk/source/vst/vstaudioprocessoralgo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vsteventshelper_8h.html">public.sdk/source/vst/vsteventshelper.h</a>&quot;</code><br />
 <code>#include &quot;base/source/fstreamer.h&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ibstream_8h.html">pluginterfaces/base/ibstream.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ustring_8h.html">pluginterfaces/base/ustring.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstparameterchanges_8h.html">pluginterfaces/vst/ivstparameterchanges.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstpluginterfacesupport_8h.html">pluginterfaces/vst/ivstpluginterfacesupport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ibstream_8h.html">pluginterfaces/base/ibstream.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ustring_8h.html">pluginterfaces/base/ustring.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmidicontrollers_8h.html">pluginterfaces/vst/ivstmidicontrollers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstparameterchanges_8h.html">pluginterfaces/vst/ivstparameterchanges.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstpluginterfacesupport_8h.html">pluginterfaces/vst/ivstpluginterfacesupport.h</a>&quot;</code><br />
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
+<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
+<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:aa767fd1e881202949d052eebf3e751b5"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="hostcheckerprocessor_8cpp.html#aa767fd1e881202949d052eebf3e751b5">kMaxLatency</a>&#160;&#160;&#160;8192</td></tr>
-<tr class="separator:aa767fd1e881202949d052eebf3e751b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98c988832e2260b6ef35064afc5c07e9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="hostcheckerprocessor_8cpp.html#a98c988832e2260b6ef35064afc5c07e9">THREAD_CHECK_MSG</a>(msg)&#160;&#160;&#160;&quot;The host called '&quot; msg &quot;' in the wrong thread context.\n&quot;</td></tr>
+<tr class="separator:a98c988832e2260b6ef35064afc5c07e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a0468a21b96e7fbd1d36311275775d9a9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><b>THREAD_CHECK_EXIT</b> = false</td></tr>
+<tr class="separator:a0468a21b96e7fbd1d36311275775d9a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a class="anchor" id="aa767fd1e881202949d052eebf3e751b5"></a>
+<a class="anchor" id="a98c988832e2260b6ef35064afc5c07e9"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define kMaxLatency&#160;&#160;&#160;8192</td>
+          <td class="memname">#define THREAD_CHECK_MSG</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">msg</td><td>)</td>
+          <td>&#160;&#160;&#160;&quot;The host called '&quot; msg &quot;' in the wrong thread context.\n&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">

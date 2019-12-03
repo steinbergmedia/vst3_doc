@@ -1,5 +1,9 @@
 var NAVTREEINDEX3 =
 {
+"structSteinberg_1_1FCloser.html#a2187198e46898e7a63b0db52f9e2bf03":[1,0,0,6,1],
+"structSteinberg_1_1FCloser.html#a370d397cf44fe716a1016d49f41defe1":[1,0,0,6,2],
+"structSteinberg_1_1FCloser.html#a46a490c0e086deff18fe1a1d484b2910":[1,0,0,6,0],
+"structSteinberg_1_1FConditionalBoolSetter.html":[1,0,0,7],
 "structSteinberg_1_1FConditionalBoolSetter.html#a46c5ce3d2063724dc2cac0a21fef7529":[1,0,0,7,0],
 "structSteinberg_1_1FConditionalBoolSetter.html#a619a26a5580c9ea4043a887063b8b6b7":[1,0,0,7,1],
 "structSteinberg_1_1FConditionalBoolSetter.html#a9ace53f30ba43c34f8512bf5e92d2097":[1,0,0,7,2],

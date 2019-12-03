@@ -38,6 +38,7 @@ var files =
     [ "brownnoise.h", "brownnoise_8h.html", [
       [ "BrownNoise", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise" ]
     ] ],
+    [ "cids.h", "cids_8h.html", "cids_8h" ],
     [ "doc.h", "doc_8h.html", null ],
     [ "editorhost.cpp", "editorhost_8cpp.html", "editorhost_8cpp" ],
     [ "editorhost.h", "editorhost_8h.html", [
@@ -462,17 +463,19 @@ var files =
     [ "processsetupcheck.h", "processsetupcheck_8h.html", [
       [ "ProcessSetupCheck", "classProcessSetupCheck.html", "classProcessSetupCheck" ]
     ] ],
-    [ "threadchecker.h", "threadchecker_8h.html", [
-      [ "ThreadChecker", "classSteinberg_1_1Vst_1_1ThreadChecker.html", "classSteinberg_1_1Vst_1_1ThreadChecker" ]
+    [ "testsuite.h", "testsuite_8h.html", [
+      [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html", "classSteinberg_1_1Vst_1_1TestSuite" ],
+      [ "Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test" ]
     ] ],
-    [ "threadchecker_linux.cpp", "threadchecker__linux_8cpp.html", null ],
-    [ "threadchecker_mac.mm", "threadchecker__mac_8mm.html", null ],
-    [ "threadchecker_win32.cpp", "threadchecker__win32_8cpp.html", null ],
     [ "audiohost/source/usediids.cpp", "audiohost_2source_2usediids_8cpp.html", null ],
     [ "editorhost/source/usediids.cpp", "editorhost_2source_2usediids_8cpp.html", null ],
     [ "validator/source/usediids.cpp", "validator_2source_2usediids_8cpp.html", null ],
-    [ "validator.cpp", "validator_8cpp.html", "validator_8cpp" ],
-    [ "validator.h", "validator_8h.html", "validator_8h" ],
+    [ "validator.cpp", "validator_8cpp.html", null ],
+    [ "validator.h", "validator_8h.html", [
+      [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", "classSteinberg_1_1Vst_1_1Validator" ],
+      [ "ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig" ],
+      [ "VstModule", "classSteinberg_1_1Vst_1_1VstModule.html", "classSteinberg_1_1Vst_1_1VstModule" ]
+    ] ],
     [ "adelay/source/version.h", "adelay_2source_2version_8h.html", "adelay_2source_2version_8h" ],
     [ "again/source/version.h", "again_2source_2version_8h.html", "again_2source_2version_8h" ],
     [ "channelcontext/source/version.h", "channelcontext_2source_2version_8h.html", "channelcontext_2source_2version_8h" ],

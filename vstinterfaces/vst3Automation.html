@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('vst3Automation.html','');});
 <h1><a class="anchor" id="vst3ParameterIntro"></a>
 Parameters</h1>
 <ul>
-<li>Up to 2^32 parameters can be exported. (<a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1" title="Returns the number of parameters exported. ">Steinberg::Vst::IEditController::getParameterCount</a>). The Plug-in has to assign a unique 32-bit identifier to each exported parameter. Please note that it is not allowed to change this assignment at any time. In particular a Plug-in must not perform any reconfigurations that lead to a different set of automatable parameters. The only allowed variation is to add or remove parameters in a future Plug-in version, but keep in mind that automation data can get lost when parameters are removed. <br />
+<li>Up to 2^31 parameters can be exported [0, 2147483648] (the range [2147483649, 429496729] is reserved for host application). <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1" title="Returns the number of parameters exported. ">Steinberg::Vst::IEditController::getParameterCount</a> allows host to ask the Plug-in its count of exported parameters. The Plug-in has to assign a unique 32-bit identifier to each exported parameter. Please note that it is not allowed to change this assignment at any time. In particular a Plug-in must not perform any reconfigurations that lead to a different set of automatable parameters. The only allowed variation is to add or remove parameters in a future Plug-in version, but keep in mind that automation data can get lost when parameters are removed. <br />
  <br />
 </li>
 <li>Usually the host is unaware of a parameter's semantics. However there are a few important exceptions that the controller has to announce using the <a class="el" href="structSteinberg_1_1Vst_1_1ParameterInfo.html#a8ffba1d4311e48ae488bc118f20d7edb" title="ParameterFlags (see below) ">Steinberg::Vst::ParameterInfo::flags</a> :<ul>
@@ -120,7 +120,7 @@ Parameters</h1>
 <li>The controller must support the conversion to a string for any exported parameter. The conversion method <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#aab2f0b853e75361d331b667e7893962e" title="Gets for a given paramID and normalized value its associated string representation. ">Steinberg::Vst::IEditController::getParamStringByValue</a> must provide a result for any possible normalized parameter value. <br />
  <br />
 </li>
-<li>Parameter values are always transmitted in a normalized representation [0.0, 1.0].</li>
+<li>Parameter values are always transmitted in a normalized floating point (64bit double) representation [0.0, 1.0].</li>
 </ul>
 <dl class="section user"><dt>Representation of parameter values</dt><dd>A Plug-in parameter usually has more than one representation. The GUI of a Plug-in can display something that appears to be a single parameter, but it might control multiple processing parameters at the same time. Or the GUI representation displays a scale-transformed representation of a DSP-parameter. <br />
 <br />
@@ -216,7 +216,8 @@ Automation Playback</h2>
 <li>[released: 3.0.0]</li>
 <li>[mandatory]</li>
 </ul>
-<p>This interface is used to transmit any changes that shall be applied to parameters in the current processing block. A change can be caused by GUI interaction as well as automation. They are transmitted as a list of queues (IParamValueQueue) containing only queues for parameters that actually did change. </p><dl class="section see"><dt>See also</dt><dd>IParamValueQueue, ProcessData  <hr width="100%" size="2" align="left" />  <b><a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html" title="Queue of changes for a specific parameter. ">Steinberg::Vst::IParamValueQueue</a></b> <br />
+<p>This interface is used to transmit any changes that shall be applied to parameters in the current processing block. A change can be caused by GUI interaction as well as automation. They are transmitted as a list of queues (IParamValueQueue) containing only queues for parameters that actually did change. </p><dl class="section see"><dt>See also</dt><dd>IParamValueQueue, ProcessData <br />
+ <hr width="100%" size="2" align="left" />  <b><a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html" title="Queue of changes for a specific parameter. ">Steinberg::Vst::IParamValueQueue</a></b> <br />
  Queue of changes for a specific parameter.<ul>
 <li>[host imp]</li>
 <li>[released: 3.0.0]</li>
@@ -230,7 +231,7 @@ In each processing block the section of the curve for each parameter is transmit
 <li>If the curve has a constant slope other than 0 over the period of several blocks, only the value for the last sample of the block is transmitted. In this case the last valid point is at block position -1. The processor can calculate the value for each sample in the block by using a linear interpolation: <div class="fragment"><div class="line"><span class="keywordtype">double</span> x1 = -1; <span class="comment">// position of last point related to current buffer</span></div>
 <div class="line"><span class="keywordtype">double</span> y1 = currentParameterValue; <span class="comment">// last transmitted value</span></div>
 <div class="line"></div>
-<div class="line"><a class="codeRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
+<div class="line"><a class="codeRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a> pointTime = 0;</div>
 <div class="line"><a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641">ParamValue</a> pointValue = 0;</div>
 <div class="line">IParamValueQueue::getPoint (0, pointTime, pointValue);</div>
 <div class="line"></div>

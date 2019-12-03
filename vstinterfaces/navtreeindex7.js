@@ -1,5 +1,14 @@
 var NAVTREEINDEX7 =
 {
+"structSteinberg_1_1Vst_1_1ProcessContext.html#af46e5ad510319f6dd5687519ae47c76b":[20,0,0,0,64,14],
+"structSteinberg_1_1Vst_1_1ProcessContext.html#afc2ff5534156a67b58ead0eb0370b45a":[20,0,0,0,64,9],
+"structSteinberg_1_1Vst_1_1ProcessContext.html#aff2f6d52166217d13f9b2072c9e67c13":[20,0,0,0,64,10],
+"structSteinberg_1_1Vst_1_1ProcessData.html":[20,0,0,0,65],
+"structSteinberg_1_1Vst_1_1ProcessData.html#a0f85383979879cac64621f4ffb25cae0":[20,0,0,0,65,1],
+"structSteinberg_1_1Vst_1_1ProcessData.html#a100f97803b72565daedee80e34bbb7f0":[20,0,0,0,65,0],
+"structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a":[20,0,0,0,65,5],
+"structSteinberg_1_1Vst_1_1ProcessData.html#a28fedbd059e95b0d0c0ebfe3b081b4e5":[20,0,0,0,65,7],
+"structSteinberg_1_1Vst_1_1ProcessData.html#a2c04010f689fda04c547aea84d894b3f":[20,0,0,0,65,8],
 "structSteinberg_1_1Vst_1_1ProcessData.html#a55878a119a399f3e35f46272faac21b5":[20,0,0,0,65,10],
 "structSteinberg_1_1Vst_1_1ProcessData.html#a753be8bb50d436efaf9108959cb00cc4":[20,0,0,0,65,6],
 "structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9":[20,0,0,0,65,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX7 =
 "vstpresetkeys_8h.html#ga8a240fc37b335deb7063b9bbf959ba90":[21,0,28,160],
 "vstpresetkeys_8h.html#ga8b04cbbaa98e561e20b7a966f58e9281":[21,0,28,51],
 "vstpresetkeys_8h.html#ga8b9663df42570d3f736896b881f348f3":[21,0,28,275],
-"vstpresetkeys_8h.html#ga8cd59e5d43ed1bd277845f9ed2f29351":[21,0,28,281],
-"vstpresetkeys_8h.html#ga8da59e92e1c2609a302663aeeffc01cc":[21,0,28,261],
-"vstpresetkeys_8h.html#ga8db09e3dd05ef85ce88a038472cc04af":[21,0,28,228],
-"vstpresetkeys_8h.html#ga8dbf5e607efc62bfd0fb4044a943c399":[21,0,28,46],
-"vstpresetkeys_8h.html#ga8f5f55f753d25fbeec874ff7c873b050":[21,0,28,257],
-"vstpresetkeys_8h.html#ga8f75ccb3769fa4876436c45a09107fcd":[21,0,28,83],
-"vstpresetkeys_8h.html#ga8f9739caabbf232d50b1b1b449ab1491":[21,0,28,151],
-"vstpresetkeys_8h.html#ga8ff57c7698535ab97bfc64a7bf3ea9ac":[21,0,28,252],
-"vstpresetkeys_8h.html#ga91a0592eb755912d7fbf4b7f78387707":[21,0,28,219],
-"vstpresetkeys_8h.html#ga91eddfe8e8f1e826c887b57971600988":[21,0,28,60]
+"vstpresetkeys_8h.html#ga8cd59e5d43ed1bd277845f9ed2f29351":[21,0,28,281]
 };

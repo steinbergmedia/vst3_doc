@@ -1,11 +1,14 @@
 var classSteinberg_1_1Vst_1_1HostCheckerController =
 [
+    [ "ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry" ],
     [ "UTF8StringPtr", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af7e79066204c7e0be05f30d63bcafb24", null ],
     [ "IController", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af63358114b145c306987ac513b4e908d", null ],
     [ "IUIDescription", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aa946c9736e3aad934fd2d9b7b916cc43", null ],
     [ "VST3Editor", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ae5ece0a3a8c6e4295d9adedb76d6edd8", null ],
     [ "EditorVector", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a2acf420e46d11239fb9fb6f11447c41e", null ],
     [ "EditorMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a7eb7bc3ca514ede042c8ad5d01414f4f", null ],
+    [ "ScoreMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a024be3950228094475b832cfa5228d80", null ],
+    [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a65358ccb23d2c1b1ebc2e245eec0b824", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setComponentState", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
@@ -45,9 +48,10 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "createSubController", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af161b55b382c62c4868a760fff750cd0", null ],
     [ "queryInterface", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af2233bd23acc913cd10e4a30916e5dda", null ],
     [ "REFCOUNT_METHODS", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac24758feb9e31f29d8ca5505bfac794e", null ],
-    [ "addFeatureLog", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a83a49fd95229c954373fd326219461e6", null ],
+    [ "addFeatureLog", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a264a4731eb355e8e5d055041e6513ce6", null ],
     [ "getSavedSize", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ade2695d37a61c84f45916730b968d507", null ],
     [ "extractCurrentInfo", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aedf0d687c00670ca351bd00b0b83f440", null ],
+    [ "updateScoring", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ab4092f1007c0dff940e49da07e61d7c9", null ],
     [ "mDataBrowserMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#afc56b230d780947eb7b477efb0e055f0", null ],
     [ "mDataSource", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abcb2607c54f1115af6663eed8d3cee25", null ],
     [ "mLatencyInEdit", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a0e0358aa35e63cb6a96d4738b86a4cb2", null ],
@@ -58,5 +62,6 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "height", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ad6796376ef5cc027ed35c4b2dd170f41", null ],
     [ "sizeFactor", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abaafe2485a80cde3e71a231286208fdb", null ],
     [ "inEditFromHost", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a2b6ba748205d6006eb07be58ca71afb2", null ],
-    [ "threadChecker", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af7bb4bec2475d18c304cc1263092e2cc", null ]
+    [ "threadChecker", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af7bb4bec2475d18c304cc1263092e2cc", null ],
+    [ "mScoreMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aa306b40e142d5ff3b73da7931b116690", null ]
 ];

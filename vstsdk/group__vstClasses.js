@@ -77,9 +77,9 @@ var group__vstClasses =
     ] ],
     [ "ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html", [
       [ "ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html#ab3b1f8979c4bbe983e42010925959fd3", null ],
-      [ "~ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html#ae490d465a018a9d81bb4e30604708fba", null ],
-      [ "getHostContext", "classSteinberg_1_1Vst_1_1ComponentBase.html#a7699f7f187cb0686c7b44753dc20fa16", null ],
-      [ "getPeer", "classSteinberg_1_1Vst_1_1ComponentBase.html#a06824de35cd2b42f55fece767d19680b", null ],
+      [ "~ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html#a992af1025ac7720ce29a87d926531e05", null ],
+      [ "getHostContext", "classSteinberg_1_1Vst_1_1ComponentBase.html#ae8391f8417d768adbf055876641276cb", null ],
+      [ "getPeer", "classSteinberg_1_1Vst_1_1ComponentBase.html#af5db5c33db4c9fa57a18b66fb714830c", null ],
       [ "allocateMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#a64f8151e5b14ca6a70074f0aba699276", null ],
       [ "sendMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#a6fd2a73e1ae33a89c813d37b793107f0", null ],
       [ "sendTextMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#adf40ed669cbdd4d9a2bdd45a4595510d", null ],
@@ -89,7 +89,7 @@ var group__vstClasses =
       [ "connect", "classSteinberg_1_1Vst_1_1ComponentBase.html#a170e3042a5e695227c6931fba321debb", null ],
       [ "disconnect", "classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12", null ],
       [ "notify", "classSteinberg_1_1Vst_1_1ComponentBase.html#a60bbab8211ead54d50dbb672be410342", null ],
-      [ "peerConnection", "classSteinberg_1_1Vst_1_1ComponentBase.html#ad50a75d3eaa8c85449a62283c5b995b9", null ]
+      [ "peerConnection", "classSteinberg_1_1Vst_1_1ComponentBase.html#a4d588063b00a3115535657e9e34fdfee", null ]
     ] ],
     [ "EditController", "classSteinberg_1_1Vst_1_1EditController.html", [
       [ "EditController", "classSteinberg_1_1Vst_1_1EditController.html#ab79fa22ff4d37cecd630af788e524a85", null ],
@@ -129,8 +129,8 @@ var group__vstClasses =
     ] ],
     [ "EditorView", "classSteinberg_1_1Vst_1_1EditorView.html", [
       [ "EditorView", "classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf", null ],
-      [ "~EditorView", "classSteinberg_1_1Vst_1_1EditorView.html#aefe96d5f06b5d9f74f4d0755dd925778", null ],
-      [ "getController", "classSteinberg_1_1Vst_1_1EditorView.html#ae8428a86e4365479017e33c8bc86152c", null ],
+      [ "~EditorView", "classSteinberg_1_1Vst_1_1EditorView.html#a0604e41b561a0dee460052ae5f350b0d", null ],
+      [ "getController", "classSteinberg_1_1Vst_1_1EditorView.html#a061dda7bad880061767d3b1b1294026e", null ],
       [ "attachedToParent", "classSteinberg_1_1Vst_1_1EditorView.html#a6d3d17488dd894c98e3eeaf4836739b3", null ],
       [ "removedFromParent", "classSteinberg_1_1Vst_1_1EditorView.html#ac56bd2ced2b9679faf3bd28125c85b8b", null ],
       [ "controller", "classSteinberg_1_1Vst_1_1EditorView.html#a67dc2ffc34f15b2bf3623d385706f966", null ]
@@ -184,7 +184,8 @@ var group__vstClasses =
       [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf", null ],
       [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc", null ],
       [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a811774900d44bda403000f2b423bcbe5", null ],
-      [ "~EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#acc3cd6743b5b660c4724a1497899d595", null ],
+      [ "~EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#abeab0355fc2fa4cf2c7e66cb30db79e7", null ],
+      [ "terminate", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
       [ "addUnit", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a8fbc2c8dab1b94795bcaf35473fabdfc", null ],
       [ "addProgramList", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a97c6d1b843066330ec399d1a66fe64d1", null ],
       [ "getProgramList", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a2c71a51dd66bd96a8870e0e71fc20a89", null ],

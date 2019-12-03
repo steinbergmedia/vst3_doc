@@ -4,7 +4,6 @@ var searchData=
   ['fidstringsequal',['FIDStringsEqual',['../../base/namespaceSteinberg.html#ae609f786a23774a473851d3eddaa22ff',1,'Steinberg']]],
   ['filestream',['FileStream',['../../vstsdk/classSteinberg_1_1Vst_1_1FileStream.html#a07ec419862792d4581e85feef181702c',1,'Steinberg::Vst::FileStream']]],
   ['filter',['Filter',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html#a51d4eb657e2e969c31ab6636d57ec33e',1,'Steinberg::Vst::NoteExpressionSynth::Filter']]],
-  ['filterclasscategory',['filterClassCategory',['../classSteinberg_1_1Vst_1_1Validator.html#aa3ee0bc506208a550f50be213f595d02',1,'Steinberg::Vst::Validator']]],
   ['filterfreq',['filterFreq',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#afbc91e345f0196f41e0dcb13785b15eb',1,'Steinberg::Vst::mda::ComboProcessor::filterFreq()'],['../classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#afbc91e345f0196f41e0dcb13785b15eb',1,'Steinberg::Vst::mda::DegradeProcessor::filterFreq()'],['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#afbc91e345f0196f41e0dcb13785b15eb',1,'Steinberg::Vst::mda::TrackerProcessor::filterFreq()']]],
   ['find',['find',['../../vstsdk/classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html#ac93bea44934ede96c71738cd52fa29ba',1,'Steinberg::Vst::NoteExpressionTypeContainer']]],
   ['findparameter',['findParameter',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterFinder.html#afd8d9733eee7b052280d7ddd0057b8ea',1,'Steinberg::Vst::IParameterFinder']]],

@@ -43,12 +43,12 @@ var ucolorspec_8h =
       [ "kGray", "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda1ab75347fd43308dc34268db5a181108", null ],
       [ "kDkGray", "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda78c5cc590de98a677b2dc3076c904128", null ]
     ] ],
-    [ "MakeColorSpec", "ucolorspec_8h.html#a09d4d9d1e784a8c828716951dd2dbaed", null ],
-    [ "MakeColorSpec", "ucolorspec_8h.html#a921b4c66c57a500044bf0d277304d6dd", null ],
-    [ "GetBlue", "ucolorspec_8h.html#a936e38e001cf33dd00adf19e5418796b", null ],
-    [ "GetGreen", "ucolorspec_8h.html#a66228d341cdb92315d3c91de4ed5216b", null ],
-    [ "GetRed", "ucolorspec_8h.html#acc3eb6a10830817ab0ede3f36a445345", null ],
-    [ "GetAlpha", "ucolorspec_8h.html#a08e37f461297919e3b3210aee592ecfa", null ],
+    [ "MakeColorSpec", "ucolorspec_8h.html#aa3e0271047ce95a6e8097ece6edd712b", null ],
+    [ "MakeColorSpec", "ucolorspec_8h.html#ae445afc6fd5a0c291ebfa793a174a68f", null ],
+    [ "GetBlue", "ucolorspec_8h.html#a52909a27914fed2be847c64aca5b8a1a", null ],
+    [ "GetGreen", "ucolorspec_8h.html#aefa5c41df3f68bedacc9309e35242615", null ],
+    [ "GetRed", "ucolorspec_8h.html#aa2093d47e98716adb212069f951ff841", null ],
+    [ "GetAlpha", "ucolorspec_8h.html#a51cd02b8f8dac485a264e43521c05477", null ],
     [ "SetBlue", "ucolorspec_8h.html#a109795f69824760eeffa211649eff625", null ],
     [ "SetGreen", "ucolorspec_8h.html#a12f3dac75f1b1800ab5aaedba6fcd052", null ],
     [ "SetRed", "ucolorspec_8h.html#a324ac47a91df3cfbfa8cc3235a6c3e76", null ],
@@ -59,5 +59,6 @@ var ucolorspec_8h =
     [ "GetAlphaNorm", "ucolorspec_8h.html#ad78eaefa656353e5d08aeba89ad27279", null ],
     [ "NormalizeAlpha", "ucolorspec_8h.html#a3e48f70b4cb563c93848c357efc48efd", null ],
     [ "DenormalizeAlpha", "ucolorspec_8h.html#acca20a890a507ef361864ea1f2914af1", null ],
-    [ "StripAlpha", "ucolorspec_8h.html#a40e3829433bee573a0e88fe838e79d9f", null ]
+    [ "StripAlpha", "ucolorspec_8h.html#a40e3829433bee573a0e88fe838e79d9f", null ],
+    [ "BlendColor", "ucolorspec_8h.html#ad887b85aff864f174833a619cfa5fba9", null ]
 ];

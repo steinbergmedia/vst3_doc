@@ -1,13 +1,13 @@
 var hierarchy =
 [
-    [ "AudioBuffer", "classSteinberg_1_1Vst_1_1AudioBuffer.html", null ],
-    [ "BypassProcessor", "classSteinberg_1_1Vst_1_1BypassProcessor.html", null ],
+    [ "AudioBuffer< T >", "classSteinberg_1_1Vst_1_1AudioBuffer.html", null ],
+    [ "BypassProcessor< T >", "classSteinberg_1_1Vst_1_1BypassProcessor.html", null ],
     [ "CBaseObject", null, [
       [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html", null ]
     ] ],
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html", null ],
     [ "ClassInfo::Data", "structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html", null ],
-    [ "BypassProcessor::Delay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html", null ],
+    [ "BypassProcessor< T >::Delay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html", null ],
     [ "PresetFile::Entry", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html", null ],
     [ "FactoryInfo", "classVST3_1_1Hosting_1_1FactoryInfo.html", null ],
     [ "FObject", null, [
@@ -31,6 +31,7 @@ var hierarchy =
           ] ]
         ] ]
       ] ],
+      [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", null ],
       [ "PresetManager", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html", null ],
       [ "NoteExpressionType", "classSteinberg_1_1Vst_1_1NoteExpressionType.html", [
         [ "RangeNoteExpressionType", "classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html", null ]
@@ -67,6 +68,9 @@ var hierarchy =
       [ "IPlugView", "../base/classSteinberg_1_1IPlugView.html", [
         [ "CPluginView", "classSteinberg_1_1CPluginView.html", null ]
       ] ],
+      [ "IStringResult", "../base/classSteinberg_1_1IStringResult.html", [
+        [ "StringResult", "classSteinberg_1_1Vst_1_1StringResult.html", null ]
+      ] ],
       [ "IAttributeList", "../vstinterfaces/classSteinberg_1_1Vst_1_1IAttributeList.html", [
         [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", null ]
       ] ],
@@ -75,7 +79,8 @@ var hierarchy =
         [ "SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html", null ]
       ] ],
       [ "IConnectionPoint", "../vstinterfaces/classSteinberg_1_1Vst_1_1IConnectionPoint.html", [
-        [ "ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html", null ]
+        [ "ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html", null ],
+        [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", null ]
       ] ],
       [ "IEditController2", "../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController2.html", [
         [ "EditController", "classSteinberg_1_1Vst_1_1EditController.html", null ]

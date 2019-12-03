@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -112,7 +112,7 @@ Simple Plug-ins</h1>
 <div class="image">
 <img src="simplepresets.jpg" alt="simplepresets.jpg"/>
 </div>
-<p>For a simple Plug-in the data of a preset is nothing more than its state. In this case <br />
+<p>For a simple Plug-in the data of a preset is nothing more than its state. In this case: <br />
  <br />
 </p><ul>
 <li>It is the job of the host to care about the preset handling for the Plug-in. <br />
@@ -124,9 +124,11 @@ Simple Plug-ins</h1>
 <li>Factory presets must be installed as files at the according location (See <a class="el" href="vst3loc.html#presetloc">Preset Locations</a>).</li>
 </ul>
 <p><br />
-The host has to provide the GUI for loading and saving preset files. These files contain data that the Plug-in has filled into the stream in <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#a10db03106be8ba89d23859fa6be5d9f6" title="Retrieves complete state of component. ">Steinberg::Vst::IComponent::getState</a>. VST 3 defines dedicated locations in the OS file system (see <a class="el" href="vst3loc.html#presetloc">Preset Locations</a>), so the host does not need to display a file selector dialog. It knows where to search for preset files of a specific Plug-in and where to create them. So it can create a pop-up-list for selecting a preset or any other GUI of its choice. After loading a preset the host is responsible to rescan the parameters values (from the controller part), that why the controller should be sure that it got the correct parameter states after loading a preset (what is done with <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#a4c2e1cafd88143fda2767a9c7ba5d48f" title="Receives the component state. ">Steinberg::Vst::IEditController::setComponentState</a>) (</p><dl class="section see"><dt>See also</dt><dd>vst3Communication and </dd>
-<dd>
-Persistence).</dd></dl>
+The host has to provide the GUI for loading and saving preset files. These files contain data that the Plug-in has filled into the stream in <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#a10db03106be8ba89d23859fa6be5d9f6" title="Retrieves complete state of component. ">Steinberg::Vst::IComponent::getState</a>. VST 3 defines dedicated locations in the OS file system (see <a class="el" href="vst3loc.html#presetloc">Preset Locations</a>), so the host does not need to display a file selector dialog. It knows where to search for preset files of a specific Plug-in and where to create them. So it can create a pop-up-list for selecting a preset or any other GUI of its choice. After loading a preset the host is responsible to rescan the parameters values (from the controller part), that why the controller should be sure that it got the correct parameter states after loading a preset (what is done with <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#a4c2e1cafd88143fda2767a9c7ba5d48f" title="Receives the component state. ">Steinberg::Vst::IEditController::setComponentState</a>) </p><dl class="section see"><dt>See also</dt><dd><ul>
+<li><a class="el" href="index.html#vst3Communication">Communication between the components</a></li>
+<li><a class="el" href="index.html#Persistence">Persistence</a>.</li>
+</ul>
+</dd></dl>
 <p><br />
 <br />
  </p>
@@ -137,7 +139,7 @@ Program Lists</h1>
 <li>If the Plug-in defines a program list to be used as pool of factory presets, it must not allow the user to change these presets by the means of parameter editing. It should rather load the according data into some kind of working memory and store possible modifications as component state. In addition the user may be allowed to store the modifications as preset file. <br />
  <br />
 </li>
-<li>If the Plug-in defines a program list to be used as pool of user presets that are initially in an 'empty' state, modifications should be applied to the according list item directly. This way of using program lists should only be chosen if programs do require a lot of resources that need to be cached in order to achieve fast program changes (the prime example for this are samplers).</li>
+<li>If the Plug-in defines a program list to be used as pool of user presets that are initially in an 'empty' state, modifications should be applied to the according list item directly. This way of using program lists should only be chosen if programs do require a lot of resources that need to be cached in order to achieve fast program changes (good examples for this are samplers based Plug-ins).</li>
 </ul>
 <div class="image">
 <img src="single_program_list.jpg" alt="single_program_list.jpg"/>
@@ -158,8 +160,7 @@ Structure of Program Lists</h2>
  </p>
 <h2><a class="anchor" id="vst3ProgramPitchNames"></a>
 Pitch Names</h2>
-<p>Pitch names are intended to be used with drum kit programs where the different drum sounds are addressed by note pitches. In order to display the name of the drum instrument assigned to a pitch in a drum editor for example, the host calls <a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#a63c02601259d4e8690f26eefaad53195" title="Returns kResultTrue if the given program index of a given program list ID supports PitchNames...">Steinberg::Vst::IUnitInfo::hasProgramPitchNames</a> to determine if pitch names are supported and <a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#a6126c4506f7981b5e800c6b4daa1e66b" title="Gets the PitchName for a given program list ID, program index and pitch. ">Steinberg::Vst::IUnitInfo::getProgramPitchName</a> to query the pitch name of a single note.</p>
-<p><br />
+<p>Pitch names are intended to be used with drum kit programs where the different drum sounds are addressed by note pitches. In order to display the name of the drum instrument assigned to a pitch in a drum editor for example, the host calls <a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#a63c02601259d4e8690f26eefaad53195" title="Returns kResultTrue if the given program index of a given program list ID supports PitchNames...">Steinberg::Vst::IUnitInfo::hasProgramPitchNames</a> to determine if pitch names are supported and <a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#a6126c4506f7981b5e800c6b4daa1e66b" title="Gets the PitchName for a given program list ID, program index and pitch. ">Steinberg::Vst::IUnitInfo::getProgramPitchName</a> to query the pitch name of a single note. <br />
 </p><dl class="section see"><dt>See also</dt><dd><ul>
 <li><a class="el" href="vst3Units.html">Units</a></li>
 <li><a class="el" href="vst3Multitimbral.html#vst3MultitimbralPrograms">Multi-timbral Program Lists</a></li>

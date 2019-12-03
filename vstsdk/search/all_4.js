@@ -21,7 +21,7 @@ var searchData=
   ['detachdata',['detachData',['../classSteinberg_1_1MemoryStream.html#a26a553e881945d805cc01edc52109dff',1,'Steinberg::MemoryStream']]],
   ['direction',['direction',['../../vstinterfaces/structSteinberg_1_1Vst_1_1BusInfo.html#abb6aef5950e795ec6507d07a5c8bd4fe',1,'Steinberg::Vst::BusInfo::direction()'],['../classSteinberg_1_1Vst_1_1BusList.html#abb6aef5950e795ec6507d07a5c8bd4fe',1,'Steinberg::Vst::BusList::direction()'],['../../base/namespaceSteinberg.html#a224b9163917ac32fc95a60d8c1eec3aa',1,'Steinberg::Direction()']]],
   ['disableerrorui',['disableErrorUI',['../../base/classSteinberg_1_1IErrorContext.html#a6984fa8a3247acec65a270803e43bc84',1,'Steinberg::IErrorContext']]],
-  ['disconnect',['disconnect',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e',1,'Steinberg::Vst::IConnectionPoint::disconnect()'],['../classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12',1,'Steinberg::Vst::ComponentBase::disconnect()']]],
+  ['disconnect',['disconnect',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IConnectionPoint.html#ad85bd437968bec6e403fb3cba699b01e',1,'Steinberg::Vst::IConnectionPoint::disconnect()'],['../classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12',1,'Steinberg::Vst::ComponentBase::disconnect()'],['../classSteinberg_1_1Vst_1_1ConnectionProxy.html#a6c2e8e8b1fbabb82ea67dcf81fb0c6b6',1,'Steinberg::Vst::ConnectionProxy::disconnect(IConnectionPoint *other) override'],['../classSteinberg_1_1Vst_1_1ConnectionProxy.html#a12db172f74059f7eceb63714f4589aa0',1,'Steinberg::Vst::ConnectionProxy::disconnect()']]],
   ['disconnectcomponents',['disconnectComponents',['../classSteinberg_1_1Vst_1_1PlugProvider.html#a12cbed77ca2d669e478a375473de6fb1',1,'Steinberg::Vst::PlugProvider']]],
   ['doc_2eh',['doc.h',['../doc_8h.html',1,'(Global Namespace)'],['../../base/doc_8h.html',1,'(Global Namespace)']]],
   ['doc_5ffaq_2eh',['doc_faq.h',['../doc__faq_8h.html',1,'']]],
@@ -35,5 +35,6 @@ var searchData=
   ['docaax_2eh',['docaax.h',['../docaax_8h.html',1,'']]],
   ['docauv2_2eh',['docAUv2.h',['../docAUv2_8h.html',1,'']]],
   ['docauv3_2eh',['docAUv3.h',['../docAUv3_8h.html',1,'']]],
-  ['docvst2_2eh',['docvst2.h',['../docvst2_8h.html',1,'']]]
+  ['docvst2_2eh',['docvst2.h',['../docvst2_8h.html',1,'']]],
+  ['dstconnection',['dstConnection',['../classSteinberg_1_1Vst_1_1ConnectionProxy.html#ae03c2fc2709da3bc22c6f765185fd793',1,'Steinberg::Vst::ConnectionProxy']]]
 ];

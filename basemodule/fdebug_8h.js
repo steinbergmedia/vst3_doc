@@ -15,7 +15,6 @@ var fdebug_8h =
     [ "SMTG_DBPRT5", "fdebug_8h.html#a1f6a3bf7072ece31220823a76e2841ae", null ],
     [ "NEW", "fdebug_8h.html#ab6bca16ed021b1e211fde8669758f199", null ],
     [ "NEWVEC", "fdebug_8h.html#afb65a67a21fbcdc32ced37642a0ba690", null ],
-    [ "SMTG_IS_TEST", "fdebug_8h.html#a7d20c982526ebd75fb56ca5511380b4c", null ],
     [ "ASSERT", "fdebug_8h.html#af343b20373ba49a92fce523e948f2ab3", null ],
     [ "WARNING", "fdebug_8h.html#a5cb439d9f933fde4cf23caa370c030e7", null ],
     [ "DEBUGSTR", "fdebug_8h.html#ad0a48883bb586ecd370427352cd3e017", null ],
@@ -28,5 +27,7 @@ var fdebug_8h =
     [ "DBPRT2", "fdebug_8h.html#abe8e98ef330a8917afeea58f231c2fd2", null ],
     [ "DBPRT3", "fdebug_8h.html#ad35e7b53a5662120a18c70972419c62c", null ],
     [ "DBPRT4", "fdebug_8h.html#a11a2c50ad704f0b137fd686f34331140", null ],
-    [ "DBPRT5", "fdebug_8h.html#ac57ffc0fbda8df0d6977b8df435a5d68", null ]
+    [ "DBPRT5", "fdebug_8h.html#ac57ffc0fbda8df0d6977b8df435a5d68", null ],
+    [ "isSmtgUnitTesting", "fdebug_8h.html#a9644c7545455af00c4ed6d92818b4f11", null ],
+    [ "setSmtgUnitTesting", "fdebug_8h.html#a52efd3b482fb6cae898073589f43d0c7", null ]
 ];

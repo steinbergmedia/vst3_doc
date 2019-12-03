@@ -9,7 +9,7 @@ var files =
     ] ],
     [ "fcleanup.h", "fcleanup_8h.html", "fcleanup_8h" ],
     [ "fcommandline.h", "fcommandline_8h.html", "fcommandline_8h" ],
-    [ "fdebug.cpp", "fdebug_8cpp.html", null ],
+    [ "fdebug.cpp", "fdebug_8cpp.html", "fdebug_8cpp" ],
     [ "fdebug.h", "fdebug_8h.html", "fdebug_8h" ],
     [ "fdynlib.cpp", "fdynlib_8cpp.html", null ],
     [ "fdynlib.h", "fdynlib_8h.html", [

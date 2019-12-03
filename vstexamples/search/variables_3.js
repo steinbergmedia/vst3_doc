@@ -52,6 +52,7 @@ var searchData=
   ['dsaw',['dsaw',['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a7fa4b78a5ff91f7e38fa29f5960032de',1,'Steinberg::Vst::mda::TrackerProcessor']]],
   ['dshp',['dshp',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a996de71766811b2de93fd92f5688d100',1,'Steinberg::Vst::mda::LeslieProcessor']]],
   ['dslp',['dslp',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a8119b8904f059c797853d38d66c0e11f',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['dstconnection',['dstConnection',['../../vstsdk/classSteinberg_1_1Vst_1_1ConnectionProxy.html#ae03c2fc2709da3bc22c6f765185fd793',1,'Steinberg::Vst::ConnectionProxy']]],
   ['dtim',['dtim',['../classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a125d6078156d18faa4fbf7ccb04385a3',1,'Steinberg::Vst::mda::RePsychoProcessor']]],
   ['dvd',['dvd',['../classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a984e5699e88d1b3ce93a8c71f193e818',1,'Steinberg::Vst::mda::SubSynthProcessor']]],
   ['dyn',['dyn',['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a61a1c70f0b5cde0d2b0eef62b36ad61a',1,'Steinberg::Vst::mda::TrackerProcessor']]],

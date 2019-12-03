@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classSteinberg_1_1UStringBuffer.html#afd98290b12cedfd1ec974a198bc20548":[6,0,0,33,3],
+"classes.html":[6,1],
 "conststringtable_8cpp.html":[7,0,0],
 "conststringtable_8h.html":[7,0,1],
 "coreiids_8cpp.html":[7,0,2],
@@ -12,12 +14,13 @@ var NAVTREEINDEX1 =
 "fplatform_8h.html#a276fbbbcc6903fcc10202ff8d1703831":[7,0,6,2],
 "fplatform_8h.html#a3c2a454c4a71caf93110e4a1d5db7a55":[7,0,6,5],
 "fplatform_8h.html#a3c5f727b2149b22fddea9edf2add04a8":[7,0,6,6],
-"fplatform_8h.html#a41cbd50f8f0a070abff5e1612ebbcca3":[7,0,6,9],
+"fplatform_8h.html#a41cbd50f8f0a070abff5e1612ebbcca3":[7,0,6,10],
 "fplatform_8h.html#a59154ea8599c8d0e7187be1c42889675":[7,0,6,1],
-"fplatform_8h.html#a5932d425a53de42eaf3ccb6ab2695e71":[7,0,6,7],
+"fplatform_8h.html#a5932d425a53de42eaf3ccb6ab2695e71":[7,0,6,8],
 "fplatform_8h.html#a8a69d29963cd266cdf2d13bbaecb439d":[7,0,6,4],
 "fplatform_8h.html#abfa3c6c92ac4ce1ce65133b421fee2fe":[7,0,6,0],
-"fplatform_8h.html#ad30cbf5ca1963c944681bc04c91eed1d":[7,0,6,8],
+"fplatform_8h.html#ad30cbf5ca1963c944681bc04c91eed1d":[7,0,6,9],
+"fplatform_8h.html#ae879ea0d66915005ec8ea88f2f1f2762":[7,0,6,7],
 "fstrdefs_8h.html":[7,0,7],
 "fstrdefs_8h.html#a16a19b1831112e876b010468ec15916f":[7,0,7,8],
 "fstrdefs_8h.html#a18d295a837ac71add5578860b55e5502":[7,0,7,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX1 =
 "index.html#module":[0,2,0],
 "index.html#piInterfaces":[0,1],
 "index.html#piPlugins":[0,2],
-"index.html#piVstMa":[0,0],
-"index.html#plugunicode":[0,3,0],
-"index.html#purpose":[0,2,4],
-"index.html#version":[0,1,3]
+"index.html#piVstMa":[0,0]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX6 =
 {
+"keyswitch.html":[3],
+"keyswitch.html#kshowitwork":[3,1],
+"keyswitch.html#ksintro":[3,0],
+"linuxSetup.html":[16],
+"linuxSetup.html#toolchainInstallation":[16,0],
+"modules.html":[18],
+"namespaceSteinberg_1_1Vst_1_1Attributes.html":[19,0,0,0,0],
+"namespaceSteinberg_1_1Vst_1_1AttributesFlags.html":[19,0,0,0,1],
+"namespaceSteinberg_1_1Vst_1_1AttributesFunction.html":[19,0,0,0,2],
 "namespaceSteinberg_1_1Vst_1_1AttributesStyle.html":[19,0,0,0,3],
 "namespaceSteinberg_1_1Vst_1_1ChannelContext.html":[19,0,0,0,4],
 "namespaceSteinberg_1_1Vst_1_1ChannelContext.html":[20,0,0,0,0],
@@ -22,8 +31,8 @@ var NAVTREEINDEX6 =
 "namespacemembers_i.html":[19,1,0,2],
 "namespacemembers_k.html":[19,1,0,3],
 "namespacemembers_type.html":[19,1,3],
-"namespacemembers_vars.html":[19,1,2,0],
 "namespacemembers_vars.html":[19,1,2],
+"namespacemembers_vars.html":[19,1,2,0],
 "namespaces.html":[19,0],
 "noteExpression.html":[2],
 "noteExpression.html#nehowitwork":[2,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX6 =
 "structSteinberg_1_1Vst_1_1ProcessContext.html#a8a97acf6c5676d31de6ceac2483ecf3a":[20,0,0,0,64,13],
 "structSteinberg_1_1Vst_1_1ProcessContext.html#a9081efe983722f59098a542b149bb07f":[20,0,0,0,64,7],
 "structSteinberg_1_1Vst_1_1ProcessContext.html#aa442da3063c73885d2f386deb479d870":[20,0,0,0,64,5],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a":[20,0,0,0,64,11],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#af46e5ad510319f6dd5687519ae47c76b":[20,0,0,0,64,14],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#afc2ff5534156a67b58ead0eb0370b45a":[20,0,0,0,64,9],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#aff2f6d52166217d13f9b2072c9e67c13":[20,0,0,0,64,10],
-"structSteinberg_1_1Vst_1_1ProcessData.html":[20,0,0,0,65],
-"structSteinberg_1_1Vst_1_1ProcessData.html#a0f85383979879cac64621f4ffb25cae0":[20,0,0,0,65,1],
-"structSteinberg_1_1Vst_1_1ProcessData.html#a100f97803b72565daedee80e34bbb7f0":[20,0,0,0,65,0],
-"structSteinberg_1_1Vst_1_1ProcessData.html#a1338255f88bad5cf4fb714c71f92b61a":[20,0,0,0,65,5],
-"structSteinberg_1_1Vst_1_1ProcessData.html#a28fedbd059e95b0d0c0ebfe3b081b4e5":[20,0,0,0,65,7],
-"structSteinberg_1_1Vst_1_1ProcessData.html#a2c04010f689fda04c547aea84d894b3f":[20,0,0,0,65,8]
+"structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a":[20,0,0,0,64,11]
 };

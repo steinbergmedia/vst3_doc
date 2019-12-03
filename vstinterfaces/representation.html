@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Interfaces
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -221,7 +221,7 @@ Graphical overview</h1>
  </p>
 <h1><a class="anchor" id="example"></a>
 Example of implementation using helper class</h1>
-<p>See <a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html">Steinberg::Vst::XmlRepresentationHelper</a>.</p>
+<p>See <a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html">Steinberg::Vst::XmlRepresentationHelper</a>.</p>
 <p><br />
 <br />
  </p>
@@ -239,8 +239,9 @@ Location table for VST XMLs Representation</h1>
 <li>factory : installed by Plug-in or App installer with the Plug-in</li>
 </ul>
 </li>
-<li>$COMPANY and $PLUGIN-NAME folder names contain only allowed characters for file naming (replace characters "\\*?/:&lt;&gt;|\" by "_")</li>
-<li>$UID is the Unique ID of the processor in its string representation (for example: "57F704D1FA974D668083E4B9AF581D23" len=32) <br />
+<li>$COMPANY and $PLUGIN-NAME folder names contain only allowed characters for file naming (replace characters "\\*?/:.&lt;&gt;|\"<br />
+" by "_")
+- $UID is the Unique ID of the processor in its string representation (for example: "57F704D1FA974D668083E4B9AF581D23" len=32) <br />
 <br />
  </li>
 </ul>

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -107,37 +107,42 @@ $(document).ready(function(){initNavTree('hostcheckercontroller_8h.html','');});
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">hostcheckercontroller.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="eventlogdatabrowsersource_8h.html">eventlogdatabrowsersource.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vstaudioeffect_8h.html">public.sdk/source/vst/vstaudioeffect.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vsteditcontroller_8h.html">public.sdk/source/vst/vsteditcontroller.h</a>&quot;</code><br />
+<code>#include &quot;public.sdk/source/common/threadchecker.h&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vstaudioeffect_8h.html">public.sdk/source/vst/vstaudioeffect.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vsteditcontroller_8h.html">public.sdk/source/vst/vsteditcontroller.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="hostcheck_8h.html">hostcheck.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="logevents_8h.html">logevents.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="threadchecker_8h.html">threadchecker.h</a>&quot;</code><br />
 <code>#include &quot;vstgui/plugin-bindings/vst3editor.h&quot;</code><br />
 <code>#include &quot;base/source/fstring.h&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstautomationstate_8h.html">pluginterfaces/vst/ivstautomationstate.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstchannelcontextinfo_8h.html">pluginterfaces/vst/ivstchannelcontextinfo.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmidilearn_8h.html">pluginterfaces/vst/ivstmidilearn.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstnoteexpression_8h.html">pluginterfaces/vst/ivstnoteexpression.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstphysicalui_8h.html">pluginterfaces/vst/ivstphysicalui.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstprefetchablesupport_8h.html">pluginterfaces/vst/ivstprefetchablesupport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstrepresentation_8h.html">pluginterfaces/vst/ivstrepresentation.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstautomationstate_8h.html">pluginterfaces/vst/ivstautomationstate.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstchannelcontextinfo_8h.html">pluginterfaces/vst/ivstchannelcontextinfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstmidilearn_8h.html">pluginterfaces/vst/ivstmidilearn.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstnoteexpression_8h.html">pluginterfaces/vst/ivstnoteexpression.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstphysicalui_8h.html">pluginterfaces/vst/ivstphysicalui.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstprefetchablesupport_8h.html">pluginterfaces/vst/ivstprefetchablesupport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/ivstrepresentation_8h.html">pluginterfaces/vst/ivstrepresentation.h</a>&quot;</code><br />
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1HostCheckerController.html">HostCheckerController</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html">HostCheckerController::ScoreEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
+<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
+<tr class="memitem:namespaceSteinberg_1_1HostChecker"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1HostChecker.html">Steinberg::HostChecker</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -150,10 +155,24 @@ Enumerations</h2></td></tr>
 <br />
 &#160;&#160;<b>kCanResizeTag</b>, 
 <b>kScoreTag</b>, 
-<b>kUnitId</b> = 1234
+<b>kProcessWarnTag</b>, 
+<b>kLastTag</b> = kProcessWarnTag + HostChecker::kParamWarnCount, 
+<br />
+&#160;&#160;<b>kUnitId</b> = 1234
 <br />
  }</td></tr>
 <tr class="separator:abc6126af1d45847bc59afa0aa3216b04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ae3d4ad032b2586752aaefe7d98b3b352"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a56f1a81c92849566ae864511088eb7e8">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1HostChecker.html#ae3d4ad032b2586752aaefe7d98b3b352">kMaxLatency</a> = 8192</td></tr>
+<tr class="separator:ae3d4ad032b2586752aaefe7d98b3b352"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82a59297717d21868266e8a4fd1da4f0"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1HostChecker.html#a82a59297717d21868266e8a4fd1da4f0">kParamWarnCount</a> = 7</td></tr>
+<tr class="separator:a82a59297717d21868266e8a4fd1da4f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72e8435dc9b0315802adde434a4fcd14"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1HostChecker.html#a72e8435dc9b0315802adde434a4fcd14">kParamWarnBitCount</a> = 24</td></tr>
+<tr class="separator:a72e8435dc9b0315802adde434a4fcd14"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4bc22a30a6391416bcaa23b915d31916"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1HostChecker.html#a4bc22a30a6391416bcaa23b915d31916">kParamWarnStepCount</a> = 1 &lt;&lt; kParamWarnBitCount</td></tr>
+<tr class="separator:a4bc22a30a6391416bcaa23b915d31916"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->

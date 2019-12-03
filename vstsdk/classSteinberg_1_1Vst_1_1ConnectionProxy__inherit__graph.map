@@ -1,0 +1,4 @@
+<map id="ConnectionProxy" name="ConnectionProxy">
+<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title="{IConnectionPoint\n|+ iid\l|+ connect()\l+ disconnect()\l+ notify()\l}" alt="" coords="93,156,205,258"/>
+<area shape="rect" id="node4" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="91,5,207,108"/>
+</map>

@@ -1,6 +1,6 @@
 var module__linux_8cpp =
 [
-    [ "ModuleEntryFunc", "module__linux_8cpp.html#a8896b62003cc5e422a639b79c575e670", null ],
-    [ "ModuleExitFunc", "module__linux_8cpp.html#a6a54ca4a38bb52e14b06b693c7973bfd", null ],
+    [ "ModuleEntryFunc", "module__linux_8cpp.html#a9b715f5fd5674dcf99d4b3b286f9c993", null ],
+    [ "ModuleExitFunc", "module__linux_8cpp.html#a71d82882268b976c5260a89577b9d2f9", null ],
     [ "nullptr", "module__linux_8cpp.html#a55c82854a871c7f2b9e38643206d9911", null ]
 ];

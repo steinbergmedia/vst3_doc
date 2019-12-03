@@ -61,6 +61,7 @@ var searchData=
   ['sourcestream',['sourceStream',['../../vstsdk/classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#ab5f8047e9c69ee8936a446f5de7c6cc6',1,'Steinberg::Vst::ReadOnlyBStream']]],
   ['speaker',['speaker',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#a46342207540a92616e060073b43f57f3',1,'Steinberg::Vst::SpeakerArray']]],
   ['squarevolume',['squareVolume',['../structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html#ad108548e95a96ada9033e7e4b112d194',1,'Steinberg::Vst::NoteExpressionSynth::GlobalParameterState']]],
+  ['srcconnection',['srcConnection',['../../vstsdk/classSteinberg_1_1Vst_1_1ConnectionProxy.html#a4487b5c458a52ed743064aad105a244d',1,'Steinberg::Vst::ConnectionProxy']]],
   ['srcmin',['srcMin',['../classSteinberg_1_1Vst_1_1LogScale.html#a4ac3b22a40766fdad26d2a419ccbd5ef',1,'Steinberg::Vst::LogScale']]],
   ['srcscale',['srcScale',['../classSteinberg_1_1Vst_1_1LogScale.html#ae7fc76233fcce25fa0876c7c25fdcf75',1,'Steinberg::Vst::LogScale']]],
   ['srcscaleinv',['srcScaleInv',['../classSteinberg_1_1Vst_1_1LogScale.html#ab09e905e975121ad510d88a44c727090',1,'Steinberg::Vst::LogScale']]],

@@ -1,6 +1,6 @@
 var classSteinberg_1_1CommandLine_1_1Descriptions =
 [
-    [ "addOptions", "classSteinberg_1_1CommandLine_1_1Descriptions.html#a81879d1223ae544bd1b70993d09f7291", null ],
+    [ "addOptions", "classSteinberg_1_1CommandLine_1_1Descriptions.html#ab27a3d9559b5d6fddcbeb9d1474fd349", null ],
     [ "parse", "classSteinberg_1_1CommandLine_1_1Descriptions.html#a01211aa5c3c666ed49da40954d2cd4e3", null ],
     [ "print", "classSteinberg_1_1CommandLine_1_1Descriptions.html#aa230a2d18799b9cd3d177081b4a843d1", null ],
     [ "operator()", "classSteinberg_1_1CommandLine_1_1Descriptions.html#ac88217d791c334de62e8f01564ccae24", null ],

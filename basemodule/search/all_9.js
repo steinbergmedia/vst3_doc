@@ -25,12 +25,13 @@ var searchData=
   ['isfull',['isFull',['../classSteinberg_1_1Buffer.html#a7ffe8a6212a0eb3fc7bbc8e9bc51dfcd',1,'Steinberg::Buffer']]],
   ['isloaded',['isLoaded',['../classSteinberg_1_1FDynLibrary.html#a7ffa9fcfaa7e93495a34c760b8270731',1,'Steinberg::FDynLibrary']]],
   ['isnormalized',['isNormalized',['../classSteinberg_1_1ConstString.html#aabde9540d808cb7f31588d772c05cb30',1,'Steinberg::ConstString']]],
+  ['issmtgunittesting',['isSmtgUnitTesting',['../fdebug_8cpp.html#a9644c7545455af00c4ed6d92818b4f11',1,'isSmtgUnitTesting():&#160;fdebug.cpp'],['../fdebug_8h.html#a9644c7545455af00c4ed6d92818b4f11',1,'isSmtgUnitTesting():&#160;fdebug.cpp']]],
   ['isterminated',['isTerminated',['../namespaceSteinberg_1_1Singleton.html#a84acfabb69fd8f78cc6afad4301357b7',1,'Steinberg::Singleton']]],
   ['istring',['IString',['../classSteinberg_1_1StringObject.html#af9fefcb94e70d8d3410e0593c1fc7753',1,'Steinberg::StringObject']]],
   ['istypeof',['isTypeOf',['../classSteinberg_1_1FObject.html#a37fd18f3794dac0b78ae51253e2d4c25',1,'Steinberg::FObject']]],
   ['iswide',['isWide',['../classSteinberg_1_1ConstString.html#a75060976753e877247e364d1816245d7',1,'Steinberg::ConstString']]],
   ['iswidestring',['isWideString',['../classSteinberg_1_1ConstString.html#a9f51ffda3dea7bfd701b339d0cbc25ac',1,'Steinberg::ConstString::isWideString()'],['../classSteinberg_1_1StringObject.html#abe0c5776749310c92457109ed51ce23a',1,'Steinberg::StringObject::isWideString()']]],
   ['itimercallback',['ITimerCallback',['../classSteinberg_1_1ITimerCallback.html',1,'Steinberg']]],
-  ['iupdatemanager',['IUpdateManager',['../classSteinberg_1_1UpdateHandler.html#aa1cef82bd3c810132b0b17f553465564',1,'Steinberg::UpdateHandler']]],
-  ['iupdatemanager',['IUpdateManager',['../classSteinberg_1_1IUpdateManager.html',1,'Steinberg']]]
+  ['iupdatemanager',['IUpdateManager',['../classSteinberg_1_1IUpdateManager.html',1,'Steinberg']]],
+  ['iupdatemanager',['IUpdateManager',['../classSteinberg_1_1UpdateHandler.html#aa1cef82bd3c810132b0b17f553465564',1,'Steinberg::UpdateHandler']]]
 ];

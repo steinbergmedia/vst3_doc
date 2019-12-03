@@ -28,7 +28,8 @@ var NAVTREE =
         [ "Q: Can IAudioProcessor::setProcessing be called without any IAudioProcessor::process call?", "faq.html#faqProcessing14", null ],
         [ "Q: How to make sure that a plug-in is always processed?", "faq.html#faqProcessing15", null ],
         [ "Q: Can IComponent::getState()/setState() could be called during processing?", "faq.html#faqProcessing16", null ],
-        [ "Q: How can a Plug-in be informed that it is currently processed in offline processing?", "faq.html#faqProcessing17", null ]
+        [ "Q: How can a Plug-in be informed that it is currently processed in offline processing?", "faq.html#faqProcessing17", null ],
+        [ "Q: What should I NOT call in the realtime process function?", "faq.html#faqProcessing18", null ]
       ] ],
       [ "GUI-Editor", "faq.html#faqEditor", [
         [ "Q: The host doesn't open my Plug-in UI, why?", "faq.html#faqEditor1", null ]
@@ -98,6 +99,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "VST 3 Version History", "vst3History.html", [
+      [ "Version 3.6.14 (2019/11/29)", "vst3History.html#rev3614", null ],
       [ "Version 3.6.13 (2019/04/08)", "vst3History.html#rev3613", null ],
       [ "Version 3.6.12 (2018/12/03)", "vst3History.html#rev3612", null ],
       [ "Version 3.6.11 (2018/10/22)", "vst3History.html#rev3611", null ],
@@ -187,11 +189,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classSteinberg_1_1Vst_1_1EditController.html#ab79fa22ff4d37cecd630af788e524a85",
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#ac8bb3912a3ce86b15842e79d0b421204",
-"classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549",
-"module_8cpp.html",
-"vstparameters_8cpp.html"
+"classSteinberg_1_1Vst_1_1EditController.html#a7591db8435451472cc5af50ff313e119",
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#ab1ea7afd1ecc429f8324b751082e4b0f",
+"classSteinberg_1_1Vst_1_1VSTGUIEditor.html",
+"index.html",
+"vstcomponentbase_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

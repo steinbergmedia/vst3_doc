@@ -12,7 +12,6 @@ var searchData=
   ['vstaudioprocessoralgo_2eh',['vstaudioprocessoralgo.h',['../vstaudioprocessoralgo_8h.html',1,'']]],
   ['vstbus_2ecpp',['vstbus.cpp',['../vstbus_8cpp.html',1,'']]],
   ['vstbus_2eh',['vstbus.h',['../vstbus_8h.html',1,'']]],
-  ['vstbypassprocessor_2ecpp',['vstbypassprocessor.cpp',['../vstbypassprocessor_8cpp.html',1,'']]],
   ['vstbypassprocessor_2eh',['vstbypassprocessor.h',['../vstbypassprocessor_8h.html',1,'']]],
   ['vstcomponent_2ecpp',['vstcomponent.cpp',['../vstcomponent_8cpp.html',1,'']]],
   ['vstcomponent_2eh',['vstcomponent.h',['../vstcomponent_8h.html',1,'']]],

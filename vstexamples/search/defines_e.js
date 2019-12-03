@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['separator',['SEPARATOR',['../validator_8h.html#af68c3a5ad6ffce6c97fff154856a823d',1,'validator.h']]],
   ['setup_5fcontext',['SETUP_CONTEXT',['../logevents_8h.html#adfcd222e817c0d2841fc4adaf1353850',1,'logevents.h']]],
   ['silence',['SILENCE',['../mdaDX10Processor_8cpp.html#aac1866175a2578574fc07c16e566c4fc',1,'SILENCE():&#160;mdaDX10Processor.cpp'],['../mdaEPianoProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc',1,'SILENCE():&#160;mdaEPianoProcessor.cpp'],['../mdaJX10Processor_8cpp.html#aac1866175a2578574fc07c16e566c4fc',1,'SILENCE():&#160;mdaJX10Processor.cpp'],['../mdaPianoProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc',1,'SILENCE():&#160;mdaPianoProcessor.cpp'],['../mdaSpecMeterProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc',1,'SILENCE():&#160;mdaSpecMeterProcessor.cpp']]],
   ['state',['STATE',['../logevents_8h.html#aacd2cf60f504e45efada9aec028ee3cd',1,'logevents.h']]],

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['smtg_5falways_5finline',['SMTG_ALWAYS_INLINE',['../ftypes_8h.html#a3df4ece706682a504fa3d08c3b0a04a4',1,'ftypes.h']]],
+  ['smtg_5fconstexpr',['SMTG_CONSTEXPR',['../fplatform_8h.html#ae879ea0d66915005ec8ea88f2f1f2762',1,'fplatform.h']]],
   ['smtg_5fdeprecated_5fattribute',['SMTG_DEPRECATED_ATTRIBUTE',['../fplatform_8h.html#ad30cbf5ca1963c944681bc04c91eed1d',1,'fplatform.h']]],
   ['smtg_5fdeprecated_5fmsg',['SMTG_DEPRECATED_MSG',['../fplatform_8h.html#a41cbd50f8f0a070abff5e1612ebbcca3',1,'fplatform.h']]],
   ['smtg_5fintel_5fcompiler',['SMTG_INTEL_COMPILER',['../fplatform_8h.html#a1c09a77d0ec57de38471f6de5a8587e3',1,'fplatform.h']]],

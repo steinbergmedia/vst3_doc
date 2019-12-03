@@ -1,7 +1,7 @@
 var searchData=
 [
   ['mactive',['mActive',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
-  ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#a09d4d9d1e784a8c828716951dd2dbaed',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#a921b4c66c57a500044bf0d277304d6dd',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
+  ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
   ['map',['map',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
   ['masks',['Masks',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Chord.html#a15c053e1a487c607ed4f57d29a07e117',1,'Steinberg::Vst::Chord']]],
@@ -11,8 +11,8 @@ var searchData=
   ['maxplain',['maxPlain',['../classSteinberg_1_1Vst_1_1RangeParameter.html#aa8344438020842aadfa3cb0480c6fd0b',1,'Steinberg::Vst::RangeParameter']]],
   ['maxsamplesperblock',['maxSamplesPerBlock',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#a41cd06a0c942a1b3f283092b893d0de3',1,'Steinberg::Vst::ProcessSetup']]],
   ['maxsize',['maxSize',['../classSteinberg_1_1Vst_1_1EventList.html#a609c4f8034f898f63d031c2d0a50e74c',1,'Steinberg::Vst::EventList']]],
-  ['mbuffer',['mBuffer',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#a899855a84c2a3c9adf1d471a5768b38e',1,'Steinberg::Vst::AudioBuffer::mBuffer()'],['../classSteinberg_1_1Vst_1_1BufferStream.html#a5d0b20ac855d21274cac7f4e614d839d',1,'Steinberg::Vst::BufferStream::mBuffer()']]],
-  ['mdelaybuffer',['mDelayBuffer',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#ac2063663fd4c3d10222a35fb68b1f04d',1,'Steinberg::Vst::BypassProcessor::Delay']]],
+  ['mbuffer',['mBuffer',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#a2ac1103ffae191ddfb568b0731b49b79',1,'Steinberg::Vst::AudioBuffer::mBuffer()'],['../classSteinberg_1_1Vst_1_1BufferStream.html#a5d0b20ac855d21274cac7f4e614d839d',1,'Steinberg::Vst::BufferStream::mBuffer()']]],
+  ['mdelaybuffer',['mDelayBuffer',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a7b0892748450b983c4775c5ffdc3a24d',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mdelays',['mDelays',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#af03bc4cf393d19019897417293c55663',1,'Steinberg::Vst::BypassProcessor']]],
   ['mdelaysamples',['mDelaySamples',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1b6e654cccea1d9d3b8ac8fdf5d349ef',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mediatype',['mediaType',['../../vstinterfaces/structSteinberg_1_1Vst_1_1BusInfo.html#ac12e8d0c4308238a04fefe98e39b1514',1,'Steinberg::Vst::BusInfo::mediaType()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html#ac12e8d0c4308238a04fefe98e39b1514',1,'Steinberg::Vst::RoutingInfo::mediaType()'],['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'Steinberg::Vst::MediaType()'],['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'MediaType()(Global Namespace)']]],
@@ -43,8 +43,8 @@ var searchData=
   ['module_5flinux_2ecpp',['module_linux.cpp',['../module__linux_8cpp.html',1,'']]],
   ['module_5fmac_2emm',['module_mac.mm',['../module__mac_8mm.html',1,'']]],
   ['module_5fwin32_2ecpp',['module_win32.cpp',['../module__win32_8cpp.html',1,'']]],
-  ['moduleentryfunc',['ModuleEntryFunc',['../module__linux_8cpp.html#a8896b62003cc5e422a639b79c575e670',1,'module_linux.cpp']]],
-  ['moduleexitfunc',['ModuleExitFunc',['../module__linux_8cpp.html#a6a54ca4a38bb52e14b06b693c7973bfd',1,'module_linux.cpp']]],
+  ['moduleentryfunc',['ModuleEntryFunc',['../module__linux_8cpp.html#a9b715f5fd5674dcf99d4b3b286f9c993',1,'module_linux.cpp']]],
+  ['moduleexitfunc',['ModuleExitFunc',['../module__linux_8cpp.html#a71d82882268b976c5260a89577b9d2f9',1,'module_linux.cpp']]],
   ['modulehandle',['moduleHandle',['../vstguieditor_8cpp.html#ab302317af2233cef9ab2bd2a2d89b60f',1,'vstguieditor.cpp']]],
   ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mpluginterfacesupport',['mPlugInterfaceSupport',['../classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]]

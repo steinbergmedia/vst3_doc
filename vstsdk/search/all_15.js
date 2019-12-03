@@ -54,7 +54,6 @@ var searchData=
   ['vst_20buses',['VST Buses',['../../vstinterfaces/group__vstBus.html',1,'']]],
   ['vstbus_2ecpp',['vstbus.cpp',['../vstbus_8cpp.html',1,'']]],
   ['vstbus_2eh',['vstbus.h',['../vstbus_8h.html',1,'']]],
-  ['vstbypassprocessor_2ecpp',['vstbypassprocessor.cpp',['../vstbypassprocessor_8cpp.html',1,'']]],
   ['vstbypassprocessor_2eh',['vstbypassprocessor.h',['../vstbypassprocessor_8h.html',1,'']]],
   ['vst_20implementation_20helper_20classes',['VST Implementation Helper Classes',['../group__vstClasses.html',1,'']]],
   ['vstcomponent_2ecpp',['vstcomponent.cpp',['../vstcomponent_8cpp.html',1,'']]],

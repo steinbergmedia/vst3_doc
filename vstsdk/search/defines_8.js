@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vstgui_5fint32',['VSTGUI_INT32',['../vstguieditor_8h.html#abadb0c7013f002aa8ce4dc4ede5174f4',1,'vstguieditor.h']]]
+  ['use_5fole',['USE_OLE',['../module__win32_8cpp.html#af1ce76814dd30ab1a712aaee424a9525',1,'module_win32.cpp']]]
 ];

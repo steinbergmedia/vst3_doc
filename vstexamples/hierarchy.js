@@ -17,6 +17,8 @@ var hierarchy =
       [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", null ],
       [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", null ],
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ],
+      [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html", null ],
+      [ "TestSuite::Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", null ],
       [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ],
       [ "VstModule", "classSteinberg_1_1Vst_1_1VstModule.html", null ]
     ] ],
@@ -220,11 +222,15 @@ var hierarchy =
     [ "ITestResult", null, [
       [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ]
     ] ],
+    [ "ITestSuite", null, [
+      [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html", null ]
+    ] ],
     [ "PianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
     [ "EPianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
     [ "LogEvent", "structLogEvent.html", null ],
     [ "LogScale< T >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
     [ "LogScale< ParamValue >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
+    [ "Validator::ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", null ],
     [ "Parameter", "../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html", [
       [ "LogScaleParameter< T >", "classSteinberg_1_1Vst_1_1LogScaleParameter.html", null ],
       [ "BaseParameter", "classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html", [
@@ -235,17 +241,17 @@ var hierarchy =
     [ "ParameterChangesCheck", "classParameterChangesCheck.html", null ],
     [ "ProcessContextCheck", "classProcessContextCheck.html", null ],
     [ "ProcessSetupCheck", "classProcessSetupCheck.html", null ],
-    [ "ThreadChecker", "classSteinberg_1_1Vst_1_1ThreadChecker.html", null ],
+    [ "HostCheckerController::ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", null ],
     [ "UIViewController", null, [
       [ "VSTInterAppAudioHostUIControllerViewController", "interfaceVSTInterAppAudioHostUIControllerViewController.html", null ]
     ] ],
     [ "ViewListenerAdapter", null, [
       [ "AGainUIMessageController< T >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ]
     ] ],
-    [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
-    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "DX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
     [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
+    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
+    [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
     [ "VoiceBase< numValues, SamplePrecision, numChannels, GlobalParameterStorage >", "classSteinberg_1_1Vst_1_1VoiceBase.html", null ],
     [ "VoiceBase< kNumParameters, SamplePrecision, 2, GlobalParameterState >", "classSteinberg_1_1Vst_1_1VoiceBase.html", [
       [ "Voice< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", null ]

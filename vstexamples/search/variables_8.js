@@ -14,6 +14,7 @@ var searchData=
   ['indexstring',['indexString',['../classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#a1609a5f853275559953142048d6fc929',1,'Steinberg::Vst::mda::IndexedParameter']]],
   ['ineditfromhost',['inEditFromHost',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a2b6ba748205d6006eb07be58ca71afb2',1,'Steinberg::Vst::HostCheckerController']]],
   ['info',['info',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#a03672ebc5c493f1caa8f647dd62e7019',1,'Steinberg::Vst::ProgramList::info()'],['../../vstsdk/classSteinberg_1_1Vst_1_1Unit.html#ada34a9c3bca142b51fbefe76a6002a23',1,'Steinberg::Vst::Unit::info()']]],
+  ['infostream',['infoStream',['../classSteinberg_1_1Vst_1_1Validator.html#a115212bd9693823b40af1f6df57b62fa',1,'Steinberg::Vst::Validator']]],
   ['inputevents',['inputEvents',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a55878a119a399f3e35f46272faac21b5',1,'Steinberg::Vst::ProcessData']]],
   ['inputparameterchanges',['inputParameterChanges',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a2c04010f689fda04c547aea84d894b3f',1,'Steinberg::Vst::ProcessData']]],
   ['inputs',['inputs',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a753be8bb50d436efaf9108959cb00cc4',1,'Steinberg::Vst::ProcessData']]],

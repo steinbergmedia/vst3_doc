@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">VST 3 Examples
-   &#160;<span id="projectnumber">VST 3.6.13</span>
+   &#160;<span id="projectnumber">VST 3.6.14</span>
    </div>
    <div id="projectbrief">SDK for developing VST Plug-in</div>
   </td>
@@ -106,23 +106,25 @@ $(document).ready(function(){initNavTree('validator_8h.html','');});
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a>  </div>
+<a href="#namespaces">Namespaces</a>  </div>
   <div class="headertitle">
 <div class="title">validator.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ipluginbase_8h.html">pluginterfaces/base/ipluginbase.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/hostclasses_8h.html">public.sdk/source/vst/hosting/hostclasses.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/module_8h.html">public.sdk/source/vst/hosting/module.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/pluginterfacesupport_8h.html">public.sdk/source/vst/hosting/pluginterfacesupport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vsttestsuite_8h.html">public.sdk/source/vst/testsuite/vsttestsuite.h</a>&quot;</code><br />
+<code>#include &quot;<a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/ipluginbase_8h.html">pluginterfaces/base/ipluginbase.h</a>&quot;</code><br />
 <code>#include &quot;pluginterfaces/test/itest.h&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/vsttestsuite_8h.html">public.sdk/source/vst/testsuite/vsttestsuite.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/hostclasses_8h.html">public.sdk/source/vst/hosting/hostclasses.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/module_8h.html">public.sdk/source/vst/hosting/module.h</a>&quot;</code><br />
-<code>#include &quot;<a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag:../vstsdk/" href="../vstsdk/pluginterfacesupport_8h.html">public.sdk/source/vst/hosting/pluginterfacesupport.h</a>&quot;</code><br />
+<code>#include &lt;iosfwd&gt;</code><br />
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1Validator.html">Validator</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main Class of <a class="el" href="classSteinberg_1_1Vst_1_1Validator.html" title="Main Class of Validator. ">Validator</a>.  <a href="classSteinberg_1_1Vst_1_1Validator.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html">Validator::ModuleTestConfig</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1VstModule.html">VstModule</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This handles the Plug-in factory in its library.  <a href="classSteinberg_1_1Vst_1_1VstModule.html#details">More...</a><br /></td></tr>
@@ -130,65 +132,11 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
+<tr class="memitem:namespaceSteinberg"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag:../base/" href="../base/namespaceSteinberg.html">Steinberg</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Volumes/SSD/Builddata/re/214795481/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
+<tr class="memitem:namespaceSteinberg_1_1Vst"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" doxygen="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag:../vstinterfaces/" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html">Steinberg::Vst</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:af68c3a5ad6ffce6c97fff154856a823d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="validator_8h.html#af68c3a5ad6ffce6c97fff154856a823d">SEPARATOR</a>&#160;&#160;&#160;&quot;-------------------------------------------------------------\n&quot;</td></tr>
-<tr class="separator:af68c3a5ad6ffce6c97fff154856a823d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac07605499f3d2efb532ddcd19d0fecb2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="validator_8h.html#ac07605499f3d2efb532ddcd19d0fecb2">VALIDATOR_INFO</a></td></tr>
-<tr class="separator:ac07605499f3d2efb532ddcd19d0fecb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8f9a1726c3f94cefbf2f5ccf0a4f5f9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="validator_8h.html#af8f9a1726c3f94cefbf2f5ccf0a4f5f9">VALIDATOR_USAGE</a></td></tr>
-<tr class="separator:af8f9a1726c3f94cefbf2f5ccf0a4f5f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a class="anchor" id="af68c3a5ad6ffce6c97fff154856a823d"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SEPARATOR&#160;&#160;&#160;&quot;-------------------------------------------------------------\n&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ac07605499f3d2efb532ddcd19d0fecb2"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VALIDATOR_INFO</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line"><a class="code" href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">SEPARATOR \</a></div>
-<div class="line"><a class="code" href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">	kVstVersionString</a> <span class="stringliteral">&quot; Plug-in Validator\n&quot;</span> \</div>
-<div class="line">    <span class="stringliteral">&quot;Program by Steinberg (Built on &quot;</span> __DATE__ <span class="stringliteral">&quot;)\n&quot;</span> <a class="code" href="validator_8h.html#af68c3a5ad6ffce6c97fff154856a823d">\</a></div>
-<div class="line"><a class="code" href="validator_8h.html#af68c3a5ad6ffce6c97fff154856a823d">	SEPARATOR</a> <span class="stringliteral">&quot;\n&quot;</span></div>
-<div class="ttc" id="validator_8h_html_af68c3a5ad6ffce6c97fff154856a823d"><div class="ttname"><a href="validator_8h.html#af68c3a5ad6ffce6c97fff154856a823d">SEPARATOR</a></div><div class="ttdeci">#define SEPARATOR</div><div class="ttdef"><b>Definition:</b> validator.h:59</div></div>
-<div class="ttc" id="againentry_8cpp_html_ad55a4f99f6b826bc06bf14e8d8473ca2"><div class="ttname"><a href="againentry_8cpp.html#ad55a4f99f6b826bc06bf14e8d8473ca2">kVstVersionString</a></div><div class="ttdeci">AGain kVstVersionString</div><div class="ttdef"><b>Definition:</b> againentry.cpp:90</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="af8f9a1726c3f94cefbf2f5ccf0a4f5f9"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VALIDATOR_USAGE</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line"><span class="stringliteral">&quot;Usage: vstvalidator [options] &lt;component path&gt; \n&quot;</span> \</div>
-<div class="line">    <span class="stringliteral">&quot;  where options are -l (use a local instance for each test instead of a global one)\n&quot;</span></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <html>

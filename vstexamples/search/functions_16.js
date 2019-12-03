@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['validate',['validate',['../classHostCheck.html#a38797f0df49cbdd64238e21847730016',1,'HostCheck']]],
+  ['validate',['validate',['../classHostCheck.html#ad9813477ab849f30eac311e34705eae0',1,'HostCheck']]],
   ['validator',['Validator',['../classSteinberg_1_1Vst_1_1Validator.html#af28d894fd2a793dd760457dda83c36e5',1,'Steinberg::Vst::Validator']]],
   ['valuechanged',['valueChanged',['../classSteinberg_1_1Vst_1_1EditorSizeController.html#a419a7042f1c31265091d5870ed70d100',1,'Steinberg::Vst::EditorSizeController::valueChanged()'],['../classVSTGUI_1_1NoteTouchController.html#a94d64f149dbf98863f121a3f6ce588ac',1,'VSTGUI::NoteTouchController::valueChanged()']]],
   ['vendor',['vendor',['../../vstsdk/classVST3_1_1Hosting_1_1ClassInfo.html#a07c4f613ae432adf55e05cd88ae18777',1,'VST3::Hosting::ClassInfo::vendor()'],['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#a0201e61502e104dac169cede7f8318e3',1,'VST3::Hosting::FactoryInfo::vendor()']]],

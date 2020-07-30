@@ -1,4 +1,0 @@
-<map id="IHostApplication" name="IHostApplication">
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1HostApplication.html" title="{HostApplication\n|# mPlugInterfaceSupport\l|+ HostApplication()\l+ ~HostApplication()\l+ getName()\l+ createInstance()\l+ getPlugInterfaceSupport()\l}" alt="" coords="5,292,174,422"/>
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="32,5,148,108"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="IAttributeList" name="IAttributeList">
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1HostAttributeList.html" title="{HostAttributeList\n|# list\l|+ HostAttributeList()\l+ ~HostAttributeList()\l+ setInt()\l+ getInt()\l+ setFloat()\l+ getFloat()\l+ setString()\l+ getString()\l+ setBinary()\l+ getBinary()\l# removeAttrID()\l}" alt="" coords="5,375,140,588"/>
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="15,5,131,108"/>
-</map>

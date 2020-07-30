@@ -1,3 +1,0 @@
-<map id="ProcessData" name="ProcessData">
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1HostProcessData.html" title="{HostProcessData\n|+ kAllChannelsSilent\l# channelBufferOwner\l|+ HostProcessData()\l+ ~HostProcessData()\l+ prepare()\l+ unprepare()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffer()\l+ setChannelBuffer64()\l# createBuffers()\l# destroyBuffers()\l# checkIfReallocationNeeded()\l}" alt="" coords="5,280,191,534"/>
-</map>

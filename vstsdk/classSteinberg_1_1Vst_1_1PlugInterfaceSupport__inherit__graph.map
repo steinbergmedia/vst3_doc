@@ -1,4 +1,0 @@
-<map id="PlugInterfaceSupport" name="PlugInterfaceSupport">
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title="{IPlugInterfaceSupport\n|+ iid\l|+ isPlugInterfaceSupported()\l}" alt="" coords="93,156,267,230"/>
-<area shape="rect" id="node4" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="122,5,238,108"/>
-</map>

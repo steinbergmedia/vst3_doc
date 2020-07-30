@@ -1,4 +1,0 @@
-<map id="IInterAppAudioPresetManager" name="IInterAppAudioPresetManager">
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html" title="{PresetManager\n|+ plugin\l+ visiblePresetBrowserView\lController\l+ visibleSavePresetViewController\l+ cid\l+ lastPreset\l|+ PresetManager()\l+ runLoadPresetBrowser()\l+ runSavePresetBrowser()\l+ loadNextPreset()\l+ loadPreviousPreset()\l+ getPresetPaths()\l+ loadPreset()\l+ loadPreset()\l+ savePreset()\l}" alt="" coords="5,320,210,574"/>
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="50,5,166,108"/>
-</map>

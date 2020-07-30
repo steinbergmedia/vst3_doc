@@ -1,4 +1,0 @@
-<map id="ReadOnlyBStream" name="ReadOnlyBStream">
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1IBStream.html" title="{IBStream\n|+ iid\l|+ read()\l+ write()\l+ seek()\l+ tell()\l}" alt="" coords="43,156,114,272"/>
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="21,5,137,108"/>
-</map>

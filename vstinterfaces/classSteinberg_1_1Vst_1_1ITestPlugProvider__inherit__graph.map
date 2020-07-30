@@ -1,4 +1,0 @@
-<map id="ITestPlugProvider" name="ITestPlugProvider">
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1PlugProvider.html" title="{PlugProvider\n|# factory\l# component\l# controller\l# classInfo\l# componentCP\l# controllerCP\l# plugIsGlobal\l|+ PlugProvider()\l+ ~PlugProvider()\l+ getComponent()\l+ getController()\l+ releasePlugIn()\l+ getSubCategories()\l+ getComponentUID()\l+ OBJ_METHODS()\l# setupPlugin()\l# connectComponents()\l# disconnectComponents()\l# terminatePlugin()\l}" alt="" coords="5,334,170,643"/>
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="30,5,146,108"/>
-</map>

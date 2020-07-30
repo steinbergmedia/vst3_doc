@@ -1,4 +1,0 @@
-<map id="ParameterChanges" name="ParameterChanges">
-<area shape="rect" id="node2" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParameterChanges.html" title="{IParameterChanges\n|+ iid\l|+ getParameterCount()\l+ getParameterData()\l+ addParameterData()\l}" alt="" coords="9,156,153,258"/>
-<area shape="rect" id="node3" href="/Builddata/re/232983844/b/VST_SDK/VST3_SDK/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="23,5,139,108"/>
-</map>

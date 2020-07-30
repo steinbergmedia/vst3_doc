@@ -1,0 +1,10 @@
+<map id="Graphical User Interface" name="Graphical User Interface">
+<area shape="rect" id="node1" href="$group__platformUIType.html" title="List of Platform UI types for IPlugView." alt="" coords="386,5,502,30"/>
+<area shape="rect" id="node2" href="$group__vstIHost.html" title=" " alt="" coords="358,54,530,93"/>
+<area shape="rect" id="node3" href="$group__vstIPlug.html" title=" " alt="" coords="371,117,517,169"/>
+<area shape="rect" id="node4" href="$group__vst300.html" title=" " alt="" coords="367,193,521,231"/>
+<area shape="rect" id="node5" href="$group__vst302.html" title=" " alt="" coords="367,256,521,294"/>
+<area shape="rect" id="node6" href="$group__vst366.html" title=" " alt="" coords="367,318,521,357"/>
+<area shape="rect" id="node7" href="$group__vst368.html" title=" " alt="" coords="367,416,521,454"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,200,157,224"/>
+</map>

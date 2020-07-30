@@ -1,0 +1,11 @@
+<map id="IConnectionPoint" name="IConnectionPoint">
+<area shape="rect" id="node1" title="Connect a component with another one: Vst::IConnectionPoint." alt="" coords="227,156,339,258"/>
+<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ComponentBase.html" title=" " alt="" coords="135,306,271,546"/>
+<area shape="rect" id="node9" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ConnectionProxy.html" title=" " alt="" coords="295,334,433,519"/>
+<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="225,5,341,108"/>
+<area shape="rect" id="node4" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Component.html" title=" " alt="" coords="36,594,186,848"/>
+<area shape="rect" id="node6" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="215,594,388,848"/>
+<area shape="rect" id="node5" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title=" " alt="" coords="5,917,195,1130"/>
+<area shape="rect" id="node7" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="219,896,394,1151"/>
+<area shape="rect" id="node8" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="212,1199,402,1494"/>
+</map>

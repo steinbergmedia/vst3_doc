@@ -1,0 +1,6 @@
+<map id="IProcessContextRequirements" name="IProcessContextRequirements">
+<area shape="rect" id="node1" title="Extended IAudioProcessor interface for a component: Vst::IProcessContextRequirements." alt="" coords="99,156,315,230"/>
+<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title=" " alt="" coords="5,320,195,533"/>
+<area shape="rect" id="node4" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="219,278,408,574"/>
+<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="149,5,265,108"/>
+</map>

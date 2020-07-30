@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,425,84,451"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1IAttributes.html" title="Object Data Archive Interface." alt="" coords="189,5,264,31"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1IBStream.html" title="Base class for streams." alt="" coords="191,55,262,80"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1ICloneable.html" title="Interface allowing an object to be copied." alt="" coords="187,104,266,130"/>
+<area shape="rect" id="node6" href="$classSteinberg_1_1IDependent.html" title="A dependent will get notified about changes of a model." alt="" coords="185,153,268,179"/>
+<area shape="rect" id="node7" href="$classSteinberg_1_1IErrorContext.html" title="Interface for error handling." alt="" coords="180,203,273,228"/>
+<area shape="rect" id="node8" href="$classSteinberg_1_1IPersistent.html" title="Persistent Object Interface." alt="" coords="187,252,265,278"/>
+<area shape="rect" id="node9" href="$classSteinberg_1_1IPlugFrame.html" title="Callback interface passed to IPlugView." alt="" coords="185,301,268,327"/>
+<area shape="rect" id="node10" href="$classSteinberg_1_1IPluginBase.html" title="Basic interface to a plug&#45;in component: IPluginBase." alt="" coords="184,351,269,376"/>
+<area shape="rect" id="node11" href="$classSteinberg_1_1IPluginFactory.html" title="Class factory that any plug&#45;in defines for creating class instances: IPluginFactory." alt="" coords="177,400,275,426"/>
+<area shape="rect" id="node14" href="$classSteinberg_1_1IPlugView.html" title="Plug&#45;in definition of a view." alt="" coords="189,449,264,475"/>
+<area shape="rect" id="node15" href="$classSteinberg_1_1IPlugViewContentScaleSupport.html" title="Plug&#45;in view content scale support." alt="" coords="132,499,321,524"/>
+<area shape="rect" id="node16" href="$classSteinberg_1_1ISizeableStream.html" title="Stream with a size." alt="" coords="172,548,281,574"/>
+<area shape="rect" id="node17" href="$classSteinberg_1_1IString.html" title="Interface to a string of variable size and encoding." alt="" coords="198,597,254,623"/>
+<area shape="rect" id="node18" href="$classSteinberg_1_1IStringResult.html" title="Interface to return an ascii string of variable size." alt="" coords="181,647,271,672"/>
+<area shape="rect" id="node19" href="$classSteinberg_1_1IUpdateHandler.html" title="Host implements dependency handling for plugins." alt="" coords="174,696,279,722"/>
+<area shape="rect" id="node20" href="$classSteinberg_1_1Linux_1_1IEventHandler.html" title="Linux event handler interface." alt="" coords="178,745,275,771"/>
+<area shape="rect" id="node21" href="$classSteinberg_1_1Linux_1_1IRunLoop.html" title="Linux host run loop interface." alt="" coords="190,795,263,820"/>
+<area shape="rect" id="node22" href="$classSteinberg_1_1Linux_1_1ITimerHandler.html" title="Linux timer handler interface." alt="" coords="178,844,275,870"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1IAttributes2.html" title="Extended access to Attributes; supports Attribute retrieval via iteration." alt="" coords="380,5,462,31"/>
+<area shape="rect" id="node12" href="$classSteinberg_1_1IPluginFactory2.html" title="Version 2 of class factory supporting PClassInfo2: IPluginFactory2." alt="" coords="369,400,473,426"/>
+<area shape="rect" id="node13" href="$classSteinberg_1_1IPluginFactory3.html" title="Version 3 of class factory supporting PClassInfoW: IPluginFactory3." alt="" coords="521,400,626,426"/>
+</map>

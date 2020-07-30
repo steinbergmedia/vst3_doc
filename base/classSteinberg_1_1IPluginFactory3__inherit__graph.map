@@ -1,0 +1,6 @@
+<map id="IPluginFactory3" name="IPluginFactory3">
+<area shape="rect" id="node1" title="Version 3 of class factory supporting PClassInfoW: IPluginFactory3." alt="" coords="5,443,156,531"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1IPluginFactory2.html" title="Version 2 of class factory supporting PClassInfo2: IPluginFactory2." alt="" coords="24,320,137,395"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1IPluginFactory.html" title="Class factory that any plug&#45;in defines for creating class instances: IPluginFactory." alt="" coords="21,156,140,272"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="22,5,139,108"/>
+</map>

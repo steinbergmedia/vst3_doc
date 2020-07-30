@@ -1,0 +1,15 @@
+<map id="VST 3 Interfaces to be implemented by the plug&#45;in" name="VST 3 Interfaces to be implemented by the plug&#45;in">
+<area shape="rect" id="node1" href="$group__vstIHost.html" title=" " alt="" coords="387,32,559,71"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,615,151,667"/>
+<area shape="rect" id="node3" href="$group__vst300.html" title=" " alt="" coords="396,195,549,233"/>
+<area shape="rect" id="node4" href="$group__vst301.html" title=" " alt="" coords="396,258,549,296"/>
+<area shape="rect" id="node5" href="$group__vst310.html" title=" " alt="" coords="396,326,549,364"/>
+<area shape="rect" id="node6" href="$group__vst350.html" title=" " alt="" coords="396,494,549,532"/>
+<area shape="rect" id="node7" href="$group__vst360.html" title=" " alt="" coords="396,579,549,617"/>
+<area shape="rect" id="node8" href="$group__vst365.html" title=" " alt="" coords="396,663,549,701"/>
+<area shape="rect" id="node9" href="$group__vst366.html" title=" " alt="" coords="396,726,549,764"/>
+<area shape="rect" id="node10" href="$group__vst370.html" title=" " alt="" coords="396,808,549,847"/>
+<area shape="rect" id="node11" href="$group__pluginGUI.html" title=" " alt="" coords="397,887,549,912"/>
+<area shape="rect" id="node12" href="$group__vst3611.html" title=" " alt="" coords="396,939,549,977"/>
+<area shape="rect" id="node13" href="$group__vst3612.html" title=" " alt="" coords="396,1002,549,1040"/>
+</map>

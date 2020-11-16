@@ -92,7 +92,7 @@ var classSteinberg_1_1Buffer =
     [ "doublePtr", "classSteinberg_1_1Buffer.html#a12ce1b09d51f9e84b79a427e8bb3d1c2", null ],
     [ "wcharPtr", "classSteinberg_1_1Buffer.html#ae13bd82bffbf058fb8a58a86ec3b57dc", null ],
     [ "operator+", "classSteinberg_1_1Buffer.html#ab1f9c3c721c22713ec76cdb702c25a85", null ],
-    [ "operator !", "classSteinberg_1_1Buffer.html#a36616915c7fe012a5fdab71c5e0cef8c", null ],
+    [ "operator!", "classSteinberg_1_1Buffer.html#ae65e18c2973e69dc67b518e399d5f43e", null ],
     [ "swap", "classSteinberg_1_1Buffer.html#a78970931ab3488ad189d421140692228", null ],
     [ "take", "classSteinberg_1_1Buffer.html#acfa5f874d6e079d5dd3ff1a19746cb03", null ],
     [ "pass", "classSteinberg_1_1Buffer.html#afa32c58b633cbb67448023400d78b11d", null ],

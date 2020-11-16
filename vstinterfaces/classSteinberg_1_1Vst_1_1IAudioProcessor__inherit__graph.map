@@ -1,6 +1,6 @@
 <map id="IAudioProcessor" name="IAudioProcessor">
-<area shape="rect" id="node1" title="Audio processing interface: Vst::IAudioProcessor." alt="" coords="124,156,290,327"/>
-<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title=" " alt="" coords="5,416,195,629"/>
-<area shape="rect" id="node4" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="219,375,408,670"/>
-<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="149,5,265,108"/>
+<area shape="rect" id="node1" title="Audio processing interface: Vst::IAudioProcessor." alt="" coords="127,153,297,320"/>
+<area shape="rect" id="node3" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title=" " alt="" coords="5,408,200,615"/>
+<area shape="rect" id="node4" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="224,368,419,655"/>
+<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="153,5,271,105"/>
 </map>

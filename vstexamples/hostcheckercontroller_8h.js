@@ -12,6 +12,7 @@ var hostcheckercontroller_8h =
     [ "kTriggerHiddenTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a79b0ada10bec303a481a3c7dc8ef13a0", null ],
     [ "kTriggerProgressTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a19ba37e132970966dad81b0a71234d59", null ],
     [ "kProgressValueTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04ace7e68fad1a025ca53d2f6b5a1e5e44d", null ],
+    [ "kCopy2ClipboardTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04abdd12f264dfee05446ae8e7ecb53a35c", null ],
     [ "kProcessWarnTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04ae8cff5408066b4167241eedf3679cf3d", null ],
     [ "kLastTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a93e21950be830dbb0584b13931e8ec91", null ],
     [ "kUnitId", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a390c94ed7f81f33a64dc96dd65c24aad", null ],

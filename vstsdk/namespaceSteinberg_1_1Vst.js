@@ -31,6 +31,7 @@ var namespaceSteinberg_1_1Vst =
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html", "classSteinberg_1_1Vst_1_1ParameterContainer" ],
     [ "ParameterValueQueue", "classSteinberg_1_1Vst_1_1ParameterValueQueue.html", "classSteinberg_1_1Vst_1_1ParameterValueQueue" ],
     [ "ParamPoint", "classSteinberg_1_1Vst_1_1ParamPoint.html", "classSteinberg_1_1Vst_1_1ParamPoint" ],
+    [ "PluginContextFactory", "classSteinberg_1_1Vst_1_1PluginContextFactory.html", "classSteinberg_1_1Vst_1_1PluginContextFactory" ],
     [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport" ],
     [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", "classSteinberg_1_1Vst_1_1PlugProvider" ],
     [ "PresetFile", "classSteinberg_1_1Vst_1_1PresetFile.html", "classSteinberg_1_1Vst_1_1PresetFile" ],

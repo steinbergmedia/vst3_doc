@@ -2,7 +2,7 @@ var ivsteditcontroller_8h =
 [
     [ "ParameterInfo", "structSteinberg_1_1Vst_1_1ParameterInfo.html", "structSteinberg_1_1Vst_1_1ParameterInfo" ],
     [ "kVstComponentControllerClass", "ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99", null ],
-    [ "KnobMode", "ivsteditcontroller_8h.html#ga98965411c9e542b7c2a99a46c8c1dfa2", null ],
+    [ "KnobMode", "ivsteditcontroller_8h.html#a98965411c9e542b7c2a99a46c8c1dfa2", null ],
     [ "RestartFlags", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5", [
       [ "kReloadComponent", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5a22ef5ace2e53c785283a595b6add28b3", null ],
       [ "kIoChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5a47642f19b6da08e1bea896b6e06e630b", null ],

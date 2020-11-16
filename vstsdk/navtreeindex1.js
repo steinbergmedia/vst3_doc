@@ -1,13 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3":[12,0,7,26],
-"classSteinberg_1_1Vst_1_1EditController.html#a375821f541e8b3338d3e2dbfae7433d8":[12,0,7,12],
-"classSteinberg_1_1Vst_1_1EditController.html#a39488062cf0aeb73f2d0ca6be4e3d28f":[12,0,7,32],
-"classSteinberg_1_1Vst_1_1EditController.html#a3d48394e540892e42a1ea9364f007cb7":[12,0,7,19],
-"classSteinberg_1_1Vst_1_1EditController.html#a460c259c620b7dbe5ee1f0e7bef6cd23":[12,0,7,29],
-"classSteinberg_1_1Vst_1_1EditController.html#a4dae123b5697706651d9ff20c9614f63":[12,0,7,17],
-"classSteinberg_1_1Vst_1_1EditController.html#a6b866568fd49fdf6f8b310fd468389ee":[12,0,7,25],
-"classSteinberg_1_1Vst_1_1EditController.html#a6ce52467579d11e04ae284ce8737eb23":[12,0,7,5],
 "classSteinberg_1_1Vst_1_1EditController.html#a6df16b51840a296f8aaaa58a5b4f386c":[12,0,7,10],
 "classSteinberg_1_1Vst_1_1EditController.html#a7591db8435451472cc5af50ff313e119":[12,0,7,8],
 "classSteinberg_1_1Vst_1_1EditController.html#a786a5b0d67bd899354a805363a1a46b4":[12,0,7,21],
@@ -249,5 +241,13 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#a81daa8962de04d31bd39748347572b6f":[12,2,4,3],
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#ab02ba6d7a0043fecec571f8c4bbae516":[12,2,4,0],
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#ae25dd37cc3fdc8e358826a08dc8566f2":[12,2,4,1],
-"classSteinberg_1_1Vst_1_1ParameterChanges.html#ae96c41176d4504f8462d838ceba5499f":[12,2,4,7]
+"classSteinberg_1_1Vst_1_1ParameterChanges.html#ae96c41176d4504f8462d838ceba5499f":[12,2,4,7],
+"classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a":[12,2,4,6],
+"classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd":[12,2,4,8],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html":[12,0,20],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585":[12,0,20,3],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a09ad76517b311128144d1a5d0dbfee99":[12,0,20,13],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a17ccf658ed2936c9d740dd1c5fada5dc":[12,0,20,12],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a232db3a4bdd76a954d69ab1006b21aa3":[12,0,20,9],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a45c61e90b4a6fc07b6597c9acc55b483":[12,0,20,4]
 };

@@ -1,18 +1,17 @@
 /*
-@ @licstart  The following is the entire license notice for the
+@licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -140,7 +139,7 @@ var NAVTREEINDEX =
 "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a4a7c10bf70afb983f95293e513390df5",
 "functions_vars_f.html",
 "struct_v_s_t_g_u_i_1_1_c_button_state.html#a4dc11afdcf18b9f488ad816c1ca98eb1",
-"struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698",
+"struct_v_s_t_g_u_i_1_1_c_rect.html#a7f4336f598a4cd2f5ac7f83756a1bff4",
 "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html#a68752b222317b1e1103966106fb006e5",
 "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_search_text_edit_creator.html#a5af7fb20d7ef2a8263b3ec7b0f410753",
 "structmz__zip__reader__extract__iter__state.html#aa7376cf27a3374505d628b45d41c0809"

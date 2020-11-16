@@ -1,7 +1,7 @@
 var ivstchannelcontextinfo_8h =
 [
-    [ "ColorSpec", "ivstchannelcontextinfo_8h.html#ga5b13d028fba1eee386ec9ac208c6238d", null ],
-    [ "ColorComponent", "ivstchannelcontextinfo_8h.html#gaf1189c83b63820c6ccc3167402601fea", null ],
+    [ "ColorSpec", "ivstchannelcontextinfo_8h.html#a5b13d028fba1eee386ec9ac208c6238d", null ],
+    [ "ColorComponent", "ivstchannelcontextinfo_8h.html#af1189c83b63820c6ccc3167402601fea", null ],
     [ "ChannelPluginLocation", "ivstchannelcontextinfo_8h.html#ac6ac8886bd59deb9f997179931a168af", [
       [ "kPreVolumeFader", "ivstchannelcontextinfo_8h.html#ac6ac8886bd59deb9f997179931a168afa21f636e119b96f85db893e981c6d0fbb", null ],
       [ "kPostVolumeFader", "ivstchannelcontextinfo_8h.html#ac6ac8886bd59deb9f997179931a168afa352f87b06111d7eb4502ca8884ba1bfb", null ],

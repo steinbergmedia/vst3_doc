@@ -1,10 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda1c83f6d971da4f2cb0a97fe97d1f34b5":[7,0,27,4,23],
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda1e226959be1359aaaa71395aa86f8208":[7,0,27,4,4],
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda4943112719ee8d66b8de5b8f88ccd8ce":[7,0,27,4,26],
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda56b755177db5009ab61067b96229a9be":[7,0,27,4,14],
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda5a655b1a02e5b0311571ca57ce4f3900":[7,0,27,4,12],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda5fe89a70ee7bcac01feb5fc1de15985f":[7,0,27,4,29],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda5ff656d817dae9754566238d59d39157":[7,0,27,4,5],
 "ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda63b585983725a29a14552acb823a2949":[7,0,27,4,11],

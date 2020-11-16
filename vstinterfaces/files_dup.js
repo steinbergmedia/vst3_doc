@@ -22,7 +22,7 @@ var files_dup =
       [ "IContextMenuItem", "structSteinberg_1_1Vst_1_1IContextMenuItem.html", "structSteinberg_1_1Vst_1_1IContextMenuItem" ]
     ] ],
     [ "ivsteditcontroller.h", "ivsteditcontroller_8h.html", "ivsteditcontroller_8h" ],
-    [ "ivstevents.h", "ivstevents_8h.html", null ],
+    [ "ivstevents.h", "ivstevents_8h.html", "ivstevents_8h" ],
     [ "ivsthostapplication.h", "ivsthostapplication_8h.html", "ivsthostapplication_8h" ],
     [ "ivstinterappaudio.h", "ivstinterappaudio_8h.html", null ],
     [ "ivstmessage.h", "ivstmessage_8h.html", null ],

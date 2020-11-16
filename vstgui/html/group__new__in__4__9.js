@@ -113,8 +113,8 @@ var group__new__in__4__9 =
       [ "setLineWidth", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#a9901bb437bd3a1c196eb2f7b0d5bfa44", null ],
       [ "setSelectedBackColor", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#ae0bff4405afebc3c048bf32f0742470d", null ],
       [ "setSelectedFontColor", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#ae9f75a13539fdaf0325b8cd517629f09", null ],
-      [ "setStringProvider", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#acd49f85a404dbae6d29f2c18605086a8", null ],
       [ "setStringProvider", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#a55add0acdb40099ff7a720836e2203f7", null ],
+      [ "setStringProvider", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#acd49f85a404dbae6d29f2c18605086a8", null ],
       [ "setTextAlign", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#a9bafb95366e382dcfd0e08a07396c9b5", null ],
       [ "setTextInset", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#ab16ed28b6fc0bb798a03687087e68aa9", null ]
     ] ],

@@ -1,5 +1,14 @@
 var NAVTREEINDEX5 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a23cd617e615e56c4d6019ecc4553a3a3":[2,0,0,0,3,19,0,1],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a6aa88badc7e8cd93437d2ccf85c589c2":[2,0,0,0,3,19,0,2],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a751a22f671acea2765309476c6839be8":[2,0,0,0,3,19,0,4],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a7ca1e7303f91236e87a28d0da99ce499":[2,0,0,0,3,19,0,3],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a9d66ddaf312a7a2580a3624fc05860f8":[2,0,0,0,3,19,0,0],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55":[2,0,0,0,3,19,0,5],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,0,3,19,5],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#aa19349fa150637f7c6b8341ab4a9fbdc":[2,0,0,0,3,19,2],
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,0,3,19,6],
 "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html":[2,0,0,0,3,20],
 "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a00231a003d334eff8b5bb95428cddabd":[2,0,0,0,3,20,0],
 "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a0607c3682f320dfa66aabc53dd8340db":[2,0,0,0,3,20,8],
@@ -240,14 +249,5 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a4c91e0151586bd9b21bc4e486d4b44b6":[2,0,0,0,3,33,50],
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,0,3,33,10],
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a4fdfcd545d24663541e8e580c4165869":[2,0,0,0,3,33,34],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a512591c298ab1304bf391d08271daf2b":[2,0,0,0,3,33,51],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a55903a4515c78f60fffa73b09a924bf4":[2,0,0,0,3,33,17],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a568d53fc4bda906bbe5105ddbecbef67":[2,0,0,0,3,33,27],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a5f8700a78baf9f5ef3d49d483da025a3":[2,0,0,0,3,33,49],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a65c8b50901014cb0c49d6c94d753548a":[2,0,0,0,3,33,52],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a67e1d8843997c638a20755e3f52a0935":[2,0,0,0,3,33,36],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a6cbe32dd86cefd1a8b182b3ee652e9bf":[2,0,0,0,3,33,40],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a738c59f4cea27ff49f903708c8b9fe2c":[2,0,0,0,3,33,15],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a80b09ba6d56f803698722f396fff6329":[2,0,0,0,3,33,9],
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a87eb341278a24a4f1320d45de8a3a5b1":[2,0,0,0,3,33,25]
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a512591c298ab1304bf391d08271daf2b":[2,0,0,0,3,33,51]
 };

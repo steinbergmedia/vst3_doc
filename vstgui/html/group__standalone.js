@@ -16,7 +16,7 @@ var group__standalone =
       [ "integer", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a57ef39e8def0d695ce9f6744ea05c48c", null ],
       [ "string", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ae1adbce218e7a9d09164012443191d24", null ],
       [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ac5c30f6cb4c8fa8b11bc1ff7c70e1b12", null ],
-      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#afe1e82dc402f4441e557ef27abc177b3", null ]
+      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a861459e13ef5b31a17d238a6e68f278b", null ]
     ] ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", [
       [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html#a5150c4261a4bcb40d81b8c7a8cc8f9b6", null ]

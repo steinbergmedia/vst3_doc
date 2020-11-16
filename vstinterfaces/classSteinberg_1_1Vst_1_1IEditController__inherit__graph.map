@@ -1,8 +1,8 @@
 <map id="IEditController" name="IEditController">
-<area shape="rect" id="node1" title="Edit controller component interface: Vst::IEditController." alt="" coords="13,292,187,533"/>
-<area shape="rect" id="node4" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="13,581,187,835"/>
-<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="55,156,145,244"/>
-<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="42,5,158,108"/>
-<area shape="rect" id="node5" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="13,883,188,1137"/>
-<area shape="rect" id="node6" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="5,1185,195,1480"/>
+<area shape="rect" id="node1" title="Edit controller component interface: Vst::IEditController." alt="" coords="13,288,192,521"/>
+<area shape="rect" id="node4" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="13,569,192,816"/>
+<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="57,153,148,240"/>
+<area shape="rect" id="node3" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="43,5,162,105"/>
+<area shape="rect" id="node5" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="13,864,192,1111"/>
+<area shape="rect" id="node6" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="5,1159,200,1445"/>
 </map>

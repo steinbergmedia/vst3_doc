@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['version',['Version',['../structVST3_1_1Version.html',1,'VST3']]],
-  ['viewrect',['ViewRect',['../../base/structSteinberg_1_1ViewRect.html',1,'Steinberg']]],
-  ['vst2xprogram',['Vst2xProgram',['../structVST3_1_1Vst2xProgram.html',1,'VST3']]],
-  ['vst2xstate',['Vst2xState',['../structVST3_1_1Vst2xState.html',1,'VST3']]],
-  ['vstguieditor',['VSTGUIEditor',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html',1,'Steinberg::Vst']]],
-  ['vstinterappaudioappdelegatebase',['VSTInterAppAudioAppDelegateBase',['../interfaceVSTInterAppAudioAppDelegateBase.html',1,'']]]
+  ['version_2774',['Version',['../structVST3_1_1Version.html',1,'VST3']]],
+  ['viewrect_2775',['ViewRect',['../../base/structSteinberg_1_1ViewRect.html',1,'Steinberg']]],
+  ['vst2xprogram_2776',['Vst2xProgram',['../structVST3_1_1Vst2xProgram.html',1,'VST3']]],
+  ['vst2xstate_2777',['Vst2xState',['../structVST3_1_1Vst2xState.html',1,'VST3']]],
+  ['vstguieditor_2778',['VSTGUIEditor',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html',1,'Steinberg::Vst']]],
+  ['vstinterappaudioappdelegatebase_2779',['VSTInterAppAudioAppDelegateBase',['../interfaceVSTInterAppAudioAppDelegateBase.html',1,'']]]
 ];

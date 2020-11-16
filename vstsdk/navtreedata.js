@@ -1,18 +1,17 @@
 /*
-@ @licstart  The following is the entire license notice for the
+@licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -116,24 +115,14 @@ var NAVTREE =
       [ "Validator command line", "applications.html#validator", null ],
       [ "AudioHost - Cross-platform Standalone", "applications.html#audiohost", null ],
       [ "EditorHost - Cross-platform Standalone", "applications.html#editorhost", null ],
-      [ "VST 3 Plug-in Test Host", "applications.html#vstTestHost", [
-        [ "How to use it?", "applications.html#howtouse", null ],
-        [ "VST Player Window", "applications.html#vstTestHostPlayer", [
-          [ "Audio Input", "applications.html#audio", null ],
-          [ "Event Input", "applications.html#input", null ],
-          [ "VST Rack", "applications.html#rack", null ],
-          [ "Info Window", "applications.html#info", null ],
-          [ "Transport", "applications.html#transport", null ]
-        ] ],
-        [ "VST 3 Plug-ins Tests Window", "applications.html#vstTestHostTests", null ],
-        [ "Preset Editor", "applications.html#vstTestHostPresets", null ]
-      ] ]
+      [ "VST 3 Plug-in Test Host", "applications.html#vstTestHost", null ]
     ] ],
     [ "VST3 Project Generator", "vst3projectgenerator.html", null ],
     [ "VST 3 Change History", "vst3History.html", [
+      [ "Version 3.7.1 (2020/11/17)", "vst3History.html#rev371", null ],
       [ "Version 3.7.0 (2020/07/29)", "vst3History.html#rev3700", null ],
-      [ "Version 3.6.14 (2020/11/29)", "vst3History.html#rev3614", null ],
-      [ "Version 3.6.13 (2020/04/08)", "vst3History.html#rev3613", null ],
+      [ "Version 3.6.14 (2019/11/29)", "vst3History.html#rev3614", null ],
+      [ "Version 3.6.13 (2019/04/08)", "vst3History.html#rev3613", null ],
       [ "Version 3.6.12 (2018/12/03)", "vst3History.html#rev3612", null ],
       [ "Version 3.6.11 (2018/10/22)", "vst3History.html#rev3611", null ],
       [ "Version 3.6.10 (2018/06/11)", "vst3History.html#rev3610", null ],
@@ -226,11 +215,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AAXWrapper.html",
-"classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3",
-"classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a",
-"classSteinberg_1_1Vst_1_1StringListParameter.html#aa4056bdab127f0ae3fd36fef00fe86c1",
-"functions_func_n.html",
-"structVST3_1_1UID.html"
+"classSteinberg_1_1Vst_1_1EditController.html#a6df16b51840a296f8aaaa58a5b4f386c",
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a4741f281ae770bca7eef575bc328452c",
+"classSteinberg_1_1Vst_1_1StringListParameter.html#af7e7f0fc9f3c394f66dc5a8947742272",
+"functions_func_s.html",
+"structVST3_1_1UID.html#a4a8328602871e2f3b902361727e1baaf"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

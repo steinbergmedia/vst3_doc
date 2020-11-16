@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['speaker_20arrangements',['Speaker Arrangements',['../../vstinterfaces/group__speakerArrangements.html',1,'']]]
+  ['speaker_20arrangements_8774',['Speaker Arrangements',['../../vstinterfaces/group__speakerArrangements.html',1,'']]]
 ];

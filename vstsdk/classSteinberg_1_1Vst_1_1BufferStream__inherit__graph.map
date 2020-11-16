@@ -1,5 +1,5 @@
 <map id="BufferStream" name="BufferStream">
-<area shape="rect" id="node1" title="Stream implementation for a memory buffer." alt="" coords="5,361,122,505"/>
-<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1IBStream.html" title=" " alt="" coords="15,156,113,313"/>
-<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="6,5,122,108"/>
+<area shape="rect" id="node1" title="Stream implementation for a memory buffer." alt="" coords="5,355,124,495"/>
+<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1IBStream.html" title=" " alt="" coords="15,153,114,307"/>
+<area shape="rect" id="node3" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="5,5,124,105"/>
 </map>

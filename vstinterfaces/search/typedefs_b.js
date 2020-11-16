@@ -1,12 +1,15 @@
 var searchData=
 [
-  ['tbool',['TBool',['../../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895',1,'Steinberg']]],
-  ['tchar',['TChar',['../group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d',1,'Steinberg::Vst']]],
-  ['timerinterval',['TimerInterval',['../../base/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux::TimerInterval()'],['../namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux::TimerInterval()']]],
-  ['tptrint',['TPtrInt',['../../base/namespaceSteinberg.html#adbdfa470c35e7bf57d7952f0767bbf57',1,'Steinberg']]],
-  ['tquarternotes',['TQuarterNotes',['../group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'Steinberg::Vst']]],
-  ['tresult',['tresult',['../../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957',1,'Steinberg']]],
-  ['tsamples',['TSamples',['../group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f',1,'Steinberg::Vst']]],
-  ['tsize',['TSize',['../../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0',1,'Steinberg']]],
-  ['tuid',['TUID',['../../vstsdk/structVST3_1_1UID.html#aa87b025f78fcc7af3b438559a4de73c1',1,'VST3::UID::TUID()'],['../../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c',1,'Steinberg::TUID()']]]
+  ['uchar_5029',['uchar',['../../base/namespaceSteinberg.html#a65f85814a8290f9797005d3b28e7e5fc',1,'Steinberg']]],
+  ['ucolorcomponent_5030',['UColorComponent',['../../base/namespaceSteinberg.html#a3c4f7362f2f494a4120d7c864dd0822d',1,'Steinberg']]],
+  ['ucolorspec_5031',['UColorSpec',['../../base/namespaceSteinberg.html#a87699df6cd24276f34afea51d903c6e4',1,'Steinberg']]],
+  ['ucoord_5032',['UCoord',['../../base/namespaceSteinberg.html#abf33a8b245f4634965116e9c25eb702a',1,'Steinberg']]],
+  ['uint16_5033',['uint16',['../../base/namespaceSteinberg.html#a05f6b0ae8f6a6e135b0e290c25fe0e4e',1,'Steinberg']]],
+  ['uint32_5034',['uint32',['../../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e',1,'Steinberg']]],
+  ['uint64_5035',['uint64',['../../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad',1,'Steinberg']]],
+  ['uint8_5036',['uint8',['../../base/namespaceSteinberg.html#adde6aaee8457bee49c2a92621fe22b79',1,'Steinberg']]],
+  ['unitid_5037',['UnitID',['../namespaceSteinberg_1_1Vst.html#a6569c340fc68115670ee0161dd73b3ed',1,'Steinberg::Vst']]],
+  ['unitvector_5038',['UnitVector',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a687ee1e9d187cd0224fbcc4750addb5c',1,'Steinberg::Vst::EditControllerEx1']]],
+  ['ustring128_5039',['UString128',['../../base/namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5',1,'Steinberg']]],
+  ['ustring256_5040',['UString256',['../../base/namespaceSteinberg.html#a71098a25fa252b10d271a11807153385',1,'Steinberg']]]
 ];

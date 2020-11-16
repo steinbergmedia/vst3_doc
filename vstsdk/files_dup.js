@@ -74,9 +74,10 @@ var files_dup =
     [ "pluginterfacesupport.cpp", "pluginterfacesupport_8cpp.html", null ],
     [ "pluginterfacesupport.h", "pluginterfacesupport_8h.html", null ],
     [ "pluginview.h", "pluginview_8h.html", null ],
-    [ "plugprovider.cpp", "plugprovider_8cpp.html", "plugprovider_8cpp" ],
+    [ "plugprovider.cpp", "plugprovider_8cpp.html", null ],
     [ "plugprovider.h", "plugprovider_8h.html", [
-      [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", "classSteinberg_1_1Vst_1_1PlugProvider" ]
+      [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", "classSteinberg_1_1Vst_1_1PlugProvider" ],
+      [ "PluginContextFactory", "classSteinberg_1_1Vst_1_1PluginContextFactory.html", "classSteinberg_1_1Vst_1_1PluginContextFactory" ]
     ] ],
     [ "PresetBrowserViewController.h", "PresetBrowserViewController_8h.html", null ],
     [ "PresetBrowserViewController.mm", "PresetBrowserViewController_8mm.html", null ],

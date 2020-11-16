@@ -18,7 +18,7 @@ var group__pluginBase =
       [ "operator=", "classSteinberg_1_1FUID.html#ac8fc81bf202c6eb2f5832bc9605bf0bc", null ],
       [ "operator==", "classSteinberg_1_1FUID.html#a5ad5c12f86e9e7ba00d880779d52d41c", null ],
       [ "operator<", "classSteinberg_1_1FUID.html#a47e1a323874d7aeb090bb8b82ef1b9ce", null ],
-      [ "operator !=", "classSteinberg_1_1FUID.html#a792f4e20b559226c497517fc96cf3e62", null ],
+      [ "operator!=", "classSteinberg_1_1FUID.html#a50949c38f9edc20949dda2b2e9be0c20", null ],
       [ "getLong1", "classSteinberg_1_1FUID.html#a69634d019cd59e996d3e58b7c73d77b3", null ],
       [ "getLong2", "classSteinberg_1_1FUID.html#a2c9ff52f208fe256a9798bbcc00e1eac", null ],
       [ "getLong3", "classSteinberg_1_1FUID.html#acf6839f0503110cef6b68d8ea88fc80b", null ],
@@ -188,7 +188,7 @@ var group__pluginBase =
       [ "operator=", "classSteinberg_1_1IPtr.html#a4622db0a0823ec5e9801cd602f0fe794", null ],
       [ "operator=", "classSteinberg_1_1IPtr.html#a4b2a58247abf169f08870dc83ac941ab", null ],
       [ "operator=", "classSteinberg_1_1IPtr.html#a6fc6201a9df8fa0ae91921338e9fadfc", null ],
-      [ "operator I *", "classSteinberg_1_1IPtr.html#ab5965480fd07f18764cb89893aba1133", null ],
+      [ "operator I*", "classSteinberg_1_1IPtr.html#a8146c0b148b276ccca7ce4ac66066fa7", null ],
       [ "operator->", "classSteinberg_1_1IPtr.html#af0e47eae5b0e2aebb0829dbae70ad4f9", null ],
       [ "get", "classSteinberg_1_1IPtr.html#aa6bc54ff360c35c1d6f9875f7f7ed6b7", null ],
       [ "reset", "classSteinberg_1_1IPtr.html#a9ef8df82f56d037f33eedf88dc642ac1", null ],
@@ -203,5 +203,5 @@ var group__pluginBase =
       [ "OPtr", "classSteinberg_1_1OPtr.html#ae01694cf824294c53feba1db959e1a08", null ],
       [ "operator=", "classSteinberg_1_1OPtr.html#a37a50240500e6c0d77e174c050286ca9", null ]
     ] ],
-    [ "GetPluginFactory", "group__pluginBase.html#ga843ac97a36dfc717dadaa7192c7e8330", null ]
+    [ "GetPluginFactory", "group__pluginBase.html#ga4996ab6ef4807df458b8d49d47e10871", null ]
 ];

@@ -1,18 +1,17 @@
 /*
-@ @licstart  The following is the entire license notice for the
+@licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -146,7 +145,8 @@ var NAVTREE =
       [ "Audio Processor Call Sequence", "workflow.html#processorcallsequence", null ],
       [ "Edit Controller Call Sequence", "workflow.html#controllercallsequence", null ],
       [ "Get Latency Call Sequences", "workflow.html#GetLatencyCallSequence", null ],
-      [ "Resize View Call Sequences", "workflow.html#ResizeCallSequence", null ]
+      [ "Resize View Call Sequences", "workflow.html#ResizeCallSequence", null ],
+      [ "Bus Arrangement Sequences", "workflow.html#BusArrangementSequence", null ]
     ] ],
     [ "VST 3 Locations / Format", "vst3loc.html", [
       [ "Plug-in Format", "vst3loc.html#plugFormat", [
@@ -199,7 +199,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ]
@@ -220,14 +220,12 @@ var NAVTREEINDEX =
 "MidiVst3About.html",
 "classSteinberg_1_1Vst_1_1IComponentHandler3.html",
 "classSteinberg_1_1Vst_1_1IStreamAttributes.html#ad8d90e182b51e387734f307c2c12a2f4",
-"group__musicalInstrument.html#gab2577b8dac71b9e6d679cd5fd337fc70",
-"group__speakerArrangements.html#ga319dbf573206d0bb1a8b77e7f476548d",
-"group__vst3612.html",
-"ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6a8054b74403fa8ea7932e2a28aa4ef570",
-"representation.html#win7xml",
-"structSteinberg_1_1Vst_1_1UnitInfo.html",
-"vstpresetkeys_8h.html#gaaa2fa8f51e39b78604c752001cbef8c6",
-"vstspeaker_8h.html#ga88accb0a3074c3fb6eb3fdb490b21c62"
+"interfaceplug30.html#IConnectionPoint",
+"ivstrepresentation_8h.html#a055c0598a38e2d851f599662ea4cd4c6",
+"structSteinberg_1_1Vst_1_1FrameRate.html#a0e1b90fc53cc88f751388bc4466a4665aa2055ed514ccc81c537ca60ddbdaa226",
+"vstpresetkeys_8h.html#a18049d58eeecea7c6fed4f727442430d",
+"vstpresetkeys_8h.html#af8c102dba19d9bafb8d7ba312f812ad7",
+"vstspeaker_8h.html#ga4b0a12de443ae669b9dce39400837571"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

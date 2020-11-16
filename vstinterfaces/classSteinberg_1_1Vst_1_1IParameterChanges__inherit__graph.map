@@ -1,5 +1,5 @@
 <map id="IParameterChanges" name="IParameterChanges">
-<area shape="rect" id="node1" title="All parameter changes of a processing block: Vst::IParameterChanges." alt="" coords="9,156,153,258"/>
-<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterChanges.html" title=" " alt="" coords="5,306,156,477"/>
-<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/255369428/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="23,5,139,108"/>
+<area shape="rect" id="node1" title="All parameter changes of a processing block: Vst::IParameterChanges." alt="" coords="9,153,156,253"/>
+<area shape="rect" id="node3" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterChanges.html" title=" " alt="" coords="5,301,160,468"/>
+<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="23,5,142,105"/>
 </map>

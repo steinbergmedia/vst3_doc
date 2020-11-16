@@ -19,7 +19,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1DX10Processor =
     [ "getNumPrograms", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a25fa38a5317145096dce3ff00b6cde78", null ],
     [ "setCurrentProgram", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a55903a4515c78f60fffa73b09a924bf4", null ],
     [ "setCurrentProgramNormalized", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a8bf90593e40ded7977f2c198b52ad973", null ],
-    [ "checkSilence", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a96098e566609d80b0850e89701436b54", null ],
+    [ "checkSilence", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a01d616b8716f38ceba8c43bd0152912c", null ],
     [ "setParameter", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#adbc1ac78169fb87f5523d5acd706c11e", null ],
     [ "processEvents", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a01ab1ef3a4bcdf5f08ef526065518fc5", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a3026090cef033b689dc36c5f122924f9", null ],

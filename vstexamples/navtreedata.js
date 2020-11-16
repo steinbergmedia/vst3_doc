@@ -1,18 +1,17 @@
 /*
-@ @licstart  The following is the entire license notice for the
+@licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -81,18 +80,18 @@ var NAVTREEINDEX =
 [
 "VSTInterAppAudioAppDelegate_8h.html",
 "classSteinberg_1_1Vst_1_1AGain.html#a1bfe25345ab8c9724f1a9054bcc0119e",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954abb2e05aa2a2c78b5477c31cec0e2b628",
-"classSteinberg_1_1Vst_1_1VoiceBase.html#ae9a7e45b32e54b9b41198aa3f0f033f6",
-"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a4a4447244f3d7ff18aa6732b9d2d795c",
-"classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html",
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a8bf90593e40ded7977f2c198b52ad973",
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#adbc1ac78169fb87f5523d5acd706c11e",
-"classSteinberg_1_1Vst_1_1mda_1_1StereoController.html#a4dae123b5697706651d9ff20c9614f63",
-"classVSTGUI_1_1NoteTouchController.html#ac5f2ecd61d19679a787aa3928bec6b0e",
-"legacymidiccout_2source_2plugcids_8h.html",
-"mdaBeatBoxController_8h.html",
-"note__expression__synth__processor_8cpp.html",
-"structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a3fbde0632016d1feec776c236b90e514"
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954a2f489fc67dc2c97341a1f4ab2e1debac",
+"classSteinberg_1_1Vst_1_1VoiceBase.html#a7b3e63340f3dffc4bb5cd7e5e849e000",
+"classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#aad43827bba8fb47f81eaf929cfeedff9",
+"classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85a23cd617e615e56c4d6019ecc4553a3a3",
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a55903a4515c78f60fffa73b09a924bf4",
+"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035dac0841df3a3c9c8c90939f8cb756b91ff",
+"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#abdbf9351af7b99e82fbad02842eef222",
+"classVSTGUI_1_1NoteTouchController.html#a16f42f2efa3f6e691ad850acf8f73221",
+"index.html#programchange",
+"mda-vst3_2source_2version_8h.html#ad82cb859636c1a68bbea1968d405ad7b",
+"note__expression__synth__controller_8h.html#a05589fbab0657f08285ebdfe93f5ec9ea412ff72345b594894000c8f47b7f1921",
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a9531807d582fba717657d34fc72584cf"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

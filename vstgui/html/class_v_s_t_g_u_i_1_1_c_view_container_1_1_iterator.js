@@ -2,7 +2,7 @@ var class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator =
 [
     [ "Iterator", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#acb6091e9da1abfe377c75a954d885934", null ],
     [ "Iterator", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#a1e24f4f3a100738af5caa39a1eb46618", null ],
-    [ "operator *", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#aa6d780a782ce99a2e04cf5d3e3f65f33", null ],
+    [ "operator*", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#a3d5cea02ef095dd3ed969f9d34fc3f5f", null ],
     [ "operator++", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#a6cc4b8595eb66cf92e9c9bff44e08b69", null ],
     [ "operator++", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#ab46cf293eb052b4ccb860f9dcc34d971", null ],
     [ "operator--", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html#ae80385b82ca4cc6577ea4a4d62f7986f", null ],

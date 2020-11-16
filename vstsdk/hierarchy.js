@@ -135,6 +135,7 @@ var hierarchy =
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html", null ],
     [ "ParameterValueQueue::ParameterQueueValue", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", null ],
     [ "ParamPoint", "classSteinberg_1_1Vst_1_1ParamPoint.html", null ],
+    [ "PluginContextFactory", "classSteinberg_1_1Vst_1_1PluginContextFactory.html", null ],
     [ "PluginFactory", "classVST3_1_1Hosting_1_1PluginFactory.html", null ],
     [ "PresetFile", "classSteinberg_1_1Vst_1_1PresetFile.html", null ],
     [ "ProcessContextRequirements", "classSteinberg_1_1Vst_1_1ProcessContextRequirements.html", null ],

@@ -5,8 +5,8 @@ var ivstnoteexpression_8h =
     [ "NoteExpressionTextEvent", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent" ],
     [ "NoteExpressionTypeInfo", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo" ],
     [ "KeyswitchInfo", "structSteinberg_1_1Vst_1_1KeyswitchInfo.html", "structSteinberg_1_1Vst_1_1KeyswitchInfo" ],
-    [ "NoteExpressionTypeID", "ivstnoteexpression_8h.html#ga1f6dd3f1f6742382e7301c1db5587a4e", null ],
-    [ "NoteExpressionValue", "ivstnoteexpression_8h.html#ga9e134142463a8ca477018e7f2c3220f5", null ],
+    [ "NoteExpressionTypeID", "ivstnoteexpression_8h.html#a1f6dd3f1f6742382e7301c1db5587a4e", null ],
+    [ "NoteExpressionValue", "ivstnoteexpression_8h.html#a9e134142463a8ca477018e7f2c3220f5", null ],
     [ "KeyswitchTypeID", "ivstnoteexpression_8h.html#a62cc12c76af32650e16a6920962ddbf1", null ],
     [ "NoteExpressionTypeIDs", "ivstnoteexpression_8h.html#a7d66c573aff27d890ec154f45b61f310", [
       [ "kVolumeTypeID", "ivstnoteexpression_8h.html#a7d66c573aff27d890ec154f45b61f310a18860e42c73ce4d8d66d49d6a662ab56", null ],

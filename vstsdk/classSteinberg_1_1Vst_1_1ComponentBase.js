@@ -7,6 +7,7 @@ var classSteinberg_1_1Vst_1_1ComponentBase =
     [ "allocateMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#ad73cdb71520acbddc432f05afc78f319", null ],
     [ "sendMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#a92e46ebbe4a0bd08d08d5cdee2b6c3f2", null ],
     [ "sendTextMessage", "classSteinberg_1_1Vst_1_1ComponentBase.html#a2e5cfce489ef7d80b91d30c793d0d796", null ],
+    [ "sendMessageID", "classSteinberg_1_1Vst_1_1ComponentBase.html#a5ce1c0c86bd721be406c4a5d8823c200", null ],
     [ "receiveText", "classSteinberg_1_1Vst_1_1ComponentBase.html#a6e27175ee5edbf22022daefbf19aceeb", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1ComponentBase.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1ComponentBase.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

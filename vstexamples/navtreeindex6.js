@@ -1,5 +1,14 @@
 var NAVTREEINDEX6 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a55903a4515c78f60fffa73b09a924bf4":[2,0,0,0,3,33,17],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a568d53fc4bda906bbe5105ddbecbef67":[2,0,0,0,3,33,27],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a5f8700a78baf9f5ef3d49d483da025a3":[2,0,0,0,3,33,49],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a65c8b50901014cb0c49d6c94d753548a":[2,0,0,0,3,33,52],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a67e1d8843997c638a20755e3f52a0935":[2,0,0,0,3,33,36],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a6cbe32dd86cefd1a8b182b3ee652e9bf":[2,0,0,0,3,33,40],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a738c59f4cea27ff49f903708c8b9fe2c":[2,0,0,0,3,33,15],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a80b09ba6d56f803698722f396fff6329":[2,0,0,0,3,33,9],
+"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a87eb341278a24a4f1320d45de8a3a5b1":[2,0,0,0,3,33,25],
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a8bf90593e40ded7977f2c198b52ad973":[2,0,0,0,3,33,18],
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a9037b4211787858fa9c54ed0a10b2f79":[2,0,0,0,3,33,65],
 "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a905088e2e3d39794f65af93b732374f3":[2,0,0,0,3,33,68],
@@ -116,6 +125,7 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#ab1e069a5e328d16ced977ee0bf131833":[2,0,0,0,3,38,0],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,0,3,38,5],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html":[2,0,0,0,3,39],
+"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a01d616b8716f38ceba8c43bd0152912c":[2,0,0,0,3,39,7],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,0,3,39,4],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a276eca5290e17ef9227e019ca41d77b1":[2,0,0,0,3,39,1],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a2fa065b100d8f5db66d6ec88074e0068":[2,0,0,0,3,39,17],
@@ -127,7 +137,6 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a62c3c6c279f672e5f6ac32ff3a04d133":[2,0,0,0,3,39,11],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a7f0c18c70cdaaa13df3e80baa55e9b9c":[2,0,0,0,3,39,12],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a80b09ba6d56f803698722f396fff6329":[2,0,0,0,3,39,2],
-"classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a96098e566609d80b0850e89701436b54":[2,0,0,0,3,39,7],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a96c31e89763ed89de18ee0a2945004ce":[2,0,0,0,3,39,9],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#aafd52dfb8f7111164a986419f44939d3":[2,0,0,0,3,39,14],
 "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#ab29569cfc938b2e44f2430e869228958":[2,0,0,0,3,39,18],
@@ -240,14 +249,5 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035da54b6fffd3ba5eec39da9f688241a194b":[2,0,0,0,3,45,4],
 "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035da746a4738b660291776f99615ed62d000":[2,0,0,0,3,45,6],
 "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035da7880ff67a682bfd5be243cf08651f273":[2,0,0,0,3,45,8],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035da87f34c71c97e08ce1d520f823ab46247":[2,0,0,0,3,45,2],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035dac0841df3a3c9c8c90939f8cb756b91ff":[2,0,0,0,3,45,3],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035dad1d01172b42f8364a0de64b6da2da934":[2,0,0,0,3,45,5],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035daff8f2c749b743b02577de567de908efd":[2,0,0,0,3,45,7],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac054f2759659a30425d57e23d26b94a7":[2,0,0,0,3,45,10],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac1e6fe1a9c58033c643b713d6f34d1fd":[2,0,0,0,3,45,16],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac86d7ac6ef2ae32897a8ca85e5052f69":[2,0,0,0,3,45,23],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#acd9191c0e5c0105430a03731ac9f9701":[2,0,0,0,3,45,43],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[2,0,0,0,3,45,14],
-"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ad7192324f8580ae8c0de22bdc7e83b35":[2,0,0,0,3,45,29]
+"classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#abc5c98fcc1211af2b80116dd6e0a035da87f34c71c97e08ce1d520f823ab46247":[2,0,0,0,3,45,2]
 };

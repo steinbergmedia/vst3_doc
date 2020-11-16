@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['mediatype',['MediaType',['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'Steinberg::Vst::MediaType()'],['../../vstinterfaces/group__vst3typedef.html#ga5f0d28213b308d786ef7a1541d88368f',1,'MediaType()(Global Namespace)']]],
-  ['moduleentryfunc',['ModuleEntryFunc',['../module__linux_8cpp.html#a9b715f5fd5674dcf99d4b3b286f9c993',1,'module_linux.cpp']]],
-  ['moduleexitfunc',['ModuleExitFunc',['../module__linux_8cpp.html#a6bb67fd6e30b095f26ee8859d12de8ef',1,'module_linux.cpp']]]
+  ['normalizedvalue_5107',['NormalizedValue',['../namespaceSteinberg_1_1Vst_1_1MPE.html#ab38d25bdae264eebd969558d1a01425b',1,'Steinberg::Vst::MPE']]],
+  ['noteexpressiontypeid_5108',['NoteExpressionTypeID',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a1f6dd3f1f6742382e7301c1db5587a4e',1,'Steinberg::Vst']]],
+  ['noteexpressionvalue_5109',['NoteExpressionValue',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a9e134142463a8ca477018e7f2c3220f5',1,'Steinberg::Vst']]],
+  ['noteid_5110',['NoteID',['../namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e',1,'Steinberg::Vst::MPE']]]
 ];

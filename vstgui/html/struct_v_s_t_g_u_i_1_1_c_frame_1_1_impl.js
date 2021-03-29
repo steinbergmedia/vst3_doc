@@ -19,7 +19,7 @@ var struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl =
     [ "modalViewSessionStack", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#afc68799e7aad13c2788ea971e1e1e215", null ],
     [ "mouseObservers", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a6c4243b462853b25cdd48c164fe4277a", null ],
     [ "mouseViews", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#aa3d0cd46ab50a61ee8dd77f85f6ebea0", null ],
-    [ "platformFrame", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a51d18d1d71a30955d3bbf29e3706c855", null ],
+    [ "platformFrame", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a9dd33631270f85952ac026501d6b0015", null ],
     [ "platformScaleFactor", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a8356a721fff4d1f369d406c9da9df548", null ],
     [ "postEventFunctionQueue", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#af5cf3f01ff7ace937d2b094d60d94442", null ],
     [ "scaleFactorChangedListenerList", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a82239cf30a44e84fb668477f221663db", null ],

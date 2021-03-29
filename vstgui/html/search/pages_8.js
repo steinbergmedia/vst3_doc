@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ui_20xml_20attribute_20definitions_7153',['UI XML Attribute Definitions',['../uidescription_attributes.html',1,'uidescription']]]
+  ['setup',['Setup',['../page_setup.html',1,'']]],
+  ['standalone_20library',['Standalone Library',['../standalone_library.html',1,'']]]
 ];

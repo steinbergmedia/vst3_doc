@@ -16,7 +16,7 @@ var group__standalone =
       [ "integer", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a57ef39e8def0d695ce9f6744ea05c48c", null ],
       [ "string", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ae1adbce218e7a9d09164012443191d24", null ],
       [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ac5c30f6cb4c8fa8b11bc1ff7c70e1b12", null ],
-      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a861459e13ef5b31a17d238a6e68f278b", null ]
+      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ad5838b52307c1ee839211156a773a513", null ]
     ] ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", [
       [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html#a5150c4261a4bcb40d81b8c7a8cc8f9b6", null ]
@@ -147,6 +147,7 @@ var group__standalone =
       [ "WindowList", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a5d8ad37595b7b45551608ad0889a6605", null ],
       [ "createWindow", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a4dbf94561c444abd21b73a741da25072", null ],
       [ "enableTooltips", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a15077313837b776666f30f73c4746e37", null ],
+      [ "executeCommand", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a462cc295aa1e9243af8f8dabe7f2b6f1", null ],
       [ "getCommandLineArguments", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#aa4da555075d47198a4f2ca57a927f67d", null ],
       [ "getCommonDirectories", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a68618b765dc5bcc995e01fb18ce5a2fa", null ],
       [ "getDelegate", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a0ca33839b947f47d4d9f3adea8c93145", null ],
@@ -306,7 +307,8 @@ var group__standalone =
       [ "Error", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a902b0d55fddef6f8d651fe1035b7d4bd", null ]
     ] ],
     [ "ConfigKey", "group__standalone.html#gaebc84ce10c7f4503fdb5dac0f2c8b8df", [
-      [ "UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ]
+      [ "UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ],
+      [ "ShowCommandsInContextMenu", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfa64467c9fc342e68e559d041b7197c223", null ]
     ] ],
     [ "WindowType", "group__standalone.html#ga476342970f954b62d70552bcbb5ee509", [
       [ "Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],

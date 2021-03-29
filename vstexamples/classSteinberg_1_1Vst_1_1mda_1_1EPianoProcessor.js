@@ -4,7 +4,6 @@ var classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor =
     [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE" ],
     [ "kNumVoices", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#abed82baf7f470b522273a3e37c24c600a8792536856d889f8135bc325f2598a33", null ],
     [ "kEventBuffer", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#abed82baf7f470b522273a3e37c24c600a5c8e28051181340ee43c6e393d8e4a56", null ],
-    [ "kNumPrograms", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#abed82baf7f470b522273a3e37c24c600ad1d01172b42f8364a0de64b6da2da934", null ],
     [ "EPianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a77f410dbef33a88b9b0a5d52f4dd7338", null ],
     [ "~EPianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#acbcf1360c00f6662701dd7b7891f0d44", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],

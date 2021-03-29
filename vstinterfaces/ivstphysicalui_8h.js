@@ -2,7 +2,8 @@ var ivstphysicalui_8h =
 [
     [ "PhysicalUIMap", "structSteinberg_1_1Vst_1_1PhysicalUIMap.html", "structSteinberg_1_1Vst_1_1PhysicalUIMap" ],
     [ "PhysicalUIMapList", "structSteinberg_1_1Vst_1_1PhysicalUIMapList.html", "structSteinberg_1_1Vst_1_1PhysicalUIMapList" ],
-    [ "PhysicalUITypeID", "ivstphysicalui_8h.html#a207b8fd37ea1de019fdb784e4cedacc3", null ],
+    [ "INoteExpressionPhysicalUIMapping", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping" ],
+    [ "PhysicalUITypeID", "ivstphysicalui_8h.html#ga207b8fd37ea1de019fdb784e4cedacc3", null ],
     [ "PhysicalUITypeIDs", "ivstphysicalui_8h.html#a625d3c836663769a5ea9df6a8481feca", [
       [ "kPUIXMovement", "ivstphysicalui_8h.html#a625d3c836663769a5ea9df6a8481fecaa973abf8a1ca38781df5550b5db3ed345", null ],
       [ "kPUIYMovement", "ivstphysicalui_8h.html#a625d3c836663769a5ea9df6a8481fecaa8b27cb6543ac07a669439676746fb05f", null ],

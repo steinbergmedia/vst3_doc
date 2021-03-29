@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['window_5240',['window',['../interfaceVSTInterAppAudioAppDelegateBase.html#ae04748cdefebda525b266731b6c120a2',1,'VSTInterAppAudioAppDelegateBase']]]
+  ['window',['window',['../interfaceVSTInterAppAudioAppDelegateBase.html#ae04748cdefebda525b266731b6c120a2',1,'VSTInterAppAudioAppDelegateBase']]]
 ];

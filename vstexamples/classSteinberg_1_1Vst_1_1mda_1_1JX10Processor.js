@@ -1,12 +1,10 @@
 var classSteinberg_1_1Vst_1_1mda_1_1JX10Processor =
 [
     [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE" ],
-    [ "kNumPrograms", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57ad1d01172b42f8364a0de64b6da2da934", null ],
-    [ "EVENTBUFFER", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a385c44f6fb256e5716a2302a5b940388a87f34c71c97e08ce1d520f823ab46247", null ],
-    [ "EVENTS_DONE", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a385c44f6fb256e5716a2302a5b940388ac0841df3a3c9c8c90939f8cb756b91ff", null ],
-    [ "KMAX", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a385c44f6fb256e5716a2302a5b940388a073f0d0a8284c9e14909e50f587eab16", null ],
-    [ "SUSTAIN", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a385c44f6fb256e5716a2302a5b940388aff8f2c749b743b02577de567de908efd", null ],
-    [ "NVOICES", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a385c44f6fb256e5716a2302a5b940388a746a4738b660291776f99615ed62d000", null ],
+    [ "EVENTBUFFER", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57a87f34c71c97e08ce1d520f823ab46247", null ],
+    [ "EVENTS_DONE", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57ac0841df3a3c9c8c90939f8cb756b91ff", null ],
+    [ "SUSTAIN", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57aff8f2c749b743b02577de567de908efd", null ],
+    [ "NVOICES", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57a746a4738b660291776f99615ed62d000", null ],
     [ "JX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#af31c18fc7537b3d45269685d2425e115", null ],
     [ "~JX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#afc4a49db5b01382b5a2ebdc442fc0c09", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a80b09ba6d56f803698722f396fff6329", null ],

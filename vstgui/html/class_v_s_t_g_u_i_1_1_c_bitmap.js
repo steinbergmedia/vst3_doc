@@ -1,7 +1,7 @@
 var class_v_s_t_g_u_i_1_1_c_bitmap =
 [
     [ "BitmapVector", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a01d62db7607dd5294beb980de1abed3d", null ],
-    [ "PlatformBitmapPtr", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a692bace48e9a5a04714ca968839c043c", null ],
+    [ "const_iterator", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a413fca162978537abfae21f16c5e9181", null ],
     [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a254c90efbb4871cb082e760ad67fddee", null ],
     [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a844b29a61abc9f3e18214edcbd16848e", null ],
     [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a36a49e23be738888f45247286c666065", null ],
@@ -9,7 +9,9 @@ var class_v_s_t_g_u_i_1_1_c_bitmap =
     [ "~CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a84adc9b0882d7e57d9c080c408b4f060", null ],
     [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a3aeefa6641b76ae260d18595e56d610f", null ],
     [ "addBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#af210e41f948fced501fd8fe2dcabd5a6", null ],
+    [ "begin", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a29305669b60ca1680752e2fc3592ba99", null ],
     [ "draw", "class_v_s_t_g_u_i_1_1_c_bitmap.html#abe4a2d2349bc6a85310950ec9363beac", null ],
+    [ "end", "class_v_s_t_g_u_i_1_1_c_bitmap.html#accf9a4bd0c34d4a5f6a7dab66ea10cdc", null ],
     [ "getBestPlatformBitmapForScaleFactor", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a70880d91324dc54dad94b4cc47dbe8f6", null ],
     [ "getHeight", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a6c592d9e53e84e292b907f823702c92a", null ],
     [ "getPlatformBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html#a2e8e79ceb4e19edd5d097421afe46279", null ],

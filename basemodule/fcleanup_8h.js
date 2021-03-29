@@ -8,5 +8,5 @@ var fcleanup_8h =
     [ "FConditionalBoolSetter", "structSteinberg_1_1FConditionalBoolSetter.html", "structSteinberg_1_1FConditionalBoolSetter" ],
     [ "FCloser", "structSteinberg_1_1FCloser.html", "structSteinberg_1_1FCloser" ],
     [ "FMallocReleaser", "classSteinberg_1_1FMallocReleaser.html", "classSteinberg_1_1FMallocReleaser" ],
-    [ "FBoolSetter", "fcleanup_8h.html#a9dfa5cbdeaed453253a4694a712e95cb", null ]
+    [ "FBoolSetter", "fcleanup_8h.html#aac248a0d0bf4446d45f2539bc61f6c23", null ]
 ];

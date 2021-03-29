@@ -1,68 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <tagfile>
   <compound kind="file">
-    <name>doc_1_vst.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__1__vst_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_20_before35.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__20__before35_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_21_noteexpression.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__21__noteexpression_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_22_representation.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__22__representation_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_25_after35.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__25__after35_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_30_preset.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__30__preset_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_50_workflow.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__50__workflow_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_55_locations.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__55__locations_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_57_midi.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__57__midi_8h</filename>
-  </compound>
-  <compound kind="file">
-    <name>doc_60_howto.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
-    <filename>doc__60__howto_8h</filename>
-  </compound>
-  <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
   </compound>
   <compound kind="file">
     <name>itest.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/test/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/test/</path>
     <filename>itest_8h</filename>
     <class kind="class">Steinberg::ITest</class>
     <class kind="class">Steinberg::ITestResult</class>
@@ -79,7 +29,7 @@
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -89,7 +39,7 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">ivstcomponent.h</includes>
     <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" imported="no">vstspeaker.h</includes>
@@ -175,273 +125,273 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kFxAnalyzer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDelay</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae3635bf778d4382234cbcfc30d71db16</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDistortion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDynamics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa892f409ac4c930c1af59459372c167b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxEQ</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxFilter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a0411b97bcc13d604e738a28aee43bb61</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>abe030351fd22d14dad35c817e1849f59</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxInstrumentExternal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxSpatial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxGenerator</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a09060af560cf34b87e14d5dbd839ad52</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxMastering</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a80ed69d85e565772a138ead6b8feff70</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxModulation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxPitchShift</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a2b2725f60cbf68e604c85b125937f553</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxRestoration</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxReverb</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ad51565b155d38402b8660fca0d78927f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxTools</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxNetwork</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1644feff4e06fa14952bf64ee211003f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>adf01865c24020885cb974f200403351c</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadf01865c24020885cb974f200403351c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentExternal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSampler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSynthSampler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSpatial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa334568999d986b4e50627646e51a8b4</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSpatialFx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyRealTime</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyOfflineProcess</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyARA</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNoOfflineProcess</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUpDownMix</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a9b7a9613e51e1f218461d3167dd50306</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAnalyzer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>adbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbisonics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ad515322344056aab9256d76a6787eb42</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae8acdf9398f33322690596dc2d00318f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
@@ -450,7 +400,7 @@
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -461,15 +411,15 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>ColorSpec</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
-      <anchor>a5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint8</type>
       <name>ColorComponent</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
-      <anchor>af1189c83b63820c6ccc3167402601fea</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -605,7 +555,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -623,64 +573,64 @@
     <member kind="enumeration">
       <type></type>
       <name>MediaTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga576e5da9bdc49812cf65f803bb303ad5</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kAudio</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEvent</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5ae6a97de99980aeac9312e818af337d6f</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5ae6a97de99980aeac9312e818af337d6f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNumMediaTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5a803eb569c99a15c09609562d83577cfc</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5a803eb569c99a15c09609562d83577cfc</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
       <type></type>
       <name>BusDirections</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga48a6eea2da1c202231eb653f3f764af2</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInput</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2aa3512d23926af0e0dad8c3293443d04c</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2aa3512d23926af0e0dad8c3293443d04c</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kOutput</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
       <type></type>
       <name>BusTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675a</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga4849e8fa0da1b39bd3e0af87b441675a</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kMain</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675aa388e1f905d2b8eb0f734c83d9356885b</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa388e1f905d2b8eb0f734c83d9356885b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kAux</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675aa0aedfd6f0f992c45d4f3620c9445292e</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa0aedfd6f0f992c45d4f3620c9445292e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -718,7 +668,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -730,7 +680,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -755,8 +705,8 @@
     <member kind="typedef">
       <type>int32</type>
       <name>KnobMode</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a98965411c9e542b7c2a99a46c8c1dfa2</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga98965411c9e542b7c2a99a46c8c1dfa2</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -861,7 +811,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstevents_8h</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" imported="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -898,7 +848,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" imported="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -918,7 +868,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -928,7 +878,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -938,7 +888,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1336,7 +1286,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidilearn.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstmidilearn_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
@@ -1345,7 +1295,7 @@
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -1360,15 +1310,15 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>NoteExpressionTypeID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1f6dd3f1f6742382e7301c1db5587a4e</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1f6dd3f1f6742382e7301c1db5587a4e</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>NoteExpressionValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9e134142463a8ca477018e7f2c3220f5</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9e134142463a8ca477018e7f2c3220f5</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -1485,7 +1435,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -1495,7 +1445,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterfunctionname.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstparameterfunctionname_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
@@ -1554,7 +1504,7 @@
   </compound>
   <compound kind="file">
     <name>ivstphysicalui.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstphysicalui_8h</filename>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
     <class kind="struct">Steinberg::Vst::PhysicalUIMap</class>
@@ -1565,8 +1515,8 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>PhysicalUITypeID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a207b8fd37ea1de019fdb784e4cedacc3</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga207b8fd37ea1de019fdb784e4cedacc3</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -1609,7 +1559,7 @@
   </compound>
   <compound kind="file">
     <name>ivstpluginterfacesupport.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstpluginterfacesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
@@ -1618,7 +1568,7 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
@@ -1627,7 +1577,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -1637,8 +1587,8 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>PrefetchableSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8cd3dd5ea75e76ace81fd1a696544378</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8cd3dd5ea75e76ace81fd1a696544378</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -1675,7 +1625,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -1686,7 +1636,7 @@
   </compound>
   <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -2365,7 +2315,7 @@
   </compound>
   <compound kind="file">
     <name>ivsttestplugprovider.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivsttestplugprovider_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="ivsteditcontroller_8h" name="ivsteditcontroller.h" local="yes" imported="no">pluginterfaces/vst/ivsteditcontroller.h</includes>
@@ -2376,7 +2326,7 @@
   </compound>
   <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>ivstunits_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -2391,7 +2341,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -2404,2035 +2354,2035 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kPlugInName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>acbad3647c9f27b2777cb6a3cd24fe49e</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gacbad3647c9f27b2777cb6a3cd24fe49e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPlugInCategory</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a56f939f21fb570350d3360b1e7254245</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga56f939f21fb570350d3360b1e7254245</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStyle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>ac45345491383374f12e9e5a8835ef584</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gac45345491383374f12e9e5a8835ef584</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCharacter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a166d8e939e25f23c6e1c5125e89d5f13</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga166d8e939e25f23c6e1c5125e89d5f13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStateType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>aefefe46f30651266cc9ccc8908409552</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gaefefe46f30651266cc9ccc8908409552</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFilePathStringType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>ad5fe1f71ae69e7b4daaf0e79130930c3</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gad5fe1f71ae69e7b4daaf0e79130930c3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a0700a0c20b2ccab1debe99a8a815534d</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga0700a0c20b2ccab1debe99a8a815534d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFileName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a94927840ff999e51218b78a405316220</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga94927840ff999e51218b78a405316220</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kProject</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
-      <anchor>a89eaf816243da36726dfe2656c266a4c</anchor>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga89eaf816243da36726dfe2656c266a4c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDefault</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
-      <anchor>a4f34c8d0372a9d06a2713fd488ece66e</anchor>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga4f34c8d0372a9d06a2713fd488ece66e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5bd8958e2d10a39961b9ac9d20ac1a3c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd8958e2d10a39961b9ac9d20ac1a3c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionAccordion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4b3a7ca0aed4fd75c4c6de9da2c095b0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4b3a7ca0aed4fd75c4c6de9da2c095b0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionHarmonica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a13f91d403c87da4936308cd2f94b3dce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13f91d403c87da4936308cd2f94b3dce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a3f7c44f705388a781d442009341b50aa</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3f7c44f705388a781d442009341b50aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a99ad41c498b2d37a379907989842655a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga99ad41c498b2d37a379907989842655a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassABass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7806c7198452bd9b38813e1254bffdde</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7806c7198452bd9b38813e1254bffdde</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassEBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a722ff7ac1ffb92a922ef3f562117327f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga722ff7ac1ffb92a922ef3f562117327f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassSynthBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abbbabe9b591bdfbc9e8613220d7ce829</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabbbabe9b591bdfbc9e8613220d7ce829</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1835577b20a8f992869f11555b9c6c43</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1835577b20a8f992869f11555b9c6c43</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>accf4a6cc04deede6234aa80f17494e62</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaccf4a6cc04deede6234aa80f17494e62</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassFrenchHorn</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1a4ba62937d8347b92bd6a7fe2f0f203</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1a4ba62937d8347b92bd6a7fe2f0f203</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTrumpet</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a58aa80b0a42ce48f7868095cbf8af4af</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58aa80b0a42ce48f7868095cbf8af4af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTrombone</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1f2c119eb1f5ed7687375950e64a099a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1f2c119eb1f5ed7687375950e64a099a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTuba</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1e4a49eeaaedbf8487070bf20a06b119</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1e4a49eeaaedbf8487070bf20a06b119</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassSection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae7c3bd91d4fb0872ab7db0ed74d91445</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae7c3bd91d4fb0872ab7db0ed74d91445</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0cc2d58842ce2dcad93a3f83a777a67d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0cc2d58842ce2dcad93a3f83a777a67d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae4e52f708efde91cf0f2a78cebbd351c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae4e52f708efde91cf0f2a78cebbd351c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPerc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5f48d90dba2837a9b0552446258746c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5f48d90dba2837a9b0552446258746c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercBell</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7b4edfeeda6a06123409b3e5d704bd0c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7b4edfeeda6a06123409b3e5d704bd0c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercMallett</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aeee07c58574e18dd64d3be93f7088a35</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeee07c58574e18dd64d3be93f7088a35</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercWood</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a492b01fbc86bdb5131f84dcdb5f26f06</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga492b01fbc86bdb5131f84dcdb5f26f06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercPercussion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0e5caac1dbaa9755fdb06e89ed3b3895</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0e5caac1dbaa9755fdb06e89ed3b3895</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercTimpani</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a11ef28f0a9918a82c981b1fb8025bd8b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga11ef28f0a9918a82c981b1fb8025bd8b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a12eb4bbef0c030bbca1e861adc773334</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga12eb4bbef0c030bbca1e861adc773334</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPerc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abe15c8ed2a76ff3c9f9029278854dbef</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabe15c8ed2a76ff3c9f9029278854dbef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumsetGM</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa41f951f74e972f53aab1a45d15c54aa</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa41f951f74e972f53aab1a45d15c54aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumset</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9ea452ccf895de2e9a647aa85d40b1ec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9ea452ccf895de2e9a647aa85d40b1ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumMenues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa441a52dd98f3b53affbc538eda46521</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa441a52dd98f3b53affbc538eda46521</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercBeats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5c77bf645fdb2afae554c3c6b48dc92</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5c77bf645fdb2afae554c3c6b48dc92</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercPercussion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a351f0ed74b2185f5acc3460021c203a6</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga351f0ed74b2185f5acc3460021c203a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercKickDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af85c8e569ae8d22ab2c233006a99f82e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf85c8e569ae8d22ab2c233006a99f82e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercSnareDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a13fca99a8c4598a5f66ef87242f70b27</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13fca99a8c4598a5f66ef87242f70b27</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercToms</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac756e1798f6f8ce4eed78adafcd6f8b4</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac756e1798f6f8ce4eed78adafcd6f8b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercHiHats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>adec30a0adbbd248d6573f64342feef77</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gadec30a0adbbd248d6573f64342feef77</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercCymbals</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a82ee2aad1a847aea7c803b81a4d2598b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga82ee2aad1a847aea7c803b81a4d2598b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8dbf5e607efc62bfd0fb4044a943c399</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8dbf5e607efc62bfd0fb4044a943c399</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa946206a3ecfcc3423ea307de5efdd13</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa946206a3ecfcc3423ea307de5efdd13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAsian</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a81ca43ff51517679540bbabce3f89254</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga81ca43ff51517679540bbabce3f89254</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAfrican</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5de2bf50670628599940b4afba85fba1</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5de2bf50670628599940b4afba85fba1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicEuropean</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a841f031104f1230a568fb7246eb87fe0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga841f031104f1230a568fb7246eb87fe0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicLatin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8b04cbbaa98e561e20b7a966f58e9281</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8b04cbbaa98e561e20b7a966f58e9281</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAmerican</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a3c6dcb9ae2464cf7012aadb328c73fdb</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3c6dcb9ae2464cf7012aadb328c73fdb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAlien</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a86aa661200c00f7b44935e455d62b5f8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga86aa661200c00f7b44935e455d62b5f8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a89d49bfa58ca9659367217ea187bd7bf</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga89d49bfa58ca9659367217ea187bd7bf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a642a844eb43638962aec00dda572b724</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga642a844eb43638962aec00dda572b724</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarAGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af907f1b0c6b112a7a7ef2c26d181345b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf907f1b0c6b112a7a7ef2c26d181345b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarEGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5bd16506f3db8c7cada37ac1030fdeec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd16506f3db8c7cada37ac1030fdeec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarHarp</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a6077d4646f9ce2fcd14f40ee5f1fcfce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga6077d4646f9ce2fcd14f40ee5f1fcfce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abac2c7c2f88a2511bcb9536a62847e64</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabac2c7c2f88a2511bcb9536a62847e64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a91eddfe8e8f1e826c887b57971600988</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga91eddfe8e8f1e826c887b57971600988</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboard</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae87c28eecf427576aaba8dba45506307</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae87c28eecf427576aaba8dba45506307</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardClavi</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abeb1f764cd854f5f7b107a8f0b1fd4ec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabeb1f764cd854f5f7b107a8f0b1fd4ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardEPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a326410320556a12f64c20f88c19373ce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga326410320556a12f64c20f88c19373ce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardHarpsichord</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a02d58cfc1dd6afe263d10ed615eb0d2e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga02d58cfc1dd6afe263d10ed615eb0d2e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a20c97efa4d9bc8307bbd0375035c34ae</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20c97efa4d9bc8307bbd0375035c34ae</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2390a2a94e9904517ec9342ab0019fe7</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2390a2a94e9904517ec9342ab0019fe7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXHitsStabs</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7827735f5bb526019207c524f487af0a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7827735f5bb526019207c524f487af0a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXMotion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab9114e6b0673188dc5228aed3d3df2da</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab9114e6b0673188dc5228aed3d3df2da</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXSweeps</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af3cb2d886c19f654e5d4d8b25eb5477e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf3cb2d886c19f654e5d4d8b25eb5477e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXBeepsBlips</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5378d54b89a50f2b659f4811d2925cc5</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5378d54b89a50f2b659f4811d2925cc5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXScratches</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>acbe3eb6871b48061d2c046d8b258a7a9</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gacbe3eb6871b48061d2c046d8b258a7a9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5e9cb190b3c45ca56bb2e1adebb43fc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5e9cb190b3c45ca56bb2e1adebb43fc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrgan</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a84fec6760fef802a323b692a062b55b4</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga84fec6760fef802a323b692a062b55b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganElectric</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2ec0df01bea69ecba86f5d891b1ad648</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2ec0df01bea69ecba86f5d891b1ad648</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganPipe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a79ae6538d284af4c29bbd7cf4933b76e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga79ae6538d284af4c29bbd7cf4933b76e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a20f011a1e399ecacdb0e6e1cb7196e64</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20f011a1e399ecacdb0e6e1cb7196e64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a41cb875c197b4036cc5ac03ca3721a08</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga41cb875c197b4036cc5ac03ca3721a08</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoAPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4ad2adf116f63f68c278860b4d1d1f6d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4ad2adf116f63f68c278860b4d1d1f6d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoEGrand</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a37d4c3eca4f4d9c151ffa65609c79439</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga37d4c3eca4f4d9c151ffa65609c79439</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1af05a3bfb82be1b619388c384a6bf2d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1af05a3bfb82be1b619388c384a6bf2d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af2a091ea57274b72699e9f9df7715b17</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf2a091ea57274b72699e9f9df7715b17</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXNature</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ad21b480ba2888b09f222c703fbb37a91</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad21b480ba2888b09f222c703fbb37a91</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXMechanical</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8f75ccb3769fa4876436c45a09107fcd</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8f75ccb3769fa4876436c45a09107fcd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXSynthetic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a341e53ab2df394405b3785850dad88e9</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga341e53ab2df394405b3785850dad88e9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aae916a5a813ecf7d856e61f456a24479</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaae916a5a813ecf7d856e61f456a24479</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStrings</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aafd56235b0b917a43d284202d30f4f0a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaafd56235b0b917a43d284202d30f4f0a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsViolin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af8cf7e44674db2aca92f56fd73f92006</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf8cf7e44674db2aca92f56fd73f92006</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsViola</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9aa9476acbba419210667d658afabc6a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9aa9476acbba419210667d658afabc6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsCello</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a265f017e0f464df3d4141dc319eff0c7</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga265f017e0f464df3d4141dc319eff0c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae18de76efc605860475b6323ef233cc8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae18de76efc605860475b6323ef233cc8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsSection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac1d32b8a87a1fd03f9c1015160d7d3b2</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac1d32b8a87a1fd03f9c1015160d7d3b2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a51a61e68eba9a1cf51ad89242b9bc47f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga51a61e68eba9a1cf51ad89242b9bc47f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab44336cb32a2e361969b84be167c6437</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab44336cb32a2e361969b84be167c6437</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLead</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a65f99d06e1cdec2a31ced94c3e74e2b8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga65f99d06e1cdec2a31ced94c3e74e2b8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8a11629221f0398068c261f7e82dbb3c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8a11629221f0398068c261f7e82dbb3c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5593b90f0b783f8c474534b1bfdece81</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5593b90f0b783f8c474534b1bfdece81</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadArpeggio</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9f07e312d4b567cbeb9afc62663e799d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9f07e312d4b567cbeb9afc62663e799d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1baec415d4b38bfc63bfe37d4d8f998e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1baec415d4b38bfc63bfe37d4d8f998e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPad</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a09ada6780ac854e1a5f5fdeaeed3fb98</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga09ada6780ac854e1a5f5fdeaeed3fb98</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadSynthChoir</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a459f7a40ee5ce2589b9c5b4e9a7dbc03</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga459f7a40ee5ce2589b9c5b4e9a7dbc03</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>afd8251cd1e2beb471fb880eff54122a2</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gafd8251cd1e2beb471fb880eff54122a2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0624ae2a566ded387d13aa9b42b02e4f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0624ae2a566ded387d13aa9b42b02e4f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadMotion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abb14045ba365551baf7d248ea496f627</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabb14045ba365551baf7d248ea496f627</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a21365983f34c81eb766d77a9f6c56542</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga21365983f34c81eb766d77a9f6c56542</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthComp</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac5ee81e33b8952b205664d8a7e6d3726</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac5ee81e33b8952b205664d8a7e6d3726</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a98b124c4c95e7d1f055a878c293036a1</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga98b124c4c95e7d1f055a878c293036a1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a58fd32018d0d25fa22a065fe293e4079</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58fd32018d0d25fa22a065fe293e4079</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab2577b8dac71b9e6d679cd5fd337fc70</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab2577b8dac71b9e6d679cd5fd337fc70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2d5f12d8f479275a1ec1047877ad12f6</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2d5f12d8f479275a1ec1047877ad12f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalLeadVocal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a33b0df9f2de9caa850ec8f42a690ea1c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga33b0df9f2de9caa850ec8f42a690ea1c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalAdlibs</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aeb469e5850a09e7863b3a411bd839185</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeb469e5850a09e7863b3a411bd839185</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalChoir</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af1c302e30ac59f819c846264553cbb61</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf1c302e30ac59f819c846264553cbb61</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalSolo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9fee846e3dac6a9c76f49236370104ff</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9fee846e3dac6a9c76f49236370104ff</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a01a286aebf174524ce6806266da52608</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga01a286aebf174524ce6806266da52608</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalSpoken</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ad3c91ff5b7e51b5ed71479994af1f2b0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad3c91ff5b7e51b5ed71479994af1f2b0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a97b0787f7bc7a12d8aa9c451626252df</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga97b0787f7bc7a12d8aa9c451626252df</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwinds</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab6f7ddec4db62d879f3d4147da295e5d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab6f7ddec4db62d879f3d4147da295e5d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4c985b65f095bd5bf25adb95490c26ab</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4c985b65f095bd5bf25adb95490c26ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsFlute</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1b594039765ec814407ab25b574177e3</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1b594039765ec814407ab25b574177e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsOboe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a40a881c8d3a7bc7f6688195400ba35dc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga40a881c8d3a7bc7f6688195400ba35dc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsEnglHorn</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aab8ddc7cc6aa5f6c1b3383b7ba109c65</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaab8ddc7cc6aa5f6c1b3383b7ba109c65</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsClarinet</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a76398345f57877810ceeb6db295a08a8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga76398345f57877810ceeb6db295a08a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsSaxophone</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a685ce7454b4f454c4f2e36b40d215fab</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga685ce7454b4f454c4f2e36b40d215fab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsBassoon</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa7909c8fc3a72ec802f1163f7bf78a1b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa7909c8fc3a72ec802f1163f7bf78a1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a850425dd3f6d9938ccbbee6158316bbc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga850425dd3f6d9938ccbbee6158316bbc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndie</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2283c2c777c7cbb21710e11ef2ceb6af</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2283c2c777c7cbb21710e11ef2ceb6af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieGothRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5efb4dfb4fef27ded5062173093bbaa1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5efb4dfb4fef27ded5062173093bbaa1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieGrunge</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a611a7833ad99ac643e6662ad0c735437</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga611a7833ad99ac643e6662ad0c735437</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieNewWave</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0d9c9e5d1d7762b13270a0cd388b2d7e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0d9c9e5d1d7762b13270a0cd388b2d7e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndiePunk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2b8b2179cf8d2b74f6c0eb2abb563a80</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2b8b2179cf8d2b74f6c0eb2abb563a80</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieCollegeRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8881386092fc55d2c4ed31ca0d3acd22</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8881386092fc55d2c4ed31ca0d3acd22</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieDarkWave</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4e60a460c89c2aa3f05c8e15c4a74b76</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4e60a460c89c2aa3f05c8e15c4a74b76</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieHardcore</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a080e7eebf7cfeef648604aab356d9249</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga080e7eebf7cfeef648604aab356d9249</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOut</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa5aa1cc4f7a5cf8fbcb025f426225676</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa5aa1cc4f7a5cf8fbcb025f426225676</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutNewAgeMeditation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab17d3d9dbddf245300a0e581f27d2b21</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab17d3d9dbddf245300a0e581f27d2b21</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutDarkAmbient</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a33320722a4e37a0dbe61f8957a77fcb8</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33320722a4e37a0dbe61f8957a77fcb8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutDowntempo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5af88b6815b44014176a2bf68aabca6f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5af88b6815b44014176a2bf68aabca6f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutLounge</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1abdca80184a162d425c61f053530dea</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1abdca80184a162d425c61f053530dea</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a070e85734aa0ebd786f2c8ff8dca8301</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga070e85734aa0ebd786f2c8ff8dca8301</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesAcousticBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a427cc44ab600473801a7d50bef343e2f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga427cc44ab600473801a7d50bef343e2f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesCountryBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3ccf2f159b7b1becbe0d64f4688f7f4e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ccf2f159b7b1becbe0d64f4688f7f4e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesElectricBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a60c65b0575b241924ccfcc59fa7dccaf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga60c65b0575b241924ccfcc59fa7dccaf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesChicagoBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5043e48daf7d4433d082c9d726b90a2b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5043e48daf7d4433d082c9d726b90a2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassical</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a00100f8944908f3f674b077b8e7bf5ae</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga00100f8944908f3f674b077b8e7bf5ae</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalBaroque</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a54a477d7f94dacdfa325bdf693d180ab</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga54a477d7f94dacdfa325bdf693d180ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalChamberMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a817fef9aabf571d6f91e357efc677040</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga817fef9aabf571d6f91e357efc677040</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalMedieval</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aabb6cafa41915dc3a4ebb19d35aeb3be</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaabb6cafa41915dc3a4ebb19d35aeb3be</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalModernComposition</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa61b32582345fd12bd9d2140c174a25f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa61b32582345fd12bd9d2140c174a25f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalOpera</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aaa8a189a2e24961319d1e26349aa8a9a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa8a189a2e24961319d1e26349aa8a9a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalGregorian</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abd559febaa875cac883dc20517965d19</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabd559febaa875cac883dc20517965d19</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalRenaissance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8f9739caabbf232d50b1b1b449ab1491</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8f9739caabbf232d50b1b1b449ab1491</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalClassic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1a1b8c73dee78995dfc73a9cbe1855fa</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1a1b8c73dee78995dfc73a9cbe1855fa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalRomantic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad822300e6782c9fc490f073c880403ef</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad822300e6782c9fc490f073c880403ef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalSoundtrack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad28cde471461898b52b6cd7aefe1fad9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad28cde471461898b52b6cd7aefe1fad9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountry</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aaa2fa8f51e39b78604c752001cbef8c6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa2fa8f51e39b78604c752001cbef8c6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryCountryWestern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a613bd6f52125a615d0e1bef58463e6cb</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga613bd6f52125a615d0e1bef58463e6cb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryHonkyTonk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac05e574ca2ece383b72b5ee429506988</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac05e574ca2ece383b72b5ee429506988</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryUrbanCowboy</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abc94ae94e43d1ae9a453f5033f2f6bf4</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabc94ae94e43d1ae9a453f5033f2f6bf4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryBluegrass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a56cc1195da3ec7bc16d67a303c489c6a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga56cc1195da3ec7bc16d67a303c489c6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryAmericana</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8a240fc37b335deb7063b9bbf959ba90</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8a240fc37b335deb7063b9bbf959ba90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountrySquaredance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7b9a2584ff4f1501c9a24a8754f1f526</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7b9a2584ff4f1501c9a24a8754f1f526</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryNorthAmericanFolk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1578d35d598b30c1a8aca33c94e33213</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1578d35d598b30c1a8aca33c94e33213</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a9e3c1f6becf1b50e07e2d8212fadea0d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9e3c1f6becf1b50e07e2d8212fadea0d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceMinimal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2acd1ccf8c493d7055288674c243e7f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2acd1ccf8c493d7055288674c243e7f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceClassicHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad2581a6189feb88d716b6c81c5efa79b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad2581a6189feb88d716b6c81c5efa79b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElektroHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad6c238193c96a2f320bb158fc0cb36b6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad6c238193c96a2f320bb158fc0cb36b6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceFunkyHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac697bd7d2476a3f522e0c12f4f9096c7</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac697bd7d2476a3f522e0c12f4f9096c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceIndustrial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a43aa90fa2a5718ec3f233186bef3b745</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga43aa90fa2a5718ec3f233186bef3b745</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElectronicBodyMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4c9fd026e505a151e4ebcb41a026a273</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c9fd026e505a151e4ebcb41a026a273</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTripHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a27a783d5bce0708e88414cd4de0ffc3b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga27a783d5bce0708e88414cd4de0ffc3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTechno</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a66d567db513649b64572ec56ec721a13</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga66d567db513649b64572ec56ec721a13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceDrumNBassJungle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa1a66bada350ea5f47e8c296bd3482b1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa1a66bada350ea5f47e8c296bd3482b1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElektro</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac613b9e387a4a4e424dbdd7925a842f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac613b9e387a4a4e424dbdd7925a842f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTrance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae1734ba060074a2d5f5bc4aadb1b4693</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae1734ba060074a2d5f5bc4aadb1b4693</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceDub</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4bf8090a24491f751c9d75218ba8ffc6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4bf8090a24491f751c9d75218ba8ffc6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceBigBeats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a04e06e3becb8bca4036fd5856682a393</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04e06e3becb8bca4036fd5856682a393</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimental</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a13e10384c541982e7ebea23ae4cc0057</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga13e10384c541982e7ebea23ae4cc0057</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalNewMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a9d42a1c28d4a1b6e725783290a949f04</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9d42a1c28d4a1b6e725783290a949f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalFreeImprovisation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a988ed6ba9f31ff90849bfe159dbb56f2</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga988ed6ba9f31ff90849bfe159dbb56f2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalElectronicArtMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad14a4491132f9255427a1dfbb53f684a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad14a4491132f9255427a1dfbb53f684a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalNoise</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6d711a097823788b80c4373b0df67287</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6d711a097823788b80c4373b0df67287</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae80ee561e4da8da1de90835e41f0fc7f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae80ee561e4da8da1de90835e41f0fc7f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzNewOrleansJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0ade597c6d17afc9e6cf4a7bdf34de9b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ade597c6d17afc9e6cf4a7bdf34de9b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzTraditionalJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6099a9381244ca72562a7b8226c619b9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6099a9381244ca72562a7b8226c619b9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzOldtimeJazzDixiland</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a04fc9ede978682cf37a56876ba9dba9d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04fc9ede978682cf37a56876ba9dba9d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzFusion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a847f04e92eee76df8f6c6592da0cea2a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga847f04e92eee76df8f6c6592da0cea2a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzAvantgarde</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac6cbbbd37ada9f3f26657db8cc6065f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac6cbbbd37ada9f3f26657db8cc6065f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzLatinJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0ee890f05a7479865af9eda6d34bc857</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ee890f05a7479865af9eda6d34bc857</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzFreeJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5fcff8a8096b40b9e05427c944a2e295</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5fcff8a8096b40b9e05427c944a2e295</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzRagtime</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac2b3067f7b9b92ffe14a1b15b0bed83b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac2b3067f7b9b92ffe14a1b15b0bed83b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a92057d09ae8339165840fd850e77868d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga92057d09ae8339165840fd850e77868d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopBritpop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a886ab03c6a77598d7e78c3a6ec922441</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga886ab03c6a77598d7e78c3a6ec922441</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a772e326e01f9245ba8a8177301a55d4c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga772e326e01f9245ba8a8177301a55d4c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopTeenPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7e047957551e02185723581a1880086e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7e047957551e02185723581a1880086e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopChartDance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6f9e30f2b18f2f639fefbb38b1d2d3e3</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f9e30f2b18f2f639fefbb38b1d2d3e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPop80sPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6f3a96aeedf52ae2691056c3f1535578</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f3a96aeedf52ae2691056c3f1535578</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopDancehall</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>afdb7e50d604be148bcab627102c66a3b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gafdb7e50d604be148bcab627102c66a3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopDisco</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4cfb53a16c9ad176d8c2a3b9a4a267a1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4cfb53a16c9ad176d8c2a3b9a4a267a1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ade4f6c22997daaed1a372dd09b358068</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gade4f6c22997daaed1a372dd09b358068</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalBluesRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac1c59279027338732b37420973755dd9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac1c59279027338732b37420973755dd9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalClassicRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a52b06f4c922bceb8a7af486f8f9e8ead</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga52b06f4c922bceb8a7af486f8f9e8ead</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalHardRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab7fc6fc1b343016898c32d9095895973</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7fc6fc1b343016898c32d9095895973</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalRockRoll</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>af044a0ecefea571e16b30b82a1becf04</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf044a0ecefea571e16b30b82a1becf04</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalSingerSongwriter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4c7fb7c56f3573b219287833e847113c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c7fb7c56f3573b219287833e847113c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalHeavyMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1b66689bf69717c4af8ad85835737acf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1b66689bf69717c4af8ad85835737acf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalDeathBlackMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a370c692d8ab858d11bff12c0ea4c779c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga370c692d8ab858d11bff12c0ea4c779c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalNuMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1e43c81772b3227d2239c4c869194733</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1e43c81772b3227d2239c4c869194733</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalReggae</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab7285dab701bff67bb281688a4c1b93a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7285dab701bff67bb281688a4c1b93a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalBallad</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3e6375ad794af9ad7c9e79f61ce422de</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3e6375ad794af9ad7c9e79f61ce422de</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalAlternativeRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a679697a95e28deb4eb0ab2dcdeca114a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga679697a95e28deb4eb0ab2dcdeca114a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalRockabilly</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a646cb827580fbdb5631167f300e2d7c5</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga646cb827580fbdb5631167f300e2d7c5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalThrashMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4367d681da9e6a9259373fe33bd58162</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4367d681da9e6a9259373fe33bd58162</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalProgressiveRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>af74e7f4e41c15f2e271cc15b512b2fbf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf74e7f4e41c15f2e271cc15b512b2fbf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRB</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad9fdad7b31d648bbf64bc2333bc3ecab</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad9fdad7b31d648bbf64bc2333bc3ecab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBClassic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae828f62557a162b35e08774fe73e4b59</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae828f62557a162b35e08774fe73e4b59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBModern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3089241b92ddf52d670f6339c57ff321</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3089241b92ddf52d670f6339c57ff321</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a03a11de347ee7fbfa80f6040e5838c06</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga03a11de347ee7fbfa80f6040e5838c06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBWestCoastHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a31d1f86b5f8a0281d2a85f7ae6e40d10</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga31d1f86b5f8a0281d2a85f7ae6e40d10</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBEastCoastHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a91a0592eb755912d7fbf4b7f78387707</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga91a0592eb755912d7fbf4b7f78387707</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBRapHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3dd2ebf4652bdc7f67e804099495ad1b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3dd2ebf4652bdc7f67e804099495ad1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBSoul</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a853a4803393e2d1684fe32e5adafcffe</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga853a4803393e2d1684fe32e5adafcffe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBFunk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>adab3d1a08820555d8cc2eccba5a2414d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gadab3d1a08820555d8cc2eccba5a2414d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7fc43124278803213779023493bec46b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7fc43124278803213779023493bec46b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAfrica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a24447081033911845dd5279102bf075b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga24447081033911845dd5279102bf075b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAsia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a09caf2a39534495b771aa65a0d969ad1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga09caf2a39534495b771aa65a0d969ad1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicCeltic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a17f0e511cbcdedf14156ba499a54d615</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga17f0e511cbcdedf14156ba499a54d615</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicEurope</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abbce5b2144aac1d57742c746de8ef78b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabbce5b2144aac1d57742c746de8ef78b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicKlezmer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8db09e3dd05ef85ce88a038472cc04af</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8db09e3dd05ef85ce88a038472cc04af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicScandinavia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3ae32b316261fa76c8d7ca0e9790871f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ae32b316261fa76c8d7ca0e9790871f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicEasternEurope</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aff54f68acdbdbbbed6054f5c9b17ba8a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaff54f68acdbdbbbed6054f5c9b17ba8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicIndiaOriental</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a33a8a991563a9d73923525ddd29e79a0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33a8a991563a9d73923525ddd29e79a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicNorthAmerica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3d85eb586a37b5a6082a6d1708d91592</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3d85eb586a37b5a6082a6d1708d91592</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicSouthAmerica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aad0a8d9f7a2cef071860eee02948c556</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaad0a8d9f7a2cef071860eee02948c556</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAustralia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae08118ff90a70fbd90e1979aa1a33c9f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae08118ff90a70fbd90e1979aa1a33c9f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ad515322344056aab9256d76a6787eb42</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPoly</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a020e4d1023e2b9add2c637ebf4b75a3b</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga020e4d1023e2b9add2c637ebf4b75a3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSplit</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a51e6bf04c8aaefb4fbbc45a114f147c7</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga51e6bf04c8aaefb4fbbc45a114f147c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLayer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a18049d58eeecea7c6fed4f727442430d</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18049d58eeecea7c6fed4f727442430d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a94f8615dad159bf66390009ad9282249</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga94f8615dad159bf66390009ad9282249</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlissando</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae0732ea96679d73e821715b2be446261</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae0732ea96679d73e821715b2be446261</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMajor</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a18f27017b00ca4612f133f4e09d913e3</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18f27017b00ca4612f133f4e09d913e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMinor</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>accd54b1bfad544bac2ff54cfb56d7df2</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaccd54b1bfad544bac2ff54cfb56d7df2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSingle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a516ace30c1fa46e55b8767b58c77a788</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga516ace30c1fa46e55b8767b58c77a788</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEnsemble</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>adb6de4949739c48baf2613e6965d1637</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb6de4949739c48baf2613e6965d1637</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAcoustic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af589c030507665591b7e57d677b350e0</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf589c030507665591b7e57d677b350e0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectric</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa924ea59d6457adaabe92b47048253aa</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa924ea59d6457adaabe92b47048253aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a10904a318940018e74802140f840a4cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga10904a318940018e74802140f840a4cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af8f1ad8e2c507c80b75e20d94cbef219</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8f1ad8e2c507c80b75e20d94cbef219</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVintage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ab86682f9fb5dd5c56199feba1afadc8f</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab86682f9fb5dd5c56199feba1afadc8f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kModern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a490b8908c7977aaca4e5a7fc1983f172</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga490b8908c7977aaca4e5a7fc1983f172</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOld</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0bbfdd92cc2b2313b3cf974c5b3f9760</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bbfdd92cc2b2313b3cf974c5b3f9760</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNew</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8ff57c7698535ab97bfc64a7bf3ea9ac</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8ff57c7698535ab97bfc64a7bf3ea9ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClean</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae48573356356094da60ac761ac5ac51e</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae48573356356094da60ac761ac5ac51e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDistorted</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa8427782100432cfaf837a729195f1ba</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa8427782100432cfaf837a729195f1ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDry</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae4406a55f1a7b6f1d12e29bab8f576e1</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae4406a55f1a7b6f1d12e29bab8f576e1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kProcessed</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0bc38b1dfd75d0ae9e6137d43c29068c</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bc38b1dfd75d0ae9e6137d43c29068c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kHarmonic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8f5f55f753d25fbeec874ff7c873b050</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8f5f55f753d25fbeec874ff7c873b050</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDissonant</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a3030eff3a0900a8cca1c6266716efe1e</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga3030eff3a0900a8cca1c6266716efe1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af8c102dba19d9bafb8d7ba312f812ad7</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8c102dba19d9bafb8d7ba312f812ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNoisy</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa57323ce9c0b4d417c6b36aa76570514</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa57323ce9c0b4d417c6b36aa76570514</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kThin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8da59e92e1c2609a302663aeeffc01cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8da59e92e1c2609a302663aeeffc01cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRich</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa6c4d36725eb4226e02f5724ca420e24</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa6c4d36725eb4226e02f5724ca420e24</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDark</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aae40f2e630a0d26cdd3d862761b26d07</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaae40f2e630a0d26cdd3d862761b26d07</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBright</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0796a86633dd777869721cf5f2666aa5</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0796a86633dd777869721cf5f2666aa5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCold</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a7c18fd830521824296dc8412e5420559</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga7c18fd830521824296dc8412e5420559</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWarm</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ac1766654d4a9b882b9890fce9483a733</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac1766654d4a9b882b9890fce9483a733</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMetallic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a644e30da9b10ac15bcd313778d00d261</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga644e30da9b10ac15bcd313778d00d261</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWooden</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>abea2ba5e271fab4f245baffae6fc7f20</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabea2ba5e271fab4f245baffae6fc7f20</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa5eee886870365dcadc1105891130025</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa5eee886870365dcadc1105891130025</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPlastic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a62ea7670ea954e012810004bb26369fb</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga62ea7670ea954e012810004bb26369fb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPercussive</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ac6b35eb8d6cf9178f4b428d523760e89</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac6b35eb8d6cf9178f4b428d523760e89</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoft</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a280fd77ca4f703e3509ba81e6a4a7062</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga280fd77ca4f703e3509ba81e6a4a7062</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFast</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ab5face7509d33a16c6be75f042d5f56a</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab5face7509d33a16c6be75f042d5f56a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSlow</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a196114f5b784b26e46ca975e194a12cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga196114f5b784b26e46ca975e194a12cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kShort</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8b9663df42570d3f736896b881f348f3</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8b9663df42570d3f736896b881f348f3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLong</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a1d83ca1c98b52785de6b205cf10ba2cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1d83ca1c98b52785de6b205cf10ba2cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a6825831c83ffca20a7353fcf1f4ff3c8</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga6825831c83ffca20a7353fcf1f4ff3c8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a85c4be48d6121e160ec3d864591f48ff</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga85c4be48d6121e160ec3d864591f48ff</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDecay</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a310f8f745367f1fff3d176974abb507f</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga310f8f745367f1fff3d176974abb507f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSustain</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a1b380d79f09e7bd56403f79f09514db9</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1b380d79f09e7bd56403f79f09514db9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFastAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8cd59e5d43ed1bd277845f9ed2f29351</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8cd59e5d43ed1bd277845f9ed2f29351</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSlowAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a19fc8fcee1d6326b028fdeace97da264</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga19fc8fcee1d6326b028fdeace97da264</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kShortRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0178603367ef122579d09173b02c275d</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0178603367ef122579d09173b02c275d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLongRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>adb9b1ab770dcdf2bb4d526b5aac6b1ec</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb9b1ab770dcdf2bb4d526b5aac6b1ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStatic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>abca0f72e85147ea95283eb9607c23332</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabca0f72e85147ea95283eb9607c23332</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMoving</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a24192885baa2c896f4ac92a68e176802</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga24192885baa2c896f4ac92a68e176802</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLoop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a37e6e5e54e1d052d21d739a032593282</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga37e6e5e54e1d052d21d739a032593282</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOneShot</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a084d4ed63922f00549f31a1114ecd32c</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga084d4ed63922f00549f31a1114ecd32c</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h</filename>
   </compound>
   <compound kind="file">
     <name>vstspeaker.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vstspeaker_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -4448,92 +4398,92 @@
     <member kind="function">
       <type>int32</type>
       <name>getSpeakerIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5e43f8bd9b65e001e85706fb6229e54d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e43f8bd9b65e001e85706fb6229e54d</anchor>
       <arglist>(Speaker speaker, SpeakerArrangement arrangement)</arglist>
     </member>
     <member kind="function">
       <type>Speaker</type>
       <name>getSpeaker</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a365c311dce7ea3c41e6674d0c31893d9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga365c311dce7ea3c41e6674d0c31893d9</anchor>
       <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isSubsetOf</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af586d67f2382fd76829515ec1a845f0d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf586d67f2382fd76829515ec1a845f0d</anchor>
       <arglist>(const SpeakerArrangement &amp;arrSubSet, const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isAuro</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa3a2c80faffa004172a77e983fd1d4ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa3a2c80faffa004172a77e983fd1d4ba</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasTopSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2fd1d5b534428e6414e46829089313f9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fd1d5b534428e6414e46829089313f9</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasBottomSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a20ceaf9e134bcb9d31d268f2bca6f990</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga20ceaf9e134bcb9d31d268f2bca6f990</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasMiddleSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8560db7870831957b1862d500a9707b1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8560db7870831957b1862d500a9707b1</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae80135ca5a48c012ae56eba60aed8ba7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae80135ca5a48c012ae56eba60aed8ba7</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>is3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae5b25533bf821c6470e9d5a8d37b2f08</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae5b25533bf821c6470e9d5a8d37b2f08</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isAmbisonics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1eb079a06c32ed8dfe5640d1ea129beb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1eb079a06c32ed8dfe5640d1ea129beb</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>SpeakerArrangement</type>
       <name>getSpeakerArrangementFromString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae59865c6f6e439696b408a8e3a35fb67</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae59865c6f6e439696b408a8e3a35fb67</anchor>
       <arglist>(CString arrStr)</arglist>
     </member>
     <member kind="function">
       <type>CString</type>
       <name>getSpeakerArrangementString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8f3040f601ddc82b7ff76bd0ac66b32b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f3040f601ddc82b7ff76bd0ac66b32b</anchor>
       <arglist>(SpeakerArrangement arr, bool withSpeakersName)</arglist>
     </member>
     <member kind="function">
       <type>CString</type>
       <name>getSpeakerShortName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aea8fb2e63d819b83b1811645b5f5c0a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaea8fb2e63d819b83b1811645b5f5c0a0</anchor>
       <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
     </member>
     <member kind="variable">
@@ -4903,547 +4853,554 @@
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a571ff835d603ec5e98e54f1e0feca20e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga571ff835d603ec5e98e54f1e0feca20e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9b5733786c71156513982991fa5f3c11</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9b5733786c71156513982991fa5f3c11</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aad38856abd90805d1e85fe737677bbe8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad38856abd90805d1e85fe737677bbe8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a44710b9a538279e604b98213e8acdbec</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44710b9a538279e604b98213e8acdbec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoSide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a98918bef7ba906d9b970ba49fb02a742</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga98918bef7ba906d9b970ba49fb02a742</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoCLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abec483e2214863d8fbfd2f68815647a8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabec483e2214863d8fbfd2f68815647a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a350fe92a4a9f185ff5a7141e7cbada14</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga350fe92a4a9f185ff5a7141e7cbada14</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a87a09b7b3ca62380f9203bcf6560a3a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87a09b7b3ca62380f9203bcf6560a3a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab4b759bc9adbcb09a13453cab2916281</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab4b759bc9adbcb09a13453cab2916281</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoBF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adad8ca7e56a1171c6439875261ab1ce0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadad8ca7e56a1171c6439875261ab1ce0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kCineFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adfcb28a735791e8b21d3150fa254a4fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadfcb28a735791e8b21d3150fa254a4fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k30Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a32b8626cc036129ae6465115e7d33c5a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga32b8626cc036129ae6465115e7d33c5a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k31Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a925534b26c3f13772f0363b44de830fb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga925534b26c3f13772f0363b44de830fb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k30Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8848385489d48df96843cd8022dbbfe1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8848385489d48df96843cd8022dbbfe1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k31Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a34fbc53e44aafa8ca50155a58bd056fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34fbc53e44aafa8ca50155a58bd056fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k40Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac1c674ad48a47ead5c1bd0b4d0e6611a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac1c674ad48a47ead5c1bd0b4d0e6611a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k41Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa70d2ecf42316dbf7ea9147384b1d16b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa70d2ecf42316dbf7ea9147384b1d16b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k40Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2133b89c1fce6c11540a55ede3d00715</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2133b89c1fce6c11540a55ede3d00715</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k41Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac3ec49935f60ef5a877f21c6225274f5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac3ec49935f60ef5a877f21c6225274f5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k50</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ada66cacb0407add2f87505ba08b98095</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gada66cacb0407add2f87505ba08b98095</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k51</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5ed1fd3424cda0c720d08dab3cdacdec</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5ed1fd3424cda0c720d08dab3cdacdec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k60Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5c5769c0eac0d76ff06cc2b95cf15ca9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c5769c0eac0d76ff06cc2b95cf15ca9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k61Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af60226cc4b55554791dedf5ac9c6b46c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf60226cc4b55554791dedf5ac9c6b46c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k60Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adf94b622b8d58c498a49d37d9561f535</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf94b622b8d58c498a49d37d9561f535</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k61Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7c2a763f2db01800286568722f724c30</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7c2a763f2db01800286568722f724c30</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a957c53627e5492b9b62190be390255c1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga957c53627e5492b9b62190be390255c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a153beb2d5d562ed4fc8643bf51c711d8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga153beb2d5d562ed4fc8643bf51c711d8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFullFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a329178a60998946671c5de893797dddf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga329178a60998946671c5de893797dddf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2fb8698f83d75be166b99fdbce9e82f1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fb8698f83d75be166b99fdbce9e82f1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a0dbaa8d90949e4084abb7878a5d5f91b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0dbaa8d90949e4084abb7878a5d5f91b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFullRear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50d89ea22e10fe3acadb02c071288776</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d89ea22e10fe3acadb02c071288776</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineSideFill</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a27352e019fb6f0d3b4d10b643f79d813</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga27352e019fb6f0d3b4d10b643f79d813</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Proximity</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9ad1279216eaac4c4c2cd665e6d61c82</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9ad1279216eaac4c4c2cd665e6d61c82</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2ebfc79a0e5ef338247e31239967632d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2ebfc79a0e5ef338247e31239967632d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afae2531e75a317dd357fa09074fab4f6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafae2531e75a317dd357fa09074fab4f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae026a8a57e8a9a408320616a0d289ece</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae026a8a57e8a9a408320616a0d289ece</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4c68f76511df6119eca847b005105cd5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4c68f76511df6119eca847b005105cd5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6e5bea49421b1e65cb9e8e098436cc56</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e5bea49421b1e65cb9e8e098436cc56</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6d6ccb80d89619c8085ac9a7283fc248</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d6ccb80d89619c8085ac9a7283fc248</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k100Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab0c0067c64c879551949be762f600af7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab0c0067c64c879551949be762f600af7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a87d1b8523518919bb9637a004c00448c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87d1b8523518919bb9637a004c00448c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi1stOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a02d21f6bfee6423fceb6a3695954c33b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga02d21f6bfee6423fceb6a3695954c33b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi2cdOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6117e1aa058a519559fbea82adb0aa69</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6117e1aa058a519559fbea82adb0aa69</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi3rdOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b19ef3d9cbdfb96c008f4586b186997</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b19ef3d9cbdfb96c008f4586b186997</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Cube</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a44ee3dd3579cc26082915d76a28be70f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44ee3dd3579cc26082915d76a28be70f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineTopCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9c79cded90ddc1a1e366e1fbf4315334</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9c79cded90ddc1a1e366e1fbf4315334</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineCenterHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afca48c099db5b486edc4a79616b3f024</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafca48c099db5b486edc4a79616b3f024</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFrontHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8e2c48c3830b09da02e7bb123f5916bd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8e2c48c3830b09da02e7bb123f5916bd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af21f025b23bb45133395657787f88a13</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf21f025b23bb45133395657787f88a13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineSideHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a300b4574ad12477ff99286519b754dfe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga300b4574ad12477ff99286519b754dfe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1d7c7f813f01cd3f4478ecc81e46e82c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1d7c7f813f01cd3f4478ecc81e46e82c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab04f1f4652d14e277671a0b62a8e8373</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab04f1f4652d14e277671a0b62a8e8373</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k50_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ade838b7c4cdbe2c7a8357e2cb710baf2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gade838b7c4cdbe2c7a8357e2cb710baf2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac29f63756f056bf266ba0e2d26f143d4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac29f63756f056bf266ba0e2d26f143d4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k51_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9680715bcefe20b26397cab10f7fb18b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9680715bcefe20b26397cab10f7fb18b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4496b8a1fc103ed42e399eca71048d12</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4496b8a1fc103ed42e399eca71048d12</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa6ebca6edf27a3858c2780043ee022e6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6ebca6edf27a3858c2780043ee022e6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91Atmos</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a543a82154cd2675d7d8c4ef6680448dd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga543a82154cd2675d7d8c4ef6680448dd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6246a745fadd335ea2e8ba88b4a4e507</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6246a745fadd335ea2e8ba88b4a4e507</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae15aef0c82b6f1be96a54fb616a1a7cb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae15aef0c82b6f1be96a54fb616a1a7cb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k111MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aacb60df68338ad8f622ea9a1f01416c8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaacb60df68338ad8f622ea9a1f01416c8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afd2c7f480119d8c17a533fb8d5948fd8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafd2c7f480119d8c17a533fb8d5948fd8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa4e5066c1a84a30aeadd0e76b74d57ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa4e5066c1a84a30aeadd0e76b74d57ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6bbc13de7df2c9e8a7ff9950bd44ab39</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bbc13de7df2c9e8a7ff9950bd44ab39</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4f9e89d3c8dbbb4dac1e2cb67633615b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4f9e89d3c8dbbb4dac1e2cb67633615b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a88accb0a3074c3fb6eb3fdb490b21c62</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga88accb0a3074c3fb6eb3fdb490b21c62</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aaa5bdf5a10ab4f4930c1ecf4efeb3f95</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaaa5bdf5a10ab4f4930c1ecf4efeb3f95</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k100</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6cadcafb161f16aa7edcc676604e4def</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6cadcafb161f16aa7edcc676604e4def</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a13c1699c11fba17352b83a1b3a7cfcc8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga13c1699c11fba17352b83a1b3a7cfcc8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad74c12ca20962432ba88df9807a9f156</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad74c12ca20962432ba88df9807a9f156</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k102</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a07bcd44b9922095ccd79f2195ad80e2b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07bcd44b9922095ccd79f2195ad80e2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k110</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af19e8a3b3f0d3a2c0e9587f6cc9b1411</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf19e8a3b3f0d3a2c0e9587f6cc9b1411</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k111</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a740b694bcebcd228836a5610feeeb929</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga740b694bcebcd228836a5610feeeb929</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k122</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adac6b9c961b9ffdf682f8ff85ea6be64</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadac6b9c961b9ffdf682f8ff85ea6be64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k130</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a58d4fdbfb02cceca73527bcbf17bf930</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga58d4fdbfb02cceca73527bcbf17bf930</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k131</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac672a7aa5cabd6a5d4c4441e6aadc925</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac672a7aa5cabd6a5d4c4441e6aadc925</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k140</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af7c32506aada727a39b6f30173a5a572</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf7c32506aada727a39b6f30173a5a572</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39dd41aa48652def01c2b774f3a46a02</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k222</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a80683d5816c4db7345c6e25dfdbc87a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga80683d5816c4db7345c6e25dfdbc87a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -5456,491 +5413,526 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kStringMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acc3c2f0d3a1a7cefebcd21afcaff0a33</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacc3c2f0d3a1a7cefebcd21afcaff0a33</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa8801dd84fb2f8566448a99c418d1185</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa8801dd84fb2f8566448a99c418d1185</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7baad18ef660784d5ed89c95d0f16aa9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7baad18ef660784d5ed89c95d0f16aa9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoC</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2057f29b65596edf1cb80ccc6a041b83</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2057f29b65596edf1cb80ccc6a041b83</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoSide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abab50191c9f7c6a497f7d148cc3a9741</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabab50191c9f7c6a497f7d148cc3a9741</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa1f7cbf8a6fe0184d7ab51fcb3c4792a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1f7cbf8a6fe0184d7ab51fcb3c4792a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a39cdd95afef98e1901ebdb99183e91f2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39cdd95afef98e1901ebdb99183e91f2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af980dfe2b66f77f49e5cc064e29baf90</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf980dfe2b66f77f49e5cc064e29baf90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a31865a34aa4e3eca16df14729ff1629f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31865a34aa4e3eca16df14729ff1629f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoBF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50527ffdd77c1df3a01d2656abdcfaca</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50527ffdd77c1df3a01d2656abdcfaca</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringCineFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5844248872630578a50942ea6be5da50</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5844248872630578a50942ea6be5da50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a546feab92a740e05c378ee7ac40f35cd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga546feab92a740e05c378ee7ac40f35cd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a53f43e261801293edcef4a1ad84b279d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga53f43e261801293edcef4a1ad84b279d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1e80c914f10746070e3ffe6e85eb5c1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1e80c914f10746070e3ffe6e85eb5c1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a137e13924264d25e2b23315c90a1a735</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga137e13924264d25e2b23315c90a1a735</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6bb5e6215f1f55441b2d63e1da3d826d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bb5e6215f1f55441b2d63e1da3d826d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a0f4c3361e3f81439c234f22f2c526829</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0f4c3361e3f81439c234f22f2c526829</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8b4f4ca5b48687d28d352f0fcfae57df</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8b4f4ca5b48687d28d352f0fcfae57df</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9a75f791d9b04c26b732bc3501c26ee6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9a75f791d9b04c26b732bc3501c26ee6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a67879f0e2d9733cd1a725c10b6bd41ac</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga67879f0e2d9733cd1a725c10b6bd41ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad0d54db82db6123d96d1f586b443bca3</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad0d54db82db6123d96d1f586b443bca3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6a60a614644af6eb7185b1ca3c863146</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6a60a614644af6eb7185b1ca3c863146</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a792624a39e54bdeb84703f79b9180370</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga792624a39e54bdeb84703f79b9180370</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7664212680fd954f8d3bdec7ee52a0a5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7664212680fd954f8d3bdec7ee52a0a5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac847eadaa1938e45601af71cb37737b5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac847eadaa1938e45601af71cb37737b5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a605e76c32caeb4f0d85ada0ffd422b89</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga605e76c32caeb4f0d85ada0ffd422b89</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34a5ea5d19e507a4cc75aaf5ca038e70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5bda8dedc7edcfa8f36b5a99509c9449</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5bda8dedc7edcfa8f36b5a99509c9449</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35ac01519b72d4f2ebc88a7621467378</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3475b1b161d22aca3939960e461307a5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3475b1b161d22aca3939960e461307a5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e0d74b112ae74fe8e74dc190db3b01b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8840a665e6fa4dac19167726473d6072</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8840a665e6fa4dac19167726473d6072</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa259ec989476ec18dd30dbbe9edaa6a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineTopCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6f792b0962f42ec4f133cb64de72d31e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6f792b0962f42ec4f133cb64de72d31e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineCenterHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abbfecee6091fbab1bbd2d3e073b86f5d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabbfecee6091fbab1bbd2d3e073b86f5d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFrontHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1447af9f22f48e0d039569b10a17aec2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1447af9f22f48e0d039569b10a17aec2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineSideHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad8deb48b287d7520c56e233f8020243c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad8deb48b287d7520c56e233f8020243c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFullRear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab78c124e88ad66fcd06aa09f3871320e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab78c124e88ad66fcd06aa09f3871320e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Proximity</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a30a288eb79dfa6b08afb569234e831d2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga30a288eb79dfa6b08afb569234e831d2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae7259d85e37e87f3734e0645a890312b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae7259d85e37e87f3734e0645a890312b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a35c11fa95eb4ed5340307b725c53180d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35c11fa95eb4ed5340307b725c53180d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Cube</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae9dde9509cd3485e2976e44ec37e2491</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae9dde9509cd3485e2976e44ec37e2491</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af949196ba6ad50b12f2522524ae2079a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf949196ba6ad50b12f2522524ae2079a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a301aef980be40689f6a32d2f2ea5990d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga301aef980be40689f6a32d2f2ea5990d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa72e158f204f9834347b1d811f0e1e1c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa72e158f204f9834347b1d811f0e1e1c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac31faedafc0d6ef570cb6b5098b189b2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac31faedafc0d6ef570cb6b5098b189b2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a42ee84421893fe9759b400d0bd3becaf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga42ee84421893fe9759b400d0bd3becaf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4623d9c5afc0883aa25409a89fc4b01c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4623d9c5afc0883aa25409a89fc4b01c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString102</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab514f5233daf9f0d39022eaf6bc3ee39</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab514f5233daf9f0d39022eaf6bc3ee39</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString122</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac4932606e4ac1473f0da939a03172e4a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac4932606e4ac1473f0da939a03172e4a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acfc39ea40d9b3ee2c64ee332aadf9dc5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacfc39ea40d9b3ee2c64ee332aadf9dc5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3087980012d3e5dee03f977677790623</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3087980012d3e5dee03f977677790623</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a45b8a48950dee4f9713bda0a5b9ca196</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga45b8a48950dee4f9713bda0a5b9ca196</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aeed20d0347a2ea4100a9b58990c5bcc1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaeed20d0347a2ea4100a9b58990c5bcc1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abff1c300f5f6d675842dc5e8492b973e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabff1c300f5f6d675842dc5e8492b973e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad07e3ef7063ba3b63b8699fceab70e14</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad07e3ef7063ba3b63b8699fceab70e14</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a07019a8f7d26ec6d67e3b21a4909ad50</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07019a8f7d26ec6d67e3b21a4909ad50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a49ccafdb4653781c17fa20f933a29af2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga49ccafdb4653781c17fa20f933a29af2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a28381a787f5d2e84e16067329d0efc00</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga28381a787f5d2e84e16067329d0efc00</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3b0b6d1ed6af07daa84a016f9a594d59</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3b0b6d1ed6af07daa84a016f9a594d59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa1fe4d708fa32e7b1ddeb892fa073509</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1fe4d708fa32e7b1ddeb892fa073509</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab8ec511d08a024efcfc54258ddaf48cf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8ec511d08a024efcfc54258ddaf48cf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a230095c9378b6f8cac9f14120786423f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga230095c9378b6f8cac9f14120786423f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2d2b7fc9562b4aec27425a1f46e6b5b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2d2b7fc9562b4aec27425a1f46e6b5b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString110</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a403a29103a9bfa626785cfc61bcce1d3</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga403a29103a9bfa626785cfc61bcce1d3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString111</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a05776481c1feeb8db0bd8a8f9fd7bcdc</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga05776481c1feeb8db0bd8a8f9fd7bcdc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString130</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac7d25b1cc65c51e76c225ae50c4116ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac7d25b1cc65c51e76c225ae50c4116ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString131</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af610b7be568618c5d5c3aa20d4cf2ecb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf610b7be568618c5d5c3aa20d4cf2ecb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MPEG</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a86ba0d184e2fd6b86e876d5a7343cc5c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86ba0d184e2fd6b86e876d5a7343cc5c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString140</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a030afab00e1f4278f53911d4a89a7b98</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga030afab00e1f4278f53911d4a89a7b98</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString222</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aad33c8ed818e1d8f2a30195dadf50af9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad33c8ed818e1d8f2a30195dadf50af9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaebcce0418f6b0300b6f862766f7f58e2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi1stOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae989a0ed646d1b90e700b6599b87e9c5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae989a0ed646d1b90e700b6599b87e9c5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi2cdOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a57421a0b5dd2faacfc03c8b4df47c626</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga57421a0b5dd2faacfc03c8b4df47c626</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi3rdOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab530c1e2f6dfd766cfb9f1b4f11b6ddf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab530c1e2f6dfd766cfb9f1b4f11b6ddf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -5953,490 +5945,497 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a54144ab0e1dd2babcf5e720950cf7e24</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54144ab0e1dd2babcf5e720950cf7e24</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoRS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a63f3673e0a9ad13c3788b583d4fac61b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga63f3673e0a9ad13c3788b583d4fac61b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3cb0fc4337ff0f43bf119b20c7f5d810</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3cb0fc4337ff0f43bf119b20c7f5d810</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoSS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a22b0cac49e8ef5b3d9a1836abd021720</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga22b0cac49e8ef5b3d9a1836abd021720</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCLfeS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa6cc8eae43caf89b778136bbb05fc09a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6cc8eae43caf89b778136bbb05fc09a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTFS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acff5991a9dd2a3d5a415d499bcfd681b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacff5991a9dd2a3d5a415d499bcfd681b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTSS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad25d6a1fe574b28440e6b95d94978edb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad25d6a1fe574b28440e6b95d94978edb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTRS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac777248ebd6fa592c82b7bcb78f9301e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac777248ebd6fa592c82b7bcb78f9301e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoBFS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8a0f76c380e173edac9016a3dcfc45bb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8a0f76c380e173edac9016a3dcfc45bb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringCineFrontS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a19addfe92087609dea4ef8c257becfbf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19addfe92087609dea4ef8c257becfbf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adf31296b53805c54ae5563807650b24e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf31296b53805c54ae5563807650b24e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aae88a2f1492097d9d64e073cd7943722</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaae88a2f1492097d9d64e073cd7943722</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7e65cdf6a6fc4d8aeffc59a7b1a66a1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7e65cdf6a6fc4d8aeffc59a7b1a66a1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b7e67dba5f5333b64eb847d3d78668d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b7e67dba5f5333b64eb847d3d78668d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a531abc9ded9f3e0474010cdb22557d0d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga531abc9ded9f3e0474010cdb22557d0d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a51fdeb3143151508f6d94344431ce9de</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga51fdeb3143151508f6d94344431ce9de</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3789962208da8454667b34aa666981db</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3789962208da8454667b34aa666981db</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a54a60dca7c8b8556b398867c51dc1e00</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54a60dca7c8b8556b398867c51dc1e00</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab8903815699fa69a4fd8ec717317dc29</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8903815699fa69a4fd8ec717317dc29</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afbb743a8f1f0002bae234e2d5910ee8a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafbb743a8f1f0002bae234e2d5910ee8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a16ff5025a411dc1c3b7fc305dfe53073</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga16ff5025a411dc1c3b7fc305dfe53073</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2533387651492af2317e897bd94bf26</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2533387651492af2317e897bd94bf26</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2f2f2eb56bcf2977ad670a752c69d793</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2f2f2eb56bcf2977ad670a752c69d793</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a81d034a4b036e9e9bd0be527711db6fc</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81d034a4b036e9e9bd0be527711db6fc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae72794cddb19856e3ec62e33d290176d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae72794cddb19856e3ec62e33d290176d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5f3a9a34dc5798908f848f0b881b8c06</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5f3a9a34dc5798908f848f0b881b8c06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4b10dc09ef678e66e90330f5b6b591d0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4b10dc09ef678e66e90330f5b6b591d0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aec8cf18e8bfd88584375e66b67fde24e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec8cf18e8bfd88584375e66b67fde24e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af3da1b6a98e9f9d01e8141f205f35764</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf3da1b6a98e9f9d01e8141f205f35764</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8204788aa5b2fce1730c157dc8a9239f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8204788aa5b2fce1730c157dc8a9239f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afe30ad0333248d38dfd6a162879a97a6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafe30ad0333248d38dfd6a162879a97a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5b7279077b689fa26044fc2520a413c7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5b7279077b689fa26044fc2520a413c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80CubeS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab5aedcc126b998d57c67be78255cd52b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab5aedcc126b998d57c67be78255cd52b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineTopCenterS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a006f007337addc5c126777bc9e9b774d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga006f007337addc5c126777bc9e9b774d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineCenterHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af0c13b30d128debc8f8976927a321f48</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0c13b30d128debc8f8976927a321f48</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFrontHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a19c9b28dd806c4a7cf532e33c4db7d1d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19c9b28dd806c4a7cf532e33c4db7d1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineSideHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a708f2bb3ba7a3f624acf291960ca7788</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga708f2bb3ba7a3f624acf291960ca7788</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFullRearS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5e313aadeb060bc3dc88d17ca2e81a06</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e313aadeb060bc3dc88d17ca2e81a06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71ProximityS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a86fc6ff2265855e22d3573786e05af2d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86fc6ff2265855e22d3573786e05af2d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4a24b9cdab9b5ed5af4ae28cbe8f7205</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4a24b9cdab9b5ed5af4ae28cbe8f7205</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abebe500b3d27127ae844c7fcabb854f0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabebe500b3d27127ae844c7fcabb854f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a341a094c1693e21946264eb706155c32</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga341a094c1693e21946264eb706155c32</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7ce63c640f335bc95fb4203dbe117a44</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7ce63c640f335bc95fb4203dbe117a44</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8f720e94eddcbd5b60ad0bce56349883</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f720e94eddcbd5b60ad0bce56349883</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a076816df2f77a47f7ffa7f954624886a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga076816df2f77a47f7ffa7f954624886a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_2S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae4e0eb4b5b2a9d8be26313f2bacfdf0e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae4e0eb4b5b2a9d8be26313f2bacfdf0e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_2S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50d7d7630353ff6f0512be5aa2277fc4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d7d7630353ff6f0512be5aa2277fc4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a47554e8c117d0119288c796708533bd5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga47554e8c117d0119288c796708533bd5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac09c0be94436acb5d49fe4fb69f13ffe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac09c0be94436acb5d49fe4fb69f13ffe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9286dbbe48dd048c6096935139c293e1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9286dbbe48dd048c6096935139c293e1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9763b5d2b528848fc90deec34999ca90</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9763b5d2b528848fc90deec34999ca90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6d4ef306235169341804482b1be208fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d4ef306235169341804482b1be208fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b17445201a92bee4c23dd16e5cd1728</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b17445201a92bee4c23dd16e5cd1728</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac89dcac8a9acb594a3e406cc5241d650</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac89dcac8a9acb594a3e406cc5241d650</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af0b16e15ff6616a3e481b879d3b4c53f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0b16e15ff6616a3e481b879d3b4c53f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aec0be9229bbb0796d8d1c69e059e7501</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec0be9229bbb0796d8d1c69e059e7501</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5c88990128aeaf6e70cf777e2e2e07f0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c88990128aeaf6e70cf777e2e2e07f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString110S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acd74a4610c5894723966b586ff76780b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacd74a4610c5894723966b586ff76780b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString111S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6520dd17a30ba116ac2877b28a1b8cc9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6520dd17a30ba116ac2877b28a1b8cc9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString130S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>accdab4f0e651d4c1b0b850e6c8edb9f4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaccdab4f0e651d4c1b0b850e6c8edb9f4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString131S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9cdfa2ff878225396509ca7b25af7f1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9cdfa2ff878225396509ca7b25af7f1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString102S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a31de54f5e618a467f94a579550328644</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31de54f5e618a467f94a579550328644</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString122S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a800e2e69c905b5feaeda81ac24b3f653</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga800e2e69c905b5feaeda81ac24b3f653</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MPEGS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a78b0189e39c80c0bf5cec0ddcce73cf9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga78b0189e39c80c0bf5cec0ddcce73cf9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString140S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a426116f26f987c030cf2bc70302aa219</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga426116f26f987c030cf2bc70302aa219</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString222S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab442cbf6e2447ea3a762e0c9c891d274</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab442cbf6e2447ea3a762e0c9c891d274</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9df1f69930cf3ab747d645b40ba073c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi1stOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a319dbf573206d0bb1a8b77e7f476548d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga319dbf573206d0bb1a8b77e7f476548d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi2cdOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a81cbc11f839866ed8a91dc903e5a6d97</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81cbc11f839866ed8a91dc903e5a6d97</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi3rdOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2317fa07e1e7ee2cfce204a07945c40</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2317fa07e1e7ee2cfce204a07945c40</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>vsttypes.h</name>
-    <path>/Builddata/re/266142901/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
     <filename>vsttypes_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -6473,6 +6472,13 @@
       <name>VST_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_3_7_2_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a88fa809e84e96e971b4b43044b16c5f8</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -6590,141 +6596,141 @@
     <member kind="typedef">
       <type>char16</type>
       <name>TChar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9cc7040d53a88b14ecab90ffb052276d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>TChar</type>
       <name>String128</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4b750afeaca8056101ac7952543dfd47</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
       <arglist>[128]</arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>CString</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
+      <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>MediaType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5f0d28213b308d786ef7a1541d88368f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>BusDirection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a0dc035dac7916366d61df365731f7b63</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>BusType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa6029db01759d30cfcb3504b84d5d04f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>IoMode</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a479361a38cb42c6a07bc6845a5801e55</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>UnitID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6569c340fc68115670ee0161dd73b3ed</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>ParamValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a11508dccaa352a24d0ae6585a93f4641</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>ParamID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1dac5893f4a5c27f986d4e51741b544c</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>ProgramListID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aac31a9d9a63927ad6927f2a298888c22</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int16</type>
       <name>CtrlNumber</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa67d0906fec66282a0c9488cb52162f6</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>TQuarterNotes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abf70aac64179b2b47bd877600a2e8c28</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int64</type>
       <name>TSamples</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad2e841097395dbff119029f4684dad8f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>ColorSpec</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>float</type>
       <name>Sample32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a353ad4086d31e4b7c57c9124965379a6</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>Sample64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8887669e1feb9270b120bcd725d0d4c1</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>SampleRate</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a11249ca544d179e7fa61b2200a092407</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64</type>
       <name>SpeakerArrangement</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a54884a26d0b6dfa18eb919ea004775ac</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64</type>
       <name>Speaker</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a7a9fc6561fe897989fa3cea09ebb3250</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>const typedef char8 *</type>
-      <name>CString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>afe74ab5ec5b1665b21e747cdf8d5ec66</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -7296,6 +7302,13 @@
     <name>Steinberg::Vst::IAttributeList</name>
     <filename>classSteinberg_1_1Vst_1_1IAttributeList.html</filename>
     <base>Steinberg::FUnknown</base>
+    <member kind="typedef">
+      <type>const char *</type>
+      <name>AttrID</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IAttributeList.html</anchorfile>
+      <anchor>afbcb28dffd98773ba0287d888f16d00a</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="function" virtualness="pure">
       <type>virtual tresult</type>
       <name>setInt</name>
@@ -7351,13 +7364,6 @@
       <anchorfile>classSteinberg_1_1Vst_1_1IAttributeList.html</anchorfile>
       <anchor>a9b9d196fc07b7c2c141f16acb5d0fd57</anchor>
       <arglist>(AttrID id, const void *&amp;data, uint32 &amp;sizeInBytes)=0</arglist>
-    </member>
-    <member kind="variable">
-      <type>const typedef char *</type>
-      <name>AttrID</name>
-      <anchorfile>classSteinberg_1_1Vst_1_1IAttributeList.html</anchorfile>
-      <anchor>a63fd4fdff70dd292aba107ba6a42a760</anchor>
-      <arglist></arglist>
     </member>
     <member kind="variable" static="yes">
       <type>static const FUID</type>
@@ -10531,36 +10537,36 @@
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeHWND</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa1e68ac1f25da9c85c937d0360dbc601</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeHIView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a974cabea219cb31ad8218ba15d1f7071</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga974cabea219cb31ad8218ba15d1f7071</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeNSView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8ce69944b5475d65206469b9ebcbf755</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga8ce69944b5475d65206469b9ebcbf755</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeUIView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a6362a7ca65b87d30c561dac986b757bd</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga6362a7ca65b87d30c561dac986b757bd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeX11EmbedWindowID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gac945decc5f26f3fdb5419e8de833a0e1</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -10679,22 +10685,22 @@
     <member kind="typedef">
       <type>int32</type>
       <name>KnobMode</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a98965411c9e542b7c2a99a46c8c1dfa2</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga98965411c9e542b7c2a99a46c8c1dfa2</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>NoteExpressionTypeID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1f6dd3f1f6742382e7301c1db5587a4e</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1f6dd3f1f6742382e7301c1db5587a4e</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>NoteExpressionValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9e134142463a8ca477018e7f2c3220f5</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9e134142463a8ca477018e7f2c3220f5</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -10707,148 +10713,155 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>PhysicalUITypeID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a207b8fd37ea1de019fdb784e4cedacc3</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga207b8fd37ea1de019fdb784e4cedacc3</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>PrefetchableSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8cd3dd5ea75e76ace81fd1a696544378</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8cd3dd5ea75e76ace81fd1a696544378</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>char16</type>
       <name>TChar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9cc7040d53a88b14ecab90ffb052276d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>TChar</type>
       <name>String128</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4b750afeaca8056101ac7952543dfd47</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
       <arglist>[128]</arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>CString</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
+      <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>MediaType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5f0d28213b308d786ef7a1541d88368f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>BusDirection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a0dc035dac7916366d61df365731f7b63</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>BusType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa6029db01759d30cfcb3504b84d5d04f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>IoMode</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a479361a38cb42c6a07bc6845a5801e55</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>UnitID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6569c340fc68115670ee0161dd73b3ed</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>ParamValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a11508dccaa352a24d0ae6585a93f4641</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>ParamID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1dac5893f4a5c27f986d4e51741b544c</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>ProgramListID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aac31a9d9a63927ad6927f2a298888c22</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int16</type>
       <name>CtrlNumber</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa67d0906fec66282a0c9488cb52162f6</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>TQuarterNotes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abf70aac64179b2b47bd877600a2e8c28</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int64</type>
       <name>TSamples</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad2e841097395dbff119029f4684dad8f</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>ColorSpec</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>float</type>
       <name>Sample32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a353ad4086d31e4b7c57c9124965379a6</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>Sample64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8887669e1feb9270b120bcd725d0d4c1</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>double</type>
       <name>SampleRate</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a11249ca544d179e7fa61b2200a092407</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64</type>
       <name>SpeakerArrangement</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a54884a26d0b6dfa18eb919ea004775ac</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64</type>
       <name>Speaker</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a7a9fc6561fe897989fa3cea09ebb3250</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -10917,64 +10930,64 @@
     <member kind="enumeration">
       <type></type>
       <name>MediaTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga576e5da9bdc49812cf65f803bb303ad5</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kAudio</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEvent</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5ae6a97de99980aeac9312e818af337d6f</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5ae6a97de99980aeac9312e818af337d6f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNumMediaTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a576e5da9bdc49812cf65f803bb303ad5a803eb569c99a15c09609562d83577cfc</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5a803eb569c99a15c09609562d83577cfc</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
       <type></type>
       <name>BusDirections</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga48a6eea2da1c202231eb653f3f764af2</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInput</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2aa3512d23926af0e0dad8c3293443d04c</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2aa3512d23926af0e0dad8c3293443d04c</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kOutput</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
       <type></type>
       <name>BusTypes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675a</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga4849e8fa0da1b39bd3e0af87b441675a</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kMain</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675aa388e1f905d2b8eb0f734c83d9356885b</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa388e1f905d2b8eb0f734c83d9356885b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kAux</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4849e8fa0da1b39bd3e0af87b441675aa0aedfd6f0f992c45d4f3620c9445292e</anchor>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa0aedfd6f0f992c45d4f3620c9445292e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -11684,13 +11697,6 @@
       <arglist>(IHostApplication *host)</arglist>
     </member>
     <member kind="variable">
-      <type>const typedef char8 *</type>
-      <name>CString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>afe74ab5ec5b1665b21e747cdf8d5ec66</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
       <type>const int32</type>
       <name>kDefaultFactoryFlags</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
@@ -12309,15 +12315,15 @@
     <member kind="typedef">
       <type>uint32</type>
       <name>ColorSpec</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
-      <anchor>a5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint8</type>
       <name>ColorComponent</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
-      <anchor>af1189c83b63820c6ccc3167402601fea</anchor>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -12586,379 +12592,379 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ad515322344056aab9256d76a6787eb42</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPoly</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a020e4d1023e2b9add2c637ebf4b75a3b</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga020e4d1023e2b9add2c637ebf4b75a3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSplit</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a51e6bf04c8aaefb4fbbc45a114f147c7</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga51e6bf04c8aaefb4fbbc45a114f147c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLayer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a18049d58eeecea7c6fed4f727442430d</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18049d58eeecea7c6fed4f727442430d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a94f8615dad159bf66390009ad9282249</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga94f8615dad159bf66390009ad9282249</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlissando</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae0732ea96679d73e821715b2be446261</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae0732ea96679d73e821715b2be446261</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMajor</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a18f27017b00ca4612f133f4e09d913e3</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18f27017b00ca4612f133f4e09d913e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMinor</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>accd54b1bfad544bac2ff54cfb56d7df2</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaccd54b1bfad544bac2ff54cfb56d7df2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSingle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a516ace30c1fa46e55b8767b58c77a788</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga516ace30c1fa46e55b8767b58c77a788</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEnsemble</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>adb6de4949739c48baf2613e6965d1637</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb6de4949739c48baf2613e6965d1637</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAcoustic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af589c030507665591b7e57d677b350e0</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf589c030507665591b7e57d677b350e0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectric</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa924ea59d6457adaabe92b47048253aa</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa924ea59d6457adaabe92b47048253aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a10904a318940018e74802140f840a4cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga10904a318940018e74802140f840a4cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af8f1ad8e2c507c80b75e20d94cbef219</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8f1ad8e2c507c80b75e20d94cbef219</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVintage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ab86682f9fb5dd5c56199feba1afadc8f</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab86682f9fb5dd5c56199feba1afadc8f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kModern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a490b8908c7977aaca4e5a7fc1983f172</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga490b8908c7977aaca4e5a7fc1983f172</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOld</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0bbfdd92cc2b2313b3cf974c5b3f9760</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bbfdd92cc2b2313b3cf974c5b3f9760</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNew</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8ff57c7698535ab97bfc64a7bf3ea9ac</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8ff57c7698535ab97bfc64a7bf3ea9ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClean</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae48573356356094da60ac761ac5ac51e</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae48573356356094da60ac761ac5ac51e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDistorted</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa8427782100432cfaf837a729195f1ba</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa8427782100432cfaf837a729195f1ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDry</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ae4406a55f1a7b6f1d12e29bab8f576e1</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae4406a55f1a7b6f1d12e29bab8f576e1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kProcessed</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0bc38b1dfd75d0ae9e6137d43c29068c</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bc38b1dfd75d0ae9e6137d43c29068c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kHarmonic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8f5f55f753d25fbeec874ff7c873b050</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8f5f55f753d25fbeec874ff7c873b050</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDissonant</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a3030eff3a0900a8cca1c6266716efe1e</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga3030eff3a0900a8cca1c6266716efe1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>af8c102dba19d9bafb8d7ba312f812ad7</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8c102dba19d9bafb8d7ba312f812ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNoisy</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa57323ce9c0b4d417c6b36aa76570514</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa57323ce9c0b4d417c6b36aa76570514</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kThin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8da59e92e1c2609a302663aeeffc01cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8da59e92e1c2609a302663aeeffc01cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRich</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa6c4d36725eb4226e02f5724ca420e24</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa6c4d36725eb4226e02f5724ca420e24</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDark</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aae40f2e630a0d26cdd3d862761b26d07</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaae40f2e630a0d26cdd3d862761b26d07</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBright</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0796a86633dd777869721cf5f2666aa5</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0796a86633dd777869721cf5f2666aa5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCold</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a7c18fd830521824296dc8412e5420559</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga7c18fd830521824296dc8412e5420559</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWarm</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ac1766654d4a9b882b9890fce9483a733</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac1766654d4a9b882b9890fce9483a733</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMetallic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a644e30da9b10ac15bcd313778d00d261</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga644e30da9b10ac15bcd313778d00d261</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWooden</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>abea2ba5e271fab4f245baffae6fc7f20</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabea2ba5e271fab4f245baffae6fc7f20</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGlass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>aa5eee886870365dcadc1105891130025</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa5eee886870365dcadc1105891130025</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPlastic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a62ea7670ea954e012810004bb26369fb</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga62ea7670ea954e012810004bb26369fb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPercussive</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ac6b35eb8d6cf9178f4b428d523760e89</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac6b35eb8d6cf9178f4b428d523760e89</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoft</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a280fd77ca4f703e3509ba81e6a4a7062</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga280fd77ca4f703e3509ba81e6a4a7062</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFast</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>ab5face7509d33a16c6be75f042d5f56a</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab5face7509d33a16c6be75f042d5f56a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSlow</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a196114f5b784b26e46ca975e194a12cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga196114f5b784b26e46ca975e194a12cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kShort</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8b9663df42570d3f736896b881f348f3</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8b9663df42570d3f736896b881f348f3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLong</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a1d83ca1c98b52785de6b205cf10ba2cc</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1d83ca1c98b52785de6b205cf10ba2cc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a6825831c83ffca20a7353fcf1f4ff3c8</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga6825831c83ffca20a7353fcf1f4ff3c8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a85c4be48d6121e160ec3d864591f48ff</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga85c4be48d6121e160ec3d864591f48ff</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDecay</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a310f8f745367f1fff3d176974abb507f</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga310f8f745367f1fff3d176974abb507f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSustain</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a1b380d79f09e7bd56403f79f09514db9</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1b380d79f09e7bd56403f79f09514db9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFastAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a8cd59e5d43ed1bd277845f9ed2f29351</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8cd59e5d43ed1bd277845f9ed2f29351</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSlowAttack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a19fc8fcee1d6326b028fdeace97da264</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga19fc8fcee1d6326b028fdeace97da264</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kShortRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a0178603367ef122579d09173b02c275d</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0178603367ef122579d09173b02c275d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLongRelease</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>adb9b1ab770dcdf2bb4d526b5aac6b1ec</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb9b1ab770dcdf2bb4d526b5aac6b1ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStatic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>abca0f72e85147ea95283eb9607c23332</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabca0f72e85147ea95283eb9607c23332</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMoving</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a24192885baa2c896f4ac92a68e176802</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga24192885baa2c896f4ac92a68e176802</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kLoop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a37e6e5e54e1d052d21d739a032593282</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga37e6e5e54e1d052d21d739a032593282</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOneShot</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html</anchorfile>
-      <anchor>a084d4ed63922f00549f31a1114ecd32c</anchor>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga084d4ed63922f00549f31a1114ecd32c</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -12968,806 +12974,806 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5bd8958e2d10a39961b9ac9d20ac1a3c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd8958e2d10a39961b9ac9d20ac1a3c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionAccordion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4b3a7ca0aed4fd75c4c6de9da2c095b0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4b3a7ca0aed4fd75c4c6de9da2c095b0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionHarmonica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a13f91d403c87da4936308cd2f94b3dce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13f91d403c87da4936308cd2f94b3dce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAccordionOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a3f7c44f705388a781d442009341b50aa</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3f7c44f705388a781d442009341b50aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a99ad41c498b2d37a379907989842655a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga99ad41c498b2d37a379907989842655a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassABass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7806c7198452bd9b38813e1254bffdde</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7806c7198452bd9b38813e1254bffdde</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassEBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a722ff7ac1ffb92a922ef3f562117327f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga722ff7ac1ffb92a922ef3f562117327f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassSynthBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abbbabe9b591bdfbc9e8613220d7ce829</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabbbabe9b591bdfbc9e8613220d7ce829</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBassOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1835577b20a8f992869f11555b9c6c43</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1835577b20a8f992869f11555b9c6c43</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>accf4a6cc04deede6234aa80f17494e62</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaccf4a6cc04deede6234aa80f17494e62</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassFrenchHorn</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1a4ba62937d8347b92bd6a7fe2f0f203</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1a4ba62937d8347b92bd6a7fe2f0f203</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTrumpet</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a58aa80b0a42ce48f7868095cbf8af4af</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58aa80b0a42ce48f7868095cbf8af4af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTrombone</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1f2c119eb1f5ed7687375950e64a099a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1f2c119eb1f5ed7687375950e64a099a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassTuba</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1e4a49eeaaedbf8487070bf20a06b119</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1e4a49eeaaedbf8487070bf20a06b119</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassSection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae7c3bd91d4fb0872ab7db0ed74d91445</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae7c3bd91d4fb0872ab7db0ed74d91445</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0cc2d58842ce2dcad93a3f83a777a67d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0cc2d58842ce2dcad93a3f83a777a67d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBrassOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae4e52f708efde91cf0f2a78cebbd351c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae4e52f708efde91cf0f2a78cebbd351c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPerc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5f48d90dba2837a9b0552446258746c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5f48d90dba2837a9b0552446258746c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercBell</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7b4edfeeda6a06123409b3e5d704bd0c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7b4edfeeda6a06123409b3e5d704bd0c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercMallett</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aeee07c58574e18dd64d3be93f7088a35</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeee07c58574e18dd64d3be93f7088a35</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercWood</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a492b01fbc86bdb5131f84dcdb5f26f06</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga492b01fbc86bdb5131f84dcdb5f26f06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercPercussion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0e5caac1dbaa9755fdb06e89ed3b3895</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0e5caac1dbaa9755fdb06e89ed3b3895</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercTimpani</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a11ef28f0a9918a82c981b1fb8025bd8b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga11ef28f0a9918a82c981b1fb8025bd8b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kChromaticPercOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a12eb4bbef0c030bbca1e861adc773334</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga12eb4bbef0c030bbca1e861adc773334</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPerc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abe15c8ed2a76ff3c9f9029278854dbef</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabe15c8ed2a76ff3c9f9029278854dbef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumsetGM</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa41f951f74e972f53aab1a45d15c54aa</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa41f951f74e972f53aab1a45d15c54aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumset</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9ea452ccf895de2e9a647aa85d40b1ec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9ea452ccf895de2e9a647aa85d40b1ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercDrumMenues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa441a52dd98f3b53affbc538eda46521</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa441a52dd98f3b53affbc538eda46521</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercBeats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5c77bf645fdb2afae554c3c6b48dc92</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5c77bf645fdb2afae554c3c6b48dc92</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercPercussion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a351f0ed74b2185f5acc3460021c203a6</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga351f0ed74b2185f5acc3460021c203a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercKickDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af85c8e569ae8d22ab2c233006a99f82e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf85c8e569ae8d22ab2c233006a99f82e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercSnareDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a13fca99a8c4598a5f66ef87242f70b27</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13fca99a8c4598a5f66ef87242f70b27</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercToms</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac756e1798f6f8ce4eed78adafcd6f8b4</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac756e1798f6f8ce4eed78adafcd6f8b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercHiHats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>adec30a0adbbd248d6573f64342feef77</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gadec30a0adbbd248d6573f64342feef77</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercCymbals</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a82ee2aad1a847aea7c803b81a4d2598b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga82ee2aad1a847aea7c803b81a4d2598b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDrumPercOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8dbf5e607efc62bfd0fb4044a943c399</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8dbf5e607efc62bfd0fb4044a943c399</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa946206a3ecfcc3423ea307de5efdd13</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa946206a3ecfcc3423ea307de5efdd13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAsian</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a81ca43ff51517679540bbabce3f89254</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga81ca43ff51517679540bbabce3f89254</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAfrican</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5de2bf50670628599940b4afba85fba1</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5de2bf50670628599940b4afba85fba1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicEuropean</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a841f031104f1230a568fb7246eb87fe0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga841f031104f1230a568fb7246eb87fe0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicLatin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8b04cbbaa98e561e20b7a966f58e9281</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8b04cbbaa98e561e20b7a966f58e9281</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAmerican</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a3c6dcb9ae2464cf7012aadb328c73fdb</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3c6dcb9ae2464cf7012aadb328c73fdb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicAlien</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a86aa661200c00f7b44935e455d62b5f8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga86aa661200c00f7b44935e455d62b5f8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kEthnicOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a89d49bfa58ca9659367217ea187bd7bf</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga89d49bfa58ca9659367217ea187bd7bf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a642a844eb43638962aec00dda572b724</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga642a844eb43638962aec00dda572b724</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarAGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af907f1b0c6b112a7a7ef2c26d181345b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf907f1b0c6b112a7a7ef2c26d181345b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarEGuitar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5bd16506f3db8c7cada37ac1030fdeec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd16506f3db8c7cada37ac1030fdeec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarHarp</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a6077d4646f9ce2fcd14f40ee5f1fcfce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga6077d4646f9ce2fcd14f40ee5f1fcfce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abac2c7c2f88a2511bcb9536a62847e64</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabac2c7c2f88a2511bcb9536a62847e64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kGuitarOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a91eddfe8e8f1e826c887b57971600988</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga91eddfe8e8f1e826c887b57971600988</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboard</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae87c28eecf427576aaba8dba45506307</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae87c28eecf427576aaba8dba45506307</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardClavi</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abeb1f764cd854f5f7b107a8f0b1fd4ec</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabeb1f764cd854f5f7b107a8f0b1fd4ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardEPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a326410320556a12f64c20f88c19373ce</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga326410320556a12f64c20f88c19373ce</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardHarpsichord</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a02d58cfc1dd6afe263d10ed615eb0d2e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga02d58cfc1dd6afe263d10ed615eb0d2e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kKeyboardOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a20c97efa4d9bc8307bbd0375035c34ae</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20c97efa4d9bc8307bbd0375035c34ae</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2390a2a94e9904517ec9342ab0019fe7</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2390a2a94e9904517ec9342ab0019fe7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXHitsStabs</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a7827735f5bb526019207c524f487af0a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7827735f5bb526019207c524f487af0a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXMotion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab9114e6b0673188dc5228aed3d3df2da</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab9114e6b0673188dc5228aed3d3df2da</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXSweeps</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af3cb2d886c19f654e5d4d8b25eb5477e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf3cb2d886c19f654e5d4d8b25eb5477e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXBeepsBlips</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5378d54b89a50f2b659f4811d2925cc5</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5378d54b89a50f2b659f4811d2925cc5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXScratches</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>acbe3eb6871b48061d2c046d8b258a7a9</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gacbe3eb6871b48061d2c046d8b258a7a9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMusicalFXOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab5e9cb190b3c45ca56bb2e1adebb43fc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5e9cb190b3c45ca56bb2e1adebb43fc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrgan</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a84fec6760fef802a323b692a062b55b4</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga84fec6760fef802a323b692a062b55b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganElectric</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2ec0df01bea69ecba86f5d891b1ad648</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2ec0df01bea69ecba86f5d891b1ad648</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganPipe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a79ae6538d284af4c29bbd7cf4933b76e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga79ae6538d284af4c29bbd7cf4933b76e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOrganOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a20f011a1e399ecacdb0e6e1cb7196e64</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20f011a1e399ecacdb0e6e1cb7196e64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a41cb875c197b4036cc5ac03ca3721a08</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga41cb875c197b4036cc5ac03ca3721a08</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoAPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4ad2adf116f63f68c278860b4d1d1f6d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4ad2adf116f63f68c278860b4d1d1f6d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoEGrand</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a37d4c3eca4f4d9c151ffa65609c79439</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga37d4c3eca4f4d9c151ffa65609c79439</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPianoOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1af05a3bfb82be1b619388c384a6bf2d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1af05a3bfb82be1b619388c384a6bf2d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af2a091ea57274b72699e9f9df7715b17</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf2a091ea57274b72699e9f9df7715b17</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXNature</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ad21b480ba2888b09f222c703fbb37a91</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad21b480ba2888b09f222c703fbb37a91</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXMechanical</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8f75ccb3769fa4876436c45a09107fcd</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8f75ccb3769fa4876436c45a09107fcd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXSynthetic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a341e53ab2df394405b3785850dad88e9</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga341e53ab2df394405b3785850dad88e9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSoundFXOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aae916a5a813ecf7d856e61f456a24479</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaae916a5a813ecf7d856e61f456a24479</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStrings</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aafd56235b0b917a43d284202d30f4f0a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaafd56235b0b917a43d284202d30f4f0a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsViolin</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af8cf7e44674db2aca92f56fd73f92006</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf8cf7e44674db2aca92f56fd73f92006</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsViola</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9aa9476acbba419210667d658afabc6a</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9aa9476acbba419210667d658afabc6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsCello</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a265f017e0f464df3d4141dc319eff0c7</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga265f017e0f464df3d4141dc319eff0c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsBass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ae18de76efc605860475b6323ef233cc8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae18de76efc605860475b6323ef233cc8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsSection</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac1d32b8a87a1fd03f9c1015160d7d3b2</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac1d32b8a87a1fd03f9c1015160d7d3b2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a51a61e68eba9a1cf51ad89242b9bc47f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga51a61e68eba9a1cf51ad89242b9bc47f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringsOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab44336cb32a2e361969b84be167c6437</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab44336cb32a2e361969b84be167c6437</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLead</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a65f99d06e1cdec2a31ced94c3e74e2b8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga65f99d06e1cdec2a31ced94c3e74e2b8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a8a11629221f0398068c261f7e82dbb3c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8a11629221f0398068c261f7e82dbb3c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a5593b90f0b783f8c474534b1bfdece81</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5593b90f0b783f8c474534b1bfdece81</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadArpeggio</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9f07e312d4b567cbeb9afc62663e799d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9f07e312d4b567cbeb9afc62663e799d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthLeadOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1baec415d4b38bfc63bfe37d4d8f998e</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1baec415d4b38bfc63bfe37d4d8f998e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPad</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a09ada6780ac854e1a5f5fdeaeed3fb98</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga09ada6780ac854e1a5f5fdeaeed3fb98</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadSynthChoir</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a459f7a40ee5ce2589b9c5b4e9a7dbc03</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga459f7a40ee5ce2589b9c5b4e9a7dbc03</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>afd8251cd1e2beb471fb880eff54122a2</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gafd8251cd1e2beb471fb880eff54122a2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a0624ae2a566ded387d13aa9b42b02e4f</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0624ae2a566ded387d13aa9b42b02e4f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadMotion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>abb14045ba365551baf7d248ea496f627</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabb14045ba365551baf7d248ea496f627</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthPadOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a21365983f34c81eb766d77a9f6c56542</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga21365983f34c81eb766d77a9f6c56542</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthComp</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ac5ee81e33b8952b205664d8a7e6d3726</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac5ee81e33b8952b205664d8a7e6d3726</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompAnalog</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a98b124c4c95e7d1f055a878c293036a1</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga98b124c4c95e7d1f055a878c293036a1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompDigital</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a58fd32018d0d25fa22a065fe293e4079</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58fd32018d0d25fa22a065fe293e4079</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSynthCompOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab2577b8dac71b9e6d679cd5fd337fc70</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab2577b8dac71b9e6d679cd5fd337fc70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a2d5f12d8f479275a1ec1047877ad12f6</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2d5f12d8f479275a1ec1047877ad12f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalLeadVocal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a33b0df9f2de9caa850ec8f42a690ea1c</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga33b0df9f2de9caa850ec8f42a690ea1c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalAdlibs</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aeb469e5850a09e7863b3a411bd839185</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeb469e5850a09e7863b3a411bd839185</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalChoir</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>af1c302e30ac59f819c846264553cbb61</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf1c302e30ac59f819c846264553cbb61</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalSolo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a9fee846e3dac6a9c76f49236370104ff</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9fee846e3dac6a9c76f49236370104ff</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalFX</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a01a286aebf174524ce6806266da52608</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga01a286aebf174524ce6806266da52608</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalSpoken</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ad3c91ff5b7e51b5ed71479994af1f2b0</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad3c91ff5b7e51b5ed71479994af1f2b0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kVocalOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a97b0787f7bc7a12d8aa9c451626252df</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga97b0787f7bc7a12d8aa9c451626252df</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwinds</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>ab6f7ddec4db62d879f3d4147da295e5d</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab6f7ddec4db62d879f3d4147da295e5d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a4c985b65f095bd5bf25adb95490c26ab</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4c985b65f095bd5bf25adb95490c26ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsFlute</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a1b594039765ec814407ab25b574177e3</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1b594039765ec814407ab25b574177e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsOboe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a40a881c8d3a7bc7f6688195400ba35dc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga40a881c8d3a7bc7f6688195400ba35dc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsEnglHorn</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aab8ddc7cc6aa5f6c1b3383b7ba109c65</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaab8ddc7cc6aa5f6c1b3383b7ba109c65</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsClarinet</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a76398345f57877810ceeb6db295a08a8</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga76398345f57877810ceeb6db295a08a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsSaxophone</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a685ce7454b4f454c4f2e36b40d215fab</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga685ce7454b4f454c4f2e36b40d215fab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsBassoon</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>aa7909c8fc3a72ec802f1163f7bf78a1b</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa7909c8fc3a72ec802f1163f7bf78a1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWoodwindsOther</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html</anchorfile>
-      <anchor>a850425dd3f6d9938ccbbee6158316bbc</anchor>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga850425dd3f6d9938ccbbee6158316bbc</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -13777,764 +13783,764 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndie</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2283c2c777c7cbb21710e11ef2ceb6af</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2283c2c777c7cbb21710e11ef2ceb6af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieGothRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5efb4dfb4fef27ded5062173093bbaa1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5efb4dfb4fef27ded5062173093bbaa1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieGrunge</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a611a7833ad99ac643e6662ad0c735437</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga611a7833ad99ac643e6662ad0c735437</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieNewWave</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0d9c9e5d1d7762b13270a0cd388b2d7e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0d9c9e5d1d7762b13270a0cd388b2d7e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndiePunk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2b8b2179cf8d2b74f6c0eb2abb563a80</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2b8b2179cf8d2b74f6c0eb2abb563a80</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieCollegeRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8881386092fc55d2c4ed31ca0d3acd22</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8881386092fc55d2c4ed31ca0d3acd22</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieDarkWave</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4e60a460c89c2aa3f05c8e15c4a74b76</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4e60a460c89c2aa3f05c8e15c4a74b76</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAlternativeIndieHardcore</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a080e7eebf7cfeef648604aab356d9249</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga080e7eebf7cfeef648604aab356d9249</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOut</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa5aa1cc4f7a5cf8fbcb025f426225676</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa5aa1cc4f7a5cf8fbcb025f426225676</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutNewAgeMeditation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab17d3d9dbddf245300a0e581f27d2b21</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab17d3d9dbddf245300a0e581f27d2b21</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutDarkAmbient</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a33320722a4e37a0dbe61f8957a77fcb8</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33320722a4e37a0dbe61f8957a77fcb8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutDowntempo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5af88b6815b44014176a2bf68aabca6f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5af88b6815b44014176a2bf68aabca6f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbientChillOutLounge</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1abdca80184a162d425c61f053530dea</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1abdca80184a162d425c61f053530dea</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a070e85734aa0ebd786f2c8ff8dca8301</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga070e85734aa0ebd786f2c8ff8dca8301</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesAcousticBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a427cc44ab600473801a7d50bef343e2f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga427cc44ab600473801a7d50bef343e2f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesCountryBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3ccf2f159b7b1becbe0d64f4688f7f4e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ccf2f159b7b1becbe0d64f4688f7f4e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesElectricBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a60c65b0575b241924ccfcc59fa7dccaf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga60c65b0575b241924ccfcc59fa7dccaf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kBluesChicagoBlues</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5043e48daf7d4433d082c9d726b90a2b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5043e48daf7d4433d082c9d726b90a2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassical</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a00100f8944908f3f674b077b8e7bf5ae</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga00100f8944908f3f674b077b8e7bf5ae</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalBaroque</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a54a477d7f94dacdfa325bdf693d180ab</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga54a477d7f94dacdfa325bdf693d180ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalChamberMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a817fef9aabf571d6f91e357efc677040</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga817fef9aabf571d6f91e357efc677040</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalMedieval</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aabb6cafa41915dc3a4ebb19d35aeb3be</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaabb6cafa41915dc3a4ebb19d35aeb3be</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalModernComposition</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa61b32582345fd12bd9d2140c174a25f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa61b32582345fd12bd9d2140c174a25f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalOpera</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aaa8a189a2e24961319d1e26349aa8a9a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa8a189a2e24961319d1e26349aa8a9a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalGregorian</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abd559febaa875cac883dc20517965d19</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabd559febaa875cac883dc20517965d19</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalRenaissance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8f9739caabbf232d50b1b1b449ab1491</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8f9739caabbf232d50b1b1b449ab1491</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalClassic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1a1b8c73dee78995dfc73a9cbe1855fa</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1a1b8c73dee78995dfc73a9cbe1855fa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalRomantic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad822300e6782c9fc490f073c880403ef</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad822300e6782c9fc490f073c880403ef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kClassicalSoundtrack</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad28cde471461898b52b6cd7aefe1fad9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad28cde471461898b52b6cd7aefe1fad9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountry</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aaa2fa8f51e39b78604c752001cbef8c6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa2fa8f51e39b78604c752001cbef8c6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryCountryWestern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a613bd6f52125a615d0e1bef58463e6cb</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga613bd6f52125a615d0e1bef58463e6cb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryHonkyTonk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac05e574ca2ece383b72b5ee429506988</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac05e574ca2ece383b72b5ee429506988</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryUrbanCowboy</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abc94ae94e43d1ae9a453f5033f2f6bf4</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabc94ae94e43d1ae9a453f5033f2f6bf4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryBluegrass</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a56cc1195da3ec7bc16d67a303c489c6a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga56cc1195da3ec7bc16d67a303c489c6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryAmericana</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8a240fc37b335deb7063b9bbf959ba90</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8a240fc37b335deb7063b9bbf959ba90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountrySquaredance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7b9a2584ff4f1501c9a24a8754f1f526</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7b9a2584ff4f1501c9a24a8754f1f526</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCountryNorthAmericanFolk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1578d35d598b30c1a8aca33c94e33213</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1578d35d598b30c1a8aca33c94e33213</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a9e3c1f6becf1b50e07e2d8212fadea0d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9e3c1f6becf1b50e07e2d8212fadea0d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceMinimal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a2acd1ccf8c493d7055288674c243e7f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2acd1ccf8c493d7055288674c243e7f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceClassicHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad2581a6189feb88d716b6c81c5efa79b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad2581a6189feb88d716b6c81c5efa79b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElektroHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad6c238193c96a2f320bb158fc0cb36b6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad6c238193c96a2f320bb158fc0cb36b6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceFunkyHouse</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac697bd7d2476a3f522e0c12f4f9096c7</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac697bd7d2476a3f522e0c12f4f9096c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceIndustrial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a43aa90fa2a5718ec3f233186bef3b745</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga43aa90fa2a5718ec3f233186bef3b745</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElectronicBodyMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4c9fd026e505a151e4ebcb41a026a273</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c9fd026e505a151e4ebcb41a026a273</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTripHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a27a783d5bce0708e88414cd4de0ffc3b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga27a783d5bce0708e88414cd4de0ffc3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTechno</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a66d567db513649b64572ec56ec721a13</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga66d567db513649b64572ec56ec721a13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceDrumNBassJungle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aa1a66bada350ea5f47e8c296bd3482b1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa1a66bada350ea5f47e8c296bd3482b1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceElektro</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac613b9e387a4a4e424dbdd7925a842f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac613b9e387a4a4e424dbdd7925a842f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceTrance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae1734ba060074a2d5f5bc4aadb1b4693</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae1734ba060074a2d5f5bc4aadb1b4693</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceDub</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4bf8090a24491f751c9d75218ba8ffc6</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4bf8090a24491f751c9d75218ba8ffc6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kElectronicaDanceBigBeats</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a04e06e3becb8bca4036fd5856682a393</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04e06e3becb8bca4036fd5856682a393</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimental</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a13e10384c541982e7ebea23ae4cc0057</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga13e10384c541982e7ebea23ae4cc0057</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalNewMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a9d42a1c28d4a1b6e725783290a949f04</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9d42a1c28d4a1b6e725783290a949f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalFreeImprovisation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a988ed6ba9f31ff90849bfe159dbb56f2</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga988ed6ba9f31ff90849bfe159dbb56f2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalElectronicArtMusic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad14a4491132f9255427a1dfbb53f684a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad14a4491132f9255427a1dfbb53f684a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kExperimentalNoise</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6d711a097823788b80c4373b0df67287</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6d711a097823788b80c4373b0df67287</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae80ee561e4da8da1de90835e41f0fc7f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae80ee561e4da8da1de90835e41f0fc7f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzNewOrleansJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0ade597c6d17afc9e6cf4a7bdf34de9b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ade597c6d17afc9e6cf4a7bdf34de9b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzTraditionalJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6099a9381244ca72562a7b8226c619b9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6099a9381244ca72562a7b8226c619b9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzOldtimeJazzDixiland</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a04fc9ede978682cf37a56876ba9dba9d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04fc9ede978682cf37a56876ba9dba9d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzFusion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a847f04e92eee76df8f6c6592da0cea2a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga847f04e92eee76df8f6c6592da0cea2a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzAvantgarde</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac6cbbbd37ada9f3f26657db8cc6065f0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac6cbbbd37ada9f3f26657db8cc6065f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzLatinJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a0ee890f05a7479865af9eda6d34bc857</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ee890f05a7479865af9eda6d34bc857</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzFreeJazz</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a5fcff8a8096b40b9e05427c944a2e295</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5fcff8a8096b40b9e05427c944a2e295</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kJazzRagtime</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac2b3067f7b9b92ffe14a1b15b0bed83b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac2b3067f7b9b92ffe14a1b15b0bed83b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a92057d09ae8339165840fd850e77868d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga92057d09ae8339165840fd850e77868d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopBritpop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a886ab03c6a77598d7e78c3a6ec922441</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga886ab03c6a77598d7e78c3a6ec922441</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a772e326e01f9245ba8a8177301a55d4c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga772e326e01f9245ba8a8177301a55d4c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopTeenPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7e047957551e02185723581a1880086e</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7e047957551e02185723581a1880086e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopChartDance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6f9e30f2b18f2f639fefbb38b1d2d3e3</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f9e30f2b18f2f639fefbb38b1d2d3e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPop80sPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a6f3a96aeedf52ae2691056c3f1535578</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f3a96aeedf52ae2691056c3f1535578</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopDancehall</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>afdb7e50d604be148bcab627102c66a3b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gafdb7e50d604be148bcab627102c66a3b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPopDisco</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4cfb53a16c9ad176d8c2a3b9a4a267a1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4cfb53a16c9ad176d8c2a3b9a4a267a1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ade4f6c22997daaed1a372dd09b358068</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gade4f6c22997daaed1a372dd09b358068</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalBluesRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ac1c59279027338732b37420973755dd9</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac1c59279027338732b37420973755dd9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalClassicRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a52b06f4c922bceb8a7af486f8f9e8ead</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga52b06f4c922bceb8a7af486f8f9e8ead</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalHardRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab7fc6fc1b343016898c32d9095895973</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7fc6fc1b343016898c32d9095895973</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalRockRoll</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>af044a0ecefea571e16b30b82a1becf04</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf044a0ecefea571e16b30b82a1becf04</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalSingerSongwriter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4c7fb7c56f3573b219287833e847113c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c7fb7c56f3573b219287833e847113c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalHeavyMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1b66689bf69717c4af8ad85835737acf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1b66689bf69717c4af8ad85835737acf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalDeathBlackMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a370c692d8ab858d11bff12c0ea4c779c</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga370c692d8ab858d11bff12c0ea4c779c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalNuMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a1e43c81772b3227d2239c4c869194733</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1e43c81772b3227d2239c4c869194733</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalReggae</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ab7285dab701bff67bb281688a4c1b93a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7285dab701bff67bb281688a4c1b93a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalBallad</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3e6375ad794af9ad7c9e79f61ce422de</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3e6375ad794af9ad7c9e79f61ce422de</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalAlternativeRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a679697a95e28deb4eb0ab2dcdeca114a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga679697a95e28deb4eb0ab2dcdeca114a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalRockabilly</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a646cb827580fbdb5631167f300e2d7c5</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga646cb827580fbdb5631167f300e2d7c5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalThrashMetal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a4367d681da9e6a9259373fe33bd58162</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4367d681da9e6a9259373fe33bd58162</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kRockMetalProgressiveRock</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>af74e7f4e41c15f2e271cc15b512b2fbf</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf74e7f4e41c15f2e271cc15b512b2fbf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRB</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ad9fdad7b31d648bbf64bc2333bc3ecab</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad9fdad7b31d648bbf64bc2333bc3ecab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBClassic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae828f62557a162b35e08774fe73e4b59</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae828f62557a162b35e08774fe73e4b59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBModern</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3089241b92ddf52d670f6339c57ff321</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3089241b92ddf52d670f6339c57ff321</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBPop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a03a11de347ee7fbfa80f6040e5838c06</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga03a11de347ee7fbfa80f6040e5838c06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBWestCoastHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a31d1f86b5f8a0281d2a85f7ae6e40d10</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga31d1f86b5f8a0281d2a85f7ae6e40d10</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBEastCoastHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a91a0592eb755912d7fbf4b7f78387707</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga91a0592eb755912d7fbf4b7f78387707</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBRapHipHop</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3dd2ebf4652bdc7f67e804099495ad1b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3dd2ebf4652bdc7f67e804099495ad1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBSoul</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a853a4803393e2d1684fe32e5adafcffe</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga853a4803393e2d1684fe32e5adafcffe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUrbanHipHopRBFunk</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>adab3d1a08820555d8cc2eccba5a2414d</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gadab3d1a08820555d8cc2eccba5a2414d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a7fc43124278803213779023493bec46b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7fc43124278803213779023493bec46b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAfrica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a24447081033911845dd5279102bf075b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga24447081033911845dd5279102bf075b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAsia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a09caf2a39534495b771aa65a0d969ad1</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga09caf2a39534495b771aa65a0d969ad1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicCeltic</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a17f0e511cbcdedf14156ba499a54d615</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga17f0e511cbcdedf14156ba499a54d615</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicEurope</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>abbce5b2144aac1d57742c746de8ef78b</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabbce5b2144aac1d57742c746de8ef78b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicKlezmer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a8db09e3dd05ef85ce88a038472cc04af</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8db09e3dd05ef85ce88a038472cc04af</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicScandinavia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3ae32b316261fa76c8d7ca0e9790871f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ae32b316261fa76c8d7ca0e9790871f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicEasternEurope</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aff54f68acdbdbbbed6054f5c9b17ba8a</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaff54f68acdbdbbbed6054f5c9b17ba8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicIndiaOriental</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a33a8a991563a9d73923525ddd29e79a0</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33a8a991563a9d73923525ddd29e79a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicNorthAmerica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>a3d85eb586a37b5a6082a6d1708d91592</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3d85eb586a37b5a6082a6d1708d91592</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicSouthAmerica</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>aad0a8d9f7a2cef071860eee02948c556</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaad0a8d9f7a2cef071860eee02948c556</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kWorldEthnicAustralia</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MusicalStyle.html</anchorfile>
-      <anchor>ae08118ff90a70fbd90e1979aa1a33c9f</anchor>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae08118ff90a70fbd90e1979aa1a33c9f</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -14544,267 +14550,267 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kFxAnalyzer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDelay</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae3635bf778d4382234cbcfc30d71db16</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDistortion</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxDynamics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa892f409ac4c930c1af59459372c167b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxEQ</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxFilter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a0411b97bcc13d604e738a28aee43bb61</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>abe030351fd22d14dad35c817e1849f59</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxInstrumentExternal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxSpatial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxGenerator</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a09060af560cf34b87e14d5dbd839ad52</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxMastering</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a80ed69d85e565772a138ead6b8feff70</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxModulation</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxPitchShift</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a2b2725f60cbf68e604c85b125937f553</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxRestoration</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxReverb</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ad51565b155d38402b8660fca0d78927f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxTools</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFxNetwork</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1644feff4e06fa14952bf64ee211003f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentDrum</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>adf01865c24020885cb974f200403351c</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadf01865c24020885cb974f200403351c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentExternal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>af0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentPiano</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSampler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSynth</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrumentSynthSampler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSpatial</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>aa334568999d986b4e50627646e51a8b4</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSpatialFx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyRealTime</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyOfflineProcess</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kOnlyARA</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kNoOfflineProcess</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kUpDownMix</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a9b7a9613e51e1f218461d3167dd50306</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAnalyzer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>adbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kAmbisonics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ad515322344056aab9256d76a6787eb42</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>ae8acdf9398f33322690596dc2d00318f</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PlugType.html</anchorfile>
-      <anchor>a6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -14814,64 +14820,64 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kPlugInName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>acbad3647c9f27b2777cb6a3cd24fe49e</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gacbad3647c9f27b2777cb6a3cd24fe49e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kPlugInCategory</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a56f939f21fb570350d3360b1e7254245</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga56f939f21fb570350d3360b1e7254245</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kInstrument</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStyle</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>ac45345491383374f12e9e5a8835ef584</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gac45345491383374f12e9e5a8835ef584</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kCharacter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a166d8e939e25f23c6e1c5125e89d5f13</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga166d8e939e25f23c6e1c5125e89d5f13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStateType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>aefefe46f30651266cc9ccc8908409552</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gaefefe46f30651266cc9ccc8908409552</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFilePathStringType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>ad5fe1f71ae69e7b4daaf0e79130930c3</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gad5fe1f71ae69e7b4daaf0e79130930c3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a0700a0c20b2ccab1debe99a8a815534d</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga0700a0c20b2ccab1debe99a8a815534d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kFileName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1PresetAttributes.html</anchorfile>
-      <anchor>a94927840ff999e51218b78a405316220</anchor>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga94927840ff999e51218b78a405316220</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -14888,92 +14894,92 @@
     <member kind="function">
       <type>int32</type>
       <name>getSpeakerIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5e43f8bd9b65e001e85706fb6229e54d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e43f8bd9b65e001e85706fb6229e54d</anchor>
       <arglist>(Speaker speaker, SpeakerArrangement arrangement)</arglist>
     </member>
     <member kind="function">
       <type>Speaker</type>
       <name>getSpeaker</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a365c311dce7ea3c41e6674d0c31893d9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga365c311dce7ea3c41e6674d0c31893d9</anchor>
       <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isSubsetOf</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af586d67f2382fd76829515ec1a845f0d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf586d67f2382fd76829515ec1a845f0d</anchor>
       <arglist>(const SpeakerArrangement &amp;arrSubSet, const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isAuro</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa3a2c80faffa004172a77e983fd1d4ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa3a2c80faffa004172a77e983fd1d4ba</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasTopSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2fd1d5b534428e6414e46829089313f9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fd1d5b534428e6414e46829089313f9</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasBottomSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a20ceaf9e134bcb9d31d268f2bca6f990</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga20ceaf9e134bcb9d31d268f2bca6f990</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasMiddleSpeakers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8560db7870831957b1862d500a9707b1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8560db7870831957b1862d500a9707b1</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>hasLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae80135ca5a48c012ae56eba60aed8ba7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae80135ca5a48c012ae56eba60aed8ba7</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>is3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae5b25533bf821c6470e9d5a8d37b2f08</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae5b25533bf821c6470e9d5a8d37b2f08</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isAmbisonics</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1eb079a06c32ed8dfe5640d1ea129beb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1eb079a06c32ed8dfe5640d1ea129beb</anchor>
       <arglist>(const SpeakerArrangement &amp;arr)</arglist>
     </member>
     <member kind="function">
       <type>SpeakerArrangement</type>
       <name>getSpeakerArrangementFromString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae59865c6f6e439696b408a8e3a35fb67</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae59865c6f6e439696b408a8e3a35fb67</anchor>
       <arglist>(CString arrStr)</arglist>
     </member>
     <member kind="function">
       <type>CString</type>
       <name>getSpeakerArrangementString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8f3040f601ddc82b7ff76bd0ac66b32b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f3040f601ddc82b7ff76bd0ac66b32b</anchor>
       <arglist>(SpeakerArrangement arr, bool withSpeakersName)</arglist>
     </member>
     <member kind="function">
       <type>CString</type>
       <name>getSpeakerShortName</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aea8fb2e63d819b83b1811645b5f5c0a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaea8fb2e63d819b83b1811645b5f5c0a0</anchor>
       <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
     </member>
     <member kind="variable">
@@ -14986,547 +14992,554 @@
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a571ff835d603ec5e98e54f1e0feca20e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga571ff835d603ec5e98e54f1e0feca20e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9b5733786c71156513982991fa5f3c11</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9b5733786c71156513982991fa5f3c11</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoSurround</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aad38856abd90805d1e85fe737677bbe8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad38856abd90805d1e85fe737677bbe8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a44710b9a538279e604b98213e8acdbec</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44710b9a538279e604b98213e8acdbec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoSide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a98918bef7ba906d9b970ba49fb02a742</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga98918bef7ba906d9b970ba49fb02a742</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoCLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abec483e2214863d8fbfd2f68815647a8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabec483e2214863d8fbfd2f68815647a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a350fe92a4a9f185ff5a7141e7cbada14</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga350fe92a4a9f185ff5a7141e7cbada14</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a87a09b7b3ca62380f9203bcf6560a3a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87a09b7b3ca62380f9203bcf6560a3a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoTR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab4b759bc9adbcb09a13453cab2916281</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab4b759bc9adbcb09a13453cab2916281</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kStereoBF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adad8ca7e56a1171c6439875261ab1ce0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadad8ca7e56a1171c6439875261ab1ce0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kCineFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adfcb28a735791e8b21d3150fa254a4fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadfcb28a735791e8b21d3150fa254a4fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k30Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a32b8626cc036129ae6465115e7d33c5a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga32b8626cc036129ae6465115e7d33c5a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k31Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a925534b26c3f13772f0363b44de830fb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga925534b26c3f13772f0363b44de830fb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k30Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8848385489d48df96843cd8022dbbfe1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8848385489d48df96843cd8022dbbfe1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k31Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a34fbc53e44aafa8ca50155a58bd056fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34fbc53e44aafa8ca50155a58bd056fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k40Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac1c674ad48a47ead5c1bd0b4d0e6611a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac1c674ad48a47ead5c1bd0b4d0e6611a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k41Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa70d2ecf42316dbf7ea9147384b1d16b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa70d2ecf42316dbf7ea9147384b1d16b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k40Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2133b89c1fce6c11540a55ede3d00715</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2133b89c1fce6c11540a55ede3d00715</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k41Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac3ec49935f60ef5a877f21c6225274f5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac3ec49935f60ef5a877f21c6225274f5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k50</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ada66cacb0407add2f87505ba08b98095</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gada66cacb0407add2f87505ba08b98095</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k51</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5ed1fd3424cda0c720d08dab3cdacdec</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5ed1fd3424cda0c720d08dab3cdacdec</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k60Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5c5769c0eac0d76ff06cc2b95cf15ca9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c5769c0eac0d76ff06cc2b95cf15ca9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k61Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af60226cc4b55554791dedf5ac9c6b46c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf60226cc4b55554791dedf5ac9c6b46c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k60Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adf94b622b8d58c498a49d37d9561f535</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf94b622b8d58c498a49d37d9561f535</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k61Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7c2a763f2db01800286568722f724c30</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7c2a763f2db01800286568722f724c30</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a957c53627e5492b9b62190be390255c1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga957c53627e5492b9b62190be390255c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a153beb2d5d562ed4fc8643bf51c711d8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga153beb2d5d562ed4fc8643bf51c711d8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFullFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a329178a60998946671c5de893797dddf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga329178a60998946671c5de893797dddf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2fb8698f83d75be166b99fdbce9e82f1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fb8698f83d75be166b99fdbce9e82f1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a0dbaa8d90949e4084abb7878a5d5f91b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0dbaa8d90949e4084abb7878a5d5f91b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFullRear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50d89ea22e10fe3acadb02c071288776</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d89ea22e10fe3acadb02c071288776</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineSideFill</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a27352e019fb6f0d3b4d10b643f79d813</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga27352e019fb6f0d3b4d10b643f79d813</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71Proximity</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9ad1279216eaac4c4c2cd665e6d61c82</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9ad1279216eaac4c4c2cd665e6d61c82</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2ebfc79a0e5ef338247e31239967632d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2ebfc79a0e5ef338247e31239967632d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afae2531e75a317dd357fa09074fab4f6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafae2531e75a317dd357fa09074fab4f6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae026a8a57e8a9a408320616a0d289ece</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae026a8a57e8a9a408320616a0d289ece</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4c68f76511df6119eca847b005105cd5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4c68f76511df6119eca847b005105cd5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6e5bea49421b1e65cb9e8e098436cc56</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e5bea49421b1e65cb9e8e098436cc56</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6d6ccb80d89619c8085ac9a7283fc248</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d6ccb80d89619c8085ac9a7283fc248</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k100Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab0c0067c64c879551949be762f600af7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab0c0067c64c879551949be762f600af7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a87d1b8523518919bb9637a004c00448c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87d1b8523518919bb9637a004c00448c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi1stOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a02d21f6bfee6423fceb6a3695954c33b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga02d21f6bfee6423fceb6a3695954c33b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi2cdOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6117e1aa058a519559fbea82adb0aa69</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6117e1aa058a519559fbea82adb0aa69</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>kAmbi3rdOrderACN</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b19ef3d9cbdfb96c008f4586b186997</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b19ef3d9cbdfb96c008f4586b186997</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k80Cube</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a44ee3dd3579cc26082915d76a28be70f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44ee3dd3579cc26082915d76a28be70f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineTopCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9c79cded90ddc1a1e366e1fbf4315334</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9c79cded90ddc1a1e366e1fbf4315334</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineCenterHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afca48c099db5b486edc4a79616b3f024</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafca48c099db5b486edc4a79616b3f024</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineFrontHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8e2c48c3830b09da02e7bb123f5916bd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8e2c48c3830b09da02e7bb123f5916bd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af21f025b23bb45133395657787f88a13</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf21f025b23bb45133395657787f88a13</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71CineSideHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a300b4574ad12477ff99286519b754dfe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga300b4574ad12477ff99286519b754dfe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k81MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1d7c7f813f01cd3f4478ecc81e46e82c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1d7c7f813f01cd3f4478ecc81e46e82c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab04f1f4652d14e277671a0b62a8e8373</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab04f1f4652d14e277671a0b62a8e8373</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k50_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ade838b7c4cdbe2c7a8357e2cb710baf2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gade838b7c4cdbe2c7a8357e2cb710baf2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac29f63756f056bf266ba0e2d26f143d4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac29f63756f056bf266ba0e2d26f143d4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k51_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9680715bcefe20b26397cab10f7fb18b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9680715bcefe20b26397cab10f7fb18b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4496b8a1fc103ed42e399eca71048d12</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4496b8a1fc103ed42e399eca71048d12</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa6ebca6edf27a3858c2780043ee022e6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6ebca6edf27a3858c2780043ee022e6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91Atmos</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a543a82154cd2675d7d8c4ef6680448dd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga543a82154cd2675d7d8c4ef6680448dd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6246a745fadd335ea2e8ba88b4a4e507</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6246a745fadd335ea2e8ba88b4a4e507</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae15aef0c82b6f1be96a54fb616a1a7cb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae15aef0c82b6f1be96a54fb616a1a7cb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k111MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aacb60df68338ad8f622ea9a1f01416c8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaacb60df68338ad8f622ea9a1f01416c8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k70_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afd2c7f480119d8c17a533fb8d5948fd8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafd2c7f480119d8c17a533fb8d5948fd8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k71_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa4e5066c1a84a30aeadd0e76b74d57ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa4e5066c1a84a30aeadd0e76b74d57ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6bbc13de7df2c9e8a7ff9950bd44ab39</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bbc13de7df2c9e8a7ff9950bd44ab39</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4f9e89d3c8dbbb4dac1e2cb67633615b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4f9e89d3c8dbbb4dac1e2cb67633615b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k90_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a88accb0a3074c3fb6eb3fdb490b21c62</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga88accb0a3074c3fb6eb3fdb490b21c62</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k91_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aaa5bdf5a10ab4f4930c1ecf4efeb3f95</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaaa5bdf5a10ab4f4930c1ecf4efeb3f95</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k100</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6cadcafb161f16aa7edcc676604e4def</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6cadcafb161f16aa7edcc676604e4def</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a13c1699c11fba17352b83a1b3a7cfcc8</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga13c1699c11fba17352b83a1b3a7cfcc8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k101MPEG3D</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad74c12ca20962432ba88df9807a9f156</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad74c12ca20962432ba88df9807a9f156</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k102</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a07bcd44b9922095ccd79f2195ad80e2b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07bcd44b9922095ccd79f2195ad80e2b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k110</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af19e8a3b3f0d3a2c0e9587f6cc9b1411</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf19e8a3b3f0d3a2c0e9587f6cc9b1411</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k111</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a740b694bcebcd228836a5610feeeb929</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga740b694bcebcd228836a5610feeeb929</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k122</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adac6b9c961b9ffdf682f8ff85ea6be64</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadac6b9c961b9ffdf682f8ff85ea6be64</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k130</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a58d4fdbfb02cceca73527bcbf17bf930</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga58d4fdbfb02cceca73527bcbf17bf930</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k131</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac672a7aa5cabd6a5d4c4441e6aadc925</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac672a7aa5cabd6a5d4c4441e6aadc925</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k140</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af7c32506aada727a39b6f30173a5a572</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf7c32506aada727a39b6f30173a5a572</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39dd41aa48652def01c2b774f3a46a02</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const SpeakerArrangement</type>
       <name>k222</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a80683d5816c4db7345c6e25dfdbc87a0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga80683d5816c4db7345c6e25dfdbc87a0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -15539,491 +15552,526 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kStringMono</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acc3c2f0d3a1a7cefebcd21afcaff0a33</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacc3c2f0d3a1a7cefebcd21afcaff0a33</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa8801dd84fb2f8566448a99c418d1185</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa8801dd84fb2f8566448a99c418d1185</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7baad18ef660784d5ed89c95d0f16aa9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7baad18ef660784d5ed89c95d0f16aa9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoC</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2057f29b65596edf1cb80ccc6a041b83</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2057f29b65596edf1cb80ccc6a041b83</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoSide</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abab50191c9f7c6a497f7d148cc3a9741</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabab50191c9f7c6a497f7d148cc3a9741</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCLfe</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa1f7cbf8a6fe0184d7ab51fcb3c4792a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1f7cbf8a6fe0184d7ab51fcb3c4792a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a39cdd95afef98e1901ebdb99183e91f2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39cdd95afef98e1901ebdb99183e91f2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af980dfe2b66f77f49e5cc064e29baf90</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf980dfe2b66f77f49e5cc064e29baf90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTR</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a31865a34aa4e3eca16df14729ff1629f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31865a34aa4e3eca16df14729ff1629f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoBF</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50527ffdd77c1df3a01d2656abdcfaca</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50527ffdd77c1df3a01d2656abdcfaca</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringCineFront</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5844248872630578a50942ea6be5da50</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5844248872630578a50942ea6be5da50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a546feab92a740e05c378ee7ac40f35cd</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga546feab92a740e05c378ee7ac40f35cd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a53f43e261801293edcef4a1ad84b279d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga53f43e261801293edcef4a1ad84b279d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1e80c914f10746070e3ffe6e85eb5c1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1e80c914f10746070e3ffe6e85eb5c1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a137e13924264d25e2b23315c90a1a735</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga137e13924264d25e2b23315c90a1a735</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6bb5e6215f1f55441b2d63e1da3d826d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bb5e6215f1f55441b2d63e1da3d826d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a0f4c3361e3f81439c234f22f2c526829</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0f4c3361e3f81439c234f22f2c526829</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8b4f4ca5b48687d28d352f0fcfae57df</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8b4f4ca5b48687d28d352f0fcfae57df</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9a75f791d9b04c26b732bc3501c26ee6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9a75f791d9b04c26b732bc3501c26ee6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a67879f0e2d9733cd1a725c10b6bd41ac</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga67879f0e2d9733cd1a725c10b6bd41ac</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad0d54db82db6123d96d1f586b443bca3</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad0d54db82db6123d96d1f586b443bca3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6a60a614644af6eb7185b1ca3c863146</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6a60a614644af6eb7185b1ca3c863146</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a792624a39e54bdeb84703f79b9180370</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga792624a39e54bdeb84703f79b9180370</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7664212680fd954f8d3bdec7ee52a0a5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7664212680fd954f8d3bdec7ee52a0a5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac847eadaa1938e45601af71cb37737b5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac847eadaa1938e45601af71cb37737b5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a605e76c32caeb4f0d85ada0ffd422b89</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga605e76c32caeb4f0d85ada0ffd422b89</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34a5ea5d19e507a4cc75aaf5ca038e70</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5bda8dedc7edcfa8f36b5a99509c9449</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5bda8dedc7edcfa8f36b5a99509c9449</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35ac01519b72d4f2ebc88a7621467378</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3475b1b161d22aca3939960e461307a5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3475b1b161d22aca3939960e461307a5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e0d74b112ae74fe8e74dc190db3b01b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8840a665e6fa4dac19167726473d6072</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8840a665e6fa4dac19167726473d6072</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa259ec989476ec18dd30dbbe9edaa6a8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineTopCenter</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6f792b0962f42ec4f133cb64de72d31e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6f792b0962f42ec4f133cb64de72d31e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineCenterHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abbfecee6091fbab1bbd2d3e073b86f5d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabbfecee6091fbab1bbd2d3e073b86f5d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFrontHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1447af9f22f48e0d039569b10a17aec2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1447af9f22f48e0d039569b10a17aec2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineSideHigh</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad8deb48b287d7520c56e233f8020243c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad8deb48b287d7520c56e233f8020243c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFullRear</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab78c124e88ad66fcd06aa09f3871320e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab78c124e88ad66fcd06aa09f3871320e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71Proximity</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a30a288eb79dfa6b08afb569234e831d2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga30a288eb79dfa6b08afb569234e831d2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae7259d85e37e87f3734e0645a890312b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae7259d85e37e87f3734e0645a890312b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a35c11fa95eb4ed5340307b725c53180d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35c11fa95eb4ed5340307b725c53180d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80Cube</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae9dde9509cd3485e2976e44ec37e2491</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae9dde9509cd3485e2976e44ec37e2491</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af949196ba6ad50b12f2522524ae2079a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf949196ba6ad50b12f2522524ae2079a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81Music</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a301aef980be40689f6a32d2f2ea5990d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga301aef980be40689f6a32d2f2ea5990d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa72e158f204f9834347b1d811f0e1e1c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa72e158f204f9834347b1d811f0e1e1c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac31faedafc0d6ef570cb6b5098b189b2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac31faedafc0d6ef570cb6b5098b189b2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a42ee84421893fe9759b400d0bd3becaf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga42ee84421893fe9759b400d0bd3becaf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101Cine</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4623d9c5afc0883aa25409a89fc4b01c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4623d9c5afc0883aa25409a89fc4b01c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString102</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab514f5233daf9f0d39022eaf6bc3ee39</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab514f5233daf9f0d39022eaf6bc3ee39</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString122</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac4932606e4ac1473f0da939a03172e4a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac4932606e4ac1473f0da939a03172e4a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acfc39ea40d9b3ee2c64ee332aadf9dc5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacfc39ea40d9b3ee2c64ee332aadf9dc5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3087980012d3e5dee03f977677790623</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3087980012d3e5dee03f977677790623</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a45b8a48950dee4f9713bda0a5b9ca196</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga45b8a48950dee4f9713bda0a5b9ca196</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aeed20d0347a2ea4100a9b58990c5bcc1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaeed20d0347a2ea4100a9b58990c5bcc1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abff1c300f5f6d675842dc5e8492b973e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabff1c300f5f6d675842dc5e8492b973e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad07e3ef7063ba3b63b8699fceab70e14</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad07e3ef7063ba3b63b8699fceab70e14</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a07019a8f7d26ec6d67e3b21a4909ad50</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07019a8f7d26ec6d67e3b21a4909ad50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a49ccafdb4653781c17fa20f933a29af2</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga49ccafdb4653781c17fa20f933a29af2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a28381a787f5d2e84e16067329d0efc00</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga28381a787f5d2e84e16067329d0efc00</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_4</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3b0b6d1ed6af07daa84a016f9a594d59</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3b0b6d1ed6af07daa84a016f9a594d59</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa1fe4d708fa32e7b1ddeb892fa073509</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1fe4d708fa32e7b1ddeb892fa073509</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_6</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab8ec511d08a024efcfc54258ddaf48cf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8ec511d08a024efcfc54258ddaf48cf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a230095c9378b6f8cac9f14120786423f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga230095c9378b6f8cac9f14120786423f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2d2b7fc9562b4aec27425a1f46e6b5b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2d2b7fc9562b4aec27425a1f46e6b5b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString110</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a403a29103a9bfa626785cfc61bcce1d3</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga403a29103a9bfa626785cfc61bcce1d3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString111</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a05776481c1feeb8db0bd8a8f9fd7bcdc</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga05776481c1feeb8db0bd8a8f9fd7bcdc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString130</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac7d25b1cc65c51e76c225ae50c4116ba</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac7d25b1cc65c51e76c225ae50c4116ba</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString131</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af610b7be568618c5d5c3aa20d4cf2ecb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf610b7be568618c5d5c3aa20d4cf2ecb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MPEG</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a86ba0d184e2fd6b86e876d5a7343cc5c</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86ba0d184e2fd6b86e876d5a7343cc5c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString140</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a030afab00e1f4278f53911d4a89a7b98</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga030afab00e1f4278f53911d4a89a7b98</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString222</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aad33c8ed818e1d8f2a30195dadf50af9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad33c8ed818e1d8f2a30195dadf50af9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaebcce0418f6b0300b6f862766f7f58e2</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi1stOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae989a0ed646d1b90e700b6599b87e9c5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae989a0ed646d1b90e700b6599b87e9c5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi2cdOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a57421a0b5dd2faacfc03c8b4df47c626</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga57421a0b5dd2faacfc03c8b4df47c626</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi3rdOrder</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab530c1e2f6dfd766cfb9f1b4f11b6ddf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab530c1e2f6dfd766cfb9f1b4f11b6ddf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -16036,484 +16084,491 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a54144ab0e1dd2babcf5e720950cf7e24</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54144ab0e1dd2babcf5e720950cf7e24</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoRS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a63f3673e0a9ad13c3788b583d4fac61b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga63f3673e0a9ad13c3788b583d4fac61b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3cb0fc4337ff0f43bf119b20c7f5d810</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3cb0fc4337ff0f43bf119b20c7f5d810</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoSS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a22b0cac49e8ef5b3d9a1836abd021720</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga22b0cac49e8ef5b3d9a1836abd021720</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoCLfeS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aa6cc8eae43caf89b778136bbb05fc09a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6cc8eae43caf89b778136bbb05fc09a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTFS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acff5991a9dd2a3d5a415d499bcfd681b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacff5991a9dd2a3d5a415d499bcfd681b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTSS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ad25d6a1fe574b28440e6b95d94978edb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad25d6a1fe574b28440e6b95d94978edb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoTRS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac777248ebd6fa592c82b7bcb78f9301e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac777248ebd6fa592c82b7bcb78f9301e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringStereoBFS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8a0f76c380e173edac9016a3dcfc45bb</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8a0f76c380e173edac9016a3dcfc45bb</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringCineFrontS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a19addfe92087609dea4ef8c257becfbf</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19addfe92087609dea4ef8c257becfbf</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>adf31296b53805c54ae5563807650b24e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf31296b53805c54ae5563807650b24e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString30MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aae88a2f1492097d9d64e073cd7943722</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaae88a2f1492097d9d64e073cd7943722</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7e65cdf6a6fc4d8aeffc59a7b1a66a1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7e65cdf6a6fc4d8aeffc59a7b1a66a1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString31MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b7e67dba5f5333b64eb847d3d78668d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b7e67dba5f5333b64eb847d3d78668d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a531abc9ded9f3e0474010cdb22557d0d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga531abc9ded9f3e0474010cdb22557d0d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString40MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a51fdeb3143151508f6d94344431ce9de</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga51fdeb3143151508f6d94344431ce9de</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a3789962208da8454667b34aa666981db</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3789962208da8454667b34aa666981db</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString41MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a54a60dca7c8b8556b398867c51dc1e00</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54a60dca7c8b8556b398867c51dc1e00</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab8903815699fa69a4fd8ec717317dc29</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8903815699fa69a4fd8ec717317dc29</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afbb743a8f1f0002bae234e2d5910ee8a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafbb743a8f1f0002bae234e2d5910ee8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a16ff5025a411dc1c3b7fc305dfe53073</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga16ff5025a411dc1c3b7fc305dfe53073</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString60MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2533387651492af2317e897bd94bf26</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2533387651492af2317e897bd94bf26</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a2f2f2eb56bcf2977ad670a752c69d793</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2f2f2eb56bcf2977ad670a752c69d793</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString61MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a81d034a4b036e9e9bd0be527711db6fc</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81d034a4b036e9e9bd0be527711db6fc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae72794cddb19856e3ec62e33d290176d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae72794cddb19856e3ec62e33d290176d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5f3a9a34dc5798908f848f0b881b8c06</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5f3a9a34dc5798908f848f0b881b8c06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4b10dc09ef678e66e90330f5b6b591d0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4b10dc09ef678e66e90330f5b6b591d0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aec8cf18e8bfd88584375e66b67fde24e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec8cf18e8bfd88584375e66b67fde24e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af3da1b6a98e9f9d01e8141f205f35764</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf3da1b6a98e9f9d01e8141f205f35764</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8204788aa5b2fce1730c157dc8a9239f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8204788aa5b2fce1730c157dc8a9239f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>afe30ad0333248d38dfd6a162879a97a6</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafe30ad0333248d38dfd6a162879a97a6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MusicS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5b7279077b689fa26044fc2520a413c7</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5b7279077b689fa26044fc2520a413c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString80CubeS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab5aedcc126b998d57c67be78255cd52b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab5aedcc126b998d57c67be78255cd52b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineTopCenterS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a006f007337addc5c126777bc9e9b774d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga006f007337addc5c126777bc9e9b774d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineCenterHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af0c13b30d128debc8f8976927a321f48</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0c13b30d128debc8f8976927a321f48</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFrontHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a19c9b28dd806c4a7cf532e33c4db7d1d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19c9b28dd806c4a7cf532e33c4db7d1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineSideHighS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a708f2bb3ba7a3f624acf291960ca7788</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga708f2bb3ba7a3f624acf291960ca7788</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71CineFullRearS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5e313aadeb060bc3dc88d17ca2e81a06</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e313aadeb060bc3dc88d17ca2e81a06</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71ProximityS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a86fc6ff2265855e22d3573786e05af2d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86fc6ff2265855e22d3573786e05af2d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a4a24b9cdab9b5ed5af4ae28cbe8f7205</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4a24b9cdab9b5ed5af4ae28cbe8f7205</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>abebe500b3d27127ae844c7fcabb854f0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabebe500b3d27127ae844c7fcabb854f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a341a094c1693e21946264eb706155c32</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga341a094c1693e21946264eb706155c32</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101CineS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a7ce63c640f335bc95fb4203dbe117a44</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7ce63c640f335bc95fb4203dbe117a44</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString50_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a8f720e94eddcbd5b60ad0bce56349883</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f720e94eddcbd5b60ad0bce56349883</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString51_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a076816df2f77a47f7ffa7f954624886a</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga076816df2f77a47f7ffa7f954624886a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_2S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ae4e0eb4b5b2a9d8be26313f2bacfdf0e</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae4e0eb4b5b2a9d8be26313f2bacfdf0e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_2S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a50d7d7630353ff6f0512be5aa2277fc4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d7d7630353ff6f0512be5aa2277fc4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a47554e8c117d0119288c796708533bd5</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga47554e8c117d0119288c796708533bd5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac09c0be94436acb5d49fe4fb69f13ffe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac09c0be94436acb5d49fe4fb69f13ffe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString70_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9286dbbe48dd048c6096935139c293e1</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9286dbbe48dd048c6096935139c293e1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString71_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9763b5d2b528848fc90deec34999ca90</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9763b5d2b528848fc90deec34999ca90</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6d4ef306235169341804482b1be208fe</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d4ef306235169341804482b1be208fe</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_4S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a1b17445201a92bee4c23dd16e5cd1728</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b17445201a92bee4c23dd16e5cd1728</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString90_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ac89dcac8a9acb594a3e406cc5241d650</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac89dcac8a9acb594a3e406cc5241d650</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString91_6S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>af0b16e15ff6616a3e481b879d3b4c53f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0b16e15ff6616a3e481b879d3b4c53f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString100S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>aec0be9229bbb0796d8d1c69e059e7501</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec0be9229bbb0796d8d1c69e059e7501</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString101S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a5c88990128aeaf6e70cf777e2e2e07f0</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c88990128aeaf6e70cf777e2e2e07f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString110S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>acd74a4610c5894723966b586ff76780b</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacd74a4610c5894723966b586ff76780b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString111S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a6520dd17a30ba116ac2877b28a1b8cc9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6520dd17a30ba116ac2877b28a1b8cc9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString130S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>accdab4f0e651d4c1b0b850e6c8edb9f4</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaccdab4f0e651d4c1b0b850e6c8edb9f4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString131S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a9cdfa2ff878225396509ca7b25af7f1f</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9cdfa2ff878225396509ca7b25af7f1f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString102S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a31de54f5e618a467f94a579550328644</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31de54f5e618a467f94a579550328644</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString122S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a800e2e69c905b5feaeda81ac24b3f653</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga800e2e69c905b5feaeda81ac24b3f653</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString81MPEGS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a78b0189e39c80c0bf5cec0ddcce73cf9</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga78b0189e39c80c0bf5cec0ddcce73cf9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString140S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a426116f26f987c030cf2bc70302aa219</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga426116f26f987c030cf2bc70302aa219</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kString222S</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab442cbf6e2447ea3a762e0c9c891d274</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab442cbf6e2447ea3a762e0c9c891d274</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9df1f69930cf3ab747d645b40ba073c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi1stOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a319dbf573206d0bb1a8b77e7f476548d</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga319dbf573206d0bb1a8b77e7f476548d</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi2cdOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>a81cbc11f839866ed8a91dc903e5a6d97</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81cbc11f839866ed8a91dc903e5a6d97</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kStringAmbi3rdOrderS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1SpeakerArr.html</anchorfile>
-      <anchor>ab2317fa07e1e7ee2cfce204a07945c40</anchor>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2317fa07e1e7ee2cfce204a07945c40</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -16523,15 +16578,15 @@
     <member kind="variable">
       <type>const CString</type>
       <name>kProject</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
-      <anchor>a89eaf816243da36726dfe2656c266a4c</anchor>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga89eaf816243da36726dfe2656c266a4c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const CString</type>
       <name>kDefault</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
-      <anchor>a4f34c8d0372a9d06a2713fd488ece66e</anchor>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga4f34c8d0372a9d06a2713fd488ece66e</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -16547,219 +16602,2586 @@
     </member>
   </compound>
   <compound kind="group">
-    <name>vstEventGrp</name>
-    <title>Events supported by VST 3</title>
-    <filename>group__vstEventGrp.html</filename>
-    <class kind="struct">Steinberg::Vst::NoteOnEvent</class>
-    <class kind="struct">Steinberg::Vst::NoteOffEvent</class>
-    <class kind="struct">Steinberg::Vst::DataEvent</class>
-    <class kind="struct">Steinberg::Vst::PolyPressureEvent</class>
-    <class kind="struct">Steinberg::Vst::ChordEvent</class>
-    <class kind="struct">Steinberg::Vst::ScaleEvent</class>
-    <class kind="struct">Steinberg::Vst::LegacyMIDICCOutEvent</class>
-    <class kind="struct">Steinberg::Vst::Event</class>
-  </compound>
-  <compound kind="group">
-    <name>vstIPlug</name>
-    <title>VST 3 Interfaces to be implemented by the plug-in</title>
-    <filename>group__vstIPlug.html</filename>
-    <class kind="class">Steinberg::Vst::IAudioProcessor</class>
-    <class kind="class">Steinberg::Vst::IAudioPresentationLatency</class>
-    <class kind="class">Steinberg::Vst::IProcessContextRequirements</class>
-    <class kind="class">Steinberg::Vst::IAutomationState</class>
-    <class kind="class">Steinberg::Vst::IComponent</class>
-    <class kind="class">Steinberg::Vst::IContextMenuTarget</class>
-    <class kind="class">Steinberg::Vst::IEditController</class>
-    <class kind="class">Steinberg::Vst::IEditController2</class>
-    <class kind="class">Steinberg::Vst::IMidiMapping</class>
-    <class kind="class">Steinberg::Vst::IEditControllerHostEditing</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioPresetManager</class>
-    <class kind="class">Steinberg::Vst::IConnectionPoint</class>
-    <class kind="class">Steinberg::Vst::IMidiLearn</class>
-    <class kind="class">Steinberg::Vst::INoteExpressionController</class>
-    <class kind="class">Steinberg::Vst::IKeyswitchController</class>
-    <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
-    <class kind="class">Steinberg::Vst::INoteExpressionPhysicalUIMapping</class>
-    <class kind="class">Steinberg::Vst::IPrefetchableSupport</class>
-    <class kind="class">Steinberg::Vst::IXmlRepresentationController</class>
-    <class kind="class">Steinberg::Vst::IUnitInfo</class>
-    <class kind="class">Steinberg::Vst::IProgramListData</class>
-    <class kind="class">Steinberg::Vst::IUnitData</class>
-  </compound>
-  <compound kind="group">
-    <name>vstIHost</name>
-    <title>VST 3 Interfaces to be implemented by the host</title>
-    <filename>group__vstIHost.html</filename>
-    <class kind="class">Steinberg::Vst::IAttributeList</class>
-    <class kind="class">Steinberg::Vst::IStreamAttributes</class>
-    <class kind="class">Steinberg::Vst::ChannelContext::IInfoListener</class>
-    <class kind="class">Steinberg::Vst::IComponentHandler3</class>
-    <class kind="class">Steinberg::Vst::IContextMenuTarget</class>
-    <class kind="class">Steinberg::Vst::IContextMenu</class>
-    <class kind="class">Steinberg::Vst::IComponentHandler</class>
-    <class kind="class">Steinberg::Vst::IComponentHandler2</class>
-    <class kind="class">Steinberg::Vst::IComponentHandlerBusActivation</class>
-    <class kind="class">Steinberg::Vst::IProgress</class>
-    <class kind="class">Steinberg::Vst::IEventList</class>
-    <class kind="class">Steinberg::Vst::IHostApplication</class>
-    <class kind="class">Steinberg::Vst::IVst3ToVst2Wrapper</class>
-    <class kind="class">Steinberg::Vst::IVst3ToAUWrapper</class>
-    <class kind="class">Steinberg::Vst::IVst3ToAAXWrapper</class>
-    <class kind="class">Steinberg::Vst::IVst3WrapperMPESupport</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
-    <class kind="class">Steinberg::Vst::IMessage</class>
-    <class kind="class">Steinberg::Vst::IParamValueQueue</class>
-    <class kind="class">Steinberg::Vst::IParameterChanges</class>
-    <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
-    <class kind="class">Steinberg::Vst::IUnitHandler</class>
-    <class kind="class">Steinberg::Vst::IUnitHandler2</class>
-  </compound>
-  <compound kind="group">
-    <name>vst370</name>
-    <title>VST 3 Interfaces defined in version 3.7.0</title>
-    <filename>group__vst370.html</filename>
-    <class kind="class">Steinberg::Vst::IProcessContextRequirements</class>
-    <class kind="class">Steinberg::Vst::IProgress</class>
-    <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
-  </compound>
-  <compound kind="group">
-    <name>vst3612</name>
-    <title>VST 3 Interfaces defined in version 3.6.12</title>
-    <filename>group__vst3612.html</filename>
-    <class kind="class">Steinberg::Vst::IVst3WrapperMPESupport</class>
-    <class kind="class">Steinberg::Vst::IMidiLearn</class>
-    <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
-  </compound>
-  <compound kind="group">
-    <name>vst3611</name>
-    <title>VST 3 Interfaces defined in version 3.6.11</title>
-    <filename>group__vst3611.html</filename>
-    <class kind="class">Steinberg::Vst::INoteExpressionPhysicalUIMapping</class>
-  </compound>
-  <compound kind="group">
-    <name>vst368</name>
-    <title>VST 3 Interfaces defined in version 3.6.8</title>
-    <filename>group__vst368.html</filename>
-    <class kind="class">Steinberg::Vst::IComponentHandlerBusActivation</class>
-    <class kind="class">Steinberg::Vst::IVst3ToAAXWrapper</class>
-  </compound>
-  <compound kind="group">
-    <name>vst366</name>
-    <title>VST 3 Interfaces defined in version 3.6.6</title>
-    <filename>group__vst366.html</filename>
-  </compound>
-  <compound kind="group">
-    <name>vst365</name>
-    <title>VST 3 Interfaces defined in version 3.6.5</title>
-    <filename>group__vst365.html</filename>
-    <class kind="class">Steinberg::Vst::IAutomationState</class>
-    <class kind="class">Steinberg::Vst::ChannelContext::IInfoListener</class>
-    <class kind="class">Steinberg::Vst::IPrefetchableSupport</class>
-    <class kind="class">Steinberg::Vst::IUnitHandler2</class>
-  </compound>
-  <compound kind="group">
-    <name>vst360</name>
-    <title>VST 3 Interfaces defined in version 3.6.0</title>
-    <filename>group__vst360.html</filename>
-    <class kind="class">Steinberg::Vst::IStreamAttributes</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
-    <class kind="class">Steinberg::Vst::IInterAppAudioPresetManager</class>
-  </compound>
-  <compound kind="group">
-    <name>vst350</name>
-    <title>VST 3 Interfaces defined in version 3.5.0</title>
-    <filename>group__vst350.html</filename>
-    <class kind="class">Steinberg::Vst::IComponentHandler3</class>
-    <class kind="class">Steinberg::Vst::IContextMenuTarget</class>
-    <class kind="class">Steinberg::Vst::IContextMenu</class>
-    <class kind="class">Steinberg::Vst::IEditControllerHostEditing</class>
-    <class kind="class">Steinberg::Vst::INoteExpressionController</class>
-    <class kind="class">Steinberg::Vst::IKeyswitchController</class>
-    <class kind="class">Steinberg::Vst::IXmlRepresentationController</class>
-  </compound>
-  <compound kind="group">
-    <name>vst310</name>
-    <title>VST 3 Interfaces defined in version 3.1.0</title>
-    <filename>group__vst310.html</filename>
-    <class kind="class">Steinberg::Vst::IAudioPresentationLatency</class>
-    <class kind="class">Steinberg::Vst::IComponentHandler2</class>
-    <class kind="class">Steinberg::Vst::IEditController2</class>
-    <class kind="class">Steinberg::Vst::IVst3ToVst2Wrapper</class>
-    <class kind="class">Steinberg::Vst::IVst3ToAUWrapper</class>
-  </compound>
-  <compound kind="group">
-    <name>vst302</name>
-    <title>VST 3 Interfaces defined in version 3.0.2</title>
-    <filename>group__vst302.html</filename>
-    <class kind="class">Steinberg::Vst::IParameterFinder</class>
-  </compound>
-  <compound kind="group">
-    <name>vst301</name>
-    <title>VST 3 Interfaces defined in version 3.0.1</title>
-    <filename>group__vst301.html</filename>
-    <class kind="class">Steinberg::Vst::IMidiMapping</class>
-  </compound>
-  <compound kind="group">
-    <name>vst300</name>
-    <title>VST 3 Interfaces defined in version 3.0.0</title>
-    <filename>group__vst300.html</filename>
-    <class kind="class">Steinberg::Vst::IAttributeList</class>
-    <class kind="class">Steinberg::Vst::IAudioProcessor</class>
-    <class kind="class">Steinberg::Vst::IComponent</class>
-    <class kind="class">Steinberg::Vst::IComponentHandler</class>
-    <class kind="class">Steinberg::Vst::IEditController</class>
-    <class kind="class">Steinberg::Vst::IEventList</class>
-    <class kind="class">Steinberg::Vst::IHostApplication</class>
-    <class kind="class">Steinberg::Vst::IMessage</class>
-    <class kind="class">Steinberg::Vst::IConnectionPoint</class>
-    <class kind="class">Steinberg::Vst::IParamValueQueue</class>
-    <class kind="class">Steinberg::Vst::IParameterChanges</class>
-    <class kind="class">Steinberg::Vst::IUnitHandler</class>
-    <class kind="class">Steinberg::Vst::IUnitInfo</class>
-    <class kind="class">Steinberg::Vst::IProgramListData</class>
-    <class kind="class">Steinberg::Vst::IUnitData</class>
-  </compound>
-  <compound kind="group">
     <name>plugType</name>
     <title>Plug-in Type used for subCategories</title>
     <filename>group__plugType.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxAnalyzer</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxDelay</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxDistortion</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxDynamics</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxEQ</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxFilter</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFx</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxInstrument</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxInstrumentExternal</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxSpatial</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxGenerator</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxMastering</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxModulation</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxPitchShift</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxRestoration</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxReverb</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxSurround</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxTools</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFxNetwork</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrument</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentDrum</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadf01865c24020885cb974f200403351c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentExternal</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentPiano</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentSampler</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentSynth</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrumentSynthSampler</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSpatial</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSpatialFx</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOnlyRealTime</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOnlyOfflineProcess</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOnlyARA</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kNoOfflineProcess</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUpDownMix</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAnalyzer</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbisonics</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMono</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStereo</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSurround</name>
+      <anchorfile>group__plugType.html</anchorfile>
+      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>vst3typedef</name>
     <title>VST 3 Data Types</title>
     <filename>group__vst3typedef.html</filename>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>ColorComponent</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>KnobMode</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga98965411c9e542b7c2a99a46c8c1dfa2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>NoteExpressionTypeID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1f6dd3f1f6742382e7301c1db5587a4e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>NoteExpressionValue</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9e134142463a8ca477018e7f2c3220f5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>PhysicalUITypeID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga207b8fd37ea1de019fdb784e4cedacc3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>PrefetchableSupport</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8cd3dd5ea75e76ace81fd1a696544378</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char16</type>
+      <name>TChar</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga9cc7040d53a88b14ecab90ffb052276d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>TChar</type>
+      <name>String128</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga4b750afeaca8056101ac7952543dfd47</anchor>
+      <arglist>[128]</arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>CString</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaf857b729bfca1b912196dd4ff5421420</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>MediaType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5f0d28213b308d786ef7a1541d88368f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusDirection</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga0dc035dac7916366d61df365731f7b63</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusType</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa6029db01759d30cfcb3504b84d5d04f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>IoMode</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga479361a38cb42c6a07bc6845a5801e55</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>UnitID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga6569c340fc68115670ee0161dd73b3ed</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>ParamValue</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11508dccaa352a24d0ae6585a93f4641</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ParamID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga1dac5893f4a5c27f986d4e51741b544c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>ProgramListID</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaac31a9d9a63927ad6927f2a298888c22</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int16</type>
+      <name>CtrlNumber</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gaa67d0906fec66282a0c9488cb52162f6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>TQuarterNotes</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gabf70aac64179b2b47bd877600a2e8c28</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64</type>
+      <name>TSamples</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>gad2e841097395dbff119029f4684dad8f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>float</type>
+      <name>Sample32</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga353ad4086d31e4b7c57c9124965379a6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>Sample64</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga8887669e1feb9270b120bcd725d0d4c1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>double</type>
+      <name>SampleRate</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga11249ca544d179e7fa61b2200a092407</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>SpeakerArrangement</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga54884a26d0b6dfa18eb919ea004775ac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>Speaker</name>
+      <anchorfile>group__vst3typedef.html</anchorfile>
+      <anchor>ga7a9fc6561fe897989fa3cea09ebb3250</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>vstBus</name>
     <title>VST busses</title>
     <filename>group__vstBus.html</filename>
+    <class kind="struct">Steinberg::Vst::BusInfo</class>
+    <member kind="enumeration">
+      <type></type>
+      <name>MediaTypes</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga576e5da9bdc49812cf65f803bb303ad5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kAudio</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5aacc820a81fe3b4e8045b839cca0b91d3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kEvent</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5ae6a97de99980aeac9312e818af337d6f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kNumMediaTypes</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga576e5da9bdc49812cf65f803bb303ad5a803eb569c99a15c09609562d83577cfc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>BusDirections</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga48a6eea2da1c202231eb653f3f764af2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kInput</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2aa3512d23926af0e0dad8c3293443d04c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kOutput</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>BusTypes</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>ga4849e8fa0da1b39bd3e0af87b441675a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMain</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa388e1f905d2b8eb0f734c83d9356885b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kAux</name>
+      <anchorfile>group__vstBus.html</anchorfile>
+      <anchor>gga4849e8fa0da1b39bd3e0af87b441675aa0aedfd6f0f992c45d4f3620c9445292e</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>presetAttributes</name>
     <title>Predefined Preset Attributes</title>
     <filename>group__presetAttributes.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPlugInName</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gacbad3647c9f27b2777cb6a3cd24fe49e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPlugInCategory</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga56f939f21fb570350d3360b1e7254245</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kInstrument</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStyle</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gac45345491383374f12e9e5a8835ef584</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCharacter</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga166d8e939e25f23c6e1c5125e89d5f13</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStateType</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gaefefe46f30651266cc9ccc8908409552</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFilePathStringType</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>gad5fe1f71ae69e7b4daaf0e79130930c3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kName</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga0700a0c20b2ccab1debe99a8a815534d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFileName</name>
+      <anchorfile>group__presetAttributes.html</anchorfile>
+      <anchor>ga94927840ff999e51218b78a405316220</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>stateType</name>
     <title>Context of State Restoration</title>
     <filename>group__stateType.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kProject</name>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga89eaf816243da36726dfe2656c266a4c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDefault</name>
+      <anchorfile>group__stateType.html</anchorfile>
+      <anchor>ga4f34c8d0372a9d06a2713fd488ece66e</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>musicalInstrument</name>
     <title>Predefined Musical Instrument</title>
     <filename>group__musicalInstrument.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAccordion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd8958e2d10a39961b9ac9d20ac1a3c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAccordionAccordion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4b3a7ca0aed4fd75c4c6de9da2c095b0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAccordionHarmonica</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13f91d403c87da4936308cd2f94b3dce</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAccordionOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3f7c44f705388a781d442009341b50aa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga99ad41c498b2d37a379907989842655a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBassABass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7806c7198452bd9b38813e1254bffdde</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBassEBass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga722ff7ac1ffb92a922ef3f562117327f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBassSynthBass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabbbabe9b591bdfbc9e8613220d7ce829</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBassOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1835577b20a8f992869f11555b9c6c43</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaccf4a6cc04deede6234aa80f17494e62</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassFrenchHorn</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1a4ba62937d8347b92bd6a7fe2f0f203</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassTrumpet</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58aa80b0a42ce48f7868095cbf8af4af</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassTrombone</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1f2c119eb1f5ed7687375950e64a099a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassTuba</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1e4a49eeaaedbf8487070bf20a06b119</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassSection</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae7c3bd91d4fb0872ab7db0ed74d91445</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassSynth</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0cc2d58842ce2dcad93a3f83a777a67d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBrassOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae4e52f708efde91cf0f2a78cebbd351c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPerc</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5f48d90dba2837a9b0552446258746c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercBell</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7b4edfeeda6a06123409b3e5d704bd0c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercMallett</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeee07c58574e18dd64d3be93f7088a35</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercWood</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga492b01fbc86bdb5131f84dcdb5f26f06</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercPercussion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0e5caac1dbaa9755fdb06e89ed3b3895</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercTimpani</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga11ef28f0a9918a82c981b1fb8025bd8b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChromaticPercOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga12eb4bbef0c030bbca1e861adc773334</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPerc</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabe15c8ed2a76ff3c9f9029278854dbef</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercDrumsetGM</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa41f951f74e972f53aab1a45d15c54aa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercDrumset</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9ea452ccf895de2e9a647aa85d40b1ec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercDrumMenues</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa441a52dd98f3b53affbc538eda46521</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercBeats</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5c77bf645fdb2afae554c3c6b48dc92</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercPercussion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga351f0ed74b2185f5acc3460021c203a6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercKickDrum</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf85c8e569ae8d22ab2c233006a99f82e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercSnareDrum</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga13fca99a8c4598a5f66ef87242f70b27</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercToms</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac756e1798f6f8ce4eed78adafcd6f8b4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercHiHats</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gadec30a0adbbd248d6573f64342feef77</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercCymbals</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga82ee2aad1a847aea7c803b81a4d2598b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDrumPercOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8dbf5e607efc62bfd0fb4044a943c399</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnic</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa946206a3ecfcc3423ea307de5efdd13</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicAsian</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga81ca43ff51517679540bbabce3f89254</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicAfrican</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5de2bf50670628599940b4afba85fba1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicEuropean</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga841f031104f1230a568fb7246eb87fe0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicLatin</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8b04cbbaa98e561e20b7a966f58e9281</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicAmerican</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga3c6dcb9ae2464cf7012aadb328c73fdb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicAlien</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga86aa661200c00f7b44935e455d62b5f8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEthnicOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga89d49bfa58ca9659367217ea187bd7bf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitar</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga642a844eb43638962aec00dda572b724</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitarAGuitar</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf907f1b0c6b112a7a7ef2c26d181345b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitarEGuitar</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5bd16506f3db8c7cada37ac1030fdeec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitarHarp</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga6077d4646f9ce2fcd14f40ee5f1fcfce</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitarEthnic</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabac2c7c2f88a2511bcb9536a62847e64</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGuitarOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga91eddfe8e8f1e826c887b57971600988</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kKeyboard</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae87c28eecf427576aaba8dba45506307</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kKeyboardClavi</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabeb1f764cd854f5f7b107a8f0b1fd4ec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kKeyboardEPiano</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga326410320556a12f64c20f88c19373ce</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kKeyboardHarpsichord</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga02d58cfc1dd6afe263d10ed615eb0d2e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kKeyboardOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20c97efa4d9bc8307bbd0375035c34ae</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFX</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2390a2a94e9904517ec9342ab0019fe7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXHitsStabs</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga7827735f5bb526019207c524f487af0a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXMotion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab9114e6b0673188dc5228aed3d3df2da</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXSweeps</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf3cb2d886c19f654e5d4d8b25eb5477e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXBeepsBlips</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5378d54b89a50f2b659f4811d2925cc5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXScratches</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gacbe3eb6871b48061d2c046d8b258a7a9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMusicalFXOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab5e9cb190b3c45ca56bb2e1adebb43fc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOrgan</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga84fec6760fef802a323b692a062b55b4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOrganElectric</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2ec0df01bea69ecba86f5d891b1ad648</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOrganPipe</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga79ae6538d284af4c29bbd7cf4933b76e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOrganOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga20f011a1e399ecacdb0e6e1cb7196e64</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPiano</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga41cb875c197b4036cc5ac03ca3721a08</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPianoAPiano</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4ad2adf116f63f68c278860b4d1d1f6d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPianoEGrand</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga37d4c3eca4f4d9c151ffa65609c79439</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPianoOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1af05a3bfb82be1b619388c384a6bf2d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoundFX</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf2a091ea57274b72699e9f9df7715b17</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoundFXNature</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad21b480ba2888b09f222c703fbb37a91</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoundFXMechanical</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8f75ccb3769fa4876436c45a09107fcd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoundFXSynthetic</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga341e53ab2df394405b3785850dad88e9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoundFXOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaae916a5a813ecf7d856e61f456a24479</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStrings</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaafd56235b0b917a43d284202d30f4f0a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsViolin</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf8cf7e44674db2aca92f56fd73f92006</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsViola</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9aa9476acbba419210667d658afabc6a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsCello</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga265f017e0f464df3d4141dc319eff0c7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsBass</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gae18de76efc605860475b6323ef233cc8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsSection</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac1d32b8a87a1fd03f9c1015160d7d3b2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsSynth</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga51a61e68eba9a1cf51ad89242b9bc47f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringsOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab44336cb32a2e361969b84be167c6437</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthLead</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga65f99d06e1cdec2a31ced94c3e74e2b8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthLeadAnalog</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga8a11629221f0398068c261f7e82dbb3c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthLeadDigital</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga5593b90f0b783f8c474534b1bfdece81</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthLeadArpeggio</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9f07e312d4b567cbeb9afc62663e799d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthLeadOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1baec415d4b38bfc63bfe37d4d8f998e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPad</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga09ada6780ac854e1a5f5fdeaeed3fb98</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPadSynthChoir</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga459f7a40ee5ce2589b9c5b4e9a7dbc03</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPadAnalog</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gafd8251cd1e2beb471fb880eff54122a2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPadDigital</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga0624ae2a566ded387d13aa9b42b02e4f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPadMotion</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gabb14045ba365551baf7d248ea496f627</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthPadOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga21365983f34c81eb766d77a9f6c56542</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthComp</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gac5ee81e33b8952b205664d8a7e6d3726</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthCompAnalog</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga98b124c4c95e7d1f055a878c293036a1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthCompDigital</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga58fd32018d0d25fa22a065fe293e4079</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSynthCompOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab2577b8dac71b9e6d679cd5fd337fc70</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocal</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga2d5f12d8f479275a1ec1047877ad12f6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalLeadVocal</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga33b0df9f2de9caa850ec8f42a690ea1c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalAdlibs</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaeb469e5850a09e7863b3a411bd839185</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalChoir</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaf1c302e30ac59f819c846264553cbb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalSolo</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga9fee846e3dac6a9c76f49236370104ff</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalFX</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga01a286aebf174524ce6806266da52608</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalSpoken</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gad3c91ff5b7e51b5ed71479994af1f2b0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVocalOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga97b0787f7bc7a12d8aa9c451626252df</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwinds</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gab6f7ddec4db62d879f3d4147da295e5d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsEthnic</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga4c985b65f095bd5bf25adb95490c26ab</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsFlute</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga1b594039765ec814407ab25b574177e3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsOboe</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga40a881c8d3a7bc7f6688195400ba35dc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsEnglHorn</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaab8ddc7cc6aa5f6c1b3383b7ba109c65</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsClarinet</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga76398345f57877810ceeb6db295a08a8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsSaxophone</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga685ce7454b4f454c4f2e36b40d215fab</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsBassoon</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>gaa7909c8fc3a72ec802f1163f7bf78a1b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWoodwindsOther</name>
+      <anchorfile>group__musicalInstrument.html</anchorfile>
+      <anchor>ga850425dd3f6d9938ccbbee6158316bbc</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>musicalStyle</name>
     <title>Predefined Musical Style</title>
     <filename>group__musicalStyle.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndie</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2283c2c777c7cbb21710e11ef2ceb6af</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieGothRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5efb4dfb4fef27ded5062173093bbaa1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieGrunge</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga611a7833ad99ac643e6662ad0c735437</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieNewWave</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0d9c9e5d1d7762b13270a0cd388b2d7e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndiePunk</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2b8b2179cf8d2b74f6c0eb2abb563a80</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieCollegeRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8881386092fc55d2c4ed31ca0d3acd22</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieDarkWave</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4e60a460c89c2aa3f05c8e15c4a74b76</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAlternativeIndieHardcore</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga080e7eebf7cfeef648604aab356d9249</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbientChillOut</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa5aa1cc4f7a5cf8fbcb025f426225676</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbientChillOutNewAgeMeditation</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab17d3d9dbddf245300a0e581f27d2b21</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbientChillOutDarkAmbient</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33320722a4e37a0dbe61f8957a77fcb8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbientChillOutDowntempo</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5af88b6815b44014176a2bf68aabca6f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAmbientChillOutLounge</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1abdca80184a162d425c61f053530dea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBlues</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga070e85734aa0ebd786f2c8ff8dca8301</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBluesAcousticBlues</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga427cc44ab600473801a7d50bef343e2f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBluesCountryBlues</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ccf2f159b7b1becbe0d64f4688f7f4e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBluesElectricBlues</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga60c65b0575b241924ccfcc59fa7dccaf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBluesChicagoBlues</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5043e48daf7d4433d082c9d726b90a2b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassical</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga00100f8944908f3f674b077b8e7bf5ae</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalBaroque</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga54a477d7f94dacdfa325bdf693d180ab</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalChamberMusic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga817fef9aabf571d6f91e357efc677040</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalMedieval</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaabb6cafa41915dc3a4ebb19d35aeb3be</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalModernComposition</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa61b32582345fd12bd9d2140c174a25f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalOpera</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa8a189a2e24961319d1e26349aa8a9a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalGregorian</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabd559febaa875cac883dc20517965d19</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalRenaissance</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8f9739caabbf232d50b1b1b449ab1491</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalClassic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1a1b8c73dee78995dfc73a9cbe1855fa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalRomantic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad822300e6782c9fc490f073c880403ef</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClassicalSoundtrack</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad28cde471461898b52b6cd7aefe1fad9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountry</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaaa2fa8f51e39b78604c752001cbef8c6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryCountryWestern</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga613bd6f52125a615d0e1bef58463e6cb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryHonkyTonk</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac05e574ca2ece383b72b5ee429506988</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryUrbanCowboy</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabc94ae94e43d1ae9a453f5033f2f6bf4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryBluegrass</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga56cc1195da3ec7bc16d67a303c489c6a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryAmericana</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8a240fc37b335deb7063b9bbf959ba90</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountrySquaredance</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7b9a2584ff4f1501c9a24a8754f1f526</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCountryNorthAmericanFolk</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1578d35d598b30c1a8aca33c94e33213</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDance</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9e3c1f6becf1b50e07e2d8212fadea0d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceMinimal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga2acd1ccf8c493d7055288674c243e7f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceClassicHouse</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad2581a6189feb88d716b6c81c5efa79b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceElektroHouse</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad6c238193c96a2f320bb158fc0cb36b6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceFunkyHouse</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac697bd7d2476a3f522e0c12f4f9096c7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceIndustrial</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga43aa90fa2a5718ec3f233186bef3b745</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceElectronicBodyMusic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c9fd026e505a151e4ebcb41a026a273</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceTripHop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga27a783d5bce0708e88414cd4de0ffc3b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceTechno</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga66d567db513649b64572ec56ec721a13</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceDrumNBassJungle</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaa1a66bada350ea5f47e8c296bd3482b1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceElektro</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac613b9e387a4a4e424dbdd7925a842f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceTrance</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae1734ba060074a2d5f5bc4aadb1b4693</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceDub</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4bf8090a24491f751c9d75218ba8ffc6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectronicaDanceBigBeats</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04e06e3becb8bca4036fd5856682a393</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kExperimental</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga13e10384c541982e7ebea23ae4cc0057</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kExperimentalNewMusic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga9d42a1c28d4a1b6e725783290a949f04</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kExperimentalFreeImprovisation</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga988ed6ba9f31ff90849bfe159dbb56f2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kExperimentalElectronicArtMusic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad14a4491132f9255427a1dfbb53f684a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kExperimentalNoise</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6d711a097823788b80c4373b0df67287</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazz</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae80ee561e4da8da1de90835e41f0fc7f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzNewOrleansJazz</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ade597c6d17afc9e6cf4a7bdf34de9b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzTraditionalJazz</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6099a9381244ca72562a7b8226c619b9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzOldtimeJazzDixiland</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga04fc9ede978682cf37a56876ba9dba9d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzFusion</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga847f04e92eee76df8f6c6592da0cea2a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzAvantgarde</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac6cbbbd37ada9f3f26657db8cc6065f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzLatinJazz</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga0ee890f05a7479865af9eda6d34bc857</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzFreeJazz</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga5fcff8a8096b40b9e05427c944a2e295</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kJazzRagtime</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac2b3067f7b9b92ffe14a1b15b0bed83b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga92057d09ae8339165840fd850e77868d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopBritpop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga886ab03c6a77598d7e78c3a6ec922441</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga772e326e01f9245ba8a8177301a55d4c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopTeenPop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7e047957551e02185723581a1880086e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopChartDance</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f9e30f2b18f2f639fefbb38b1d2d3e3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPop80sPop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga6f3a96aeedf52ae2691056c3f1535578</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopDancehall</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gafdb7e50d604be148bcab627102c66a3b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPopDisco</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4cfb53a16c9ad176d8c2a3b9a4a267a1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gade4f6c22997daaed1a372dd09b358068</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalBluesRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gac1c59279027338732b37420973755dd9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalClassicRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga52b06f4c922bceb8a7af486f8f9e8ead</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalHardRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7fc6fc1b343016898c32d9095895973</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalRockRoll</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf044a0ecefea571e16b30b82a1becf04</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalSingerSongwriter</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4c7fb7c56f3573b219287833e847113c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalHeavyMetal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1b66689bf69717c4af8ad85835737acf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalDeathBlackMetal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga370c692d8ab858d11bff12c0ea4c779c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalNuMetal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga1e43c81772b3227d2239c4c869194733</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalReggae</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gab7285dab701bff67bb281688a4c1b93a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalBallad</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3e6375ad794af9ad7c9e79f61ce422de</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalAlternativeRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga679697a95e28deb4eb0ab2dcdeca114a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalRockabilly</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga646cb827580fbdb5631167f300e2d7c5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalThrashMetal</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga4367d681da9e6a9259373fe33bd58162</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRockMetalProgressiveRock</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaf74e7f4e41c15f2e271cc15b512b2fbf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRB</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gad9fdad7b31d648bbf64bc2333bc3ecab</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBClassic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae828f62557a162b35e08774fe73e4b59</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBModern</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3089241b92ddf52d670f6339c57ff321</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBPop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga03a11de347ee7fbfa80f6040e5838c06</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBWestCoastHipHop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga31d1f86b5f8a0281d2a85f7ae6e40d10</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBEastCoastHipHop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga91a0592eb755912d7fbf4b7f78387707</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBRapHipHop</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3dd2ebf4652bdc7f67e804099495ad1b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBSoul</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga853a4803393e2d1684fe32e5adafcffe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kUrbanHipHopRBFunk</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gadab3d1a08820555d8cc2eccba5a2414d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga7fc43124278803213779023493bec46b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicAfrica</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga24447081033911845dd5279102bf075b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicAsia</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga09caf2a39534495b771aa65a0d969ad1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicCeltic</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga17f0e511cbcdedf14156ba499a54d615</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicEurope</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gabbce5b2144aac1d57742c746de8ef78b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicKlezmer</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga8db09e3dd05ef85ce88a038472cc04af</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicScandinavia</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3ae32b316261fa76c8d7ca0e9790871f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicEasternEurope</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaff54f68acdbdbbbed6054f5c9b17ba8a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicIndiaOriental</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga33a8a991563a9d73923525ddd29e79a0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicNorthAmerica</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>ga3d85eb586a37b5a6082a6d1708d91592</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicSouthAmerica</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gaad0a8d9f7a2cef071860eee02948c556</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWorldEthnicAustralia</name>
+      <anchorfile>group__musicalStyle.html</anchorfile>
+      <anchor>gae08118ff90a70fbd90e1979aa1a33c9f</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>musicalCharacter</name>
     <title>Predefined Musical Character</title>
     <filename>group__musicalCharacter.html</filename>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMono</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPoly</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga020e4d1023e2b9add2c637ebf4b75a3b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSplit</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga51e6bf04c8aaefb4fbbc45a114f147c7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kLayer</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18049d58eeecea7c6fed4f727442430d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGlide</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga94f8615dad159bf66390009ad9282249</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGlissando</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae0732ea96679d73e821715b2be446261</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMajor</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga18f27017b00ca4612f133f4e09d913e3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMinor</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaccd54b1bfad544bac2ff54cfb56d7df2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSingle</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga516ace30c1fa46e55b8767b58c77a788</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kEnsemble</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb6de4949739c48baf2613e6965d1637</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAcoustic</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf589c030507665591b7e57d677b350e0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kElectric</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa924ea59d6457adaabe92b47048253aa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAnalog</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga10904a318940018e74802140f840a4cc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDigital</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8f1ad8e2c507c80b75e20d94cbef219</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kVintage</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab86682f9fb5dd5c56199feba1afadc8f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kModern</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga490b8908c7977aaca4e5a7fc1983f172</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOld</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bbfdd92cc2b2313b3cf974c5b3f9760</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kNew</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8ff57c7698535ab97bfc64a7bf3ea9ac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClean</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae48573356356094da60ac761ac5ac51e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDistorted</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa8427782100432cfaf837a729195f1ba</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDry</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gae4406a55f1a7b6f1d12e29bab8f576e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kProcessed</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0bc38b1dfd75d0ae9e6137d43c29068c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kHarmonic</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8f5f55f753d25fbeec874ff7c873b050</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDissonant</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga3030eff3a0900a8cca1c6266716efe1e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kClear</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaf8c102dba19d9bafb8d7ba312f812ad7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kNoisy</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa57323ce9c0b4d417c6b36aa76570514</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kThin</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8da59e92e1c2609a302663aeeffc01cc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRich</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa6c4d36725eb4226e02f5724ca420e24</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDark</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaae40f2e630a0d26cdd3d862761b26d07</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kBright</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0796a86633dd777869721cf5f2666aa5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kCold</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga7c18fd830521824296dc8412e5420559</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWarm</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac1766654d4a9b882b9890fce9483a733</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMetallic</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga644e30da9b10ac15bcd313778d00d261</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kWooden</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabea2ba5e271fab4f245baffae6fc7f20</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kGlass</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gaa5eee886870365dcadc1105891130025</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPlastic</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga62ea7670ea954e012810004bb26369fb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPercussive</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gac6b35eb8d6cf9178f4b428d523760e89</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSoft</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga280fd77ca4f703e3509ba81e6a4a7062</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFast</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gab5face7509d33a16c6be75f042d5f56a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSlow</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga196114f5b784b26e46ca975e194a12cc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kShort</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8b9663df42570d3f736896b881f348f3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kLong</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1d83ca1c98b52785de6b205cf10ba2cc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kAttack</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga6825831c83ffca20a7353fcf1f4ff3c8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kRelease</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga85c4be48d6121e160ec3d864591f48ff</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kDecay</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga310f8f745367f1fff3d176974abb507f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSustain</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga1b380d79f09e7bd56403f79f09514db9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kFastAttack</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga8cd59e5d43ed1bd277845f9ed2f29351</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kSlowAttack</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga19fc8fcee1d6326b028fdeace97da264</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kShortRelease</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga0178603367ef122579d09173b02c275d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kLongRelease</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gadb9b1ab770dcdf2bb4d526b5aac6b1ec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStatic</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>gabca0f72e85147ea95283eb9607c23332</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kMoving</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga24192885baa2c896f4ac92a68e176802</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kLoop</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga37e6e5e54e1d052d21d739a032593282</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kOneShot</name>
+      <anchorfile>group__musicalCharacter.html</anchorfile>
+      <anchor>ga084d4ed63922f00549f31a1114ecd32c</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="group">
     <name>speakerArrangements</name>
@@ -16771,6 +19193,97 @@
       <anchorfile>group__speakerArrangements.html</anchorfile>
       <anchor>gaa8258a29fe4e3164d9239869c1afc1e0</anchor>
       <arglist>(SpeakerArrangement arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>int32</type>
+      <name>getSpeakerIndex</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e43f8bd9b65e001e85706fb6229e54d</anchor>
+      <arglist>(Speaker speaker, SpeakerArrangement arrangement)</arglist>
+    </member>
+    <member kind="function">
+      <type>Speaker</type>
+      <name>getSpeaker</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga365c311dce7ea3c41e6674d0c31893d9</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>isSubsetOf</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf586d67f2382fd76829515ec1a845f0d</anchor>
+      <arglist>(const SpeakerArrangement &amp;arrSubSet, const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>isAuro</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa3a2c80faffa004172a77e983fd1d4ba</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasTopSpeakers</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fd1d5b534428e6414e46829089313f9</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasBottomSpeakers</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga20ceaf9e134bcb9d31d268f2bca6f990</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasMiddleSpeakers</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8560db7870831957b1862d500a9707b1</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasLfe</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae80135ca5a48c012ae56eba60aed8ba7</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>is3D</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae5b25533bf821c6470e9d5a8d37b2f08</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>isAmbisonics</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1eb079a06c32ed8dfe5640d1ea129beb</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr)</arglist>
+    </member>
+    <member kind="function">
+      <type>SpeakerArrangement</type>
+      <name>getSpeakerArrangementFromString</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae59865c6f6e439696b408a8e3a35fb67</anchor>
+      <arglist>(CString arrStr)</arglist>
+    </member>
+    <member kind="function">
+      <type>CString</type>
+      <name>getSpeakerArrangementString</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f3040f601ddc82b7ff76bd0ac66b32b</anchor>
+      <arglist>(SpeakerArrangement arr, bool withSpeakersName)</arglist>
+    </member>
+    <member kind="function">
+      <type>CString</type>
+      <name>getSpeakerShortName</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaea8fb2e63d819b83b1811645b5f5c0a0</anchor>
+      <arglist>(const SpeakerArrangement &amp;arr, int32 index)</arglist>
     </member>
     <member kind="variable">
       <type>const Speaker</type>
@@ -17137,6 +19650,559 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kMono</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga571ff835d603ec5e98e54f1e0feca20e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereo</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9b5733786c71156513982991fa5f3c11</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoSurround</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad38856abd90805d1e85fe737677bbe8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoCenter</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44710b9a538279e604b98213e8acdbec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoSide</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga98918bef7ba906d9b970ba49fb02a742</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoCLfe</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabec483e2214863d8fbfd2f68815647a8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoTF</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga350fe92a4a9f185ff5a7141e7cbada14</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoTS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87a09b7b3ca62380f9203bcf6560a3a0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoTR</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab4b759bc9adbcb09a13453cab2916281</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kStereoBF</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadad8ca7e56a1171c6439875261ab1ce0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kCineFront</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadfcb28a735791e8b21d3150fa254a4fe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k30Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga32b8626cc036129ae6465115e7d33c5a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k31Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga925534b26c3f13772f0363b44de830fb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k30Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8848385489d48df96843cd8022dbbfe1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k31Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34fbc53e44aafa8ca50155a58bd056fe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k40Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac1c674ad48a47ead5c1bd0b4d0e6611a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k41Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa70d2ecf42316dbf7ea9147384b1d16b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k40Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2133b89c1fce6c11540a55ede3d00715</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k41Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac3ec49935f60ef5a877f21c6225274f5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k50</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gada66cacb0407add2f87505ba08b98095</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k51</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5ed1fd3424cda0c720d08dab3cdacdec</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k60Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c5769c0eac0d76ff06cc2b95cf15ca9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k61Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf60226cc4b55554791dedf5ac9c6b46c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k60Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf94b622b8d58c498a49d37d9561f535</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k61Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7c2a763f2db01800286568722f724c30</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k70Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga957c53627e5492b9b62190be390255c1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga153beb2d5d562ed4fc8643bf51c711d8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineFullFront</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga329178a60998946671c5de893797dddf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k70Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2fb8698f83d75be166b99fdbce9e82f1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0dbaa8d90949e4084abb7878a5d5f91b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineFullRear</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d89ea22e10fe3acadb02c071288776</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineSideFill</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga27352e019fb6f0d3b4d10b643f79d813</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71Proximity</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9ad1279216eaac4c4c2cd665e6d61c82</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k80Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2ebfc79a0e5ef338247e31239967632d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k81Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafae2531e75a317dd357fa09074fab4f6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k80Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae026a8a57e8a9a408320616a0d289ece</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k81Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4c68f76511df6119eca847b005105cd5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k90Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e5bea49421b1e65cb9e8e098436cc56</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k91Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d6ccb80d89619c8085ac9a7283fc248</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k100Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab0c0067c64c879551949be762f600af7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k101Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga87d1b8523518919bb9637a004c00448c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kAmbi1stOrderACN</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga02d21f6bfee6423fceb6a3695954c33b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kAmbi2cdOrderACN</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6117e1aa058a519559fbea82adb0aa69</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>kAmbi3rdOrderACN</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b19ef3d9cbdfb96c008f4586b186997</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k80Cube</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga44ee3dd3579cc26082915d76a28be70f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineTopCenter</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9c79cded90ddc1a1e366e1fbf4315334</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineCenterHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafca48c099db5b486edc4a79616b3f024</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineFrontHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8e2c48c3830b09da02e7bb123f5916bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71MPEG3D</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf21f025b23bb45133395657787f88a13</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71CineSideHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga300b4574ad12477ff99286519b754dfe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k81MPEG3D</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1d7c7f813f01cd3f4478ecc81e46e82c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k90</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab04f1f4652d14e277671a0b62a8e8373</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k50_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gade838b7c4cdbe2c7a8357e2cb710baf2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k91</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac29f63756f056bf266ba0e2d26f143d4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k51_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9680715bcefe20b26397cab10f7fb18b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k70_2</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4496b8a1fc103ed42e399eca71048d12</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71_2</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6ebca6edf27a3858c2780043ee022e6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k91Atmos</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga543a82154cd2675d7d8c4ef6680448dd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k70_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6246a745fadd335ea2e8ba88b4a4e507</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae15aef0c82b6f1be96a54fb616a1a7cb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k111MPEG3D</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaacb60df68338ad8f622ea9a1f01416c8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k70_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafd2c7f480119d8c17a533fb8d5948fd8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k71_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa4e5066c1a84a30aeadd0e76b74d57ba</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k90_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bbc13de7df2c9e8a7ff9950bd44ab39</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k91_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4f9e89d3c8dbbb4dac1e2cb67633615b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k90_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga88accb0a3074c3fb6eb3fdb490b21c62</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k91_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaaa5bdf5a10ab4f4930c1ecf4efeb3f95</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k100</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6cadcafb161f16aa7edcc676604e4def</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k101</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga13c1699c11fba17352b83a1b3a7cfcc8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k101MPEG3D</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad74c12ca20962432ba88df9807a9f156</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k102</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07bcd44b9922095ccd79f2195ad80e2b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k110</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf19e8a3b3f0d3a2c0e9587f6cc9b1411</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k111</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga740b694bcebcd228836a5610feeeb929</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k122</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadac6b9c961b9ffdf682f8ff85ea6be64</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k130</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga58d4fdbfb02cceca73527bcbf17bf930</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k131</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac672a7aa5cabd6a5d4c4441e6aadc925</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k140</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf7c32506aada727a39b6f30173a5a572</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39dd41aa48652def01c2b774f3a46a02</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const SpeakerArrangement</type>
+      <name>k222</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga80683d5816c4db7345c6e25dfdbc87a0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
       <type>const CString</type>
       <name>kStringEmpty</name>
       <anchorfile>group__speakerArrangements.html</anchorfile>
@@ -17145,9 +20211,1024 @@
     </member>
     <member kind="variable">
       <type>const CString</type>
+      <name>kStringMono</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacc3c2f0d3a1a7cefebcd21afcaff0a33</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereo</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa8801dd84fb2f8566448a99c418d1185</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoR</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7baad18ef660784d5ed89c95d0f16aa9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoC</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2057f29b65596edf1cb80ccc6a041b83</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoSide</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabab50191c9f7c6a497f7d148cc3a9741</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoCLfe</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1f7cbf8a6fe0184d7ab51fcb3c4792a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTF</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga39cdd95afef98e1901ebdb99183e91f2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf980dfe2b66f77f49e5cc064e29baf90</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTR</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31865a34aa4e3eca16df14729ff1629f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoBF</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50527ffdd77c1df3a01d2656abdcfaca</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringCineFront</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5844248872630578a50942ea6be5da50</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString30Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga546feab92a740e05c378ee7ac40f35cd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString30Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga53f43e261801293edcef4a1ad84b279d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString31Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1e80c914f10746070e3ffe6e85eb5c1f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString31Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga137e13924264d25e2b23315c90a1a735</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString40Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6bb5e6215f1f55441b2d63e1da3d826d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString40Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga0f4c3361e3f81439c234f22f2c526829</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString41Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8b4f4ca5b48687d28d352f0fcfae57df</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString41Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9a75f791d9b04c26b732bc3501c26ee6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString50</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga67879f0e2d9733cd1a725c10b6bd41ac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString51</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad0d54db82db6123d96d1f586b443bca3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString60Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6a60a614644af6eb7185b1ca3c863146</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString60Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga792624a39e54bdeb84703f79b9180370</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString61Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7664212680fd954f8d3bdec7ee52a0a5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString61Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac847eadaa1938e45601af71cb37737b5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga605e76c32caeb4f0d85ada0ffd422b89</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga34a5ea5d19e507a4cc75aaf5ca038e70</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5bda8dedc7edcfa8f36b5a99509c9449</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35ac01519b72d4f2ebc88a7621467378</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3475b1b161d22aca3939960e461307a5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6e0d74b112ae74fe8e74dc190db3b01b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8840a665e6fa4dac19167726473d6072</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71MusicOld</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa259ec989476ec18dd30dbbe9edaa6a8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineTopCenter</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6f792b0962f42ec4f133cb64de72d31e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineCenterHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabbfecee6091fbab1bbd2d3e073b86f5d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineFrontHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1447af9f22f48e0d039569b10a17aec2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineSideHigh</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad8deb48b287d7520c56e233f8020243c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineFullRear</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab78c124e88ad66fcd06aa09f3871320e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71Proximity</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga30a288eb79dfa6b08afb569234e831d2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae7259d85e37e87f3734e0645a890312b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga35c11fa95eb4ed5340307b725c53180d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80Cube</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae9dde9509cd3485e2976e44ec37e2491</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf949196ba6ad50b12f2522524ae2079a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81Music</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga301aef980be40689f6a32d2f2ea5990d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa72e158f204f9834347b1d811f0e1e1c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac31faedafc0d6ef570cb6b5098b189b2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString100Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga42ee84421893fe9759b400d0bd3becaf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString101Cine</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4623d9c5afc0883aa25409a89fc4b01c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString102</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab514f5233daf9f0d39022eaf6bc3ee39</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString122</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac4932606e4ac1473f0da939a03172e4a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString50_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacfc39ea40d9b3ee2c64ee332aadf9dc5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString51_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3087980012d3e5dee03f977677790623</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_2</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga45b8a48950dee4f9713bda0a5b9ca196</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_2</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaeed20d0347a2ea4100a9b58990c5bcc1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabff1c300f5f6d675842dc5e8492b973e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad07e3ef7063ba3b63b8699fceab70e14</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga07019a8f7d26ec6d67e3b21a4909ad50</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga49ccafdb4653781c17fa20f933a29af2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga28381a787f5d2e84e16067329d0efc00</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91_4</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3b0b6d1ed6af07daa84a016f9a594d59</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa1fe4d708fa32e7b1ddeb892fa073509</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91_6</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8ec511d08a024efcfc54258ddaf48cf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString100</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga230095c9378b6f8cac9f14120786423f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString101</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2d2b7fc9562b4aec27425a1f46e6b5b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString110</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga403a29103a9bfa626785cfc61bcce1d3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString111</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga05776481c1feeb8db0bd8a8f9fd7bcdc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString130</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac7d25b1cc65c51e76c225ae50c4116ba</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString131</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf610b7be568618c5d5c3aa20d4cf2ecb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81MPEG</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86ba0d184e2fd6b86e876d5a7343cc5c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString140</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga030afab00e1f4278f53911d4a89a7b98</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString222</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaad33c8ed818e1d8f2a30195dadf50af9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaebcce0418f6b0300b6f862766f7f58e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi1stOrder</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae989a0ed646d1b90e700b6599b87e9c5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi2cdOrder</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga57421a0b5dd2faacfc03c8b4df47c626</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi3rdOrder</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab530c1e2f6dfd766cfb9f1b4f11b6ddf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
       <name>kStringMonoS</name>
       <anchorfile>group__speakerArrangements.html</anchorfile>
       <anchor>ga646cd09e52190d60f2d4ca83faf915aa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54144ab0e1dd2babcf5e720950cf7e24</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoRS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga63f3673e0a9ad13c3788b583d4fac61b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoCS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3cb0fc4337ff0f43bf119b20c7f5d810</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoSS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga22b0cac49e8ef5b3d9a1836abd021720</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoCLfeS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaa6cc8eae43caf89b778136bbb05fc09a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTFS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacff5991a9dd2a3d5a415d499bcfd681b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTSS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gad25d6a1fe574b28440e6b95d94978edb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoTRS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac777248ebd6fa592c82b7bcb78f9301e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringStereoBFS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8a0f76c380e173edac9016a3dcfc45bb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringCineFrontS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19addfe92087609dea4ef8c257becfbf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString30CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gadf31296b53805c54ae5563807650b24e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString30MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaae88a2f1492097d9d64e073cd7943722</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString31CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7e65cdf6a6fc4d8aeffc59a7b1a66a1f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString31MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b7e67dba5f5333b64eb847d3d78668d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString40CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga531abc9ded9f3e0474010cdb22557d0d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString40MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga51fdeb3143151508f6d94344431ce9de</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString41CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga3789962208da8454667b34aa666981db</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString41MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga54a60dca7c8b8556b398867c51dc1e00</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString50S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab8903815699fa69a4fd8ec717317dc29</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString51S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafbb743a8f1f0002bae234e2d5910ee8a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString60CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga16ff5025a411dc1c3b7fc305dfe53073</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString60MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2533387651492af2317e897bd94bf26</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString61CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga2f2f2eb56bcf2977ad670a752c69d793</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString61MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81d034a4b036e9e9bd0be527711db6fc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae72794cddb19856e3ec62e33d290176d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5f3a9a34dc5798908f848f0b881b8c06</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4b10dc09ef678e66e90330f5b6b591d0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec8cf18e8bfd88584375e66b67fde24e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf3da1b6a98e9f9d01e8141f205f35764</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8204788aa5b2fce1730c157dc8a9239f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gafe30ad0333248d38dfd6a162879a97a6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81MusicS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5b7279077b689fa26044fc2520a413c7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString80CubeS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab5aedcc126b998d57c67be78255cd52b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineTopCenterS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga006f007337addc5c126777bc9e9b774d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineCenterHighS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0c13b30d128debc8f8976927a321f48</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineFrontHighS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga19c9b28dd806c4a7cf532e33c4db7d1d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineSideHighS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga708f2bb3ba7a3f624acf291960ca7788</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71CineFullRearS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5e313aadeb060bc3dc88d17ca2e81a06</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71ProximityS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga86fc6ff2265855e22d3573786e05af2d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga4a24b9cdab9b5ed5af4ae28cbe8f7205</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gabebe500b3d27127ae844c7fcabb854f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString100CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga341a094c1693e21946264eb706155c32</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString101CineS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga7ce63c640f335bc95fb4203dbe117a44</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString50_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga8f720e94eddcbd5b60ad0bce56349883</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString51_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga076816df2f77a47f7ffa7f954624886a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_2S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gae4e0eb4b5b2a9d8be26313f2bacfdf0e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_2S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga50d7d7630353ff6f0512be5aa2277fc4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga47554e8c117d0119288c796708533bd5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac09c0be94436acb5d49fe4fb69f13ffe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString70_6S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9286dbbe48dd048c6096935139c293e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString71_6S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9763b5d2b528848fc90deec34999ca90</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6d4ef306235169341804482b1be208fe</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91_4S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga1b17445201a92bee4c23dd16e5cd1728</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString90_6S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gac89dcac8a9acb594a3e406cc5241d650</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString91_6S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaf0b16e15ff6616a3e481b879d3b4c53f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString100S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaec0be9229bbb0796d8d1c69e059e7501</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString101S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga5c88990128aeaf6e70cf777e2e2e07f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString110S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gacd74a4610c5894723966b586ff76780b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString111S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga6520dd17a30ba116ac2877b28a1b8cc9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString130S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gaccdab4f0e651d4c1b0b850e6c8edb9f4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString131S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9cdfa2ff878225396509ca7b25af7f1f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString102S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga31de54f5e618a467f94a579550328644</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString122S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga800e2e69c905b5feaeda81ac24b3f653</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString81MPEGS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga78b0189e39c80c0bf5cec0ddcce73cf9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString140S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga426116f26f987c030cf2bc70302aa219</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString222S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab442cbf6e2447ea3a762e0c9c891d274</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kString220S</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga9df1f69930cf3ab747d645b40ba073c1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi1stOrderS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga319dbf573206d0bb1a8b77e7f476548d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi2cdOrderS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>ga81cbc11f839866ed8a91dc903e5a6d97</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kStringAmbi3rdOrderS</name>
+      <anchorfile>group__speakerArrangements.html</anchorfile>
+      <anchor>gab2317fa07e1e7ee2cfce204a07945c40</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -17162,296 +21243,40 @@
     <name>platformUIType</name>
     <title>Platform UI Types</title>
     <filename>group__platformUIType.html</filename>
-  </compound>
-  <compound kind="page">
-    <name>vst3Automation</name>
-    <title>Parameters and Automation</title>
-    <filename>vst3Automation</filename>
-    <docanchor file="vst3Automation" title="Parameters">vst3ParameterIntro</docanchor>
-    <docanchor file="vst3Automation" title="Representation of parameter values">Representationofparametervalues</docanchor>
-    <docanchor file="vst3Automation" title="Parameter styles / &apos;Step Count&apos;">parameterstyle</docanchor>
-    <docanchor file="vst3Automation" title="Conversion of normalized values">Conversionofnormalizedvalues</docanchor>
-    <docanchor file="vst3Automation" title="Automation">vst3AutomationIntro</docanchor>
-    <docanchor file="vst3Automation" title="Problems">problems</docanchor>
-    <docanchor file="vst3Automation" title="Automation Recording">vst3automationRecording</docanchor>
-    <docanchor file="vst3Automation" title="Sliders &amp; Knobs">sliderknobs</docanchor>
-    <docanchor file="vst3Automation" title="Buttons / Radio Groups / Pop-up Menus">buttonradiopopup</docanchor>
-    <docanchor file="vst3Automation" title="Text Input">textinput</docanchor>
-    <docanchor file="vst3Automation" title="Automation Playback">vst3automationPlayback</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>vst3Units</name>
-    <title>VST 3 Units</title>
-    <filename>vst3Units</filename>
-    <docanchor file="vst3Units" title="Unit details">unitdetails</docanchor>
-    <docanchor file="vst3Units" title="Examples">unitexamples</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>interfaceplug30</name>
-    <title>[3.0.0] Interfaces supported by the plug-in</title>
-    <filename>interfaceplug30</filename>
-    <docanchor file="interfaceplug30">IComponent</docanchor>
-    <docanchor file="interfaceplug30">IAudioProcessor</docanchor>
-    <docanchor file="interfaceplug30">IEditController</docanchor>
-    <docanchor file="interfaceplug30">IConnectionPoint</docanchor>
-    <docanchor file="interfaceplug30">IUnitInfo</docanchor>
-    <docanchor file="interfaceplug30">IProgramListData</docanchor>
-    <docanchor file="interfaceplug30">IUnitData</docanchor>
-    <docanchor file="interfaceplug30">IPlugView</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>interfacehost30</name>
-    <title>[3.0.0] Interfaces supported by the host</title>
-    <filename>interfacehost30</filename>
-    <docanchor file="interfacehost30">IAttributeList</docanchor>
-    <docanchor file="interfacehost30">IComponentHandler</docanchor>
-    <docanchor file="interfacehost30">IEventList</docanchor>
-    <docanchor file="interfacehost30">IUnitHandler</docanchor>
-    <docanchor file="interfacehost30">IHostApplication</docanchor>
-    <docanchor file="interfacehost30">IMessage</docanchor>
-    <docanchor file="interfacehost30">IParamValueQueue</docanchor>
-    <docanchor file="interfacehost30">IParameterChanges</docanchor>
-    <docanchor file="interfacehost30">IPlugFrame</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>imidimappingsupport</name>
-    <title>[3.0.1] Parameter MIDI Mapping Support</title>
-    <filename>imidimappingsupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>iparameterfindersupport</name>
-    <title>[3.0.2] Parameter Finder Support</title>
-    <filename>iparameterfindersupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>ieditcontroller2</name>
-    <title>[3.1.0] KnobMode / openHelp / openAboutBox Support</title>
-    <filename>ieditcontroller2</filename>
-  </compound>
-  <compound kind="page">
-    <name>icomponenthandler2</name>
-    <title>[3.1.0] UI Group Editing, Dirty State and Open Editor Request Support</title>
-    <filename>icomponenthandler2</filename>
-  </compound>
-  <compound kind="page">
-    <name>iaudiopresentationlatency</name>
-    <title>[3.1.0] Audio Presentation Latency Support</title>
-    <filename>iaudiopresentationlatency</filename>
-  </compound>
-  <compound kind="page">
-    <name>contextmenu</name>
-    <title>[3.5.0] Context Menu Support</title>
-    <filename>contextmenu</filename>
-  </compound>
-  <compound kind="page">
-    <name>ieditcontrollerhostediting</name>
-    <title>[3.5.0] Better Support of Linked Parameters</title>
-    <filename>ieditcontrollerhostediting</filename>
-  </compound>
-  <compound kind="page">
-    <name>noteExpression</name>
-    <title>[3.5.0] Note Expression Support</title>
-    <filename>noteExpression</filename>
-    <docanchor file="noteExpression" title="Introduction">neintro</docanchor>
-    <docanchor file="noteExpression" title="How does it work?">nehowitwork</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>keyswitch</name>
-    <title>[3.5.0] Key Switch Support</title>
-    <filename>keyswitch</filename>
-    <docanchor file="keyswitch" title="Introduction">ksintro</docanchor>
-    <docanchor file="keyswitch" title="How does it work?">kshowitwork</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>representation</name>
-    <title>[3.5.0] Remote Representation of Parameters Support</title>
-    <filename>representation</filename>
-    <docanchor file="representation" title="Introduction">reintro</docanchor>
-    <docanchor file="representation" title="Graphical overview">review</docanchor>
-    <docanchor file="representation" title="Example of implementation using helper class">reexample</docanchor>
-    <docanchor file="representation" title="Location table for VST XMLs representation">retable</docanchor>
-    <docanchor file="representation" title="For Mac platform">macxml</docanchor>
-    <docanchor file="representation" title="For Windows Vista/7/8/10 platform">win7xml</docanchor>
-    <docanchor file="representation" title="For Windows XP/2000 platform">win2000xml</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>interappaudio2</name>
-    <title>[3.6.0] iOS Inter-App Audio support</title>
-    <filename>interappaudio2</filename>
-  </compound>
-  <compound kind="page">
-    <name>streamAttributes</name>
-    <title>[3.6.0] Preset Meta-Information Support</title>
-    <filename>streamAttributes</filename>
-  </compound>
-  <compound kind="page">
-    <name>channelContextInfo</name>
-    <title>[3.6.5] Channel Context Info Support</title>
-    <filename>channelContextInfo</filename>
-  </compound>
-  <compound kind="page">
-    <name>prefetchableSupport</name>
-    <title>[3.6.5] Prefetchable Support</title>
-    <filename>prefetchableSupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>iunithandler2</name>
-    <title>[3.6.5] Unit-Bus Assignment Change Support</title>
-    <filename>iunithandler2</filename>
-  </compound>
-  <compound kind="page">
-    <name>iautomationstate</name>
-    <title>[3.6.5] Automation State Support</title>
-    <filename>iautomationstate</filename>
-  </compound>
-  <compound kind="page">
-    <name>iplugviewcontentscalesupport</name>
-    <title>[3.6.6] PlugView Content Scale Support</title>
-    <filename>iplugviewcontentscalesupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>requestbusactivation</name>
-    <title>[3.6.8] Request Bus Activation</title>
-    <filename>requestbusactivation</filename>
-  </compound>
-  <compound kind="page">
-    <name>snapshotsSupport</name>
-    <title>[3.6.10] Snapshots inside the VST3 Bundle Support</title>
-    <filename>snapshotsSupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>noteExpressionPhysicalUIMapping</name>
-    <title>[3.6.11] NoteExpression Physical UI Mapping Support</title>
-    <filename>noteExpressionPhysicalUIMapping</filename>
-  </compound>
-  <compound kind="page">
-    <name>legacyMIDICCOutEvent</name>
-    <title>[3.6.12] Legacy MIDI CC Out Event</title>
-    <filename>legacyMIDICCOutEvent</filename>
-  </compound>
-  <compound kind="page">
-    <name>imidilearn</name>
-    <title>[3.6.12] MIDI Learn Support</title>
-    <filename>imidilearn</filename>
-  </compound>
-  <compound kind="page">
-    <name>ipluginterfacesupport</name>
-    <title>[3.6.12] PlugInterface Support from host</title>
-    <filename>ipluginterfacesupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>mpewrappersupport</name>
-    <title>[3.6.12] MPE support in Wrappers</title>
-    <filename>mpewrappersupport</filename>
-  </compound>
-  <compound kind="page">
-    <name>processcontextrequirements</name>
-    <title>[3.7.0] Process Context Requirements</title>
-    <filename>processcontextrequirements</filename>
-  </compound>
-  <compound kind="page">
-    <name>progress</name>
-    <title>[3.7.0] IProgress Support</title>
-    <filename>progress</filename>
-  </compound>
-  <compound kind="page">
-    <name>parameterfunctionname</name>
-    <title>[3.7.0] Parameter Function Name</title>
-    <filename>parameterfunctionname</filename>
-  </compound>
-  <compound kind="page">
-    <name>vst3Presets</name>
-    <title>Presets &amp; Program Lists</title>
-    <filename>vst3Presets</filename>
-    <docanchor file="vst3Presets" title="Simple plug-ins">vst3PrestsSimple</docanchor>
-    <docanchor file="vst3Presets" title="Program Lists">vst3ProgramLists</docanchor>
-    <docanchor file="vst3Presets" title="Structure of Program Lists">vst3ProgramListStructure</docanchor>
-    <docanchor file="vst3Presets" title="Pitch Names">vst3ProgramPitchNames</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>vst3Multitimbral</name>
-    <title>Complex plug-in Structures / Multi-timbral Instruments</title>
-    <filename>vst3Multitimbral</filename>
-    <docanchor file="vst3Multitimbral" title="The Problem">vst3MultitimbralIntro</docanchor>
-    <docanchor file="vst3Multitimbral" title="The Simple Mode">vst3IoMode</docanchor>
-    <docanchor file="vst3Multitimbral" title="Multi-timbral Program Lists">vst3MultitimbralPrograms</docanchor>
-    <docanchor file="vst3Multitimbral" title="Units and Tracks">vst3UnitsTracks</docanchor>
-    <docanchor file="vst3Multitimbral" title="Routing">vst3Routing</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>workflow</name>
-    <title>VST 3 Workflow Diagrams</title>
-    <filename>workflow</filename>
-    <docanchor file="workflow" title="Audio Processor Call Sequence">processorcallsequence</docanchor>
-    <docanchor file="workflow" title="Edit Controller Call Sequence">controllercallsequence</docanchor>
-    <docanchor file="workflow" title="Get Latency Call Sequences">GetLatencyCallSequence</docanchor>
-    <docanchor file="workflow" title="Resize View Call Sequences">ResizeCallSequence</docanchor>
-    <docanchor file="workflow" title="Bus Arrangement Sequences">BusArrangementSequence</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>vst3loc</name>
-    <title>VST 3 Locations / Format</title>
-    <filename>vst3loc</filename>
-    <docanchor file="vst3loc" title="Plug-in Format">plugFormat</docanchor>
-    <docanchor file="vst3loc" title="For the macOS platform">macformat</docanchor>
-    <docanchor file="vst3loc" title="For the Windows platform">winformat</docanchor>
-    <docanchor file="vst3loc" title="For the Linux platform">linuxformat</docanchor>
-    <docanchor file="vst3loc" title="Snapshots">snapshots</docanchor>
-    <docanchor file="vst3loc" title="Merged Bundle">mergedbundles</docanchor>
-    <docanchor file="vst3loc" title="Plug-in Locations">pluginloc</docanchor>
-    <docanchor file="vst3loc" title="For the macOS platform">maclocation</docanchor>
-    <docanchor file="vst3loc" title="For the Windows platform">winlocation</docanchor>
-    <docanchor file="vst3loc" title="For Linux platform">linuxlocation</docanchor>
-    <docanchor file="vst3loc" title="Preset Format">presetformat</docanchor>
-    <docanchor file="vst3loc" title="Preset Locations">presetloc</docanchor>
-    <docanchor file="vst3loc" title="For Mac platform">macpreset</docanchor>
-    <docanchor file="vst3loc" title="For Windows XP/2000 platform">win2000preset</docanchor>
-    <docanchor file="vst3loc" title="For Windows Vista/7/8/10 platform">win7preset</docanchor>
-    <docanchor file="vst3loc" title="For Linux platform">linuxpreset</docanchor>
-    <docanchor file="vst3loc" title="Remote Representation Locations">representationloc</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>MidiVst3About</name>
-    <title>About MIDI in VST 3</title>
-    <filename>MidiVst3About</filename>
-    <docanchor file="MidiVst3About" title="Related Concepts in MIDI and VST 3">MidiVst3Relations</docanchor>
-    <docanchor file="MidiVst3About" title="MIDI 2.0 Per-Note Controllers">Midi2PerNote</docanchor>
-    <docanchor file="MidiVst3About" title="MIDI 2.0 Increased Resolution, compared to MIDI 1.0">Midi2IncreasedResolution</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>cmakeUse</name>
-    <title>How to use cmake for Building VST 3 plug-ins</title>
-    <filename>cmakeUse</filename>
-  </compound>
-  <compound kind="page">
-    <name>addownplugs</name>
-    <title>How to add/create your own VST 3 plug-ins</title>
-    <filename>addownplugs</filename>
-  </compound>
-  <compound kind="page">
-    <name>linuxSetup</name>
-    <title>Setup Linux for building VST 3 plug-ins</title>
-    <filename>linuxSetup</filename>
-    <docanchor file="linuxSetup" title="Package Requirements">toolchainInstallation</docanchor>
-  </compound>
-  <compound kind="page">
-    <name>index</name>
-    <title>VST 3 API Documentation</title>
-    <filename>index</filename>
-    <docanchor file="index" title="Contents">vst3Contents</docanchor>
-    <docanchor file="index" title="Change History">newinvst3x</docanchor>
-    <docanchor file="index" title="Basic Conception">vst3Structure</docanchor>
-    <docanchor file="index">Initialize</docanchor>
-    <docanchor file="index" title="Creation and Initialize from host point of view">creation</docanchor>
-    <docanchor file="index">Extensions</docanchor>
-    <docanchor file="index">Persistence</docanchor>
-    <docanchor file="index" title="The Processing Part">vst3Processing</docanchor>
-    <docanchor file="index" title="IComponent">icomponent</docanchor>
-    <docanchor file="index" title="IAudioProcessor">iaudioprocessor</docanchor>
-    <docanchor file="index" title="The Editing Part">vst3Editing</docanchor>
-    <docanchor file="index" title="Communication between the components">vst3Communication</docanchor>
-    <docanchor file="index" title="Standard Communication">standard</docanchor>
-    <docanchor file="index" title="Private Communication">private</docanchor>
-    <docanchor file="index" title="Initialization of communication from host point of view">initialization</docanchor>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeHWND</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeHIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga974cabea219cb31ad8218ba15d1f7071</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeNSView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga8ce69944b5475d65206469b9ebcbf755</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeUIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga6362a7ca65b87d30c561dac986b757bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeX11EmbedWindowID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
 </tagfile>

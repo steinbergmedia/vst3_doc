@@ -1,17 +1,18 @@
 /*
-@licstart  The following is the entire license notice for the
+@ @licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2019 by Dimitri van Heesch
+Copyright (C) 1997-2017 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of version 2 of the GNU General Public License as published by
-the Free Software Foundation
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -23,33 +24,6 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Interface Technology Basics", "index.html", [
-    [ "VST Module Architecture", "index.html", [
-      [ "Introduction", "index.html#piVstMa", null ],
-      [ "Interfaces", "index.html#piInterfaces", [
-        [ "FUnknown", "index.html#funknown", null ],
-        [ "IID/CID", "index.html#iid", null ],
-        [ "Direction", "index.html#direction", null ],
-        [ "Versioning and inheritance", "index.html#version", null ],
-        [ "COM Compatibility", "index.html#com", null ],
-        [ "Basic Interfaces", "index.html#basic", null ],
-        [ "Helper Classes", "index.html#helper", null ]
-      ] ],
-      [ "Plug-ins", "index.html#piPlugins", [
-        [ "Module Factory", "index.html#module", null ],
-        [ "Locations", "index.html#Locations", null ],
-        [ "Categories", "index.html#Categories", null ],
-        [ "IPluginBase", "index.html#IPluginBase", null ],
-        [ "Purpose-specific interfaces", "index.html#purpose", null ]
-      ] ],
-      [ "Unicode", "index.html#Unicode", [
-        [ "Plug-ins for Unicode hosts", "index.html#plugunicode", null ],
-        [ "Migrating from non-Unicode to Unicode", "index.html#migrating", null ],
-        [ "SDK backward compatibility", "index.html#backward", null ]
-      ] ]
-    ] ],
-    [ "How to derive a class from an interface", "howtoClass.html", null ],
-    [ "Interface Versions and Inheritance", "versionInheritance.html", null ],
-    [ "How the host will load a plug-in", "loadPlugin.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -91,8 +65,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classSteinberg_1_1UStringBuffer.html#afd98290b12cedfd1ec974a198bc20548",
-"index.html#plugunicode",
-"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cda5fe89a70ee7bcac01feb5fc1de15985f"
+"iplugviewcontentscalesupport_8h.html",
+"ucolorspec_8h.html#acbbce6877e30abdb4f8fedfbcc3622cdac4512c2e2b20209b3fa8364b8be3483d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,10 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#abdbf9351af7b99e82fbad02842eef222":[2,0,0,0,3,61,26],
-"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#ad48c36f6210f722d195a93f68fb7dff4":[2,0,0,0,3,61,5],
-"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#ad8b0d88339441c0f6182ec47a705df55":[2,0,0,0,3,61,1],
-"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#aea981f2241e675aa4d3032b0231c7dc7":[2,0,0,0,3,61,25],
-"classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#aeab43b16f2fd52c9b88654edcb64db59":[2,0,0,0,3,61,18],
 "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#af5c922cc1f7054edc9060d83074d7a8f":[2,0,0,0,3,61,16],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoController.html":[2,0,0,0,3,62],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoController.html#a22c26debac7f8cac0e0350cecf8d0a4c":[2,0,0,0,3,62,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX8 =
 "classVSTGUI_1_1EventLogDataBrowserSource.html#aff1cdebbc921ab91f3f98b9f91a9a32f":[2,0,1,0,10],
 "classVSTGUI_1_1NoteTouchController.html":[2,0,1,1],
 "classVSTGUI_1_1NoteTouchController.html#a129e460bdd8c7b1046ebcdc4e5e17ce5":[2,0,1,1,12],
-"classVSTGUI_1_1NoteTouchController.html#a137265ed70dca9006615cbcc86c29774":[2,0,1,1,5]
+"classVSTGUI_1_1NoteTouchController.html#a137265ed70dca9006615cbcc86c29774":[2,0,1,1,5],
+"classVSTGUI_1_1NoteTouchController.html#a16f42f2efa3f6e691ad850acf8f73221":[2,0,1,1,9],
+"classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3":[2,0,1,1,11],
+"classVSTGUI_1_1NoteTouchController.html#a5710f4953ade5a9361b3b8342c0c1f3b":[2,0,1,1,4],
+"classVSTGUI_1_1NoteTouchController.html#a6564a7121b8a3e62cc91278cef75de89":[2,0,1,1,17],
+"classVSTGUI_1_1NoteTouchController.html#a7ffee739cc92424b3ea742b048838896":[2,0,1,1,14]
 };

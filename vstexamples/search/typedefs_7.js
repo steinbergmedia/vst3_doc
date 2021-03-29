@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['mediatype_8234',['MediaType',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a5f0d28213b308d786ef7a1541d88368f',1,'Steinberg::Vst']]],
-  ['module_8235',['Module',['../classSteinberg_1_1Vst_1_1Validator.html#ab626c416deed7a37c2f1e52f754d4bd3',1,'Steinberg::Vst::Validator']]]
+  ['large_5fint',['LARGE_INT',['../../base/namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
+  ['logevents',['LogEvents',['../classVSTGUI_1_1EventLogDataBrowserSource.html#a917ffbaa6f83813a5db5c18b8af39b0a',1,'VSTGUI::EventLogDataBrowserSource']]]
 ];

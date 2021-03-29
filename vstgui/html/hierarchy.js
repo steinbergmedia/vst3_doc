@@ -20,6 +20,7 @@ var hierarchy =
     [ "CFileExtension", "class_v_s_t_g_u_i_1_1_c_file_extension.html", null ],
     [ "CFontChooserUIDefinition", "struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html", null ],
     [ "CGraphicsTransform", "struct_v_s_t_g_u_i_1_1_c_graphics_transform.html", null ],
+    [ "CInvalidRectList", "struct_v_s_t_g_u_i_1_1_c_invalid_rect_list.html", null ],
     [ "CLineStyle", "class_v_s_t_g_u_i_1_1_c_line_style.html", null ],
     [ "CListControlRowDesc", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html", null ],
     [ "CMouseWheelEditingSupport", "class_v_s_t_g_u_i_1_1_c_mouse_wheel_editing_support.html", [
@@ -54,9 +55,9 @@ var hierarchy =
     [ "DispatchList< VSTGUI::CView * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DispatchList< VSTGUI::IFocusViewObserver * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DispatchList< VSTGUI::IKeyboardHook * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
-    [ "DispatchList< VSTGUI::IKeyboardViewKeyRangeChangedListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DispatchList< VSTGUI::IMouseObserver * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DispatchList< VSTGUI::IScaleFactorChangedListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
+    [ "DispatchList< VSTGUI::ITextEditListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DragDescription", "struct_v_s_t_g_u_i_1_1_drag_description.html", null ],
     [ "DragEventData", "struct_v_s_t_g_u_i_1_1_drag_event_data.html", null ],
     [ "DragStartMouseObserver", "struct_v_s_t_g_u_i_1_1_drag_start_mouse_observer.html", null ],
@@ -82,10 +83,12 @@ var hierarchy =
       [ "ViewSizeAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html", null ]
     ] ],
     [ "IBitmapCreator", "class_v_s_t_g_u_i_1_1_i_bitmap_creator.html", null ],
+    [ "IBitmapCreator2", "class_v_s_t_g_u_i_1_1_i_bitmap_creator2.html", null ],
     [ "IColorChooserDelegate", "class_v_s_t_g_u_i_1_1_i_color_chooser_delegate.html", null ],
-    [ "IContentProvider", "class_v_s_t_g_u_i_1_1_xml_1_1_i_content_provider.html", [
-      [ "InputStreamContentProvider", "class_v_s_t_g_u_i_1_1_xml_1_1_input_stream_content_provider.html", null ],
-      [ "MemoryContentProvider", "class_v_s_t_g_u_i_1_1_xml_1_1_memory_content_provider.html", null ]
+    [ "IContentProvider", "class_v_s_t_g_u_i_1_1_i_content_provider.html", [
+      [ "InputStreamContentProvider", "class_v_s_t_g_u_i_1_1_input_stream_content_provider.html", null ],
+      [ "MemoryContentProvider", "class_v_s_t_g_u_i_1_1_memory_content_provider.html", null ],
+      [ "ZLibInputContentProvider", "class_v_s_t_g_u_i_1_1_z_lib_input_content_provider.html", null ]
     ] ],
     [ "IContextMenuController", "class_v_s_t_g_u_i_1_1_i_context_menu_controller.html", null ],
     [ "IContextMenuController2", "class_v_s_t_g_u_i_1_1_i_context_menu_controller2.html", null ],
@@ -152,14 +155,8 @@ var hierarchy =
     ] ],
     [ "IFocusViewObserver", "class_v_s_t_g_u_i_1_1_i_focus_view_observer.html", null ],
     [ "IFontChooserDelegate", "class_v_s_t_g_u_i_1_1_i_font_chooser_delegate.html", null ],
-    [ "IHandler", "class_v_s_t_g_u_i_1_1_xml_1_1_i_handler.html", [
-      [ "Parser", "struct_v_s_t_g_u_i_1_1_u_i_description_private_1_1_parser.html", null ]
-    ] ],
+    [ "IHandler", "class_v_s_t_g_u_i_1_1_xml_1_1_i_handler.html", null ],
     [ "IKeyboardHook", "class_v_s_t_g_u_i_1_1_i_keyboard_hook.html", null ],
-    [ "IKeyboardViewKeyRangeChangedListener", "struct_v_s_t_g_u_i_1_1_i_keyboard_view_key_range_changed_listener.html", null ],
-    [ "IKeyboardViewPlayerDelegate", "struct_v_s_t_g_u_i_1_1_i_keyboard_view_player_delegate.html", [
-      [ "KeyboardViewPlayerDelegate", "struct_v_s_t_g_u_i_1_1_keyboard_view_player_delegate.html", null ]
-    ] ],
     [ "IMouseObserver", "class_v_s_t_g_u_i_1_1_i_mouse_observer.html", [
       [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
     ] ],
@@ -170,6 +167,7 @@ var hierarchy =
     [ "CSliderBase::Impl", "struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html", null ],
     [ "CSlider::Impl", "struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html", null ],
     [ "StringListControlDrawer::Impl", "struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html", null ],
+    [ "CControl::Impl", "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html", null ],
     [ "IMultiBitmapControl", "class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html", [
       [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html", null ],
       [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", null ],
@@ -180,13 +178,12 @@ var hierarchy =
       [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html", null ]
     ] ],
     [ "IMultiBitmapControlCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_i_multi_bitmap_control_creator.html", null ],
-    [ "inflate_state", "structinflate__state.html", null ],
     [ "Info", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_info.html", null ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", null ],
     [ "InputStream", "class_v_s_t_g_u_i_1_1_input_stream.html", [
       [ "CFileStream", "class_v_s_t_g_u_i_1_1_c_file_stream.html", null ],
       [ "CMemoryStream", "class_v_s_t_g_u_i_1_1_c_memory_stream.html", [
-        [ "MemoryContentProvider", "class_v_s_t_g_u_i_1_1_xml_1_1_memory_content_provider.html", null ]
+        [ "MemoryContentProvider", "class_v_s_t_g_u_i_1_1_memory_content_provider.html", null ]
       ] ],
       [ "CResourceInputStream", "class_v_s_t_g_u_i_1_1_c_resource_input_stream.html", null ],
       [ "ZLibInputStream", "class_v_s_t_g_u_i_1_1_z_lib_input_stream.html", null ]
@@ -287,9 +284,7 @@ var hierarchy =
         [ "ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html", null ],
         [ "ViewSizeAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html", null ],
         [ "IFilter", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_i_filter.html", [
-          [ "FilterBase", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html", [
-            [ "CIBoxBlurFilter", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_c_i_box_blur_filter.html", null ]
-          ] ]
+          [ "FilterBase", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html", null ]
         ] ],
         [ "CBaseObject", "class_v_s_t_g_u_i_1_1_c_base_object.html", [
           [ "FinishedMessage", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html", null ],
@@ -316,10 +311,6 @@ var hierarchy =
               [ "CSplitView", "class_v_s_t_g_u_i_1_1_c_split_view.html", null ],
               [ "CTabView", "class_v_s_t_g_u_i_1_1_c_tab_view.html", null ],
               [ "UIViewSwitchContainer", "class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html", null ]
-            ] ],
-            [ "KeyboardViewBase", "class_v_s_t_g_u_i_1_1_keyboard_view_base.html", [
-              [ "KeyboardView", "class_v_s_t_g_u_i_1_1_keyboard_view.html", null ],
-              [ "KeyboardViewRangeSelector", "class_v_s_t_g_u_i_1_1_keyboard_view_range_selector.html", null ]
             ] ]
           ] ],
           [ "CVSTGUITimer", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html", null ],
@@ -361,6 +352,9 @@ var hierarchy =
     [ "ISplitViewController", "class_v_s_t_g_u_i_1_1_i_split_view_controller.html", null ],
     [ "ISplitViewSeparatorDrawer", "class_v_s_t_g_u_i_1_1_i_split_view_separator_drawer.html", null ],
     [ "CViewContainer::Iterator< reverse >", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html", null ],
+    [ "ITextEditListener", "class_v_s_t_g_u_i_1_1_i_text_edit_listener.html", [
+      [ "TextEditListenerAdapter", "class_v_s_t_g_u_i_1_1_text_edit_listener_adapter.html", null ]
+    ] ],
     [ "ITextLabelListener", "class_v_s_t_g_u_i_1_1_i_text_label_listener.html", [
       [ "TextLabelListenerAdapter", "class_v_s_t_g_u_i_1_1_text_label_listener_adapter.html", null ]
     ] ],
@@ -387,10 +381,6 @@ var hierarchy =
     ] ],
     [ "IViewCreator", "class_v_s_t_g_u_i_1_1_i_view_creator.html", [
       [ "ViewCreatorAdapter", "class_v_s_t_g_u_i_1_1_view_creator_adapter.html", [
-        [ "KeyboardViewBaseCreator", "class_v_s_t_g_u_i_1_1_keyboard_view_base_creator.html", [
-          [ "KeyboardViewCreator", "class_v_s_t_g_u_i_1_1_keyboard_view_creator.html", null ],
-          [ "KeyboardViewRangeSelectorCreator", "class_v_s_t_g_u_i_1_1_keyboard_view_range_selector_creator.html", null ]
-        ] ],
         [ "AnimationSplashScreenCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_animation_splash_screen_creator.html", null ],
         [ "CheckBoxCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_check_box_creator.html", null ],
         [ "ControlCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_control_creator.html", null ],
@@ -453,17 +443,9 @@ var hierarchy =
     [ "ListenerProvider< Impl, UIDescriptionListener >", "struct_v_s_t_g_u_i_1_1_listener_provider.html", [
       [ "UIDescription::Impl", "struct_v_s_t_g_u_i_1_1_u_i_description_1_1_impl.html", null ]
     ] ],
-    [ "Locale", "struct_v_s_t_g_u_i_1_1_u_i_description_private_1_1_locale.html", null ],
     [ "MallocAllocator", "struct_v_s_t_g_u_i_1_1_malloc_allocator.html", null ],
     [ "ModalViewSession", "struct_v_s_t_g_u_i_1_1_modal_view_session.html", null ],
     [ "CKnobBase::MouseEditingState", "struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html", null ],
-    [ "mz_stream_s", "structmz__stream__s.html", null ],
-    [ "mz_zip_archive", "structmz__zip__archive.html", null ],
-    [ "mz_zip_archive_file_stat", "structmz__zip__archive__file__stat.html", null ],
-    [ "mz_zip_array", "structmz__zip__array.html", null ],
-    [ "mz_zip_internal_state_tag", "structmz__zip__internal__state__tag.html", null ],
-    [ "mz_zip_reader_extract_iter_state", "structmz__zip__reader__extract__iter__state.html", null ],
-    [ "mz_zip_writer_add_state", "structmz__zip__writer__add__state.html", null ],
     [ "Optional< T >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
     [ "Optional< int32_t >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
     [ "Optional< ModalViewSessionID >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
@@ -473,13 +455,13 @@ var hierarchy =
       [ "BufferedOutputStream", "class_v_s_t_g_u_i_1_1_buffered_output_stream.html", null ],
       [ "CFileStream", "class_v_s_t_g_u_i_1_1_c_file_stream.html", null ],
       [ "CMemoryStream", "class_v_s_t_g_u_i_1_1_c_memory_stream.html", null ],
+      [ "StdOutStream", "class_v_s_t_g_u_i_1_1_std_out_stream.html", null ],
       [ "ZLibOutputStream", "class_v_s_t_g_u_i_1_1_z_lib_output_stream.html", null ]
     ] ],
     [ "Parser", "class_v_s_t_g_u_i_1_1_xml_1_1_parser.html", null ],
     [ "CFrame::Impl::PostEventHandler", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html", null ],
     [ "Preferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_preferences.html", null ],
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html", null ],
-    [ "KeyboardViewRangeSelector::Range", "struct_v_s_t_g_u_i_1_1_keyboard_view_range_selector_1_1_range.html", null ],
     [ "Base64Codec::Result", "struct_v_s_t_g_u_i_1_1_base64_codec_1_1_result.html", null ],
     [ "IListControlDrawer::Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html", null ],
     [ "SeekableStream", "class_v_s_t_g_u_i_1_1_seekable_stream.html", [
@@ -521,11 +503,6 @@ var hierarchy =
     [ "string", null, [
       [ "StringToken", "class_v_s_t_g_u_i_1_1_u_i_description_private_1_1_string_token.html", null ]
     ] ],
-    [ "tdefl_compressor", "structtdefl__compressor.html", null ],
-    [ "tdefl_output_buffer", "structtdefl__output__buffer.html", null ],
-    [ "tdefl_sym_freq", "structtdefl__sym__freq.html", null ],
-    [ "tinfl_decompressor_tag", "structtinfl__decompressor__tag.html", null ],
-    [ "tinfl_huff_table", "structtinfl__huff__table.html", null ],
     [ "CDrawContext::Transform", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html", null ],
     [ "TrimOptions", "struct_v_s_t_g_u_i_1_1_trim_options.html", null ],
     [ "UIAttributesMap", null, [

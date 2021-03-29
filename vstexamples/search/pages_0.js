@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['about_20midi_20in_20vst_203_8792',['About MIDI in VST 3',['../../vstinterfaces/MidiVst3About.html',1,'']]]
+  ['vst_203_20plug_2dins_20examples',['VST 3 plug-ins Examples',['../index.html',1,'']]]
 ];

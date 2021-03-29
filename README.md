@@ -1,4 +1,4 @@
-# Welcome to VST SDK 3 Doc
+# Welcome to VST 3 SDK Doc
 
 
 ## License & Usage guidelines

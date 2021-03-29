@@ -1,6 +1,6 @@
 <map id="BaseParameter" name="BaseParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="99,273,225,373"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html" title=" " alt="" coords="5,421,153,575"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html" title=" " alt="" coords="177,421,312,575"/>
-<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="99,5,225,225"/>
+<area shape="rect" id="node1" title=" " alt="" coords="98,280,221,382"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html" title=" " alt="" coords="5,430,150,588"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html" title=" " alt="" coords="174,430,307,588"/>
+<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="99,5,220,232"/>
 </map>

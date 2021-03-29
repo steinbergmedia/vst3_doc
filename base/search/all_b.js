@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['large_5fint_381',['LARGE_INT',['../namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
-  ['left_382',['left',['../structSteinberg_1_1ViewRect.html#ae08ef45a841fb76eef2ed11f7f6661ad',1,'Steinberg::ViewRect']]],
-  ['licence_5fuid_383',['LICENCE_UID',['../ipluginbase_8h.html#a15eabd5eb49e5ec7c8e2f6210f53ffdc',1,'ipluginbase.h']]],
-  ['loadattributes_384',['loadAttributes',['../classSteinberg_1_1IPersistent.html#a34ba5d29ec54b8d49213549ada3d59fe',1,'Steinberg::IPersistent']]]
+  ['makecolorspec',['MakeColorSpec',['../namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
+  ['max',['Max',['../namespaceSteinberg.html#a0f480f7384f085c2606eff5f310ad194',1,'Steinberg']]],
+  ['min',['Min',['../namespaceSteinberg.html#affba9ed0dfe13309d79094f10bbc6021',1,'Steinberg']]],
+  ['modifier',['modifier',['../structSteinberg_1_1KeyCode.html#abd7634cbb7389a3980e3b6b1b27c95a3',1,'Steinberg::KeyCode']]]
 ];

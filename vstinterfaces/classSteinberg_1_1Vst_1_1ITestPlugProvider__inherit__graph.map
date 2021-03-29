@@ -1,6 +1,6 @@
 <map id="ITestPlugProvider" name="ITestPlugProvider">
-<area shape="rect" id="node1" title="Test Helper." alt="" coords="19,153,161,280"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="24,328,156,401"/>
-<area shape="rect" id="node2" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="31,5,149,105"/>
-<area shape="rect" id="node4" href="/Builddata/re/266142901/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1PlugProvider.html" title=" " alt="" coords="5,449,175,776"/>
+<area shape="rect" id="node1" title="Test Helper." alt="" coords="18,156,157,286"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="23,334,153,408"/>
+<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="30,5,146,108"/>
+<area shape="rect" id="node4" href="/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1PlugProvider.html" title=" " alt="" coords="5,456,170,793"/>
 </map>

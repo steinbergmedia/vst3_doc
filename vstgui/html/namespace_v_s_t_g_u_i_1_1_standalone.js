@@ -2,6 +2,7 @@ var namespace_v_s_t_g_u_i_1_1_standalone =
 [
     [ "Application", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_application.html", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_application" ],
     [ "Async", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async.html", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async" ],
+    [ "Commands", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html", null ],
     [ "UIDesc", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc.html", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc" ],
     [ "Value", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value" ],
     [ "AlertBoxConfig", "struct_v_s_t_g_u_i_1_1_standalone_1_1_alert_box_config.html", "struct_v_s_t_g_u_i_1_1_standalone_1_1_alert_box_config" ],

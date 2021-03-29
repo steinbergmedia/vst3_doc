@@ -5,7 +5,6 @@ var files_dup =
       [ "ConstStringTable", "classSteinberg_1_1ConstStringTable.html", "classSteinberg_1_1ConstStringTable" ]
     ] ],
     [ "coreiids.cpp", "coreiids_8cpp.html", null ],
-    [ "doc.h", "doc_8h.html", null ],
     [ "falignpop.h", "falignpop_8h.html", null ],
     [ "falignpush.h", "falignpush_8h.html", null ],
     [ "fplatform.h", "fplatform_8h.html", "fplatform_8h" ],

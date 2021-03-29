@@ -29,5 +29,6 @@ var funknown_8h =
     [ "kNotInitialized", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba1216e3377e943f8898e78c63422924aa", null ],
     [ "kOutOfMemory", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55bac43d80137687fc5c1c4b60dc77202283", null ],
     [ "iidEqual", "funknown_8h.html#aa492cc7f50f5f6bfb7bd727a115e211e", null ],
-    [ "atomicAdd", "funknown_8h.html#aeab173beb18bb16a5737f9fbe0a45289", null ]
+    [ "atomicAdd", "funknown_8h.html#aeab173beb18bb16a5737f9fbe0a45289", null ],
+    [ "getTUID", "funknown_8h.html#a1f27423c4c95cdb487e39ca650c8785b", null ]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['blackkeypressed_6785',['BlackKeyPressed',['../class_v_s_t_g_u_i_1_1_keyboard_view_base.html#a5bf01659f4f5a22617de427738d2a58ca0f1bd323774f7516b8c8d53242e02229',1,'VSTGUI::KeyboardViewBase']]],
-  ['blackkeyunpressed_6786',['BlackKeyUnpressed',['../class_v_s_t_g_u_i_1_1_keyboard_view_base.html#a5bf01659f4f5a22617de427738d2a58cae056550fe17fb0af83ceb64da0c531a8',1,'VSTGUI::KeyboardViewBase']]]
+  ['bgra',['BGRA',['../namespace_v_s_t_g_u_i_1_1_pixel_buffer.html#ab4e88c89b3b7ea1735996cc4def22d58a5a1fe3c61c9e2fd6dbbc823589f6e697',1,'VSTGUI::PixelBuffer']]]
 ];

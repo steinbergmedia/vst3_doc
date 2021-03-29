@@ -9,7 +9,7 @@ var classSteinberg_1_1IPtr =
     [ "operator=", "classSteinberg_1_1IPtr.html#a4622db0a0823ec5e9801cd602f0fe794", null ],
     [ "operator=", "classSteinberg_1_1IPtr.html#a4b2a58247abf169f08870dc83ac941ab", null ],
     [ "operator=", "classSteinberg_1_1IPtr.html#a6fc6201a9df8fa0ae91921338e9fadfc", null ],
-    [ "operator I*", "classSteinberg_1_1IPtr.html#a8146c0b148b276ccca7ce4ac66066fa7", null ],
+    [ "operator I *", "classSteinberg_1_1IPtr.html#ab5965480fd07f18764cb89893aba1133", null ],
     [ "operator->", "classSteinberg_1_1IPtr.html#af0e47eae5b0e2aebb0829dbae70ad4f9", null ],
     [ "get", "classSteinberg_1_1IPtr.html#aa6bc54ff360c35c1d6f9875f7f7ed6b7", null ],
     [ "reset", "classSteinberg_1_1IPtr.html#a9ef8df82f56d037f33eedf88dc642ac1", null ],

@@ -28,6 +28,7 @@ var fdebug_8h =
     [ "DBPRT3", "fdebug_8h.html#ad35e7b53a5662120a18c70972419c62c", null ],
     [ "DBPRT4", "fdebug_8h.html#a11a2c50ad704f0b137fd686f34331140", null ],
     [ "DBPRT5", "fdebug_8h.html#ac57ffc0fbda8df0d6977b8df435a5d68", null ],
+    [ "AmIBeingDebugged", "fdebug_8h.html#a68905e29c7c08dd4acceb42b133e2cea", null ],
     [ "isSmtgUnitTesting", "fdebug_8h.html#a9644c7545455af00c4ed6d92818b4f11", null ],
     [ "setSmtgUnitTesting", "fdebug_8h.html#a52efd3b482fb6cae898073589f43d0c7", null ]
 ];

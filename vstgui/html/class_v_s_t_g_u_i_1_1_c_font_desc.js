@@ -1,6 +1,5 @@
 var class_v_s_t_g_u_i_1_1_c_font_desc =
 [
-    [ "PlatformFontPtr", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a92a65435a53ecdc78fe79c313978b5e2", null ],
     [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a14ed77aef1dc970d25f0f52ff2ca26f3", null ],
     [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#a157fa104aedea9ca50ac572388f6816a", null ],
     [ "~CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html#abe04de5e1f9b5c3d30416bfbe727bc19", null ],

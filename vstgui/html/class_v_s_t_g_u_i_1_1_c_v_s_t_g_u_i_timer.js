@@ -15,5 +15,5 @@ var class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer =
     [ "callbackFunc", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a19fb6c4dac611b62cbaf48c6755ed436", null ],
     [ "fireTime", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a5ccd3311b86957f6ae19bbd851cde131", null ],
     [ "kMsgTimer", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a1aa04d11363de1df614e2fbb549ad655", null ],
-    [ "platformTimer", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a0f4421db8cf19a4358cb0f6fdfd68cbb", null ]
+    [ "platformTimer", "class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#ac4b1075069502db54e73e3ad503a036d", null ]
 ];

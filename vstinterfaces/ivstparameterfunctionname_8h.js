@@ -1,5 +1,6 @@
 var ivstparameterfunctionname_8h =
 [
+    [ "IParameterFunctionName", "classSteinberg_1_1Vst_1_1IParameterFunctionName.html", "classSteinberg_1_1Vst_1_1IParameterFunctionName" ],
     [ "kCompGainReduction", "ivstparameterfunctionname_8h.html#a95060bef8cd2b144050c98326dccf13d", null ],
     [ "kCompGainReductionMax", "ivstparameterfunctionname_8h.html#a0bd06431d3d5836bce03edd612419757", null ],
     [ "kCompGainReductionPeakHold", "ivstparameterfunctionname_8h.html#a37ae311e898bd4a7706dfbe8cbde54ac", null ],

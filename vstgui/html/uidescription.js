@@ -1,36 +1,35 @@
 var uidescription =
 [
-    [ "VSTGUI and XML", "uidescription.html#vstguiandxml", null ],
-    [ "Example XML file", "uidescription.html#examplexml", null ],
-    [ "Creating a view", "uidescription.html#creatingbycode", null ],
-    [ "Creating custom views", "uidescription.html#customviews", null ],
-    [ "Defining Bitmaps", "uidescription.html#defbitmaps", null ],
-    [ "Defining Fonts", "uidescription.html#deffonts", null ],
-    [ "Defining Colors", "uidescription.html#defcolors", null ],
-    [ "Defining Tags", "uidescription.html#deftags", null ],
-    [ "Defining Templates", "uidescription.html#deftemplates", null ],
-    [ "UI XML Attribute Definitions", "uidescription_attributes.html", [
-      [ "View Classes and their attributes", "uidescription_attributes.html#viewclasses", null ],
-      [ "CView", "uidescription_attributes.html#cview", null ],
-      [ "CViewContainer", "uidescription_attributes.html#cviewcontainer", null ],
-      [ "CControl", "uidescription_attributes.html#ccontrol", null ],
-      [ "COnOffButton", "uidescription_attributes.html#conoffbutton", null ],
-      [ "CParamDisplay", "uidescription_attributes.html#cparamdisplay", null ],
-      [ "CTextLabel", "uidescription_attributes.html#ctextlabel", null ],
-      [ "CTextEdit", "uidescription_attributes.html#ctextedit", null ],
-      [ "CKnob", "uidescription_attributes.html#cknob", null ],
-      [ "CAnimKnob", "uidescription_attributes.html#canimknob", null ],
-      [ "CVerticalSwitch", "uidescription_attributes.html#cverticalswitch", null ],
-      [ "CHorizontalSwitch", "uidescription_attributes.html#chorizontalswitch", null ],
-      [ "CRockerSwitch", "uidescription_attributes.html#crockerswitch", null ],
-      [ "CMovieBitmap", "uidescription_attributes.html#cmoviebitmap", null ],
-      [ "CMovieButton", "uidescription_attributes.html#cmoviebutton", null ],
-      [ "CKickButton", "uidescription_attributes.html#ckickbutton", null ],
-      [ "CTextButton", "uidescription_attributes.html#ctextbutton", null ],
-      [ "CSegmentButton", "uidescription_attributes.html#csegmentbutton", null ],
-      [ "CSlider", "uidescription_attributes.html#cslider", null ],
-      [ "COptionMenu", "uidescription_attributes.html#coptionmenu", null ],
-      [ "CVuMeter", "uidescription_attributes.html#cvumeter", null ],
-      [ "UIViewSwitchContainer", "uidescription_attributes.html#uiviewswitchcontainer", null ]
-    ] ]
+    [ "Inline UI Editor for VST3 (WYSIWYG)", "page_uidescription_editor.html", [
+      [ "Introduction", "page_uidescription_editor.html#ui_editor_intro", null ],
+      [ "Preparation", "page_uidescription_editor.html#ui_editor_preparation", null ],
+      [ "Parameter Binding", "page_uidescription_editor.html#ui_editor_parameter_binding", null ],
+      [ "The Editor", "page_uidescription_editor.html#ui_editor_the_editor", [
+        [ "Toolbar", "page_uidescription_editor.html#the_editor_toolbar", null ],
+        [ "Template Editor", "page_uidescription_editor.html#the_editor_template_editor", null ],
+        [ "View Attribute Editor", "page_uidescription_editor.html#the_editor_view_attribute_editor", null ],
+        [ "Template Selector + View Hierarchy Browser", "page_uidescription_editor.html#the_editor_template_view_hierarchy", null ],
+        [ "View Palette + Global UI Properties Editor", "page_uidescription_editor.html#the_editor_view_palette_globals", [
+          [ "Views", "page_uidescription_editor.html#the_editor_view_palette_globals_view", null ],
+          [ "Tags", "page_uidescription_editor.html#the_editor_view_palette_globals_tags", null ],
+          [ "Colors", "page_uidescription_editor.html#the_editor_view_palette_globals_colors", null ],
+          [ "Bitmaps", "page_uidescription_editor.html#the_editor_view_palette_globals_bitmaps", null ],
+          [ "Fonts", "page_uidescription_editor.html#the_editor_view_palette_globals_fonts", null ]
+        ] ]
+      ] ],
+      [ "Creating Custom Views", "page_uidescription_editor.html#ui_editor_custom_view_creation", null ],
+      [ "Sub-Controllers", "page_uidescription_editor.html#ui_editor_sub_controllers", null ],
+      [ "Templates", "page_uidescription_editor.html#ui_editor_templates", null ]
+    ] ],
+    [ "The view system overview", "the_view_system.html", [
+      [ "Inherit from CView", "the_view_system.html#inherit_from_cview", null ],
+      [ "Handling mouse events", "the_view_system.html#handling_mouse_events", null ]
+    ] ],
+    [ "Create your own view for the WYSIWYG editor in VSTGUI", "create_your_own_view.html", [
+      [ "Introduction", "create_your_own_view.html#create_your_own_view_intro", null ],
+      [ "Create the new view class", "create_your_own_view.html#create_your_own_view_createView", null ],
+      [ "Register your view", "create_your_own_view.html#create_your_own_view_registerView", null ],
+      [ "Result", "create_your_own_view.html#create_your_own_view_result", null ]
+    ] ],
+    [ "Creating User Interfaces via XML", "uidescription_x_m_l.html", "uidescription_x_m_l" ]
 ];

@@ -1,6 +1,7 @@
 var ivstrepresentation_8h =
 [
     [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html", "structSteinberg_1_1Vst_1_1RepresentationInfo" ],
+    [ "IXmlRepresentationController", "classSteinberg_1_1Vst_1_1IXmlRepresentationController.html", "classSteinberg_1_1Vst_1_1IXmlRepresentationController" ],
     [ "ROOTXML_TAG", "ivstrepresentation_8h.html#ad54c84678ca7e4ea9bb1159937436ff7", null ],
     [ "COMMENT_TAG", "ivstrepresentation_8h.html#a52406a72fd0a2b4c0ea8e21e64083e3c", null ],
     [ "CELL_TAG", "ivstrepresentation_8h.html#af7a8d566c74f0a8425719114726b5dad", null ],

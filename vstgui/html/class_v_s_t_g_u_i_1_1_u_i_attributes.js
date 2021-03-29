@@ -2,6 +2,7 @@ var class_v_s_t_g_u_i_1_1_u_i_attributes =
 [
     [ "StringArray", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#a2a023d67471cd59df7973fb7fa520a78", null ],
     [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#aa0dbf47f692014a987a9651593e4f349", null ],
+    [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#a2cc9198799e806efa3e250856d646a46", null ],
     [ "~UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#a19a5850b5dbfb8ef5ac40e4d832b25ca", null ],
     [ "boolToString", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#a1594d5533a49e1ad5667276af5e7c9e3", null ],
     [ "doubleToString", "class_v_s_t_g_u_i_1_1_u_i_attributes.html#a1dd7b298cddf1656ce6e6d6499fb5010", null ],

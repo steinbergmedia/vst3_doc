@@ -25,16 +25,8 @@ var files_dup =
     [ "connectionproxy.h", "connectionproxy_8h.html", [
       [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", "classSteinberg_1_1Vst_1_1ConnectionProxy" ]
     ] ],
-    [ "doc.h", "doc_8h.html", null ],
-    [ "doc_faq.h", "doc__faq_8h.html", null ],
-    [ "doc_license.h", "doc__license_8h.html", null ],
-    [ "doc_other_copyright.h", "doc__other__copyright_8h.html", null ],
     [ "doc_public_sdk.h", "doc__public__sdk_8h.html", null ],
-    [ "doc_version_history.h", "doc__version__history_8h.html", null ],
-    [ "docaax.h", "docaax_8h.html", null ],
-    [ "docAUv2.h", "docAUv2_8h.html", null ],
-    [ "docAUv3.h", "docAUv3_8h.html", null ],
-    [ "docvst2.h", "docvst2_8h.html", null ],
+    [ "doc_public_sdk_limited.h", "doc__public__sdk__limited_8h.html", null ],
     [ "eventlist.cpp", "eventlist_8cpp.html", "eventlist_8cpp" ],
     [ "eventlist.h", "eventlist_8h.html", null ],
     [ "HostApp.h", "HostApp_8h.html", null ],

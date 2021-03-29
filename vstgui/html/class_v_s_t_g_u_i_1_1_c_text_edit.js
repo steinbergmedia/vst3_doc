@@ -34,6 +34,7 @@ var class_v_s_t_g_u_i_1_1_c_text_edit =
     [ "platformLooseFocus", "class_v_s_t_g_u_i_1_1_c_text_edit.html#ada29c2593669c63fd67f1939537ea170", null ],
     [ "platformOnKeyDown", "class_v_s_t_g_u_i_1_1_c_text_edit.html#aca713d270d3ccae42db2428f7937639a", null ],
     [ "platformTextDidChange", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a1df0665ccbb8389faab9f30702c59503", null ],
+    [ "registerTextEditListener", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a7bc50b8021e3cb3810f44501d33b681d", null ],
     [ "setImmediateTextChange", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a78353a09c292e396287f4062d3dc0a6b", null ],
     [ "setPlaceholderString", "class_v_s_t_g_u_i_1_1_c_text_edit.html#aef25a7173fdafb71f097ae72f46070ad", null ],
     [ "setSecureStyle", "class_v_s_t_g_u_i_1_1_c_text_edit.html#ac717bed8c0a1df4e29ca27a48efc678f", null ],
@@ -44,6 +45,7 @@ var class_v_s_t_g_u_i_1_1_c_text_edit =
     [ "setValue", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a26104ef97e1ebbc08e948bd1b98704cc", null ],
     [ "setViewSize", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a7bf74857e6380a779c414ac7ab37701e", null ],
     [ "takeFocus", "class_v_s_t_g_u_i_1_1_c_text_edit.html#ad61c7e26801ed8a83174b554e75e5010", null ],
+    [ "unregisterTextEditListener", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a73b733cec816b3cb865065ef046dc2c1", null ],
     [ "updateText", "class_v_s_t_g_u_i_1_1_c_text_edit.html#aa82b02c80ace5d87a049c6ef8278ccf7", null ],
     [ "valueChanged", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a4181d2aa475d9c0a1d0f0450da589683", null ],
     [ "wantsFocus", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a3ee7bc13d3bd47b2a1e368ac2d25f33b", null ],
@@ -53,5 +55,6 @@ var class_v_s_t_g_u_i_1_1_c_text_edit =
     [ "platformControl", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a2f866d16210240b210c4d513999a2e37", null ],
     [ "platformFont", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a5142b8d17f539b0b5f6b6a70971fc4f1", null ],
     [ "secureStyle", "class_v_s_t_g_u_i_1_1_c_text_edit.html#adf21560cae1af0f60fe622b4bdd27bfb", null ],
-    [ "stringToValueFunction", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a69667a926d88261d8a60407b7f221570", null ]
+    [ "stringToValueFunction", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a69667a926d88261d8a60407b7f221570", null ],
+    [ "textEditListeners", "class_v_s_t_g_u_i_1_1_c_text_edit.html#a2f3b347150b3def06e1df8ce3397a9b0", null ]
 ];

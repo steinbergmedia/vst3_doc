@@ -67,7 +67,7 @@ var files_dup =
       [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", "classSteinberg_1_1Vst_1_1ADelayTestFactory" ]
     ] ],
     [ "adelay/source/factory.cpp", "adelay_2source_2factory_8cpp.html", "adelay_2source_2factory_8cpp" ],
-    [ "hostchecker/source/factory.cpp", "hostchecker_2source_2factory_8cpp.html", "hostchecker_2source_2factory_8cpp" ],
+    [ "hostchecker/source/factory.cpp", "hostchecker_2source_2factory_8cpp.html", null ],
     [ "note_expression_synth/source/factory.cpp", "note__expression__synth_2source_2factory_8cpp.html", "note__expression__synth_2source_2factory_8cpp" ],
     [ "pitchnames/source/factory.cpp", "pitchnames_2source_2factory_8cpp.html", "pitchnames_2source_2factory_8cpp" ],
     [ "filter.h", "filter_8h.html", "filter_8h" ],

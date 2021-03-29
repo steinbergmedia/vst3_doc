@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['restartflags_8347',['RestartFlags',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5',1,'Steinberg::Vst']]]
+  ['restartflags',['RestartFlags',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5',1,'Steinberg::Vst']]]
 ];

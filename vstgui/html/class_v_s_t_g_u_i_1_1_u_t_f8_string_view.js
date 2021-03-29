@@ -20,5 +20,6 @@ var class_v_s_t_g_u_i_1_1_u_t_f8_string_view =
     [ "toDouble", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a4248ff2ee597fb03a96e908c6dcbecce", null ],
     [ "toFloat", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a64268a33dab22ada8ee36e5053348478", null ],
     [ "toInteger", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a9aca70dc60070ec1a70eb3ace19dddb7", null ],
-    [ "toNumber", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a7129f258dde25bea81ac0ac36411c771", null ]
+    [ "toNumber", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a7129f258dde25bea81ac0ac36411c771", null ],
+    [ "toNumber", "class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#ae48054bd4d926fe7ba291e8ec510e90d", null ]
 ];

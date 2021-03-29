@@ -21,14 +21,14 @@ var class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property =
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a9800b1a118fde6c35fca48949c5af20c", null ],
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aff37ac13c13c2cb65ad09a0af4044dc1", null ],
     [ "~Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#ae53c35255368e13c84b9592b1ac9fdc3", null ],
-    [ "getColor", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a87307c3509369f1b44b3040e61d5e6bc", null ],
+    [ "getColor", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aa1c9eb1b8b13dca8e9caa7376fcd926e", null ],
     [ "getFloat", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#af4c9462d5f17112ed3538017f60a623e", null ],
     [ "getInteger", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a7994a681702338f35f257bf3142bcf45", null ],
-    [ "getObject", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a18356f913cd4fcd3225130630bf99917", null ],
-    [ "getPoint", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a0d7f10a2e3f97c5cba9db1c312e164c5", null ],
-    [ "getRect", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aeb8ffa858facdc53a6968d9307a17afd", null ],
-    [ "getTransform", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a0221c9ba9556852cfcda8b9b11770c20", null ],
+    [ "getObject", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a6a695b35d7f58548e25e768b141d77a9", null ],
+    [ "getPoint", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aa497e2df11f92067d8f6fb36d5aa936b", null ],
+    [ "getRect", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#ab48980438144d9f68d03622e4881b784", null ],
+    [ "getTransform", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#afd973675a1459432ab10c56cd192cc6d", null ],
     [ "getType", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a97c56d51eec84be3e856eb0ca6ebd3d4", null ],
-    [ "operator=", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a5d4cad15ac83beab212d808339a55a3e", null ],
-    [ "operator=", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#a63b4382797ae55e635a9e01cc0ea9bb9", null ]
+    [ "operator=", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aff9ca6cde42088f8763cb9b5538eda36", null ],
+    [ "operator=", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#aba90db21fe594a75f15e02db80f37a59", null ]
 ];

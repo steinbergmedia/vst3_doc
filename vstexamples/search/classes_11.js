@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['sampleaccuratebaseprocessor',['SampleAccurateBaseProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1SampleAccurateBaseProcessor.html',1,'Steinberg::Vst::mda']]],
   ['scaledparameter',['ScaledParameter',['../classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html',1,'Steinberg::Vst::mda']]],
   ['scaleevent',['ScaleEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html',1,'Steinberg::Vst']]],
   ['scoreentry',['ScoreEntry',['../structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html',1,'Steinberg::Vst::HostCheckerController']]],
@@ -21,5 +22,7 @@ var searchData=
   ['subsynthprocessor',['SubSynthProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html',1,'Steinberg::Vst::mda']]],
   ['syncdelaycontroller',['SyncDelayController',['../classSteinberg_1_1Vst_1_1SyncDelayController.html',1,'Steinberg::Vst']]],
   ['syncdelayprocessor',['SyncDelayProcessor',['../classSteinberg_1_1Vst_1_1SyncDelayProcessor.html',1,'Steinberg::Vst']]],
-  ['syncentry',['SyncEntry',['../structSteinberg_1_1Vst_1_1SyncEntry.html',1,'Steinberg::Vst']]]
+  ['syncentry',['SyncEntry',['../structSteinberg_1_1Vst_1_1SyncEntry.html',1,'Steinberg::Vst']]],
+  ['synthdata',['SynthData',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html',1,'Steinberg::Vst::mda']]],
+  ['synthdata_3c_20voice_2c_20keventbuffersize_2c_20knumvoices_20_3e',['SynthData&lt; VOICE, kEventBufferSize, kNumVoices &gt;',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html',1,'Steinberg::Vst::mda']]]
 ];

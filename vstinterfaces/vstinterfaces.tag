@@ -2,17 +2,17 @@
 <tagfile>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/gui/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
   </compound>
   <compound kind="file">
     <name>itest.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/test/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>itest_8h</filename>
     <class kind="class">Steinberg::ITest</class>
     <class kind="class">Steinberg::ITestResult</class>
@@ -29,7 +29,7 @@
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -39,7 +39,7 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">ivstcomponent.h</includes>
     <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" imported="no">vstspeaker.h</includes>
@@ -391,7 +391,7 @@
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
@@ -400,7 +400,7 @@
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -555,7 +555,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -668,7 +668,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -680,7 +680,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -776,6 +776,12 @@
       <anchor>a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d</anchor>
       <arglist></arglist>
     </member>
+    <member kind="enumvalue">
+      <name>kKeyswitchChanged</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="enumeration">
       <type></type>
       <name>KnobModes</name>
@@ -811,7 +817,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstevents_8h</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" imported="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -848,7 +854,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" imported="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -868,7 +874,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -878,7 +884,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -888,7 +894,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1286,7 +1292,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidilearn.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidilearn_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
@@ -1295,7 +1301,7 @@
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -1435,7 +1441,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -1445,7 +1451,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterfunctionname.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterfunctionname_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
@@ -1501,10 +1507,31 @@
       <anchor>a7e3eaee867bebf92ee98e6e19de3d7df</anchor>
       <arglist></arglist>
     </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterX</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>ad875faf2282aeb70781130ed7e8de2b9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterY</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>ab4ab5d97708547af9600017e134a225f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterZ</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>a850c37b07b8d83b79d308a151668cb59</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>ivstphysicalui.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstphysicalui_8h</filename>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
     <class kind="struct">Steinberg::Vst::PhysicalUIMap</class>
@@ -1559,7 +1586,7 @@
   </compound>
   <compound kind="file">
     <name>ivstpluginterfacesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstpluginterfacesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
@@ -1568,7 +1595,7 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
@@ -1577,7 +1604,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -1625,7 +1652,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -1636,7 +1663,7 @@
   </compound>
   <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -2315,7 +2342,7 @@
   </compound>
   <compound kind="file">
     <name>ivsttestplugprovider.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsttestplugprovider_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="ivsteditcontroller_8h" name="ivsteditcontroller.h" local="yes" imported="no">pluginterfaces/vst/ivsteditcontroller.h</includes>
@@ -2326,7 +2353,7 @@
   </compound>
   <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstunits_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -2341,7 +2368,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -4377,12 +4404,12 @@
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h</filename>
   </compound>
   <compound kind="file">
     <name>vstspeaker.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstspeaker_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -6435,7 +6462,7 @@
   </compound>
   <compound kind="file">
     <name>vsttypes.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/pluginterfaces/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vsttypes_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -6472,6 +6499,13 @@
       <name>VST_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_3_7_3_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>ac0c1ba872a4a52d7f88e518613dd8a59</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -11082,6 +11116,12 @@
       <anchor>a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d</anchor>
       <arglist></arglist>
     </member>
+    <member kind="enumvalue">
+      <name>kKeyswitchChanged</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="enumeration">
       <type></type>
       <name>KnobModes</name>
@@ -12525,6 +12565,27 @@
       <name>kRandomize</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
       <anchor>a7e3eaee867bebf92ee98e6e19de3d7df</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterX</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>ad875faf2282aeb70781130ed7e8de2b9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterY</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>ab4ab5d97708547af9600017e134a225f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kPanPosCenterZ</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>a850c37b07b8d83b79d308a151668cb59</anchor>
       <arglist></arglist>
     </member>
   </compound>

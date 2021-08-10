@@ -29,6 +29,7 @@ var NAVTREE =
       [ "About VST Plug-ins in general", "index.html#vstPlugGeneral", null ],
       [ "About VST 3", "index.html#vst3General", null ]
     ] ],
+    [ "to use the validator to run your own tests?", "How.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -72,11 +73,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AudioIO_8h.html",
-"classSteinberg_1_1Vst_1_1EditController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e",
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a5a1a3c9dbce87993a2ef498ffd2102b0",
-"classSteinberg_1_1Vst_1_1TestBase.html#a7d0b00b1d6236ce752a133e9ef713c11",
-"module__win32_8cpp.html#aec121fc4a56e70a587fd2cb5f4d9883e",
-"vstaudioprocessoralgo_8h.html#ab0290cfe659c7a4de89c7ef45af643a5"
+"classSteinberg_1_1Vst_1_1EditController.html#a9ed9952fc33a6e0cac96a8f46de5d86c",
+"classSteinberg_1_1Vst_1_1ParameterValueQueue.html",
+"classSteinberg_1_1Vst_1_1StringResult.html#a9196305174afe4846ca762869408f4c2",
+"module__mac_8mm.html#a5b4d4515bd38ea320f10dab298266d7e",
+"testing_8cpp.html#ac5fa6c7c0083a2a67b209b23b1b12fd2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

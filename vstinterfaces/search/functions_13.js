@@ -21,6 +21,7 @@ var searchData=
   ['totuid',['toTUID',['../../base/classSteinberg_1_1FUID.html#af2e718c3b14a4a50caf23cadeebe862c',1,'Steinberg::FUID::toTUID(TUID result) const'],['../../base/classSteinberg_1_1FUID.html#a02cfd4e6691ab5c1d14401b5e6ce1287',1,'Steinberg::FUID::toTUID() const']]],
   ['transferchangesfrom',['transferChangesFrom',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a958d810af44271155222fb51b9a1bca6',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['transferchangesto',['transferChangesTo',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a5bc38e228c5ff68f4193697272b90963',1,'Steinberg::Vst::ParameterChangeTransfer']]],
+  ['transferobject_5fui',['transferObject_ui',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html#adcdecbf84270d253c61340295a4fe278',1,'Steinberg::Vst::RTTransferT']]],
   ['triggerupdates',['triggerUpdates',['../../base/classSteinberg_1_1IUpdateHandler.html#a5df36e1fc97bddca8eaabc6b39de6530',1,'Steinberg::IUpdateHandler']]],
   ['truncate',['truncate',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a92d96aabb25a62d5b8435eeea2682945',1,'Steinberg::MemoryStream']]],
   ['truncatetocursor',['truncateToCursor',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a6dde8a8ab98f0f160f14a2da5ed548c3',1,'Steinberg::MemoryStream']]],

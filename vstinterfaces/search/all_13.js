@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['to_20use_20the_20validator_20to_20run_20your_20own_20tests_3f',['to use the validator to run your own tests?',['../../vstsdk/How.html',1,'']]],
   ['tag',['tag',['../structSteinberg_1_1Vst_1_1IContextMenuItem.html#a7cba719b5e6843c30b66241e6181688b',1,'Steinberg::Vst::IContextMenuItem']]],
   ['take',['take',['../../base/classSteinberg_1_1IPtr.html#ad23e3081bab74289f4472701b2707ad3',1,'Steinberg::IPtr::take()'],['../../base/classSteinberg_1_1IString.html#a278b6bc34d672210e69dbde261f52cab',1,'Steinberg::IString::take()']]],
   ['tbool',['TBool',['../../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895',1,'Steinberg']]],
@@ -14,6 +15,10 @@ var searchData=
   ['testbase_2eh',['testbase.h',['../../vstsdk/testbase_8h.html',1,'']]],
   ['testdefaults',['TestDefaults',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html',1,'Steinberg::Vst']]],
   ['testenh',['TestEnh',['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html',1,'TestEnh'],['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html#a7e28225b684b0706cf18619a3528cfe5',1,'Steinberg::Vst::TestEnh::TestEnh()']]],
+  ['testfunc',['TestFunc',['../../vstsdk/namespaceSteinberg_1_1Vst.html#a6de37bbde36975cef7843c563815e004',1,'Steinberg::Vst']]],
+  ['testfuncwithcontext',['TestFuncWithContext',['../../vstsdk/namespaceSteinberg_1_1Vst.html#a7f3c745946efb648d6bfbfee4c848f71',1,'Steinberg::Vst']]],
+  ['testing_2ecpp',['testing.cpp',['../../vstsdk/testing_8cpp.html',1,'']]],
+  ['testing_2eh',['testing.h',['../../vstsdk/testing_8h.html',1,'']]],
   ['testingplugincontext',['TestingPluginContext',['../../vstsdk/structSteinberg_1_1Vst_1_1TestingPluginContext.html',1,'Steinberg::Vst']]],
   ['text',['text',['../structSteinberg_1_1Vst_1_1ChordEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::ChordEvent::text()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::ScaleEvent::text()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#aa87f60a3f4718be230eba436bdd0d610',1,'Steinberg::Vst::NoteExpressionTextEvent::text()']]],
   ['textlen',['textLen',['../structSteinberg_1_1Vst_1_1ChordEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ChordEvent::textLen()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#a4f6335dfe1239867b906eb8a304b5984',1,'Steinberg::Vst::ScaleEvent::textLen()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html#abb89858832dfc88064874fe14e4ed2ff',1,'Steinberg::Vst::NoteExpressionTextEvent::textLen()']]],
@@ -42,6 +47,7 @@ var searchData=
   ['tquarternotes',['TQuarterNotes',['../group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'Steinberg::Vst']]],
   ['transferchangesfrom',['transferChangesFrom',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a958d810af44271155222fb51b9a1bca6',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['transferchangesto',['transferChangesTo',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a5bc38e228c5ff68f4193697272b90963',1,'Steinberg::Vst::ParameterChangeTransfer']]],
+  ['transferobject_5fui',['transferObject_ui',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html#adcdecbf84270d253c61340295a4fe278',1,'Steinberg::Vst::RTTransferT']]],
   ['tresult',['tresult',['../../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957',1,'Steinberg']]],
   ['triggerupdates',['triggerUpdates',['../../base/classSteinberg_1_1IUpdateHandler.html#a5df36e1fc97bddca8eaabc6b39de6530',1,'Steinberg::IUpdateHandler']]],
   ['truncate',['truncate',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a92d96aabb25a62d5b8435eeea2682945',1,'Steinberg::MemoryStream']]],

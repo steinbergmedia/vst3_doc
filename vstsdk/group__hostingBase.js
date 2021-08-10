@@ -20,7 +20,7 @@ var group__hostingBase =
       [ "setBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a3fd6a1cb946b50e7a38f3860d0f105f4", null ],
       [ "getBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a1efd22859107e858313b87758a40cc57", null ],
       [ "removeAttrID", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a4174da1c7c936ef543d4306b1e6f7650", null ],
-      [ "list", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a8d0302c54beb3e7bd78bd730f55056b5", null ]
+      [ "list", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a4c6bf541989a2cef8b93a303d70d4881", null ]
     ] ],
     [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", [
       [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75", null ],

@@ -5,6 +5,7 @@ var classParameterChangesCheck =
     [ "checkParameterChanges", "classParameterChangesCheck.html#aba66cd227e273ecf303dfb8b1575ad1b", null ],
     [ "setEventLogger", "classParameterChangesCheck.html#a669f46aca3bf99696426ef0f43d439e1", null ],
     [ "setParamIDs", "classParameterChangesCheck.html#ac9d617c863be1f4cbd9b86997f00244f", null ],
+    [ "updateParameterIDs", "classParameterChangesCheck.html#a1faed69aadb8480fe0a5511d81017f86", null ],
     [ "checkAllChanges", "classParameterChangesCheck.html#a7258ed62d8224e6cb09459634f270694", null ],
     [ "checkParameterCount", "classParameterChangesCheck.html#a1fac8f3b9bbba7d876b1353dc9044248", null ],
     [ "checkParameterId", "classParameterChangesCheck.html#abf9f477e631fefebc0ae1528a320cf3f", null ],
@@ -17,5 +18,6 @@ var classParameterChangesCheck =
     [ "isValidParamID", "classParameterChangesCheck.html#a92dbe3bb2377dac5e6dde4904b87b970", null ],
     [ "isValidParamCount", "classParameterChangesCheck.html#af1534b8c046fd94fc5b37714a9604050", null ],
     [ "mEventLogger", "classParameterChangesCheck.html#ac7b803638761074f9b199990874a1ddc", null ],
-    [ "mParameterIds", "classParameterChangesCheck.html#a7d0c0d1f749d4cb89683cc435d2ce8ef", null ]
+    [ "mParameterIds", "classParameterChangesCheck.html#a7d0c0d1f749d4cb89683cc435d2ce8ef", null ],
+    [ "mTempUsedId", "classParameterChangesCheck.html#aa7c0414e7518843910238f80c3c7191f", null ]
 ];

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['paramchanges',['ParamChanges',['../classSteinberg_1_1Vst_1_1ParamChanges.html',1,'Steinberg::Vst']]],
-  ['parameter',['Parameter',['../classSteinberg_1_1Vst_1_1Parameter.html',1,'Steinberg::Vst']]],
+  ['parameter',['Parameter',['../classSteinberg_1_1Vst_1_1Parameter.html',1,'Parameter'],['../structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html',1,'Parameter']]],
   ['parameterchange',['ParameterChange',['../structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['parameterchanges',['ParameterChanges',['../classSteinberg_1_1Vst_1_1ParameterChanges.html',1,'Steinberg::Vst']]],
   ['parameterchangetransfer',['ParameterChangeTransfer',['../classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html',1,'Steinberg::Vst']]],
@@ -26,6 +26,7 @@ var searchData=
   ['processcontext',['ProcessContext',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html',1,'Steinberg::Vst']]],
   ['processcontextrequirements',['ProcessContextRequirements',['../classSteinberg_1_1Vst_1_1ProcessContextRequirements.html',1,'Steinberg::Vst']]],
   ['processdata',['ProcessData',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html',1,'Steinberg::Vst']]],
+  ['processdataslicer',['ProcessDataSlicer',['../classSteinberg_1_1Vst_1_1ProcessDataSlicer.html',1,'Steinberg::Vst']]],
   ['processor',['Processor',['../classSteinberg_1_1Vst_1_1MPE_1_1Processor.html',1,'Steinberg::Vst::MPE']]],
   ['processsetup',['ProcessSetup',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html',1,'Steinberg::Vst']]],
   ['programlist',['ProgramList',['../classSteinberg_1_1Vst_1_1ProgramList.html',1,'Steinberg::Vst']]],

@@ -66,6 +66,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "sizeFactor", "classSteinberg_1_1Vst_1_1HostCheckerController.html#abaafe2485a80cde3e71a231286208fdb", null ],
     [ "mEditFromHost", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a67e68448677c53ae9cb4511ffd08672f", null ],
     [ "threadChecker", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af7bb4bec2475d18c304cc1263092e2cc", null ],
+    [ "mNumKeyswitch", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a7f1abbcdbf4f1b3df814931a9579539d", null ],
     [ "mScoreMap", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aa306b40e142d5ff3b73da7931b116690", null ],
     [ "mProgressTimer", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac01c6fa61e7f27fc13e2a7c47c27f792", null ],
     [ "mProgressID", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a7bd9dc65a3c41f9493abc417fa3342b1", null ],

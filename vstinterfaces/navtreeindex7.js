@@ -1,5 +1,9 @@
 var NAVTREEINDEX7 =
 {
+"vstpresetkeys_8h.html#ga642a844eb43638962aec00dda572b724":[3,0,27,55],
+"vstpresetkeys_8h.html#ga644e30da9b10ac15bcd313778d00d261":[3,0,27,267],
+"vstpresetkeys_8h.html#ga646cb827580fbdb5631167f300e2d7c5":[3,0,27,211],
+"vstpresetkeys_8h.html#ga65f99d06e1cdec2a31ced94c3e74e2b8":[3,0,27,94],
 "vstpresetkeys_8h.html#ga66d567db513649b64572ec56ec721a13":[3,0,27,171],
 "vstpresetkeys_8h.html#ga679697a95e28deb4eb0ab2dcdeca114a":[3,0,27,210],
 "vstpresetkeys_8h.html#ga6825831c83ffca20a7353fcf1f4ff3c8":[3,0,27,277],
@@ -245,9 +249,5 @@ var NAVTREEINDEX7 =
 "vstspeaker_8h.html#ga4c68f76511df6119eca847b005105cd5":[3,0,29,102],
 "vstspeaker_8h.html#ga4d03f739a3250bd1cf51152ca75390ea":[3,0,29,43],
 "vstspeaker_8h.html#ga4f9e89d3c8dbbb4dac1e2cb67633615b":[3,0,29,130],
-"vstspeaker_8h.html#ga50527ffdd77c1df3a01d2656abdcfaca":[3,0,29,155],
-"vstspeaker_8h.html#ga509a5cd9d9498ef62bdbce91425522f5":[3,0,29,60],
-"vstspeaker_8h.html#ga50d7d7630353ff6f0512be5aa2277fc4":[3,0,29,268],
-"vstspeaker_8h.html#ga50d89ea22e10fe3acadb02c071288776":[3,0,29,96],
-"vstspeaker_8h.html#ga51b0837ee59b85d8c61c7aaee975f55a":[3,0,29,27]
+"vstspeaker_8h.html#ga50527ffdd77c1df3a01d2656abdcfaca":[3,0,29,155]
 };

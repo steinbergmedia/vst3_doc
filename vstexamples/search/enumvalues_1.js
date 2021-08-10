@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['eventbuffer',['EVENTBUFFER',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a0411cd49bb5b71852cecd93bcbf0ca2da87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::DX10Processor::EVENTBUFFER()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57a87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::JX10Processor::EVENTBUFFER()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a385c44f6fb256e5716a2302a5b940388a87f34c71c97e08ce1d520f823ab46247',1,'Steinberg::Vst::mda::PianoProcessor::EVENTBUFFER()']]],
-  ['events_5fdone',['EVENTS_DONE',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a0411cd49bb5b71852cecd93bcbf0ca2dac0841df3a3c9c8c90939f8cb756b91ff',1,'Steinberg::Vst::mda::DX10Processor::EVENTS_DONE()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ab04a0655cd1e3bcac5e8f48c18df1a57ac0841df3a3c9c8c90939f8cb756b91ff',1,'Steinberg::Vst::mda::JX10Processor::EVENTS_DONE()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a385c44f6fb256e5716a2302a5b940388ac0841df3a3c9c8c90939f8cb756b91ff',1,'Steinberg::Vst::mda::PianoProcessor::EVENTS_DONE()']]]
+  ['f1',['F1',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4ae1dffc8709f31a4987c8a88334107e89',1,'Steinberg::Vst::mda']]],
+  ['f2',['F2',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4afe5c3684dce76cdd9f7f42430868aa74',1,'Steinberg::Vst::mda']]]
 ];

@@ -13,6 +13,7 @@ var files_dup =
     [ "aucarbonview.mm", "aucarbonview_8mm.html", null ],
     [ "aucocoaview.h", "aucocoaview_8h.html", null ],
     [ "aucocoaview.mm", "aucocoaview_8mm.html", null ],
+    [ "audiobuffers.h", "audiobuffers_8h.html", "audiobuffers_8h" ],
     [ "AudioIO.h", "AudioIO_8h.html", null ],
     [ "AudioIO.mm", "AudioIO_8mm.html", "AudioIO_8mm" ],
     [ "ausdk.mm", "ausdk_8mm.html", null ],
@@ -84,8 +85,17 @@ var files_dup =
     ] ],
     [ "processdata.cpp", "processdata_8cpp.html", null ],
     [ "processdata.h", "processdata_8h.html", null ],
+    [ "processdataslicer.h", "processdataslicer_8h.html", [
+      [ "ProcessDataSlicer", "classSteinberg_1_1Vst_1_1ProcessDataSlicer.html", "classSteinberg_1_1Vst_1_1ProcessDataSlicer" ]
+    ] ],
     [ "ringbuffer.h", "ringbuffer_8h.html", [
       [ "RingBuffer", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer" ]
+    ] ],
+    [ "rttransfer.h", "rttransfer_8h.html", [
+      [ "RTTransferT", "structSteinberg_1_1Vst_1_1RTTransferT.html", "structSteinberg_1_1Vst_1_1RTTransferT" ]
+    ] ],
+    [ "sampleaccurate.h", "sampleaccurate_8h.html", [
+      [ "Parameter", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter" ]
     ] ],
     [ "SettingsViewController.h", "SettingsViewController_8h.html", "SettingsViewController_8h" ],
     [ "SettingsViewController.mm", "SettingsViewController_8mm.html", "SettingsViewController_8mm" ],
@@ -93,6 +103,8 @@ var files_dup =
     [ "stringconvert.h", "stringconvert_8h.html", "stringconvert_8h" ],
     [ "testbase.cpp", "testbase_8cpp.html", "testbase_8cpp" ],
     [ "testbase.h", "testbase_8h.html", "testbase_8h" ],
+    [ "testing.cpp", "testing_8cpp.html", "testing_8cpp" ],
+    [ "testing.h", "testing_8h.html", "testing_8h" ],
     [ "uid.h", "uid_8h.html", "uid_8h" ],
     [ "usediids.cpp", "usediids_8cpp.html", null ],
     [ "versionparser.h", "versionparser_8h.html", [

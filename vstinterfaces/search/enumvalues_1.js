@@ -114,6 +114,7 @@ var searchData=
   ['kiswraparound',['kIsWrapAround',['../structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645ab6db0c541e451f24f819ab231f3ecf96',1,'Steinberg::Vst::ParameterInfo']]],
   ['kisyetprefetchable',['kIsYetPrefetchable',['../namespaceSteinberg_1_1Vst.html#a18aa40e583fe3a75b569e7129e0d89b5aa43449cf5a0e596fa81b4a8498404f3f',1,'Steinberg::Vst']]],
   ['kkeyrangetypeid',['kKeyRangeTypeID',['../namespaceSteinberg_1_1Vst.html#a94ba59b05ac09e4f021b5cd0955852c9abf9a3d392f6bd3ad7f0db013fd5dbc18',1,'Steinberg::Vst']]],
+  ['kkeyswitchchanged',['kKeyswitchChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9',1,'Steinberg::Vst']]],
   ['kknob',['kKnob',['../namespaceSteinberg_1_1Vst_1_1LayerType.html#a61dadd085c1777f559549e05962b2c9eaed465fd2dd47fea2b560392552bf65a9',1,'Steinberg::Vst::LayerType']]],
   ['klatencychanged',['kLatencyChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5a560af1d548105a5e1c72f07a1b6fbd29',1,'Steinberg::Vst']]],
   ['kled',['kLED',['../namespaceSteinberg_1_1Vst_1_1LayerType.html#a61dadd085c1777f559549e05962b2c9ea125690f72eb0478f1b83b9f17dc7c431',1,'Steinberg::Vst::LayerType']]],

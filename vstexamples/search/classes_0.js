@@ -2,8 +2,6 @@ var searchData=
 [
   ['adelaycontroller',['ADelayController',['../classSteinberg_1_1Vst_1_1ADelayController.html',1,'Steinberg::Vst']]],
   ['adelayprocessor',['ADelayProcessor',['../classSteinberg_1_1Vst_1_1ADelayProcessor.html',1,'Steinberg::Vst']]],
-  ['adelaytest',['ADelayTest',['../classSteinberg_1_1Vst_1_1ADelayTest.html',1,'Steinberg::Vst']]],
-  ['adelaytestfactory',['ADelayTestFactory',['../classSteinberg_1_1Vst_1_1ADelayTestFactory.html',1,'Steinberg::Vst']]],
   ['again',['AGain',['../classSteinberg_1_1Vst_1_1AGain.html',1,'Steinberg::Vst']]],
   ['againcontroller',['AGainController',['../classSteinberg_1_1Vst_1_1AGainController.html',1,'Steinberg::Vst']]],
   ['againuimessagecontroller',['AGainUIMessageController',['../classSteinberg_1_1Vst_1_1AGainUIMessageController.html',1,'Steinberg::Vst']]],

@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['sampleaccurate_2eh',['sampleaccurate.h',['../../vstsdk/sampleaccurate_8h.html',1,'']]],
   ['settingsviewcontroller_2eh',['SettingsViewController.h',['../../vstsdk/SettingsViewController_8h.html',1,'']]],
   ['settingsviewcontroller_2emm',['SettingsViewController.mm',['../../vstsdk/SettingsViewController_8mm.html',1,'']]],
   ['smartpointer_2eh',['smartpointer.h',['../../base/smartpointer_8h.html',1,'']]],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['y',['Y',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#a6ca93caffa508f4eabf18585d3710d0fa57cec4137b614c87cb4e24a3d003a3e0',1,'Steinberg::Vst::MPE']]]
+  ['zerodb',['ZerodB',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4a69fc24f6dd1ad5005df611acf4229ace',1,'Steinberg::Vst::mda']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['thru',['Thru',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4a778bbb350586657cc3127ef666a75618',1,'Steinberg::Vst::mda']]]
+  ['wavelen',['WAVELEN',['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a0411cd49bb5b71852cecd93bcbf0ca2da7880ff67a682bfd5be243cf08651f273',1,'Steinberg::Vst::mda::PianoProcessor']]]
 ];

@@ -26,9 +26,8 @@ var searchData=
   ['minputpinlookup',['mInputPinLookup',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#ae53e2a9daae0aa62f5797ed0d4dbdcb0',1,'Steinberg::Vst::BypassProcessor']]],
   ['mmainiobypass',['mMainIOBypass',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#a691325367c431ca1b7de7e4ee9a5c12f',1,'Steinberg::Vst::BypassProcessor']]],
   ['mmaxsamples',['mMaxSamples',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#ab2841cac1a12b91be43d0bf07ab9607b',1,'Steinberg::Vst::AudioBuffer']]],
-  ['mmodule',['mModule',['../module__win32_8cpp.html#a872231d16d10835d836c77daa67fee18',1,'module_win32.cpp']]],
+  ['mmodule',['mModule',['../module__linux_8cpp.html#a2f8d15415d186671c101186f3cb67860',1,'mModule():&#160;module_linux.cpp'],['../module__win32_8cpp.html#a872231d16d10835d836c77daa67fee18',1,'mModule():&#160;module_win32.cpp']]],
   ['modifier',['modifier',['../../base/structSteinberg_1_1KeyCode.html#abd7634cbb7389a3980e3b6b1b27c95a3',1,'Steinberg::KeyCode']]],
-  ['module',['module',['../module__linux_8cpp.html#a59fcda1946fe2178896b5967065904e6',1,'module_linux.cpp']]],
   ['modulehandle',['moduleHandle',['../vstguieditor_8cpp.html#ab302317af2233cef9ab2bd2a2d89b60f',1,'vstguieditor.cpp']]],
   ['moutpos',['mOutPos',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mpluginterfacesupport',['mPlugInterfaceSupport',['../classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]]

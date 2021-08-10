@@ -17,6 +17,7 @@ var searchData=
   ['clear',['clear',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#a220bcc74548c37cf5fd56375433ab7d6',1,'Steinberg::Vst::AudioBuffer::clear()'],['../classSteinberg_1_1Vst_1_1EventList.html#ac8bb3912a3ce86b15842e79d0b421204',1,'Steinberg::Vst::EventList::clear()'],['../classSteinberg_1_1Vst_1_1ParameterValueQueue.html#ac8bb3912a3ce86b15842e79d0b421204',1,'Steinberg::Vst::ParameterValueQueue::clear()']]],
   ['clear32',['clear32',['../namespaceSteinberg_1_1Vst_1_1Algo.html#a4979d1f1ce8a6870d7bab7c0cce499dc',1,'Steinberg::Vst::Algo']]],
   ['clear64',['clear64',['../namespaceSteinberg_1_1Vst_1_1Algo.html#a6206b73e5b2a05df6f4c2ea49735ca45',1,'Steinberg::Vst::Algo']]],
+  ['clear_5fui',['clear_ui',['../structSteinberg_1_1Vst_1_1RTTransferT.html#aef1e25080421d8398ab840721483c1c9',1,'Steinberg::Vst::RTTransferT']]],
   ['clearall',['clearAll',['../classSteinberg_1_1Vst_1_1AudioBuffer.html#a798729dca95209ecdc609807a653a2bf',1,'Steinberg::Vst::AudioBuffer']]],
   ['clearqueue',['clearQueue',['../classSteinberg_1_1Vst_1_1ParameterChanges.html#a7b7f09ace42f57bf958a1a379e935ea9',1,'Steinberg::Vst::ParameterChanges']]],
   ['clone',['clone',['../../base/classSteinberg_1_1ICloneable.html#a01cda1781c6c80ed3aa9091e34be16fb',1,'Steinberg::ICloneable']]],
@@ -43,6 +44,7 @@ var searchData=
   ['createcontextmenu',['createContextMenu',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler3.html#a0c91e0b43003a34a7f43d0c4b33aa604',1,'Steinberg::Vst::IComponentHandler3']]],
   ['createinstance',['createInstance',['../../base/classSteinberg_1_1IPluginFactory.html#a26a0c88f3703edf621060667eab3eb1f',1,'Steinberg::IPluginFactory::createInstance()'],['../../vstinterfaces/classSteinberg_1_1Vst_1_1IHostApplication.html#a931e5a2ff8867bd8dfdbae1e42b78106',1,'Steinberg::Vst::IHostApplication::createInstance()'],['../classSteinberg_1_1Vst_1_1HostApplication.html#a26be08c650d6821878a3581c90166da4',1,'Steinberg::Vst::HostApplication::createInstance()'],['../classVST3_1_1Hosting_1_1PluginFactory.html#a281e36c942fab4bb6232edd54a57d3f2',1,'VST3::Hosting::PluginFactory::createInstance()']]],
   ['createpresetmanager',['createPresetManager',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#ae2524b3ead8126059bc897d1a97047e5',1,'Steinberg::Vst::IInterAppAudioHost']]],
+  ['createtestfactoryinstance',['createTestFactoryInstance',['../namespaceSteinberg_1_1Vst.html#a10dd54abaec9fa1e9cc884e65fde1fd7',1,'Steinberg::Vst']]],
   ['createtests',['createTests',['../../vstinterfaces/classSteinberg_1_1ITestFactory.html#ab9a27b3c53748ad9c1175e862acdc8f4',1,'Steinberg::ITestFactory']]],
   ['createview',['createView',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController.html#a1fa4ed10cc0979e5559045104c998b1a',1,'Steinberg::Vst::IEditController::createView()'],['../classSteinberg_1_1Vst_1_1EditController.html#a9ed9952fc33a6e0cac96a8f46de5d86c',1,'Steinberg::Vst::EditController::createView()']]]
 ];

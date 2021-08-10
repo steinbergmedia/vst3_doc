@@ -22,9 +22,11 @@ var searchData=
   ['onereaderonewriter',['OneReaderOneWriter',['../namespaceSteinberg_1_1OneReaderOneWriter.html',1,'Steinberg']]],
   ['plugtype',['PlugType',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1PlugType.html',1,'Steinberg::Vst']]],
   ['presetattributes',['PresetAttributes',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1PresetAttributes.html',1,'Steinberg::Vst']]],
+  ['sampleaccurate',['SampleAccurate',['../namespaceSteinberg_1_1Vst_1_1SampleAccurate.html',1,'Steinberg::Vst']]],
   ['speakerarr',['SpeakerArr',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1SpeakerArr.html',1,'Steinberg::Vst']]],
   ['statetype',['StateType',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1StateType.html',1,'Steinberg::Vst']]],
   ['steinberg',['Steinberg',['../namespaceSteinberg.html',1,'']]],
+  ['test',['Test',['../namespaceSteinberg_1_1Vst_1_1Test.html',1,'Steinberg::Vst']]],
   ['viewtype',['ViewType',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1ViewType.html',1,'Steinberg::Vst']]],
   ['vst',['Vst',['../namespaceSteinberg_1_1Vst.html',1,'Steinberg']]]
 ];

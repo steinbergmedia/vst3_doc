@@ -7,8 +7,6 @@ var namespaceSteinberg_1_1Vst =
     [ "NoteExpressionSynth", "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html", "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth" ],
     [ "ADelayController", "classSteinberg_1_1Vst_1_1ADelayController.html", "classSteinberg_1_1Vst_1_1ADelayController" ],
     [ "ADelayProcessor", "classSteinberg_1_1Vst_1_1ADelayProcessor.html", "classSteinberg_1_1Vst_1_1ADelayProcessor" ],
-    [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", "classSteinberg_1_1Vst_1_1ADelayTest" ],
-    [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", "classSteinberg_1_1Vst_1_1ADelayTestFactory" ],
     [ "AGain", "classSteinberg_1_1Vst_1_1AGain.html", "classSteinberg_1_1Vst_1_1AGain" ],
     [ "AGainController", "classSteinberg_1_1Vst_1_1AGainController.html", "classSteinberg_1_1Vst_1_1AGainController" ],
     [ "AGainUIMessageController", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", "classSteinberg_1_1Vst_1_1AGainUIMessageController" ],

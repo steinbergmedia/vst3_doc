@@ -35,6 +35,7 @@ var searchData=
   ['processcontextrequirements_2eh',['processcontextrequirements.h',['../../vstsdk/processcontextrequirements_8h.html',1,'']]],
   ['processdata_2ecpp',['processdata.cpp',['../../vstsdk/processdata_8cpp.html',1,'']]],
   ['processdata_2eh',['processdata.h',['../../vstsdk/processdata_8h.html',1,'']]],
+  ['processdataslicer_2eh',['processdataslicer.h',['../../vstsdk/processdataslicer_8h.html',1,'']]],
   ['processsetupcheck_2ecpp',['processsetupcheck.cpp',['../processsetupcheck_8cpp.html',1,'']]],
   ['processsetupcheck_2eh',['processsetupcheck.h',['../processsetupcheck_8h.html',1,'']]],
   ['version_2eh',['version.h',['../pitchnames_2source_2version_8h.html',1,'(Global Namespace)'],['../prefetchablesupport_2source_2version_8h.html',1,'(Global Namespace)'],['../programchange_2source_2version_8h.html',1,'(Global Namespace)']]]

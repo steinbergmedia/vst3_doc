@@ -12,5 +12,6 @@ var structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE =
     [ "ff", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a3a6d5e369f6fff75c421ba62dbf656e4", null ],
     [ "outl", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#ae591e08d901fc29680f78da34dbb2668", null ],
     [ "outr", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a388bb4f1d708946f5687b985a59bb6e9", null ],
-    [ "note", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a6e8d5a4f873b9f4ddf747217d437ff10", null ]
+    [ "note", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a6e8d5a4f873b9f4ddf747217d437ff10", null ],
+    [ "noteID", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#a185db6fd0145d1a2748227c5fcb4d5ed", null ]
 ];

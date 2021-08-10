@@ -31,6 +31,7 @@ var searchData=
   ['aucarbonview_2emm',['aucarbonview.mm',['../../vstsdk/aucarbonview_8mm.html',1,'']]],
   ['aucocoaview_2eh',['aucocoaview.h',['../../vstsdk/aucocoaview_8h.html',1,'']]],
   ['aucocoaview_2emm',['aucocoaview.mm',['../../vstsdk/aucocoaview_8mm.html',1,'']]],
+  ['audiobuffers_2eh',['audiobuffers.h',['../../vstsdk/audiobuffers_8h.html',1,'']]],
   ['audiohost_2ecpp',['audiohost.cpp',['../audiohost_8cpp.html',1,'']]],
   ['audiohost_2eh',['audiohost.h',['../audiohost_8h.html',1,'']]],
   ['audioio_2eh',['AudioIO.h',['../../vstsdk/AudioIO_8h.html',1,'']]],

@@ -1,6 +1,5 @@
 <map id="PlugInterfaceSupport" name="PlugInterfaceSupport">
-<area shape="rect" id="node1" title="Implementation&#39;s example of IPlugInterfaceSupport." alt="" coords="5,278,211,395"/>
-<area shape="rect" id="node2" title=" " alt="" coords="6,156,69,230"/>
-<area shape="rect" id="node3" href="/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title=" " alt="" coords="93,156,267,230"/>
-<area shape="rect" id="node4" href="/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="122,5,238,108"/>
+<area shape="rect" id="node1" title="Implementation&#39;s example of IPlugInterfaceSupport." alt="" coords="5,275,216,388"/>
+<area shape="rect" id="node2" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title=" " alt="" coords="21,153,200,227"/>
+<area shape="rect" id="node3" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="51,5,170,105"/>
 </map>

@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"ivstrepresentation_8h.html#a4c17cdb820810b06035ae875785ed8e1":[3,0,24,14],
+"ivstrepresentation_8h.html#a52406a72fd0a2b4c0ea8e21e64083e3c":[3,0,24,3],
+"ivstrepresentation_8h.html#a53bd192ecfa746b168157c152f4dc34f":[3,0,24,22],
+"ivstrepresentation_8h.html#a55d73164cab645ef625b0906c5fd9b7e":[3,0,24,70],
 "ivstrepresentation_8h.html#a561acb1a41d0b9c03050f3b33be9f6d5":[3,0,24,82],
 "ivstrepresentation_8h.html#a570a4c08c415c55b57cef39fdabd3d22":[3,0,24,20],
 "ivstrepresentation_8h.html#a59d44d7816c352100b7878c78eef424f":[3,0,24,13],
@@ -73,8 +77,8 @@ var NAVTREEINDEX5 =
 "ivsttestplugprovider_8h.html":[3,0,25],
 "ivstunits_8h.html":[3,0,26],
 "modules.html":[0],
-"namespaceSteinberg.html":[1,0,0],
 "namespaceSteinberg.html":[2,0,0],
+"namespaceSteinberg.html":[1,0,0],
 "namespaceSteinberg_1_1Linux.html":[1,0,0,0],
 "namespaceSteinberg_1_1Vst.html":[1,0,0,1],
 "namespaceSteinberg_1_1Vst.html":[2,0,0,0],
@@ -82,8 +86,8 @@ var NAVTREEINDEX5 =
 "namespaceSteinberg_1_1Vst_1_1AttributesFlags.html":[1,0,0,1,1],
 "namespaceSteinberg_1_1Vst_1_1AttributesFunction.html":[1,0,0,1,2],
 "namespaceSteinberg_1_1Vst_1_1AttributesStyle.html":[1,0,0,1,3],
-"namespaceSteinberg_1_1Vst_1_1ChannelContext.html":[2,0,0,0,0],
 "namespaceSteinberg_1_1Vst_1_1ChannelContext.html":[1,0,0,1,4],
+"namespaceSteinberg_1_1Vst_1_1ChannelContext.html":[2,0,0,0,0],
 "namespaceSteinberg_1_1Vst_1_1CurveType.html":[1,0,0,1,5],
 "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html":[1,0,0,1,6],
 "namespaceSteinberg_1_1Vst_1_1LayerType.html":[1,0,0,1,7],
@@ -95,8 +99,8 @@ var NAVTREEINDEX5 =
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html":[1,0,0,1,13],
 "namespaceSteinberg_1_1Vst_1_1StateType.html":[1,0,0,1,14],
 "namespaceSteinberg_1_1Vst_1_1ViewType.html":[1,0,0,1,15],
-"namespacemembers.html":[1,1,0,0],
 "namespacemembers.html":[1,1,0],
+"namespacemembers.html":[1,1,0,0],
 "namespacemembers_b.html":[1,1,0,1],
 "namespacemembers_c.html":[1,1,0,2],
 "namespacemembers_e.html":[1,1,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#aae480d52fcccd8e7b0891f6a7b1d1527":[2,0,0,0,59,7],
 "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#afc1ccb5fcb79e9799e93d05f443ff165":[2,0,0,0,59,6],
 "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html":[2,0,0,0,60],
-"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#a8833b2425f0317bad726e4c6414b0e79":[2,0,0,0,60,1],
-"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf":[2,0,0,0,60,2],
-"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#ab03e603a79dcaa73a796db8b64eb04c8":[2,0,0,0,60,0],
-"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#ac1efeff62e4ba9aea101c3327e0b5c4d":[2,0,0,0,60,3],
-"structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html":[2,0,0,0,61]
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#a8833b2425f0317bad726e4c6414b0e79":[2,0,0,0,60,1]
 };

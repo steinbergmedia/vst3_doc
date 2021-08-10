@@ -16,5 +16,6 @@ var searchData=
   ['presetsaveviewcontroller_2emm',['PresetSaveViewController.mm',['../PresetSaveViewController_8mm.html',1,'']]],
   ['processcontextrequirements_2eh',['processcontextrequirements.h',['../processcontextrequirements_8h.html',1,'']]],
   ['processdata_2ecpp',['processdata.cpp',['../processdata_8cpp.html',1,'']]],
-  ['processdata_2eh',['processdata.h',['../processdata_8h.html',1,'']]]
+  ['processdata_2eh',['processdata.h',['../processdata_8h.html',1,'']]],
+  ['processdataslicer_2eh',['processdataslicer.h',['../processdataslicer_8h.html',1,'']]]
 ];

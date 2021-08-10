@@ -5,6 +5,7 @@ var searchData=
   ['basewrapper_2eh',['basewrapper.h',['../basewrapper_8h.html',1,'']]],
   ['basewrapper_2esdk_2ecpp',['basewrapper.sdk.cpp',['../basewrapper_8sdk_8cpp.html',1,'']]],
   ['bassnote',['bassNote',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a4f5c7e14d27cd2000f90c5fca2adb9a7',1,'Steinberg::Vst::ChordEvent']]],
+  ['beginchanges',['beginChanges',['../structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#ab6ca2894c0616043f3b321a712a900cd',1,'Steinberg::Vst::SampleAccurate::Parameter']]],
   ['beginchunk',['beginChunk',['../classSteinberg_1_1Vst_1_1PresetFile.html#ae394d46565e1278b4997f35e161898e3',1,'Steinberg::Vst::PresetFile']]],
   ['beginedit',['beginEdit',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IComponentHandler.html#a8456ad739430267a12dda11a53fe9223',1,'Steinberg::Vst::IComponentHandler::beginEdit()'],['../classSteinberg_1_1Vst_1_1EditController.html#a3d48394e540892e42a1ea9364f007cb7',1,'Steinberg::Vst::EditController::beginEdit()'],['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a9b6d44e6eb5f2b1b8ae9399dc56a6ad7',1,'Steinberg::Vst::VSTGUIEditor::beginEdit()']]],
   ['begineditfromhost',['beginEditFromHost',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#a97cc85e97b22ff0d4fb9b5109a1a2bf2',1,'Steinberg::Vst::IEditControllerHostEditing']]],

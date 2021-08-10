@@ -61,11 +61,7 @@ var files_dup =
     [ "eventlogger.h", "eventlogger_8h.html", [
       [ "EventLogger", "classEventLogger.html", "classEventLogger" ]
     ] ],
-    [ "exampletest.cpp", "exampletest_8cpp.html", "exampletest_8cpp" ],
-    [ "exampletest.h", "exampletest_8h.html", [
-      [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", "classSteinberg_1_1Vst_1_1ADelayTest" ],
-      [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", "classSteinberg_1_1Vst_1_1ADelayTestFactory" ]
-    ] ],
+    [ "exampletest.cpp", "exampletest_8cpp.html", null ],
     [ "adelay/source/factory.cpp", "adelay_2source_2factory_8cpp.html", "adelay_2source_2factory_8cpp" ],
     [ "hostchecker/source/factory.cpp", "hostchecker_2source_2factory_8cpp.html", null ],
     [ "note_expression_synth/source/factory.cpp", "note__expression__synth_2source_2factory_8cpp.html", "note__expression__synth_2source_2factory_8cpp" ],
@@ -110,9 +106,7 @@ var files_dup =
       [ "BaseController", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html", "classSteinberg_1_1Vst_1_1mda_1_1BaseController" ]
     ] ],
     [ "mdaBaseProcessor.cpp", "mdaBaseProcessor_8cpp.html", "mdaBaseProcessor_8cpp" ],
-    [ "mdaBaseProcessor.h", "mdaBaseProcessor_8h.html", [
-      [ "BaseProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html", "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor" ]
-    ] ],
+    [ "mdaBaseProcessor.h", "mdaBaseProcessor_8h.html", "mdaBaseProcessor_8h" ],
     [ "mdaBeatBoxController.cpp", "mdaBeatBoxController_8cpp.html", null ],
     [ "mdaBeatBoxController.h", "mdaBeatBoxController_8h.html", [
       [ "BeatBoxController", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController" ]

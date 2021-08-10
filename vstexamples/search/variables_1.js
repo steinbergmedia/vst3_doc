@@ -34,10 +34,10 @@ var searchData=
   ['bufres',['bufres',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html#a993b7c4ddda1344aa795355f2f591662',1,'Steinberg::Vst::mda::DetuneProcessor']]],
   ['busindex',['busIndex',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#acd2bbbb2eae99e9e00ac1517dbf7958d',1,'Steinberg::Vst::Event::busIndex()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html#acd2bbbb2eae99e9e00ac1517dbf7958d',1,'Steinberg::Vst::RoutingInfo::busIndex()']]],
   ['bustype',['busType',['../../vstinterfaces/structSteinberg_1_1Vst_1_1BusInfo.html#a795177c339bd0b25de0ea4189aa6c893',1,'Steinberg::Vst::BusInfo::busType()'],['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html#a19466623a694c883892184cab092ebfc',1,'Steinberg::Vst::Bus::busType()']]],
-  ['bypassbuffer0',['bypassBuffer0',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#a44f60a002d17139fd70c1d8f74b8219a',1,'Steinberg::Vst::mda::BaseProcessor']]],
-  ['bypassbuffer1',['bypassBuffer1',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#af8b29edd2aa8b0f1efd6fe304f98c445',1,'Steinberg::Vst::mda::BaseProcessor']]],
-  ['bypassramp',['bypassRamp',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#acef92f4ee38add0cdbd9e207888fbbaf',1,'Steinberg::Vst::mda::BaseProcessor']]],
+  ['bypassbuffer0',['bypassBuffer0',['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a44f60a002d17139fd70c1d8f74b8219a',1,'Steinberg::Vst::mda::Processor']]],
+  ['bypassbuffer1',['bypassBuffer1',['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html#af8b29edd2aa8b0f1efd6fe304f98c445',1,'Steinberg::Vst::mda::Processor']]],
+  ['bypassramp',['bypassRamp',['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html#acef92f4ee38add0cdbd9e207888fbbaf',1,'Steinberg::Vst::mda::Processor']]],
   ['bypasssna',['bypassSNA',['../structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html#ac87ef6edbad8b57276a271532ec2cac5',1,'Steinberg::Vst::NoteExpressionSynth::GlobalParameterState']]],
-  ['bypassstate',['bypassState',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html#ae6d1f2ac968715e2596f1849214a5f52',1,'Steinberg::Vst::mda::BaseProcessor']]],
+  ['bypassstate',['bypassState',['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html#ae6d1f2ac968715e2596f1849214a5f52',1,'Steinberg::Vst::mda::Processor']]],
   ['bytes',['bytes',['../../vstinterfaces/structSteinberg_1_1Vst_1_1DataEvent.html#ab0e4bfcd0606119dacd07fd9388de747',1,'Steinberg::Vst::DataEvent']]]
 ];

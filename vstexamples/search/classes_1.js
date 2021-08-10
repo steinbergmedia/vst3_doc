@@ -4,7 +4,6 @@ var searchData=
   ['bandistoprocessor',['BandistoProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html',1,'Steinberg::Vst::mda']]],
   ['basecontroller',['BaseController',['../classSteinberg_1_1Vst_1_1mda_1_1BaseController.html',1,'Steinberg::Vst::mda']]],
   ['baseparameter',['BaseParameter',['../classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html',1,'Steinberg::Vst::mda']]],
-  ['baseprocessor',['BaseProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html',1,'Steinberg::Vst::mda']]],
   ['beatboxcontroller',['BeatBoxController',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html',1,'Steinberg::Vst::mda']]],
   ['beatboxprocessor',['BeatBoxProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html',1,'Steinberg::Vst::mda']]],
   ['brownnoise',['BrownNoise',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html',1,'Steinberg::Vst::NoteExpressionSynth']]],

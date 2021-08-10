@@ -41,7 +41,6 @@ var hierarchy =
         [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html", null ],
         [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html", null ]
       ] ],
-      [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", null ],
       [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ],
       [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html", [
         [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html", null ]
@@ -130,6 +129,7 @@ var hierarchy =
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],
     [ "Module", "classVST3_1_1Hosting_1_1Module.html", null ],
     [ "Optional< T >", "structVST3_1_1Optional.html", null ],
+    [ "Parameter", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html", null ],
     [ "ParameterChangeTransfer::ParameterChange", "structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html", null ],
     [ "ParameterChangeTransfer", "classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html", null ],
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html", null ],
@@ -142,8 +142,10 @@ var hierarchy =
     [ "ProcessData", "../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html", [
       [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html", null ]
     ] ],
+    [ "ProcessDataSlicer", "classSteinberg_1_1Vst_1_1ProcessDataSlicer.html", null ],
     [ "Processor", "classSteinberg_1_1Vst_1_1MPE_1_1Processor.html", null ],
     [ "RingBuffer< ItemT >", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", null ],
+    [ "RTTransferT< ObjectT, Deleter >", "structSteinberg_1_1Vst_1_1RTTransferT.html", null ],
     [ "Setup", "structSteinberg_1_1Vst_1_1MPE_1_1Setup.html", null ],
     [ "Module::Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", null ],
     [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", null ],

@@ -66,10 +66,11 @@ var NAVTREEINDEX =
 "group__musicalStyle.html#ga3089241b92ddf52d670f6339c57ff321",
 "group__speakerArrangements.html#ga58d4fdbfb02cceca73527bcbf17bf930",
 "ivstaudioprocessor_8h.html#ae514554bd822c5370bf9496c70302e31af21cd390d9ad5f7929f3f0a3ab972e13",
-"ivstrepresentation_8h.html#a561acb1a41d0b9c03050f3b33be9f6d5",
-"structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a10cb194b5adb5b7bd968688cdd58de53",
-"vstpresetkeys_8h.html#ga66d567db513649b64572ec56ec721a13",
-"vstspeaker_8h.html#ga51fdeb3143151508f6d94344431ce9de"
+"ivstrepresentation_8h.html#a4c17cdb820810b06035ae875785ed8e1",
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf",
+"vstpresetkeys_8h.html#ga642a844eb43638962aec00dda572b724",
+"vstspeaker_8h.html#ga509a5cd9d9498ef62bdbce91425522f5",
+"vsttypes_8h.html#gabf70aac64179b2b47bd877600a2e8c28"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['paramchanges',['ParamChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1ParamChanges.html',1,'Steinberg::Vst']]],
-  ['parameter',['Parameter',['../../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html',1,'Steinberg::Vst']]],
+  ['parameter',['Parameter',['../../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html',1,'Parameter'],['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html',1,'Parameter']]],
   ['parameterchange',['ParameterChange',['../../vstsdk/structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['parameterchanges',['ParameterChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html',1,'Steinberg::Vst']]],
   ['parameterchangescheck',['ParameterChangesCheck',['../classParameterChangesCheck.html',1,'']]],
@@ -22,7 +22,7 @@ var searchData=
   ['pitchnamescontroller',['PitchNamesController',['../classSteinberg_1_1Vst_1_1PitchNamesController.html',1,'Steinberg::Vst']]],
   ['pitchnamesdatabrowsersource',['PitchNamesDataBrowserSource',['../classVSTGUI_1_1PitchNamesDataBrowserSource.html',1,'VSTGUI']]],
   ['pitchnamesprocessor',['PitchNamesProcessor',['../classSteinberg_1_1Vst_1_1PitchNamesProcessor.html',1,'Steinberg::Vst']]],
-  ['plug',['Plug',['../classSteinberg_1_1Vst_1_1Plug.html',1,'Plug'],['../classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html',1,'Plug']]],
+  ['plug',['Plug',['../classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html',1,'Plug'],['../classSteinberg_1_1Vst_1_1Plug.html',1,'Plug']]],
   ['plugcontroller',['PlugController',['../classSteinberg_1_1Vst_1_1PlugController.html',1,'PlugController'],['../classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1PlugController.html',1,'PlugController']]],
   ['plugincontextfactory',['PluginContextFactory',['../../vstsdk/classSteinberg_1_1Vst_1_1PluginContextFactory.html',1,'Steinberg::Vst']]],
   ['pluginfactory',['PluginFactory',['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'VST3::Hosting']]],
@@ -35,7 +35,8 @@ var searchData=
   ['processcontextcheck',['ProcessContextCheck',['../classProcessContextCheck.html',1,'']]],
   ['processcontextrequirements',['ProcessContextRequirements',['../../vstsdk/classSteinberg_1_1Vst_1_1ProcessContextRequirements.html',1,'Steinberg::Vst']]],
   ['processdata',['ProcessData',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html',1,'Steinberg::Vst']]],
-  ['processor',['Processor',['../../vstsdk/classSteinberg_1_1Vst_1_1MPE_1_1Processor.html',1,'Processor'],['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html',1,'Processor']]],
+  ['processdataslicer',['ProcessDataSlicer',['../../vstsdk/classSteinberg_1_1Vst_1_1ProcessDataSlicer.html',1,'Steinberg::Vst']]],
+  ['processor',['Processor',['../../vstsdk/classSteinberg_1_1Vst_1_1MPE_1_1Processor.html',1,'Processor'],['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html',1,'Processor'],['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html',1,'Processor']]],
   ['processorwithuicontroller',['ProcessorWithUIController',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ProcessorWithUIController.html',1,'Steinberg::Vst::NoteExpressionSynth']]],
   ['processsetup',['ProcessSetup',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html',1,'Steinberg::Vst']]],
   ['processsetupcheck',['ProcessSetupCheck',['../classProcessSetupCheck.html',1,'']]],

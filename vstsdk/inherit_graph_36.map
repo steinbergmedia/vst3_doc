@@ -1,0 +1,69 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="655,599,749,624"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1VSTGUIEditor.html" title="Base class for an edit view using VSTGUI." alt="" coords="854,599,953,624"/>
+<area shape="rect" id="node3" title=" " alt="" coords="196,425,260,451"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1CPluginView.html" title="Plug&#45;In view default implementation." alt="" coords="418,203,511,228"/>
+<area shape="rect" id="node6" href="$classSteinberg_1_1Vst_1_1Bus.html" title="Basic Bus object." alt="" coords="443,449,486,475"/>
+<area shape="rect" id="node9" href="$classSteinberg_1_1Vst_1_1BusList.html" title="List of Busses." alt="" coords="433,153,496,179"/>
+<area shape="rect" id="node10" href="$classSteinberg_1_1Vst_1_1ComponentBase.html" title="Base class for VST 3 Component and Edit Controller." alt="" coords="407,800,522,825"/>
+<area shape="rect" id="node16" href="$classSteinberg_1_1Vst_1_1ConnectionProxy.html" title="Helper for creating and initializing component." alt="" coords="407,649,523,675"/>
+<area shape="rect" id="node17" href="$classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html" title=" " alt="" coords="411,600,518,625"/>
+<area shape="rect" id="node18" href="$classSteinberg_1_1Vst_1_1NoteExpressionType.html" title="Note expression type object." alt="" coords="397,499,533,524"/>
+<area shape="rect" id="node20" href="$classSteinberg_1_1Vst_1_1NoteExpressionTypeContainer.html" title="Collection of note expression types." alt="" coords="369,252,560,277"/>
+<area shape="rect" id="node21" href="$classSteinberg_1_1Vst_1_1Parameter.html" title="Description of a Parameter." alt="" coords="425,301,504,327"/>
+<area shape="rect" id="node24" href="$classSteinberg_1_1Vst_1_1PlugProvider.html" title="Helper for creating and initializing component." alt="" coords="655,549,749,575"/>
+<area shape="rect" id="node25" href="$classSteinberg_1_1Vst_1_1ProgramList.html" title="ProgramList element." alt="" coords="421,351,509,376"/>
+<area shape="rect" id="node27" href="$classSteinberg_1_1Vst_1_1Unit.html" title="Unit element." alt="" coords="443,400,487,425"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1Vst_1_1EditorView.html" title="View related to an edit controller." alt="" coords="661,203,743,228"/>
+<area shape="rect" id="node7" href="$classSteinberg_1_1Vst_1_1AudioBus.html" title="Description of an Audio Bus." alt="" coords="665,449,739,475"/>
+<area shape="rect" id="node8" href="$classSteinberg_1_1Vst_1_1EventBus.html" title="Description of an Event Bus." alt="" coords="665,400,739,425"/>
+<area shape="rect" id="node11" href="$classSteinberg_1_1Vst_1_1Component.html" title="Default implementation for a VST 3 Component." alt="" coords="659,976,745,1001"/>
+<area shape="rect" id="node13" href="$classSteinberg_1_1Vst_1_1EditController.html" title="Default implementation for a VST 3 edit controller." alt="" coords="653,851,751,876"/>
+<area shape="rect" id="node12" href="$classSteinberg_1_1Vst_1_1AudioEffect.html" title="Default implementation for a VST 3 audio effect." alt="" coords="861,1027,945,1052"/>
+<area shape="rect" id="node14" href="$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title="Advanced implementation (support IUnitInfo) for a VST 3 edit controller." alt="" coords="844,851,963,876"/>
+<area shape="rect" id="node15" href="$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title="Default implementation for a non&#45;distributable Plug&#45;in that combines processor and edit controller in..." alt="" coords="1011,951,1161,976"/>
+<area shape="rect" id="node19" href="$classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html" title="Note expression type object representing a custom range." alt="" coords="615,499,789,524"/>
+<area shape="rect" id="node22" href="$classSteinberg_1_1Vst_1_1RangeParameter.html" title="Description of a RangeParameter." alt="" coords="644,301,760,327"/>
+<area shape="rect" id="node23" href="$classSteinberg_1_1Vst_1_1StringListParameter.html" title="Description of a StringListParameter." alt="" coords="637,252,767,277"/>
+<area shape="rect" id="node26" href="$classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html" title="ProgramListWithPitchNames element." alt="" coords="613,351,791,376"/>
+<area shape="rect" id="node28" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="5,1075,87,1100"/>
+<area shape="rect" id="node29" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IBStream.html" title=" " alt="" coords="192,1075,264,1100"/>
+<area shape="rect" id="node34" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="184,939,272,964"/>
+<area shape="rect" id="node37" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IPlugView.html" title=" " alt="" coords="189,301,267,327"/>
+<area shape="rect" id="node38" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IStringResult.html" title=" " alt="" coords="182,1173,274,1199"/>
+<area shape="rect" id="node40" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1ITest.html" title=" " alt="" coords="205,1400,251,1425"/>
+<area shape="rect" id="node43" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IAttributeList.html" title=" " alt="" coords="183,1299,273,1324"/>
+<area shape="rect" id="node45" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IAudioProcessor.html" title=" " alt="" coords="646,1027,758,1052"/>
+<area shape="rect" id="node46" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title=" " alt="" coords="170,800,286,825"/>
+<area shape="rect" id="node47" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController2.html" title=" " alt="" coords="175,876,281,901"/>
+<area shape="rect" id="node48" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEventList.html" title=" " alt="" coords="191,1449,265,1475"/>
+<area shape="rect" id="node50" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IHostApplication.html" title=" " alt="" coords="173,1499,283,1524"/>
+<area shape="rect" id="node52" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html" title=" " alt="" coords="135,624,321,649"/>
+<area shape="rect" id="node53" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IMessage.html" title=" " alt="" coords="191,1548,265,1573"/>
+<area shape="rect" id="node55" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParameterChanges.html" title=" " alt="" coords="162,1597,294,1623"/>
+<area shape="rect" id="node57" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParamValueQueue.html" title=" " alt="" coords="163,55,293,80"/>
+<area shape="rect" id="node60" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title=" " alt="" coords="158,104,298,129"/>
+<area shape="rect" id="node62" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IProcessContextRequirements.html" title=" " alt="" coords="608,1077,796,1103"/>
+<area shape="rect" id="node63" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title=" " alt="" coords="169,699,287,724"/>
+<area shape="rect" id="node65" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IUnitInfo.html" title=" " alt="" coords="669,775,735,800"/>
+<area shape="rect" id="node30" href="$classSteinberg_1_1MemoryStream.html" title="Memory based Stream for IBStream implementation (using malloc)." alt="" coords="412,1049,517,1075"/>
+<area shape="rect" id="node31" href="$classSteinberg_1_1Vst_1_1BufferStream.html" title="Stream implementation for a memory buffer." alt="" coords="418,1099,511,1124"/>
+<area shape="rect" id="node32" href="$classSteinberg_1_1Vst_1_1FileStream.html" title="Stream implementation for a file using stdio." alt="" coords="424,1148,505,1173"/>
+<area shape="rect" id="node33" href="$classSteinberg_1_1Vst_1_1ReadOnlyBStream.html" title="Stream representing a Read&#45;Only subsection of its source stream." alt="" coords="403,1000,527,1025"/>
+<area shape="rect" id="node35" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IComponent.html" title=" " alt="" coords="420,951,509,976"/>
+<area shape="rect" id="node36" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController.html" title=" " alt="" coords="415,901,515,927"/>
+<area shape="rect" id="node39" href="$classSteinberg_1_1Vst_1_1StringResult.html" title=" " alt="" coords="420,1197,509,1223"/>
+<area shape="rect" id="node41" href="$classSteinberg_1_1Vst_1_1TestBase.html" title="Test Helper." alt="" coords="429,1400,501,1425"/>
+<area shape="rect" id="node42" href="$classSteinberg_1_1Vst_1_1TestEnh.html" title="Test Helper." alt="" coords="669,1400,735,1425"/>
+<area shape="rect" id="node44" href="$classSteinberg_1_1Vst_1_1HostAttributeList.html" title="Implementation&#39;s example of IAttributeList." alt="" coords="409,1299,520,1324"/>
+<area shape="rect" id="node49" href="$classSteinberg_1_1Vst_1_1EventList.html" title="Implementation&#39;s example of IEventList." alt="" coords="429,1449,501,1475"/>
+<area shape="rect" id="node51" href="$classSteinberg_1_1Vst_1_1HostApplication.html" title="Implementation&#39;s example of IHostApplication." alt="" coords="411,1499,519,1524"/>
+<area shape="rect" id="node54" href="$classSteinberg_1_1Vst_1_1HostMessage.html" title="Implementation&#39;s example of IMessage." alt="" coords="416,1548,513,1573"/>
+<area shape="rect" id="node56" href="$classSteinberg_1_1Vst_1_1ParameterChanges.html" title="Implementation&#39;s example of IParameterChanges &#45; not threadsave!." alt="" coords="400,1597,529,1623"/>
+<area shape="rect" id="node58" href="$classSteinberg_1_1Vst_1_1ParamChanges.html" title="AutomationTest helper classes: implementation of IParamValueQueue." alt="" coords="411,5,519,31"/>
+<area shape="rect" id="node59" href="$classSteinberg_1_1Vst_1_1ParameterValueQueue.html" title="Implementation&#39;s example of IParamValueQueue &#45; not threadsave!." alt="" coords="391,55,538,80"/>
+<area shape="rect" id="node61" href="$classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html" title="Implementation&#39;s example of IPlugInterfaceSupport." alt="" coords="396,104,533,129"/>
+<area shape="rect" id="node64" href="/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title=" " alt="" coords="402,699,527,724"/>
+<area shape="rect" id="node66" title=" " alt="" coords="201,153,255,179"/>
+<area shape="rect" id="node67" title=" " alt="" coords="629,648,775,673"/>
+</map>

@@ -17,10 +17,12 @@ var searchData=
   ['envl',['envl',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a728ffe847a595eaf38996299ad74a6ce',1,'Steinberg::Vst::mda::JX10Processor::VOICE']]],
   ['epianodata',['epianoData',['../mdaEPianoData_8h.html#ab266be229d28fa6b6be56ab0b4e92de7',1,'mdaEPianoData.h']]],
   ['errorstream',['errorStream',['../classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f',1,'Steinberg::Vst::Validator']]],
+  ['eventbuffersize',['eventBufferSize',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a919b8aa0ccf8fddee8c898f8d4638308',1,'Steinberg::Vst::mda::SynthData']]],
   ['eventinputs',['eventInputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a183bab90c30bb13225535e57cbe982b0',1,'Steinberg::Vst::Component::eventInputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a183bab90c30bb13225535e57cbe982b0',1,'Steinberg::Vst::SingleComponentEffect::eventInputs()']]],
   ['eventoutputs',['eventOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::Component::eventOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::SingleComponentEffect::eventOutputs()']]],
-  ['eventpos',['eventPos',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a5180288363feed1a874e44792301aab9',1,'Steinberg::Vst::mda::EPianoProcessor::eventPos()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a5180288363feed1a874e44792301aab9',1,'Steinberg::Vst::mda::PianoProcessor::eventPos()']]],
-  ['events',['events',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
+  ['eventpos',['eventPos',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a7f27020bd76e4cbb7a1f61ed42da170f',1,'Steinberg::Vst::mda::SynthData']]],
+  ['events',['events',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList::events()'],['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#ae0ce15ecc94e479d84738072022fe50c',1,'Steinberg::Vst::mda::SynthData::events()']]],
+  ['eventsdoneid',['eventsDoneID',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#ae279e541d1cd489cfca8f7aafd87948b',1,'Steinberg::Vst::mda::SynthData']]],
   ['expo',['expo',['../classSteinberg_1_1Vst_1_1LogScale.html#a80421b87027aba8fe8a854b99080c633',1,'Steinberg::Vst::LogScale']]],
   ['expoinv',['expoInv',['../classSteinberg_1_1Vst_1_1LogScale.html#abc50abe8ae9ffa1c61dc23eed88b1335',1,'Steinberg::Vst::LogScale']]]
 ];

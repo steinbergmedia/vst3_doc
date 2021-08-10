@@ -2,77 +2,98 @@
 <tagfile>
   <compound kind="file">
     <name>aaxentry.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxentry_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>aaxlibrary.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxlibrary_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper_8h</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_description.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__description_8h</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_gui.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__gui_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_gui.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__gui_8h</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_parameters.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__parameters_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_parameters.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__parameters_8h</filename>
   </compound>
   <compound kind="file">
     <name>aucarbonview.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucarbonview_8h</filename>
   </compound>
   <compound kind="file">
     <name>aucarbonview.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucarbonview_8mm</filename>
   </compound>
   <compound kind="file">
     <name>aucocoaview.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucocoaview_8h</filename>
   </compound>
   <compound kind="file">
     <name>aucocoaview.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucocoaview_8mm</filename>
   </compound>
   <compound kind="file">
+    <name>audiobuffers.h</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>audiobuffers_8h</filename>
+    <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Vst</namespace>
+    <member kind="function">
+      <type>Sample32 **</type>
+      <name>getChannelBuffers</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a213051683ba774f75e971d0bc6d238f1</anchor>
+      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
+    </member>
+    <member kind="function">
+      <type>Sample64 **</type>
+      <name>getChannelBuffers</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a8741c1b918e1c22441a9044507aa15f9</anchor>
+      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>AudioIO.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>AudioIO_8h</filename>
   </compound>
   <compound kind="file">
     <name>AudioIO.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>AudioIO_8mm</filename>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
     <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">MidiIO.h</includes>
@@ -96,32 +117,32 @@
   </compound>
   <compound kind="file">
     <name>ausdk.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>ausdk_8mm</filename>
   </compound>
   <compound kind="file">
     <name>auwrapper.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>auwrapper_8h</filename>
   </compound>
   <compound kind="file">
     <name>auwrapper.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>auwrapper_8mm</filename>
   </compound>
   <compound kind="file">
     <name>basewrapper.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>basewrapper.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8h</filename>
   </compound>
   <compound kind="file">
     <name>basewrapper.sdk.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8sdk_8cpp</filename>
     <includes id="basewrapper_8cpp" name="basewrapper.cpp" local="yes" imported="no">public.sdk/source/vst/basewrapper/basewrapper.cpp</includes>
     <includes id="connectionproxy_8cpp" name="connectionproxy.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/connectionproxy.cpp</includes>
@@ -133,7 +154,7 @@
   </compound>
   <compound kind="file">
     <name>connectionproxy.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8cpp</filename>
     <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" imported="no">connectionproxy.h</includes>
     <namespace>Steinberg</namespace>
@@ -141,7 +162,7 @@
   </compound>
   <compound kind="file">
     <name>connectionproxy.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8h</filename>
     <class kind="class">Steinberg::Vst::ConnectionProxy</class>
     <namespace>Steinberg</namespace>
@@ -149,17 +170,17 @@
   </compound>
   <compound kind="file">
     <name>doc_public_sdk.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>doc__public__sdk_8h</filename>
   </compound>
   <compound kind="file">
     <name>doc_public_sdk_limited.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>doc__public__sdk__limited_8h</filename>
   </compound>
   <compound kind="file">
     <name>eventlist.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8cpp</filename>
     <includes id="eventlist_8h" name="eventlist.h" local="yes" imported="no">eventlist.h</includes>
     <namespace>Steinberg</namespace>
@@ -174,7 +195,7 @@
   </compound>
   <compound kind="file">
     <name>eventlist.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8h</filename>
     <class kind="class">Steinberg::Vst::EventList</class>
     <namespace>Steinberg</namespace>
@@ -182,12 +203,12 @@
   </compound>
   <compound kind="file">
     <name>HostApp.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>HostApp_8h</filename>
   </compound>
   <compound kind="file">
     <name>HostApp.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>HostApp_8mm</filename>
     <includes id="HostApp_8h" name="HostApp.h" local="yes" imported="yes">HostApp.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
@@ -200,9 +221,10 @@
   </compound>
   <compound kind="file">
     <name>hostclasses.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8cpp</filename>
     <includes id="hostclasses_8h" name="hostclasses.h" local="yes" imported="no">hostclasses.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
     <member kind="function">
@@ -222,7 +244,7 @@
   </compound>
   <compound kind="file">
     <name>hostclasses.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8h</filename>
     <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" imported="no">public.sdk/source/vst/hosting/pluginterfacesupport.h</includes>
     <class kind="class">Steinberg::Vst::HostApplication</class>
@@ -233,14 +255,14 @@
   </compound>
   <compound kind="file">
     <name>memorystream.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/common/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>memorystream_8h</filename>
     <class kind="class">Steinberg::MemoryStream</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>MidiIO.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8h</filename>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="no">AudioIO.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::MidiIO</class>
@@ -250,7 +272,7 @@
   </compound>
   <compound kind="file">
     <name>MidiIO.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8mm</filename>
     <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">MidiIO.h</includes>
     <namespace>Steinberg</namespace>
@@ -259,7 +281,7 @@
   </compound>
   <compound kind="file">
     <name>module.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8cpp</filename>
     <includes id="module_8h" name="module.h" local="yes" imported="no">module.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
@@ -268,7 +290,7 @@
   </compound>
   <compound kind="file">
     <name>module.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8h</filename>
     <includes id="uid_8h" name="uid.h" local="yes" imported="no">../utility/uid.h</includes>
     <class kind="class">VST3::Hosting::FactoryInfo</class>
@@ -283,7 +305,7 @@
   </compound>
   <compound kind="file">
     <name>module_linux.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__linux_8cpp</filename>
     <includes id="module_8h" name="module.h" local="yes" imported="no">module.h</includes>
     <includes id="optional_8h" name="optional.h" local="yes" imported="no">../utility/optional.h</includes>
@@ -320,15 +342,15 @@
     </member>
     <member kind="variable">
       <type>void *</type>
-      <name>module</name>
+      <name>mModule</name>
       <anchorfile>module__linux_8cpp.html</anchorfile>
-      <anchor>a59fcda1946fe2178896b5967065904e6</anchor>
+      <anchor>a2f8d15415d186671c101186f3cb67860</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>module_mac.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__mac_8mm</filename>
     <includes id="module_8h" name="module.h" local="yes" imported="yes">module.h</includes>
     <namespace>VST3</namespace>
@@ -357,7 +379,7 @@
   </compound>
   <compound kind="file">
     <name>module_win32.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__win32_8cpp</filename>
     <includes id="optional_8h" name="optional.h" local="yes" imported="no">../utility/optional.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">../utility/stringconvert.h</includes>
@@ -409,7 +431,7 @@
   </compound>
   <compound kind="file">
     <name>mpeprocessor.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>mpeprocessor_8cpp</filename>
     <includes id="mpeprocessor_8h" name="mpeprocessor.h" local="yes" imported="no">mpeprocessor.h</includes>
     <namespace>Steinberg</namespace>
@@ -418,7 +440,7 @@
   </compound>
   <compound kind="file">
     <name>mpeprocessor.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>mpeprocessor_8h</filename>
     <class kind="struct">Steinberg::Vst::MPE::Handler</class>
     <class kind="struct">Steinberg::Vst::MPE::Setup</class>
@@ -512,24 +534,24 @@
   </compound>
   <compound kind="file">
     <name>NSDataIBStream.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>NSDataIBStream_8h</filename>
   </compound>
   <compound kind="file">
     <name>NSDataIBStream.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>NSDataIBStream_8mm</filename>
   </compound>
   <compound kind="file">
     <name>optional.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>optional_8h</filename>
     <class kind="struct">VST3::Optional</class>
     <namespace>VST3</namespace>
   </compound>
   <compound kind="file">
     <name>parameterchanges.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>parameterchanges_8cpp</filename>
     <includes id="parameterchanges_8h" name="parameterchanges.h" local="yes" imported="no">parameterchanges.h</includes>
     <namespace>Steinberg</namespace>
@@ -558,7 +580,7 @@
   </compound>
   <compound kind="file">
     <name>parameterchanges.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>parameterchanges_8h</filename>
     <class kind="class">Steinberg::Vst::ParameterValueQueue</class>
     <class kind="struct">Steinberg::Vst::ParameterValueQueue::ParameterQueueValue</class>
@@ -570,7 +592,7 @@
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8cpp</filename>
     <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" imported="no">pluginterfacesupport.h</includes>
     <namespace>Steinberg</namespace>
@@ -578,7 +600,7 @@
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8h</filename>
     <class kind="class">Steinberg::Vst::PlugInterfaceSupport</class>
     <namespace>Steinberg</namespace>
@@ -586,14 +608,14 @@
   </compound>
   <compound kind="file">
     <name>pluginview.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/common/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>pluginview_8h</filename>
     <class kind="class">Steinberg::CPluginView</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>plugprovider.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8cpp</filename>
     <includes id="plugprovider_8h" name="plugprovider.h" local="yes" imported="no">plugprovider.h</includes>
     <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" imported="no">connectionproxy.h</includes>
@@ -602,7 +624,7 @@
   </compound>
   <compound kind="file">
     <name>plugprovider.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8h</filename>
     <includes id="module_8h" name="module.h" local="yes" imported="no">public.sdk/source/vst/hosting/module.h</includes>
     <class kind="class">Steinberg::Vst::PlugProvider</class>
@@ -612,18 +634,18 @@
   </compound>
   <compound kind="file">
     <name>PresetBrowserViewController.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetBrowserViewController_8h</filename>
   </compound>
   <compound kind="file">
     <name>PresetBrowserViewController.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetBrowserViewController_8mm</filename>
     <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" imported="yes">PresetBrowserViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>PresetManager.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8h</filename>
     <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="no">VST3Plugin.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::PresetManager</class>
@@ -633,7 +655,7 @@
   </compound>
   <compound kind="file">
     <name>PresetManager.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8mm</filename>
     <includes id="PresetManager_8h" name="PresetManager.h" local="yes" imported="yes">PresetManager.h</includes>
     <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" imported="yes">PresetBrowserViewController.h</includes>
@@ -645,18 +667,18 @@
   </compound>
   <compound kind="file">
     <name>PresetSaveViewController.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetSaveViewController_8h</filename>
   </compound>
   <compound kind="file">
     <name>PresetSaveViewController.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetSaveViewController_8mm</filename>
     <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" imported="yes">PresetSaveViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>processcontextrequirements.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>processcontextrequirements_8h</filename>
     <class kind="class">Steinberg::Vst::ProcessContextRequirements</class>
     <namespace>Steinberg</namespace>
@@ -664,7 +686,7 @@
   </compound>
   <compound kind="file">
     <name>processdata.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8cpp</filename>
     <includes id="processdata_8h" name="processdata.h" local="yes" imported="no">processdata.h</includes>
     <namespace>Steinberg</namespace>
@@ -672,23 +694,48 @@
   </compound>
   <compound kind="file">
     <name>processdata.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/hosting/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8h</filename>
     <class kind="class">Steinberg::Vst::HostProcessData</class>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
+    <name>processdataslicer.h</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>processdataslicer_8h</filename>
+    <class kind="class">Steinberg::Vst::ProcessDataSlicer</class>
+    <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Vst</namespace>
+  </compound>
+  <compound kind="file">
     <name>ringbuffer.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>ringbuffer_8h</filename>
     <class kind="class">Steinberg::OneReaderOneWriter::RingBuffer</class>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::OneReaderOneWriter</namespace>
   </compound>
   <compound kind="file">
+    <name>rttransfer.h</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>rttransfer_8h</filename>
+    <class kind="struct">Steinberg::Vst::RTTransferT</class>
+    <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Vst</namespace>
+  </compound>
+  <compound kind="file">
+    <name>sampleaccurate.h</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>sampleaccurate_8h</filename>
+    <class kind="struct">Steinberg::Vst::SampleAccurate::Parameter</class>
+    <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Vst</namespace>
+    <namespace>Steinberg::Vst::SampleAccurate</namespace>
+  </compound>
+  <compound kind="file">
     <name>SettingsViewController.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>SettingsViewController_8h</filename>
     <member kind="function">
       <type>void</type>
@@ -700,7 +747,7 @@
   </compound>
   <compound kind="file">
     <name>SettingsViewController.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>SettingsViewController_8mm</filename>
     <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" imported="yes">SettingsViewController.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
@@ -715,7 +762,7 @@
   </compound>
   <compound kind="file">
     <name>stringconvert.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8cpp</filename>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">stringconvert.h</includes>
     <namespace>VST3</namespace>
@@ -765,7 +812,7 @@
   </compound>
   <compound kind="file">
     <name>stringconvert.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8h</filename>
     <namespace>VST3</namespace>
     <namespace>VST3::StringConvert</namespace>
@@ -821,7 +868,7 @@
   </compound>
   <compound kind="file">
     <name>testbase.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>testbase_8cpp</filename>
     <includes id="testbase_8h" name="testbase.h" local="yes" imported="no">public.sdk/source/vst/testsuite/testbase.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
@@ -879,7 +926,7 @@
   </compound>
   <compound kind="file">
     <name>testbase.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>testbase_8h</filename>
     <class kind="struct">Steinberg::Vst::TestingPluginContext</class>
     <class kind="struct">Steinberg::Vst::TestDefaults</class>
@@ -941,8 +988,114 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>testing.cpp</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>testing_8cpp</filename>
+    <includes id="testing_8h" name="testing.h" local="yes" imported="no">public.sdk/source/vst/utility/testing.h</includes>
+    <namespace>Steinberg</namespace>
+    <member kind="function">
+      <type></type>
+      <name>DEF_CLASS_IID</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>ac5fa6c7c0083a2a67b209b23b1b12fd2</anchor>
+      <arglist>(ITest) DEF_CLASS_IID(ITestSuite) DEF_CLASS_IID(ITestFactory) namespace Vst</arglist>
+    </member>
+  </compound>
+  <compound kind="file">
+    <name>testing.h</name>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <filename>testing_8h</filename>
+    <namespace>Steinberg</namespace>
+    <namespace>Steinberg::Vst</namespace>
+    <namespace>Steinberg::Vst::Test</namespace>
+    <member kind="typedef">
+      <type>std::function&lt; bool(ITestResult *)&gt;</type>
+      <name>TestFunc</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a6de37bbde36975cef7843c563815e004</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::function&lt; bool(FUnknown *, ITestResult *)&gt;</type>
+      <name>TestFuncWithContext</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7f3c745946efb648d6bfbfee4c848f71</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type>FUnknown *</type>
+      <name>createTestFactoryInstance</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a10dd54abaec9fa1e9cc884e65fde1fd7</anchor>
+      <arglist>(void *)</arglist>
+    </member>
+    <member kind="function">
+      <type>const FUID &amp;</type>
+      <name>getTestFactoryUID</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a2efb6d856dcdba379f7ae15a3bf51285</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>ab6e655509c579433631bb4db9bc49e9f</anchor>
+      <arglist>(FIDString name, const char *desc, const TestFunc &amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>afd363300a76b48236b3cc7fb437a8822</anchor>
+      <arglist>(FIDString name, const char *desc, TestFunc &amp;&amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a996e09bb27dc5ee45c0c0dcfa398bf15</anchor>
+      <arglist>(FIDString name, const char *desc, const TestFuncWithContext &amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>aa5257bc85533b36017356d89822878a6</anchor>
+      <arglist>(FIDString name, const char *desc, TestFuncWithContext &amp;&amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>af0621743f305f87dd320b9bdacff874a</anchor>
+      <arglist>(FIDString name, ITest *test)</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>equal</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a9c9857bf54181af4d02c7be0eaedffeb</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>notEqual</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a7a61e58c85b01750f4fb662ffbe586e7</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>maxDiff</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a258cadbe3c6a686a777c68ffe6745a92</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs, const T &amp;maxDiff) noexcept</arglist>
+    </member>
+  </compound>
+  <compound kind="file">
     <name>uid.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>uid_8h</filename>
     <includes id="optional_8h" name="optional.h" local="yes" imported="no">optional.h</includes>
     <class kind="struct">VST3::UID</class>
@@ -971,13 +1124,13 @@
   </compound>
   <compound kind="file">
     <name>usediids.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>usediids_8cpp</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>versionparser.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>versionparser_8h</filename>
     <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Version</class>
@@ -985,7 +1138,7 @@
   </compound>
   <compound kind="file">
     <name>vst2persistence.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8cpp</filename>
     <includes id="vst2persistence_8h" name="vst2persistence.h" local="yes" imported="no">public.sdk/source/vst/utility/vst2persistence.h</includes>
     <namespace>VST3</namespace>
@@ -1049,7 +1202,7 @@
   </compound>
   <compound kind="file">
     <name>vst2persistence.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8h</filename>
     <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Vst2xProgram</class>
@@ -1086,29 +1239,29 @@
   </compound>
   <compound kind="file">
     <name>vst2wrapper.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/vst2wrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/vst2wrapper/</path>
     <filename>vst2wrapper_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>vst2wrapper.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/vst2wrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/vst2wrapper/</path>
     <filename>vst2wrapper_8h</filename>
   </compound>
   <compound kind="file">
     <name>vst2wrapper.sdk.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/vst2wrapper/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/vst2wrapper/</path>
     <filename>vst2wrapper_8sdk_8cpp</filename>
     <includes id="basewrapper_8sdk_8cpp" name="basewrapper.sdk.cpp" local="yes" imported="no">public.sdk/source/vst/basewrapper/basewrapper.sdk.cpp</includes>
     <includes id="vst2wrapper_8cpp" name="vst2wrapper.cpp" local="yes" imported="no">public.sdk/source/vst/vst2wrapper/vst2wrapper.cpp</includes>
   </compound>
   <compound kind="file">
     <name>VST3Editor.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Editor_8h</filename>
   </compound>
   <compound kind="file">
     <name>VST3Editor.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Editor_8mm</filename>
     <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" imported="yes">VST3Editor.h</includes>
     <namespace>Steinberg</namespace>
@@ -1117,12 +1270,12 @@
   </compound>
   <compound kind="file">
     <name>VST3Plugin.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Plugin_8h</filename>
   </compound>
   <compound kind="file">
     <name>VST3Plugin.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Plugin_8mm</filename>
     <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="yes">VST3Plugin.h</includes>
     <includes id="HostApp_8h" name="HostApp.h" local="yes" imported="yes">HostApp.h</includes>
@@ -1155,7 +1308,7 @@
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8cpp</filename>
     <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" imported="no">vstaudioeffect.h</includes>
     <namespace>Steinberg</namespace>
@@ -1163,7 +1316,7 @@
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8h</filename>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">public.sdk/source/vst/vstbus.h</includes>
     <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" imported="no">public.sdk/source/vst/vstcomponent.h</includes>
@@ -1174,7 +1327,7 @@
   </compound>
   <compound kind="file">
     <name>vstaudioprocessoralgo.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioprocessoralgo_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1336,7 +1489,7 @@
   </compound>
   <compound kind="file">
     <name>vstbus.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbus_8cpp</filename>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">vstbus.h</includes>
     <namespace>Steinberg</namespace>
@@ -1344,7 +1497,7 @@
   </compound>
   <compound kind="file">
     <name>vstbus.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbus_8h</filename>
     <class kind="class">Steinberg::Vst::Bus</class>
     <class kind="class">Steinberg::Vst::EventBus</class>
@@ -1355,7 +1508,7 @@
   </compound>
   <compound kind="file">
     <name>vstbypassprocessor.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbypassprocessor_8h</filename>
     <includes id="vstspeakerarray_8h" name="vstspeakerarray.h" local="yes" imported="no">vstspeakerarray.h</includes>
     <class kind="class">Steinberg::Vst::AudioBuffer</class>
@@ -1373,7 +1526,7 @@
   </compound>
   <compound kind="file">
     <name>vstcomponent.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8cpp</filename>
     <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" imported="no">vstcomponent.h</includes>
     <namespace>Steinberg</namespace>
@@ -1388,7 +1541,7 @@
   </compound>
   <compound kind="file">
     <name>vstcomponent.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8h</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">public.sdk/source/vst/vstcomponentbase.h</includes>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">public.sdk/source/vst/vstbus.h</includes>
@@ -1405,7 +1558,7 @@
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8cpp</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">vstcomponentbase.h</includes>
     <namespace>Steinberg</namespace>
@@ -1413,7 +1566,7 @@
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8h</filename>
     <class kind="class">Steinberg::Vst::ComponentBase</class>
     <namespace>Steinberg</namespace>
@@ -1421,7 +1574,7 @@
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8cpp</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.h</includes>
     <namespace>Steinberg</namespace>
@@ -1429,7 +1582,7 @@
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8h</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">public.sdk/source/vst/vstcomponentbase.h</includes>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">public.sdk/source/vst/vstparameters.h</includes>
@@ -1445,7 +1598,7 @@
   </compound>
   <compound kind="file">
     <name>vsteventshelper.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteventshelper_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1509,7 +1662,7 @@
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8cpp</filename>
     <includes id="vstgui__win32__bundle__support_8h" name="vstgui_win32_bundle_support.h" local="yes" imported="no">vstgui_win32_bundle_support.h</includes>
     <namespace>Steinberg</namespace>
@@ -1524,7 +1677,7 @@
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1538,7 +1691,7 @@
   </compound>
   <compound kind="file">
     <name>vstguieditor.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8cpp</filename>
     <includes id="vstguieditor_8h" name="vstguieditor.h" local="yes" imported="no">vstguieditor.h</includes>
     <namespace>VSTGUI</namespace>
@@ -1568,7 +1721,7 @@
   </compound>
   <compound kind="file">
     <name>vstguieditor.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8h</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">vsteditcontroller.h</includes>
     <class kind="class">Steinberg::Vst::VSTGUIEditor</class>
@@ -1584,7 +1737,7 @@
   </compound>
   <compound kind="file">
     <name>vsthelpers.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsthelpers_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1599,20 +1752,20 @@
   </compound>
   <compound kind="file">
     <name>vstinitiids.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstinitiids_8cpp</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegateBase.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VSTInterAppAudioAppDelegateBase_8h</filename>
     <class kind="class">VSTInterAppAudioAppDelegateBase</class>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegateBase.mm</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VSTInterAppAudioAppDelegateBase_8mm</filename>
     <includes id="VSTInterAppAudioAppDelegateBase_8h" name="VSTInterAppAudioAppDelegateBase.h" local="yes" imported="yes">VSTInterAppAudioAppDelegateBase.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/AudioIO.h</includes>
@@ -1623,7 +1776,7 @@
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstnoteexpressiontypes_8cpp</filename>
     <includes id="vstnoteexpressiontypes_8h" name="vstnoteexpressiontypes.h" local="yes" imported="no">vstnoteexpressiontypes.h</includes>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">vstparameters.h</includes>
@@ -1632,7 +1785,7 @@
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstnoteexpressiontypes_8h</filename>
     <class kind="class">Steinberg::Vst::NoteExpressionType</class>
     <class kind="class">Steinberg::Vst::RangeNoteExpressionType</class>
@@ -1642,7 +1795,7 @@
   </compound>
   <compound kind="file">
     <name>vstparameters.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstparameters_8cpp</filename>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">vstparameters.h</includes>
     <namespace>Steinberg</namespace>
@@ -1650,7 +1803,7 @@
   </compound>
   <compound kind="file">
     <name>vstparameters.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstparameters_8h</filename>
     <class kind="class">Steinberg::Vst::Parameter</class>
     <class kind="class">Steinberg::Vst::RangeParameter</class>
@@ -1661,7 +1814,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetfile.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstpresetfile_8cpp</filename>
     <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" imported="no">vstpresetfile.h</includes>
     <namespace>Steinberg</namespace>
@@ -1711,7 +1864,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetfile.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstpresetfile_8h</filename>
     <class kind="class">Steinberg::Vst::PresetFile</class>
     <class kind="struct">Steinberg::Vst::PresetFile::Entry</class>
@@ -1793,7 +1946,7 @@
   </compound>
   <compound kind="file">
     <name>vstrepresentation.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8cpp</filename>
     <includes id="vstrepresentation_8h" name="vstrepresentation.h" local="yes" imported="no">vstrepresentation.h</includes>
     <namespace>Steinberg</namespace>
@@ -1829,7 +1982,7 @@
   </compound>
   <compound kind="file">
     <name>vstrepresentation.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8h</filename>
     <class kind="class">Steinberg::Vst::XmlRepresentationHelper</class>
     <namespace>Steinberg</namespace>
@@ -1837,7 +1990,7 @@
   </compound>
   <compound kind="file">
     <name>vstsinglecomponenteffect.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8cpp</filename>
     <includes id="vstsinglecomponenteffect_8h" name="vstsinglecomponenteffect.h" local="yes" imported="no">vstsinglecomponenteffect.h</includes>
     <includes id="vsteditcontroller_8cpp" name="vsteditcontroller.cpp" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.cpp</includes>
@@ -1860,7 +2013,7 @@
   </compound>
   <compound kind="file">
     <name>vstsinglecomponenteffect.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8h</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.h</includes>
     <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" imported="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
@@ -1886,7 +2039,7 @@
   </compound>
   <compound kind="file">
     <name>vstspeakerarray.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstspeakerarray_8h</filename>
     <class kind="class">Steinberg::Vst::SpeakerArray</class>
     <namespace>Steinberg</namespace>
@@ -1894,7 +2047,7 @@
   </compound>
   <compound kind="file">
     <name>vststructsizecheck.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vststructsizecheck_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -2027,12 +2180,12 @@
   </compound>
   <compound kind="file">
     <name>vsttestsuite.cpp</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vsttestsuite_8cpp</filename>
   </compound>
   <compound kind="file">
     <name>vsttestsuite.h</name>
-    <path>/Users/buildserver/Builddata/re/276566973/b/VST_SDK/VST3_SDK/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vsttestsuite_8h</filename>
   </compound>
   <compound kind="class">
@@ -4380,10 +4533,10 @@
       <arglist>(AttrID aid)</arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>std::map&lt; String, HostAttribute * &gt;</type>
+      <type>std::map&lt; std::string, HostAttribute * &gt;</type>
       <name>list</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostAttributeList.html</anchorfile>
-      <anchor>a8d0302c54beb3e7bd78bd730f55056b5</anchor>
+      <anchor>a4c6bf541989a2cef8b93a303d70d4881</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5366,6 +5519,122 @@
       <anchorfile>classSteinberg_1_1Vst_1_1Parameter.html</anchorfile>
       <anchor>ae19c2c90f8dec6b6c96ff91b584c2b11</anchor>
       <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::SampleAccurate::Parameter</name>
+    <filename>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</filename>
+    <member kind="function">
+      <type></type>
+      <name>Parameter</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>ad3d81d5f760d49289f4d673db08021e5</anchor>
+      <arglist>(ParamID pid=0, ParamValue initValue=0.) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>setValue</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>ad0eba2bfbd76e20006e904fa2a841100</anchor>
+      <arglist>(ParamValue v) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>setParamID</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a1d22cd5b1134a269218a9e4842e4b72e</anchor>
+      <arglist>(ParamID pid) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>ParamID</type>
+      <name>getParamID</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a9eb4ad3ed6e489acc2fc0be3905556e2</anchor>
+      <arglist>() const noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>ParamValue</type>
+      <name>getValue</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a0cdb9040e68320198b261e22fc46869e</anchor>
+      <arglist>() const noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a2574a316f6e1e03e54b1a512cf2b8369</anchor>
+      <arglist>() const noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>beginChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>ab6ca2894c0616043f3b321a712a900cd</anchor>
+      <arglist>(IParamValueQueue *valueQueue) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>ParamValue</type>
+      <name>advance</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a0a1eb92e8f90285d812b91b9031be7bd</anchor>
+      <arglist>(int32 numSamples) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>ParamValue</type>
+      <name>flushChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a5b61aa805edb7e4190f0b5b5dc0164db</anchor>
+      <arglist>() noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>ParamValue</type>
+      <name>endChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a557ea2e975f87cea30f847dd5b204175</anchor>
+      <arglist>() noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>advance</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a3e33267a55d15dcba219a593b942d032</anchor>
+      <arglist>(int32 numSamples, Proc p) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>flushChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a5086389d26c920324b28468933d725c9</anchor>
+      <arglist>(Proc p) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>endChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a20c921a0dc489eb5151d08a85ebc56c4</anchor>
+      <arglist>(Proc p) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>SMTG_ALWAYS_INLINE void</type>
+      <name>advance</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a24114f6f1d82cd432747762041387fab</anchor>
+      <arglist>(int32 numSamples, Proc p) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>SMTG_ALWAYS_INLINE void</type>
+      <name>flushChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>af0b2dabdd56b4ca5c9c54cc0af5e662d</anchor>
+      <arglist>(Proc p) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>SMTG_ALWAYS_INLINE void</type>
+      <name>endChanges</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html</anchorfile>
+      <anchor>a054adb83b4c06aed15836ea7644de1a6</anchor>
+      <arglist>(Proc p) noexcept</arglist>
     </member>
   </compound>
   <compound kind="struct">
@@ -6733,6 +7002,31 @@
     </member>
   </compound>
   <compound kind="class">
+    <name>Steinberg::Vst::ProcessDataSlicer</name>
+    <filename>classSteinberg_1_1Vst_1_1ProcessDataSlicer.html</filename>
+    <member kind="function">
+      <type></type>
+      <name>ProcessDataSlicer</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ProcessDataSlicer.html</anchorfile>
+      <anchor>adb177e088f35d41ccff42c6c93aa673b</anchor>
+      <arglist>(int32 inSliceSize=8)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>process</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ProcessDataSlicer.html</anchorfile>
+      <anchor>a8a5d3a26394df1031ca6a30c243e9565</anchor>
+      <arglist>(ProcessData &amp;data, DoProcessCallback doProcessing) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>stop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ProcessDataSlicer.html</anchorfile>
+      <anchor>aba28ee97ffe6d508e26f534ec7e62f8f</anchor>
+      <arglist>() noexcept</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
     <name>Steinberg::Vst::MPE::Processor</name>
     <filename>classSteinberg_1_1Vst_1_1MPE_1_1Processor.html</filename>
     <member kind="function">
@@ -7260,6 +7554,61 @@
       <anchorfile>classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html</anchorfile>
       <anchor>a6665df5057fa2792c8e67084e9246cf9</anchor>
       <arglist>(ItemT &amp;item) noexcept</arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::RTTransferT</name>
+    <filename>structSteinberg_1_1Vst_1_1RTTransferT.html</filename>
+    <templarg></templarg>
+    <templarg></templarg>
+    <member kind="typedef">
+      <type>ObjectT</type>
+      <name>ObjectType</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>a1dfc475287dfd0b26de999c61199e59e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::unique_ptr&lt; ObjectType, Deleter &gt;</type>
+      <name>ObjectTypePtr</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>afc4787f6b7191711f643f6daa03523f3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>RTTransferT</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>a50d467308c1f15d62145db15d896d533</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>~RTTransferT</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>a410f3f6c3d8402d06a114534aa6483e4</anchor>
+      <arglist>() noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>accessTransferObject_rt</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>a299c8f7e3c53ec225ec99bd59539a979</anchor>
+      <arglist>(Proc proc) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>transferObject_ui</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>adcdecbf84270d253c61340295a4fe278</anchor>
+      <arglist>(ObjectTypePtr &amp;&amp;newObjectPtr)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>clear_ui</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1RTTransferT.html</anchorfile>
+      <anchor>aef1e25080421d8398ab840721483c1c9</anchor>
+      <arglist>()</arglist>
     </member>
   </compound>
   <compound kind="struct">
@@ -8829,6 +9178,13 @@
     <namespace>Steinberg::Vst</namespace>
     <class kind="class">Steinberg::CPluginView</class>
     <class kind="class">Steinberg::MemoryStream</class>
+    <member kind="function">
+      <type></type>
+      <name>DEF_CLASS_IID</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>ac5fa6c7c0083a2a67b209b23b1b12fd2</anchor>
+      <arglist>(ITest) DEF_CLASS_IID(ITestSuite) DEF_CLASS_IID(ITestFactory) namespace Vst</arglist>
+    </member>
   </compound>
   <compound kind="namespace">
     <name>Steinberg::OneReaderOneWriter</name>
@@ -8842,6 +9198,8 @@
     <namespace>Steinberg::Vst::Helpers</namespace>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
     <namespace>Steinberg::Vst::MPE</namespace>
+    <namespace>Steinberg::Vst::SampleAccurate</namespace>
+    <namespace>Steinberg::Vst::Test</namespace>
     <class kind="class">Steinberg::Vst::AudioBuffer</class>
     <class kind="class">Steinberg::Vst::AudioBus</class>
     <class kind="class">Steinberg::Vst::AudioEffect</class>
@@ -8876,11 +9234,13 @@
     <class kind="class">Steinberg::Vst::PlugProvider</class>
     <class kind="class">Steinberg::Vst::PresetFile</class>
     <class kind="class">Steinberg::Vst::ProcessContextRequirements</class>
+    <class kind="class">Steinberg::Vst::ProcessDataSlicer</class>
     <class kind="class">Steinberg::Vst::ProgramList</class>
     <class kind="class">Steinberg::Vst::ProgramListWithPitchNames</class>
     <class kind="class">Steinberg::Vst::RangeNoteExpressionType</class>
     <class kind="class">Steinberg::Vst::RangeParameter</class>
     <class kind="class">Steinberg::Vst::ReadOnlyBStream</class>
+    <class kind="struct">Steinberg::Vst::RTTransferT</class>
     <class kind="class">Steinberg::Vst::SingleComponentEffect</class>
     <class kind="class">Steinberg::Vst::SpeakerArray</class>
     <class kind="class">Steinberg::Vst::StringListParameter</class>
@@ -8904,6 +9264,20 @@
       <name>ProcessSampleSize</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>aaee256cc21f2275ca1d2faf08027a337</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::function&lt; bool(ITestResult *)&gt;</type>
+      <name>TestFunc</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a6de37bbde36975cef7843c563815e004</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::function&lt; bool(FUnknown *, ITestResult *)&gt;</type>
+      <name>TestFuncWithContext</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7f3c745946efb648d6bfbfee4c848f71</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -9220,6 +9594,69 @@
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>acd3e604cb624147a3e4d6c266c88b74b</anchor>
       <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>Sample32 **</type>
+      <name>getChannelBuffers</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a213051683ba774f75e971d0bc6d238f1</anchor>
+      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
+    </member>
+    <member kind="function">
+      <type>Sample64 **</type>
+      <name>getChannelBuffers</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a8741c1b918e1c22441a9044507aa15f9</anchor>
+      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
+    </member>
+    <member kind="function">
+      <type>FUnknown *</type>
+      <name>createTestFactoryInstance</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a10dd54abaec9fa1e9cc884e65fde1fd7</anchor>
+      <arglist>(void *)</arglist>
+    </member>
+    <member kind="function">
+      <type>const FUID &amp;</type>
+      <name>getTestFactoryUID</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a2efb6d856dcdba379f7ae15a3bf51285</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>ab6e655509c579433631bb4db9bc49e9f</anchor>
+      <arglist>(FIDString name, const char *desc, const TestFunc &amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>afd363300a76b48236b3cc7fb437a8822</anchor>
+      <arglist>(FIDString name, const char *desc, TestFunc &amp;&amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a996e09bb27dc5ee45c0c0dcfa398bf15</anchor>
+      <arglist>(FIDString name, const char *desc, const TestFuncWithContext &amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>aa5257bc85533b36017356d89822878a6</anchor>
+      <arglist>(FIDString name, const char *desc, TestFuncWithContext &amp;&amp;func)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>registerTest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>af0621743f305f87dd320b9bdacff874a</anchor>
+      <arglist>(FIDString name, ITest *test)</arglist>
     </member>
     <member kind="variable">
       <type></type>
@@ -9558,6 +9995,36 @@
     </member>
   </compound>
   <compound kind="namespace">
+    <name>Steinberg::Vst::SampleAccurate</name>
+    <filename>namespaceSteinberg_1_1Vst_1_1SampleAccurate.html</filename>
+    <class kind="struct">Steinberg::Vst::SampleAccurate::Parameter</class>
+  </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Vst::Test</name>
+    <filename>namespaceSteinberg_1_1Vst_1_1Test.html</filename>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>equal</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a9c9857bf54181af4d02c7be0eaedffeb</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>notEqual</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a7a61e58c85b01750f4fb662ffbe586e7</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr bool</type>
+      <name>maxDiff</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
+      <anchor>a258cadbe3c6a686a777c68ffe6745a92</anchor>
+      <arglist>(const T &amp;lhs, const T &amp;rhs, const T &amp;maxDiff) noexcept</arglist>
+    </member>
+  </compound>
+  <compound kind="namespace">
     <name>VST3</name>
     <filename>namespaceVST3.html</filename>
     <namespace>VST3::Hosting</namespace>
@@ -9750,6 +10217,11 @@
     <class kind="class">Steinberg::Vst::ParameterChangeTransfer</class>
     <class kind="class">Steinberg::Vst::PlugInterfaceSupport</class>
     <class kind="class">Steinberg::Vst::HostProcessData</class>
+  </compound>
+  <compound kind="page">
+    <name>How</name>
+    <title>to use the validator to run your own tests?</title>
+    <filename>How</filename>
   </compound>
   <compound kind="page">
     <name>index</name>

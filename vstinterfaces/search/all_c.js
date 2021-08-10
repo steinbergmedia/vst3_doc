@@ -8,6 +8,7 @@ var searchData=
   ['masterchannel',['masterChannel',['../../vstsdk/structSteinberg_1_1Vst_1_1MPE_1_1Setup.html#a649ebe6f770b9c8470108dcecce28a85',1,'Steinberg::Vst::MPE::Setup']]],
   ['max',['Max',['../../base/namespaceSteinberg.html#a0f480f7384f085c2606eff5f310ad194',1,'Steinberg']]],
   ['maxblocksize',['maxBlockSize',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a7e2b5ed168b97046059a1ada78a28d6f',1,'Steinberg::Vst::TestDefaults']]],
+  ['maxdiff',['maxDiff',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Test.html#a258cadbe3c6a686a777c68ffe6745a92',1,'Steinberg::Vst::Test']]],
   ['maximum',['maximum',['../structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf',1,'Steinberg::Vst::NoteExpressionValueDescription']]],
   ['maxplain',['maxPlain',['../../vstsdk/classSteinberg_1_1Vst_1_1RangeParameter.html#aa8344438020842aadfa3cb0480c6fd0b',1,'Steinberg::Vst::RangeParameter']]],
   ['maxsamplesperblock',['maxSamplesPerBlock',['../structSteinberg_1_1Vst_1_1ProcessSetup.html#a41cd06a0c942a1b3f283092b893d0de3',1,'Steinberg::Vst::ProcessSetup']]],

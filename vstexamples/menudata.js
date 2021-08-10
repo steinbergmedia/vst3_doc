@@ -23,10 +23,12 @@ for the JavaScript code in this file
 */
 var menudata={children:[
 {text:"Main Page",url:"index.html"},
+{text:"Related Pages",url:"pages.html"},
 {text:"Namespaces",url:"namespaces.html",children:[
 {text:"Namespace List",url:"namespaces.html"},
 {text:"Namespace Members",url:"namespacemembers.html",children:[
 {text:"All",url:"namespacemembers.html",children:[
+{text:"b",url:"namespacemembers.html#index_b"},
 {text:"d",url:"namespacemembers.html#index_d"},
 {text:"g",url:"namespacemembers.html#index_g"},
 {text:"k",url:"namespacemembers.html#index_k"},
@@ -123,6 +125,7 @@ var menudata={children:[
 {text:"y",url:"functions_vars_y.html#index_y"},
 {text:"z",url:"functions_vars_z.html#index_z"}]},
 {text:"Typedefs",url:"functions_type.html",children:[
+{text:"b",url:"functions_type.html#index_b"},
 {text:"c",url:"functions_type.html#index_c"},
 {text:"e",url:"functions_type.html#index_e"},
 {text:"i",url:"functions_type.html#index_i"},
@@ -136,10 +139,8 @@ var menudata={children:[
 {text:"v",url:"functions_type.html#index_v"}]},
 {text:"Enumerations",url:"functions_enum.html"},
 {text:"Enumerator",url:"functions_eval.html",children:[
-{text:"e",url:"functions_eval.html#index_e"},
 {text:"k",url:"functions_eval.html#index_k"},
 {text:"n",url:"functions_eval.html#index_n"},
-{text:"s",url:"functions_eval.html#index_s"},
 {text:"w",url:"functions_eval.html#index_w"}]}]}]},
 {text:"Files",url:"files.html",children:[
 {text:"File List",url:"files.html"},

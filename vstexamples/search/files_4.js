@@ -13,6 +13,5 @@ var searchData=
   ['eventlogger_2ecpp',['eventlogger.cpp',['../eventlogger_8cpp.html',1,'']]],
   ['eventlogger_2eh',['eventlogger.h',['../eventlogger_8h.html',1,'']]],
   ['exampletest_2ecpp',['exampletest.cpp',['../exampletest_8cpp.html',1,'']]],
-  ['exampletest_2eh',['exampletest.h',['../exampletest_8h.html',1,'']]],
   ['usediids_2ecpp',['usediids.cpp',['../editorhost_2source_2usediids_8cpp.html',1,'']]]
 ];

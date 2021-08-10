@@ -6,6 +6,7 @@ var searchData=
   ['declare_5fvsttest',['DECLARE_VSTTEST',['../testbase_8h.html#a23f4ad9728f7038aeac2897684bcc326',1,'testbase.h']]],
   ['decodescalefactor',['decodeScaleFactor',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#af83d1c09a84057dd3974be7ef641e89f',1,'VST3::Hosting::Module::Snapshot']]],
   ['decodeuid',['decodeUID',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#a4844a6fefcbb5a468506e95447cb3500',1,'VST3::Hosting::Module::Snapshot']]],
+  ['def_5fclass_5fiid',['DEF_CLASS_IID',['../namespaceSteinberg.html#ac5fa6c7c0083a2a67b209b23b1b12fd2',1,'Steinberg']]],
   ['defaultblocksize',['defaultBlockSize',['../structSteinberg_1_1Vst_1_1TestDefaults.html#ac693a4e6b25b62786218abcd35aaf0b6',1,'Steinberg::Vst::TestDefaults']]],
   ['defaultcomformat',['defaultComFormat',['../structVST3_1_1UID.html#ab159e85a88c3e4e39058834c7e52a2c1',1,'VST3::UID']]],
   ['defaultnormalizedvalue',['defaultNormalizedValue',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#a768a5f1990023d227c5162eab6a99376',1,'Steinberg::Vst::ParameterInfo']]],

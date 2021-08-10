@@ -14,8 +14,6 @@ var hierarchy =
     [ "EventLogger", "classEventLogger.html", null ],
     [ "Filter", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Filter.html", null ],
     [ "FObject", null, [
-      [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", null ],
-      [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", null ],
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ],
       [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html", null ],
       [ "TestSuite::Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", null ],
@@ -33,41 +31,43 @@ var hierarchy =
               ] ],
               [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html", null ],
               [ "Plug", "classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html", null ],
-              [ "BaseProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BaseProcessor.html", [
-                [ "AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html", null ],
-                [ "BandistoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html", null ],
-                [ "BeatBoxProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html", null ],
-                [ "ComboProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html", null ],
-                [ "DeEsserProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html", null ],
-                [ "DegradeProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html", null ],
-                [ "DelayProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html", null ],
-                [ "DetuneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html", null ],
-                [ "DitherProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html", null ],
-                [ "DubDelayProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html", null ],
-                [ "DX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html", null ],
-                [ "DynamicsProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html", null ],
-                [ "EPianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html", null ],
-                [ "ImageProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html", null ],
-                [ "JX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html", null ],
-                [ "LeslieProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html", null ],
-                [ "LimiterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html", null ],
-                [ "LoudnessProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html", null ],
-                [ "MultiBandProcessor", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html", null ],
-                [ "OverdriveProcessor", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html", null ],
-                [ "PianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html", null ],
-                [ "RePsychoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html", null ],
-                [ "RezFilterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html", null ],
-                [ "RingModProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html", null ],
-                [ "RoundPanProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html", null ],
-                [ "ShepardProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html", null ],
-                [ "SpecMeterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html", null ],
-                [ "SplitterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html", null ],
-                [ "StereoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html", null ],
-                [ "SubSynthProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html", null ],
-                [ "TalkBoxProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html", null ],
-                [ "TestToneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html", null ],
-                [ "ThruZeroProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html", null ],
-                [ "TrackerProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html", null ]
+              [ "Processor", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html", [
+                [ "SampleAccurateBaseProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SampleAccurateBaseProcessor.html", [
+                  [ "AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html", null ],
+                  [ "BandistoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BandistoProcessor.html", null ],
+                  [ "BeatBoxProcessor", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html", null ],
+                  [ "ComboProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html", null ],
+                  [ "DeEsserProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html", null ],
+                  [ "DegradeProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html", null ],
+                  [ "DelayProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html", null ],
+                  [ "DetuneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html", null ],
+                  [ "DitherProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html", null ],
+                  [ "DubDelayProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html", null ],
+                  [ "DX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html", null ],
+                  [ "DynamicsProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html", null ],
+                  [ "EPianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html", null ],
+                  [ "ImageProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html", null ],
+                  [ "JX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html", null ],
+                  [ "LeslieProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html", null ],
+                  [ "LimiterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html", null ],
+                  [ "LoudnessProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html", null ],
+                  [ "MultiBandProcessor", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html", null ],
+                  [ "OverdriveProcessor", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html", null ],
+                  [ "PianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html", null ],
+                  [ "RePsychoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html", null ],
+                  [ "RezFilterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html", null ],
+                  [ "RingModProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html", null ],
+                  [ "RoundPanProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html", null ],
+                  [ "ShepardProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html", null ],
+                  [ "SpecMeterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html", null ],
+                  [ "SplitterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html", null ],
+                  [ "StereoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html", null ],
+                  [ "SubSynthProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html", null ],
+                  [ "TalkBoxProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html", null ],
+                  [ "TestToneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html", null ],
+                  [ "ThruZeroProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html", null ],
+                  [ "TrackerProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html", null ]
+                ] ]
               ] ],
               [ "Processor", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Processor.html", [
                 [ "ProcessorWithUIController", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ProcessorWithUIController.html", null ]
@@ -140,12 +140,6 @@ var hierarchy =
         [ "IEditController", "../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController.html", [
           [ "EditController", "../vstsdk/classSteinberg_1_1Vst_1_1EditController.html", null ]
         ] ]
-      ] ],
-      [ "ITest", "../vstinterfaces/classSteinberg_1_1ITest.html", [
-        [ "ADelayTest", "classSteinberg_1_1Vst_1_1ADelayTest.html", null ]
-      ] ],
-      [ "ITestFactory", "../vstinterfaces/classSteinberg_1_1ITestFactory.html", [
-        [ "ADelayTestFactory", "classSteinberg_1_1Vst_1_1ADelayTestFactory.html", null ]
       ] ],
       [ "ITestResult", "../vstinterfaces/classSteinberg_1_1ITestResult.html", [
         [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ]
@@ -235,8 +229,8 @@ var hierarchy =
       [ "AGainUIMessageController< ControllerType >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ],
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ]
     ] ],
-    [ "EPianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
     [ "PianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
+    [ "EPianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
     [ "LogEvent", "structLogEvent.html", null ],
     [ "LogScale< T >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
     [ "LogScale< ParamValue >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
@@ -254,6 +248,8 @@ var hierarchy =
     [ "ProcessSetupCheck", "classProcessSetupCheck.html", null ],
     [ "HostCheckerController::ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", null ],
     [ "SyncEntry", "structSteinberg_1_1Vst_1_1SyncEntry.html", null ],
+    [ "SynthData< VoiceT, kEventBufferSize, kNumVoices >", "structSteinberg_1_1Vst_1_1mda_1_1SynthData.html", null ],
+    [ "SynthData< VOICE, kEventBufferSize, kNumVoices >", "structSteinberg_1_1Vst_1_1mda_1_1SynthData.html", null ],
     [ "UIViewController", null, [
       [ "VSTInterAppAudioHostUIControllerViewController", "interfaceVSTInterAppAudioHostUIControllerViewController.html", null ]
     ] ],
@@ -262,8 +258,8 @@ var hierarchy =
     ] ],
     [ "DX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
     [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
-    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
+    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "VoiceBase< numValues, SamplePrecision, numChannels, GlobalParameterStorage >", "classSteinberg_1_1Vst_1_1VoiceBase.html", null ],
     [ "VoiceBase< kNumParameters, SamplePrecision, 2, GlobalParameterState >", "classSteinberg_1_1Vst_1_1VoiceBase.html", [
       [ "Voice< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", null ]

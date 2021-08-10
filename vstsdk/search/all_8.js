@@ -2,6 +2,7 @@ var searchData=
 [
   ['handler',['Handler',['../structSteinberg_1_1Vst_1_1MPE_1_1Handler.html',1,'Steinberg::Vst::MPE']]],
   ['hasbottomspeakers',['hasBottomSpeakers',['../../vstinterfaces/group__speakerArrangements.html#ga20ceaf9e134bcb9d31d268f2bca6f990',1,'Steinberg::Vst::SpeakerArr::hasBottomSpeakers()'],['../../vstinterfaces/group__speakerArrangements.html#ga20ceaf9e134bcb9d31d268f2bca6f990',1,'hasBottomSpeakers()(Global Namespace)']]],
+  ['haschanges',['hasChanges',['../structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a2574a316f6e1e03e54b1a512cf2b8369',1,'Steinberg::Vst::SampleAccurate::Parameter']]],
   ['hasdelay',['hasDelay',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a4417deada38e35a1cb0f55cd30381d9e',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['haslfe',['hasLfe',['../../vstinterfaces/group__speakerArrangements.html#gae80135ca5a48c012ae56eba60aed8ba7',1,'Steinberg::Vst::SpeakerArr::hasLfe()'],['../../vstinterfaces/group__speakerArrangements.html#gae80135ca5a48c012ae56eba60aed8ba7',1,'hasLfe()(Global Namespace)']]],
   ['hasmiddlespeakers',['hasMiddleSpeakers',['../../vstinterfaces/group__speakerArrangements.html#ga8560db7870831957b1862d500a9707b1',1,'Steinberg::Vst::SpeakerArr::hasMiddleSpeakers()'],['../../vstinterfaces/group__speakerArrangements.html#ga8560db7870831957b1862d500a9707b1',1,'hasMiddleSpeakers()(Global Namespace)']]],

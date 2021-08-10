@@ -1,6 +1,7 @@
 var searchData=
 [
   ['abs',['Abs',['../../base/namespaceSteinberg.html#aba3ecff4e181af61d1fb90a1ebdddf4b',1,'Steinberg']]],
+  ['accesstransferobject_5frt',['accessTransferObject_rt',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html#a299c8f7e3c53ec225ec99bd59539a979',1,'Steinberg::Vst::RTTransferT']]],
   ['activatebus',['activateBus',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#af98a434f211539013a174bbe191156e3',1,'Steinberg::Vst::Component::activateBus()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#af98a434f211539013a174bbe191156e3',1,'Steinberg::Vst::SingleComponentEffect::activateBus()'],['../classSteinberg_1_1Vst_1_1IComponent.html#a3ab7d06aaefe03da1fcd1819f1261050',1,'Steinberg::Vst::IComponent::activateBus()']]],
   ['activatemainiobusses',['activateMainIOBusses',['../../vstsdk/classSteinberg_1_1Vst_1_1TestBase.html#a8fda54dda5b1ff98350169bc6612317c',1,'Steinberg::Vst::TestBase']]],
   ['addaudioinput',['addAudioInput',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html#acf5189a9e37c263015c22a7f81b750c8',1,'Steinberg::Vst::AudioEffect::addAudioInput()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#acf5189a9e37c263015c22a7f81b750c8',1,'Steinberg::Vst::SingleComponentEffect::addAudioInput()']]],
@@ -26,6 +27,7 @@ var searchData=
   ['addtestsuite',['addTestSuite',['../classSteinberg_1_1ITestSuite.html#a3a31a9ffef8734f24e4b06ab5c9f4c50',1,'Steinberg::ITestSuite']]],
   ['addunit',['addUnit',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a8fbc2c8dab1b94795bcaf35473fabdfc',1,'Steinberg::Vst::EditControllerEx1']]],
   ['adopt',['adopt',['../../base/classSteinberg_1_1IPtr.html#a7bb3f6e7f2c0de237814076dfe445742',1,'Steinberg::IPtr']]],
+  ['advance',['advance',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a0a1eb92e8f90285d812b91b9031be7bd',1,'Steinberg::Vst::SampleAccurate::Parameter::advance(int32 numSamples) noexcept'],['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a3e33267a55d15dcba219a593b942d032',1,'Steinberg::Vst::SampleAccurate::Parameter::advance(int32 numSamples, Proc p) noexcept'],['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a24114f6f1d82cd432747762041387fab',1,'Steinberg::Vst::SampleAccurate::Parameter::advance(int32 numSamples, Proc p) noexcept']]],
   ['allocatemessage',['allocateMessage',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#ad73cdb71520acbddc432f05afc78f319',1,'Steinberg::Vst::ComponentBase::allocateMessage()'],['../namespaceSteinberg_1_1Vst.html#a80587fa5437b07a138473ce70d3b7dda',1,'Steinberg::Vst::allocateMessage()']]],
   ['append',['append',['../../base/classSteinberg_1_1UString.html#a014ae12c2b6d6f3042855c5e411c0445',1,'Steinberg::UString']]],
   ['appendstring',['appendString',['../../vstsdk/classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7',1,'Steinberg::Vst::StringListParameter']]],

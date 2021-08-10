@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf":[2,0,0,0,60,2],
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#ab03e603a79dcaa73a796db8b64eb04c8":[2,0,0,0,60,0],
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#ac1efeff62e4ba9aea101c3327e0b5c4d":[2,0,0,0,60,3],
+"structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html":[2,0,0,0,61],
 "structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a10cb194b5adb5b7bd968688cdd58de53":[2,0,0,0,61,1],
 "structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#a8cecee2171d29eb98141c9364baa346e":[2,0,0,0,61,0],
 "structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html#af14764c28881d46fddcda927a2c107ce":[2,0,0,0,61,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "vstpresetkeys_8h.html#ga60c65b0575b241924ccfcc59fa7dccaf":[3,0,27,142],
 "vstpresetkeys_8h.html#ga611a7833ad99ac643e6662ad0c735437":[3,0,27,128],
 "vstpresetkeys_8h.html#ga613bd6f52125a615d0e1bef58463e6cb":[3,0,27,156],
-"vstpresetkeys_8h.html#ga62ea7670ea954e012810004bb26369fb":[3,0,27,270],
-"vstpresetkeys_8h.html#ga642a844eb43638962aec00dda572b724":[3,0,27,55],
-"vstpresetkeys_8h.html#ga644e30da9b10ac15bcd313778d00d261":[3,0,27,267],
-"vstpresetkeys_8h.html#ga646cb827580fbdb5631167f300e2d7c5":[3,0,27,211],
-"vstpresetkeys_8h.html#ga65f99d06e1cdec2a31ced94c3e74e2b8":[3,0,27,94]
+"vstpresetkeys_8h.html#ga62ea7670ea954e012810004bb26369fb":[3,0,27,270]
 };

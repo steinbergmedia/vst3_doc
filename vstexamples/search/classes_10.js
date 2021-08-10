@@ -14,5 +14,7 @@ var searchData=
   ['ringmodprocessor',['RingModProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html',1,'Steinberg::Vst::mda']]],
   ['roundpancontroller',['RoundPanController',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html',1,'Steinberg::Vst::mda']]],
   ['roundpanprocessor',['RoundPanProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html',1,'Steinberg::Vst::mda']]],
-  ['routinginfo',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]]
+  ['routinginfo',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]],
+  ['rttransfert',['RTTransferT',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]],
+  ['rttransfert_3c_20statet_20_3e',['RTTransferT&lt; StateT &gt;',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]]
 ];

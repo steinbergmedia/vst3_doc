@@ -32,6 +32,7 @@ var searchData=
   ['_7epresetfile',['~PresetFile',['../../vstsdk/classSteinberg_1_1Vst_1_1PresetFile.html#aceb1e59d2e7000e35be20567f756081e',1,'Steinberg::Vst::PresetFile']]],
   ['_7eprocessor',['~Processor',['../../vstsdk/classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#a0a3f01e574462fcf42cccae296c018c3',1,'Steinberg::Vst::MPE::Processor']]],
   ['_7ereadonlybstream',['~ReadOnlyBStream',['../../vstsdk/classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#a2ed660cc0d7cd3467e9394a963073a48',1,'Steinberg::Vst::ReadOnlyBStream']]],
+  ['_7erttransfert',['~RTTransferT',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html#a410f3f6c3d8402d06a114534aa6483e4',1,'Steinberg::Vst::RTTransferT']]],
   ['_7esinglecomponenteffect',['~SingleComponentEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a5c6f3bcf7a15be18c8e63a52aa6775dd',1,'Steinberg::Vst::SingleComponentEffect']]],
   ['_7estringlistparameter',['~StringListParameter',['../../vstsdk/classSteinberg_1_1Vst_1_1StringListParameter.html#aa4056bdab127f0ae3fd36fef00fe86c1',1,'Steinberg::Vst::StringListParameter']]],
   ['_7etestbase',['~TestBase',['../../vstsdk/classSteinberg_1_1Vst_1_1TestBase.html#ad2150d88fc7754ff1131930bd90728a3',1,'Steinberg::Vst::TestBase']]],

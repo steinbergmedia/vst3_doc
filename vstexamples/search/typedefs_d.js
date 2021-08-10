@@ -1,18 +1,16 @@
 var searchData=
 [
-  ['uchar',['uchar',['../../base/namespaceSteinberg.html#a65f85814a8290f9797005d3b28e7e5fc',1,'Steinberg']]],
-  ['ucolorcomponent',['UColorComponent',['../../base/namespaceSteinberg.html#a3c4f7362f2f494a4120d7c864dd0822d',1,'Steinberg']]],
-  ['ucolorspec',['UColorSpec',['../../base/namespaceSteinberg.html#a87699df6cd24276f34afea51d903c6e4',1,'Steinberg']]],
-  ['ucoord',['UCoord',['../../base/namespaceSteinberg.html#abf33a8b245f4634965116e9c25eb702a',1,'Steinberg']]],
-  ['uiattributes',['UIAttributes',['../classSteinberg_1_1Vst_1_1PlugController.html#aa23cb9914ed88b85abf50aae448f7391',1,'Steinberg::Vst::PlugController']]],
-  ['uimessagecontroller',['UIMessageController',['../classSteinberg_1_1Vst_1_1AGainController.html#ae6481b2aec7c49ca0673c645a305696a',1,'Steinberg::Vst::AGainController']]],
-  ['uint16',['uint16',['../../base/namespaceSteinberg.html#a05f6b0ae8f6a6e135b0e290c25fe0e4e',1,'Steinberg']]],
-  ['uint32',['uint32',['../../base/namespaceSteinberg.html#a1134b580f8da4de94ca6b1de4d37975e',1,'Steinberg']]],
-  ['uint64',['uint64',['../../base/namespaceSteinberg.html#a29940ae63ec06c9998bba873e25407ad',1,'Steinberg']]],
-  ['uint8',['uint8',['../../base/namespaceSteinberg.html#adde6aaee8457bee49c2a92621fe22b79',1,'Steinberg']]],
-  ['unitid',['UnitID',['../../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed',1,'Steinberg::Vst::UnitID()'],['../../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed',1,'UnitID()(Global Namespace)']]],
-  ['unitvector',['UnitVector',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a687ee1e9d187cd0224fbcc4750addb5c',1,'Steinberg::Vst::EditControllerEx1']]],
-  ['ustring128',['UString128',['../../base/namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5',1,'Steinberg']]],
-  ['ustring256',['UString256',['../../base/namespaceSteinberg.html#a71098a25fa252b10d271a11807153385',1,'Steinberg']]],
-  ['utf8stringptr',['UTF8StringPtr',['../classSteinberg_1_1Vst_1_1AGainController.html#af7e79066204c7e0be05f30d63bcafb24',1,'Steinberg::Vst::AGainController::UTF8StringPtr()'],['../classSteinberg_1_1Vst_1_1HostCheckerController.html#af7e79066204c7e0be05f30d63bcafb24',1,'Steinberg::Vst::HostCheckerController::UTF8StringPtr()'],['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#af7e79066204c7e0be05f30d63bcafb24',1,'Steinberg::Vst::NoteExpressionSynth::ControllerWithUI::UTF8StringPtr()'],['../classSteinberg_1_1Vst_1_1PlugController.html#af7e79066204c7e0be05f30d63bcafb24',1,'Steinberg::Vst::PlugController::UTF8StringPtr()']]]
+  ['tbool',['TBool',['../../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895',1,'Steinberg']]],
+  ['tchar',['TChar',['../../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d',1,'Steinberg::Vst::TChar()'],['../../vstinterfaces/group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d',1,'TChar()(Global Namespace)']]],
+  ['testfunc',['TestFunc',['../../vstsdk/namespaceSteinberg_1_1Vst.html#a6de37bbde36975cef7843c563815e004',1,'Steinberg::Vst']]],
+  ['testfuncwithcontext',['TestFuncWithContext',['../../vstsdk/namespaceSteinberg_1_1Vst.html#a7f3c745946efb648d6bfbfee4c848f71',1,'Steinberg::Vst']]],
+  ['testsuitepair',['TestSuitePair',['../classSteinberg_1_1Vst_1_1TestSuite.html#a7b66f5f92eb311aed02726c38b7bcdb8',1,'Steinberg::Vst::TestSuite']]],
+  ['testsuitevector',['TestSuiteVector',['../classSteinberg_1_1Vst_1_1TestSuite.html#afecb8a3440f3b9772a44e2954219f6ad',1,'Steinberg::Vst::TestSuite']]],
+  ['timerinterval',['TimerInterval',['../../base/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux::TimerInterval()'],['../../vstinterfaces/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux::TimerInterval()']]],
+  ['tptrint',['TPtrInt',['../../base/namespaceSteinberg.html#adbdfa470c35e7bf57d7952f0767bbf57',1,'Steinberg']]],
+  ['tquarternotes',['TQuarterNotes',['../../vstinterfaces/group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'Steinberg::Vst::TQuarterNotes()'],['../../vstinterfaces/group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'TQuarterNotes()(Global Namespace)']]],
+  ['tresult',['tresult',['../../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957',1,'Steinberg']]],
+  ['tsamples',['TSamples',['../../vstinterfaces/group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f',1,'Steinberg::Vst::TSamples()'],['../../vstinterfaces/group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f',1,'TSamples()(Global Namespace)']]],
+  ['tsize',['TSize',['../../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0',1,'Steinberg']]],
+  ['tuid',['TUID',['../../vstsdk/structVST3_1_1UID.html#aa87b025f78fcc7af3b438559a4de73c1',1,'VST3::UID::TUID()'],['../../base/namespaceSteinberg.html#a32680add5f0b1c8a81e5b1c4cfe6a30c',1,'Steinberg::TUID()']]]
 ];

@@ -209,10 +209,11 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html#a9b45b3e13bd9167aab02e17e08916231":[2,0,0,0,24,0,1],
 "classSteinberg_1_1Vst_1_1Validator.html":[2,0,0,0,25],
 "classSteinberg_1_1Vst_1_1Validator.html#a04333b79129a2a6fbeb8927dcdf9c361":[2,0,0,0,25,18],
-"classSteinberg_1_1Vst_1_1Validator.html#a115212bd9693823b40af1f6df57b62fa":[2,0,0,0,25,20],
+"classSteinberg_1_1Vst_1_1Validator.html#a115212bd9693823b40af1f6df57b62fa":[2,0,0,0,25,21],
 "classSteinberg_1_1Vst_1_1Validator.html#a188a914e53ad8c752e60cca75a9c1016":[2,0,0,0,25,3],
+"classSteinberg_1_1Vst_1_1Validator.html#a2c773db003868abb1968b5bd9a9314c6":[2,0,0,0,25,20],
 "classSteinberg_1_1Vst_1_1Validator.html#a2c9dba5d859ca650cf20f048e13ac370":[2,0,0,0,25,7],
-"classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f":[2,0,0,0,25,21],
+"classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f":[2,0,0,0,25,22],
 "classSteinberg_1_1Vst_1_1Validator.html#a5552f3d766a2708d4f59dc2ca9865dc9":[2,0,0,0,25,17],
 "classSteinberg_1_1Vst_1_1Validator.html#a58e8be2db2660128e4e6456a9c981fb5":[2,0,0,0,25,4],
 "classSteinberg_1_1Vst_1_1Validator.html#a58f90336ee18c10ad6f66c9841eb3ac6":[2,0,0,0,25,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1VoiceBase.html#a94b21e20d425d55ec761b9d5acc36a05":[2,0,0,0,26,2],
 "classSteinberg_1_1Vst_1_1VoiceBase.html#abed6e720d5becfd5fff36a96044576ad":[2,0,0,0,26,11],
 "classSteinberg_1_1Vst_1_1VoiceBase.html#ac234616f7c4f0f968aca673ae236cd04":[2,0,0,0,26,0],
-"classSteinberg_1_1Vst_1_1VoiceBase.html#acf1898359f6ea52a441e4af28c83f392":[2,0,0,0,26,14],
-"classSteinberg_1_1Vst_1_1VoiceBase.html#adc05acdd34ba58b0a917d3a4d227fb6b":[2,0,0,0,26,9]
+"classSteinberg_1_1Vst_1_1VoiceBase.html#acf1898359f6ea52a441e4af28c83f392":[2,0,0,0,26,14]
 };

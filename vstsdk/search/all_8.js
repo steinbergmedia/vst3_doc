@@ -14,10 +14,10 @@ var searchData=
   ['hostapp_2eh',['HostApp.h',['../HostApp_8h.html',1,'']]],
   ['hostapp_2emm',['HostApp.mm',['../HostApp_8mm.html',1,'']]],
   ['hostapplication',['HostApplication',['../classSteinberg_1_1Vst_1_1HostApplication.html',1,'HostApplication'],['../classSteinberg_1_1Vst_1_1HostApplication.html#a917b260c602e1aa5332bb349ef0f2c20',1,'Steinberg::Vst::HostApplication::HostApplication()']]],
-  ['hostattributelist',['HostAttributeList',['../classSteinberg_1_1Vst_1_1HostAttributeList.html',1,'HostAttributeList'],['../classSteinberg_1_1Vst_1_1HostAttributeList.html#a660b0d7ed498d6fedfca1edc0b7afc45',1,'Steinberg::Vst::HostAttributeList::HostAttributeList()']]],
+  ['hostattributelist',['HostAttributeList',['../classSteinberg_1_1Vst_1_1HostAttributeList.html',1,'Steinberg::Vst']]],
   ['hostclasses_2ecpp',['hostclasses.cpp',['../hostclasses_8cpp.html',1,'']]],
   ['hostclasses_2eh',['hostclasses.h',['../hostclasses_8h.html',1,'']]],
   ['hostknobmode',['hostKnobMode',['../classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
   ['hostmessage',['HostMessage',['../classSteinberg_1_1Vst_1_1HostMessage.html',1,'HostMessage'],['../classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage::HostMessage()']]],
-  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html',1,'HostProcessData'],['../classSteinberg_1_1Vst_1_1HostProcessData.html#a1219ed60708074921829632e8bda4915',1,'Steinberg::Vst::HostProcessData::HostProcessData()']]]
+  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html',1,'HostProcessData'],['../classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData::HostProcessData()']]]
 ];

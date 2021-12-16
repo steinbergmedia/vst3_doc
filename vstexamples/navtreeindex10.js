@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"legacymidiccout_2source_2plugcontroller_8h.html":[3,0,235],
 "legacymidiccout_2source_2plugentry_8cpp.html":[3,0,240],
 "legacymidiccout_2source_2plugentry_8cpp.html#a580d3236cf2654394fd9dda85651efc0":[3,0,240,0],
 "legacymidiccout_2source_2plugparamids_8h.html":[3,0,246],
@@ -227,7 +228,10 @@ var NAVTREEINDEX10 =
 "logevents_8h.html#afc84f29132b630b33d341d0769a66d46affe18458d30a2a66c98826f47c435a05":[3,0,48,22,118],
 "logscale_8h.html":[3,0,49],
 "main_8cpp.html":[3,0,50],
-"main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[3,0,50,0],
+"main_8cpp.html#a02cfb08432768bde2f63589cd3fb4a6c":[3,0,50,0],
+"main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[3,0,50,2],
+"main_8cpp.html#ab302317af2233cef9ab2bd2a2d89b60f":[3,0,50,3],
+"main_8cpp.html#acfa434568d573f05a44fbc6dd35910ee":[3,0,50,1],
 "main_8m.html":[3,0,51],
 "main_8m.html#a0ddf1224851353fc92bfbff6f499fa97":[3,0,51,0],
 "mda-vst3_2source_2version_8h.html":[3,0,274],
@@ -245,9 +249,5 @@ var NAVTREEINDEX10 =
 "mda-vst3_2source_2version_8h.html#ab3aa50bfa1df9fe473bf9202c2bff0cd":[3,0,274,14],
 "mda-vst3_2source_2version_8h.html#ab61e5bc2342cce876090e4b50ca2f60f":[3,0,274,8],
 "mda-vst3_2source_2version_8h.html#acfc1668731750cb1ee8974b8a7c133ef":[3,0,274,9],
-"mda-vst3_2source_2version_8h.html#ad82cb859636c1a68bbea1968d405ad7b":[3,0,274,3],
-"mda-vst3_2source_2version_8h.html#adb2701b32a110347dbec4c7d92b3cce2":[3,0,274,0],
-"mda-vst3_2source_2version_8h.html#adb58dbe9424bfe0a2e594a5e6399c3e2":[3,0,274,11],
-"mda-vst3_2source_2version_8h.html#adfb14851d45258eee920f43b201279e2":[3,0,274,7],
-"mdaAmbienceController_8cpp.html":[3,0,52]
+"mda-vst3_2source_2version_8h.html#ad82cb859636c1a68bbea1968d405ad7b":[3,0,274,3]
 };

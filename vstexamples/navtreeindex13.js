@@ -1,5 +1,9 @@
 var NAVTREEINDEX13 =
 {
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aeb512f25d6c2de2da169568b97c22958":[2,0,0,0,3,27,1,7],
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#af5c922cc1f7054edc9060d83074d7a8f":[2,0,0,0,3,27,1,5],
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#af83930995710ec3879b82a20eee02b57":[2,0,0,0,3,27,1,1],
+"structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html":[2,0,0,0,3,32,0],
 "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a00f6e6f2de2f23ec7703279c5e7c1ad6":[2,0,0,0,3,32,0,28],
 "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a02f528afb602dca80f3c7683adb7f9da":[2,0,0,0,3,32,0,2],
 "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a0c833cdc4ce8d5e546577309097d51fa":[2,0,0,0,3,32,0,5],

@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['version',['Version',['../structVST3_1_1Version.html',1,'VST3']]],
-  ['viewrect',['ViewRect',['../../base/structSteinberg_1_1ViewRect.html',1,'Steinberg']]],
-  ['vst2xprogram',['Vst2xProgram',['../structVST3_1_1Vst2xProgram.html',1,'VST3']]],
-  ['vst2xstate',['Vst2xState',['../structVST3_1_1Vst2xState.html',1,'VST3']]],
-  ['vstguieditor',['VSTGUIEditor',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html',1,'Steinberg::Vst']]],
-  ['vstinterappaudioappdelegatebase',['VSTInterAppAudioAppDelegateBase',['../interfaceVSTInterAppAudioAppDelegateBase.html',1,'']]]
+  ['uid',['UID',['../structVST3_1_1UID.html',1,'UID'],['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html',1,'UID&lt; t1, t2, t3, t4 &gt;']]],
+  ['unit',['Unit',['../classSteinberg_1_1Vst_1_1Unit.html',1,'Steinberg::Vst']]],
+  ['unitinfo',['UnitInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1UnitInfo.html',1,'Steinberg::Vst']]],
+  ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
+  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
 ];

@@ -56,6 +56,7 @@ var group__vstClasses =
     [ "Component", "classSteinberg_1_1Vst_1_1Component.html", [
       [ "Component", "classSteinberg_1_1Vst_1_1Component.html#a0171e1571f18dc6a27c8b041de55feec", null ],
       [ "setControllerClass", "classSteinberg_1_1Vst_1_1Component.html#a0dc4b3344bc02fac04276d981e23834f", null ],
+      [ "setControllerClass", "classSteinberg_1_1Vst_1_1Component.html#adc148797bff5d106f673786c64bfb3e1", null ],
       [ "removeAudioBusses", "classSteinberg_1_1Vst_1_1Component.html#aae75b97c8b97b30648a3fbe8e3ecf942", null ],
       [ "removeEventBusses", "classSteinberg_1_1Vst_1_1Component.html#a65dae22538ad6a22779884405a4490ed", null ],
       [ "renameBus", "classSteinberg_1_1Vst_1_1Component.html#a3ee246c87482b0ddaa814c6f05f1e0ad", null ],

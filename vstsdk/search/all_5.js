@@ -39,5 +39,11 @@ var searchData=
   ['events',['events',['../classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
   ['eventtypes',['EventTypes',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8',1,'Steinberg::Vst::Event']]],
   ['executemenuitem',['executeMenuItem',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]],
-  ['exitmodulefunc',['ExitModuleFunc',['../module__win32_8cpp.html#aec121fc4a56e70a587fd2cb5f4d9883e',1,'module_win32.cpp']]]
+  ['exitmodulefunc',['ExitModuleFunc',['../module__win32_8cpp.html#aec121fc4a56e70a587fd2cb5f4d9883e',1,'module_win32.cpp']]],
+  ['expect',['EXPECT',['../testing_8h.html#a3cbf25c0fcc1c81e27542243f8826a45',1,'testing.h']]],
+  ['expect_5feq',['EXPECT_EQ',['../testing_8h.html#ae34a24e20fbfe09ba15360a7ac5fb593',1,'testing.h']]],
+  ['expect_5ffalse',['EXPECT_FALSE',['../testing_8h.html#aeb6c7ae89f440c90c1a1815951c836da',1,'testing.h']]],
+  ['expect_5fne',['EXPECT_NE',['../testing_8h.html#ab04fd0b3ef7a0470bfcd5b220deeda8a',1,'testing.h']]],
+  ['expect_5ftrue',['EXPECT_TRUE',['../testing_8h.html#ac33e7cdfb5d44a7a0f0ab552eb5c3c6a',1,'testing.h']]],
+  ['extends',['Extends',['../../base/namespaceSteinberg_1_1FUnknownImpl.html#ad7c3d8fc183de6c65cb7209c4edda8a7',1,'Steinberg::FUnknownImpl']]]
 ];

@@ -10,5 +10,7 @@ var structVST3_1_1Optional =
     [ "operator->", "structVST3_1_1Optional.html#a4672af4c2ef6bbe656c91f1ce413e1da", null ],
     [ "operator *", "structVST3_1_1Optional.html#ab7587c0ecde06bfed78d8c20e516ff48", null ],
     [ "operator->", "structVST3_1_1Optional.html#ad88a9874027d44e9ec4007ef3ba55b25", null ],
+    [ "value", "structVST3_1_1Optional.html#a7d06aa7be1fba3def55cb3cd7decec05", null ],
+    [ "value", "structVST3_1_1Optional.html#ac8ca315e2d3167179848e63908301447", null ],
     [ "swap", "structVST3_1_1Optional.html#a110ae1b77ad3a879e779a0d2deb90e52", null ]
 ];

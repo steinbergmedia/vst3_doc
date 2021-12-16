@@ -1,6 +1,7 @@
 var searchData=
 [
   ['barpositionmusic',['barPositionMusic',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a9081efe983722f59098a542b149bb07f',1,'Steinberg::Vst::ProcessContext']]],
+  ['base',['Base',['../../base/classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFb25833aad28d70bbd485c48835745987.html#a2fcc41284c370068704fcd87160d7099',1,'Steinberg::FUnknownImpl::ImplementsImpl&lt; BaseClass, Directly&lt; I, DirectIFs... &gt;, Indirectly&lt; IndirectIFs... &gt; &gt;']]],
   ['basewrapper_2ecpp',['basewrapper.cpp',['../../vstsdk/basewrapper_8cpp.html',1,'']]],
   ['basewrapper_2eh',['basewrapper.h',['../../vstsdk/basewrapper_8h.html',1,'']]],
   ['basewrapper_2esdk_2ecpp',['basewrapper.sdk.cpp',['../../vstsdk/basewrapper_8sdk_8cpp.html',1,'']]],

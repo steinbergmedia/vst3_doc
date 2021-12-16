@@ -2,34 +2,28 @@ var group__hostingBase =
 [
     [ "HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html", [
       [ "HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#a917b260c602e1aa5332bb349ef0f2c20", null ],
-      [ "~HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#ab70750617d8b8bae95f59312c50ca846", null ],
-      [ "getName", "classSteinberg_1_1Vst_1_1HostApplication.html#a7dee101dcc417cd0bb88a3babbca1895", null ],
-      [ "createInstance", "classSteinberg_1_1Vst_1_1HostApplication.html#a26be08c650d6821878a3581c90166da4", null ],
-      [ "getPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#a0c947e3fa4b664f3172e3938aae4e929", null ],
-      [ "mPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9", null ]
+      [ "~HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#a682147e83d7a2350ed741b45f0e019cf", null ],
+      [ "getName", "classSteinberg_1_1Vst_1_1HostApplication.html#abcfd783e3f96ce0afe0bbd6aa6a5a100", null ],
+      [ "createInstance", "classSteinberg_1_1Vst_1_1HostApplication.html#aabc455f83c75009b923bc44a3ca49a90", null ],
+      [ "getPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#a0c947e3fa4b664f3172e3938aae4e929", null ]
     ] ],
     [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", [
-      [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a660b0d7ed498d6fedfca1edc0b7afc45", null ],
-      [ "~HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html#accfb0a4c9260c12ae3d6f6b0d95a91ce", null ],
-      [ "setInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ad131bc8fdbebd805ba220facc615791b", null ],
-      [ "getInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ae047d8d172885ef2a6ffb1d39d472a6a", null ],
-      [ "setFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a1473510dc82649a88fecbd343287d3a0", null ],
-      [ "getFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a652b6cec9cdb02ed407ce375d00039e1", null ],
-      [ "setString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a5093d462cee3bd5dda8f0490214dd5e8", null ],
-      [ "getString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a10ca4dd400e257709356a9aa64e12eee", null ],
-      [ "setBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a3fd6a1cb946b50e7a38f3860d0f105f4", null ],
-      [ "getBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a1efd22859107e858313b87758a40cc57", null ],
-      [ "removeAttrID", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a4174da1c7c936ef543d4306b1e6f7650", null ],
-      [ "list", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a4c6bf541989a2cef8b93a303d70d4881", null ]
+      [ "~HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aaf902b05ae06e0ba573bf390edc0807c", null ],
+      [ "setInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#af3bfc664b767bb69eb62f3c296bc91aa", null ],
+      [ "getInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aa943e02feb31ca2ebc5dfef56a15e21a", null ],
+      [ "setFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a7c6a0e107b24297dd13296f9d21bf492", null ],
+      [ "getFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a16ad5bae15e27321262938d8be3ab2f6", null ],
+      [ "setString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ac8a3ddc9adea2879056969ed64c9a1c7", null ],
+      [ "getString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ab2c98c04d421edae097e036bbe258fde", null ],
+      [ "setBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ad1d557981b22013abfe8f42e99ce0122", null ],
+      [ "getBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aa2ccb6c5f69d861062845db0c5445914", null ]
     ] ],
     [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", [
       [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75", null ],
-      [ "~HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#af52b00bdc14fc91428418642223cf89c", null ],
-      [ "getMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#af1886fe52eca5bf69aef8f6998432563", null ],
-      [ "setMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#a322c4ca881c4feba3881d142b617cfe3", null ],
-      [ "getAttributes", "classSteinberg_1_1Vst_1_1HostMessage.html#ae58a7daf6493441c46be60488cd270a3", null ],
-      [ "messageId", "classSteinberg_1_1Vst_1_1HostMessage.html#a8abe39cab1a7ce414d4f4458eb57de66", null ],
-      [ "attributeList", "classSteinberg_1_1Vst_1_1HostMessage.html#a712f55c0af5b18d40130eaa26c7f6f66", null ]
+      [ "~HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#afa5e6400ac20881481fc810e945868fe", null ],
+      [ "getMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#acea3be2c0b1776d7e08d4c105b073701", null ],
+      [ "setMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#a856dd59c08aab6d5c775afb7a94a0944", null ],
+      [ "getAttributes", "classSteinberg_1_1Vst_1_1HostMessage.html#aaf7a55b1a5216de03a9640fabf9b604e", null ]
     ] ],
     [ "ParameterValueQueue", "classSteinberg_1_1Vst_1_1ParameterValueQueue.html", [
       [ "ParameterQueueValue", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", [
@@ -56,7 +50,7 @@ var group__hostingBase =
       [ "getParameterCount", "classSteinberg_1_1Vst_1_1ParameterChanges.html#a1a882472b7c228eb1f709c7f15b15999", null ],
       [ "getParameterData", "classSteinberg_1_1Vst_1_1ParameterChanges.html#a46ca129ca2f1fe147c7defc0658d7295", null ],
       [ "addParameterData", "classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a", null ],
-      [ "queues", "classSteinberg_1_1Vst_1_1ParameterChanges.html#ae96c41176d4504f8462d838ceba5499f", null ],
+      [ "queues", "classSteinberg_1_1Vst_1_1ParameterChanges.html#acfb73c5aee1d941dc8bd1ddbe81a257b", null ],
       [ "usedQueueCount", "classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd", null ]
     ] ],
     [ "ParameterChangeTransfer", "classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html", [
@@ -80,24 +74,26 @@ var group__hostingBase =
     ] ],
     [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", [
       [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a6aff0e9fe16fb13679074f0610f6c82c", null ],
+      [ "~PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#af94a822c9390d013ab16bba205db47c2", null ],
       [ "isPlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a1e255dede2eb780708771c99f881293f", null ],
       [ "addPlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a15c7d05751b83f5db57ccb8647be63f3", null ],
       [ "removePlugInterfaceSupported", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a53b31091ef4b0735bd6e336992a4ee6e", null ]
     ] ],
     [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html", [
-      [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html#a1219ed60708074921829632e8bda4915", null ],
-      [ "~HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html#a039a133868846f577b9fcc7323de8827", null ],
+      [ "HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622", null ],
+      [ "~HostProcessData", "classSteinberg_1_1Vst_1_1HostProcessData.html#a99c0b5d3887e3704a467073443527e36", null ],
       [ "prepare", "classSteinberg_1_1Vst_1_1HostProcessData.html#a9dce8ca94a068851ffa015c766c9d04e", null ],
       [ "unprepare", "classSteinberg_1_1Vst_1_1HostProcessData.html#af09fdb1736e7957252ac630096ef6357", null ],
-      [ "setChannelBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#a45f3e8e3723acc6b2c18bde22250aad7", null ],
-      [ "setChannelBuffers64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a8485e268b4e8556733b836daeab2af63", null ],
-      [ "setChannelBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#aab9e91016ccef32ad4e28f9d8b83aa1e", null ],
-      [ "setChannelBuffers64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a27ff2095053de05f43a668b544cdbc6f", null ],
-      [ "setChannelBuffer", "classSteinberg_1_1Vst_1_1HostProcessData.html#aa056811836323f68e951e8a5aecbc19f", null ],
-      [ "setChannelBuffer64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a5cdfa9a946af250b911b07f6c9050ebd", null ],
+      [ "setChannelBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#a16aab37b1acc45282765f494cc126046", null ],
+      [ "setChannelBuffers64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a93c35fdbe9a7946debe1b9c75a45daef", null ],
+      [ "setChannelBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#a284ebce2effeb8f5d1e4cb14a8b3b64e", null ],
+      [ "setChannelBuffers64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a51d3134d36d5b62c560c8448a3fa3041", null ],
+      [ "setChannelBuffer", "classSteinberg_1_1Vst_1_1HostProcessData.html#a18dd03d35dbbe280da4c3fed49605dc1", null ],
+      [ "setChannelBuffer64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a796f58f03d7aaa775291b741b99934ff", null ],
       [ "createBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#a31f69806459b22b6d413bc10e0bd849c", null ],
       [ "destroyBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#ac9368c70233f027934c6414975720e68", null ],
-      [ "checkIfReallocationNeeded", "classSteinberg_1_1Vst_1_1HostProcessData.html#aa1759271b05985d9eb6f04c56a226274", null ],
+      [ "checkIfReallocationNeeded", "classSteinberg_1_1Vst_1_1HostProcessData.html#a4fe620da0769422d9cad2cf872e54914", null ],
+      [ "isValidBus", "classSteinberg_1_1Vst_1_1HostProcessData.html#aac85e944298eabcb099f9a98e6e97a94", null ],
       [ "channelBufferOwner", "classSteinberg_1_1Vst_1_1HostProcessData.html#ad2956018947469c5d5d17d86ee868f2a", null ]
     ] ]
 ];

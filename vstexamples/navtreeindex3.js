@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classSteinberg_1_1Vst_1_1VoiceBase.html#adc05acdd34ba58b0a917d3a4d227fb6b":[2,0,0,0,26,9],
 "classSteinberg_1_1Vst_1_1VoiceBase.html#ae9a7e45b32e54b9b41198aa3f0f033f6":[2,0,0,0,26,19],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html":[2,0,0,0,27],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a057fc4070dc2a34eea400b9a5f7c2573":[2,0,0,0,27,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#ae5e2ca21f45aa84e5abdb5a76b0ba865":[2,0,0,0,3,9,17],
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#ae77df326421144cd20bc7f4536d677b0":[2,0,0,0,3,9,33],
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#aeb92f0c966ac338ea9a3b5ab20cc295a":[2,0,0,0,3,9,10],
-"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#aedf42509154a5225aa8b87f7251abd65":[2,0,0,0,3,9,14],
-"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#af886660e87d29c40f1ca26f5fe065ad3":[2,0,0,0,3,9,16]
+"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#aedf42509154a5225aa8b87f7251abd65":[2,0,0,0,3,9,14]
 };

@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['make',['make',['../classSteinberg_1_1Vst_1_1HostAttributeList.html#ac7b03df5a34851bf0f67c8291138c1ac',1,'Steinberg::Vst::HostAttributeList']]],
   ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
   ['max',['Max',['../../base/namespaceSteinberg.html#a0f480f7384f085c2606eff5f310ad194',1,'Steinberg']]],
   ['maxdiff',['maxDiff',['../namespaceSteinberg_1_1Vst_1_1Test.html#a258cadbe3c6a686a777c68ffe6745a92',1,'Steinberg::Vst::Test']]],

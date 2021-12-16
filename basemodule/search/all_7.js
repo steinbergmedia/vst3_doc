@@ -24,7 +24,6 @@ var searchData=
   ['getticksduration',['getTicksDuration',['../namespaceSteinberg_1_1SystemTime.html#a5eb6e497830d117c9591a9d18faa3816',1,'Steinberg::SystemTime']]],
   ['gettrailingnumber',['getTrailingNumber',['../classSteinberg_1_1ConstString.html#abd3bd0c45c739a00930d9104bc4f039c',1,'Steinberg::ConstString']]],
   ['gettrailingnumberindex',['getTrailingNumberIndex',['../classSteinberg_1_1ConstString.html#ab877fc292201494ab4be2be190fd5cd1',1,'Steinberg::ConstString']]],
-  ['getunknownbase',['getUnknownBase',['../namespaceSteinberg_1_1Update.html#a7cafef962152419f85a702f81054c31d',1,'Steinberg::Update']]],
   ['getupdatehandler',['getUpdateHandler',['../classSteinberg_1_1FObject.html#ae2039f0b388fde926f5adeba0111e3d1',1,'Steinberg::FObject']]],
   ['gfobjectiidinitializer',['gFObjectIidInitializer',['../namespaceSteinberg.html#a716e8faa9615ce0d3a3b357275d14868',1,'Steinberg']]],
   ['grow',['grow',['../classSteinberg_1_1Buffer.html#a61fc1961d3b66e3bdb23cc8da86872d4',1,'Steinberg::Buffer']]],

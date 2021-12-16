@@ -11,8 +11,6 @@ var searchData=
   ['kcp_5fshiftjis',['kCP_ShiftJIS',['../namespaceSteinberg.html#a879b9da0475eafb05527d00a3e87e198a800fe314d21309f85659ee3c8ff41fba',1,'Steinberg']]],
   ['kcp_5fus_5fascii',['kCP_US_ASCII',['../namespaceSteinberg.html#a879b9da0475eafb05527d00a3e87e198a68f73e16ffd280be8ea415937c17901e',1,'Steinberg']]],
   ['kcp_5futf8',['kCP_Utf8',['../namespaceSteinberg.html#a879b9da0475eafb05527d00a3e87e198a42fe778326afe1a478de66fa0ae88053',1,'Steinberg']]],
-  ['khashsize',['kHashSize',['../namespaceSteinberg_1_1Update.html#abef3793f2d7d9c88ea2060471e321bb6',1,'Steinberg::Update']]],
-  ['kmapsize',['kMapSize',['../namespaceSteinberg_1_1Update.html#a83c50e3d7a4159ec9a96a13782cdd412',1,'Steinberg::Update']]],
   ['knotalpha',['kNotAlpha',['../classSteinberg_1_1String.html#af76aa92cca3a7f4f1cc9bfd804a3c873a34415afe7e8fb63d801a1fce28628e8d',1,'Steinberg::String']]],
   ['knotalphanum',['kNotAlphaNum',['../classSteinberg_1_1String.html#af76aa92cca3a7f4f1cc9bfd804a3c873a7e67f6171578b087aaa7b475ccf1b7a5',1,'Steinberg::String']]],
   ['kprintfbuffersize',['kPrintfBufferSize',['../fstring_8cpp.html#aa62de8c8355a305d6e9095fbff0c7c9a',1,'fstring.cpp']]],

@@ -1,10 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html":[2,2,3],
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a044984f36e927dae9c14ca9d8d787a15":[2,2,3,9],
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a1d82c755fa67c189b94dec5c76121824":[2,2,3,3],
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a1e68d8b8453af59faf7bdd8353a45958":[2,2,3,4],
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a5a1a3c9dbce87993a2ef498ffd2102b0":[2,2,3,1],
 "classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a653f32288dd11808fd034bd9d19ec2dc":[2,2,3,10],
 "classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a81dee9d1410d226baec024a983413241":[2,2,3,6],
 "classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a9e15ec7d1010054cd79c17d29e0150cf":[2,2,3,7],
@@ -12,10 +7,11 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1ParameterValueQueue.html#ab716e58809b482e0d30bd4b46a0333db":[2,2,3,5],
 "classSteinberg_1_1Vst_1_1ParameterValueQueue.html#ac8bb3912a3ce86b15842e79d0b421204":[2,2,3,8],
 "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html":[2,2,6],
-"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a15c7d05751b83f5db57ccb8647be63f3":[2,2,6,2],
-"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a1e255dede2eb780708771c99f881293f":[2,2,6,1],
-"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a53b31091ef4b0735bd6e336992a4ee6e":[2,2,6,3],
+"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a15c7d05751b83f5db57ccb8647be63f3":[2,2,6,3],
+"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a1e255dede2eb780708771c99f881293f":[2,2,6,2],
+"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a53b31091ef4b0735bd6e336992a4ee6e":[2,2,6,4],
 "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#a6aff0e9fe16fb13679074f0610f6c82c":[2,2,6,0],
+"classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html#af94a822c9390d013ab16bba205db47c2":[2,2,6,1],
 "classSteinberg_1_1Vst_1_1PlugProvider.html":[4,0,0,1,34],
 "classSteinberg_1_1Vst_1_1PlugProvider.html#a020894745e82fb107fc4a869a8832d86":[4,0,0,1,34,2],
 "classSteinberg_1_1Vst_1_1PlugProvider.html#a0c4daae75c9c796e333143d736bc766c":[4,0,0,1,34,19],
@@ -249,5 +245,9 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1StringResult.html":[4,0,0,1,47],
 "classSteinberg_1_1Vst_1_1StringResult.html#a097d668b0c027d7ab98178ea7dda6e21":[4,0,0,1,47,0],
 "classSteinberg_1_1Vst_1_1StringResult.html#a5846f06504dc4625283cd31b524a5f1c":[4,0,0,1,47,2],
-"classSteinberg_1_1Vst_1_1StringResult.html#a664997bd1f020b18ef7dbd1193b5bef5":[4,0,0,1,47,4]
+"classSteinberg_1_1Vst_1_1StringResult.html#a664997bd1f020b18ef7dbd1193b5bef5":[4,0,0,1,47,4],
+"classSteinberg_1_1Vst_1_1StringResult.html#a9196305174afe4846ca762869408f4c2":[4,0,0,1,47,1],
+"classSteinberg_1_1Vst_1_1StringResult.html#aceeefd83ecd3c2384778ac88c22cf96b":[4,0,0,1,47,3],
+"classSteinberg_1_1Vst_1_1TestBase.html":[4,0,0,1,48],
+"classSteinberg_1_1Vst_1_1TestBase.html#a0e0fe11841b030f07950700afd64d822":[4,0,0,1,48,9]
 };

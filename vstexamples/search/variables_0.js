@@ -8,7 +8,8 @@ var searchData=
   ['active',['active',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html#a00e4af5d3f6ae0bf52dad6131df17447',1,'Steinberg::Vst::Bus']]],
   ['activevoices',['activevoices',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a87eb341278a24a4f1320d45de8a3a5b1',1,'Steinberg::Vst::mda::SynthData::activevoices()'],['../classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165',1,'Steinberg::Vst::VoiceProcessor::activeVoices()']]],
   ['addbypassparameter',['addBypassParameter',['../classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a14e43faff229f25734bc51b0eae0f84e',1,'Steinberg::Vst::mda::BaseController']]],
-  ['aftertouch',['Aftertouch',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#ac01a4b6f71eb3cf623897223cea2102da68292a2609ab656038be0ec343841ed2',1,'Steinberg::Vst::MPE']]],
+  ['adderrorwarningtexttooutput',['addErrorWarningTextToOutput',['../classSteinberg_1_1Vst_1_1Validator.html#a2c773db003868abb1968b5bd9a9314c6',1,'Steinberg::Vst::Validator']]],
+  ['aftertouch',['Aftertouch',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#a4d7f55bab4770c518fc51d11680376cea68292a2609ab656038be0ec343841ed2',1,'Steinberg::Vst::MPE']]],
   ['allocationerror',['allocationError',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a1bfaf9acdd950aac257085ff792dfedb',1,'Steinberg::MemoryStream']]],
   ['argc',['argc',['../classSteinberg_1_1Vst_1_1Validator.html#ad1447518f4372828b8435ae82e48499e',1,'Steinberg::Vst::Validator']]],
   ['argv',['argv',['../classSteinberg_1_1Vst_1_1Validator.html#af2efa898e9eed6fe6715279cb1ec35b0',1,'Steinberg::Vst::Validator']]],
@@ -19,7 +20,6 @@ var searchData=
   ['att1',['att1',['../classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a5211e739456307c0b531771a48c6e1a4',1,'Steinberg::Vst::mda::MultiBandProcessor']]],
   ['att2',['att2',['../classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a6ccfd31b979de24531bc8870512fa88b',1,'Steinberg::Vst::mda::MultiBandProcessor']]],
   ['att3',['att3',['../classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8cb865e4b76909b24401f9f68be53839',1,'Steinberg::Vst::mda::MultiBandProcessor']]],
-  ['attributelist',['attributeList',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#a712f55c0af5b18d40130eaa26c7f6f66',1,'Steinberg::Vst::HostMessage']]],
   ['audioeffect',['audioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html#a13adc72f47daf6dc87f28e58b52c72d0',1,'Steinberg::Vst::TestEnh']]],
   ['audioinputs',['audioInputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a3bb91eeb91df8bc7446713244ae11bac',1,'Steinberg::Vst::Component::audioInputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a4918c0fce4a78d193457bcca2a6d4cca',1,'Steinberg::Vst::SingleComponentEffect::audioInputs()']]],
   ['audiooutputs',['audioOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a65adc2e475dee42d4427686a20381160',1,'Steinberg::Vst::Component::audioOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a65adc2e475dee42d4427686a20381160',1,'Steinberg::Vst::SingleComponentEffect::audioOutputs()']]]

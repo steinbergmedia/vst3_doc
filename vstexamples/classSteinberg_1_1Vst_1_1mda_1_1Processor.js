@@ -6,7 +6,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1Processor =
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a8b45c1a26471f6a61f303ae52130c1dd", null ],
     [ "preProcess", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#abdda8f837db9a5497bd8ada821580d4e", null ],
     [ "bypassProcessing", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#ac0404a15bbbe4fbeb43a28ac3e653d2c", null ],
-    [ "processEvent", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a383731f004c342a71b30d47e7da22e30", null ],
+    [ "processEvent", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a2fe02531cd4f9f1c0c3adc99c8ccbbdb", null ],
     [ "checkSilence", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a594d5424d912aa5457560f7520367f96", null ],
     [ "setBypass", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a8dddd66e4cbe80f46ecb9f1bb9011190", null ],
     [ "processParameterChanges", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a0ffd894a28d7e846f89200ec9ec5c5f8", null ],

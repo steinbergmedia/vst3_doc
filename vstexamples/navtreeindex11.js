@@ -1,5 +1,9 @@
 var NAVTREEINDEX11 =
 {
+"mda-vst3_2source_2version_8h.html#adb2701b32a110347dbec4c7d92b3cce2":[3,0,274,0],
+"mda-vst3_2source_2version_8h.html#adb58dbe9424bfe0a2e594a5e6399c3e2":[3,0,274,11],
+"mda-vst3_2source_2version_8h.html#adfb14851d45258eee920f43b201279e2":[3,0,274,7],
+"mdaAmbienceController_8cpp.html":[3,0,52],
 "mdaAmbienceController_8h.html":[3,0,53],
 "mdaAmbienceProcessor_8cpp.html":[3,0,54],
 "mdaAmbienceProcessor_8h.html":[3,0,55],
@@ -183,8 +187,8 @@ var NAVTREEINDEX11 =
 "namespaceSteinberg_1_1Panner.html":[1,0,0,1],
 "namespaceSteinberg_1_1Vst.html":[2,0,0,0],
 "namespaceSteinberg_1_1Vst.html":[1,0,0,2],
-"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,2,0],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[2,0,0,0,0],
+"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,2,0],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,0,1],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,2,1],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[1,0,0,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX11 =
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a28e3fcf7199688b7cb545bc12d809b83":[3,0,198,10],
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a305960e8a0a7efe8a230c54b0fae7241":[3,0,198,15],
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a36f04f1c4ad888ed7950c98cadc0f5d2":[3,0,198,9],
-"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a412ff72345b594894000c8f47b7f1921":[3,0,198,7],
-"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a5e08b56cf242bca747e71a1db6d3e44d":[3,0,198,22],
-"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a64027d24fafda77fee5484965c2a1f54":[3,0,198,16],
-"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a6f57b4500838eed6d28cb3d0a18c2eac":[3,0,198,14],
-"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a763d2b0b998e0befac498a6f85fb4586":[3,0,198,21]
+"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a412ff72345b594894000c8f47b7f1921":[3,0,198,7]
 };

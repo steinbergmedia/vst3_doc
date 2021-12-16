@@ -1,5 +1,6 @@
 var namespaceSteinberg =
 [
+    [ "FUnknownImpl", "namespaceSteinberg_1_1FUnknownImpl.html", "namespaceSteinberg_1_1FUnknownImpl" ],
     [ "Linux", "namespaceSteinberg_1_1Linux.html", "namespaceSteinberg_1_1Linux" ],
     [ "ConstStringTable", "classSteinberg_1_1ConstStringTable.html", "classSteinberg_1_1ConstStringTable" ],
     [ "FReleaser", "structSteinberg_1_1FReleaser.html", "structSteinberg_1_1FReleaser" ],

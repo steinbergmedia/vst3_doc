@@ -8,7 +8,7 @@ var searchData=
   ['unload',['unload',['../classSteinberg_1_1FDynLibrary.html#a506a572d1bf8ada0f9a767c00e580f53',1,'Steinberg::FDynLibrary']]],
   ['unlockregister',['unlockRegister',['../namespaceSteinberg_1_1Singleton.html#a2aad80bf0469cb9153a7666f2b2b4817',1,'Steinberg::Singleton']]],
   ['update',['update',['../classSteinberg_1_1FObject.html#aeeeb082a829ee7b136a730a2a4029103',1,'Steinberg::FObject']]],
-  ['updatedone',['updateDone',['../classSteinberg_1_1FObject.html#a0be193466912191a8ebbd75354edd935',1,'Steinberg::FObject::updateDone()'],['../namespaceSteinberg_1_1Update.html#a03d2e8f5e97048b6bb17dc6745ae314c',1,'Steinberg::Update::updateDone()']]],
+  ['updatedone',['updateDone',['../classSteinberg_1_1FObject.html#a0be193466912191a8ebbd75354edd935',1,'Steinberg::FObject']]],
   ['updatehandler',['UpdateHandler',['../classSteinberg_1_1UpdateHandler.html#a5cb070dc5b6e125ca7dd0f609a266f0b',1,'Steinberg::UpdateHandler']]],
   ['updatelength',['updateLength',['../classSteinberg_1_1String.html#aeaaaf7e3d412ec741fc91722eaaceb13',1,'Steinberg::String']]]
 ];

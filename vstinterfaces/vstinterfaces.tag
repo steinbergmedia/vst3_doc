@@ -2,17 +2,17 @@
 <tagfile>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
   </compound>
   <compound kind="file">
     <name>itest.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/test/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>itest_8h</filename>
     <class kind="class">Steinberg::ITest</class>
     <class kind="class">Steinberg::ITestResult</class>
@@ -29,7 +29,7 @@
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -39,7 +39,7 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">ivstcomponent.h</includes>
     <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" imported="no">vstspeaker.h</includes>
@@ -123,275 +123,275 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <anchor>ga0017ff4ab459880956723e09c847188a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDelay</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
+      <anchor>ga377e6c632bbed63329ad118e1d1f6780</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDistortion</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <anchor>gad8da16bef223355cc58d3b469f876b33</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDynamics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
+      <anchor>ga9584914ab8362461d1bb4bac52ab9fd9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxEQ</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <anchor>ga9dbf945372efb065d5f47af0aed0c498</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxFilter</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <anchor>gaf145d8e7f4ba5cf0b6f8d1373647451f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
+      <anchor>ga81395ffc74210c6b129ac5c1ad0f0450</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
+      <anchor>gad632f4944a960678d6ff9b3886c878db</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <anchor>ga0280f4b9390e12bf4b4846515572694a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <anchor>gab77fa9595f5503b0d5a49407e1a918c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxGenerator</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
+      <anchor>gafe3ff646d102a4209512d6cda3b62ac4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxMastering</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
+      <anchor>ga6e00e778267b163458d145a6b6ac37b1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxModulation</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <anchor>ga2aea8d0a0d5d5e40680ce5260f52dafd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxPitchShift</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
+      <anchor>ga0759e804603c37125d02cbc3b091f03b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxRestoration</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <anchor>ga4dd95a64193b078cc91d160ae39a95ed</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxReverb</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <anchor>ga01b7fd148c1e5aefa3ea548be3257e50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
+      <anchor>gaf9b7f8cfe416744097bfcddfdcced2e6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxTools</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <anchor>ga658d80d06b44b28d34628e66c2f1e4e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxNetwork</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
+      <anchor>gab2264c85ad07f983f365ca1c53489fe3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchor>gac380562898ec7144f4e0ee3b4baa6aa3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentDrum</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadf01865c24020885cb974f200403351c</anchor>
+      <anchor>ga793ad8a6c605423f8ca78e6bfacd8e22</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <anchor>ga2dd44f3dc1709680a63b597bac817796</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentPiano</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <anchor>gadceab87ecf367542d41be60acbdf1f6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <anchor>gadf71323f9881f84038a18a55f9c5693b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynth</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <anchor>gaadec73a763ae5856f94a1d0ad1335d58</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynthSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <anchor>gaffed7482d7d1551379ad26515f4816ef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
+      <anchor>ga6a5beaeb94b8e0a215026ac95f44a6ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatialFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <anchor>ga0ab3065d837d3ed2cb309b61e43e7590</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyRealTime</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <anchor>ga5c37de66c8a6ede53f92d9ea117bbd50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <anchor>gac5a7bb9551dc86a93bc764efef832164</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyARA</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <anchor>gab1fff222e0c2b65ce6574afa48e3b838</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kNoOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <anchor>gaa5ff5ac3ea4de85f61375ed04b2ab88a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kUpDownMix</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
+      <anchor>ga96b0fa2b93633f94d256d0926a23216f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <anchor>gaf0d4b7073ef26a60cedee77e04e9f94f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAmbisonics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <anchor>gae0aa5ea7deb453d05ae4a38612d30868</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kMono</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
+      <anchor>gabd5da3c6aa4168e82cf36eb2c42fac1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kStereo</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
+      <anchor>ga74b483d71fbc43888e605cfdf8b69bd3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <anchor>ga1cbb72f7fd4c011b07e0a249228e54ac</anchor>
       <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
@@ -400,7 +400,7 @@
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -555,7 +555,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -668,7 +668,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -680,7 +680,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -817,7 +817,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstevents_8h</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" imported="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -854,7 +854,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" imported="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -874,7 +874,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -884,7 +884,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -894,7 +894,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -1292,7 +1292,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidilearn.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidilearn_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
@@ -1301,7 +1301,7 @@
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -1441,7 +1441,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -1451,7 +1451,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterfunctionname.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterfunctionname_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
@@ -1531,7 +1531,7 @@
   </compound>
   <compound kind="file">
     <name>ivstphysicalui.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstphysicalui_8h</filename>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
     <class kind="struct">Steinberg::Vst::PhysicalUIMap</class>
@@ -1586,7 +1586,7 @@
   </compound>
   <compound kind="file">
     <name>ivstpluginterfacesupport.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstpluginterfacesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
@@ -1595,7 +1595,7 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
@@ -1604,7 +1604,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -1652,7 +1652,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -1663,7 +1663,7 @@
   </compound>
   <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -2342,7 +2342,7 @@
   </compound>
   <compound kind="file">
     <name>ivsttestplugprovider.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsttestplugprovider_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="ivsteditcontroller_8h" name="ivsteditcontroller.h" local="yes" imported="no">pluginterfaces/vst/ivsteditcontroller.h</includes>
@@ -2353,7 +2353,7 @@
   </compound>
   <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstunits_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -2368,7 +2368,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -4404,12 +4404,12 @@
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h</filename>
   </compound>
   <compound kind="file">
     <name>vstspeaker.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstspeaker_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -6462,7 +6462,7 @@
   </compound>
   <compound kind="file">
     <name>vsttypes.h</name>
-    <path>/Users/Buildserver/Builddata/re/287933633/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vsttypes_8h</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst</namespace>
@@ -6499,6 +6499,13 @@
       <name>VST_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_3_7_4_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a81ab44a6e43bc152c3645744604b8f33</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -14609,269 +14616,269 @@
     <name>Steinberg::Vst::PlugType</name>
     <filename>namespaceSteinberg_1_1Vst_1_1PlugType.html</filename>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <anchor>ga0017ff4ab459880956723e09c847188a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDelay</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
+      <anchor>ga377e6c632bbed63329ad118e1d1f6780</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDistortion</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <anchor>gad8da16bef223355cc58d3b469f876b33</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDynamics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
+      <anchor>ga9584914ab8362461d1bb4bac52ab9fd9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxEQ</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <anchor>ga9dbf945372efb065d5f47af0aed0c498</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxFilter</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <anchor>gaf145d8e7f4ba5cf0b6f8d1373647451f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
+      <anchor>ga81395ffc74210c6b129ac5c1ad0f0450</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
+      <anchor>gad632f4944a960678d6ff9b3886c878db</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <anchor>ga0280f4b9390e12bf4b4846515572694a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <anchor>gab77fa9595f5503b0d5a49407e1a918c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxGenerator</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
+      <anchor>gafe3ff646d102a4209512d6cda3b62ac4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxMastering</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
+      <anchor>ga6e00e778267b163458d145a6b6ac37b1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxModulation</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <anchor>ga2aea8d0a0d5d5e40680ce5260f52dafd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxPitchShift</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
+      <anchor>ga0759e804603c37125d02cbc3b091f03b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxRestoration</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <anchor>ga4dd95a64193b078cc91d160ae39a95ed</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxReverb</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <anchor>ga01b7fd148c1e5aefa3ea548be3257e50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
+      <anchor>gaf9b7f8cfe416744097bfcddfdcced2e6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxTools</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <anchor>ga658d80d06b44b28d34628e66c2f1e4e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxNetwork</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
+      <anchor>gab2264c85ad07f983f365ca1c53489fe3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchor>gac380562898ec7144f4e0ee3b4baa6aa3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentDrum</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadf01865c24020885cb974f200403351c</anchor>
+      <anchor>ga793ad8a6c605423f8ca78e6bfacd8e22</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <anchor>ga2dd44f3dc1709680a63b597bac817796</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentPiano</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <anchor>gadceab87ecf367542d41be60acbdf1f6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <anchor>gadf71323f9881f84038a18a55f9c5693b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynth</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <anchor>gaadec73a763ae5856f94a1d0ad1335d58</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynthSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <anchor>gaffed7482d7d1551379ad26515f4816ef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
+      <anchor>ga6a5beaeb94b8e0a215026ac95f44a6ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatialFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <anchor>ga0ab3065d837d3ed2cb309b61e43e7590</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyRealTime</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <anchor>ga5c37de66c8a6ede53f92d9ea117bbd50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <anchor>gac5a7bb9551dc86a93bc764efef832164</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyARA</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <anchor>gab1fff222e0c2b65ce6574afa48e3b838</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kNoOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <anchor>gaa5ff5ac3ea4de85f61375ed04b2ab88a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kUpDownMix</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
+      <anchor>ga96b0fa2b93633f94d256d0926a23216f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <anchor>gaf0d4b7073ef26a60cedee77e04e9f94f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAmbisonics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <anchor>gae0aa5ea7deb453d05ae4a38612d30868</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kMono</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
+      <anchor>gabd5da3c6aa4168e82cf36eb2c42fac1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kStereo</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
+      <anchor>ga74b483d71fbc43888e605cfdf8b69bd3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <anchor>ga1cbb72f7fd4c011b07e0a249228e54ac</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -16667,269 +16674,269 @@
     <title>Plug-in Type used for subCategories</title>
     <filename>group__plugType.html</filename>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1c5f3f4e7d5210a9d81e6dcd76c79c67</anchor>
+      <anchor>ga0017ff4ab459880956723e09c847188a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDelay</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae3635bf778d4382234cbcfc30d71db16</anchor>
+      <anchor>ga377e6c632bbed63329ad118e1d1f6780</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDistortion</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gac923ee5b5ba8b5bddb285aad2be3ff35</anchor>
+      <anchor>gad8da16bef223355cc58d3b469f876b33</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxDynamics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa892f409ac4c930c1af59459372c167b</anchor>
+      <anchor>ga9584914ab8362461d1bb4bac52ab9fd9</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxEQ</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae94c37234a2f8bc1c54f85e4d70ad1a2</anchor>
+      <anchor>ga9dbf945372efb065d5f47af0aed0c498</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxFilter</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa7061a3bd7a1ef48e14f97503e6c0b2b</anchor>
+      <anchor>gaf145d8e7f4ba5cf0b6f8d1373647451f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0411b97bcc13d604e738a28aee43bb61</anchor>
+      <anchor>ga81395ffc74210c6b129ac5c1ad0f0450</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gabe030351fd22d14dad35c817e1849f59</anchor>
+      <anchor>gad632f4944a960678d6ff9b3886c878db</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga21938bb5dc145f05b8a08669e7a74be5</anchor>
+      <anchor>ga0280f4b9390e12bf4b4846515572694a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf5d6ce751eff5e1825c2e9cbf6de68a0</anchor>
+      <anchor>gab77fa9595f5503b0d5a49407e1a918c7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxGenerator</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga09060af560cf34b87e14d5dbd839ad52</anchor>
+      <anchor>gafe3ff646d102a4209512d6cda3b62ac4</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxMastering</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga80ed69d85e565772a138ead6b8feff70</anchor>
+      <anchor>ga6e00e778267b163458d145a6b6ac37b1</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxModulation</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf7fec6a731df379ba73e26bcd72d6f9a</anchor>
+      <anchor>ga2aea8d0a0d5d5e40680ce5260f52dafd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxPitchShift</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga2b2725f60cbf68e604c85b125937f553</anchor>
+      <anchor>ga0759e804603c37125d02cbc3b091f03b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxRestoration</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf2357711fdb99757b6fd3248cbc4ac15</anchor>
+      <anchor>ga4dd95a64193b078cc91d160ae39a95ed</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxReverb</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae45eb21e5afa4a9b2a4e5c789fcac18d</anchor>
+      <anchor>ga01b7fd148c1e5aefa3ea548be3257e50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad51565b155d38402b8660fca0d78927f</anchor>
+      <anchor>gaf9b7f8cfe416744097bfcddfdcced2e6</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxTools</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga610bd26a1a9c791feeb94c3a01b85a3e</anchor>
+      <anchor>ga658d80d06b44b28d34628e66c2f1e4e3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kFxNetwork</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1644feff4e06fa14952bf64ee211003f</anchor>
+      <anchor>gab2264c85ad07f983f365ca1c53489fe3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrument</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga93cb7a7100ac96cfafceb6216770c42d</anchor>
+      <anchor>gac380562898ec7144f4e0ee3b4baa6aa3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentDrum</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadf01865c24020885cb974f200403351c</anchor>
+      <anchor>ga793ad8a6c605423f8ca78e6bfacd8e22</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentExternal</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaf0e00ca5cee8c5b4319fb7789bb4b919</anchor>
+      <anchor>ga2dd44f3dc1709680a63b597bac817796</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentPiano</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gace8c5d52ef6b889593c8eccd7bed6bfe</anchor>
+      <anchor>gadceab87ecf367542d41be60acbdf1f6a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1a96d4882dec6d6cc809c6881456dafa</anchor>
+      <anchor>gadf71323f9881f84038a18a55f9c5693b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynth</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga42c97cd14b97a2ea3052cc62ecc833f3</anchor>
+      <anchor>gaadec73a763ae5856f94a1d0ad1335d58</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kInstrumentSynthSampler</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa63699396d2e24978ad7a0f32f1a7187</anchor>
+      <anchor>gaffed7482d7d1551379ad26515f4816ef</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatial</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gaa334568999d986b4e50627646e51a8b4</anchor>
+      <anchor>ga6a5beaeb94b8e0a215026ac95f44a6ab</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSpatialFx</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9439d03e5e14fb7a35976d2e37f34e31</anchor>
+      <anchor>ga0ab3065d837d3ed2cb309b61e43e7590</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyRealTime</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae58eb0aafa16197f12c1a61428fd5584</anchor>
+      <anchor>ga5c37de66c8a6ede53f92d9ea117bbd50</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga0181f4f0a361e99c4afa139b47e3642d</anchor>
+      <anchor>gac5a7bb9551dc86a93bc764efef832164</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kOnlyARA</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga26573263b5c53a0a3b631e9db2f7aeed</anchor>
+      <anchor>gab1fff222e0c2b65ce6574afa48e3b838</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kNoOfflineProcess</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1e894c4b97ff99e52706cf3a67c35627</anchor>
+      <anchor>gaa5ff5ac3ea4de85f61375ed04b2ab88a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kUpDownMix</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga9b7a9613e51e1f218461d3167dd50306</anchor>
+      <anchor>ga96b0fa2b93633f94d256d0926a23216f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAnalyzer</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gadbe2a7d21efd81fbae4bb86fa428e900</anchor>
+      <anchor>gaf0d4b7073ef26a60cedee77e04e9f94f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kAmbisonics</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga1ad4df7997d26c16d515a1202b4bdc1b</anchor>
+      <anchor>gae0aa5ea7deb453d05ae4a38612d30868</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kMono</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gad515322344056aab9256d76a6787eb42</anchor>
+      <anchor>gabd5da3c6aa4168e82cf36eb2c42fac1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kStereo</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>gae8acdf9398f33322690596dc2d00318f</anchor>
+      <anchor>ga74b483d71fbc43888e605cfdf8b69bd3</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>const CString</type>
+      <type>SMTG_CONSTEXPR const CString</type>
       <name>kSurround</name>
       <anchorfile>group__plugType.html</anchorfile>
-      <anchor>ga6e4cc6e531ad93aa1d60021b82dcdbe9</anchor>
+      <anchor>ga1cbb72f7fd4c011b07e0a249228e54ac</anchor>
       <arglist></arglist>
     </member>
   </compound>

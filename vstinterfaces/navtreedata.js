@@ -70,7 +70,7 @@ var NAVTREEINDEX =
 "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html#aa016d7a46efed60f91695a5159ecfbcf",
 "vstpresetkeys_8h.html#ga642a844eb43638962aec00dda572b724",
 "vstspeaker_8h.html#ga509a5cd9d9498ef62bdbce91425522f5",
-"vsttypes_8h.html#gabf70aac64179b2b47bd877600a2e8c28"
+"vsttypes_8h.html#gaac31a9d9a63927ad6927f2a298888c22"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

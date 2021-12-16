@@ -74,10 +74,10 @@ var NAVTREEINDEX =
 [
 "AudioIO_8h.html",
 "classSteinberg_1_1Vst_1_1EditController.html#a9ed9952fc33a6e0cac96a8f46de5d86c",
-"classSteinberg_1_1Vst_1_1ParameterValueQueue.html",
-"classSteinberg_1_1Vst_1_1StringResult.html#a9196305174afe4846ca762869408f4c2",
-"module__mac_8mm.html#a5b4d4515bd38ea320f10dab298266d7e",
-"testing_8cpp.html#ac5fa6c7c0083a2a67b209b23b1b12fd2"
+"classSteinberg_1_1Vst_1_1ParameterValueQueue.html#a653f32288dd11808fd034bd9d19ec2dc",
+"classSteinberg_1_1Vst_1_1TestBase.html#a144500b31544cf7c45c8562ebd9985fe",
+"module__win32_8cpp.html",
+"testing_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

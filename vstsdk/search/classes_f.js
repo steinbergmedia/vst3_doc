@@ -1,10 +1,11 @@
 var searchData=
 [
-  ['scaleevent',['ScaleEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html',1,'Steinberg::Vst']]],
-  ['setup',['Setup',['../structSteinberg_1_1Vst_1_1MPE_1_1Setup.html',1,'Steinberg::Vst::MPE']]],
-  ['singlecomponenteffect',['SingleComponentEffect',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html',1,'Steinberg::Vst']]],
-  ['snapshot',['Snapshot',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html',1,'VST3::Hosting::Module']]],
-  ['speakerarray',['SpeakerArray',['../classSteinberg_1_1Vst_1_1SpeakerArray.html',1,'Steinberg::Vst']]],
-  ['stringlistparameter',['StringListParameter',['../classSteinberg_1_1Vst_1_1StringListParameter.html',1,'Steinberg::Vst']]],
-  ['stringresult',['StringResult',['../classSteinberg_1_1Vst_1_1StringResult.html',1,'Steinberg::Vst']]]
+  ['rangenoteexpressiontype',['RangeNoteExpressionType',['../classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html',1,'Steinberg::Vst']]],
+  ['rangeparameter',['RangeParameter',['../classSteinberg_1_1Vst_1_1RangeParameter.html',1,'Steinberg::Vst']]],
+  ['readonlybstream',['ReadOnlyBStream',['../classSteinberg_1_1Vst_1_1ReadOnlyBStream.html',1,'Steinberg::Vst']]],
+  ['refcounted',['RefCounted',['../../base/structSteinberg_1_1FUnknownImpl_1_1Detail_1_1RefCounted.html',1,'Steinberg::FUnknownImpl::Detail']]],
+  ['representationinfo',['RepresentationInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html',1,'Steinberg::Vst']]],
+  ['ringbuffer',['RingBuffer',['../classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
+  ['routinginfo',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]],
+  ['rttransfert',['RTTransferT',['../structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]]
 ];

@@ -95,6 +95,9 @@ $(document).ready(function(){initNavTree('classSteinberg_1_1Vst_1_1MPE_1_1Proces
 </div><!--header-->
 <div class="contents">
 
+<p><a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> Decompose <a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html" title="MPE Decompose Processor.">Processor</a>.  
+ <a href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#details">More...</a></p>
+
 <p><code>#include &lt;mpeprocessor.h&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -106,13 +109,19 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af0a0985f41634e55cb387bb4aabdbd19"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Setup.html">Setup</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#af0a0985f41634e55cb387bb4aabdbd19">getSetup</a> () const</td></tr>
 <tr class="separator:af0a0985f41634e55cb387bb4aabdbd19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a02e78035f6fc16da6e780b21af56db66"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#a02e78035f6fc16da6e780b21af56db66">changeSetup</a> (const <a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Setup.html">Setup</a> &amp;setup)</td></tr>
+<tr class="memdesc:a02e78035f6fc16da6e780b21af56db66"><td class="mdescLeft">&#160;</td><td class="mdescRight">change the <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> setup  <a href="#a02e78035f6fc16da6e780b21af56db66">More...</a><br /></td></tr>
 <tr class="separator:a02e78035f6fc16da6e780b21af56db66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad20897c5c8bd47f5d4005989bead0e55"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#ad20897c5c8bd47f5d4005989bead0e55">reset</a> ()</td></tr>
+<tr class="memdesc:ad20897c5c8bd47f5d4005989bead0e55"><td class="mdescLeft">&#160;</td><td class="mdescRight">reset all notes  <a href="#ad20897c5c8bd47f5d4005989bead0e55">More...</a><br /></td></tr>
 <tr class="separator:ad20897c5c8bd47f5d4005989bead0e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9b773d4c0937b8b5276f2aa62940a25a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html#a9b773d4c0937b8b5276f2aa62940a25a">processMIDIInput</a> (const uint8_t *data, size_t dataSize)</td></tr>
+<tr class="memdesc:a9b773d4c0937b8b5276f2aa62940a25a"><td class="mdescLeft">&#160;</td><td class="mdescRight">feed new native MIDI data  <a href="#a9b773d4c0937b8b5276f2aa62940a25a">More...</a><br /></td></tr>
 <tr class="separator:a9b773d4c0937b8b5276f2aa62940a25a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p><a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> Decompose <a class="el" href="classSteinberg_1_1Vst_1_1MPE_1_1Processor.html" title="MPE Decompose Processor.">Processor</a>. </p>
+<p>decomposes <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> MIDI messages </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="aedc00be6b14c3d0649082a82dea37e7f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aedc00be6b14c3d0649082a82dea37e7f">&#9670;&nbsp;</a></span>Processor()</h2>
 
@@ -200,6 +209,15 @@ Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>change the <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> setup </p>
+<p>make sure that MIDI processing is stopped while this is called.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">setup</td><td>new setup </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="ad20897c5c8bd47f5d4005989bead0e55"></a>
@@ -216,6 +234,9 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>reset all notes </p>
+<p>All playing notes will be stopped and note identifiers are released. </p>
 
 </div>
 </div>
@@ -244,6 +265,15 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>feed new native MIDI data </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>MIDI data buffer </td></tr>
+    <tr><td class="paramname">dataSize</td><td>data buffer size in bytes </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>

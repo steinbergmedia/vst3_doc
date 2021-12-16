@@ -22,7 +22,7 @@ var files_dup =
     [ "basewrapper.cpp", "basewrapper_8cpp.html", null ],
     [ "basewrapper.h", "basewrapper_8h.html", null ],
     [ "basewrapper.sdk.cpp", "basewrapper_8sdk_8cpp.html", null ],
-    [ "connectionproxy.cpp", "connectionproxy_8cpp.html", null ],
+    [ "connectionproxy.cpp", "connectionproxy_8cpp.html", "connectionproxy_8cpp" ],
     [ "connectionproxy.h", "connectionproxy_8h.html", [
       [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", "classSteinberg_1_1Vst_1_1ConnectionProxy" ]
     ] ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a6d2a1929151bc7086c493054f3a7be85aeb9693d3c556e5f379ad76ced92aec7f":[2,0,0,0,3,33,0,6],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55":[2,0,0,0,3,33,0,9],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,0,3,33,5],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,0,3,33,6],
@@ -212,8 +213,8 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a1daedc7fe9fb30ab99c27e2af6405a6d":[2,0,0,0,3,45,27],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a2a13e09cc9ec3dd1b8617a38e3c07af5":[2,0,0,0,3,45,22],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a2d8025401add2553bd80ccd3b87b5c30":[2,0,0,0,3,45,2],
+"classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a2fe02531cd4f9f1c0c3adc99c8ccbbdb":[2,0,0,0,3,45,6],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a374e62132ea0748d6ab211ee5b9841f6":[2,0,0,0,3,45,14],
-"classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a383731f004c342a71b30d47e7da22e30":[2,0,0,0,3,45,6],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a3d88fe8b3b447ce38d32d912d43f57de":[2,0,0,0,3,45,20],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a43b565fdb49cf57214b8103f9b5d3d37":[2,0,0,0,3,45,30],
 "classSteinberg_1_1Vst_1_1mda_1_1Processor.html#a44f60a002d17139fd70c1d8f74b8219a":[2,0,0,0,3,45,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a3c263cc8de03774e138eda43775397ac":[2,0,0,0,3,46,6],
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a586092a767162664e7023719865393d5":[2,0,0,0,3,46,4],
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a64274ff145c58620b9b7c32fff087049":[2,0,0,0,3,46,11],
-"classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a6449b5cf4437b81c8736c90925217dd6":[2,0,0,0,3,46,5],
-"classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a7626a5782256050a2dcd505261fcd915":[2,0,0,0,3,46,0]
+"classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a6449b5cf4437b81c8736c90925217dd6":[2,0,0,0,3,46,5]
 };

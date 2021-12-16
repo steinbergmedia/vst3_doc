@@ -1,8 +1,8 @@
 var structSteinberg_1_1PClassInfo2 =
 [
-    [ "kVendorSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635abc92cf67d5c5576b27e52051ee42eaa0", null ],
-    [ "kVersionSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635af639cc09cb2106bdbd63cc5a4be8bc89", null ],
-    [ "kSubCategoriesSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635a9dfa52b0b8aabc14a4e753f1c2e37b5f", null ],
+    [ "kVendorSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2dabc92cf67d5c5576b27e52051ee42eaa0", null ],
+    [ "kVersionSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2daf639cc09cb2106bdbd63cc5a4be8bc89", null ],
+    [ "kSubCategoriesSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2da9dfa52b0b8aabc14a4e753f1c2e37b5f", null ],
     [ "PClassInfo2", "structSteinberg_1_1PClassInfo2.html#a7efe9cd3d1d1a1d43be9bc68ca394d74", null ],
     [ "PClassInfo2", "structSteinberg_1_1PClassInfo2.html#a2ac28b5201097b3169efdf44e0e24620", null ],
     [ "cid", "structSteinberg_1_1PClassInfo2.html#a418a6a237a27e446af982acc6cfa1f48", null ],

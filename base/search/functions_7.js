@@ -31,12 +31,12 @@ var searchData=
   ['getred',['GetRed',['../namespaceSteinberg.html#aa2093d47e98716adb212069f951ff841',1,'Steinberg']]],
   ['getsize',['getSize',['../classSteinberg_1_1UString.html#aeba375d43d0cabc60d729cdb1625c686',1,'Steinberg::UString::getSize()'],['../classSteinberg_1_1IPlugView.html#ae4f7f751a5b75837f47ba19b29c53917',1,'Steinberg::IPlugView::getSize()']]],
   ['getstreamsize',['getStreamSize',['../classSteinberg_1_1ISizeableStream.html#a14a1cf32b76e98f867728d2b140d664c',1,'Steinberg::ISizeableStream']]],
-  ['getstring',['getString',['../classSteinberg_1_1ConstStringTable.html#ad11982e5de305e29fd59bab3e197a4f2',1,'Steinberg::ConstStringTable::getString(const char8 *str) const'],['../classSteinberg_1_1ConstStringTable.html#a47012ae8e7ad2091e35a459a579d13ba',1,'Steinberg::ConstStringTable::getString(const char8 str) const']]],
+  ['getstring',['getString',['../classSteinberg_1_1ConstStringTable.html#ad11982e5de305e29fd59bab3e197a4f2',1,'Steinberg::ConstStringTable::getString(const char8 *str) const'],['../classSteinberg_1_1ConstStringTable.html#ae50b58af65ebbc7d1a035d88c520d7dd',1,'Steinberg::ConstStringTable::getString(const char8 str) const']]],
   ['getstring16',['getString16',['../classSteinberg_1_1FVariant.html#a6392d265a69290ce45e704e756553287',1,'Steinberg::FVariant']]],
   ['getstring8',['getString8',['../classSteinberg_1_1FVariant.html#a1bf6f522ea441d8e4bd69c6e939ca28a',1,'Steinberg::FVariant']]],
   ['gettext16',['getText16',['../classSteinberg_1_1IString.html#a292cc4b997e2ff509600bc0339ef8cf3',1,'Steinberg::IString']]],
   ['gettext8',['getText8',['../classSteinberg_1_1IString.html#a0db45e91ddc50e475381585b7ef8369f',1,'Steinberg::IString']]],
-  ['gettuid',['getTUID',['../namespaceSteinberg.html#a1f27423c4c95cdb487e39ca650c8785b',1,'Steinberg']]],
+  ['gettuid',['getTUID',['../namespaceSteinberg.html#a1f27423c4c95cdb487e39ca650c8785b',1,'Steinberg::getTUID()'],['../namespaceSteinberg_1_1FUnknownImpl.html#ab00dcafdf662436bb9d9a9dd1f64d8d1',1,'Steinberg::FUnknownImpl::getTUID()']]],
   ['gettype',['getType',['../classSteinberg_1_1FVariant.html#a66d317bc85f9ddd3f1478ff947e529a1',1,'Steinberg::FVariant']]],
   ['getwidth',['getWidth',['../structSteinberg_1_1ViewRect.html#a8393748cd69f8fb3f27257f9e7f5900b',1,'Steinberg::ViewRect']]]
 ];

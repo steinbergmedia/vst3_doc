@@ -1,9 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"classSteinberg_1_1Vst_1_1StringResult.html#a9196305174afe4846ca762869408f4c2":[4,0,0,1,47,1],
-"classSteinberg_1_1Vst_1_1StringResult.html#aceeefd83ecd3c2384778ac88c22cf96b":[4,0,0,1,47,3],
-"classSteinberg_1_1Vst_1_1TestBase.html":[4,0,0,1,48],
-"classSteinberg_1_1Vst_1_1TestBase.html#a0e0fe11841b030f07950700afd64d822":[4,0,0,1,48,9],
 "classSteinberg_1_1Vst_1_1TestBase.html#a144500b31544cf7c45c8562ebd9985fe":[4,0,0,1,48,2],
 "classSteinberg_1_1Vst_1_1TestBase.html#a3d1fb91255e41edeeaee8794cd488720":[4,0,0,1,48,5],
 "classSteinberg_1_1Vst_1_1TestBase.html#a41fc7431ae821e2bc34f1a767d20fcd3":[4,0,0,1,48,10],
@@ -150,6 +146,7 @@ var NAVTREEINDEX3 =
 "classVST3_1_1Hosting_1_1PluginFactory.html#abb7f24962eee9efd4e0b5bc87a1382cf":[4,0,1,0,3,4],
 "classes.html":[4,1],
 "connectionproxy_8cpp.html":[5,0,22],
+"connectionproxy_8cpp.html#a66aea247135e1846f335a23d9cf6bbcb":[5,0,22,0],
 "connectionproxy_8h.html":[5,0,23],
 "doc__public__sdk_8h.html":[5,0,24],
 "doc__public__sdk__limited_8h.html":[5,0,25],
@@ -223,8 +220,8 @@ var NAVTREEINDEX3 =
 "group__vstClasses.html":[2,0],
 "hierarchy.html":[4,2],
 "hostclasses_8cpp.html":[5,0,30],
+"hostclasses_8cpp.html#a389055ec7b088e8040c289a99c17d33a":[5,0,30,1],
 "hostclasses_8cpp.html#a476fe6d184a54896b92f055e61b011bf":[5,0,30,0],
-"hostclasses_8cpp.html#a833db7b4e2b577afb0304ce64a8a120e":[5,0,30,1],
 "hostclasses_8h.html":[5,0,31],
 "index.html":[],
 "index.html":[0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX3 =
 "module__linux_8cpp.html#a9b715f5fd5674dcf99d4b3b286f9c993":[5,0,37,1],
 "module__linux_8cpp.html#ada742d09a758c7053b346ceab75bfa58":[5,0,37,3],
 "module__mac_8mm.html":[5,0,38],
-"module__mac_8mm.html#a456f81687ab23bfa518d25165d688aa4":[5,0,38,2]
+"module__mac_8mm.html#a456f81687ab23bfa518d25165d688aa4":[5,0,38,2],
+"module__mac_8mm.html#a5b4d4515bd38ea320f10dab298266d7e":[5,0,38,1],
+"module__mac_8mm.html#a5f0f9f72717bbabdf685e0ef04ad7e6c":[5,0,38,0],
+"module__mac_8mm.html#a6387533239cde0ad6c17b518817ebd38":[5,0,38,3]
 };

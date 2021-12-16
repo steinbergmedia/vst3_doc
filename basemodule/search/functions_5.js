@@ -16,7 +16,7 @@ var searchData=
   ['flush',['flush',['../classSteinberg_1_1Buffer.html#adac116554b543b7c4228c018a85882f5',1,'Steinberg::Buffer']]],
   ['fmallocreleaser',['FMallocReleaser',['../classSteinberg_1_1FMallocReleaser.html#a005dcedf7047776009c4437b8219a407',1,'Steinberg::FMallocReleaser']]],
   ['fnuller',['FNuller',['../structSteinberg_1_1FNuller.html#a9fd1a507ebc6f2535cd3130e5bf7cb04',1,'Steinberg::FNuller']]],
-  ['fobject',['FObject',['../classSteinberg_1_1FObject.html#ab7341803014915b228a4b265371d951a',1,'Steinberg::FObject::FObject()'],['../classSteinberg_1_1FObject.html#a0df169f35093cd89cf30109783cc900b',1,'Steinberg::FObject::FObject(const FObject &amp;)']]],
+  ['fobject',['FObject',['../classSteinberg_1_1FObject.html#a437422592a0d826d2c3962fb7fff8404',1,'Steinberg::FObject::FObject()=default'],['../classSteinberg_1_1FObject.html#a0df169f35093cd89cf30109783cc900b',1,'Steinberg::FObject::FObject(const FObject &amp;)']]],
   ['fptrnuller',['FPtrNuller',['../structSteinberg_1_1FPtrNuller.html#a965668bcd07a18ad817d591cdfe2c3d5',1,'Steinberg::FPtrNuller']]],
   ['fromattributes',['fromAttributes',['../classSteinberg_1_1String.html#afa3a283b87647a8898b8847993972884',1,'Steinberg::String']]],
   ['fromhexstring',['fromHexString',['../classSteinberg_1_1Buffer.html#a47d47e5af0c48f358ca67d09148c572c',1,'Steinberg::Buffer']]],

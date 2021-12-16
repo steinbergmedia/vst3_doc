@@ -7,6 +7,6 @@ var classSteinberg_1_1Vst_1_1ParameterChanges =
     [ "getParameterCount", "classSteinberg_1_1Vst_1_1ParameterChanges.html#a1a882472b7c228eb1f709c7f15b15999", null ],
     [ "getParameterData", "classSteinberg_1_1Vst_1_1ParameterChanges.html#a46ca129ca2f1fe147c7defc0658d7295", null ],
     [ "addParameterData", "classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a", null ],
-    [ "queues", "classSteinberg_1_1Vst_1_1ParameterChanges.html#ae96c41176d4504f8462d838ceba5499f", null ],
+    [ "queues", "classSteinberg_1_1Vst_1_1ParameterChanges.html#acfb73c5aee1d941dc8bd1ddbe81a257b", null ],
     [ "usedQueueCount", "classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd", null ]
 ];

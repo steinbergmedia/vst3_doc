@@ -11,7 +11,7 @@ var searchData=
   ['toorthogonalorientation',['toOrthogonalOrientation',['../namespaceSteinberg_1_1GeoConstants.html#a1f7b523a922afe5e4fc87ecc6dfd2a7d',1,'Steinberg::GeoConstants']]],
   ['toregistrystring',['toRegistryString',['../classSteinberg_1_1FUID.html#ab89459cc6a432d8ed103b5113a74cfc9',1,'Steinberg::FUID']]],
   ['tostring',['toString',['../classSteinberg_1_1FUID.html#a9ee7f374796ccad9af741f533e79dbea',1,'Steinberg::FUID']]],
-  ['totuid',['toTUID',['../classSteinberg_1_1FUID.html#af2e718c3b14a4a50caf23cadeebe862c',1,'Steinberg::FUID::toTUID(TUID result) const'],['../classSteinberg_1_1FUID.html#a02cfd4e6691ab5c1d14401b5e6ce1287',1,'Steinberg::FUID::toTUID() const']]],
+  ['totuid',['toTUID',['../classSteinberg_1_1FUID.html#af2e718c3b14a4a50caf23cadeebe862c',1,'Steinberg::FUID::toTUID(TUID result) const'],['../classSteinberg_1_1FUID.html#a02cfd4e6691ab5c1d14401b5e6ce1287',1,'Steinberg::FUID::toTUID() const'],['../structSteinberg_1_1FUnknownImpl_1_1UID.html#aec00b0600180aa24cc59af400a018e71',1,'Steinberg::FUnknownImpl::UID::toTUID()']]],
   ['triggerupdates',['triggerUpdates',['../classSteinberg_1_1IUpdateHandler.html#a5df36e1fc97bddca8eaabc6b39de6530',1,'Steinberg::IUpdateHandler']]],
   ['tstrcat',['tstrcat',['../namespaceSteinberg.html#a64e0b47b3f8b466e2cb815d6662298e0',1,'Steinberg']]],
   ['tstrcmp',['tstrcmp',['../namespaceSteinberg.html#a2f01ef81ad1c686ebb34a97ef4e2d098',1,'Steinberg']]],

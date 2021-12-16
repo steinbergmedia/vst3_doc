@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getfactoryproc',['GetFactoryProc',['../ipluginbase_8h.html#a52f9bca57bea5ad1e2c36754b3dec05f',1,'ipluginbase.h']]]
+  ['extends',['Extends',['../namespaceSteinberg_1_1FUnknownImpl.html#ad7c3d8fc183de6c65cb7209c4edda8a7',1,'Steinberg::FUnknownImpl']]]
 ];

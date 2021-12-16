@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['detail',['Detail',['../namespaceSteinberg_1_1FUnknownImpl_1_1Detail.html',1,'Steinberg::FUnknownImpl']]],
+  ['funknownimpl',['FUnknownImpl',['../namespaceSteinberg_1_1FUnknownImpl.html',1,'Steinberg']]],
   ['funknownprivate',['FUnknownPrivate',['../namespaceSteinberg_1_1FUnknownPrivate.html',1,'Steinberg']]],
   ['geoconstants',['GeoConstants',['../namespaceSteinberg_1_1GeoConstants.html',1,'Steinberg']]],
   ['keycodes',['KeyCodes',['../namespaceSteinberg_1_1KeyCodes.html',1,'Steinberg']]],
@@ -35,12 +37,14 @@ var searchData=
   ['smartpointer_2eh',['smartpointer.h',['../smartpointer_8h.html',1,'']]],
   ['smtg_5falways_5finline',['SMTG_ALWAYS_INLINE',['../ftypes_8h.html#a3df4ece706682a504fa3d08c3b0a04a4',1,'ftypes.h']]],
   ['smtg_5fconstexpr',['SMTG_CONSTEXPR',['../fplatform_8h.html#ae879ea0d66915005ec8ea88f2f1f2762',1,'fplatform.h']]],
+  ['smtg_5fconstexpr14',['SMTG_CONSTEXPR14',['../fplatform_8h.html#a835ee5da4abe58dfd57a80b26af96765',1,'fplatform.h']]],
   ['smtg_5fdeprecated_5fattribute',['SMTG_DEPRECATED_ATTRIBUTE',['../fplatform_8h.html#ad30cbf5ca1963c944681bc04c91eed1d',1,'fplatform.h']]],
   ['smtg_5fdeprecated_5fmsg',['SMTG_DEPRECATED_MSG',['../fplatform_8h.html#a41cbd50f8f0a070abff5e1612ebbcca3',1,'fplatform.h']]],
   ['smtg_5fintel_5fcompiler',['SMTG_INTEL_COMPILER',['../fplatform_8h.html#a1c09a77d0ec57de38471f6de5a8587e3',1,'fplatform.h']]],
   ['smtg_5fintel_5fcxx11_5fmode',['SMTG_INTEL_CXX11_MODE',['../fplatform_8h.html#a276fbbbcc6903fcc10202ff8d1703831',1,'fplatform.h']]],
   ['smtg_5fnever_5finline',['SMTG_NEVER_INLINE',['../ftypes_8h.html#af946828d11bb0aed103fac1d14b4b1b8',1,'ftypes.h']]],
   ['smtg_5fnoexcept',['SMTG_NOEXCEPT',['../fplatform_8h.html#a5932d425a53de42eaf3ccb6ab2695e71',1,'fplatform.h']]],
+  ['smtg_5fos_5fwindows_5farm',['SMTG_OS_WINDOWS_ARM',['../fplatform_8h.html#a77d7fc5acb62dac9498f38b0375805a7',1,'fplatform.h']]],
   ['smtg_5foverride',['SMTG_OVERRIDE',['../fplatform_8h.html#a3c5f727b2149b22fddea9edf2add04a8',1,'fplatform.h']]],
   ['smtg_5ftype_5fsize_5fcheck',['SMTG_TYPE_SIZE_CHECK',['../typesizecheck_8h.html#ae6f2ddef2bacfa5ddfea0cb30a89d016',1,'typesizecheck.h']]],
   ['standardcolor',['StandardColor',['../namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cd',1,'Steinberg']]],
@@ -83,5 +87,6 @@ var searchData=
   ['swap',['Swap',['../namespaceSteinberg.html#afc06120bebe47474d1e6c5bfa4eb66b8',1,'Steinberg']]],
   ['swap_5f16',['SWAP_16',['../ftypes_8h.html#a178e2230dac3adf497d06c6f42abccad',1,'ftypes.h']]],
   ['swap_5f32',['SWAP_32',['../ftypes_8h.html#ad0de6cd6cef290e9609feccdf002f51c',1,'ftypes.h']]],
-  ['swap_5f64',['SWAP_64',['../ftypes_8h.html#ae7ff9262ec2cb91d49035bffbea62625',1,'ftypes.h']]]
+  ['swap_5f64',['SWAP_64',['../ftypes_8h.html#ae7ff9262ec2cb91d49035bffbea62625',1,'ftypes.h']]],
+  ['u',['U',['../namespaceSteinberg_1_1U.html',1,'Steinberg']]]
 ];

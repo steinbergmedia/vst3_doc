@@ -41,13 +41,13 @@ var group__pluginBase =
       [ "release", "classSteinberg_1_1FUnknown.html#a58847c78bf6142f01ce214c2802cb146", null ]
     ] ],
     [ "FVariant", "classSteinberg_1_1FVariant.html", [
-      [ "kEmpty", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7a5460ad665310efd60a2352b2c347342f", null ],
-      [ "kInteger", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7aa1acc5720dd4e85ceea5578a6cf14ae6", null ],
-      [ "kFloat", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7a5686197bafb177bdc82550848416a1ad", null ],
-      [ "kString8", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7a0f3df8a4ca30a3ad6b26e7f17a8032c2", null ],
-      [ "kObject", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7ad74f4c7c6562dc3f8339a8bba2d28dd0", null ],
-      [ "kOwner", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7a8748a0de195760963cc4a77e6b4c29d0", null ],
-      [ "kString16", "classSteinberg_1_1FVariant.html#adf764cbdea00d65edcd07bb9953ad2b7a3bbd3d3c841c519ed8d96eacdc2c1e69", null ],
+      [ "kEmpty", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a5460ad665310efd60a2352b2c347342f", null ],
+      [ "kInteger", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5aa1acc5720dd4e85ceea5578a6cf14ae6", null ],
+      [ "kFloat", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a5686197bafb177bdc82550848416a1ad", null ],
+      [ "kString8", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a0f3df8a4ca30a3ad6b26e7f17a8032c2", null ],
+      [ "kObject", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5ad74f4c7c6562dc3f8339a8bba2d28dd0", null ],
+      [ "kOwner", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a8748a0de195760963cc4a77e6b4c29d0", null ],
+      [ "kString16", "classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a3bbd3d3c841c519ed8d96eacdc2c1e69", null ],
       [ "FVariant", "classSteinberg_1_1FVariant.html#a3af413f4c05123f8a5a7e34085932fd2", null ],
       [ "FVariant", "classSteinberg_1_1FVariant.html#ac79d4fad10a7b9fd5d7ebe153133db47", null ],
       [ "FVariant", "classSteinberg_1_1FVariant.html#a53232b87d8f25f4f0418964b260b9cf0", null ],
@@ -126,9 +126,9 @@ var group__pluginBase =
         [ "kComponentNonDiscardable", "structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380acb5680f6a81a74bdfe2cbd8c073df174", null ],
         [ "kUnicode", "structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209", null ]
       ] ],
-      [ "kURLSize", "structSteinberg_1_1PFactoryInfo.html#adc29c2ff13d900c2f185ee95427fb06ca47905cffb4660c31c124c3689a597abe", null ],
-      [ "kEmailSize", "structSteinberg_1_1PFactoryInfo.html#adc29c2ff13d900c2f185ee95427fb06ca7659c914f304c03fe5bb5406644dd11b", null ],
-      [ "kNameSize", "structSteinberg_1_1PFactoryInfo.html#adc29c2ff13d900c2f185ee95427fb06ca5b9d2840f143c8288f728f5be29f638e", null ],
+      [ "kURLSize", "structSteinberg_1_1PFactoryInfo.html#a61dadd085c1777f559549e05962b2c9ea47905cffb4660c31c124c3689a597abe", null ],
+      [ "kEmailSize", "structSteinberg_1_1PFactoryInfo.html#a61dadd085c1777f559549e05962b2c9ea7659c914f304c03fe5bb5406644dd11b", null ],
+      [ "kNameSize", "structSteinberg_1_1PFactoryInfo.html#a61dadd085c1777f559549e05962b2c9ea5b9d2840f143c8288f728f5be29f638e", null ],
       [ "PFactoryInfo", "structSteinberg_1_1PFactoryInfo.html#ab8864fc4f15f667c386cef84c3abe3fe", null ],
       [ "PFactoryInfo", "structSteinberg_1_1PFactoryInfo.html#a64254752d7cf245a6c28c7ff9429ed74", null ],
       [ "vendor", "structSteinberg_1_1PFactoryInfo.html#ac4707b8abe69c6961d88a0ea8d9689e0", null ],
@@ -140,8 +140,8 @@ var group__pluginBase =
       [ "ClassCardinality", "structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeece", [
         [ "kManyInstances", "structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2", null ]
       ] ],
-      [ "kCategorySize", "structSteinberg_1_1PClassInfo.html#a61dadd085c1777f559549e05962b2c9ea8f7919f981f4374ad578a660b8dbe01b", null ],
-      [ "kNameSize", "structSteinberg_1_1PClassInfo.html#a61dadd085c1777f559549e05962b2c9ea5b9d2840f143c8288f728f5be29f638e", null ],
+      [ "kCategorySize", "structSteinberg_1_1PClassInfo.html#a726ca809ffd3d67ab4b8476646f26635a8f7919f981f4374ad578a660b8dbe01b", null ],
+      [ "kNameSize", "structSteinberg_1_1PClassInfo.html#a726ca809ffd3d67ab4b8476646f26635a5b9d2840f143c8288f728f5be29f638e", null ],
       [ "PClassInfo", "structSteinberg_1_1PClassInfo.html#a0896d5d20fa2cd6dbd8231e6b446c91e", null ],
       [ "PClassInfo", "structSteinberg_1_1PClassInfo.html#a9ac42914ded80ccb37fa6ac9d2f40d7a", null ],
       [ "cid", "structSteinberg_1_1PClassInfo.html#a418a6a237a27e446af982acc6cfa1f48", null ],
@@ -156,9 +156,9 @@ var group__pluginBase =
       [ "createInstance", "classSteinberg_1_1IPluginFactory.html#a26a0c88f3703edf621060667eab3eb1f", null ]
     ] ],
     [ "PClassInfo2", "structSteinberg_1_1PClassInfo2.html", [
-      [ "kVendorSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635abc92cf67d5c5576b27e52051ee42eaa0", null ],
-      [ "kVersionSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635af639cc09cb2106bdbd63cc5a4be8bc89", null ],
-      [ "kSubCategoriesSize", "structSteinberg_1_1PClassInfo2.html#a726ca809ffd3d67ab4b8476646f26635a9dfa52b0b8aabc14a4e753f1c2e37b5f", null ],
+      [ "kVendorSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2dabc92cf67d5c5576b27e52051ee42eaa0", null ],
+      [ "kVersionSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2daf639cc09cb2106bdbd63cc5a4be8bc89", null ],
+      [ "kSubCategoriesSize", "structSteinberg_1_1PClassInfo2.html#a0411cd49bb5b71852cecd93bcbf0ca2da9dfa52b0b8aabc14a4e753f1c2e37b5f", null ],
       [ "PClassInfo2", "structSteinberg_1_1PClassInfo2.html#a7efe9cd3d1d1a1d43be9bc68ca394d74", null ],
       [ "PClassInfo2", "structSteinberg_1_1PClassInfo2.html#a2ac28b5201097b3169efdf44e0e24620", null ],
       [ "cid", "structSteinberg_1_1PClassInfo2.html#a418a6a237a27e446af982acc6cfa1f48", null ],

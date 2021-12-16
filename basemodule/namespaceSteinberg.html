@@ -111,8 +111,6 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespaceSteinberg_1_1SystemTime"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1SystemTime.html">SystemTime</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:namespaceSteinberg_1_1Update"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Update.html">Update</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
@@ -351,6 +349,8 @@ Functions</h2></td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplParams" colspan="2">template&lt;typename Call &gt; </td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1ITimerCallback.html">ITimerCallback</a> *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#af754042087ab79da3c3b0d08681e9a93">newTimerCallback</a> (const Call &amp;call)</td></tr>
 <tr class="separator:af754042087ab79da3c3b0d08681e9a93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03374ef5cb2e4ca5d36313f4c3dd85e2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a03374ef5cb2e4ca5d36313f4c3dd85e2">DEF_CLASS_IID</a> (<a class="el" href="classSteinberg_1_1IUpdateManager.html">IUpdateManager</a>) namespace Update</td></tr>
+<tr class="separator:a03374ef5cb2e4ca5d36313f4c3dd85e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Convenience methods that call release or delete respectively</div></td></tr>
 <tr><td colspan="2"><div class="groupText"><p>on a pointer if it is non-zero, and then set the pointer to zero.</p>
 <p>Note: you should prefer using IPtr or OPtr instead of these methods whenever possible. <b>Examples:</b> </p><div class="fragment"><div class="line">~Foo ()</div><div class="line">{</div><div class="line">    <span class="comment">// instead of ...</span></div><div class="line">    <span class="keywordflow">if</span> (somePointer)</div><div class="line">    {</div><div class="line">        somePointer-&gt;release ();</div><div class="line">        somePointer = 0;</div><div class="line">    }</div><div class="line">    <span class="comment">// ... just being lazy I write</span></div><div class="line">    <a class="code" href="namespaceSteinberg.html#a694fec3dd0db8909ea3289ba1de4f494">SafeRelease</a> (somePointer)</div><div class="line">}</div></div><!-- fragment --> </div></td></tr>
@@ -2614,6 +2614,24 @@ Variables</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const Call &amp;&#160;</td>
           <td class="paramname"><em>call</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a03374ef5cb2e4ca5d36313f4c3dd85e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03374ef5cb2e4ca5d36313f4c3dd85e2">&#9670;&nbsp;</a></span>DEF_CLASS_IID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Steinberg::DEF_CLASS_IID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classSteinberg_1_1IUpdateManager.html">IUpdateManager</a>&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>

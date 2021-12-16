@@ -12,6 +12,7 @@ var files_dup =
     [ "ftypes.h", "ftypes_8h.html", "ftypes_8h" ],
     [ "funknown.cpp", "funknown_8cpp.html", "funknown_8cpp" ],
     [ "funknown.h", "funknown_8h.html", "funknown_8h" ],
+    [ "funknownimpl.h", "funknownimpl_8h.html", "funknownimpl_8h" ],
     [ "futils.h", "futils_8h.html", "futils_8h" ],
     [ "fvariant.h", "fvariant_8h.html", "fvariant_8h" ],
     [ "geoconstants.h", "geoconstants_8h.html", "geoconstants_8h" ],

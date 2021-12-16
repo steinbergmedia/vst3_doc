@@ -1,6 +1,7 @@
 var searchData=
 [
   ['mactive',['mActive',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
+  ['make',['make',['../../vstsdk/classSteinberg_1_1Vst_1_1HostAttributeList.html#ac7b03df5a34851bf0f67c8291138c1ac',1,'Steinberg::Vst::HostAttributeList']]],
   ['makecolorspec',['MakeColorSpec',['../../base/namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
   ['map',['map',['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
   ['mask',['mask',['../structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask()'],['../structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask()']]],
@@ -25,9 +26,8 @@ var searchData=
   ['memorysize',['memorySize',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a231caddff87b860c91232012fa2abf60',1,'Steinberg::MemoryStream']]],
   ['memorystream',['MemoryStream',['../../vstsdk/classSteinberg_1_1MemoryStream.html',1,'MemoryStream'],['../../vstsdk/classSteinberg_1_1MemoryStream.html#a28d4c334557e9abb58b418e80c709905',1,'Steinberg::MemoryStream::MemoryStream()'],['../../vstsdk/classSteinberg_1_1MemoryStream.html#a6bcbcbec3385623cdb252d1082ae5766',1,'Steinberg::MemoryStream::MemoryStream(void *memory, TSize memorySize)']]],
   ['memorystream_2eh',['memorystream.h',['../../vstsdk/memorystream_8h.html',1,'']]],
-  ['messageid',['messageId',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#a8abe39cab1a7ce414d4f4458eb57de66',1,'Steinberg::Vst::HostMessage']]],
-  ['midicc_5f0',['MIDICC_0',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#ac01a4b6f71eb3cf623897223cea2102da9804413280ca3d345c26aef19789dea2',1,'Steinberg::Vst::MPE']]],
-  ['midicc_5f127',['MIDICC_127',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#ac01a4b6f71eb3cf623897223cea2102dac54b75a3718ef2d9a20d4383520837fb',1,'Steinberg::Vst::MPE']]],
+  ['midicc_5f0',['MIDICC_0',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#a4d7f55bab4770c518fc51d11680376cea9804413280ca3d345c26aef19789dea2',1,'Steinberg::Vst::MPE']]],
+  ['midicc_5f127',['MIDICC_127',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#a4d7f55bab4770c518fc51d11680376ceac54b75a3718ef2d9a20d4383520837fb',1,'Steinberg::Vst::MPE']]],
   ['midiccout',['midiCCOut',['../structSteinberg_1_1Vst_1_1Event.html#a3f45fbed968cf574aa1f9b859f0a0972',1,'Steinberg::Vst::Event']]],
   ['midiio',['MidiIO',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html',1,'Steinberg::Vst::InterAppAudio']]],
   ['midiio_2eh',['MidiIO.h',['../../vstsdk/MidiIO_8h.html',1,'']]],
@@ -51,7 +51,6 @@ var searchData=
   ['moutpos',['mOutPos',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['mpeprocessor_2ecpp',['mpeprocessor.cpp',['../../vstsdk/mpeprocessor_8cpp.html',1,'']]],
   ['mpeprocessor_2eh',['mpeprocessor.h',['../../vstsdk/mpeprocessor_8h.html',1,'']]],
-  ['mpluginterfacesupport',['mPlugInterfaceSupport',['../../vstsdk/classSteinberg_1_1Vst_1_1HostApplication.html#a5552f3d766a2708d4f59dc2ca9865dc9',1,'Steinberg::Vst::HostApplication']]],
   ['multiply',['multiply',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Algo.html#aca95440bf753e70fe7a8a00d95e83f9a',1,'Steinberg::Vst::Algo']]],
   ['multiply32',['multiply32',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Algo.html#ab0290cfe659c7a4de89c7ef45af643a5',1,'Steinberg::Vst::Algo']]],
   ['multiply64',['multiply64',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1Algo.html#ac727ec5263dbcfffe6796f9b5012fcea',1,'Steinberg::Vst::Algo']]]

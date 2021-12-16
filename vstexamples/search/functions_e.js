@@ -12,6 +12,7 @@ var searchData=
   ['needtempo',['needTempo',['../../vstsdk/classSteinberg_1_1Vst_1_1ProcessContextRequirements.html#a3a7e1cb0ed09b2ba7de35de90b28503a',1,'Steinberg::Vst::ProcessContextRequirements']]],
   ['needtimesignature',['needTimeSignature',['../../vstsdk/classSteinberg_1_1Vst_1_1ProcessContextRequirements.html#a3fd826fdc1672063bd03036f040e95c2',1,'Steinberg::Vst::ProcessContextRequirements']]],
   ['needtransportstate',['needTransportState',['../../vstsdk/classSteinberg_1_1Vst_1_1ProcessContextRequirements.html#af67eb8f2a635daf77e223d665d57bfd4',1,'Steinberg::Vst::ProcessContextRequirements']]],
+  ['nondestroyable',['NonDestroyable',['../../base/structSteinberg_1_1FUnknownImpl_1_1Detail_1_1NonDestroyable.html#ae8627327f20374cb0bfcdc022abd1dc3',1,'Steinberg::FUnknownImpl::Detail::NonDestroyable']]],
   ['normalizealpha',['NormalizeAlpha',['../../base/namespaceSteinberg.html#a3e48f70b4cb563c93848c357efc48efd',1,'Steinberg']]],
   ['normalizecolorcomponent',['NormalizeColorComponent',['../../base/namespaceSteinberg.html#afd838e124bec32788d0ec8efafe64a7e',1,'Steinberg']]],
   ['normalizedlevel2gain',['normalizedLevel2Gain',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics.html#aa6650e33a573e54abe697f01ed01249a',1,'Steinberg::Vst::NoteExpressionSynth::VoiceStatics']]],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a7626a5782256050a2dcd505261fcd915":[2,0,0,0,3,46,0],
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a7d8b427caad7ea743aa02ad0dc6d9c19":[2,0,0,0,3,46,12],
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#a8085a7b84f8111437dc96a7ff2982174":[2,0,0,0,3,46,3],
 "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html#aa084e662d2aff5db442827079a5e0dc4":[2,0,0,0,3,46,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "classSteinberg_1_1Vst_1_1mda_1_1StereoController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,0,3,63,5],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html":[2,0,0,0,3,64],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a00a332249e4d58732f3e201c8319c80b":[2,0,0,0,3,64,14],
-"classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a04ce053e4cd48d3cf10e0128c0484738":[2,0,0,0,3,64,18],
-"classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a198c465c948bd262682a0109e9d16378":[2,0,0,0,3,64,15]
+"classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a04ce053e4cd48d3cf10e0128c0484738":[2,0,0,0,3,64,18]
 };

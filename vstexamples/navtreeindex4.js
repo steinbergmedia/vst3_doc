@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#af886660e87d29c40f1ca26f5fe065ad3":[2,0,0,0,3,9,16],
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#af982a2d79e0dcb4d986aeb3e68181f78":[2,0,0,0,3,9,27],
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#afa761c0753ecc94346e155a39bd9ed9c":[2,0,0,0,3,9,32],
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#afbc91e345f0196f41e0dcb13785b15eb":[2,0,0,0,3,9,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a6d2a1929151bc7086c493054f3a7be85a9d66ddaf312a7a2580a3624fc05860f8":[2,0,0,0,3,20,0,0],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a6d2a1929151bc7086c493054f3a7be85aeb9693d3c556e5f379ad76ced92aec7f":[2,0,0,0,3,20,0,6],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55":[2,0,0,0,3,20,0,7],
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,0,3,20,5],
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#aa086360ffdd9c243a84fceffbee7933b":[2,0,0,0,3,20,1]
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,0,3,20,5]
 };

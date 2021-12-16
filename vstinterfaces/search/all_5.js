@@ -36,5 +36,6 @@ var searchData=
   ['eventoutputs',['eventOutputs',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::Component::eventOutputs()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a1e151e29e2577021dc53a0cde954fa13',1,'Steinberg::Vst::SingleComponentEffect::eventOutputs()']]],
   ['events',['events',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15',1,'Steinberg::Vst::EventList']]],
   ['eventtypes',['EventTypes',['../structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8',1,'Steinberg::Vst::Event']]],
-  ['executemenuitem',['executeMenuItem',['../classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]]
+  ['executemenuitem',['executeMenuItem',['../classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]],
+  ['extends',['Extends',['../../base/namespaceSteinberg_1_1FUnknownImpl.html#ad7c3d8fc183de6c65cb7209c4edda8a7',1,'Steinberg::FUnknownImpl']]]
 ];

@@ -100,26 +100,37 @@ $(document).ready(function(){initNavTree('structSteinberg_1_1Vst_1_1MPE_1_1Handl
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ab00d23bfb33f9ace1fe1eb82eccb9021"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ab00d23bfb33f9ace1fe1eb82eccb9021">generateNewNoteID</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> &amp;outNoteID)=0</td></tr>
+<tr class="memdesc:ab00d23bfb33f9ace1fe1eb82eccb9021"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate a new noteID.  <a href="#ab00d23bfb33f9ace1fe1eb82eccb9021">More...</a><br /></td></tr>
 <tr class="separator:ab00d23bfb33f9ace1fe1eb82eccb9021"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab72ae80ca3392ecc1881c7257616d542"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ab72ae80ca3392ecc1881c7257616d542">releaseNoteID</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> noteID)=0</td></tr>
+<tr class="memdesc:ab72ae80ca3392ecc1881c7257616d542"><td class="mdescLeft">&#160;</td><td class="mdescRight">Release a noteID.  <a href="#ab72ae80ca3392ecc1881c7257616d542">More...</a><br /></td></tr>
 <tr class="separator:ab72ae80ca3392ecc1881c7257616d542"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae75326548a8cd4691e9d180f3336128c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ae75326548a8cd4691e9d180f3336128c">onMPENoteOn</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> noteID, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44">Pitch</a> pitch, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a7c60eb3978177e5b1583e38914401ec9">Velocity</a> velocity)=0</td></tr>
+<tr class="memdesc:ae75326548a8cd4691e9d180f3336128c"><td class="mdescLeft">&#160;</td><td class="mdescRight">A note on was transmitted.  <a href="#ae75326548a8cd4691e9d180f3336128c">More...</a><br /></td></tr>
 <tr class="separator:ae75326548a8cd4691e9d180f3336128c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8365b6253920f650edfc1c6b06f7b83a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a8365b6253920f650edfc1c6b06f7b83a">onMPENoteOff</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> noteID, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44">Pitch</a> pitch, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a7c60eb3978177e5b1583e38914401ec9">Velocity</a> velocity)=0</td></tr>
+<tr class="memdesc:a8365b6253920f650edfc1c6b06f7b83a"><td class="mdescLeft">&#160;</td><td class="mdescRight">A note off was transmitted.  <a href="#a8365b6253920f650edfc1c6b06f7b83a">More...</a><br /></td></tr>
 <tr class="separator:a8365b6253920f650edfc1c6b06f7b83a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad3cae99a3b0f3c48c4e130b2683fe7d7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ad3cae99a3b0f3c48c4e130b2683fe7d7">onMPEControllerChange</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> noteID, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a6ca93caffa508f4eabf18585d3710d0f">Controller</a> cc, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab38d25bdae264eebd969558d1a01425b">NormalizedValue</a> value)=0</td></tr>
+<tr class="memitem:ad3cae99a3b0f3c48c4e130b2683fe7d7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ad3cae99a3b0f3c48c4e130b2683fe7d7">onMPEControllerChange</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab4311216475ec4d94c471bb87ed1721e">NoteID</a> noteID, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a4c50a079c1d1540bd8a979d731211afa">Controller</a> cc, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#ab38d25bdae264eebd969558d1a01425b">NormalizedValue</a> value)=0</td></tr>
+<tr class="memdesc:ad3cae99a3b0f3c48c4e130b2683fe7d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">A new per note controller change was transmitted.  <a href="#ad3cae99a3b0f3c48c4e130b2683fe7d7">More...</a><br /></td></tr>
 <tr class="separator:ad3cae99a3b0f3c48c4e130b2683fe7d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab114d9b3e4dcb77d347bfa25d27e3505"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ab114d9b3e4dcb77d347bfa25d27e3505">onOtherInput</a> (const uint8_t *data, size_t dataSize)=0</td></tr>
+<tr class="memdesc:ab114d9b3e4dcb77d347bfa25d27e3505"><td class="mdescLeft">&#160;</td><td class="mdescRight">Non <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> MIDI input data was transmitted.  <a href="#ab114d9b3e4dcb77d347bfa25d27e3505">More...</a><br /></td></tr>
 <tr class="separator:ab114d9b3e4dcb77d347bfa25d27e3505"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae71ee8e0e21127437391260e729c309f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ae71ee8e0e21127437391260e729c309f">onSysexInput</a> (const uint8_t *data, size_t dataSize)=0</td></tr>
+<tr class="memdesc:ae71ee8e0e21127437391260e729c309f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sysex MIDI data was transmitted.  <a href="#ae71ee8e0e21127437391260e729c309f">More...</a><br /></td></tr>
 <tr class="separator:ae71ee8e0e21127437391260e729c309f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a092dfa445ad7c29c6fdf6e8fb117c214"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a092dfa445ad7c29c6fdf6e8fb117c214">errorNoteDroppedBecauseNoNoteID</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44">Pitch</a> pitch)=0</td></tr>
+<tr class="memdesc:a092dfa445ad7c29c6fdf6e8fb117c214"><td class="mdescLeft">&#160;</td><td class="mdescRight">called when the handler did not return a new note ID  <a href="#a092dfa445ad7c29c6fdf6e8fb117c214">More...</a><br /></td></tr>
 <tr class="separator:a092dfa445ad7c29c6fdf6e8fb117c214"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8f4c22a418d62bbed85f287745b59da3"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a8f4c22a418d62bbed85f287745b59da3">errorNoteDroppedBecauseNoteStackFull</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a3e8994751b152f3d2c0b7af99d4bd825">Channel</a> channel, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44">Pitch</a> pitch)=0</td></tr>
+<tr class="memdesc:a8f4c22a418d62bbed85f287745b59da3"><td class="mdescLeft">&#160;</td><td class="mdescRight">the internal note stack for this channel is full, happens on too many note ons per channel  <a href="#a8f4c22a418d62bbed85f287745b59da3">More...</a><br /></td></tr>
 <tr class="separator:a8f4c22a418d62bbed85f287745b59da3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac443ae333486c3357ab67e5e3de7a320"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#ac443ae333486c3357ab67e5e3de7a320">errorNoteForNoteOffNotFound</a> (<a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a3e8994751b152f3d2c0b7af99d4bd825">Channel</a> channel, <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44">Pitch</a> pitch)=0</td></tr>
+<tr class="memdesc:ac443ae333486c3357ab67e5e3de7a320"><td class="mdescLeft">&#160;</td><td class="mdescRight">called when the internal data has no reference to this note off  <a href="#ac443ae333486c3357ab67e5e3de7a320">More...</a><br /></td></tr>
 <tr class="separator:ac443ae333486c3357ab67e5e3de7a320"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1916574e95c7c606b336e68f466c7000"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a1916574e95c7c606b336e68f466c7000">errorProgramChangeReceivedInMPEZone</a> ()=0</td></tr>
+<tr class="memdesc:a1916574e95c7c606b336e68f466c7000"><td class="mdescLeft">&#160;</td><td class="mdescRight">called when a program change was received inside the <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> zone which is a protocol violation  <a href="#a1916574e95c7c606b336e68f466c7000">More...</a><br /></td></tr>
 <tr class="separator:a1916574e95c7c606b336e68f466c7000"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -147,6 +158,10 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Generate a new noteID. </p>
+<p>called by the processor for a new NoteID. The handler has to make sure that the noteID is not used again until the releaseNoteID method is called. </p><pre class="fragment">@param outNoteID on return contains the new noteID if this call succeed
+@return true if outNoteID was filled with a new noteID
+</pre> 
 </div>
 </div>
 <a id="ab72ae80ca3392ecc1881c7257616d542"></a>
@@ -172,6 +187,15 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Release a noteID. </p>
+<p>called by the processor when the NoteID is no longer used.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">noteID</td><td>the noteID not longer in use </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -215,6 +239,16 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>A note on was transmitted. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">noteID</td><td>unique note identifier </td></tr>
+    <tr><td class="paramname">pitch</td><td>note pitch </td></tr>
+    <tr><td class="paramname">velocity</td><td>note on velocity </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="a8365b6253920f650edfc1c6b06f7b83a"></a>
@@ -257,6 +291,16 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>A note off was transmitted. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">noteID</td><td>unique note identifier </td></tr>
+    <tr><td class="paramname">pitch</td><td>note pitch </td></tr>
+    <tr><td class="paramname">velocity</td><td>note off velocity </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="ad3cae99a3b0f3c48c4e130b2683fe7d7"></a>
@@ -277,7 +321,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a6ca93caffa508f4eabf18585d3710d0f">Controller</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html#a4c50a079c1d1540bd8a979d731211afa">Controller</a>&#160;</td>
           <td class="paramname"><em>cc</em>, </td>
         </tr>
         <tr>
@@ -298,6 +342,16 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>A new per note controller change was transmitted. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">noteID</td><td>unique note identifier </td></tr>
+    <tr><td class="paramname">cc</td><td>the MIDI controller which changed </td></tr>
+    <tr><td class="paramname">value</td><td>the value of the change in the range [0..1] </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -335,6 +389,15 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Non <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> MIDI input data was transmitted. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>MIDI data buffer </td></tr>
+    <tr><td class="paramname">dataSize</td><td>size of the MIDI data buffer in bytes </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="ae71ee8e0e21127437391260e729c309f"></a>
@@ -371,6 +434,15 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Sysex MIDI data was transmitted. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>Sysex data buffer </td></tr>
+    <tr><td class="paramname">dataSize</td><td>size of sysex data buffer in bytes </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="a092dfa445ad7c29c6fdf6e8fb117c214"></a>
@@ -396,6 +468,8 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>called when the handler did not return a new note ID </p>
 
 </div>
 </div>
@@ -433,6 +507,8 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>the internal note stack for this channel is full, happens on too many note ons per channel </p>
+
 </div>
 </div>
 <a id="ac443ae333486c3357ab67e5e3de7a320"></a>
@@ -469,6 +545,8 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>called when the internal data has no reference to this note off </p>
+
 </div>
 </div>
 <a id="a1916574e95c7c606b336e68f466c7000"></a>
@@ -493,6 +571,8 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>called when a program change was received inside the <a class="el" href="namespaceSteinberg_1_1Vst_1_1MPE.html">MPE</a> zone which is a protocol violation </p>
 
 </div>
 </div>

@@ -1,5 +1,9 @@
 var NAVTREEINDEX12 =
 {
+"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a5e08b56cf242bca747e71a1db6d3e44d":[3,0,198,22],
+"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a64027d24fafda77fee5484965c2a1f54":[3,0,198,16],
+"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a6f57b4500838eed6d28cb3d0a18c2eac":[3,0,198,14],
+"note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a763d2b0b998e0befac498a6f85fb4586":[3,0,198,21],
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a77d924fdebf79683bacdc950e8d97927":[3,0,198,13],
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a90c528610d766ac690f4bdc610b54263":[3,0,198,19],
 "note__expression__synth__controller_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a91f1716d5c6095299340b475b63dce2b":[3,0,198,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX12 =
 "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aa98fea17674bef3e67fbd014da075008":[2,0,0,0,3,27,1,2],
 "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a":[2,0,0,0,3,27,1,3],
 "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#ab3b0edc273e86e845c8bce27fad19fdd":[2,0,0,0,3,27,1,6],
-"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#ae591e08d901fc29680f78da34dbb2668":[2,0,0,0,3,27,1,10],
-"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aeb512f25d6c2de2da169568b97c22958":[2,0,0,0,3,27,1,7],
-"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#af5c922cc1f7054edc9060d83074d7a8f":[2,0,0,0,3,27,1,5],
-"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#af83930995710ec3879b82a20eee02b57":[2,0,0,0,3,27,1,1],
-"structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html":[2,0,0,0,3,32,0]
+"structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#ae591e08d901fc29680f78da34dbb2668":[2,0,0,0,3,27,1,10]
 };

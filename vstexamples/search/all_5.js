@@ -80,6 +80,7 @@ var searchData=
   ['executemenuitem',['executeMenuItem',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IContextMenuTarget.html#a4a1e98d2d18ded53b636b7f36cb9f83f',1,'Steinberg::Vst::IContextMenuTarget']]],
   ['expo',['expo',['../classSteinberg_1_1Vst_1_1LogScale.html#a80421b87027aba8fe8a854b99080c633',1,'Steinberg::Vst::LogScale']]],
   ['expoinv',['expoInv',['../classSteinberg_1_1Vst_1_1LogScale.html#abc50abe8ae9ffa1c61dc23eed88b1335',1,'Steinberg::Vst::LogScale']]],
+  ['extends',['Extends',['../../base/namespaceSteinberg_1_1FUnknownImpl.html#ad7c3d8fc183de6c65cb7209c4edda8a7',1,'Steinberg::FUnknownImpl']]],
   ['extractcurrentinfo',['extractCurrentInfo',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#aedf0d687c00670ca351bd00b0b83f440',1,'Steinberg::Vst::HostCheckerController']]],
   ['usediids_2ecpp',['usediids.cpp',['../editorhost_2source_2usediids_8cpp.html',1,'']]]
 ];

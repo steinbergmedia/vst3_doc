@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a198c465c948bd262682a0109e9d16378":[2,0,0,0,3,64,15],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,0,3,64,4],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,0,3,64,7],
 "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,0,3,64,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "classVSTGUI_1_1NoteTouchController.html#ae184ac69ed767b0c43c94f63244a5b67":[2,0,1,1,16],
 "classVSTGUI_1_1NoteTouchController.html#aebae74569db42650b5f06a92c63a0550":[2,0,1,1,7],
 "classVSTGUI_1_1NoteTouchController.html#af189e77d3e17b324d02e6dec8ec97efb":[2,0,1,1,0],
-"classVSTGUI_1_1NoteTouchController.html#af52ff0312c90cc1c99a818202ff70d61":[2,0,1,1,1],
-"classVSTGUI_1_1PitchNamesDataBrowserSource.html":[2,0,1,2]
+"classVSTGUI_1_1NoteTouchController.html#af52ff0312c90cc1c99a818202ff70d61":[2,0,1,1,1]
 };

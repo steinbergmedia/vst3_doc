@@ -31,7 +31,6 @@ var hierarchy =
           ] ]
         ] ]
       ] ],
-      [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", null ],
       [ "PresetManager", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html", null ],
       [ "NoteExpressionType", "classSteinberg_1_1Vst_1_1NoteExpressionType.html", [
         [ "RangeNoteExpressionType", "classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html", null ]

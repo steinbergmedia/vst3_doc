@@ -2,6 +2,8 @@ var searchData=
 [
   ['iattrid',['IAttrID',['../../base/namespaceSteinberg.html#ae6eacc17e4382538d4af0d9993bc869a',1,'Steinberg']]],
   ['id',['ID',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IProgress.html#a7da93484ec5338cb5b7cfa586b2a4387',1,'Steinberg::Vst::IProgress']]],
+  ['implements',['Implements',['../../base/namespaceSteinberg_1_1FUnknownImpl.html#aa97fe0c3b9d688a3e43da776dec431c6',1,'Steinberg::FUnknownImpl']]],
+  ['implementsnondestroyable',['ImplementsNonDestroyable',['../../base/namespaceSteinberg_1_1FUnknownImpl.html#a33de2f2ebaac4a7bbc9853bd215136b6',1,'Steinberg::FUnknownImpl']]],
   ['indexmap',['IndexMap',['../classSteinberg_1_1Vst_1_1ParameterContainer.html#acc6c61f4d3ab4f9f73bcb86f5dde86ab',1,'Steinberg::Vst::ParameterContainer']]],
   ['initmodulefunc',['InitModuleFunc',['../module__win32_8cpp.html#a8a1e393b01e903bee13c2bdba15dcea5',1,'module_win32.cpp']]],
   ['int16',['int16',['../../base/namespaceSteinberg.html#a4355d16fcf9f644c9ac84293f0b1801f',1,'Steinberg']]],

@@ -1,6 +1,7 @@
 var fobject_8h =
 [
     [ "FObject", "classSteinberg_1_1FObject.html", "classSteinberg_1_1FObject" ],
+    [ "SMTG_DEPENDENCY_COUNT", "fobject_8h.html#acc5dd3332b6e78cc206fe66cdd96f347", null ],
     [ "SINGLETON", "fobject_8h.html#a69f2b09f8941011cb853819558eff4a7", null ],
     [ "OBJ_METHODS", "fobject_8h.html#a5a6e2365f969f95aee286638cf6164c7", null ],
     [ "REFCOUNT_METHODS", "fobject_8h.html#aebbb3846780fdaf18f8ee89b73ff149d", null ],

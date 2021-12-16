@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['uid',['UID',['../structSteinberg_1_1FUnknownImpl_1_1UID.html#abbc1f7733b828c49be96e8e9aeb3fe2d',1,'Steinberg::FUnknownImpl::UID']]],
+  ['unknowncast',['unknownCast',['../classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFb25833aad28d70bbd485c48835745987.html#aa3f2ae6d2286c0a7f3db7dad018240aa',1,'Steinberg::FUnknownImpl::ImplementsImpl&lt; BaseClass, Directly&lt; I, DirectIFs... &gt;, Indirectly&lt; IndirectIFs... &gt; &gt;']]],
   ['unqueue',['unqueue',['../classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568',1,'Steinberg::IAttributes']]],
   ['unregistereventhandler',['unregisterEventHandler',['../classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e',1,'Steinberg::Linux::IRunLoop']]],
   ['unregistertimer',['unregisterTimer',['../classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618',1,'Steinberg::Linux::IRunLoop']]],

@@ -8,6 +8,7 @@ var searchData=
   ['delay',['Delay',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a59bfd0438cb1c6514a34373f69437691',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['denormalizealpha',['DenormalizeAlpha',['../../base/namespaceSteinberg.html#acca20a890a507ef361864ea1f2914af1',1,'Steinberg']]],
   ['denormalizecolorcomponent',['DenormalizeColorComponent',['../../base/namespaceSteinberg.html#a2980404bf67477cd52e41e4c01ac06d0',1,'Steinberg']]],
+  ['destroy',['destroy',['../../base/structSteinberg_1_1FUnknownImpl_1_1Destroyer.html#a7dae24d8343a7da23399a3da74681a39',1,'Steinberg::FUnknownImpl::Destroyer']]],
   ['destroybuffers',['destroyBuffers',['../classSteinberg_1_1Vst_1_1HostProcessData.html#ac9368c70233f027934c6414975720e68',1,'Steinberg::Vst::HostProcessData']]],
   ['detachdata',['detachData',['../classSteinberg_1_1MemoryStream.html#a26a553e881945d805cc01edc52109dff',1,'Steinberg::MemoryStream']]],
   ['disableerrorui',['disableErrorUI',['../../base/classSteinberg_1_1IErrorContext.html#a6984fa8a3247acec65a270803e43bc84',1,'Steinberg::IErrorContext']]],

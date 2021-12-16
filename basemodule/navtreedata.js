@@ -70,8 +70,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classSteinberg_1_1FStreamer.html#a079a7a951eee3154e9e89808d02ecc3d",
-"fdebug_8h.html#a93c92efcb3b1c98a1ba51836017ebaad",
-"namespaces.html"
+"fdebug_8h.html#a81910a1b73bfa4f5ed5693dabb3ca055",
+"namespacemembers_type.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

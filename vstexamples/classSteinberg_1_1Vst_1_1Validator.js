@@ -20,6 +20,7 @@ var classSteinberg_1_1Vst_1_1Validator =
     [ "mPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1Validator.html#a5552f3d766a2708d4f59dc2ca9865dc9", null ],
     [ "numTestsFailed", "classSteinberg_1_1Vst_1_1Validator.html#a04333b79129a2a6fbeb8927dcdf9c361", null ],
     [ "numTestsPassed", "classSteinberg_1_1Vst_1_1Validator.html#ad88cf3c988d08f5f55d36e4394f489fd", null ],
+    [ "addErrorWarningTextToOutput", "classSteinberg_1_1Vst_1_1Validator.html#a2c773db003868abb1968b5bd9a9314c6", null ],
     [ "infoStream", "classSteinberg_1_1Vst_1_1Validator.html#a115212bd9693823b40af1f6df57b62fa", null ],
     [ "errorStream", "classSteinberg_1_1Vst_1_1Validator.html#a3f198a28958e6e2679a89877626ab60f", null ]
 ];

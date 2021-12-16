@@ -20,7 +20,7 @@ var searchData=
   ['channelbuffers64',['channelBuffers64',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a0bbcd9a3e75d01b547097c91f9f659cf',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['channelcount',['channelCount',['../../vstinterfaces/structSteinberg_1_1Vst_1_1BusInfo.html#ab22e24964d55652336d526a41e5a2309',1,'Steinberg::Vst::BusInfo::channelCount()'],['../../vstsdk/classSteinberg_1_1Vst_1_1EventBus.html#ab22e24964d55652336d526a41e5a2309',1,'Steinberg::Vst::EventBus::channelCount()']]],
   ['channelissilent',['channelIsSilent',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a138be4257cc2b70b25953871f323deb6',1,'Steinberg::Vst::TestDefaults']]],
-  ['channelpressure',['ChannelPressure',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#ac01a4b6f71eb3cf623897223cea2102da3711a2ce088455b63a78f9f8f5cfdb3e',1,'Steinberg::Vst::MPE']]],
+  ['channelpressure',['ChannelPressure',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1MPE.html#a4d7f55bab4770c518fc51d11680376cea3711a2ce088455b63a78f9f8f5cfdb3e',1,'Steinberg::Vst::MPE']]],
   ['character',['character',['../../base/structSteinberg_1_1KeyCode.html#ac6027d2dbb9ac08b3b6729341c0bcf8f',1,'Steinberg::KeyCode']]],
   ['chord',['chord',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Event.html#a990c632f42079b7d085d2b3747e2e919',1,'Steinberg::Vst::Event::chord()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a8a97acf6c5676d31de6ceac2483ecf3a',1,'Steinberg::Vst::ProcessContext::chord()']]],
   ['chordmask',['chordMask',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Chord.html#aeaf52509d7189fb85cfab0c24549bfce',1,'Steinberg::Vst::Chord']]],

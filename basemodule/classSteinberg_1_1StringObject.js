@@ -14,11 +14,5 @@ var classSteinberg_1_1StringObject =
     [ "take", "classSteinberg_1_1StringObject.html#a2a3d39e91980f4df193d928554ab07ba", null ],
     [ "isWideString", "classSteinberg_1_1StringObject.html#abe0c5776749310c92457109ed51ce23a", null ],
     [ "OBJ_METHODS", "classSteinberg_1_1StringObject.html#a6014978aa7395688bb87c6b744ec5ad5", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#ae2055bf8225e1ae1062abf2b2f63503c", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#a9762fc85a717c44f1772dfd1933894b1", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#a2d987a6d658b7e43497c9521ee809ea3", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#aa7694556e438408131523c949aeecdd0", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#a47163cdae5fe81ac503214ea71360686", null ],
-    [ "operator=", "classSteinberg_1_1StringObject.html#a0b5b8173bdf45815f7ed64ae5a4235a2", null ],
     [ "IString", "classSteinberg_1_1StringObject.html#af9fefcb94e70d8d3410e0593c1fc7753", null ]
 ];

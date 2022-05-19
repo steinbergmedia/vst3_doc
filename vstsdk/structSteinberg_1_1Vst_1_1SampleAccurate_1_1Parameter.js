@@ -10,9 +10,6 @@ var structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter =
     [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a0a1eb92e8f90285d812b91b9031be7bd", null ],
     [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a5b61aa805edb7e4190f0b5b5dc0164db", null ],
     [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a557ea2e975f87cea30f847dd5b204175", null ],
-    [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a3e33267a55d15dcba219a593b942d032", null ],
-    [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a5086389d26c920324b28468933d725c9", null ],
-    [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a20c921a0dc489eb5151d08a85ebc56c4", null ],
     [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a24114f6f1d82cd432747762041387fab", null ],
     [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#af0b2dabdd56b4ca5c9c54cc0af5e662d", null ],
     [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a054adb83b4c06aed15836ea7644de1a6", null ]

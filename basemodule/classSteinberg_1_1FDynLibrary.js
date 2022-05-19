@@ -6,6 +6,6 @@ var classSteinberg_1_1FDynLibrary =
     [ "getProcAddress", "classSteinberg_1_1FDynLibrary.html#a8060fef6fd902c5aeda63d7d1898e2ff", null ],
     [ "isLoaded", "classSteinberg_1_1FDynLibrary.html#a7ffa9fcfaa7e93495a34c760b8270731", null ],
     [ "unload", "classSteinberg_1_1FDynLibrary.html#a506a572d1bf8ada0f9a767c00e580f53", null ],
-    [ "getPlatformInstance", "classSteinberg_1_1FDynLibrary.html#afb23c99f552263593ee364f9c2c3b0b9", null ],
+    [ "getPlatformInstance", "classSteinberg_1_1FDynLibrary.html#a51db49946dc76430c7cc9dadd047caea", null ],
     [ "instance", "classSteinberg_1_1FDynLibrary.html#a65d5dd0c24f120a3b2c0b6d2e2038d58", null ]
 ];

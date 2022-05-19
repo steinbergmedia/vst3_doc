@@ -1,0 +1,4 @@
+<map id="HostAttributeList" name="HostAttributeList">
+<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IAttributeList.html" title="{IAttributeList\n|+ iid\l|+ setInt()\l+ getInt()\l+ setFloat()\l+ getFloat()\l+ setString()\l+ getString()\l+ setBinary()\l+ getBinary()\l}" alt="" coords="27,153,119,320"/>
+<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="14,5,133,105"/>
+</map>

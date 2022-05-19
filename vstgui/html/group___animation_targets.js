@@ -29,7 +29,7 @@ var group___animation_targets =
         [ "kPushInOutFromRight", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ae0cdb80cb8ea988326ebd2021d2cfed4a1a89515fe7df9612355b72a1f5fcf904", null ]
       ] ],
       [ "ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ab056dfd92492a3566d61f0e150d02ff2", null ],
-      [ "~ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a4c20d7db6b72ffdb82705a0fb73a5e2d", null ],
+      [ "~ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a6fe04fa52fe113dded8ddc6712af4173", null ],
       [ "animationFinished", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a493343a28af7a2d0e1394eafb5833556", null ],
       [ "animationStart", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ae5ca649137446f3c5f1b71a970dc666a", null ],
       [ "animationTick", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a6a8614a0c98b09caf311af9455d6c48a", null ],

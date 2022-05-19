@@ -1,7 +1,7 @@
 var hierarchy =
 [
     [ "BaseClass", null, [
-      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs... >, Indirectly< IndirectIFs... > >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFb25833aad28d70bbd485c48835745987.html", null ]
+      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs...>, Indirectly< IndirectIFs...> >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html", null ]
     ] ],
     [ "ConstStringTable", "classSteinberg_1_1ConstStringTable.html", null ],
     [ "Destroyer", "structSteinberg_1_1FUnknownImpl_1_1Destroyer.html", null ],
@@ -19,6 +19,7 @@ var hierarchy =
       [ "IPersistent", "classSteinberg_1_1IPersistent.html", null ],
       [ "IPlugFrame", "classSteinberg_1_1IPlugFrame.html", null ],
       [ "IPluginBase", "classSteinberg_1_1IPluginBase.html", null ],
+      [ "IPluginCompatibility", "classSteinberg_1_1IPluginCompatibility.html", null ],
       [ "IPluginFactory", "classSteinberg_1_1IPluginFactory.html", [
         [ "IPluginFactory2", "classSteinberg_1_1IPluginFactory2.html", [
           [ "IPluginFactory3", "classSteinberg_1_1IPluginFactory3.html", null ]
@@ -36,11 +37,13 @@ var hierarchy =
     ] ],
     [ "FVariant", "classSteinberg_1_1FVariant.html", null ],
     [ "I", null, [
-      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs... >, Indirectly< IndirectIFs... > >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFb25833aad28d70bbd485c48835745987.html", null ]
+      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs...>, Indirectly< IndirectIFs...> >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html", null ]
     ] ],
+    [ "ImplementsImpl< Base, D, I >", "classImplementsImpl.html", null ],
     [ "ImplementsImpl< Base, D, I >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl.html", null ],
-    [ "ImplementsImpl< Base, Indirectly< IndirectInterfaces... >, Directly< DirectInterfaces... > >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01Base_00_01Indirectly_3_01IndirectInterfaces9a4a5325b3bc049eba78ef3421c75dc0.html", null ],
+    [ "ImplementsImpl< Base, Indirectly< IndirectInterfaces...>, Directly< DirectInterfaces...> >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01Base_00_01Indirectly_3_01IndirectInterfaces763873a8ee2d629fad4aaf19816ccc89.html", null ],
     [ "Indirectly< T >", "structSteinberg_1_1FUnknownImpl_1_1Indirectly.html", null ],
+    [ "IPtr< T >", "classIPtr.html", null ],
     [ "IPtr< I >", "classSteinberg_1_1IPtr.html", [
       [ "FUnknownPtr< I >", "classSteinberg_1_1FUnknownPtr.html", null ],
       [ "OPtr< I >", "classSteinberg_1_1OPtr.html", null ]
@@ -61,6 +64,6 @@ var hierarchy =
     ] ],
     [ "ViewRect", "structSteinberg_1_1ViewRect.html", null ],
     [ "DirectIFs", null, [
-      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs... >, Indirectly< IndirectIFs... > >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFb25833aad28d70bbd485c48835745987.html", null ]
+      [ "ImplementsImpl< BaseClass, Directly< I, DirectIFs...>, Indirectly< IndirectIFs...> >", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html", null ]
     ] ]
 ];

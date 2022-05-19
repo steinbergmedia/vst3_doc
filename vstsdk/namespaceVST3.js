@@ -1,6 +1,8 @@
 var namespaceVST3 =
 [
     [ "Hosting", "namespaceVST3_1_1Hosting.html", "namespaceVST3_1_1Hosting" ],
+    [ "StringConvert", "namespaceVST3_1_1StringConvert.html", null ],
+    [ "IO", "namespaceVST3_1_1IO.html", null ],
     [ "Optional", "structVST3_1_1Optional.html", "structVST3_1_1Optional" ],
     [ "UID", "structVST3_1_1UID.html", "structVST3_1_1UID" ],
     [ "Version", "structVST3_1_1Version.html", "structVST3_1_1Version" ],

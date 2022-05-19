@@ -2,7 +2,7 @@ var class_v_s_t_g_u_i_1_1_output_stream =
 [
     [ "OutputStream", "class_v_s_t_g_u_i_1_1_output_stream.html#afad6a48e990bb0e5494cf8880255884d", null ],
     [ "~OutputStream", "class_v_s_t_g_u_i_1_1_output_stream.html#aaf88859f95910f0d5684254f7e2ec639", null ],
-    [ "getByteOrder", "class_v_s_t_g_u_i_1_1_output_stream.html#a3b48b4ce2b65c6b1cd686b80521ce0bf", null ],
+    [ "getByteOrder", "class_v_s_t_g_u_i_1_1_output_stream.html#aa40cddae4bd689e9738b8917f0d17991", null ],
     [ "operator<<", "class_v_s_t_g_u_i_1_1_output_stream.html#afb6212ff784281c037bd9751d5e99dc0", null ],
     [ "operator<<", "class_v_s_t_g_u_i_1_1_output_stream.html#ac22c53819e229e6e55b9b7848e469e9f", null ],
     [ "operator<<", "class_v_s_t_g_u_i_1_1_output_stream.html#a7314ab092c159c8b7a55fae9632fb8e0", null ],

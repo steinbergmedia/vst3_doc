@@ -33,7 +33,7 @@ var group__new__in__4__7 =
     ] ],
     [ "DragEventData", "struct_v_s_t_g_u_i_1_1_drag_event_data.html", [
       [ "drag", "struct_v_s_t_g_u_i_1_1_drag_event_data.html#a066e7aa04f1748286418a7082c1fedee", null ],
-      [ "modifiers", "struct_v_s_t_g_u_i_1_1_drag_event_data.html#a433f990fb3477642503cc8bd395bf649", null ],
+      [ "modifiers", "struct_v_s_t_g_u_i_1_1_drag_event_data.html#a42b465b57abcbac7a73dcc8cd147baed", null ],
       [ "pos", "struct_v_s_t_g_u_i_1_1_drag_event_data.html#afcfd14c96bd885b843a74fdf07114c0d", null ]
     ] ],
     [ "IDropTarget", "class_v_s_t_g_u_i_1_1_i_drop_target.html", [
@@ -69,28 +69,11 @@ var group__new__in__4__7 =
       [ "onDragMove", "class_v_s_t_g_u_i_1_1_drop_target_adapter.html#a8c945be511f69067ab1a57dc59bd9037", null ],
       [ "onDrop", "class_v_s_t_g_u_i_1_1_drop_target_adapter.html#a227c36505e0f68406a75c0c28aecb565", null ]
     ] ],
-    [ "IViewMouseListener", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html", [
-      [ "~IViewMouseListener", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#aed7bc4714ab96c03e298273820a09c26", null ],
-      [ "viewOnMouseCancel", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#ac711c2cd5fa9a44f860b4c0330c0c1db", null ],
-      [ "viewOnMouseDown", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#a33e51f0dfb9f718353a3455f07d9faab", null ],
-      [ "viewOnMouseEnabled", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#ae5d3445d69a1041130b8d453258f6a1e", null ],
-      [ "viewOnMouseEntered", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#ae95b3e7428c99a2b72f0f1c7c03a8431", null ],
-      [ "viewOnMouseExited", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#adcdff986e65121bd0016aa642090a4f1", null ],
-      [ "viewOnMouseMoved", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#ae24093c75ab6f32dbdb5c99aa32247e4", null ],
-      [ "viewOnMouseUp", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html#a494b9807e53631dadd168f1940d48610", null ]
-    ] ],
-    [ "ViewMouseListenerAdapter", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html", [
-      [ "viewOnMouseCancel", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a48b479a34f13dcddfd71611c7cd22b81", null ],
-      [ "viewOnMouseDown", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#acb0161eeb95e592598563dbbbc8828f8", null ],
-      [ "viewOnMouseEnabled", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a56ee02c569de1b96d399fc7625465ab5", null ],
-      [ "viewOnMouseEntered", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#ab1f6e6fb068ba0318d769220e4ee7e0f", null ],
-      [ "viewOnMouseExited", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a1a3a77830adc6b79a992947e9589a6dc", null ],
-      [ "viewOnMouseMoved", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a245695d91455039e62b73119b526e930", null ],
-      [ "viewOnMouseUp", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a97c057e108b8a5deb551afd09cc58f63", null ]
-    ] ],
     [ "DragOperation", "group__new__in__4__7.html#ga3cbd589c354a1539328b774d6ec68779", [
       [ "Copy", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a5fb63579fc981698f97d55bfecb213ea", null ],
       [ "Move", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6bc362dbf494c61ea117fe3c71ca48a5", null ],
       [ "None", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6adf97f83acf6453d4a6a4b1070f3754", null ]
-    ] ]
+    ] ],
+    [ "deprecated", "group__new__in__4__7.html#ga03f7f125f798852b8ee0c8fb952c3cda", null ],
+    [ "viewOnMouseUp", "group__new__in__4__7.html#gaf5b1db19bf784e98be785e3d4382fa68", null ]
 ];

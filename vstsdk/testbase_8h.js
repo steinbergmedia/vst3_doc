@@ -6,7 +6,7 @@ var testbase_8h =
     [ "TestEnh", "classSteinberg_1_1Vst_1_1TestEnh.html", "classSteinberg_1_1Vst_1_1TestEnh" ],
     [ "ParamPoint", "classSteinberg_1_1Vst_1_1ParamPoint.html", "classSteinberg_1_1Vst_1_1ParamPoint" ],
     [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html", "classSteinberg_1_1Vst_1_1ParamChanges" ],
-    [ "StringResult", "classSteinberg_1_1Vst_1_1StringResult.html", "classSteinberg_1_1Vst_1_1StringResult" ],
+    [ "StringResult", "exceptionSteinberg_1_1Vst_1_1StringResult.html", "exceptionSteinberg_1_1Vst_1_1StringResult" ],
     [ "DECLARE_VSTTEST", "testbase_8h.html#a23f4ad9728f7038aeac2897684bcc326", null ],
     [ "ProcessSampleSize", "testbase_8h.html#aaee256cc21f2275ca1d2faf08027a337", null ],
     [ "addMessage", "testbase_8h.html#a8625885fbaf994689ee9a6b642d59578", null ],

@@ -20,7 +20,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1BaseController =
     [ "getMidiControllerAssignment", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a0c25846cfb4cee3a28d6446c4f324877", null ],
     [ "getParameters", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a1ab3531dda4715c32544c69d4cb06d0f", null ],
     [ "DELEGATE_REFCOUNT", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a579f67d43479032fad177c903cad9a49", null ],
-    [ "getSampleRate", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#ab6597e05f5085eb723517723e5c5bbed", null ],
+    [ "getSampleRate", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a7038d21b7871588b7fd082629d56d4e9", null ],
     [ "SMTG_OVERRIDE", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a985dc60099827f0160cf03e294e3989b", null ],
     [ "midiCCParamID", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a9d308272407ba5f7a6768604ff716e47", null ],
     [ "sampleRate", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a2bd79d2ab2dfb6aeaf75c2878ad30e1f", null ],

@@ -6,7 +6,7 @@ var class_v_s_t_g_u_i_1_1_c_tooltip_support =
     [ "kShowing", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57ae7be90458ee55762b2a6e4c7f1a05971", null ],
     [ "kForceVisible", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57aef378386dbcd9ca1b175531ada292957", null ],
     [ "CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a388f95f3803e59a5d44ad0c98539e80d", null ],
-    [ "~CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab16a522592a177c1a700745cfc381633", null ],
+    [ "~CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a87db2028c19dfa82f5e7e1d0cfb65e65", null ],
     [ "hideTooltip", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f", null ],
     [ "newCopy", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a4433ff4e66b32c32a4b90436e369ec39", null ],
     [ "notify", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ae620fd03d6fcdeab4fc7979004820cdf", null ],

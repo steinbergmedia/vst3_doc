@@ -1,4 +1,3 @@
 <map id="ProcessData" name="ProcessData">
-<area shape="rect" id="node1" title="Any data needed in audio processing." alt="" coords="14,5,187,225"/>
-<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1HostProcessData.html" title=" " alt="" coords="5,273,196,533"/>
+<area shape="rect" id="node2" href="vstsdk.tag$classSteinberg_1_1Vst_1_1HostProcessData.html" title="{HostProcessData\n|+ kAllChannelsSilent\l# channelBufferOwner\l|+ HostProcessData()\l+ ~HostProcessData()\l+ prepare()\l+ unprepare()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffers()\l+ setChannelBuffers64()\l+ setChannelBuffer()\l+ setChannelBuffer64()\l# createBuffers()\l# destroyBuffers()\l# checkIfReallocationNeeded()\l# isValidBus()\l}" alt="" coords="5,273,196,533"/>
 </map>

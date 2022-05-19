@@ -22,7 +22,7 @@ var class_v_s_t_g_u_i_1_1_i_data_browser_delegate =
     [ "dbOnDragExitCell", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a940a1de846c8ff811842763ac26954a0", null ],
     [ "dbOnDragMoveInCell", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a76d6c91d95afc30a6669679154070703", null ],
     [ "dbOnDropInCell", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a64b10961498e8f399960f7d242e0ad19", null ],
-    [ "dbOnKeyDown", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7b2760d6e554fd9cfc398e1d7d9764f1", null ],
+    [ "dbOnKeyboardEvent", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#ac19a3cd6ba2236e407d0a96ddddf7caf", null ],
     [ "dbOnMouseDown", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a897d8d4e220353961ec11b90d99405c6", null ],
     [ "dbOnMouseMoved", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a910b6f3c179560e30dde6b4b9538aa02", null ],
     [ "dbOnMouseUp", "class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a98a65d67a48ccf1295d5d6cdd9282173", null ],

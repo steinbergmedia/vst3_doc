@@ -1,4 +1,3 @@
 <map id="VSTInterAppAudioAppDelegate" name="VSTInterAppAudioAppDelegate">
-<area shape="rect" id="node1" title=" " alt="" coords="19,247,214,320"/>
-<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$interfaceVSTInterAppAudioAppDelegateBase.html" title=" " alt="" coords="5,5,228,199"/>
+<area shape="rect" id="node2" href="vstsdk.tag$interfaceVSTInterAppAudioAppDelegateBase.html" title="{VSTInterAppAudioAppDelegateBase\n|+ window\l|+ application:willFinishLaunching\lWithOptions:\l+ application:didFinishLaunching\lWithOptions:\l+ application:shouldSaveApplication\lState:\l+ application:shouldRestore\lApplicationState:\l+ applicationDidBecomeActive:\l+ applicationWillResignActive:\l}" alt="" coords="5,5,228,199"/>
 </map>

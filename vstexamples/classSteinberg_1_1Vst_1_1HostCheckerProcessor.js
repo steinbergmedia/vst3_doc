@@ -34,6 +34,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
     [ "mLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aebb3bc994a79d305c48d82da0b14d437", null ],
     [ "mWantedLatency", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aed02d7ec62e586feebfa60bfbf6d46a9", null ],
     [ "mGeneratePeaks", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ad73b751920c09df1e9a2fd1ec37286c2", null ],
+    [ "mProcessingLoad", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a3421da6fe5c880d8883071d8f07fcc38", null ],
     [ "mCurrentState", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab6a0125edee61e33a460612e9c124e5d", null ],
     [ "mMinimumOfInputBufferCount", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a38897792d7e5b40cf6b1281ce8f9e587", null ],
     [ "mMinimumOfOutputBufferCount", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a8d173fe27c3c33e86138be563a23cfe4", null ],

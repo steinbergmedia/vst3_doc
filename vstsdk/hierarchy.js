@@ -67,7 +67,7 @@ var hierarchy =
         [ "CPluginView", "classSteinberg_1_1CPluginView.html", null ]
       ] ],
       [ "IStringResult", "../base/classSteinberg_1_1IStringResult.html", [
-        [ "StringResult", "classSteinberg_1_1Vst_1_1StringResult.html", null ]
+        [ "StringResult", "exceptionSteinberg_1_1Vst_1_1StringResult.html", null ]
       ] ],
       [ "ITest", "../vstinterfaces/classSteinberg_1_1ITest.html", [
         [ "TestBase", "classSteinberg_1_1Vst_1_1TestBase.html", [
@@ -75,7 +75,7 @@ var hierarchy =
         ] ]
       ] ],
       [ "IAttributeList", "../vstinterfaces/classSteinberg_1_1Vst_1_1IAttributeList.html", [
-        [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", null ]
+        [ "HostAttributeList", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html", null ]
       ] ],
       [ "IAudioProcessor", "../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioProcessor.html", [
         [ "AudioEffect", "classSteinberg_1_1Vst_1_1AudioEffect.html", null ],
@@ -98,7 +98,7 @@ var hierarchy =
         [ "PresetManager", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html", null ]
       ] ],
       [ "IMessage", "../vstinterfaces/classSteinberg_1_1Vst_1_1IMessage.html", [
-        [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", null ]
+        [ "HostMessage", "exceptionSteinberg_1_1Vst_1_1HostMessage.html", null ]
       ] ],
       [ "IParameterChanges", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterChanges.html", [
         [ "ParameterChanges", "classSteinberg_1_1Vst_1_1ParameterChanges.html", null ]
@@ -154,7 +154,7 @@ var hierarchy =
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]
     ] ],
     [ "UID", "structVST3_1_1UID.html", null ],
-    [ "UIResponder", null, [
+    [ "<UIResponder>", null, [
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]
     ] ],
     [ "vector", null, [

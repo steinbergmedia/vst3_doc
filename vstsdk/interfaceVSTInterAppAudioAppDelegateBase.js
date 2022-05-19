@@ -1,9 +1,9 @@
 var interfaceVSTInterAppAudioAppDelegateBase =
 [
-    [ "application:willFinishLaunchingWithOptions:", "interfaceVSTInterAppAudioAppDelegateBase.html#a2a02ae3ce93ed3f98f192402a89aa9cd", null ],
-    [ "application:didFinishLaunchingWithOptions:", "interfaceVSTInterAppAudioAppDelegateBase.html#a76689dcc1b2beb987ee1c6b7da0d5085", null ],
-    [ "application:shouldSaveApplicationState:", "interfaceVSTInterAppAudioAppDelegateBase.html#abc80620e8fd4e512c577c1af6cab9b1c", null ],
-    [ "application:shouldRestoreApplicationState:", "interfaceVSTInterAppAudioAppDelegateBase.html#a8bdb1409923b3374be97cddab0516a90", null ],
+    [ "application:willFinishLaunchingWithOptions:", "interfaceVSTInterAppAudioAppDelegateBase.html#aa189d4957e1d4bbe127f14532277ecad", null ],
+    [ "application:didFinishLaunchingWithOptions:", "interfaceVSTInterAppAudioAppDelegateBase.html#af02564ed60997f25d5140e48a12124a7", null ],
+    [ "application:shouldSaveApplicationState:", "interfaceVSTInterAppAudioAppDelegateBase.html#a2743b0f5024f10421664ac7180dee4fc", null ],
+    [ "application:shouldRestoreApplicationState:", "interfaceVSTInterAppAudioAppDelegateBase.html#abcb1cbedc961935b6c89523a4132889b", null ],
     [ "applicationDidBecomeActive:", "interfaceVSTInterAppAudioAppDelegateBase.html#adf97fa0e5331aac60fe36b12f941f922", null ],
     [ "applicationWillResignActive:", "interfaceVSTInterAppAudioAppDelegateBase.html#a793b11175139359dcbf46cea5c0c5140", null ],
     [ "window", "interfaceVSTInterAppAudioAppDelegateBase.html#ae04748cdefebda525b266731b6c120a2", null ]

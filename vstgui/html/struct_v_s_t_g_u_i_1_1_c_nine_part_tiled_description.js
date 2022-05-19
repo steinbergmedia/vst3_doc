@@ -12,7 +12,7 @@ var struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description =
     [ "kPartCount", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#a06fc87d81c62e9abb8790b6e5713c55baccfe2a28af1ac7408112cd94cc98170e", null ],
     [ "CNinePartTiledDescription", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#a380fcbe9a66990c770c45f6267f042b6", null ],
     [ "CNinePartTiledDescription", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#abc7fe7b4d94042404b4de689dd81900b", null ],
-    [ "calcRects", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#aafbc7c1ed924af7b6a7f53f8537d6d3d", null ],
+    [ "calcRects", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#a586ee003cbbfaa6ddaf89c3730994d1e", null ],
     [ "bottom", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#abe1a31a1289c1f9956f7c709131e751b", null ],
     [ "left", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#adf0ec7e92fb6d2a2869032e453635ed6", null ],
     [ "right", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#ab8edaaabbcd8b7771cf213920e8b8965", null ],

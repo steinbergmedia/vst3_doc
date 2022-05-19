@@ -1,8 +1,7 @@
 <map id="IComponent" name="IComponent">
-<area shape="rect" id="node1" title="Component base interface: Vst::IComponent." alt="" coords="125,288,277,468"/>
-<area shape="rect" id="node4" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Component.html" title=" " alt="" coords="26,536,179,783"/>
-<area shape="rect" id="node6" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="204,516,399,803"/>
-<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="156,153,247,240"/>
-<area shape="rect" id="node3" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="142,5,261,105"/>
-<area shape="rect" id="node5" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title=" " alt="" coords="5,851,200,1057"/>
+<area shape="rect" id="node4" href="vstsdk.tag$classSteinberg_1_1Vst_1_1Component.html" title="{Component\n||}" alt="" coords="59,623,146,696"/>
+<area shape="rect" id="node6" href="vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title="{SingleComponentEffect\n|+ SMTG_OVERRIDE\l+ processSetup\l+ processContextRequirements\l+ audioInputs\l+ audioOutputs\l+ eventInputs\l+ eventOutputs\l|+ SingleComponentEffect()\l+ ~SingleComponentEffect()\l+ initialize()\l+ terminate()\l+ getControllerClassId()\l+ setIoMode()\l+ getBusCount()\l+ getBusInfo()\l+ getRoutingInfo()\l+ activateBus()\land 20 more...\l}" alt="" coords="171,516,365,803"/>
+<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1IPluginBase.html" title="{IPluginBase\n|+ iid\l|+ initialize()\l+ terminate()\l}" alt="" coords="140,153,231,240"/>
+<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="126,5,245,105"/>
+<area shape="rect" id="node5" href="vstsdk.tag$classSteinberg_1_1Vst_1_1AudioEffect.html" title="{AudioEffect\n|+ processContextRequirements\l+ audioInputs\l+ audioOutputs\l+ eventInputs\l+ eventOutputs\l+ peerConnection\l|+ AudioEffect()\l+ addAudioInput()\l+ addAudioOutput()\l+ getAudioInput()\l+ getAudioOutput()\l+ addEventInput()\l+ addEventOutput()\l+ getEventInput()\l+ getEventOutput()\l+ setBusArrangements()\land 41 more...\l}" alt="" coords="5,851,200,1124"/>
 </map>

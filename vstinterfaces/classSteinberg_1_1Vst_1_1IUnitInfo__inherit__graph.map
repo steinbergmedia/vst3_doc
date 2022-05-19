@@ -1,6 +1,5 @@
 <map id="IUnitInfo" name="IUnitInfo">
-<area shape="rect" id="node1" title="Edit controller extension to describe the plug&#45;in structure: Vst::IUnitInfo." alt="" coords="16,153,189,373"/>
-<area shape="rect" id="node3" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="13,421,192,668"/>
-<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="43,5,162,105"/>
-<area shape="rect" id="node4" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title=" " alt="" coords="5,716,200,1003"/>
+<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title="{EditControllerEx1\n|+ units\l+ programLists\l+ programIndexMap\l+ selectedUnit\l|+ EditControllerEx1()\l+ ~EditControllerEx1()\l+ terminate()\l+ addUnit()\l+ addProgramList()\l+ getProgramList()\l+ notifyProgramListChange()\l+ getUnitCount()\l+ getUnitInfo()\l+ getProgramListCount()\land 12 more...\l}" alt="" coords="13,421,192,668"/>
+<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="43,5,162,105"/>
+<area shape="rect" id="node4" href="vstsdk.tag$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title="{SingleComponentEffect\n|+ SMTG_OVERRIDE\l+ processSetup\l+ processContextRequirements\l+ audioInputs\l+ audioOutputs\l+ eventInputs\l+ eventOutputs\l|+ SingleComponentEffect()\l+ ~SingleComponentEffect()\l+ initialize()\l+ terminate()\l+ getControllerClassId()\l+ setIoMode()\l+ getBusCount()\l+ getBusInfo()\l+ getRoutingInfo()\l+ activateBus()\land 20 more...\l}" alt="" coords="5,716,200,1003"/>
 </map>

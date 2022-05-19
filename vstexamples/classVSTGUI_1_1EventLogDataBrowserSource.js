@@ -1,6 +1,6 @@
 var classVSTGUI_1_1EventLogDataBrowserSource =
 [
-    [ "LogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#a917ffbaa6f83813a5db5c18b8af39b0a", null ],
+    [ "LogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#a8dab41cfdfbe6a966f48e5217c46f94d", null ],
     [ "eColoumns", "classVSTGUI_1_1EventLogDataBrowserSource.html#a630db3b24057ec4478d3730b8b71e1b9", [
       [ "kType", "classVSTGUI_1_1EventLogDataBrowserSource.html#a630db3b24057ec4478d3730b8b71e1b9a627a1403971fae97cd3e3602051b1051", null ],
       [ "kDescription", "classVSTGUI_1_1EventLogDataBrowserSource.html#a630db3b24057ec4478d3730b8b71e1b9a0a0329a1f39b9a7927086db547823b30", null ],
@@ -26,6 +26,6 @@ var classVSTGUI_1_1EventLogDataBrowserSource =
     [ "dbCellSetupTextEdit", "classVSTGUI_1_1EventLogDataBrowserSource.html#ac561d1c14dc1ad9dbf655b62c608f937", null ],
     [ "dbOnKeyDown", "classVSTGUI_1_1EventLogDataBrowserSource.html#af9a9c3ab456206ddd45c4df67fa84e39", null ],
     [ "updateLog", "classVSTGUI_1_1EventLogDataBrowserSource.html#ac133b1fd887b69e33317ce08f3230dd9", null ],
-    [ "getLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#aa6477506b359f7bd5df584419196f189", null ],
+    [ "getLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#af4184aec4b87bb83e026ae346eb81d14", null ],
     [ "mLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#abde7a8563e0588638005573e0aace4ae", null ]
 ];

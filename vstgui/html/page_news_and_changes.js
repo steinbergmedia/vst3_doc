@@ -2,6 +2,7 @@ var page_news_and_changes =
 [
     [ "Introduction", "page_news_and_changes.html#version4_introduction", null ],
     [ "New Stuff", "page_news_and_changes.html#new_stuff", [
+      [ "Version 4.11", "page_news_and_changes.html#version4_11", null ],
       [ "Version 4.10", "page_news_and_changes.html#version4_10", null ],
       [ "Version 4.9", "page_news_and_changes.html#version4_9", null ],
       [ "Version 4.8", "page_news_and_changes.html#version4_8", null ],
@@ -15,6 +16,7 @@ var page_news_and_changes =
       [ "Version 4.0", "page_news_and_changes.html#version4_0", null ]
     ] ],
     [ "Changes for existing VSTGUI code", "page_news_and_changes.html#code_changes", [
+      [ "VSTGUI 4.10 -> VSTGUI 4.11", "page_news_and_changes.html#code_changes_4_10_to_4_11", null ],
       [ "VSTGUI 4.9 -> VSTGUI 4.10", "page_news_and_changes.html#code_changes_4_9_to_4_10", null ],
       [ "VSTGUI 4.8 -> VSTGUI 4.9", "page_news_and_changes.html#code_changes_4_8_to_4_9", null ],
       [ "VSTGUI 4.7 -> VSTGUI 4.8", "page_news_and_changes.html#code_changes_4_7_to_4_8", null ],
@@ -26,7 +28,6 @@ var page_news_and_changes =
       [ "VSTGUI 3.6 -> VSTGUI 4.0", "page_news_and_changes.html#code_changes_3_6_to_4_0", null ]
     ] ],
     [ "HiDPI notes", "page_news_and_changes.html#hidpi_support", null ],
-    [ "Cocoa notes", "page_news_and_changes.html#cocoa_support", null ],
     [ "iOS support notes", "page_news_and_changes.html#ios_support", null ],
     [ "New Stuff in VSTGUI 3.6 and earlier", "page_previous_new_stuff.html", [
       [ "New mouse methods", "page_previous_new_stuff.html#new_mouse_methods", null ],

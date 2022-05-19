@@ -1,10 +1,9 @@
 <map id="SyncDelayController" name="SyncDelayController">
-<area shape="rect" id="node1" title=" " alt="" coords="183,891,331,991"/>
-<area shape="rect" id="node2" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="168,596,347,843"/>
-<area shape="rect" id="node3" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ComponentBase.html" title=" " alt="" coords="5,301,144,548"/>
-<area shape="rect" id="node4" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="197,160,288,247"/>
-<area shape="rect" id="node7" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController.html" title=" " alt="" coords="168,308,347,541"/>
-<area shape="rect" id="node5" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="183,5,302,105"/>
-<area shape="rect" id="node6" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title=" " alt="" coords="43,153,159,253"/>
-<area shape="rect" id="node8" href="/Users/buildserver/Builddata/re/295942927/b/VST_SDK/vst3sdk/vst3_doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController2.html" title=" " alt="" coords="371,375,493,475"/>
+<area shape="rect" id="node2" href="vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title="{EditController\n|+ componentHandler2\l+ parameters\l+ hostKnobMode\l|+ EditController()\l+ setComponentState()\l+ setState()\l+ getState()\l+ getParameterCount()\l+ getParameterInfo()\l+ getParamStringByValue()\l+ getParamValueByString()\l+ normalizedParamToPlain()\l+ plainParamToNormalized()\land 22 more...\l+ getHostKnobMode()\l}" alt="" coords="144,583,323,829"/>
+<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1ComponentBase.html" title="{ComponentBase\n||}" alt="" coords="5,381,120,455"/>
+<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1IPluginBase.html" title="{IPluginBase\n|+ iid\l|+ initialize()\l+ terminate()\l}" alt="" coords="177,160,268,247"/>
+<area shape="rect" id="node7" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController.html" title="{IEditController\n|+ iid\l|+ setComponentState()\l+ setState()\l+ getState()\l+ getParameterCount()\l+ getParameterInfo()\l+ getParamStringByValue()\l+ getParamValueByString()\l+ normalizedParamToPlain()\l+ plainParamToNormalized()\l+ getParamNormalized()\l+ setParamNormalized()\l+ setComponentHandler()\l+ createView()\l}" alt="" coords="144,301,323,535"/>
+<area shape="rect" id="node5" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="163,5,282,105"/>
+<area shape="rect" id="node6" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title="{IConnectionPoint\n|+ iid\l|+ connect()\l+ disconnect()\l+ notify()\l}" alt="" coords="26,153,142,253"/>
+<area shape="rect" id="node8" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController2.html" title="{IEditController2\n|+ iid\l|+ setKnobMode()\l+ openHelp()\l+ openAboutBox()\l}" alt="" coords="347,368,469,468"/>
 </map>

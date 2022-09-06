@@ -34,7 +34,7 @@ var group__sdkBase =
       [ "canResize", "classSteinberg_1_1CPluginView.html#a0144570339d77dd0b571af3dbb7f73be", null ],
       [ "checkSizeConstraint", "classSteinberg_1_1CPluginView.html#ae6caee512822ff27cf93540d4c91479b", null ],
       [ "systemWindow", "classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd", null ],
-      [ "plugFrame", "classSteinberg_1_1CPluginView.html#a7083b1a69f4db7fd4cf2c69665d8b7ec", null ]
+      [ "plugFrame", "classSteinberg_1_1CPluginView.html#ad366faeb59eebfa2056587f3118e0a94", null ]
     ] ],
     [ "MemoryStream", "classSteinberg_1_1MemoryStream.html", [
       [ "MemoryStream", "classSteinberg_1_1MemoryStream.html#a28d4c334557e9abb58b418e80c709905", null ],

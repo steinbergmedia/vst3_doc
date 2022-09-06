@@ -21,6 +21,7 @@ var searchData=
   ['registeroptionmenulistener',['registerOptionMenuListener',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#a437ee3e951916eba12f4d953664c65b1',1,'VSTGUI::COptionMenu']]],
   ['registerproperty',['registerProperty',['../class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html#ac259fc1c6e9d709236e65be6b1fd52ae',1,'VSTGUI::BitmapFilter::FilterBase']]],
   ['registerscalefactorchangedlisteneer',['registerScaleFactorChangedListeneer',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a4731bf4d4e3436a3482ec9f2c82023eb',1,'VSTGUI::CFrame']]],
+  ['registerscalefactorchangedlistener',['registerScaleFactorChangedListener',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a4d77ab5870392e3b9b2ddae9a7e65c0e',1,'VSTGUI::CFrame']]],
   ['registerstandardfilters',['registerStandardFilters',['../namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a588d9cbbdc36173c5b633958c27d5eba',1,'VSTGUI::BitmapFilter::Standard']]],
   ['registertexteditlistener',['registerTextEditListener',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#a7bc50b8021e3cb3810f44501d33b681d',1,'VSTGUI::CTextEdit']]],
   ['registertextlabellistener',['registerTextLabelListener',['../class_v_s_t_g_u_i_1_1_c_text_label.html#a448ac20ab46ea2b8cb77e92c9dbabc31',1,'VSTGUI::CTextLabel']]],

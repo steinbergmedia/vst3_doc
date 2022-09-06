@@ -18,7 +18,7 @@ var funknown_8h =
     [ "IMPLEMENT_QUERYINTERFACE", "funknown_8h.html#a023a5c16eb6b8a0057d712343f9d752c", null ],
     [ "IMPLEMENT_FUNKNOWN_METHODS", "funknown_8h.html#a3131ec3273dc17d39bef17154309b893", null ],
     [ "LARGE_INT", "funknown_8h.html#a9cd1730908299276af7bc0baa8c5197e", null ],
-    [ "TUID", "funknown_8h.html#a32680add5f0b1c8a81e5b1c4cfe6a30c", null ],
+    [ "TUID", "funknown_8h.html#a6935af93744bfe4ecc455f274ef1ec36", null ],
     [ "kNoInterface", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba21f2c8af375a407ff9fb8d10e8e73a17", null ],
     [ "kResultOk", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba941549edbe23d0f21851403ae03ad4df", null ],
     [ "kResultTrue", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372", null ],

@@ -60,5 +60,5 @@ var searchData=
   ['switchcontroltag',['switchControlTag',['../class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a2e029a9fce7238628898d02d15a7da79',1,'VSTGUI::UIDescriptionViewSwitchController']]],
   ['symbolfont',['symbolFont',['../struct_v_s_t_g_u_i_1_1_global_fonts.html#ad3950c62dbda1b9f0c9a0a946ca1b7c3',1,'VSTGUI::GlobalFonts']]],
   ['systemfont',['systemFont',['../struct_v_s_t_g_u_i_1_1_global_fonts.html#aedc2a911789abd2ee459f6ebffee0167',1,'VSTGUI::GlobalFonts']]],
-  ['systemwindow',['systemWindow',['../class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html#a92345e9aebd49e103d32b207f9193a89',1,'VSTGUI::PluginGUIEditor']]]
+  ['systemwindow',['systemWindow',['../namespace_v_s_t_g_u_i.html#a92345e9aebd49e103d32b207f9193a89',1,'VSTGUI']]]
 ];

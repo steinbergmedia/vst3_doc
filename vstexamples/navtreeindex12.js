@@ -1,5 +1,12 @@
 var NAVTREEINDEX12 =
 {
+"pitchnames_2source_2version_8h.html#a7b9ca76cb4cc59f027ddabbe5f3f2118":[3,0,277,5],
+"pitchnames_2source_2version_8h.html#a9278205f41909b317803db604ed1075d":[3,0,277,1],
+"pitchnames_2source_2version_8h.html#a959cc5c14daa39d176d88fffd211aa6c":[3,0,277,4],
+"pitchnames_2source_2version_8h.html#aa863825ce130d257c1ba798e4e639d67":[3,0,277,6],
+"pitchnames_2source_2version_8h.html#ab3aa50bfa1df9fe473bf9202c2bff0cd":[3,0,277,3],
+"pitchnames_2source_2version_8h.html#adb58dbe9424bfe0a2e594a5e6399c3e2":[3,0,277,0],
+"pitchnames_8cpp.html":[3,0,209],
 "pitchnames_8cpp.html#ac4ec04fa9828f2cf8f886a8dafb8e482":[3,0,209,0],
 "pitchnames_8h.html":[3,0,210],
 "pitchnamesdatabrowsersource_8cpp.html":[3,0,211],

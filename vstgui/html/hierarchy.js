@@ -186,9 +186,9 @@ var hierarchy =
       [ "OldMouseObserverAdapter", "class_v_s_t_g_u_i_1_1_old_mouse_observer_adapter.html", null ],
       [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
     ] ],
-    [ "CListControl::Impl", "struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html", null ],
     [ "CView::Impl", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html", null ],
     [ "CViewContainer::Impl", "struct_v_s_t_g_u_i_1_1_c_view_container_1_1_impl.html", null ],
+    [ "CListControl::Impl", "struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html", null ],
     [ "CFrame::Impl", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html", null ],
     [ "CMenuItem::Impl", "struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html", null ],
     [ "CSliderBase::Impl", "struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html", null ],
@@ -499,6 +499,7 @@ var hierarchy =
     [ "PlatformFileSelectorConfig", null, [
       [ "CNewFileSelector::Impl", "struct_v_s_t_g_u_i_1_1_c_new_file_selector_1_1_impl.html", null ]
     ] ],
+    [ "PluginGUIEditor", "class_plugin_g_u_i_editor.html", null ],
     [ "CFrame::Impl::PostEventHandler", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html", null ],
     [ "Preferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_preferences.html", null ],
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html", null ],
@@ -564,8 +565,7 @@ var hierarchy =
       [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
     ] ],
     [ "VSTGUIEditorInterface", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html", [
-      [ "AEffGUIEditor", "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html", null ],
-      [ "PluginGUIEditor", "class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html", null ]
+      [ "AEffGUIEditor", "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html", null ]
     ] ],
     [ "VstKeyCode", "struct_vst_key_code.html", null ],
     [ "WindowConfiguration", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html", null ],

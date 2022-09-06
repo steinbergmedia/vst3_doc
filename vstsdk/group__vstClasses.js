@@ -128,7 +128,7 @@ var group__vstClasses =
       [ "setDirty", "classSteinberg_1_1Vst_1_1EditController.html#a460c259c620b7dbe5ee1f0e7bef6cd23", null ],
       [ "requestOpenEditor", "classSteinberg_1_1Vst_1_1EditController.html#a96eb2b9463edb639bd3cd9a61dd95626", null ],
       [ "getComponentHandler", "classSteinberg_1_1Vst_1_1EditController.html#abc58c5d47a3e00815e1b3c043daeefa3", null ],
-      [ "componentHandler2", "classSteinberg_1_1Vst_1_1EditController.html#a39488062cf0aeb73f2d0ca6be4e3d28f", null ],
+      [ "componentHandler2", "classSteinberg_1_1Vst_1_1EditController.html#a9f6f0649ff7efe6061d32acef2e397e2", null ],
       [ "parameters", "classSteinberg_1_1Vst_1_1EditController.html#ac4e5827457c66ced54509c5179a5bb4c", null ]
     ] ],
     [ "EditorView", "classSteinberg_1_1Vst_1_1EditorView.html", [
@@ -137,7 +137,7 @@ var group__vstClasses =
       [ "getController", "classSteinberg_1_1Vst_1_1EditorView.html#a061dda7bad880061767d3b1b1294026e", null ],
       [ "attachedToParent", "classSteinberg_1_1Vst_1_1EditorView.html#a6d3d17488dd894c98e3eeaf4836739b3", null ],
       [ "removedFromParent", "classSteinberg_1_1Vst_1_1EditorView.html#ac56bd2ced2b9679faf3bd28125c85b8b", null ],
-      [ "controller", "classSteinberg_1_1Vst_1_1EditorView.html#a67dc2ffc34f15b2bf3623d385706f966", null ]
+      [ "controller", "classSteinberg_1_1Vst_1_1EditorView.html#adf2e2c35f1cc675644d44a5318162ffd", null ]
     ] ],
     [ "Unit", "classSteinberg_1_1Vst_1_1Unit.html", [
       [ "Unit", "classSteinberg_1_1Vst_1_1Unit.html#a50125d90c2d04510fdb684ba3fac21dd", null ],

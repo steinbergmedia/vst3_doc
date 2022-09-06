@@ -11,7 +11,7 @@ var searchData=
   ['pitch',['pitch',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteOnEvent.html#ac8fce98a527fd344e62bf8e259ff00a3',1,'Steinberg::Vst::NoteOnEvent::pitch()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteOffEvent.html#ac8fce98a527fd344e62bf8e259ff00a3',1,'Steinberg::Vst::NoteOffEvent::pitch()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html#ac8fce98a527fd344e62bf8e259ff00a3',1,'Steinberg::Vst::PolyPressureEvent::pitch()']]],
   ['pitchnames',['pitchNames',['../classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ad76fb6b4e4f56aa2571ddf2f96a5ff4b',1,'Steinberg::Vst::ProgramListWithPitchNames']]],
   ['plainmax',['plainMax',['../classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#a9110a50b5e2e87f127dad77fdc290974',1,'Steinberg::Vst::RangeNoteExpressionType']]],
-  ['plugframe',['plugFrame',['../classSteinberg_1_1CPluginView.html#a7083b1a69f4db7fd4cf2c69665d8b7ec',1,'Steinberg::CPluginView']]],
+  ['plugframe',['plugFrame',['../classSteinberg_1_1CPluginView.html#ad366faeb59eebfa2056587f3118e0a94',1,'Steinberg::CPluginView']]],
   ['plugin',['plugin',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#ac123d00a3893bfdbaa7572a668b6dabe',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['plugisglobal',['plugIsGlobal',['../classSteinberg_1_1Vst_1_1PlugProvider.html#a6249cbd10d897a88d111a89c2ca6b6b6',1,'Steinberg::Vst::PlugProvider']]],
   ['plugprovider',['plugProvider',['../classSteinberg_1_1Vst_1_1TestBase.html#aee0912e53e2d7f7ae563fad4e96c5d13',1,'Steinberg::Vst::TestBase']]],

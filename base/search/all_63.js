@@ -7,7 +7,7 @@ var searchData=
   ['cconst',['CCONST',['../futils_8h.html#abe9ebeb8fb703ceffa08dc69d920a27d',1,'futils.h']]],
   ['changemessage',['ChangeMessage',['../classSteinberg_1_1IDependent.html#a4b88d1d42482ecad4964cf7c7f35b8c1',1,'Steinberg::IDependent']]],
   ['char',['char',['../namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579',1,'Steinberg']]],
-  ['char16',['char16',['../namespaceSteinberg.html#ad12e102dc50c08aa3136349a56e76fd3',1,'Steinberg']]],
+  ['char16',['char16',['../namespaceSteinberg.html#a667a0a4e0cbcb3f3785984955e1fefd8',1,'Steinberg']]],
   ['char8',['char8',['../namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86',1,'Steinberg']]],
   ['character',['character',['../structSteinberg_1_1KeyCode.html#ac6027d2dbb9ac08b3b6729341c0bcf8f',1,'Steinberg::KeyCode']]],
   ['chartovirtualkeycode',['CharToVirtualKeyCode',['../namespaceSteinberg.html#af3106a92c99884d4eb8bef6f0f35e4b8',1,'Steinberg']]],

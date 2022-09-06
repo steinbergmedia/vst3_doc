@@ -29,7 +29,10 @@ var annotated =
         [ "ProcessDataSlicer", "classSteinberg_1_1Vst_1_1ProcessDataSlicer.html", "classSteinberg_1_1Vst_1_1ProcessDataSlicer" ],
         [ "RTTransferT", "structSteinberg_1_1Vst_1_1RTTransferT.html", "structSteinberg_1_1Vst_1_1RTTransferT" ]
       ] ],
-      [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", "namespaceSteinberg_1_1OneReaderOneWriter" ]
+      [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", "namespaceSteinberg_1_1OneReaderOneWriter" ],
+      [ "ObjCVariable", "structSteinberg_1_1ObjCVariable.html", "structSteinberg_1_1ObjCVariable" ],
+      [ "ObjCInstance", "structSteinberg_1_1ObjCInstance.html", "structSteinberg_1_1ObjCInstance" ],
+      [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", "structSteinberg_1_1ObjCClassBuilder" ]
     ] ],
     [ "VST3", "namespaceVST3.html", "namespaceVST3" ],
     [ "VSTGUI", "namespaceVSTGUI.html", null ],

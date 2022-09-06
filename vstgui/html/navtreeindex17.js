@@ -1,15 +1,5 @@
 var NAVTREEINDEX17 =
 {
-"namespace_v_s_t_g_u_i_1_1_u_i_description_private.html":[10,0,2,11],
-"namespace_v_s_t_g_u_i_1_1_u_i_description_private.html":[9,0,2,11],
-"namespace_v_s_t_g_u_i_1_1_u_i_view_creator.html":[9,0,2,12],
-"namespace_v_s_t_g_u_i_1_1_u_i_view_creator.html":[10,0,2,12],
-"namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html":[9,0,2,13],
-"namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html":[10,0,2,13],
-"namespace_v_s_t_g_u_i_1_1_xml.html":[9,0,2,14],
-"namespace_v_s_t_g_u_i_1_1_xml.html":[10,0,2,14],
-"namespacemembers.html":[9,1,0,0],
-"namespacemembers.html":[9,1,0],
 "namespacemembers_0x62.html":[9,1,0,1],
 "namespacemembers_0x63.html":[9,1,0,2],
 "namespacemembers_0x64.html":[9,1,0,3],
@@ -32,6 +22,7 @@ var NAVTREEINDEX17 =
 "namespacemembers_0x75.html":[9,1,0,20],
 "namespacemembers_0x76.html":[9,1,0,21],
 "namespacemembers_0x77.html":[9,1,0,22],
+"namespacemembers_0x7e.html":[9,1,0,23],
 "namespacemembers_enum.html":[9,1,4],
 "namespacemembers_eval.html":[9,1,5],
 "namespacemembers_func.html":[9,1,1],
@@ -249,5 +240,14 @@ var NAVTREEINDEX17 =
 "struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#a6f68131d714c2f42e797f25ca1859e08":[8,1,0,26,0],
 "struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#a877b814422f257fc06ac965eb6c05709":[8,1,0,26,6],
 "struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#a89669bcb8bf5e3f126e38cb1ea39556c":[8,1,0,26,12],
-"struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#ab16cb746fc30e62849d78812ace1c2e4":[8,1,0,26,13]
+"struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#ab16cb746fc30e62849d78812ace1c2e4":[8,1,0,26,13],
+"struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#adc2798596b759966784156515baa957b":[8,1,0,26,9],
+"struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#adc7c5be92b33f9826c82816369f85356":[8,1,0,26,11],
+"struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html#ae670d3f238d531572257101fc3f546c3":[8,1,0,26,2],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html":[8,3,0,0,0],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#a45a8b1961d651b35bfcd3ad701e1bbb4":[8,3,0,0,0,0],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#ac218747c8a53412e7928ce690dd886ca":[8,3,0,0,0,1],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#adac116554b543b7c4228c018a85882f5":[8,3,0,0,0,3],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#ae4590118f1051be2a1e7f04a2e262fb9":[8,3,0,0,0,2],
+"struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html":[8,3,0,0,1]
 };

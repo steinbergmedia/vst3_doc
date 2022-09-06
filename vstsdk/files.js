@@ -11,8 +11,8 @@ var files =
     [ "aaxwrapper_parameters.h", "aaxwrapper__parameters_8h.html", null ],
     [ "aucarbonview.h", "aucarbonview_8h.html", null ],
     [ "aucarbonview.mm", "aucarbonview_8mm.html", null ],
-    [ "aucocoaview.h", "aucocoaview_8h.html", "aucocoaview_8h" ],
-    [ "aucocoaview.mm", "aucocoaview_8mm.html", "aucocoaview_8mm" ],
+    [ "aucocoaview.h", "aucocoaview_8h.html", null ],
+    [ "aucocoaview.mm", "aucocoaview_8mm.html", null ],
     [ "audiobuffers.h", "audiobuffers_8h.html", "audiobuffers_8h" ],
     [ "AudioIO.h", "AudioIO_8h.html", null ],
     [ "AudioIO.mm", "AudioIO_8mm.html", "AudioIO_8mm" ],
@@ -56,6 +56,11 @@ var files =
     [ "mpeprocessor.h", "mpeprocessor_8h.html", "mpeprocessor_8h" ],
     [ "NSDataIBStream.h", "NSDataIBStream_8h.html", null ],
     [ "NSDataIBStream.mm", "NSDataIBStream_8mm.html", null ],
+    [ "objcclassbuilder.h", "objcclassbuilder_8h.html", [
+      [ "ObjCVariable", "structSteinberg_1_1ObjCVariable.html", "structSteinberg_1_1ObjCVariable" ],
+      [ "ObjCInstance", "structSteinberg_1_1ObjCInstance.html", "structSteinberg_1_1ObjCInstance" ],
+      [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", "structSteinberg_1_1ObjCClassBuilder" ]
+    ] ],
     [ "optional.h", "optional_8h.html", [
       [ "Optional", "structVST3_1_1Optional.html", "structVST3_1_1Optional" ]
     ] ],

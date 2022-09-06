@@ -104,7 +104,7 @@ var searchData=
   ['_7epadcontroller',['~PadController',['../class_v_s_t_g_u_i_1_1_pad_controller.html#a7273910562206794cbcde9a27571f5ee',1,'VSTGUI::PadController']]],
   ['_7eparameterchangelistener',['~ParameterChangeListener',['../class_v_s_t_g_u_i_1_1_parameter_change_listener.html#ad49adb0c982948a1abda1ff6241d33fa',1,'VSTGUI::ParameterChangeListener']]],
   ['_7eparser',['~Parser',['../class_v_s_t_g_u_i_1_1_xml_1_1_parser.html#a986e956b2119feabb4f7b5513302eb90',1,'VSTGUI::Xml::Parser']]],
-  ['_7epluginguieditor',['~PluginGUIEditor',['../class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html#a55dee97f26f6d0e1672e1774683289fe',1,'VSTGUI::PluginGUIEditor']]],
+  ['_7epluginguieditor',['~PluginGUIEditor',['../namespace_v_s_t_g_u_i.html#a55dee97f26f6d0e1672e1774683289fe',1,'VSTGUI']]],
   ['_7eposteventhandler',['~PostEventHandler',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html#ae296be535d9079cc2985c4948f76b21f',1,'VSTGUI::CFrame::Impl::PostEventHandler']]],
   ['_7eproperty',['~Property',['../class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html#ae53c35255368e13c84b9592b1ac9fdc3',1,'VSTGUI::BitmapFilter::Property']]],
   ['_7ereferencecounted',['~ReferenceCounted',['../class_v_s_t_g_u_i_1_1_reference_counted.html#a4a9c90ebc78f106ffa8182f24670e9e6',1,'VSTGUI::ReferenceCounted']]],

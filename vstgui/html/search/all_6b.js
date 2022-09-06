@@ -233,6 +233,7 @@ var searchData=
   ['knobbasecreator',['KnobBaseCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_knob_base_creator.html',1,'VSTGUI::UIViewCreator']]],
   ['knobcreator',['KnobCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_knob_creator.html#a054d9ed203fa53edf7f60b025e748d1d',1,'VSTGUI::UIViewCreator::KnobCreator']]],
   ['knobcreator',['KnobCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_knob_creator.html',1,'VSTGUI::UIViewCreator']]],
+  ['knobmode',['knobMode',['../namespace_v_s_t_g_u_i.html#ac28c70eb15c62b58da3cfafc1307678e',1,'VSTGUI']]],
   ['knodrawstyle',['kNoDrawStyle',['../class_v_s_t_g_u_i_1_1_c_param_display.html#addb2fa415e015ee482fa2cd9eba96af7ad35c1e40ef115d303fa4c640af41e077',1,'VSTGUI::CParamDisplay']]],
   ['knoflags',['kNoFlags',['../class_v_s_t_g_u_i_1_1_c_menu_item.html#aa705cf7e79a21c2352b00ffe20cd295faacc42d61d53f9b50d3f1f3b463ede0b5',1,'VSTGUI::CMenuItem']]],
   ['knoframe',['kNoFrame',['../class_v_s_t_g_u_i_1_1_c_param_display.html#addb2fa415e015ee482fa2cd9eba96af7a0cbda15ddcc93abd61cf51c0ed67231a',1,'VSTGUI::CParamDisplay']]],

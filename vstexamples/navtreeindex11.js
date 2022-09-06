@@ -1,5 +1,12 @@
 var NAVTREEINDEX11 =
 {
+"mdaDynamicsProcessor_8cpp.html":[3,0,102],
+"mdaDynamicsProcessor_8h.html":[3,0,103],
+"mdaEPianoController_8cpp.html":[3,0,104],
+"mdaEPianoController_8h.html":[3,0,105],
+"mdaEPianoData_8h.html":[3,0,106],
+"mdaEPianoData_8h.html#ab266be229d28fa6b6be56ab0b4e92de7":[3,0,106,0],
+"mdaEPianoProcessor_8cpp.html":[3,0,107],
 "mdaEPianoProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc":[3,0,107,1],
 "mdaEPianoProcessor_8cpp.html#ac16f5b88e42015f1db52b238012154ce":[3,0,107,2],
 "mdaEPianoProcessor_8cpp.html#ae468832efa6adf5e9a96cabd8f878b47":[3,0,107,0],
@@ -122,8 +129,8 @@ var NAVTREEINDEX11 =
 "namespaceSteinberg_1_1Panner.html":[2,0,0,3],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,1,3],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[2,0,0,1,3],
-"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,1,4],
+"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[2,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[1,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[2,0,0,1,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX11 =
 "pitchnames_2source_2factory_8cpp.html":[3,0,39],
 "pitchnames_2source_2factory_8cpp.html#a580d3236cf2654394fd9dda85651efc0":[3,0,39,0],
 "pitchnames_2source_2version_8h.html":[3,0,277],
-"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52":[3,0,277,2],
-"pitchnames_2source_2version_8h.html#a7b9ca76cb4cc59f027ddabbe5f3f2118":[3,0,277,5],
-"pitchnames_2source_2version_8h.html#a9278205f41909b317803db604ed1075d":[3,0,277,1],
-"pitchnames_2source_2version_8h.html#a959cc5c14daa39d176d88fffd211aa6c":[3,0,277,4],
-"pitchnames_2source_2version_8h.html#aa863825ce130d257c1ba798e4e639d67":[3,0,277,6],
-"pitchnames_2source_2version_8h.html#ab3aa50bfa1df9fe473bf9202c2bff0cd":[3,0,277,3],
-"pitchnames_2source_2version_8h.html#adb58dbe9424bfe0a2e594a5e6399c3e2":[3,0,277,0],
-"pitchnames_8cpp.html":[3,0,209]
+"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52":[3,0,277,2]
 };

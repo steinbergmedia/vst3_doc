@@ -1,5 +1,12 @@
 var NAVTREEINDEX10 =
 {
+"logevents_8h.html#ad535885ce8f80d2d5eddc5423e73393e":[3,0,48,10],
+"logevents_8h.html#ad76f3128fb1f4ed00962293d7839e901":[3,0,48,9],
+"logevents_8h.html#adfcd222e817c0d2841fc4adaf1353850":[3,0,48,1],
+"logevents_8h.html#aea3f57d6dcc5b4ac957e2679e87dde27":[3,0,48,15],
+"logevents_8h.html#aeb4f36db01bd128c7afeac5889dac311":[3,0,48,16],
+"logevents_8h.html#afc507aa9af80c3191815907e53ecd31c":[3,0,48,19],
+"logevents_8h.html#afc84f29132b630b33d341d0769a66d46":[3,0,48,22],
 "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae":[3,0,48,22,170],
 "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a026bc622b5b78782da47ea94c0b3867d":[3,0,48,22,70],
 "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a02f2c32c63ec29184beffe72dad2d9fe":[3,0,48,22,18],
@@ -242,12 +249,5 @@ var NAVTREEINDEX10 =
 "mdaDubDelayProcessor_8cpp.html":[3,0,94],
 "mdaDubDelayProcessor_8h.html":[3,0,95],
 "mdaDynamicsController_8cpp.html":[3,0,100],
-"mdaDynamicsController_8h.html":[3,0,101],
-"mdaDynamicsProcessor_8cpp.html":[3,0,102],
-"mdaDynamicsProcessor_8h.html":[3,0,103],
-"mdaEPianoController_8cpp.html":[3,0,104],
-"mdaEPianoController_8h.html":[3,0,105],
-"mdaEPianoData_8h.html":[3,0,106],
-"mdaEPianoData_8h.html#ab266be229d28fa6b6be56ab0b4e92de7":[3,0,106,0],
-"mdaEPianoProcessor_8cpp.html":[3,0,107]
+"mdaDynamicsController_8h.html":[3,0,101]
 };

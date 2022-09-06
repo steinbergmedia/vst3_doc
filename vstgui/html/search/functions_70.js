@@ -43,7 +43,6 @@ var searchData=
   ['platformopenglviewwilldestroy',['platformOpenGLViewWillDestroy',['../class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a46f01e34c6ac971e936af3c6406637c7',1,'VSTGUI::COpenGLView']]],
   ['platformscalefactorchanged',['platformScaleFactorChanged',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a5bd2d0c41f5d870ae5fd8896d9a7958a',1,'VSTGUI::CFrame']]],
   ['platformtextdidchange',['platformTextDidChange',['../class_v_s_t_g_u_i_1_1_c_search_text_edit.html#a1df0665ccbb8389faab9f30702c59503',1,'VSTGUI::CSearchTextEdit::platformTextDidChange()'],['../class_v_s_t_g_u_i_1_1_c_text_edit.html#a1df0665ccbb8389faab9f30702c59503',1,'VSTGUI::CTextEdit::platformTextDidChange()']]],
-  ['pluginguieditor',['PluginGUIEditor',['../class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html#a5888393b9b343df09668eb71a45da721',1,'VSTGUI::PluginGUIEditor']]],
   ['pointinside',['pointInside',['../struct_v_s_t_g_u_i_1_1_c_rect.html#a644d50c37745c019ea7bedb177d13113',1,'VSTGUI::CRect']]],
   ['pointtostring',['pointToString',['../class_v_s_t_g_u_i_1_1_u_i_attributes.html#ae8f431e84a6561c73fbf174569d15f89',1,'VSTGUI::UIAttributes']]],
   ['poptransform',['popTransform',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#ad98d73231d0697e16b23fd49cdf39ee0',1,'VSTGUI::CDrawContext']]],

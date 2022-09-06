@@ -4,6 +4,7 @@ var classSteinberg_1_1Vst_1_1PlugProvider =
     [ "PluginFactory", "classSteinberg_1_1Vst_1_1PlugProvider.html#acb7f3ade3027a9b53397308800272789", null ],
     [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html#a020894745e82fb107fc4a869a8832d86", null ],
     [ "~PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html#a7f91cb0563a7c3753263b36530e624a1", null ],
+    [ "initialize", "classSteinberg_1_1Vst_1_1PlugProvider.html#ab3e7cc706c522b3231f9156bba461436", null ],
     [ "getComponent", "classSteinberg_1_1Vst_1_1PlugProvider.html#a7b48e5060e87f05aa6dbe009c49590b3", null ],
     [ "getController", "classSteinberg_1_1Vst_1_1PlugProvider.html#ab3729c4eddeab38f21f7e34ebd18dc25", null ],
     [ "releasePlugIn", "classSteinberg_1_1Vst_1_1PlugProvider.html#af532604d58ac09daa58a28f20af17ba4", null ],

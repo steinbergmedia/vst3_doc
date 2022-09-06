@@ -697,8 +697,6 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_v_s_t_g_u_i_1_1_e_rect.html">ERect</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html">PluginGUIEditor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_parameter_change_listener.html">ParameterChangeListener</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_i_v_s_t3_editor_delegate.html">IVST3EditorDelegate</a></td></tr>
@@ -1119,23 +1117,23 @@ numBoxes &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="
 <tr class="separator:a9ff61fbaceee2ad20764752ba0e2aa6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a79a5ae6609212d031b281c90d9a1ecd6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="struct_v_s_t_g_u_i_1_1_event.html">Event</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a79a5ae6609212d031b281c90d9a1ecd6">noEvent</a> ()</td></tr>
 <tr class="separator:a79a5ae6609212d031b281c90d9a1ecd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad31d52d12089ade44329dccbaa86bc20"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MousePositionEvent, typename MousePositionEventT  = typename std::conditional&lt;              std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
+<tr class="memitem:ad31d52d12089ade44329dccbaa86bc20"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MousePositionEvent, typename MousePositionEventT  = typename std::conditional&lt;			 std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
 <tr class="memitem:ad31d52d12089ade44329dccbaa86bc20"><td class="memTemplItemLeft" align="right" valign="top">MousePositionEventT *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#ad31d52d12089ade44329dccbaa86bc20">asMousePositionEvent</a> (EventT &amp;event)</td></tr>
 <tr class="memdesc:ad31d52d12089ade44329dccbaa86bc20"><td class="mdescLeft">&#160;</td><td class="mdescRight">event as mouse position event or nullpointer if not a mouse position event  <a href="#ad31d52d12089ade44329dccbaa86bc20"></a><br/></td></tr>
 <tr class="separator:ad31d52d12089ade44329dccbaa86bc20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aadbe4e2918050fae1c49639a45cc29d3"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MouseEvent, typename MouseEventT  = typename std::conditional&lt;              std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
+<tr class="memitem:aadbe4e2918050fae1c49639a45cc29d3"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MouseEvent, typename MouseEventT  = typename std::conditional&lt;			 std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
 <tr class="memitem:aadbe4e2918050fae1c49639a45cc29d3"><td class="memTemplItemLeft" align="right" valign="top">MouseEventT *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#aadbe4e2918050fae1c49639a45cc29d3">asMouseEvent</a> (EventT &amp;event)</td></tr>
 <tr class="memdesc:aadbe4e2918050fae1c49639a45cc29d3"><td class="mdescLeft">&#160;</td><td class="mdescRight">event as mouse position event or nullpointer if not a mouse position event  <a href="#aadbe4e2918050fae1c49639a45cc29d3"></a><br/></td></tr>
 <tr class="separator:aadbe4e2918050fae1c49639a45cc29d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a489e336b75cdbf6c82e12ffa73de920d"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MouseDownEvent, typename MouseDownEventT  = typename std::conditional&lt;              std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
+<tr class="memitem:a489e336b75cdbf6c82e12ffa73de920d"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = MouseDownEvent, typename MouseDownEventT  = typename std::conditional&lt;			 std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
 <tr class="memitem:a489e336b75cdbf6c82e12ffa73de920d"><td class="memTemplItemLeft" align="right" valign="top">MouseDownEventT *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a489e336b75cdbf6c82e12ffa73de920d">asMouseDownEvent</a> (EventT &amp;event)</td></tr>
 <tr class="memdesc:a489e336b75cdbf6c82e12ffa73de920d"><td class="mdescLeft">&#160;</td><td class="mdescRight">event as mouse down event or nullpointer if not a mouse down event  <a href="#a489e336b75cdbf6c82e12ffa73de920d"></a><br/></td></tr>
 <tr class="separator:a489e336b75cdbf6c82e12ffa73de920d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8671db35abe7a32ed6bc90a7c11252b5"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = ModifierEvent, typename ModifierEventT  = typename std::conditional&lt;              std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
+<tr class="memitem:a8671db35abe7a32ed6bc90a7c11252b5"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = ModifierEvent, typename ModifierEventT  = typename std::conditional&lt;			 std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
 <tr class="memitem:a8671db35abe7a32ed6bc90a7c11252b5"><td class="memTemplItemLeft" align="right" valign="top">ModifierEventT *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a8671db35abe7a32ed6bc90a7c11252b5">asModifierEvent</a> (EventT &amp;event)</td></tr>
 <tr class="memdesc:a8671db35abe7a32ed6bc90a7c11252b5"><td class="mdescLeft">&#160;</td><td class="mdescRight">event as modifier event or nullpointer if not a modifier event  <a href="#a8671db35abe7a32ed6bc90a7c11252b5"></a><br/></td></tr>
 <tr class="separator:a8671db35abe7a32ed6bc90a7c11252b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a549f36e59961f0d3bf85bfcf0286dcdd"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = KeyboardEvent, typename KeyboardEventT  = typename std::conditional&lt;              std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
+<tr class="memitem:a549f36e59961f0d3bf85bfcf0286dcdd"><td class="memTemplParams" colspan="2">template&lt;typename EventT , typename OutputT  = KeyboardEvent, typename KeyboardEventT  = typename std::conditional&lt;			 std::is_const_v&lt;EventT&gt;, typename std::add_const_t&lt;OutputT&gt;, OutputT&gt;::type&gt; </td></tr>
 <tr class="memitem:a549f36e59961f0d3bf85bfcf0286dcdd"><td class="memTemplItemLeft" align="right" valign="top">KeyboardEventT *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a549f36e59961f0d3bf85bfcf0286dcdd">asKeyboardEvent</a> (EventT &amp;event)</td></tr>
 <tr class="memdesc:a549f36e59961f0d3bf85bfcf0286dcdd"><td class="mdescLeft">&#160;</td><td class="mdescRight">event as keyboard event or nullpointer if not a keyboard event  <a href="#a549f36e59961f0d3bf85bfcf0286dcdd"></a><br/></td></tr>
 <tr class="separator:a549f36e59961f0d3bf85bfcf0286dcdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1268,6 +1266,34 @@ ViewMouseListenerAdapter <br class="typebreak"/>
 <tr class="separator:ae434d8db1dbb70e1ac02abfc227f3c76"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afb055c5f4aadb854eb9f818ec22a52f8"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html">CControl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#afb055c5f4aadb854eb9f818ec22a52f8">findControlForTag</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html">CViewContainer</a> *parent, int32_t tag, bool reverse=true)</td></tr>
 <tr class="separator:afb055c5f4aadb854eb9f818ec22a52f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55dee97f26f6d0e1672e1774683289fe"><td class="memItemLeft" align="right" valign="top">class <a class="el" href="group__new__in__4__0.html#ga0a2a3d623ab623044c007a8062943480">deprecated</a>(&quot;Please use <br class="typebreak"/>
+your own <a class="el" href="class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html">VSTGUIEditorInterface</a> <br class="typebreak"/>
+subclass&quot;)]] PluginGUIEditor&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a55dee97f26f6d0e1672e1774683289fe">~PluginGUIEditor</a> () override</td></tr>
+<tr class="separator:a55dee97f26f6d0e1672e1774683289fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a3132cbe9d2021e8ff7c5f910da4d23"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a5a3132cbe9d2021e8ff7c5f910da4d23">setParameter</a> (int32_t index, float value)</td></tr>
+<tr class="separator:a5a3132cbe9d2021e8ff7c5f910da4d23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbb566955726ec496542059debcd7f29"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#adbb566955726ec496542059debcd7f29">getRect</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_e_rect.html">ERect</a> **ppRect)</td></tr>
+<tr class="separator:adbb566955726ec496542059debcd7f29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a901be7527c651553431aa689b3a11c6c"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a901be7527c651553431aa689b3a11c6c">open</a> (void *ptr)</td></tr>
+<tr class="separator:a901be7527c651553431aa689b3a11c6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a742559e7884f1d80d3409e6c04a21958"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a742559e7884f1d80d3409e6c04a21958">close</a> ()</td></tr>
+<tr class="separator:a742559e7884f1d80d3409e6c04a21958"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dc8b2fd62c9345f83cdfae2ca18cec9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a5dc8b2fd62c9345f83cdfae2ca18cec9">idle</a> ()</td></tr>
+<tr class="separator:a5dc8b2fd62c9345f83cdfae2ca18cec9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7762994a486c43fc0a6700dcbf73e78e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a7762994a486c43fc0a6700dcbf73e78e">doIdleStuff</a> () override</td></tr>
+<tr class="separator:a7762994a486c43fc0a6700dcbf73e78e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f810356de2a62673435d39f6e006a19"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a1f810356de2a62673435d39f6e006a19">getEffect</a> ()</td></tr>
+<tr class="separator:a1f810356de2a62673435d39f6e006a19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4b179b35f96a3c1fde8bef5813c6f42"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#ab4b179b35f96a3c1fde8bef5813c6f42">getVstGuiVersion</a> ()</td></tr>
+<tr class="separator:ab4b179b35f96a3c1fde8bef5813c6f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04ec20bb927143231cba80242ca8fc33"><td class="memItemLeft" align="right" valign="top">virtual int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a04ec20bb927143231cba80242ca8fc33">setKnobMode</a> (int32_t val)</td></tr>
+<tr class="separator:a04ec20bb927143231cba80242ca8fc33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77b9220ecfb31a150da523f00be10b8b"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a77b9220ecfb31a150da523f00be10b8b">getKnobMode</a> () const override</td></tr>
+<tr class="separator:a77b9220ecfb31a150da523f00be10b8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26abea01c5d9e7525952da9d14af9946"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a26abea01c5d9e7525952da9d14af9946">beginEdit</a> (int32_t index) override</td></tr>
+<tr class="separator:a26abea01c5d9e7525952da9d14af9946"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc967b60c903908f83f5444f002b48cf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#adc967b60c903908f83f5444f002b48cf">endEdit</a> (int32_t index) override</td></tr>
+<tr class="separator:adc967b60c903908f83f5444f002b48cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b01779501b6b79ead97aa1432a731d8"><td class="memTemplParams" colspan="2">template&lt;typename Iface , typename T &gt; </td></tr>
 <tr class="memitem:a5b01779501b6b79ead97aa1432a731d8"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a5b01779501b6b79ead97aa1432a731d8">dynamicPtrCast</a> (std::shared_ptr&lt; T &gt; &amp;obj)</td></tr>
 <tr class="separator:a5b01779501b6b79ead97aa1432a731d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1413,6 +1439,14 @@ Variables</h2></td></tr>
 <tr class="separator:a3bc2e657c2067648f97f6ee1f372d92c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a293b05bd232342337b39195cbb1ed6a4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="namespace_v_s_t_g_u_i.html#ab344f8ed42cf4fb22917bae466fa6897">CViewAttributeID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a293b05bd232342337b39195cbb1ed6a4">kViewNameAttribute</a> = 'cvcr'</td></tr>
 <tr class="separator:a293b05bd232342337b39195cbb1ed6a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a934d3e77bd6de037c1caa3b7c11fed8c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_v_s_t_g_u_i_1_1_e_rect.html">ERect</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a934d3e77bd6de037c1caa3b7c11fed8c">rect</a></td></tr>
+<tr class="separator:a934d3e77bd6de037c1caa3b7c11fed8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae67f777ab5a3eb4bad379eac85310acf"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#ae67f777ab5a3eb4bad379eac85310acf">effect</a></td></tr>
+<tr class="separator:ae67f777ab5a3eb4bad379eac85310acf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92345e9aebd49e103d32b207f9193a89"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#a92345e9aebd49e103d32b207f9193a89">systemWindow</a></td></tr>
+<tr class="separator:a92345e9aebd49e103d32b207f9193a89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac28c70eb15c62b58da3cfafc1307678e"><td class="memItemLeft" align="right" valign="top">static int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_v_s_t_g_u_i.html#ac28c70eb15c62b58da3cfafc1307678e">knobMode</a></td></tr>
+<tr class="separator:ac28c70eb15c62b58da3cfafc1307678e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a class="anchor" id="a11231b1548c97b1a0ef491f349bb02ee"></a>
@@ -2462,6 +2496,29 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="a55dee97f26f6d0e1672e1774683289fe"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">~<a class="el" href="class_plugin_g_u_i_editor.html">PluginGUIEditor</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a188f49d06f3c43c7d1f4d76f161bbe81"></a>
 <div class="memitem">
 <div class="memproto">
@@ -2613,6 +2670,30 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>event as mouse position event or nullpointer if not a mouse position event </p>
+
+</div>
+</div>
+<a class="anchor" id="a26abea01c5d9e7525952da9d14af9946"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VSTGUI::beginEdit </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -3014,6 +3095,29 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a742559e7884f1d80d3409e6c04a21958"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void VSTGUI::close </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a2c5acc5e1d574cb0e303f3251c0438da"></a>
 <div class="memitem">
 <div class="memproto">
@@ -3080,6 +3184,29 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a7762994a486c43fc0a6700dcbf73e78e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VSTGUI::doIdleStuff </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -3160,6 +3287,30 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="adc967b60c903908f83f5444f002b48cf"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VSTGUI::endEdit </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -3343,6 +3494,21 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a1f810356de2a62673435d39f6e006a19"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* VSTGUI::getEffect </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a1bb8bb1427a7d10576f6e3ae265ff979"></a>
 <div class="memitem">
 <div class="memproto">
@@ -3360,6 +3526,53 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a77b9220ecfb31a150da523f00be10b8b"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t VSTGUI::getKnobMode </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="adbb566955726ec496542059debcd7f29"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool VSTGUI::getRect </td>
+          <td>(</td>
+          <td class="paramtype">ERect **&#160;</td>
+          <td class="paramname"><em>ppRect</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -3450,6 +3663,21 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ab4b179b35f96a3c1fde8bef5813c6f42"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t VSTGUI::getVstGuiVersion </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ab0411f6642b03599f6d293af2c17079c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -3493,6 +3721,29 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a5dc8b2fd62c9345f83cdfae2ca18cec9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void VSTGUI::idle </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -3847,6 +4098,30 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a901be7527c651553431aa689b3a11c6c"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool VSTGUI::open </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>ptr</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a2f098fda52ec1fd8eb203de4ce456ada"></a>
 <div class="memitem">
 <div class="memproto">
@@ -4172,6 +4447,64 @@ Variables</h2></td></tr>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a04ec20bb927143231cba80242ca8fc33"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual int32_t VSTGUI::setKnobMode </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a5a3132cbe9d2021e8ff7c5f910da4d23"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void VSTGUI::setParameter </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -4582,6 +4915,18 @@ Variables</h2></td></tr>
 <span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ae67f777ab5a3eb4bad379eac85310acf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* effect</td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 
 </div>
@@ -5122,6 +5467,26 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ac28c70eb15c62b58da3cfafc1307678e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t knobMode</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="aee3a15411fb6ad78249b3cf24672c0d2"></a>
 <div class="memitem">
 <div class="memproto">
@@ -5428,6 +5793,30 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a934d3e77bd6de037c1caa3b7c11fed8c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_v_s_t_g_u_i_1_1_e_rect.html">ERect</a> rect</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a92345e9aebd49e103d32b207f9193a89"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* systemWindow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a1dd448de94cb8e699d0280716db018c8"></a>
 <div class="memitem">
 <div class="memproto">
@@ -5474,7 +5863,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li>
-    <li class="footer">Generated on Thu May 19 2022 16:50:03 for VSTGUI by
+    <li class="footer">Generated on Tue Sep 6 2022 10:33:59 for VSTGUI by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.3 </li>
   </ul>

@@ -1,9 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"classSteinberg_1_1Vst_1_1SpeakerArray.html#ac29b5ae06a98cb03a0f046667a1075e6":[4,0,0,1,11,0],
-"classSteinberg_1_1Vst_1_1SpeakerArray.html#ac76e244dc55fc95106885718c4b6bdc3":[4,0,0,1,11,5],
-"classSteinberg_1_1Vst_1_1SpeakerArray.html#afef9cc041dcdf172dd2114307f5b3ae7":[4,0,0,1,11,4],
-"classSteinberg_1_1Vst_1_1StringListParameter.html":[2,0,19],
 "classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7":[2,0,19,3],
 "classSteinberg_1_1Vst_1_1StringListParameter.html#a5a9dee2a0836631d70d59cde796132a0":[2,0,19,9],
 "classSteinberg_1_1Vst_1_1StringListParameter.html#a64274ff145c58620b9b7c32fff087049":[2,0,19,8],
@@ -220,8 +216,8 @@ var NAVTREEINDEX3 =
 "functions_0x7e.html":[4,3,0,24],
 "functions_enum.html":[4,3,4],
 "functions_eval.html":[4,3,5],
-"functions_func.html":[4,3,1,0],
 "functions_func.html":[4,3,1],
+"functions_func.html":[4,3,1,0],
 "functions_func_0x62.html":[4,3,1,1],
 "functions_func_0x63.html":[4,3,1,2],
 "functions_func_0x64.html":[4,3,1,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX3 =
 "functions_vars.html":[4,3,2],
 "globals.html":[5,1,0],
 "globals_defs.html":[5,1,5],
-"globals_enum.html":[5,1,4]
+"globals_enum.html":[5,1,4],
+"globals_func.html":[5,1,1],
+"globals_type.html":[5,1,3],
+"globals_vars.html":[5,1,2],
+"group__hostingBase.html":[2,2]
 };

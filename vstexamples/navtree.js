@@ -66,9 +66,9 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a9f83d53e5233a6e3b1fe6c7a55a48e54",
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4dae123b5697706651d9ff20c9614f63",
 "eventlistcheck_8h.html",
-"logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae",
-"mdaEPianoProcessor_8cpp.html#aac1866175a2578574fc07c16e566c4fc",
-"pitchnames_8cpp.html#ac4ec04fa9828f2cf8f886a8dafb8e482"
+"logevents_8h.html#ad535885ce8f80d2d5eddc5423e73393e",
+"mdaDynamicsProcessor_8cpp.html",
+"pitchnames_2source_2version_8h.html#a7b9ca76cb4cc59f027ddabbe5f3f2118"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -22,5 +22,6 @@ var namespacemembers_dup =
     [ "t", "namespacemembers_0x74.html", null ],
     [ "u", "namespacemembers_0x75.html", null ],
     [ "v", "namespacemembers_0x76.html", null ],
-    [ "w", "namespacemembers_0x77.html", null ]
+    [ "w", "namespacemembers_0x77.html", null ],
+    [ "~", "namespacemembers_0x7e.html", null ]
 ];

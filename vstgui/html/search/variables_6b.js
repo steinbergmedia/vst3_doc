@@ -52,6 +52,7 @@ var searchData=
   ['kmsgoldfocusview',['kMsgOldFocusView',['../namespace_v_s_t_g_u_i.html#a51aedb414a3aedcf284e75ee25d0038f',1,'VSTGUI']]],
   ['kmsgtimer',['kMsgTimer',['../exception_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a1aa04d11363de1df614e2fbb549ad655',1,'VSTGUI::CVSTGUITimer']]],
   ['kmsgviewsizechanged',['kMsgViewSizeChanged',['../namespace_v_s_t_g_u_i.html#afd5fc871c1a7968e13353ef6a37a4c73',1,'VSTGUI']]],
+  ['knobmode',['knobMode',['../namespace_v_s_t_g_u_i.html#ac28c70eb15c62b58da3cfafc1307678e',1,'VSTGUI']]],
   ['knormalfont',['kNormalFont',['../namespace_v_s_t_g_u_i.html#aee3a15411fb6ad78249b3cf24672c0d2',1,'VSTGUI']]],
   ['knormalfontbig',['kNormalFontBig',['../namespace_v_s_t_g_u_i.html#a168bcd7a7c55c693ce949a7ef06f10df',1,'VSTGUI']]],
   ['knormalfontsmall',['kNormalFontSmall',['../namespace_v_s_t_g_u_i.html#a3f871e1844f1468e221244065b3b1778',1,'VSTGUI']]],

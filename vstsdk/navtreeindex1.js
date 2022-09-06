@@ -1,10 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"classSteinberg_1_1Vst_1_1ComponentBase.html#ab599093d44aa82deac5e46dba5cb8d18":[2,0,6,7],
-"classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12":[2,0,6,12],
-"classSteinberg_1_1Vst_1_1ComponentBase.html#ae8391f8417d768adbf055876641276cb":[2,0,6,2],
-"classSteinberg_1_1Vst_1_1ComponentBase.html#af5db5c33db4c9fa57a18b66fb714830c":[2,0,6,3],
-"classSteinberg_1_1Vst_1_1ConnectionProxy.html":[4,0,0,1,12],
 "classSteinberg_1_1Vst_1_1ConnectionProxy.html#a12db172f74059f7eceb63714f4589aa0":[4,0,0,1,12,5],
 "classSteinberg_1_1Vst_1_1ConnectionProxy.html#a4487b5c458a52ed743064aad105a244d":[4,0,0,1,12,7],
 "classSteinberg_1_1Vst_1_1ConnectionProxy.html#a6c2e8e8b1fbabb82ea67dcf81fb0c6b6":[4,0,0,1,12,3],
@@ -21,7 +16,6 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1EditController.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,7,18],
 "classSteinberg_1_1Vst_1_1EditController.html#a30a5f278c9ad42c540a11823241e59e3":[2,0,7,26],
 "classSteinberg_1_1Vst_1_1EditController.html#a375821f541e8b3338d3e2dbfae7433d8":[2,0,7,12],
-"classSteinberg_1_1Vst_1_1EditController.html#a39488062cf0aeb73f2d0ca6be4e3d28f":[2,0,7,32],
 "classSteinberg_1_1Vst_1_1EditController.html#a3d48394e540892e42a1ea9364f007cb7":[2,0,7,19],
 "classSteinberg_1_1Vst_1_1EditController.html#a460c259c620b7dbe5ee1f0e7bef6cd23":[2,0,7,29],
 "classSteinberg_1_1Vst_1_1EditController.html#a4dae123b5697706651d9ff20c9614f63":[2,0,7,17],
@@ -38,6 +32,7 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1EditController.html#a9c53db76959c3f687ebf0a9e039b5523":[2,0,7,14],
 "classSteinberg_1_1Vst_1_1EditController.html#a9d48aa02feb98d52c054d5f4198fa7c9":[2,0,7,1],
 "classSteinberg_1_1Vst_1_1EditController.html#a9ed9952fc33a6e0cac96a8f46de5d86c":[2,0,7,13],
+"classSteinberg_1_1Vst_1_1EditController.html#a9f6f0649ff7efe6061d32acef2e397e2":[2,0,7,32],
 "classSteinberg_1_1Vst_1_1EditController.html#aa6ee73dccd610b996e9ee60abb2401d1":[2,0,7,22],
 "classSteinberg_1_1Vst_1_1EditController.html#ab79fa22ff4d37cecd630af788e524a85":[2,0,7,0],
 "classSteinberg_1_1Vst_1_1EditController.html#ab96c751fa234ceae8bfa78ee8f375486":[2,0,7,23],
@@ -82,9 +77,9 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf":[2,0,8,0],
 "classSteinberg_1_1Vst_1_1EditorView.html#a0604e41b561a0dee460052ae5f350b0d":[2,0,8,1],
 "classSteinberg_1_1Vst_1_1EditorView.html#a061dda7bad880061767d3b1b1294026e":[2,0,8,2],
-"classSteinberg_1_1Vst_1_1EditorView.html#a67dc2ffc34f15b2bf3623d385706f966":[2,0,8,5],
 "classSteinberg_1_1Vst_1_1EditorView.html#a6d3d17488dd894c98e3eeaf4836739b3":[2,0,8,3],
 "classSteinberg_1_1Vst_1_1EditorView.html#ac56bd2ced2b9679faf3bd28125c85b8b":[2,0,8,4],
+"classSteinberg_1_1Vst_1_1EditorView.html#adf2e2c35f1cc675644d44a5318162ffd":[2,0,8,5],
 "classSteinberg_1_1Vst_1_1EventBus.html":[2,0,2],
 "classSteinberg_1_1Vst_1_1EventBus.html#a2ed5ab3d3805e3dfc2f6370c59a217ed":[2,0,2,0],
 "classSteinberg_1_1Vst_1_1EventBus.html#a5570b4631f4b2d4660a1b53e65c3d876":[2,0,2,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#ab02ba6d7a0043fecec571f8c4bbae516":[2,2,4,0],
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#acfb73c5aee1d941dc8bd1ddbe81a257b":[2,2,4,7],
 "classSteinberg_1_1Vst_1_1ParameterChanges.html#ae25dd37cc3fdc8e358826a08dc8566f2":[2,2,4,1],
-"classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a":[2,2,4,6]
+"classSteinberg_1_1Vst_1_1ParameterChanges.html#aecf67b64e5c0c9880530199fa9d7cc9a":[2,2,4,6],
+"classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd":[2,2,4,8],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html":[2,0,20],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585":[2,0,20,3],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a0321ac02fa41dfbea9fd1339c7946c8b":[2,0,20,8],
+"classSteinberg_1_1Vst_1_1ParameterContainer.html#a09ad76517b311128144d1a5d0dbfee99":[2,0,20,13]
 };

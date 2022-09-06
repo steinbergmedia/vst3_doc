@@ -115,6 +115,7 @@ var group__containerviews =
       [ "registerKeyboardHook", "exception_v_s_t_g_u_i_1_1_c_frame.html#a57e7f2c109fb40ae79918444fc19397f", null ],
       [ "registerMouseObserver", "exception_v_s_t_g_u_i_1_1_c_frame.html#a55ab49640413da54e270e410a7dd8da9", null ],
       [ "registerScaleFactorChangedListeneer", "exception_v_s_t_g_u_i_1_1_c_frame.html#a4731bf4d4e3436a3482ec9f2c82023eb", null ],
+      [ "registerScaleFactorChangedListener", "exception_v_s_t_g_u_i_1_1_c_frame.html#a4d77ab5870392e3b9b2ddae9a7e65c0e", null ],
       [ "removeAll", "exception_v_s_t_g_u_i_1_1_c_frame.html#aabd341267925286a64dd52c16072e0cd", null ],
       [ "removeFromMouseViews", "exception_v_s_t_g_u_i_1_1_c_frame.html#a8f5328af153c0e2cfff397131857b139", null ],
       [ "removeView", "exception_v_s_t_g_u_i_1_1_c_frame.html#a628758060bb2b806776d7654c53768ca", null ],
@@ -137,6 +138,7 @@ var group__containerviews =
       [ "unregisterKeyboardHook", "exception_v_s_t_g_u_i_1_1_c_frame.html#a01d927d3fbbeec8aeeca48d4d8b44c34", null ],
       [ "unregisterMouseObserver", "exception_v_s_t_g_u_i_1_1_c_frame.html#a0556144495a26b4b6c1c857cc3942ff4", null ],
       [ "unregisterScaleFactorChangedListeneer", "exception_v_s_t_g_u_i_1_1_c_frame.html#acc3ae9665921a1ec7a4a3881b07a1d2a", null ],
+      [ "unregisterScaleFactorChangedListener", "exception_v_s_t_g_u_i_1_1_c_frame.html#a7ac8cbefe4ab2eb81af6b5704eeace5c", null ],
       [ "kDefaultKnobMode", "exception_v_s_t_g_u_i_1_1_c_frame.html#afe15749e2ff50e7a5f332c825da699e3", null ]
     ] ],
     [ "CLayeredViewContainer", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html", [

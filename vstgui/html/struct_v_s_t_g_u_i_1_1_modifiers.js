@@ -9,8 +9,10 @@ var struct_v_s_t_g_u_i_1_1_modifiers =
     [ "has", "struct_v_s_t_g_u_i_1_1_modifiers.html#a731cb2ca5178db54646a48abf29d5939", null ],
     [ "is", "struct_v_s_t_g_u_i_1_1_modifiers.html#a45c259f4d38ac870d15e99b2ca9c0b4e", null ],
     [ "is", "struct_v_s_t_g_u_i_1_1_modifiers.html#ae927f8a2330174198266cc7b5a2163e5", null ],
+    [ "operator!=", "struct_v_s_t_g_u_i_1_1_modifiers.html#aef22a9279e0b6624b7d51b1f24e80a33", null ],
     [ "operator=", "struct_v_s_t_g_u_i_1_1_modifiers.html#a1e3ddde3129831fe0d7c57d8e61bc7ec", null ],
     [ "operator==", "struct_v_s_t_g_u_i_1_1_modifiers.html#a0b487af87f2c96caa83076471885f5f1", null ],
+    [ "operator==", "struct_v_s_t_g_u_i_1_1_modifiers.html#ae7c0c5c65f6dedaeaa8396223bab1ee0", null ],
     [ "operator|", "struct_v_s_t_g_u_i_1_1_modifiers.html#aaef4e4976fd8a3ab632710b471a024e9", null ],
     [ "remove", "struct_v_s_t_g_u_i_1_1_modifiers.html#ac1fb5ea4d3d74393e28217db05ebb469", null ]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['callsuper',['callSuper',['../../vstsdk/structSteinberg_1_1ObjCInstance.html#a40d1c81cfa49dd2dae47e5ee0a678046',1,'Steinberg::ObjCInstance::callSuper(SEL selector, T...args) const '],['../../vstsdk/structSteinberg_1_1ObjCInstance.html#ac9a665bd38b225c0e9d00c3198001b46',1,'Steinberg::ObjCInstance::callSuper(SEL selector, T...args) const ']]],
   ['canprocesssamplesize',['canProcessSampleSize',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html#a1c7a40be692f5ed7f009896af248beed',1,'Steinberg::Vst::AudioEffect::canProcessSampleSize()'],['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a1c7a40be692f5ed7f009896af248beed',1,'Steinberg::Vst::SingleComponentEffect::canProcessSampleSize()'],['../classSteinberg_1_1Vst_1_1IAudioProcessor.html#aa1a6f9c030b9b2f5c0602dca309bb23b',1,'Steinberg::Vst::IAudioProcessor::canProcessSampleSize()']]],
   ['canresize',['canResize',['../../base/classSteinberg_1_1IPlugView.html#a07d7a22ae1ef493c4bb22c9411ae7ddf',1,'Steinberg::IPlugView::canResize()'],['../../vstsdk/classSteinberg_1_1CPluginView.html#a0144570339d77dd0b571af3dbb7f73be',1,'Steinberg::CPluginView::canResize()']]],
   ['cardinality',['cardinality',['../../vstsdk/classVST3_1_1Hosting_1_1ClassInfo.html#a44108e1b8189370a1724c960e67b90bf',1,'VST3::Hosting::ClassInfo']]],

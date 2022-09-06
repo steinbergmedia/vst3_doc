@@ -105,113 +105,14 @@ $(document).ready(function(){initNavTree('aucocoaview_8h.html','');});
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#define-members">Macros</a>  </div>
   <div class="headertitle">
 <div class="title">aucocoaview.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#import &quot;aucocoaclassprefix.h&quot;</code><br/>
-<code>#import &lt;Cocoa/Cocoa.h&gt;</code><br/>
+<code>#import &lt;Foundation/Foundation.h&gt;</code><br/>
 <code>#import &lt;AudioUnit/AUCocoaUIView.h&gt;</code><br/>
-</div><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a1c3ae49880e65f7eba2c495c370dc3d8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aucocoaview_8h.html#a1c3ae49880e65f7eba2c495c370dc3d8">SMTG_AU_PLUGIN_NAMESPACE0</a>(x)&#160;&#160;&#160;x</td></tr>
-<tr class="separator:a1c3ae49880e65f7eba2c495c370dc3d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37d0945cc39e12d81da3fe574f8eea34"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aucocoaview_8h.html#a37d0945cc39e12d81da3fe574f8eea34">SMTG_AU_PLUGIN_NAMESPACE1</a>(a, b)&#160;&#160;&#160;a##_##b</td></tr>
-<tr class="separator:a37d0945cc39e12d81da3fe574f8eea34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab49d014c2d860d90042ee0917751bcf5"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aucocoaview_8h.html#ab49d014c2d860d90042ee0917751bcf5">SMTG_AU_PLUGIN_NAMESPACE2</a>(a, b)&#160;&#160;&#160;<a class="el" href="aucocoaview_8h.html#a37d0945cc39e12d81da3fe574f8eea34">SMTG_AU_PLUGIN_NAMESPACE1</a>(a,b)</td></tr>
-<tr class="separator:ab49d014c2d860d90042ee0917751bcf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7181a4b7492958fa1dbdfe7c6f9a06cd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aucocoaview_8h.html#a7181a4b7492958fa1dbdfe7c6f9a06cd">SMTG_AU_PLUGIN_NAMESPACE</a>(name)&#160;&#160;&#160;<a class="el" href="aucocoaview_8h.html#ab49d014c2d860d90042ee0917751bcf5">SMTG_AU_PLUGIN_NAMESPACE2</a>(<a class="el" href="aucocoaview_8h.html#a1c3ae49880e65f7eba2c495c370dc3d8">SMTG_AU_PLUGIN_NAMESPACE0</a>(name), <a class="el" href="aucocoaview_8h.html#a1c3ae49880e65f7eba2c495c370dc3d8">SMTG_AU_PLUGIN_NAMESPACE0</a>(SMTG_AU_NAMESPACE))</td></tr>
-<tr class="separator:a7181a4b7492958fa1dbdfe7c6f9a06cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a class="anchor" id="a1c3ae49880e65f7eba2c495c370dc3d8"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMTG_AU_PLUGIN_NAMESPACE0</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">x</td><td>)</td>
-          <td>&#160;&#160;&#160;x</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a37d0945cc39e12d81da3fe574f8eea34"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMTG_AU_PLUGIN_NAMESPACE1</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">a, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">b&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;a##_##b</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ab49d014c2d860d90042ee0917751bcf5"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMTG_AU_PLUGIN_NAMESPACE2</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">a, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">b&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="aucocoaview_8h.html#a37d0945cc39e12d81da3fe574f8eea34">SMTG_AU_PLUGIN_NAMESPACE1</a>(a,b)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a7181a4b7492958fa1dbdfe7c6f9a06cd"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMTG_AU_PLUGIN_NAMESPACE</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">name</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="aucocoaview_8h.html#ab49d014c2d860d90042ee0917751bcf5">SMTG_AU_PLUGIN_NAMESPACE2</a>(<a class="el" href="aucocoaview_8h.html#a1c3ae49880e65f7eba2c495c370dc3d8">SMTG_AU_PLUGIN_NAMESPACE0</a>(name), <a class="el" href="aucocoaview_8h.html#a1c3ae49880e65f7eba2c495c370dc3d8">SMTG_AU_PLUGIN_NAMESPACE0</a>(SMTG_AU_NAMESPACE))</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-</div><!-- contents -->
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <html>
     <head>

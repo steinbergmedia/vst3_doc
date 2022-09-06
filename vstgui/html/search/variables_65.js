@@ -6,7 +6,7 @@ var searchData=
   ['editing',['editing',['../struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#a980bc9634a67f1b49e6af4d27db3d18c',1,'VSTGUI::CControl::Impl']]],
   ['editingenabled',['editingEnabled',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#adc43cae2b8c66b84628ffb9c3816ff59',1,'VSTGUI::VST3Editor']]],
   ['editor',['editor',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a6d9f52e7c58cb7472025e716b060b380',1,'VSTGUI::CFrame::Impl']]],
-  ['effect',['effect',['../class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html#ae67f777ab5a3eb4bad379eac85310acf',1,'VSTGUI::PluginGUIEditor']]],
+  ['effect',['effect',['../namespace_v_s_t_g_u_i.html#ae67f777ab5a3eb4bad379eac85310acf',1,'VSTGUI']]],
   ['elements',['elements',['../class_v_s_t_g_u_i_1_1_c_graphics_path.html#af53e16429105ead070bf3fdbc6e98140',1,'VSTGUI::CGraphicsPath']]],
   ['enabled',['enabled',['../struct_v_s_t_g_u_i_1_1_focus_drawing_settings.html#a8740ba80e30dd75e71d09fa1dcf04f3d',1,'VSTGUI::FocusDrawingSettings']]],
   ['endedfunc',['endedFunc',['../class_v_s_t_g_u_i_1_1_drag_callback_functions.html#a1463ae390510a39e84d21e82be424fb1',1,'VSTGUI::DragCallbackFunctions']]],

@@ -19,10 +19,17 @@ var hostcheckercontroller_8h =
     [ "kRestartParamTitlesChangedTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a4aa199a87ec77535f30478d62ddc5d55", null ],
     [ "kProcessWarnTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04ae8cff5408066b4167241eedf3679cf3d", null ],
     [ "kLastTag", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a93e21950be830dbb0584b13931e8ec91", null ],
+    [ "kParamUnitStructStart", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04aee26cf698afb1918be7c10238e8c88b7", null ],
+    [ "kParamUnitStructEnd", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a3fdf21a2a9a1185b0431cc3e0c5f48a6", null ],
     [ "kUnitId", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a390c94ed7f81f33a64dc96dd65c24aad", null ],
     [ "kUnit2Id", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04ae08509ca4981dea660e42a45553830b8", null ],
+    [ "kUnitParamIdStart", "hostcheckercontroller_8h.html#abc6126af1d45847bc59afa0aa3216b04a51f66432226c150a75e93a5f0649daab", null ],
     [ "kMaxLatency", "hostcheckercontroller_8h.html#ae3d4ad032b2586752aaefe7d98b3b352", null ],
     [ "kParamWarnCount", "hostcheckercontroller_8h.html#a82a59297717d21868266e8a4fd1da4f0", null ],
     [ "kParamWarnBitCount", "hostcheckercontroller_8h.html#a72e8435dc9b0315802adde434a4fcd14", null ],
-    [ "kParamWarnStepCount", "hostcheckercontroller_8h.html#a4bc22a30a6391416bcaa23b915d31916", null ]
+    [ "kParamWarnStepCount", "hostcheckercontroller_8h.html#a4bc22a30a6391416bcaa23b915d31916", null ],
+    [ "kParamUnitStruct1Count", "hostcheckercontroller_8h.html#ad4383350836de663faf25e58dc9b6529", null ],
+    [ "kParamUnitStruct2Count", "hostcheckercontroller_8h.html#a097fa93de17b33e8238e948e44f01527", null ],
+    [ "kParamUnitStruct3Count", "hostcheckercontroller_8h.html#a378cad607bca2ff3c5374cc956760452", null ],
+    [ "kParamUnitStructCount", "hostcheckercontroller_8h.html#a84a49c10ae740d6cf7b295f653712274", null ]
 ];

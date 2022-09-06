@@ -1,8 +1,8 @@
 var searchData=
 [
   ['paramchanges',['ParamChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1ParamChanges.html',1,'Steinberg::Vst']]],
-  ['parameter',['Parameter',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html',1,'Steinberg::Vst::SampleAccurate']]],
   ['parameter',['Parameter',['../../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html',1,'Steinberg::Vst']]],
+  ['parameter',['Parameter',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html',1,'Steinberg::Vst::SampleAccurate']]],
   ['parameterchange',['ParameterChange',['../../vstsdk/structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html',1,'Steinberg::Vst::ParameterChangeTransfer']]],
   ['parameterchanges',['ParameterChanges',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html',1,'Steinberg::Vst']]],
   ['parameterchangetransfer',['ParameterChangeTransfer',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html',1,'Steinberg::Vst']]],

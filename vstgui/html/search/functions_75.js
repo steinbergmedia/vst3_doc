@@ -17,6 +17,7 @@ var searchData=
   ['unregistermouseobserver',['unregisterMouseObserver',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a0556144495a26b4b6c1c857cc3942ff4',1,'VSTGUI::CFrame']]],
   ['unregisteroptionmenulistener',['unregisterOptionMenuListener',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#a398184a1dfabd358749fdf16336f3d94',1,'VSTGUI::COptionMenu']]],
   ['unregisterscalefactorchangedlisteneer',['unregisterScaleFactorChangedListeneer',['../exception_v_s_t_g_u_i_1_1_c_frame.html#acc3ae9665921a1ec7a4a3881b07a1d2a',1,'VSTGUI::CFrame']]],
+  ['unregisterscalefactorchangedlistener',['unregisterScaleFactorChangedListener',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a7ac8cbefe4ab2eb81af6b5704eeace5c',1,'VSTGUI::CFrame']]],
   ['unregistertexteditlistener',['unregisterTextEditListener',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#a73b733cec816b3cb865065ef046dc2c1',1,'VSTGUI::CTextEdit']]],
   ['unregistertextlabellistener',['unregisterTextLabelListener',['../class_v_s_t_g_u_i_1_1_c_text_label.html#ae45ca1f6f8d65c29e6a0a38daaf89ef4',1,'VSTGUI::CTextLabel']]],
   ['unregisterviewcontainerlistener',['unregisterViewContainerListener',['../class_v_s_t_g_u_i_1_1_c_view_container.html#a4263f587ad1d090ad3b8468f88c886b8',1,'VSTGUI::CViewContainer']]],

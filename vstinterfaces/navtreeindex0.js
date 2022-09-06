@@ -206,7 +206,7 @@ var NAVTREEINDEX0 =
 "classSteinberg_1_1Vst_1_1IParameterChanges.html":[2,0,0,1,68],
 "classSteinberg_1_1Vst_1_1IParameterChanges.html#a6afbd15adb1f5b2f6d2101ad73b5c375":[2,0,0,1,68,1],
 "classSteinberg_1_1Vst_1_1IParameterChanges.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1":[2,0,0,1,68,0],
-"classSteinberg_1_1Vst_1_1IParameterChanges.html#af8399d51b057de8ac28ccaa88b9a88e5":[2,0,0,1,68,2],
+"classSteinberg_1_1Vst_1_1IParameterChanges.html#ad8a5fbbc08fc082c41ad859b01247b8e":[2,0,0,1,68,2],
 "classSteinberg_1_1Vst_1_1IParameterFinder.html":[0,9,1],
 "classSteinberg_1_1Vst_1_1IParameterFinder.html#afd8d9733eee7b052280d7ddd0057b8ea":[0,9,1,0],
 "classSteinberg_1_1Vst_1_1IParameterFunctionName.html":[2,0,0,1,69],

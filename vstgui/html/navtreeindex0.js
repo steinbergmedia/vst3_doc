@@ -1,6 +1,7 @@
 var NAVTREEINDEX0 =
 {
 "annotated.html":[10,0],
+"class_plugin_g_u_i_editor.html":[10,0,3],
 "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html":[10,0,2,139],
 "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html#a055cc3647efae25d32645a4d44c59426":[10,0,2,139,5],
 "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html#a1607650d2fb5f4a088b4003ed5d1ce87":[10,0,2,139,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_factory.html#a6d34792644e5765a80de948cefa0d271":[8,1,1,2,0],
 "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_factory.html#a86201fe297c2a0f412bda516d5e14bef":[8,1,1,2,6],
 "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_factory.html#a87eac43242249d8b4763e0ae4e11c748":[8,1,1,2,3],
-"class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html":[8,1,1,3],
-"class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html#a2ff96652e89b99f424c047a59e85850d":[8,1,1,3,1]
+"class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html":[8,1,1,3]
 };

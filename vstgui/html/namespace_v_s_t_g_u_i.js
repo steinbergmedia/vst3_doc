@@ -141,7 +141,6 @@ var namespace_v_s_t_g_u_i =
     [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller" ],
     [ "AEffGUIEditor", "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html", "class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor" ],
     [ "ERect", "struct_v_s_t_g_u_i_1_1_e_rect.html", "struct_v_s_t_g_u_i_1_1_e_rect" ],
-    [ "PluginGUIEditor", "class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html", "class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor" ],
     [ "ParameterChangeListener", "class_v_s_t_g_u_i_1_1_parameter_change_listener.html", "class_v_s_t_g_u_i_1_1_parameter_change_listener" ],
     [ "VST3EditorDelegate", "class_v_s_t_g_u_i_1_1_v_s_t3_editor_delegate.html", "class_v_s_t_g_u_i_1_1_v_s_t3_editor_delegate" ],
     [ "GroupController", "class_v_s_t_g_u_i_1_1_group_controller.html", "class_v_s_t_g_u_i_1_1_group_controller" ],

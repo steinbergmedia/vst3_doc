@@ -1,7 +1,7 @@
 var searchData=
 [
   ['idatapackage',['IDataPackage',['../class_v_s_t_g_u_i_1_1_i_data_package.html#a1d25fa5493ce419faa55d870f9cde45f',1,'VSTGUI::IDataPackage']]],
-  ['idle',['idle',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'VSTGUI::CFrame::idle()'],['../class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'VSTGUI::AEffGUIEditor::idle()'],['../class_v_s_t_g_u_i_1_1_plugin_g_u_i_editor.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'VSTGUI::PluginGUIEditor::idle()']]],
+  ['idle',['idle',['../exception_v_s_t_g_u_i_1_1_c_frame.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'VSTGUI::CFrame::idle()'],['../class_v_s_t_g_u_i_1_1_a_eff_g_u_i_editor.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'VSTGUI::AEffGUIEditor::idle()'],['../namespace_v_s_t_g_u_i.html#a5dc8b2fd62c9345f83cdfae2ca18cec9',1,'VSTGUI::idle()']]],
   ['ignorefollowupmoveandupevents',['ignoreFollowUpMoveAndUpEvents',['../struct_v_s_t_g_u_i_1_1_mouse_down_up_move_event.html#abcb2e367e52e88ae929001e9bf73ccc9',1,'VSTGUI::MouseDownUpMoveEvent::ignoreFollowUpMoveAndUpEvents(bool state)'],['../struct_v_s_t_g_u_i_1_1_mouse_down_up_move_event.html#ad44a253cf41dfc44f3b587cf7645c6bc',1,'VSTGUI::MouseDownUpMoveEvent::ignoreFollowUpMoveAndUpEvents()']]],
   ['imultibitmapcontrol',['IMultiBitmapControl',['../class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#a80b9165aab19c3e4cd1f37a5c5c3b1dc',1,'VSTGUI::IMultiBitmapControl']]],
   ['includeinvisible',['includeInvisible',['../struct_v_s_t_g_u_i_1_1_get_view_options.html#a4b6297f6709e271f71767580d2febd0a',1,'VSTGUI::GetViewOptions']]],

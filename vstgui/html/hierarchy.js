@@ -37,6 +37,7 @@ var hierarchy =
       ] ],
       [ "CXYPad", "class_v_s_t_g_u_i_1_1_c_x_y_pad.html", null ]
     ] ],
+    [ "CMultiFrameBitmapDescription", "struct_v_s_t_g_u_i_1_1_c_multi_frame_bitmap_description.html", null ],
     [ "CNinePartTiledDescription", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html", null ],
     [ "CFrame::CollectInvalidRects", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html", null ],
     [ "Command", "struct_v_s_t_g_u_i_1_1_standalone_1_1_command.html", null ],
@@ -46,6 +47,7 @@ var hierarchy =
     [ "CPoint", "struct_v_s_t_g_u_i_1_1_c_point.html", null ],
     [ "CRect", "struct_v_s_t_g_u_i_1_1_c_rect.html", null ],
     [ "CResourceDescription", "class_v_s_t_g_u_i_1_1_c_resource_description.html", null ],
+    [ "DataPackageIterator", "struct_v_s_t_g_u_i_1_1_data_package_iterator.html", null ],
     [ "CCommandMenuItem::Desc", "struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html", null ],
     [ "DispatchList< T >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DispatchList< IControlListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
@@ -343,6 +345,7 @@ var hierarchy =
           [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html", null ]
         ] ],
         [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html", [
+          [ "CMultiFrameBitmap", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html", null ],
           [ "CNinePartTiledBitmap", "class_v_s_t_g_u_i_1_1_c_nine_part_tiled_bitmap.html", null ]
         ] ],
         [ "CBitmapPixelAccess", "class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html", null ],
@@ -377,6 +380,7 @@ var hierarchy =
     [ "IScrollbarDrawer", "class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html", null ],
     [ "ISplitViewController", "class_v_s_t_g_u_i_1_1_i_split_view_controller.html", null ],
     [ "ISplitViewSeparatorDrawer", "class_v_s_t_g_u_i_1_1_i_split_view_separator_drawer.html", null ],
+    [ "DataPackageIterator::Item", "struct_v_s_t_g_u_i_1_1_data_package_iterator_1_1_item.html", null ],
     [ "CViewContainer::Iterator< reverse >", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html", null ],
     [ "ITextEditListener", "class_v_s_t_g_u_i_1_1_i_text_edit_listener.html", [
       [ "TextEditListenerAdapter", "class_v_s_t_g_u_i_1_1_text_edit_listener_adapter.html", null ]
@@ -417,6 +421,7 @@ var hierarchy =
         ] ],
         [ "LayeredViewContainerCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_layered_view_container_creator.html", null ],
         [ "MultiBitmapControlCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_multi_bitmap_control_creator.html", [
+          [ "AutoAnimationCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_auto_animation_creator.html", null ],
           [ "KickButtonCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_kick_button_creator.html", null ],
           [ "MovieBitmapCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_movie_bitmap_creator.html", null ],
           [ "MovieButtonCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_movie_button_creator.html", null ],

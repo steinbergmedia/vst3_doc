@@ -11,7 +11,7 @@ var searchData=
   ['platform_5f64',['PLATFORM_64',['../fplatform_8h.html#a8a69d29963cd266cdf2d13bbaecb439d',1,'fplatform.h']]],
   ['platform_20ui_20types',['Platform UI Types',['../group__platformUIType.html',1,'']]],
   ['pluginbasefwd_2eh',['pluginbasefwd.h',['../pluginbasefwd_8h.html',1,'']]],
-  ['print',['print',['../classSteinberg_1_1FUID.html#af4c3e90529c90252f58d856dfbf43c6a',1,'Steinberg::FUID']]],
+  ['print',['print',['../classSteinberg_1_1FUID.html#a87f395d2dab31085a814b066b94e2f0a',1,'Steinberg::FUID::print(int32 style, char8 *string=nullptr, size_t stringBufferSize=0) const '],['../classSteinberg_1_1FUID.html#af4c3e90529c90252f58d856dfbf43c6a',1,'Steinberg::FUID::print(char8 *string=nullptr, int32 style=kINLINE_UID) const ']]],
   ['printfloat',['printFloat',['../classSteinberg_1_1UString.html#a0444f6da111b2df3c6289775e3eb24b6',1,'Steinberg::UString']]],
   ['printint',['printInt',['../classSteinberg_1_1UString.html#ab1482d79e1ddf9a1cff1c41ea93df50e',1,'Steinberg::UString']]],
   ['pthreads',['PTHREADS',['../fplatform_8h.html#a3c2a454c4a71caf93110e4a1d5db7a55',1,'fplatform.h']]],

@@ -92,7 +92,7 @@ var searchData=
   ['presetsaveviewcontroller_2eh',['PresetSaveViewController.h',['../PresetSaveViewController_8h.html',1,'']]],
   ['presetsaveviewcontroller_2emm',['PresetSaveViewController.mm',['../PresetSaveViewController_8mm.html',1,'']]],
   ['pressure',['pressure',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html#ac870e1249bab4a2a68cc4126761d24ef',1,'Steinberg::Vst::PolyPressureEvent::pressure()'],['../structSteinberg_1_1Vst_1_1MPE_1_1Setup.html#ac74d3877c4ed65e4dbd0b3ce6da64f5f',1,'Steinberg::Vst::MPE::Setup::pressure()']]],
-  ['print',['print',['../../base/classSteinberg_1_1FUID.html#af4c3e90529c90252f58d856dfbf43c6a',1,'Steinberg::FUID']]],
+  ['print',['print',['../../base/classSteinberg_1_1FUID.html#a87f395d2dab31085a814b066b94e2f0a',1,'Steinberg::FUID::print(int32 style, char8 *string=nullptr, size_t stringBufferSize=0) const '],['../../base/classSteinberg_1_1FUID.html#af4c3e90529c90252f58d856dfbf43c6a',1,'Steinberg::FUID::print(char8 *string=nullptr, int32 style=kINLINE_UID) const ']]],
   ['printfloat',['printFloat',['../../base/classSteinberg_1_1UString.html#a0444f6da111b2df3c6289775e3eb24b6',1,'Steinberg::UString']]],
   ['printint',['printInt',['../../base/classSteinberg_1_1UString.html#ab1482d79e1ddf9a1cff1c41ea93df50e',1,'Steinberg::UString']]],
   ['printtestheader',['printTestHeader',['../classSteinberg_1_1Vst_1_1TestBase.html#aa2a890cf23bc6df3266783a3d8e4da09',1,'Steinberg::Vst::TestBase']]],

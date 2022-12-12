@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['keycode',['KeyCode',['../structSteinberg_1_1KeyCode.html#a369196628f59121a2b3316e30b3b4c63',1,'Steinberg::KeyCode']]]
+  ['keycode',['KeyCode',['../structSteinberg_1_1KeyCode.html#ac4958ca60089178239d1b9e93bdc985e',1,'Steinberg::KeyCode']]]
 ];

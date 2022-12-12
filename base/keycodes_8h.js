@@ -73,6 +73,7 @@ var keycodes_8h =
       [ "KEY_F17", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba5ce646467129e626c1ec8888f80045ed", null ],
       [ "KEY_F18", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22bab6e856fc1ebc35abda65fd30fe9deeca", null ],
       [ "KEY_F19", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22baa385ff09ff5f05a4fedb1e75570baa8b", null ],
+      [ "KEY_SUPER", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22baf6db7ad5110a115d774dd8d74d333a42", null ],
       [ "VKEY_FIRST_CODE", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba0abb06f320e406fbe76c08b2f5909ad6", null ],
       [ "VKEY_LAST_CODE", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba219b7884c92935dc6365a7fec8b55bcf", null ],
       [ "VKEY_FIRST_ASCII", "keycodes_8h.html#a9380117707cebcb5a3cd9fa8b960e22ba39f030dbc1bfdb4a14a310acc744178f", null ]
@@ -83,7 +84,7 @@ var keycodes_8h =
       [ "kCommandKey", "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078", null ],
       [ "kControlKey", "keycodes_8h.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c", null ]
     ] ],
-    [ "VirtualKeyCodeToChar", "keycodes_8h.html#aac1c8cc4f206d2342fdd10c5c3d2fc6f", null ],
-    [ "CharToVirtualKeyCode", "keycodes_8h.html#af3106a92c99884d4eb8bef6f0f35e4b8", null ],
+    [ "VirtualKeyCodeToChar", "keycodes_8h.html#a862d540e903360c185899756ea6f8fa6", null ],
+    [ "CharToVirtualKeyCode", "keycodes_8h.html#a826c154067a1494875f963d77bbee8ca", null ],
     [ "isModifierOnlyKey", "keycodes_8h.html#ad183c365a06b5560e86a61439e756a19", null ]
 ];

@@ -571,6 +571,7 @@ var group__new__in__4__0 =
       [ "changeFontName", "class_v_s_t_g_u_i_1_1_u_i_description.html#ab82fe6927626cf3bbe413a5339c05363", null ],
       [ "changeGradient", "class_v_s_t_g_u_i_1_1_u_i_description.html#af16e33b03a5cb6fa0b5bb99249158590", null ],
       [ "changeGradientName", "class_v_s_t_g_u_i_1_1_u_i_description.html#a737f86f14e4b0ce52d7843dee37a8985", null ],
+      [ "changeMultiFrameBitmap", "class_v_s_t_g_u_i_1_1_u_i_description.html#affcce0dc65ece9d8aa41a66c785e2c95", null ],
       [ "changeTagName", "class_v_s_t_g_u_i_1_1_u_i_description.html#a44ae79bcced591ee12fdb0e259d94060", null ],
       [ "changeTemplateName", "class_v_s_t_g_u_i_1_1_u_i_description.html#a91448ffe9496f7b3a1ee3597de7a5eb0", null ],
       [ "collectBitmapFilters", "class_v_s_t_g_u_i_1_1_u_i_description.html#a92545d0a54dfaa1b55f71f9c4d5ef0a1", null ],

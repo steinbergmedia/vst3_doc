@@ -54,7 +54,7 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1ParameterContainer.html#a17ccf658ed2936c9d740dd1c5fada5dc",
 "classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7",
 "group__sdkBase.html",
-"structVST3_1_1UID.html#a3c51e756b20c74eaac5682a217fa7ec8"
+"structVST3_1_1UID.html#a20b2abb54d43add1d16c4c4660c43922"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -2,6 +2,7 @@ var namespace_v_s_t_g_u_i_1_1_u_i_view_creator =
 [
     [ "AnimationSplashScreenCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_animation_splash_screen_creator.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_animation_splash_screen_creator" ],
     [ "AnimKnobCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_anim_knob_creator.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_anim_knob_creator" ],
+    [ "AutoAnimationCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_auto_animation_creator.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_auto_animation_creator" ],
     [ "CheckBoxCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_check_box_creator.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_check_box_creator" ],
     [ "CControlCreatorDummyControl", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_c_control_creator_dummy_control.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_c_control_creator_dummy_control" ],
     [ "ControlCreator", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_control_creator.html", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_control_creator" ],

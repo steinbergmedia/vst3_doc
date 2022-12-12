@@ -327,7 +327,7 @@ var searchData=
   ['kexperimentalnoise',['kExperimentalNoise',['../group__musicalStyle.html#ga6d711a097823788b80c4373b0df67287',1,'Steinberg::Vst::MusicalStyle']]],
   ['kexpressiontypeid',['kExpressionTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a5e7ae2b2c476af4e9cdfd62902d68880',1,'Steinberg::Vst']]],
   ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html',1,'Steinberg']]],
-  ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html#a369196628f59121a2b3316e30b3b4c63',1,'Steinberg::KeyCode']]],
+  ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html#ac4958ca60089178239d1b9e93bdc985e',1,'Steinberg::KeyCode']]],
   ['keycodes_2eh',['keycodes.h',['../../base/keycodes_8h.html',1,'']]],
   ['keynote',['keyNote',['../structSteinberg_1_1Vst_1_1Chord.html#a4aaf84930c8913e7e3712874f2a5e04a',1,'Steinberg::Vst::Chord']]],
   ['keyremapped',['keyRemapped',['../structSteinberg_1_1Vst_1_1KeyswitchInfo.html#aaa5123c15f3514c8e4db594017c44130',1,'Steinberg::Vst::KeyswitchInfo']]],

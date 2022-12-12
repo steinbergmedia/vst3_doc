@@ -7,6 +7,7 @@ var searchData=
   ['address',['address',['../class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html#adace5c068aa45fa60bf108bc2a418cd6',1,'VSTGUI::CBitmapPixelAccess']]],
   ['allowedzoomfactors',['allowedZoomFactors',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ace969706539232b2986e31da7e7f8007',1,'VSTGUI::VST3Editor']]],
   ['alpha',['alpha',['../struct_v_s_t_g_u_i_1_1_c_color.html#acf5bb76caa419c0fa231dbd66c881084',1,'VSTGUI::CColor']]],
+  ['animationframetime',['animationFrameTime',['../class_v_s_t_g_u_i_1_1_c_auto_animation.html#a275bcd40970f1aaae9a958fd95d1e803',1,'VSTGUI::CAutoAnimation']]],
   ['animationindex',['animationIndex',['../class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a99de761c9ac5817ab552eba94d954786',1,'VSTGUI::CAnimationSplashScreen']]],
   ['animationstyle',['animationStyle',['../class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a0395c1c995896dcc42f9e7c7322147fa',1,'VSTGUI::UIViewSwitchContainer']]],
   ['animationtime',['animationTime',['../class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::CAnimationSplashScreen::animationTime()'],['../class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::UIViewSwitchContainer::animationTime()']]],

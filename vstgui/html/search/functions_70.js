@@ -17,7 +17,7 @@ var searchData=
   ['performstringappendvalueedit',['performStringAppendValueEdit',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#acacdceb8ee4274697d57df2c53025359',1,'VSTGUI::Standalone::Value']]],
   ['performstringvalueedit',['performStringValueEdit',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#a607c4378f51dbe819496dc035cfe42a8',1,'VSTGUI::Standalone::Value']]],
   ['plaintonormalize',['plainToNormalize',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#ad68ab72b6248290c348fba2692925363',1,'VSTGUI::Standalone::Value']]],
-  ['plaintonormalized',['plainToNormalized',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_converter.html#a25d5001932a7baf76e9d5f145e4ab786',1,'VSTGUI::Standalone::IValueConverter']]],
+  ['plaintonormalized',['plainToNormalized',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_converter.html#a25d5001932a7baf76e9d5f145e4ab786',1,'VSTGUI::Standalone::IValueConverter::plainToNormalized()'],['../namespace_v_s_t_g_u_i.html#aefc8720a3354f04cd919828c183d2f2c',1,'VSTGUI::plainToNormalized()']]],
   ['platformdrawrect',['platformDrawRect',['../exception_v_s_t_g_u_i_1_1_c_frame.html#aafce94f30653d0fa99e31362075921c8',1,'VSTGUI::CFrame']]],
   ['platformgetbackcolor',['platformGetBackColor',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#a002fe291748102259b4e5b66c5da5c36',1,'VSTGUI::CTextEdit']]],
   ['platformgetfont',['platformGetFont',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#aab62097f88299ac665cadbe44f1c5241',1,'VSTGUI::CTextEdit']]],

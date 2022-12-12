@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classSteinberg_1_1UString.html#afb01c45e7e544d446309bb6f3d3c73ad":[2,0,0,21,8],
 "classSteinberg_1_1UStringBuffer.html":[2,0,0,22],
 "classSteinberg_1_1UStringBuffer.html#a6f858761bd4a84aa683759e4cc4b5fbd":[2,0,0,22,1],
 "classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf":[2,0,0,22,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "group__pluginBase.html#ga4996ab6ef4807df458b8d49d47e10871":[0,0,14],
 "group__pluginGUI.html":[0,1],
 "hierarchy.html":[2,2],
-"ibstream_8h.html":[3,0,14],
-"icloneable_8h.html":[3,0,15]
+"ibstream_8h.html":[3,0,14]
 };

@@ -17,5 +17,6 @@ var searchData=
   ['normalfontverybig',['normalFontVeryBig',['../struct_v_s_t_g_u_i_1_1_global_fonts.html#a061abdaa46918e3d3c3c7ba04f0e20b3',1,'VSTGUI::GlobalFonts']]],
   ['normalfontverysmall',['normalFontVerySmall',['../struct_v_s_t_g_u_i_1_1_global_fonts.html#a3729ad9883813d03460c08eb8d495b2f',1,'VSTGUI::GlobalFonts']]],
   ['nothandled',['NotHandled',['../struct_v_s_t_g_u_i_1_1_event_consume_state.html#a8f13b276344ed5f0d86069166ab1a5e4',1,'VSTGUI::EventConsumeState']]],
-  ['numberofchilds',['numberOfChilds',['../class_v_s_t_g_u_i_1_1_c_tab_view.html#a3c344778bc85c0867810d11d4e653031',1,'VSTGUI::CTabView']]]
+  ['numberofchilds',['numberOfChilds',['../class_v_s_t_g_u_i_1_1_c_tab_view.html#a3c344778bc85c0867810d11d4e653031',1,'VSTGUI::CTabView']]],
+  ['numframes',['numFrames',['../struct_v_s_t_g_u_i_1_1_c_multi_frame_bitmap_description.html#aa1496e76b22f53183e34a50f248bd9ca',1,'VSTGUI::CMultiFrameBitmapDescription']]]
 ];

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['databrowserdelegateadapter',['DataBrowserDelegateAdapter',['../class_v_s_t_g_u_i_1_1_data_browser_delegate_adapter.html',1,'VSTGUI']]],
+  ['datapackageiterator',['DataPackageIterator',['../struct_v_s_t_g_u_i_1_1_data_package_iterator.html',1,'VSTGUI']]],
   ['delegateadapter',['DelegateAdapter',['../class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html',1,'VSTGUI::Standalone::Application']]],
   ['delegationcontroller',['DelegationController',['../class_v_s_t_g_u_i_1_1_delegation_controller.html',1,'VSTGUI']]],
   ['desc',['Desc',['../struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html',1,'VSTGUI::CCommandMenuItem']]],

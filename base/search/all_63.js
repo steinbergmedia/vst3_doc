@@ -10,7 +10,7 @@ var searchData=
   ['char16',['char16',['../namespaceSteinberg.html#a667a0a4e0cbcb3f3785984955e1fefd8',1,'Steinberg']]],
   ['char8',['char8',['../namespaceSteinberg.html#ac9e1c0f508ae0f5f8a2b704a91e1ae86',1,'Steinberg']]],
   ['character',['character',['../structSteinberg_1_1KeyCode.html#ac6027d2dbb9ac08b3b6729341c0bcf8f',1,'Steinberg::KeyCode']]],
-  ['chartovirtualkeycode',['CharToVirtualKeyCode',['../namespaceSteinberg.html#af3106a92c99884d4eb8bef6f0f35e4b8',1,'Steinberg']]],
+  ['chartovirtualkeycode',['CharToVirtualKeyCode',['../namespaceSteinberg.html#a826c154067a1494875f963d77bbee8ca',1,'Steinberg']]],
   ['checksizeconstraint',['checkSizeConstraint',['../classSteinberg_1_1IPlugView.html#adc868253b8260f20a6764e338fecb7e1',1,'Steinberg::IPlugView']]],
   ['cid',['cid',['../structSteinberg_1_1PClassInfo.html#a418a6a237a27e446af982acc6cfa1f48',1,'Steinberg::PClassInfo::cid()'],['../structSteinberg_1_1PClassInfo2.html#a418a6a237a27e446af982acc6cfa1f48',1,'Steinberg::PClassInfo2::cid()'],['../structSteinberg_1_1PClassInfoW.html#a418a6a237a27e446af982acc6cfa1f48',1,'Steinberg::PClassInfoW::cid()']]],
   ['classcardinality',['ClassCardinality',['../structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeece',1,'Steinberg::PClassInfo']]],

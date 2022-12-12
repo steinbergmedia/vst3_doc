@@ -1,9 +1,9 @@
 var class_v_s_t_g_u_i_1_1_c_switch_base =
 [
     [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html#aa6524c3d00b22c2d920ec8db0f4473f1", null ],
-    [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html#ae42febf9e6c738d9ebbcfc698ee44d3a", null ],
     [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html#a0b4b6dd7c4126e9728820b11951e5145", null ],
     [ "~CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html#a7dedbe936667e798f6b08ca93cc4e96d", null ],
+    [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html#ae42febf9e6c738d9ebbcfc698ee44d3a", null ],
     [ "calcNormFromPoint", "class_v_s_t_g_u_i_1_1_c_switch_base.html#a1397bed7d1ed2fdc0f758c7dd6004bea", null ],
     [ "calculateCoef", "class_v_s_t_g_u_i_1_1_c_switch_base.html#a773effc89e3d49286a4bb1ba250b6202", null ],
     [ "draw", "class_v_s_t_g_u_i_1_1_c_switch_base.html#a79e674b14bc222779b90738ef8f6e096", null ],

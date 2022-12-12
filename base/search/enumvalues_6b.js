@@ -91,6 +91,7 @@ var searchData=
   ['key_5fsnapshot',['KEY_SNAPSHOT',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22bacc39d60a35433541177dbd7bf01a8257',1,'Steinberg']]],
   ['key_5fspace',['KEY_SPACE',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22ba01d2889f9a7550008ad6140c41e733de',1,'Steinberg']]],
   ['key_5fsubtract',['KEY_SUBTRACT',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22baf6ba424919235c2cbbac7184e3625395',1,'Steinberg']]],
+  ['key_5fsuper',['KEY_SUPER',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22baf6db7ad5110a115d774dd8d74d333a42',1,'Steinberg']]],
   ['key_5ftab',['KEY_TAB',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22ba60c75f9c8eded88ef76c0c94da27963c',1,'Steinberg']]],
   ['key_5fup',['KEY_UP',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22ba0848a442d907968b211b97bc2bd88acd',1,'Steinberg']]],
   ['key_5fvolume_5fdown',['KEY_VOLUME_DOWN',['../namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22ba2304f457aba66febcf852dbf1cbae8b0',1,'Steinberg']]],

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['scalefactor',['ScaleFactor',['../../base/classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport']]],
-  ['scoremap',['ScoreMap',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a024be3950228094475b832cfa5228d80',1,'Steinberg::Vst::HostCheckerController']]],
+  ['scoremap',['ScoreMap',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a7616efb48a8996352f9aefdd5d125924',1,'Steinberg::Vst::HostCheckerController']]],
   ['sizefunc',['SizeFunc',['../classSteinberg_1_1Vst_1_1EditorSizeController.html#ad741ea56f6152c2588b56f489437a33e',1,'Steinberg::Vst::EditorSizeController']]],
   ['snapshotlist',['SnapshotList',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587',1,'VST3::Hosting::Module']]],
   ['speakertype',['SpeakerType',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#ac29b5ae06a98cb03a0f046667a1075e6',1,'Steinberg::Vst::SpeakerArray']]],

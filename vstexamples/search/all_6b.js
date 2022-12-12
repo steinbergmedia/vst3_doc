@@ -71,7 +71,7 @@ var searchData=
   ['keventbuffersize',['kEventBufferSize',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a38dc2d19e777233d1760e4d12c84d45a',1,'Steinberg::Vst::mda::DX10Processor::kEventBufferSize()'],['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a38dc2d19e777233d1760e4d12c84d45a',1,'Steinberg::Vst::mda::EPianoProcessor::kEventBufferSize()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a38dc2d19e777233d1760e4d12c84d45a',1,'Steinberg::Vst::mda::JX10Processor::kEventBufferSize()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a38dc2d19e777233d1760e4d12c84d45a',1,'Steinberg::Vst::mda::PianoProcessor::kEventBufferSize()']]],
   ['kexpressionparam',['kExpressionParam',['../classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a61dadd085c1777f559549e05962b2c9ea4af0fac1f3a0a36b1295d8308fc763fb',1,'Steinberg::Vst::mda::BaseController']]],
   ['keyboardrange',['keyboardRange',['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ab86046c9174e294df454f1b7ac321e7e',1,'Steinberg::Vst::NoteExpressionSynth::ControllerWithUI']]],
-  ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html#a369196628f59121a2b3316e30b3b4c63',1,'Steinberg::KeyCode']]],
+  ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html#ac4958ca60089178239d1b9e93bdc985e',1,'Steinberg::KeyCode']]],
   ['keycode',['KeyCode',['../../base/structSteinberg_1_1KeyCode.html',1,'Steinberg']]],
   ['keycodes_2eh',['keycodes.h',['../../base/keycodes_8h.html',1,'']]],
   ['keynote',['keyNote',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Chord.html#a4aaf84930c8913e7e3712874f2a5e04a',1,'Steinberg::Vst::Chord']]],

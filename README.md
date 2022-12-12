@@ -1,8 +1,8 @@
 # Welcome to VST 3 SDK Doc
 
-* Check the API online documentation created from this github project under: [steinbergmedia.github.io/vst3_doc](https://steinbergmedia.github.io/vst3_doc)
+* Check the **VST 3 API** online documentation created from this github project under: [steinbergmedia.github.io/vst3_doc](https://steinbergmedia.github.io/vst3_doc)
 
-* Check the VST 3 SDK online documentation under: [steinbergmedia.github.io/vst3_dev_portal](https://steinbergmedia.github.io/vst3_dev_portal/pages/index.html)
+* Check the **VST 3 SDK** online documentation under: [steinbergmedia.github.io/vst3_dev_portal](https://steinbergmedia.github.io/vst3_dev_portal/pages/index.html)
 
 ## License & Usage guidelines
 

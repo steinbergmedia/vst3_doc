@@ -49,6 +49,8 @@ var searchData=
   ['cmousewheeleditingsupport',['CMouseWheelEditingSupport',['../class_v_s_t_g_u_i_1_1_c_mouse_wheel_editing_support.html',1,'VSTGUI']]],
   ['cmoviebitmap',['CMovieBitmap',['../class_v_s_t_g_u_i_1_1_c_movie_bitmap.html',1,'VSTGUI']]],
   ['cmoviebutton',['CMovieButton',['../class_v_s_t_g_u_i_1_1_c_movie_button.html',1,'VSTGUI']]],
+  ['cmultiframebitmap',['CMultiFrameBitmap',['../class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html',1,'VSTGUI']]],
+  ['cmultiframebitmapdescription',['CMultiFrameBitmapDescription',['../struct_v_s_t_g_u_i_1_1_c_multi_frame_bitmap_description.html',1,'VSTGUI']]],
   ['cmultilinetextlabel',['CMultiLineTextLabel',['../class_v_s_t_g_u_i_1_1_c_multi_line_text_label.html',1,'VSTGUI']]],
   ['cnewfileselector',['CNewFileSelector',['../exception_v_s_t_g_u_i_1_1_c_new_file_selector.html',1,'VSTGUI']]],
   ['cnineparttiledbitmap',['CNinePartTiledBitmap',['../class_v_s_t_g_u_i_1_1_c_nine_part_tiled_bitmap.html',1,'VSTGUI']]],

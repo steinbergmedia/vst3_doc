@@ -29,6 +29,7 @@ var searchData=
   ['kibseekend',['kIBSeekEnd',['../../base/classSteinberg_1_1IBStream.html#a578603bbda4a0145412cb895b14efdd4aee2005d02e649de8da100c7f417cc2d8',1,'Steinberg::IBStream']]],
   ['kibseekset',['kIBSeekSet',['../../base/classSteinberg_1_1IBStream.html#a578603bbda4a0145412cb895b14efdd4aa6df685ae526fa7efefe23ce2c5e6e97',1,'Steinberg::IBStream']]],
   ['kinline_5fuid',['kINLINE_UID',['../../base/classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83a9f131fba80cf6b9f835dbcd1893a8e2a',1,'Steinberg::FUID']]],
+  ['kippathnamemax',['kIPPathNameMax',['../namespaceVST3_1_1Hosting.html#adc18f3cbe8d2b92a8350abbed9157fab',1,'VST3::Hosting']]],
   ['kisabsolute',['kIsAbsolute',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1de059ac90343b011aac2c14646d7ec8aef666cae7e4e80d922765cfe99da015f',1,'Steinberg::Vst::NoteExpressionTypeInfo']]],
   ['kisbipolar',['kIsBipolar',['../../vstinterfaces/structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1de059ac90343b011aac2c14646d7ec8a0cf6a1d666d333bc4c2863557e013245',1,'Steinberg::Vst::NoteExpressionTypeInfo']]],
   ['kisbypass',['kIsBypass',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ParameterInfo.html#ae3a5143ca8d0e271dbc259645a4ae645af9d12238330266160c4c36bac7a76622',1,'Steinberg::Vst::ParameterInfo']]],

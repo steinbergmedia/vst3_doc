@@ -15,6 +15,6 @@ var searchData=
   ['_7efptrnuller',['~FPtrNuller',['../structSteinberg_1_1FPtrNuller.html#a31801922b2fb31bd9d56ef48f1abe8da',1,'Steinberg::FPtrNuller']]],
   ['_7efstreamer',['~FStreamer',['../classSteinberg_1_1FStreamer.html#a939394fecf611c7d3b31016175d4e0e6',1,'Steinberg::FStreamer']]],
   ['_7eitimercallback',['~ITimerCallback',['../classSteinberg_1_1ITimerCallback.html#af00a1cccbd3849f94399eb9ddb8367b1',1,'Steinberg::ITimerCallback']]],
-  ['_7estring',['~String',['../classSteinberg_1_1String.html#a998ab66c7adb23a76179eec57d05de9d',1,'Steinberg::String']]],
-  ['_7eupdatehandler',['~UpdateHandler',['../classSteinberg_1_1UpdateHandler.html#ab3416815aefc3484de55b14892ae73dd',1,'Steinberg::UpdateHandler']]]
+  ['_7estring',['~String',['../classSteinberg_1_1String.html#a615ec756e0d72c03f3ee7a6753a66a39',1,'Steinberg::String']]],
+  ['_7eupdatehandler',['~UpdateHandler',['../classSteinberg_1_1UpdateHandler.html#ac876a5cde64472dda9fcb8f097d12d7b',1,'Steinberg::UpdateHandler']]]
 ];

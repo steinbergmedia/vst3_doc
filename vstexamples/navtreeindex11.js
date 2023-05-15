@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"mdaDynamicsController_8h.html":[3,0,101],
 "mdaDynamicsProcessor_8cpp.html":[3,0,102],
 "mdaDynamicsProcessor_8h.html":[3,0,103],
 "mdaEPianoController_8cpp.html":[3,0,104],
@@ -127,10 +128,10 @@ var NAVTREEINDEX11 =
 "namespaceSteinberg_1_1HostChecker.html":[2,0,0,2],
 "namespaceSteinberg_1_1Panner.html":[1,0,0,3],
 "namespaceSteinberg_1_1Panner.html":[2,0,0,3],
-"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,1,3],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[2,0,0,1,3],
-"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,1,4],
+"namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,1,3],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,1,4],
+"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[2,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[1,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[2,0,0,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "parameterchangescheck_8h.html":[3,0,208],
 "pitchnames_2source_2factory_8cpp.html":[3,0,39],
 "pitchnames_2source_2factory_8cpp.html#a580d3236cf2654394fd9dda85651efc0":[3,0,39,0],
-"pitchnames_2source_2version_8h.html":[3,0,277],
-"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52":[3,0,277,2]
+"pitchnames_2source_2version_8h.html":[3,0,277]
 };

@@ -100,7 +100,7 @@ var searchData=
   ['ringmodprocessor',['RingModProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html',1,'Steinberg::Vst::mda']]],
   ['ringmodprocessor',['RingModProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#ac30fae771f6b5cbd9719cdb7f8aedbe3',1,'Steinberg::Vst::mda::RingModProcessor']]],
   ['rls',['rls',['../classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a8c1c330a9e9e98611d599be802a7b58f',1,'Steinberg::Vst::mda::SubSynthProcessor']]],
-  ['rmin',['rmin',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b',1,'Steinberg::Vst::mda::SpecMeterProcessor::rmin()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#ad9520ff1fa5930a940a80c4a389641ac',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rmin()']]],
+  ['rmin',['Rmin',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#ad9520ff1fa5930a940a80c4a389641ac',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rmin()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b',1,'Steinberg::Vst::mda::SpecMeterProcessor::rmin()']]],
   ['rmod',['rmod',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a7ed853e8b0b826b43da2ca7cbb06d8f1',1,'Steinberg::Vst::mda::EPianoProcessor']]],
   ['rnd1',['rnd1',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#acf7212ee0c9233b5c88390922a11ca2b',1,'Steinberg::Vst::mda::DitherProcessor']]],
   ['rnd3',['rnd3',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a656f457a5b9939b2b819bad5f0f17971',1,'Steinberg::Vst::mda::DitherProcessor']]],

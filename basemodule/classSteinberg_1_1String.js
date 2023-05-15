@@ -13,7 +13,7 @@ var classSteinberg_1_1String =
     [ "String", "classSteinberg_1_1String.html#a49f71cca276a33db442c6d583d2f9b8f", null ],
     [ "String", "classSteinberg_1_1String.html#af9b8fc3f312ec00a3f2ed3cade53d6db", null ],
     [ "String", "classSteinberg_1_1String.html#a59f9b66e14775bdb1662cd88074f80d5", null ],
-    [ "~String", "classSteinberg_1_1String.html#a998ab66c7adb23a76179eec57d05de9d", null ],
+    [ "~String", "classSteinberg_1_1String.html#a615ec756e0d72c03f3ee7a6753a66a39", null ],
     [ "updateLength", "classSteinberg_1_1String.html#aeaaaf7e3d412ec741fc91722eaaceb13", null ],
     [ "text8", "classSteinberg_1_1String.html#a3b3a7237b92adc53af697ef456f977f2", null ],
     [ "text16", "classSteinberg_1_1String.html#ac96d94e5b3d94215b44300b306f2b0f8", null ],

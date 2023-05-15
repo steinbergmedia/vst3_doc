@@ -155,6 +155,7 @@ var searchData=
   ['setmouseablearea',['setMouseableArea',['../class_v_s_t_g_u_i_1_1_c_view.html#a6e6fe6223677e774b39fec65415de8e9',1,'VSTGUI::CView']]],
   ['setmousedownview',['setMouseDownView',['../class_v_s_t_g_u_i_1_1_c_view_container.html#a7c0478917fe62f7920673bdd80b06e2f',1,'VSTGUI::CViewContainer']]],
   ['setmouseenabled',['setMouseEnabled',['../class_v_s_t_g_u_i_1_1_c_view.html#adb7b432e84c46c24a78955eb7558b6d2',1,'VSTGUI::CView']]],
+  ['setmultiframebitmaprange',['setMultiFrameBitmapRange',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a6ed81fc6c79cf54411b5b7f04c4e2320',1,'VSTGUI::MultiFrameBitmapView']]],
   ['setmultiframedesc',['setMultiFrameDesc',['../class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a8eeea0f6b2541f6673a512e42ce52f57',1,'VSTGUI::CMultiFrameBitmap']]],
   ['setname',['setName',['../class_v_s_t_g_u_i_1_1_c_font_desc.html#a10e3f98c54dd5f47ad22f951c24a8b7c',1,'VSTGUI::CFontDesc']]],
   ['setnbitemspercolumn',['setNbItemsPerColumn',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#a422c0f4840225d83a0b798deb70622f5',1,'VSTGUI::COptionMenu']]],

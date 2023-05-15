@@ -16,7 +16,7 @@ var searchData=
   ['_7ecomponentbase',['~ComponentBase',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#a992af1025ac7720ce29a87d926531e05',1,'Steinberg::Vst::AudioEffect']]],
   ['_7econnectionproxy',['~ConnectionProxy',['../../vstsdk/classSteinberg_1_1Vst_1_1ConnectionProxy.html#a891d1d252d711b7980defaba5112544f',1,'Steinberg::Vst::ConnectionProxy']]],
   ['_7econststringtable',['~ConstStringTable',['../../base/classSteinberg_1_1ConstStringTable.html#a99f647d997cd61d511fdf60560c5706b',1,'Steinberg::ConstStringTable']]],
-  ['_7ecpluginview',['~CPluginView',['../../vstsdk/classSteinberg_1_1CPluginView.html#a7f3eff5b630d169f894c01bdb2faf56d',1,'Steinberg::CPluginView']]],
+  ['_7ecpluginview',['~CPluginView',['../../vstsdk/classSteinberg_1_1CPluginView.html#a9242a8037a9e2355d4db0b4644e498ca',1,'Steinberg::CPluginView']]],
   ['_7edeessercontroller',['~DeEsserController',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#aa508bb2127050ccb3cba6ba84dc09b91',1,'Steinberg::Vst::mda::DeEsserController']]],
   ['_7edeesserprocessor',['~DeEsserProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#afb5bf7b43a8c473b293c43d0d8d6dcd2',1,'Steinberg::Vst::mda::DeEsserProcessor']]],
   ['_7edegradecontroller',['~DegradeController',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#ad30ebb8444693ace8bcc07fe5161314f',1,'Steinberg::Vst::mda::DegradeController']]],

@@ -55,8 +55,9 @@ var group__controls =
       [ "selection", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a55dd018797e1741e7cf04557b628f77f", null ]
     ] ],
     [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", [
-      [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#aee94efa9f560fa95fcd47cc497e2f3d9", null ],
+      [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#a234af440d2c60811fd889f5c48457c90", null ],
       [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#a73017258060539b2ea3cb6f2c37c16ee", null ],
+      [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#a58ba1c008d543a2c929d1083cb16526b", null ],
       [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#a0b6b12d61cfa8438b6a71497d2901194", null ],
       [ "~CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#afe950609c73dfa6de5a3cbef008fbeff", null ],
       [ "attached", "class_v_s_t_g_u_i_1_1_c_auto_animation.html#a522467127f90bd5e2a6856e09b1b7bf2", null ],
@@ -146,7 +147,7 @@ var group__controls =
       [ "title", "class_v_s_t_g_u_i_1_1_c_check_box.html#a079f062c4955dddcbe528b0b9e00d6e5", null ]
     ] ],
     [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html", [
-      [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html#afe8d19b0c1ca0fb19367b8a636a1a1e1", null ],
+      [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html#a5f2d268b5a733ce42dd2ae26c2083b3c", null ],
       [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html#af419b3350833b1669097ac320bc4819d", null ],
       [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html#a5095b9dfa3ffbc29f542b225b97cc5a7", null ],
       [ "~CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html#aff494d1488548f3d455f9c78514e1769", null ],
@@ -287,7 +288,7 @@ var group__controls =
       [ "pHandle", "class_v_s_t_g_u_i_1_1_c_knob.html#a07e502774917479168190866d934f15d", null ]
     ] ],
     [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html", [
-      [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#aa4fe339a1b1b789b191573cc9e64f595", null ],
+      [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#ae7629062965afe72510e702250c8895f", null ],
       [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#a5795a2c0eb736f15b0d448b8bfacd396", null ],
       [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#ae39bb45e08ab3c4a4cfd51e724b876d3", null ],
       [ "~CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#af3a85d751115283a651e12bf590813a1", null ],
@@ -302,7 +303,7 @@ var group__controls =
       [ "bInverseBitmap", "class_v_s_t_g_u_i_1_1_c_anim_knob.html#acde0a67d57f288d50b119435bd8cf104", null ]
     ] ],
     [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html", [
-      [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html#ae392f53b05d4ea79016ad81478b1cdce", null ],
+      [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html#aecfa460f01ed0c07583c7713bc79241c", null ],
       [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html#aa55ad59368588880245690611b6e9c76", null ],
       [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html#a984cefdcb821e40134c505f9215f9953", null ],
       [ "~CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html#abcc2084107934b30dee9c0f3d2905703", null ],
@@ -488,7 +489,7 @@ var group__controls =
       [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#ac19711d339434f4615e91e3dc2f6a49d", null ]
     ] ],
     [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html", [
-      [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a75026ef0ac47437080e19bf3e73da18b", null ],
+      [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a9a54a3e286ba2c5cddfe637c7084ac60", null ],
       [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#abfa918c0d08e9ce15907d0b124bd462a", null ],
       [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a902c9b1dd24b5fa94403f1f2cd6ef9c7", null ],
       [ "~CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#adf8d7b2549305ab5d68bc2d5e3359ea4", null ],
@@ -498,7 +499,7 @@ var group__controls =
       [ "onKeyboardEvent", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html#abbed291f472ef9b036974c0c584043cb", null ]
     ] ],
     [ "CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html", [
-      [ "CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#aacc21989b74b05f3cd0f48bc5d2f2a8f", null ],
+      [ "CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a379b70a278788f57f191ada12ea486b8", null ],
       [ "CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a84f1ef44c839b7efebf5771f7e7b13f8", null ],
       [ "CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a1c5f65d23c6ead3113ddd99a91e40852", null ],
       [ "~CHorizontalSwitch", "class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a13014b25c33dc7fa244011cb030ae57f", null ],
@@ -512,8 +513,9 @@ var group__controls =
         [ "kHorizontal", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#addb2fa415e015ee482fa2cd9eba96af7ad4149164ae4bf90011d92a3dbfcce742", null ],
         [ "kVertical", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#addb2fa415e015ee482fa2cd9eba96af7a4764485d9d221af213bf2b2769cdfc54", null ]
       ] ],
-      [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de", null ],
+      [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a7f3c13e4c0cbfbadd0af1bdb0220e25a", null ],
       [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a2f5e6604ed6dfdf8a5fd0004ba3d775a", null ],
+      [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#ad7258ed03d5620f8a409fc6f82449e40", null ],
       [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a9e7d043e454ed4dfe4d25d6799fe791d", null ],
       [ "~CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#af879403805fdbdb957ac838f9a336f4d", null ],
       [ "draw", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a79e674b14bc222779b90738ef8f6e096", null ],

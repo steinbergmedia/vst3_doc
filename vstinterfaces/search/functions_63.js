@@ -29,6 +29,8 @@ var searchData=
   ['connectionproxy',['ConnectionProxy',['../../vstsdk/classSteinberg_1_1Vst_1_1ConnectionProxy.html#ad51790a646502c1269d5a4ae48441c7d',1,'Steinberg::Vst::ConnectionProxy']]],
   ['conststringtable',['ConstStringTable',['../../base/classSteinberg_1_1ConstStringTable.html#acf88e43da1b31d3d425c80d747bbb1a8',1,'Steinberg::ConstStringTable']]],
   ['contains',['contains',['../../vstsdk/classSteinberg_1_1Vst_1_1PresetFile.html#a0ec5e8e4ff96a6527750a9646d398bb3',1,'Steinberg::Vst::PresetFile']]],
+  ['convertspeaker_5fambi_5f1234order_5fto_5fambi567order',['convertSpeaker_Ambi_1234Order_to_Ambi567Order',['../group__speakerArrangements.html#ga3e1ccb637aac3918a31d5b061bcaabe4',1,'Steinberg::Vst::SpeakerArr']]],
+  ['convertspeaker_5fambi_5f567order_5fto_5fambi1234order',['convertSpeaker_Ambi_567Order_to_Ambi1234Order',['../group__speakerArrangements.html#gae74e19a6a7653396d1c0e91ff85de6cb',1,'Steinberg::Vst::SpeakerArr']]],
   ['copyto',['copyTo',['../../base/classSteinberg_1_1UString.html#a1372f0527ea276e275d9dfda80572fbe',1,'Steinberg::UString']]],
   ['countattributes',['countAttributes',['../../base/classSteinberg_1_1IAttributes2.html#afab9fceccb1640882d1a4d112b2c5b96',1,'Steinberg::IAttributes2']]],
   ['countclasses',['countClasses',['../../base/classSteinberg_1_1IPluginFactory.html#a64f4f0e4c87d82b5a44d654f4addb960',1,'Steinberg::IPluginFactory']]],

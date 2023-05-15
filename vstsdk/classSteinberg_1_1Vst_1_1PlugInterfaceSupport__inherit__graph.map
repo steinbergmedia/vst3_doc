@@ -1,4 +1,4 @@
 <map id="PlugInterfaceSupport" name="PlugInterfaceSupport">
-<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title="{IPlugInterfaceSupport\n|+ iid\l|+ isPlugInterfaceSupported()\l}" alt="" coords="21,153,200,227"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="51,5,170,105"/>
+<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html" title="{IPlugInterfaceSupport\n|+ iid\l|+ isPlugInterfaceSupported()\l}" alt="" coords="21,156,195,230"/>
+<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="50,5,166,108"/>
 </map>

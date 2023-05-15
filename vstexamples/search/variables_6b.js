@@ -60,7 +60,7 @@ var searchData=
   ['klev',['klev',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a18143059ad8aa26ecc150d882ab5d311',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['klicensecheck',['kLicenseCheck',['../../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380a33a11b36601c0392f96fe277213bf94b',1,'Steinberg::PFactoryInfo']]],
   ['kmanyinstances',['kManyInstances',['../../base/structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2',1,'Steinberg::PClassInfo']]],
-  ['kmax',['kmax',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#aab2a64af69bf15b9af72e1ce7563efd1',1,'Steinberg::Vst::mda::SpecMeterProcessor::kmax()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a5e0b745fc532cdbf2e422cb53a9433a0',1,'Steinberg::Vst::mda::JX10Processor::KMAX()']]],
+  ['kmax',['KMAX',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a5e0b745fc532cdbf2e422cb53a9433a0',1,'Steinberg::Vst::mda::JX10Processor::KMAX()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#aab2a64af69bf15b9af72e1ce7563efd1',1,'Steinberg::Vst::mda::SpecMeterProcessor::kmax()']]],
   ['kmaxevents',['kMaxEvents',['../classEventListCheck.html#a4a3a20bfac766aa19e01388ff52af5b6',1,'EventListCheck']]],
   ['kmaxlatency',['kMaxLatency',['../namespaceSteinberg_1_1HostChecker.html#ae3d4ad032b2586752aaefe7d98b3b352',1,'Steinberg::HostChecker']]],
   ['kmaxsamplesperblock',['kMaxSamplesPerBlock',['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html#aeeab75fa34b77d026422bf02ea2a7716a9b13d2a9d89354f5b3252d7312cd6abb',1,'Steinberg::Vst::TestEnh']]],

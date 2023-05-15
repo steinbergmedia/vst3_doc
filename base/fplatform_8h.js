@@ -4,7 +4,6 @@ var fplatform_8h =
     [ "kBigEndian", "fplatform_8h.html#a59154ea8599c8d0e7187be1c42889675", null ],
     [ "SMTG_INTEL_CXX11_MODE", "fplatform_8h.html#a276fbbbcc6903fcc10202ff8d1703831", null ],
     [ "SMTG_INTEL_COMPILER", "fplatform_8h.html#a1c09a77d0ec57de38471f6de5a8587e3", null ],
-    [ "SMTG_OS_WINDOWS_ARM", "fplatform_8h.html#a77d7fc5acb62dac9498f38b0375805a7", null ],
     [ "PLATFORM_64", "fplatform_8h.html#a8a69d29963cd266cdf2d13bbaecb439d", null ],
     [ "PTHREADS", "fplatform_8h.html#a3c2a454c4a71caf93110e4a1d5db7a55", null ],
     [ "SMTG_OVERRIDE", "fplatform_8h.html#a3c5f727b2149b22fddea9edf2add04a8", null ],

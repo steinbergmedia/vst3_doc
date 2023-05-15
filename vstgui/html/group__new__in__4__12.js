@@ -9,10 +9,12 @@ var group__new__in__4__12 =
       [ "CMultiFrameBitmap", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#aca5f87fd37c83997c7b40f736047ea8d", null ],
       [ "calcFrameRect", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#affba1bb7f8a5ce9bbc2a4df4ba9e4360", null ],
       [ "drawFrame", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a95e9e603c2ae8d03090a645302f2e886", null ],
+      [ "frameIndexToNormalizedValue", "group__new__in__4__12__1.html#ga92f1d595936949be30bb88842e3b14c0", null ],
       [ "getFrameSize", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a8eff0d7d0cf4e8754d52ded4ba7975bd", null ],
       [ "getMultiFrameDesc", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a697a5151888674ab85ffc7c284ee685a", null ],
       [ "getNumFrames", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a961e2602e761bbe633db870537066b66", null ],
       [ "getNumFramesPerRow", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a12c2e7a55690f8792280a2255c3f4944", null ],
+      [ "normalizedValueToFrameIndex", "group__new__in__4__12__1.html#ga4cca024629bfc0d7a7a2cf77eb386497", null ],
       [ "setMultiFrameDesc", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a8eeea0f6b2541f6673a512e42ce52f57", null ]
     ] ],
     [ "DataPackageIterator", "struct_v_s_t_g_u_i_1_1_data_package_iterator.html", [

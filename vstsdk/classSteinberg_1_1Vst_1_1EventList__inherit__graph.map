@@ -1,4 +1,4 @@
 <map id="EventList" name="EventList">
-<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEventList.html" title="{IEventList\n|+ iid\l|+ getEventCount()\l+ getEvent()\l+ addEvent()\l}" alt="" coords="11,153,132,253"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="12,5,131,105"/>
+<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEventList.html" title="{IEventList\n|+ iid\l|+ getEventCount()\l+ getEvent()\l+ addEvent()\l}" alt="" coords="11,156,130,258"/>
+<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="12,5,129,108"/>
 </map>

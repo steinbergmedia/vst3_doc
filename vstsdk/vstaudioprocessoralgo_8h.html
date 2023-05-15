@@ -135,6 +135,9 @@ Functions</h2></td></tr>
 <tr class="memitem:aa9dfbe077a3078558451ff526b305744"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><b>getSampleFramesSizeInBytes</b> (const ProcessSetup &amp;processSetup, <a class="elRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> numSamples)</td></tr>
 <tr class="memdesc:aa9dfbe077a3078558451ff526b305744"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the size in bytes of numSamples for one channel depending of symbolicSampleSize.  <a href="#aa9dfbe077a3078558451ff526b305744"></a><br/></td></tr>
 <tr class="separator:aa9dfbe077a3078558451ff526b305744"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5416c9248a6b737903df6e7d35f67e3"><td class="memItemLeft" align="right" valign="top"><a class="elRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#abc0f5bc07737e498f287334775dff2b6">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><b>getChannelMask</b> (<a class="elRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> numChannels)</td></tr>
+<tr class="memdesc:ac5416c9248a6b737903df6e7d35f67e3"><td class="mdescLeft">&#160;</td><td class="mdescRight">return the bit-mask of channels for the given number of channel for example: numChannels = 1 =&gt; 0b0001 (binar) = 0x01 = 1 (decimal) numChannels = 2 =&gt; 0b0011 (binar) = 0x03 = 3 (decimal) numChannels = 6 =&gt; 0b0011 1111 (binar) = 0x3F = 63 (decimal)  <a href="#ac5416c9248a6b737903df6e7d35f67e3"></a><br/></td></tr>
+<tr class="separator:ac5416c9248a6b737903df6e7d35f67e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18aea9feb58dbe1f6201eeee6c072155"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a18aea9feb58dbe1f6201eeee6c072155"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst_1_1Algo.html#a18aea9feb58dbe1f6201eeee6c072155">foreach</a> (AudioBusBuffers *audioBusBuffers, <a class="elRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> busCount, const T &amp;func)</td></tr>
 <tr class="separator:a18aea9feb58dbe1f6201eeee6c072155"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -198,7 +201,7 @@ Functions</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2022 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2023 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

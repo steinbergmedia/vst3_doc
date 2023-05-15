@@ -29,6 +29,7 @@ var searchData=
   ['normalizedtoindex',['normalizedToIndex',['../class_v_s_t_g_u_i_1_1_c_switch_base.html#a062a035557afef5d77b011434caaaa2c',1,'VSTGUI::CSwitchBase']]],
   ['normalizedtoplain',['normalizedToPlain',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_converter.html#ae746571857ec69dcf3c6c02cf81f260d',1,'VSTGUI::Standalone::IValueConverter::normalizedToPlain()'],['../namespace_v_s_t_g_u_i.html#a01ca69a89a5de82036eec96c6b5c5afc',1,'VSTGUI::normalizedToPlain()']]],
   ['normalizedtosteps',['normalizedToSteps',['../namespace_v_s_t_g_u_i.html#a2f9e59a7b70f055548276144d4faec2f',1,'VSTGUI']]],
+  ['normalizedvaluetoframeindex',['normalizedValueToFrameIndex',['../group__new__in__4__12__1.html#ga4cca024629bfc0d7a7a2cf77eb386497',1,'VSTGUI::CMultiFrameBitmap']]],
   ['normalizetoplain',['normalizeToPlain',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#adccb9ccb34a62a71c7c1a7a205a6344a',1,'VSTGUI::Standalone::Value']]],
   ['normalizetostep',['normalizeToStep',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#a7f13b175bc6e38eac7bdb97b9a5b874d',1,'VSTGUI::Standalone::Value']]],
   ['normalpha',['normAlpha',['../struct_v_s_t_g_u_i_1_1_c_color.html#acc717d77bded2234e6956f6d2f0082a6',1,'VSTGUI::CColor']]],

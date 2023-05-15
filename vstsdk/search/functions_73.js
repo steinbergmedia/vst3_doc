@@ -58,7 +58,7 @@ var searchData=
   ['setmin',['setMin',['../classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#acbbcff1787274988f70716800f19aafb',1,'Steinberg::Vst::RangeNoteExpressionType::setMin()'],['../classSteinberg_1_1Vst_1_1RangeParameter.html#acbbcff1787274988f70716800f19aafb',1,'Steinberg::Vst::RangeParameter::setMin()']]],
   ['setminor',['setMinor',['../structVST3_1_1Version.html#aee2ef7d94e22a28502f4b1a4b21f8147',1,'VST3::Version']]],
   ['setmpeinputdevicesettings',['setMPEInputDeviceSettings',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1',1,'Steinberg::Vst::IVst3WrapperMPESupport']]],
-  ['setname',['setName',['../classSteinberg_1_1Vst_1_1Bus.html#a772a23457853aff71a5c9a62c1b188a7',1,'Steinberg::Vst::Bus::setName()'],['../classSteinberg_1_1Vst_1_1Unit.html#ab1eec84040a94f6349c8269174fa8364',1,'Steinberg::Vst::Unit::setName()']]],
+  ['setname',['setName',['../classSteinberg_1_1Vst_1_1Bus.html#af32f37d074468cc02690c5738ee81454',1,'Steinberg::Vst::Bus::setName()'],['../classSteinberg_1_1Vst_1_1Unit.html#ab1eec84040a94f6349c8269174fa8364',1,'Steinberg::Vst::Unit::setName()']]],
   ['setnormalized',['setNormalized',['../classSteinberg_1_1Vst_1_1Parameter.html#a31d234fd0b37a33579e134c6bc769e9d',1,'Steinberg::Vst::Parameter']]],
   ['setobject',['setObject',['../../base/classSteinberg_1_1FVariant.html#a299d0820a6de5c1f779d80772a49d654',1,'Steinberg::FVariant']]],
   ['setowner',['setOwner',['../../base/classSteinberg_1_1FVariant.html#abbdb20a51bdf78b0b5dfb245178897e4',1,'Steinberg::FVariant']]],

@@ -26,7 +26,7 @@ var searchData=
   ['rich',['rich',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a8e951c7637c5524807294806bb2948cc',1,'Steinberg::Vst::mda::DX10Processor']]],
   ['right',['right',['../../base/structSteinberg_1_1ViewRect.html#a773c879226336b9859a3dec0a7f8e6ca',1,'Steinberg::ViewRect::right()'],['../classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a6202f38a97a1c9eb0142baeb338cf1f1',1,'Steinberg::Vst::mda::TestToneProcessor::right()']]],
   ['rls',['rls',['../classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a8c1c330a9e9e98611d599be802a7b58f',1,'Steinberg::Vst::mda::SubSynthProcessor']]],
-  ['rmin',['rmin',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b',1,'Steinberg::Vst::mda::SpecMeterProcessor::rmin()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#ad9520ff1fa5930a940a80c4a389641ac',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rmin()']]],
+  ['rmin',['Rmin',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#ad9520ff1fa5930a940a80c4a389641ac',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rmin()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5710faa315172182d9074f12f41a7b6b',1,'Steinberg::Vst::mda::SpecMeterProcessor::rmin()']]],
   ['rmod',['rmod',['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a7ed853e8b0b826b43da2ca7cbb06d8f1',1,'Steinberg::Vst::mda::EPianoProcessor']]],
   ['rnd1',['rnd1',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#acf7212ee0c9233b5c88390922a11ca2b',1,'Steinberg::Vst::mda::DitherProcessor']]],
   ['rnd3',['rnd3',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a656f457a5b9939b2b819bad5f0f17971',1,'Steinberg::Vst::mda::DitherProcessor']]],

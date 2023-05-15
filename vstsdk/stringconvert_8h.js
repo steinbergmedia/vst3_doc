@@ -7,5 +7,6 @@ var stringconvert_8h =
     [ "convert", "stringconvert_8h.html#ad0e56044e282dcac7890cbce544aa83f", null ],
     [ "convert", "stringconvert_8h.html#abff8a368026b5ff872b48945fcf3113f", null ],
     [ "convert", "stringconvert_8h.html#ab20bb6b50e97de71fea1897b45dca317", null ],
-    [ "toTChar", "stringconvert_8h.html#a207e23e9cafce1b77acf9da2f72f2fc9", null ]
+    [ "toTChar", "stringconvert_8h.html#a207e23e9cafce1b77acf9da2f72f2fc9", null ],
+    [ "toString", "stringconvert_8h.html#a4057efa382a8c98391f469c2a6f98ac5", null ]
 ];

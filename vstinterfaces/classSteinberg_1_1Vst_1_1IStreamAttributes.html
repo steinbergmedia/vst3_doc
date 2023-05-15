@@ -126,7 +126,7 @@ $(document).ready(function(){initNavTree('classSteinberg_1_1Vst_1_1IStreamAttrib
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classSteinberg_1_1Vst_1_1IStreamAttributes__inherit__graph.png" border="0" usemap="#IStreamAttributes_inherit__map" alt="Inheritance graph"/></div>
 <map name="IStreamAttributes_inherit__map" id="IStreamAttributes_inherit__map">
-<area shape="rect" id="node2" doxygen="base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,124,105"/></map>
+<area shape="rect" id="node2" doxygen="base.tag:../base/" href="../base/classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,122,108"/></map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -182,7 +182,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line">                <a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5">UString128</a> tmp (<span class="keywordtype">string</span>);</div>
 <div class="line">                <span class="keywordtype">char</span> ascii[128];</div>
 <div class="line">                tmp.toAscii (ascii, 128);</div>
-<div class="line">                <span class="keywordflow">if</span> (!strncmp (ascii, <a class="code" href="group__stateType.html#ga89eaf816243da36726dfe2656c266a4c" title="the state is restored from a project loading or it is saved in a project">StateType::kProject</a>, strlen (<a class="code" href="group__stateType.html#ga89eaf816243da36726dfe2656c266a4c" title="the state is restored from a project loading or it is saved in a project">StateType::kProject</a>)))</div>
+<div class="line">                <span class="keywordflow">if</span> (strncmp (ascii, <a class="code" href="group__stateType.html#ga89eaf816243da36726dfe2656c266a4c" title="the state is restored from a project loading or it is saved in a project">StateType::kProject</a>, strlen (<a class="code" href="group__stateType.html#ga89eaf816243da36726dfe2656c266a4c" title="the state is restored from a project loading or it is saved in a project">StateType::kProject</a>)) == 0)</div>
 <div class="line">                {</div>
 <div class="line">                    <span class="comment">// we are in project loading context...</span></div>
 <div class="line">                }</div>
@@ -285,7 +285,7 @@ Static Public Attributes</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2022 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2023 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

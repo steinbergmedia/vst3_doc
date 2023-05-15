@@ -1,6 +1,7 @@
 var fdebug_8h =
 [
     [ "SMTG_ASSERT", "fdebug_8h.html#afe9433f0fc5b657a2f73863c413d8690", null ],
+    [ "SMTG_ASSERT_MSG", "fdebug_8h.html#a12c61bbb6ec5754f9ae6cea2e02fc5c1", null ],
     [ "SMTG_WARNING", "fdebug_8h.html#a5e5a76c97ca0b07d2c08ce8de068cef3", null ],
     [ "SMTG_PRINTSYSERROR", "fdebug_8h.html#aa58eec37e07b00b1ef4409319a6c1d48", null ],
     [ "SMTG_DEBUGSTR", "fdebug_8h.html#ac9bfa937bab4882709076060b7c00392", null ],

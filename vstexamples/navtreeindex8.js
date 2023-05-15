@@ -226,7 +226,7 @@ var NAVTREEINDEX8 =
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#a74113028b91457ec76c784cf7c44225b":[2,0,2,2,11],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#a767db462cdf5ec99626544376f1dee4e":[2,0,2,2,12],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#a833a1bcfbb44cbc93ff7bb476dc93e9a":[2,0,2,2,5],
-"classVSTGUI_1_1PitchNamesDataBrowserSource.html#a9013e358366b8d6419a051cff541dddc":[2,0,2,2,18],
+"classVSTGUI_1_1PitchNamesDataBrowserSource.html#a94499768216fc09470cf0c76699b2288":[2,0,2,2,18],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#aa2b926e415384dc570c2763dfb324cbe":[2,0,2,2,10],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#aade87a733a25b377db08922615167c1c":[2,0,2,2,6],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#aaedf81ba9efd6864803ba803adbedafd":[2,0,2,2,7],

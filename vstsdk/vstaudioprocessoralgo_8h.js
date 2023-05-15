@@ -2,6 +2,7 @@ var vstaudioprocessoralgo_8h =
 [
     [ "getChannelBuffersPointer", "vstaudioprocessoralgo_8h.html#abdfc054d6e61b9fb841b38ba47645949", null ],
     [ "getSampleFramesSizeInBytes", "vstaudioprocessoralgo_8h.html#aa9dfbe077a3078558451ff526b305744", null ],
+    [ "getChannelMask", "vstaudioprocessoralgo_8h.html#ac5416c9248a6b737903df6e7d35f67e3", null ],
     [ "foreach", "vstaudioprocessoralgo_8h.html#a18aea9feb58dbe1f6201eeee6c072155", null ],
     [ "foreach32", "vstaudioprocessoralgo_8h.html#a84892f45159b0bd1836030284f9eefc7", null ],
     [ "foreach64", "vstaudioprocessoralgo_8h.html#a4cb4ac5d134f87d28833172d318eee91", null ],

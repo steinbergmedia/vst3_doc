@@ -18,6 +18,6 @@ var classVSTGUI_1_1PitchNamesDataBrowserSource =
     [ "dbCellTextChanged", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#adc85fbfa4cff1e5a680bc2f8bcd92c7c", null ],
     [ "dbCellSetupTextEdit", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#ac561d1c14dc1ad9dbf655b62c608f937", null ],
     [ "dbOnKeyDown", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#af9a9c3ab456206ddd45c4df67fa84e39", null ],
-    [ "getPitchName", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#a9013e358366b8d6419a051cff541dddc", null ],
+    [ "getPitchName", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#a94499768216fc09470cf0c76699b2288", null ],
     [ "pitchnames", "classVSTGUI_1_1PitchNamesDataBrowserSource.html#ade0d04afb1b9c9ccf1eeefeef38fa43d", null ]
 ];

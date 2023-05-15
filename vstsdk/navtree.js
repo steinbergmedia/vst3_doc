@@ -53,8 +53,8 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1ConnectionProxy.html#a12db172f74059f7eceb63714f4589aa0",
 "classSteinberg_1_1Vst_1_1ParameterContainer.html#a17ccf658ed2936c9d740dd1c5fada5dc",
 "classSteinberg_1_1Vst_1_1StringListParameter.html#a57131772fda4fd320e3d8cd7c7c981b7",
-"group__sdkBase.html",
-"structVST3_1_1UID.html#a20b2abb54d43add1d16c4c4660c43922"
+"globals_vars.html",
+"structVST3_1_1Optional.html#ad88a9874027d44e9ec4007ef3ba55b25"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

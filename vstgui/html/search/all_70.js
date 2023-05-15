@@ -31,7 +31,7 @@ var searchData=
   ['performstringappendvalueedit',['performStringAppendValueEdit',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#acacdceb8ee4274697d57df2c53025359',1,'VSTGUI::Standalone::Value']]],
   ['performstringvalueedit',['performStringValueEdit',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html#a607c4378f51dbe819496dc035cfe42a8',1,'VSTGUI::Standalone::Value']]],
   ['phandle',['pHandle',['../class_v_s_t_g_u_i_1_1_c_knob.html#a07e502774917479168190866d934f15d',1,'VSTGUI::CKnob::pHandle()'],['../struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html#a13cfd7a9dd172dfb307d5f9c12bab2c5',1,'VSTGUI::CSlider::Impl::pHandle()']]],
-  ['phase',['phase',['../struct_v_s_t_g_u_i_1_1_gesture_event.html#a3aaaebd424640a55658f6da992e087bd',1,'VSTGUI::GestureEvent::phase()'],['../struct_v_s_t_g_u_i_1_1_gesture_event.html#a0e753040b478a5e7378ed9462dc3817c',1,'VSTGUI::GestureEvent::Phase()']]],
+  ['phase',['Phase',['../struct_v_s_t_g_u_i_1_1_gesture_event.html#a0e753040b478a5e7378ed9462dc3817c',1,'VSTGUI::GestureEvent::Phase()'],['../struct_v_s_t_g_u_i_1_1_gesture_event.html#a3aaaebd424640a55658f6da992e087bd',1,'VSTGUI::GestureEvent::phase()']]],
   ['pi',['pi',['../namespace_v_s_t_g_u_i_1_1_constants.html#a95ed8d1f751904d69454dbb31f1f247d',1,'VSTGUI::Constants']]],
   ['pimpl',['pImpl',['../class_v_s_t_g_u_i_1_1_xml_1_1_parser.html#ac68bfa8c4650f42c7525f53807771501',1,'VSTGUI::Xml::Parser']]],
   ['pixelaccess',['pixelAccess',['../class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html#aa9ad1f8ca5ba6e96dc1aebb75446f9f5',1,'VSTGUI::CBitmapPixelAccess']]],

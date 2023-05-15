@@ -1,7 +1,7 @@
 var classSteinberg_1_1UpdateHandler =
 [
     [ "UpdateHandler", "classSteinberg_1_1UpdateHandler.html#a5cb070dc5b6e125ca7dd0f609a266f0b", null ],
-    [ "~UpdateHandler", "classSteinberg_1_1UpdateHandler.html#ab3416815aefc3484de55b14892ae73dd", null ],
+    [ "~UpdateHandler", "classSteinberg_1_1UpdateHandler.html#ac876a5cde64472dda9fcb8f097d12d7b", null ],
     [ "addDependent", "classSteinberg_1_1UpdateHandler.html#a6525455e812688a1d9b5bcdb0c9fa77c", null ],
     [ "removeDependent", "classSteinberg_1_1UpdateHandler.html#a56b694b9f2c7fdd969fb7b95fd1c1d69", null ],
     [ "removeDependent", "classSteinberg_1_1UpdateHandler.html#a8d965c45a22cd44b2069b8d191d2d39d", null ],

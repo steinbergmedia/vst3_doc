@@ -2,6 +2,7 @@ var searchData=
 [
   ['handler',['Handler',['../../vstsdk/structSteinberg_1_1Vst_1_1MPE_1_1Handler.html',1,'Steinberg::Vst::MPE']]],
   ['hasbottomspeakers',['hasBottomSpeakers',['../group__speakerArrangements.html#ga20ceaf9e134bcb9d31d268f2bca6f990',1,'Steinberg::Vst::SpeakerArr']]],
+  ['hasbundlestructure',['hasBundleStructure',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#ae9087247e1a6e9b3d267c9546b4f8762',1,'VST3::Hosting::Module']]],
   ['haschanges',['hasChanges',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a2574a316f6e1e03e54b1a512cf2b8369',1,'Steinberg::Vst::SampleAccurate::Parameter']]],
   ['hasdelay',['hasDelay',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1a013a451f71921f677fc504173431e3',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['haslfe',['hasLfe',['../group__speakerArrangements.html#gae80135ca5a48c012ae56eba60aed8ba7',1,'Steinberg::Vst::SpeakerArr']]],

@@ -24,7 +24,7 @@ var searchData=
   ['entry',['Entry',['../structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html',1,'Steinberg::Vst::PresetFile']]],
   ['entrycount',['entryCount',['../classSteinberg_1_1Vst_1_1PresetFile.html#a4f71f86dadbbb1cf5a477c64587ca491',1,'Steinberg::Vst::PresetFile']]],
   ['equal',['equal',['../namespaceSteinberg_1_1Vst_1_1Test.html#a9c9857bf54181af4d02c7be0eaedffeb',1,'Steinberg::Vst::Test']]],
-  ['error',['error',['../vst2persistence_8cpp.html#a5e7e27258e59f4c4a80e5fb757024a2d',1,'error():&#160;vst2persistence.cpp'],['../vst2persistence_8cpp.html#a2c3e4bb40f36b262a5214e2da2bca9c5',1,'Error():&#160;vst2persistence.cpp']]],
+  ['error',['Error',['../vst2persistence_8cpp.html#a2c3e4bb40f36b262a5214e2da2bca9c5',1,'Error():&#160;vst2persistence.cpp'],['../vst2persistence_8cpp.html#a5e7e27258e59f4c4a80e5fb757024a2d',1,'error():&#160;vst2persistence.cpp']]],
   ['errormessageshown',['errorMessageShown',['../../base/classSteinberg_1_1IErrorContext.html#a344d0ab2c2edc4aa4f47af8617375d4f',1,'Steinberg::IErrorContext']]],
   ['errornotedroppedbecausenonoteid',['errorNoteDroppedBecauseNoNoteID',['../structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a092dfa445ad7c29c6fdf6e8fb117c214',1,'Steinberg::Vst::MPE::Handler']]],
   ['errornotedroppedbecausenotestackfull',['errorNoteDroppedBecauseNoteStackFull',['../structSteinberg_1_1Vst_1_1MPE_1_1Handler.html#a8f4c22a418d62bbed85f287745b59da3',1,'Steinberg::Vst::MPE::Handler']]],

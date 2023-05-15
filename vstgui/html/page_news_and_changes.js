@@ -2,6 +2,8 @@ var page_news_and_changes =
 [
     [ "Introduction", "page_news_and_changes.html#version4_introduction", null ],
     [ "New Stuff", "page_news_and_changes.html#new_stuff", [
+      [ "Version 4.12.2", "page_news_and_changes.html#version4_12_2", null ],
+      [ "Version 4.12.1", "page_news_and_changes.html#version4_12_1", null ],
       [ "Version 4.12", "page_news_and_changes.html#version4_12", null ],
       [ "Version 4.11", "page_news_and_changes.html#version4_11", null ],
       [ "Version 4.10", "page_news_and_changes.html#version4_10", null ],

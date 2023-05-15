@@ -117,7 +117,7 @@ var searchData=
   ['processsetup',['ProcessSetup',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html',1,'Steinberg::Vst']]],
   ['programcount',['programCount',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProgramListInfo.html#aa480d0c44ff2b505ebf3581427dd8c05',1,'Steinberg::Vst::ProgramListInfo']]],
   ['programdatasupported',['programDataSupported',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html#abc46e67ff37c30223ab01b70fe49a2e3',1,'Steinberg::Vst::IProgramListData']]],
-  ['programindexmap',['programIndexMap',['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#adff4e706a786b881134df97ce6755050',1,'Steinberg::Vst::EditControllerEx1::programIndexMap()'],['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf',1,'Steinberg::Vst::EditControllerEx1::ProgramIndexMap()']]],
+  ['programindexmap',['ProgramIndexMap',['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf',1,'Steinberg::Vst::EditControllerEx1::ProgramIndexMap()'],['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#adff4e706a786b881134df97ce6755050',1,'Steinberg::Vst::EditControllerEx1::programIndexMap()']]],
   ['programinfos',['programInfos',['../classSteinberg_1_1Vst_1_1ProgramList.html#a932cfb942e9ea765480dbd9524fed209',1,'Steinberg::Vst::ProgramList']]],
   ['programinfovector',['ProgramInfoVector',['../classSteinberg_1_1Vst_1_1ProgramList.html#a43790e03c786a44ac4501bf277e660e6',1,'Steinberg::Vst::ProgramList']]],
   ['programlist',['ProgramList',['../classSteinberg_1_1Vst_1_1ProgramList.html',1,'Steinberg::Vst']]],

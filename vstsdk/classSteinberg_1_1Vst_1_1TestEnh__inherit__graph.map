@@ -1,5 +1,5 @@
 <map id="TestEnh" name="TestEnh">
-<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1TestBase.html" title="Test Helper." alt="" coords="5,315,167,508"/>
-<area shape="rect" id="node3" href="vstinterfaces.tag$classSteinberg_1_1ITest.html" title="{ITest\n|+ iid\l|+ setup()\l+ run()\l+ teardown()\l+ getDescription()\l}" alt="" coords="27,153,145,267"/>
-<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="27,5,145,105"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1TestBase.html" title="Test Helper." alt="" coords="5,320,164,519"/>
+<area shape="rect" id="node3" href="vstinterfaces.tag$classSteinberg_1_1ITest.html" title="{ITest\n|+ iid\l|+ setup()\l+ run()\l+ teardown()\l+ getDescription()\l}" alt="" coords="27,156,143,272"/>
+<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="27,5,143,108"/>
 </map>

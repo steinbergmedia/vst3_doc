@@ -67,8 +67,8 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4dae123b5697706651d9ff20c9614f63",
 "eventlistcheck_8h.html",
 "logevents_8h.html#ad535885ce8f80d2d5eddc5423e73393e",
-"mdaDynamicsProcessor_8cpp.html",
-"pitchnames_2source_2version_8h.html#a7b9ca76cb4cc59f027ddabbe5f3f2118"
+"mdaDynamicsController_8h.html",
+"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

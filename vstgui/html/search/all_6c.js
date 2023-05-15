@@ -35,7 +35,7 @@ var searchData=
   ['linepair',['LinePair',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#abbf93dee2928345015a385246266b6de',1,'VSTGUI::CDrawContext']]],
   ['linewidth',['lineWidth',['../struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html#a7e70936009a642e08f3d72aa6d93f6b6',1,'VSTGUI::StringListControlDrawer::Impl']]],
   ['list',['List',['../struct_v_s_t_g_u_i_1_1_listener_provider.html#ae5780255e762641429a0ead4d9c119c9',1,'VSTGUI::ListenerProvider']]],
-  ['listener',['listener',['../class_v_s_t_g_u_i_1_1_c_control.html#a86de9789ce5ae4ecb5bec7826dd3f03f',1,'VSTGUI::CControl::listener()'],['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener.html#a44275158aae2a3828a23db4fe755a82f',1,'VSTGUI::Standalone::Value::Listener::Listener()']]],
+  ['listener',['Listener',['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener.html#a44275158aae2a3828a23db4fe755a82f',1,'VSTGUI::Standalone::Value::Listener::Listener()'],['../class_v_s_t_g_u_i_1_1_c_control.html#a86de9789ce5ae4ecb5bec7826dd3f03f',1,'VSTGUI::CControl::listener()']]],
   ['listener',['Listener',['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener.html',1,'VSTGUI::Standalone::Value']]],
   ['listenerbase',['ListenerBase',['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_detail_1_1_listener_base.html',1,'VSTGUI::Standalone::Value::Detail']]],
   ['listenerbase',['ListenerBase',['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_detail_1_1_listener_base.html#a4f413b79a331c9f806ffa968e99e60c4',1,'VSTGUI::Standalone::Value::Detail::ListenerBase']]],

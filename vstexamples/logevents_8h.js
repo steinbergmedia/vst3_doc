@@ -123,6 +123,7 @@ var logevents_8h =
       [ "kLogIdIComponentHandlerBusActivationSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a156c451382cadc1afb4f34f6cac35981", null ],
       [ "kLogIdIProgressSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aeccac95af4f90b8e1c75a232cc79fad8", null ],
       [ "kLogIdIPlugInterfaceSupportSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a2d860595e720d7111f10a428c1c2b1e0", null ],
+      [ "kLogIdIPlugInterfaceSupportNotSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a9328592efce65bc8e1215db9464fb0b3", null ],
       [ "kLogIdIPlugFrameonResizeViewSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1aefcbcf0463d7bf0f8f7b7161f7a747", null ],
       [ "kLogIdIPrefetchableSupportSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa6e9ee7941dbfaa2697fb36147470c67", null ],
       [ "kLogIdAudioPresentationLatencySamplesSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0f126be06bac7a5f43c0f3c32bd6768f", null ],

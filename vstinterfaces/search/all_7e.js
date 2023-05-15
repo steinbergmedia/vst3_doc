@@ -6,7 +6,7 @@ var searchData=
   ['_7ecomponentbase',['~ComponentBase',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#a992af1025ac7720ce29a87d926531e05',1,'Steinberg::Vst::AudioEffect']]],
   ['_7econnectionproxy',['~ConnectionProxy',['../../vstsdk/classSteinberg_1_1Vst_1_1ConnectionProxy.html#a891d1d252d711b7980defaba5112544f',1,'Steinberg::Vst::ConnectionProxy']]],
   ['_7econststringtable',['~ConstStringTable',['../../base/classSteinberg_1_1ConstStringTable.html#a99f647d997cd61d511fdf60560c5706b',1,'Steinberg::ConstStringTable']]],
-  ['_7ecpluginview',['~CPluginView',['../../vstsdk/classSteinberg_1_1CPluginView.html#a7f3eff5b630d169f894c01bdb2faf56d',1,'Steinberg::CPluginView']]],
+  ['_7ecpluginview',['~CPluginView',['../../vstsdk/classSteinberg_1_1CPluginView.html#a9242a8037a9e2355d4db0b4644e498ca',1,'Steinberg::CPluginView']]],
   ['_7eeditcontrollerex1',['~EditControllerEx1',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#abeab0355fc2fa4cf2c7e66cb30db79e7',1,'Steinberg::Vst::EditControllerEx1']]],
   ['_7eeditorview',['~EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a0604e41b561a0dee460052ae5f350b0d',1,'Steinberg::Vst::EditorView']]],
   ['_7eeventlist',['~EventList',['../../vstsdk/classSteinberg_1_1Vst_1_1EventList.html#a8dc46be3158d9c6b9ffe81945a32cb92',1,'Steinberg::Vst::EventList']]],

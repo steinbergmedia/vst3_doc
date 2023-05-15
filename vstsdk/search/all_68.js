@@ -2,6 +2,7 @@ var searchData=
 [
   ['handler',['Handler',['../structSteinberg_1_1Vst_1_1MPE_1_1Handler.html',1,'Steinberg::Vst::MPE']]],
   ['hapi',['HAPI',['../aaxwrapper_8cpp.html#a84ffcb8d3d8c46cedb0daec6b1c25f29',1,'HAPI():&#160;aaxwrapper.cpp'],['../aaxwrapper__parameters_8cpp.html#a84ffcb8d3d8c46cedb0daec6b1c25f29',1,'HAPI():&#160;aaxwrapper_parameters.cpp']]],
+  ['hasbundlestructure',['hasBundleStructure',['../classVST3_1_1Hosting_1_1Module.html#ae9087247e1a6e9b3d267c9546b4f8762',1,'VST3::Hosting::Module']]],
   ['haschanges',['hasChanges',['../structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a2574a316f6e1e03e54b1a512cf2b8369',1,'Steinberg::Vst::SampleAccurate::Parameter']]],
   ['hasdelay',['hasDelay',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1a013a451f71921f677fc504173431e3',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['haspitchnames',['hasPitchNames',['../classSteinberg_1_1Vst_1_1ProgramList.html#abcd21a0dc142da8852f0c14e8bc01dcf',1,'Steinberg::Vst::ProgramList::hasPitchNames()'],['../classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a64c521f40929f86cadce19cab89cf272',1,'Steinberg::Vst::ProgramListWithPitchNames::hasPitchNames()']]],
@@ -19,6 +20,6 @@ var searchData=
   ['hostknobmode',['hostKnobMode',['../classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
   ['hostmessage',['HostMessage',['../exceptionSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage']]],
   ['hostmessage',['HostMessage',['../exceptionSteinberg_1_1Vst_1_1HostMessage.html',1,'Steinberg::Vst']]],
-  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html',1,'Steinberg::Vst']]],
-  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData']]]
+  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData']]],
+  ['hostprocessdata',['HostProcessData',['../classSteinberg_1_1Vst_1_1HostProcessData.html',1,'Steinberg::Vst']]]
 ];

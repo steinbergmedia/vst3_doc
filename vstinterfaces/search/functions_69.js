@@ -12,6 +12,7 @@ var searchData=
   ['isambisonics',['isAmbisonics',['../group__speakerArrangements.html#ga1eb079a06c32ed8dfe5640d1ea129beb',1,'Steinberg::Vst::SpeakerArr']]],
   ['isattached',['isAttached',['../../vstsdk/classSteinberg_1_1CPluginView.html#a1b7f04ee36bdaecd09a2625370dc90d8',1,'Steinberg::CPluginView']]],
   ['isauro',['isAuro',['../group__speakerArrangements.html#gaa3a2c80faffa004172a77e983fd1d4ba',1,'Steinberg::Vst::SpeakerArr']]],
+  ['isbundle',['isBundle',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a732849e7293ae526d692dc14ca2faa5e',1,'VST3::Hosting::Module']]],
   ['isempty',['isEmpty',['../../base/classSteinberg_1_1FVariant.html#a479432127ee77145cc19d6a2d1590821',1,'Steinberg::FVariant']]],
   ['isenabled',['isEnabled',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#ae2931e09e0fd8eac15c83f0254b4e4ac',1,'Steinberg::Vst::InterAppAudio::MidiIO']]],
   ['ismidinetworkenabled',['isMidiNetworkEnabled',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#a7440bcb5dab56eedbaa3fb9868e8488c',1,'Steinberg::Vst::InterAppAudio::MidiIO']]],

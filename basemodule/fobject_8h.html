@@ -351,7 +351,7 @@ Functions</h2></td></tr>
 <div class="line">    virtual <a class="code" href="namespaceSteinberg.html#ab36f267af0b3dc88ce9135a0c3b4f170">Steinberg::FClassID</a> isA () const SMTG_OVERRIDE {<span class="keywordflow">return</span> className::getFClassID ();}  \</div>
 <div class="line">    virtual <span class="keywordtype">bool</span> isA (<a class="code" href="namespaceSteinberg.html#ab36f267af0b3dc88ce9135a0c3b4f170">Steinberg::FClassID</a> s) <span class="keyword">const</span> SMTG_OVERRIDE {<span class="keywordflow">return</span> isTypeOf (s, <span class="keyword">false</span>);}  \</div>
 <div class="line">    virtual <span class="keywordtype">bool</span> isTypeOf (<a class="code" href="namespaceSteinberg.html#ab36f267af0b3dc88ce9135a0c3b4f170">Steinberg::FClassID</a> s, <span class="keywordtype">bool</span> askBaseClass = <span class="keyword">true</span>) const SMTG_OVERRIDE \</div>
-<div class="line">    {  <span class="keywordflow">return</span> (classIDsEqual (s, #className) ? <span class="keyword">true</span> : (askBaseClass ? baseClass::isTypeOf (s, <span class="keyword">true</span>) : <span class="keyword">false</span>)); }</div>
+<div class="line">    {  <span class="keywordflow">return</span> (FObject::classIDsEqual (s, #className) ? <span class="keyword">true</span> : (askBaseClass ? baseClass::isTypeOf (s, <span class="keyword">true</span>) : <span class="keyword">false</span>)); }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -748,7 +748,7 @@ Functions</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2022 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2023 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

@@ -1,4 +1,4 @@
 <map id="IEventList" name="IEventList">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1EventList.html" title="{EventList\n|# events\l# maxSize\l# fillCount\l|+ EventList()\l+ ~EventList()\l+ getEventCount()\l+ getEvent()\l+ addEvent()\l+ setMaxSize()\l+ clear()\l+ getEventByIndex()\l}" alt="" coords="5,301,137,495"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="12,5,131,105"/>
+<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1EventList.html" title="{EventList\n|# events\l# maxSize\l# fillCount\l|+ EventList()\l+ ~EventList()\l+ getEventCount()\l+ getEvent()\l+ addEvent()\l+ setMaxSize()\l+ clear()\l+ getEventByIndex()\l}" alt="" coords="5,306,136,505"/>
+<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="12,5,129,108"/>
 </map>

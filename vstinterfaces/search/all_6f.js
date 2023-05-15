@@ -4,7 +4,7 @@ var searchData=
   ['objcclassbuilder',['ObjCClassBuilder',['../../vstsdk/structSteinberg_1_1ObjCClassBuilder.html',1,'Steinberg']]],
   ['objcclassbuilder_2eh',['objcclassbuilder.h',['../../vstsdk/objcclassbuilder_8h.html',1,'']]],
   ['objcinstance',['ObjCInstance',['../../vstsdk/structSteinberg_1_1ObjCInstance.html',1,'Steinberg']]],
-  ['objcinstance',['ObjCInstance',['../../vstsdk/structSteinberg_1_1ObjCInstance.html#abbc08583bad201e05a3391abce644ddc',1,'Steinberg::ObjCInstance']]],
+  ['objcinstance',['ObjCInstance',['../../vstsdk/structSteinberg_1_1ObjCInstance.html#af297da87bd0771fcecdc2f796385b5d1',1,'Steinberg::ObjCInstance']]],
   ['objcvariable',['ObjCVariable',['../../vstsdk/structSteinberg_1_1ObjCVariable.html#a62cd47bc16e8d305970d9e2c5aca9b41',1,'Steinberg::ObjCVariable::ObjCVariable(__unsafe_unretained id obj, Ivar ivar)'],['../../vstsdk/structSteinberg_1_1ObjCVariable.html#acba23b5edee4b4a64824b762c33b1e6e',1,'Steinberg::ObjCVariable::ObjCVariable(ObjCVariable &amp;&amp;o)']]],
   ['objcvariable',['ObjCVariable',['../../vstsdk/structSteinberg_1_1ObjCVariable.html',1,'Steinberg']]],
   ['objecttype',['ObjectType',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html#a1dfc475287dfd0b26de999c61199e59e',1,'Steinberg::Vst::RTTransferT']]],

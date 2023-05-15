@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52":[3,0,277,2],
 "pitchnames_2source_2version_8h.html#a7b9ca76cb4cc59f027ddabbe5f3f2118":[3,0,277,5],
 "pitchnames_2source_2version_8h.html#a9278205f41909b317803db604ed1075d":[3,0,277,1],
 "pitchnames_2source_2version_8h.html#a959cc5c14daa39d176d88fffd211aa6c":[3,0,277,4],

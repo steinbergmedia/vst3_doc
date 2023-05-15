@@ -99,6 +99,7 @@ var searchData=
   ['irunloop',['IRunLoop',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html',1,'Steinberg::Linux']]],
   ['isactive',['isActive',['../classSteinberg_1_1Vst_1_1Bus.html#a7e0a17a20c2f0dd2d3d1e6a62c327cf6',1,'Steinberg::Vst::Bus::isActive()'],['../classSteinberg_1_1Vst_1_1BypassProcessor.html#a22761609071413dcce0632885c820e87',1,'Steinberg::Vst::BypassProcessor::isActive()']]],
   ['isattached',['isAttached',['../classSteinberg_1_1CPluginView.html#a1b7f04ee36bdaecd09a2625370dc90d8',1,'Steinberg::CPluginView']]],
+  ['isbundle',['isBundle',['../classVST3_1_1Hosting_1_1Module.html#a732849e7293ae526d692dc14ca2faa5e',1,'VST3::Hosting::Module']]],
   ['isbypassed',['isBypassed',['../structVST3_1_1Vst2xState.html#a3853469785c92d06af40d625b0906984',1,'VST3::Vst2xState']]],
   ['isempty',['isEmpty',['../../base/classSteinberg_1_1FVariant.html#a479432127ee77145cc19d6a2d1590821',1,'Steinberg::FVariant']]],
   ['isenabled',['isEnabled',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#ae2931e09e0fd8eac15c83f0254b4e4ac',1,'Steinberg::Vst::InterAppAudio::MidiIO']]],

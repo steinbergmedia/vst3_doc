@@ -22,5 +22,13 @@ var searchData=
   ['moviebitmapcreator',['MovieBitmapCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_movie_bitmap_creator.html',1,'VSTGUI::UIViewCreator']]],
   ['moviebuttoncreator',['MovieButtonCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_movie_button_creator.html',1,'VSTGUI::UIViewCreator']]],
   ['multibitmapcontrolcreator',['MultiBitmapControlCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_multi_bitmap_control_creator.html',1,'VSTGUI::UIViewCreator']]],
+  ['multiframebitmapview',['MultiFrameBitmapView',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20canimknob_20_3e',['MultiFrameBitmapView&lt; CAnimKnob &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20cautoanimation_20_3e',['MultiFrameBitmapView&lt; CAutoAnimation &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20ckickbutton_20_3e',['MultiFrameBitmapView&lt; CKickButton &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20cmoviebitmap_20_3e',['MultiFrameBitmapView&lt; CMovieBitmap &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20cmoviebutton_20_3e',['MultiFrameBitmapView&lt; CMovieButton &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20crockerswitch_20_3e',['MultiFrameBitmapView&lt; CRockerSwitch &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
+  ['multiframebitmapview_3c_20cswitchbase_20_3e',['MultiFrameBitmapView&lt; CSwitchBase &gt;',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html',1,'VSTGUI']]],
   ['multilinetextlabelcreator',['MultiLineTextLabelCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_multi_line_text_label_creator.html',1,'VSTGUI::UIViewCreator']]]
 ];

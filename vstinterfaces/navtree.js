@@ -41,13 +41,13 @@ var NAVTREEINDEX =
 ".html",
 "classSteinberg_1_1Vst_1_1ITestPlugProvider2.html",
 "group__musicalStyle.html#ga1e43c81772b3227d2239c4c869194733",
-"group__speakerArrangements.html#ga53f43e261801293edcef4a1ad84b279d",
-"group__vst3typedef.html#ga9e134142463a8ca477018e7f2c3220f5",
-"ivstphysicalui_8h.html#a625d3c836663769a5ea9df6a8481fecaad9fa44ff5af516fd2f1265100aa8c82e",
-"structSteinberg_1_1Vst_1_1FrameRate.html#a81a27ce50e78368b0d0de1e8767fd32d",
-"vstpresetkeys_8h.html#ga3c6dcb9ae2464cf7012aadb328c73fdb",
-"vstspeaker_8h.html#ga230095c9378b6f8cac9f14120786423f",
-"vstspeaker_8h.html#gae026a8a57e8a9a408320616a0d289ece"
+"group__speakerArrangements.html#ga4a84febf8ecee1a6ba6c0a8786d378c3",
+"group__speakerArrangements.html#gae74e19a6a7653396d1c0e91ff85de6cb",
+"ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6aa2e16c34abda2b690c0ce04f71fba7ed",
+"structSteinberg_1_1Vst_1_1BusInfo.html#a764af5c5b921de1cab2eca6565ea5d1e",
+"vstpresetkeys_8h.html#ga0bbfdd92cc2b2313b3cf974c5b3f9760",
+"vstpresetkeys_8h.html#gae4e52f708efde91cf0f2a78cebbd351c",
+"vstspeaker_8h.html#ga95a8ec3f36de03bb6b9f3f1be339f889"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

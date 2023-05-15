@@ -1,0 +1,24 @@
+<map id="vst" name="vst">
+<area shape="rect" id="node2" href="dir_4140a7073ece7aaf742e39af087b0999.html" title="adelay" alt="" coords="1944,62,2016,110"/>
+<area shape="rect" id="node3" href="dir_ca736480f01123d98c99b6b26db26693.html" title="again" alt="" coords="1845,158,1917,206"/>
+<area shape="rect" id="node4" href="dir_aa5ce9ec87aa1a16bb1fa722ea247b2d.html" title="again_aax" alt="" coords="1843,62,1920,110"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000007_000005.html" title="2" alt="" coords="1886,132,1893,146"/>
+<area shape="rect" id="node5" href="dir_53057f14672c94651c2abc33d54672b1.html" title="again_auv3" alt="" coords="1736,62,1819,110"/>
+<area shape="rect" id="node6" href="dir_111403d7093a26e50e7fc942df38c333.html" title="channelcontext" alt="" coords="1609,62,1711,110"/>
+<area shape="rect" id="node7" href="dir_0b52d81270d69427b03bd9200fb8431d.html" title="common" alt="" coords="1017,158,1089,206"/>
+<area shape="rect" id="node8" href="dir_41ea4cda840671afa4195f5a84f20060.html" title="hostchecker" alt="" coords="1498,62,1584,110"/>
+<area shape="rect" id="node9" href="dir_b776b31d3e844b6308bb43935d163fc6.html" title="InterAppAudio" alt="" coords="1377,62,1474,110"/>
+<area shape="rect" id="node10" href="dir_762013fc893ec39487eb8d8227eee924.html" title="legacymidiccout" alt="" coords="1245,62,1352,110"/>
+<area shape="rect" id="node11" href="dir_503fa498e3bfaf20b3b6f36205aa1a26.html" title="mda&#45;vst3" alt="" coords="1149,62,1221,110"/>
+<area shape="rect" id="node12" href="dir_66186a896c15466bcb3014071cae0a5a.html" title="note_expression_synth" alt="" coords="981,62,1126,110"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000014_000024.html" title="3" alt="" coords="1058,132,1065,146"/>
+<area shape="rect" id="node13" href="dir_5f747463a7785ab57199bb2a69c8bb20.html" title="note_expression_synth_auv3" alt="" coords="779,62,957,110"/>
+<area shape="rect" id="node14" href="dir_35eb2a712ed607e260f272539a2bcf53.html" title="note_expression_text" alt="" coords="620,62,756,110"/>
+<area shape="rect" id="node15" href="dir_a3aed8fa731ce630ecbc137b8e9e6e2c.html" title="panner" alt="" coords="524,62,596,110"/>
+<area shape="rect" id="node16" href="dir_eb7aa5eae9c13a1fa1734b5544646c66.html" title="pitchnames" alt="" coords="417,62,500,110"/>
+<area shape="rect" id="node17" href="dir_c2baabfc9008146e0c1b0f2c81f530f1.html" title="prefetchablesupport" alt="" coords="266,62,393,110"/>
+<area shape="rect" id="node18" href="dir_8db53838520c19ea2101bbe8a49eefb5.html" title="programchange" alt="" coords="137,62,242,110"/>
+<area shape="rect" id="node19" href="dir_51543b6f2ec65c925e760628098b5a9e.html" title="syncdelay" alt="" coords="37,62,112,110"/>
+<area shape="rect" id="clust2" href="dir_789293ec9a89c1d81a281d27272bf9c8.html" alt="" coords="27,51,2123,216"/>
+<area shape="rect" id="clust1" href="dir_7ce19b2c36e959b5869a33ed193ee16b.html" title="samples" alt="" coords="16,16,2133,227"/>
+</map>

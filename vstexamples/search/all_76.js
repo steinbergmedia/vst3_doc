@@ -36,7 +36,7 @@ var searchData=
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html',1,'Steinberg::Vst::mda::EPianoProcessor']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html',1,'Steinberg::Vst::mda::PianoProcessor']]],
-  ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#ac11fe17eee1172a3632e71ba706d9345',1,'Steinberg::Vst::mda::SynthData::VOICE()'],['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a1be71147dc3e150a8426812fbedfa918',1,'Steinberg::Vst::mda::SynthData::voice()'],['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html#af62a35c7d4ac17a614bf11934e3f6ab8',1,'Steinberg::Vst::NoteExpressionSynth::Voice::Voice()']]],
+  ['voice',['voice',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a1be71147dc3e150a8426812fbedfa918',1,'Steinberg::Vst::mda::SynthData::voice()'],['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#ac11fe17eee1172a3632e71ba706d9345',1,'Steinberg::Vst::mda::SynthData::VOICE()'],['../classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html#af62a35c7d4ac17a614bf11934e3f6ab8',1,'Steinberg::Vst::NoteExpressionSynth::Voice::Voice()']]],
   ['voice',['VOICE',['../structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html',1,'Steinberg::Vst::mda::DX10Processor']]],
   ['voicearray',['VoiceArray',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a3eeeffabd9f4b286daff4d11c927d474',1,'Steinberg::Vst::mda::SynthData']]],
   ['voicebase',['VoiceBase',['../classSteinberg_1_1Vst_1_1VoiceBase.html',1,'Steinberg::Vst']]],

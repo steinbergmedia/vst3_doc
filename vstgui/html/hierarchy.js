@@ -484,6 +484,28 @@ var hierarchy =
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html", null ],
     [ "CKnobBase::MouseEditingState", "struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html", null ],
     [ "MouseEventButtonState", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html", null ],
+    [ "MultiFrameBitmapView< T >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", null ],
+    [ "MultiFrameBitmapView< CAnimKnob >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CAutoAnimation >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CKickButton >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CKickButton", "class_v_s_t_g_u_i_1_1_c_kick_button.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CMovieBitmap >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CMovieBitmap", "class_v_s_t_g_u_i_1_1_c_movie_bitmap.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CMovieButton >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CMovieButton", "class_v_s_t_g_u_i_1_1_c_movie_button.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CRockerSwitch >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CRockerSwitch", "class_v_s_t_g_u_i_1_1_c_rocker_switch.html", null ]
+    ] ],
+    [ "MultiFrameBitmapView< CSwitchBase >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html", null ]
+    ] ],
     [ "Optional< T >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
     [ "Optional< int32_t >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
     [ "Optional< ModalViewSessionID >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],

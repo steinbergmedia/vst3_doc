@@ -169,6 +169,7 @@ var searchData=
   ['klogidiparameterfindersupported',['kLogIdIParameterFinderSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1ed1e56eea06bb5be4b31c77f3ca3060',1,'logevents.h']]],
   ['klogidiparameterfunctionnamesupported',['kLogIdIParameterFunctionNameSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa972d9a1b7865c1232278a3acde538f0',1,'logevents.h']]],
   ['klogidiplugframeonresizeviewsupported',['kLogIdIPlugFrameonResizeViewSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1aefcbcf0463d7bf0f8f7b7161f7a747',1,'logevents.h']]],
+  ['klogidipluginterfacesupportnotsupported',['kLogIdIPlugInterfaceSupportNotSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a9328592efce65bc8e1215db9464fb0b3',1,'logevents.h']]],
   ['klogidipluginterfacesupportsupported',['kLogIdIPlugInterfaceSupportSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a2d860595e720d7111f10a428c1c2b1e0',1,'logevents.h']]],
   ['klogidiplugviewattachedwithoutremoved',['kLogIdIPlugViewattachedWithoutRemoved',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46ab86864ad824f7fe4f0ffbab542eaef13',1,'logevents.h']]],
   ['klogidiplugviewcalledasync',['kLogIdIPlugViewCalledAsync',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a4f95de0b10fb65dd04515513c5519538',1,'logevents.h']]],

@@ -8,8 +8,10 @@ var classVST3_1_1Hosting_1_1Module =
     [ "getName", "classVST3_1_1Hosting_1_1Module.html#ae97c2724ea480d85272ba2cb5a1da524", null ],
     [ "getPath", "classVST3_1_1Hosting_1_1Module.html#adbf9f5b3b8a667bdbbfc3928108b09aa", null ],
     [ "getFactory", "classVST3_1_1Hosting_1_1Module.html#af02425e760491b6944e5a9868e9e770e", null ],
+    [ "isBundle", "classVST3_1_1Hosting_1_1Module.html#a732849e7293ae526d692dc14ca2faa5e", null ],
     [ "load", "classVST3_1_1Hosting_1_1Module.html#ad210dec17843e489c4c87cb1d401444c", null ],
     [ "factory", "classVST3_1_1Hosting_1_1Module.html#a7ddbf523610d9a2456ef7b40f1ef488e", null ],
     [ "name", "classVST3_1_1Hosting_1_1Module.html#a9b45b3e13bd9167aab02e17e08916231", null ],
-    [ "path", "classVST3_1_1Hosting_1_1Module.html#a4d455efceee21e97d8e21ee40e9b4a20", null ]
+    [ "path", "classVST3_1_1Hosting_1_1Module.html#a4d455efceee21e97d8e21ee40e9b4a20", null ],
+    [ "hasBundleStructure", "classVST3_1_1Hosting_1_1Module.html#ae9087247e1a6e9b3d267c9546b4f8762", null ]
 ];

@@ -1,4 +1,4 @@
 <map id="PresetManager" name="PresetManager">
-<area shape="rect" id="node3" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html" title="{IInterAppAudioPresetManager\n|+ iid\l|+ runLoadPresetBrowser()\l+ runSavePresetBrowser()\l+ loadNextPreset()\l+ loadPreviousPreset()\l}" alt="" coords="93,153,280,267"/>
-<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="127,5,246,105"/>
+<area shape="rect" id="node3" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html" title="{IInterAppAudioPresetManager\n|+ iid\l|+ runLoadPresetBrowser()\l+ runSavePresetBrowser()\l+ loadNextPreset()\l+ loadPreviousPreset()\l}" alt="" coords="92,156,275,272"/>
+<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="125,5,242,108"/>
 </map>

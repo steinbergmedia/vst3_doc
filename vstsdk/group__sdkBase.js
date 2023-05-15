@@ -15,7 +15,7 @@ var group__sdkBase =
     ] ],
     [ "CPluginView", "classSteinberg_1_1CPluginView.html", [
       [ "CPluginView", "classSteinberg_1_1CPluginView.html#a7c25891fe7dde6dc274a0ac9f20890a4", null ],
-      [ "~CPluginView", "classSteinberg_1_1CPluginView.html#a7f3eff5b630d169f894c01bdb2faf56d", null ],
+      [ "~CPluginView", "classSteinberg_1_1CPluginView.html#a9242a8037a9e2355d4db0b4644e498ca", null ],
       [ "getRect", "classSteinberg_1_1CPluginView.html#a3b4323d2d47acef1cb9df405d6636bdb", null ],
       [ "setRect", "classSteinberg_1_1CPluginView.html#ab38ae9803059134bafb532bbc49bb127", null ],
       [ "isAttached", "classSteinberg_1_1CPluginView.html#a1b7f04ee36bdaecd09a2625370dc90d8", null ],

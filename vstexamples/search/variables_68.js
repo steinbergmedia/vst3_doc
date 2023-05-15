@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['hasbundlestructure',['hasBundleStructure',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#ae9087247e1a6e9b3d267c9546b4f8762',1,'VST3::Hosting::Module']]],
   ['hbuf',['hbuf',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#ae859c6fbd7fb9f595683538ee5e98735',1,'Steinberg::Vst::mda::BeatBoxProcessor::hbuf()'],['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae859c6fbd7fb9f595683538ee5e98735',1,'Steinberg::Vst::mda::LeslieProcessor::hbuf()']]],
   ['hbuflen',['hbuflen',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a16aba4dd31b5c34397259713abe32152',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
   ['hbufpos',['hbufpos',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#ac746cc0fad0d8a63319f1025d760f85b',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],

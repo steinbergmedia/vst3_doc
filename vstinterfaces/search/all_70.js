@@ -133,11 +133,11 @@ var searchData=
   ['programlistwithpitchnames',['ProgramListWithPitchNames',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html',1,'Steinberg::Vst']]],
   ['programlistwithpitchnames',['ProgramListWithPitchNames',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ac35cdc8c766d4de4e9677d278c01382a',1,'Steinberg::Vst::ProgramListWithPitchNames']]],
   ['programnames',['programNames',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#a374d0d28218114229c2469dec596b9ff',1,'Steinberg::Vst::ProgramList']]],
-  ['programs',['Programs',['../../vstsdk/structVST3_1_1Vst2xState.html#a6a250ebf1916f9297dbedc8fc488ddb4',1,'VST3::Vst2xState::Programs()'],['../../vstsdk/structVST3_1_1Vst2xState.html#a69649642bc65a780bbab905b1c57aba7',1,'VST3::Vst2xState::programs()']]],
+  ['programs',['programs',['../../vstsdk/structVST3_1_1Vst2xState.html#a69649642bc65a780bbab905b1c57aba7',1,'VST3::Vst2xState::programs()'],['../../vstsdk/structVST3_1_1Vst2xState.html#a6a250ebf1916f9297dbedc8fc488ddb4',1,'VST3::Vst2xState::Programs()']]],
   ['programvalues',['ProgramValues',['../../vstsdk/structVST3_1_1Vst2xProgram.html#a2bc036956ebdabf74742defb97bee043',1,'VST3::Vst2xProgram']]],
   ['progresstype',['ProgressType',['../classSteinberg_1_1Vst_1_1IProgress.html#a69d16526a64609e721e3a65f3353d666',1,'Steinberg::Vst::IProgress']]],
   ['projecttimemusic',['projectTimeMusic',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a4c1e16437e0c0858fa5288107e5b187f',1,'Steinberg::Vst::ProcessContext']]],
   ['projecttimesamples',['projectTimeSamples',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a359d649ae34734b9876ad5a6a2f691f7',1,'Steinberg::Vst::ProcessContext']]],
-  ['ptr',['Ptr',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a6b597424e1e3214bbaa370140e784b15',1,'VST3::Hosting::Module::Ptr()'],['../../base/classSteinberg_1_1IPtr.html#a7c145f458643ff993b929f236d4a2ac0',1,'Steinberg::FUnknownPtr::ptr()']]],
+  ['ptr',['ptr',['../../base/classSteinberg_1_1IPtr.html#a7c145f458643ff993b929f236d4a2ac0',1,'Steinberg::FUnknownPtr::ptr()'],['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a6b597424e1e3214bbaa370140e784b15',1,'VST3::Hosting::Module::Ptr()']]],
   ['push',['push',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#abbabbc28c5f4f8830e2ed06b19ea9549',1,'Steinberg::OneReaderOneWriter::RingBuffer::push(ItemT &amp;&amp;item) noexcept'],['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#a91f11a2997e9e08387ea391c50fc1e98',1,'Steinberg::OneReaderOneWriter::RingBuffer::push(const ItemT &amp;item) noexcept']]]
 ];

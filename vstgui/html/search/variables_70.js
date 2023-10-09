@@ -8,6 +8,8 @@ var searchData=
   ['parentview',['parentView',['../struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#a71c97f41876543c1b50f7d822c62580a',1,'VSTGUI::CView::Impl']]],
   ['paste',['Paste',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_name.html#a7a3c9b00144ef8e4163f9738ecdaaffd',1,'VSTGUI::Standalone::CommandName::Paste()'],['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html#aef7b0d40628bf573f33866320010168c',1,'VSTGUI::Standalone::Commands::Paste()']]],
   ['path',['path',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#a21cc48a25d03af6e85cabd09f6fdd60a',1,'VSTGUI::CGradientView::path()'],['../class_v_s_t_g_u_i_1_1_c_graphics_path.html#a7b69daa8f258b4f9e2948e6ff83e6dd1',1,'VSTGUI::CGraphicsPath::path()']]],
+  ['penloc',['penLoc',['../struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a44e8f69a43429fa06fd1a6170ad0b7dd',1,'VSTGUI::CDrawContext::Impl::State']]],
+  ['performedit',['performEdit',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension_1_1_edit_callbacks.html#abdff3b2e76abb9b182f4a764d29e3bac',1,'VSTGUI::ExternalView::IControlViewExtension::EditCallbacks']]],
   ['phandle',['pHandle',['../class_v_s_t_g_u_i_1_1_c_knob.html#a07e502774917479168190866d934f15d',1,'VSTGUI::CKnob::pHandle()'],['../struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html#a13cfd7a9dd172dfb307d5f9c12bab2c5',1,'VSTGUI::CSlider::Impl::pHandle()']]],
   ['phase',['phase',['../struct_v_s_t_g_u_i_1_1_gesture_event.html#a3aaaebd424640a55658f6da992e087bd',1,'VSTGUI::GestureEvent']]],
   ['pi',['pi',['../namespace_v_s_t_g_u_i_1_1_constants.html#a95ed8d1f751904d69454dbb31f1f247d',1,'VSTGUI::Constants']]],

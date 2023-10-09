@@ -20,6 +20,7 @@ var searchData=
   ['clearqueue',['clearQueue',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#a7b7f09ace42f57bf958a1a379e935ea9',1,'Steinberg::Vst::ParameterChanges']]],
   ['clone',['clone',['../../base/classSteinberg_1_1ICloneable.html#a01cda1781c6c80ed3aa9091e34be16fb',1,'Steinberg::ICloneable']]],
   ['close',['close',['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549',1,'Steinberg::Vst::VSTGUIEditor']]],
+  ['closequeue',['closeQueue',['../classSteinberg_1_1Vst_1_1IDataExchangeHandler.html#ac0c45b4a114f40b229820fcd8121d4c8',1,'Steinberg::Vst::IDataExchangeHandler']]],
   ['component',['Component',['../../vstsdk/classSteinberg_1_1Vst_1_1Component.html#a0171e1571f18dc6a27c8b041de55feec',1,'Steinberg::Vst::AudioEffect']]],
   ['componentbase',['ComponentBase',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#ab3b1f8979c4bbe983e42010925959fd3',1,'Steinberg::Vst::AudioEffect']]],
   ['componentnondiscardable',['componentNonDiscardable',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aa5f9ddd2554d3fb83b528c80329aa8bb',1,'VST3::Hosting::FactoryInfo']]],

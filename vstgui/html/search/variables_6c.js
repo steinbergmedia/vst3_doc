@@ -16,6 +16,7 @@ var searchData=
   ['legacymodalviewsessionid',['legacyModalViewSessionID',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#ae3e4b8c00985c2b3d8ab9da711d6f542',1,'VSTGUI::CFrame::Impl']]],
   ['length',['length',['../class_v_s_t_g_u_i_1_1_animation_1_1_timing_function_base.html#aebb70c2aab3407a9f05334c47131a43b',1,'VSTGUI::Animation::TimingFunctionBase']]],
   ['linecolor',['lineColor',['../struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html#a00b1ab8be861eac66339b017824b4c34',1,'VSTGUI::StringListControlDrawer::Impl']]],
+  ['linestyle',['lineStyle',['../struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a7ea60ab0737e5b0dd4c8126a54880cf0',1,'VSTGUI::CDrawContext::Impl::State']]],
   ['linewidth',['lineWidth',['../struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html#a7e70936009a642e08f3d72aa6d93f6b6',1,'VSTGUI::StringListControlDrawer::Impl']]],
   ['listener',['listener',['../class_v_s_t_g_u_i_1_1_c_control.html#a86de9789ce5ae4ecb5bec7826dd3f03f',1,'VSTGUI::CControl']]],
   ['listeners',['listeners',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#abb03973d55ddd14e82e32e055a47ff34',1,'VSTGUI::COptionMenu::listeners()'],['../class_v_s_t_g_u_i_1_1_c_text_label.html#afc141b34383125ec819123032e853678',1,'VSTGUI::CTextLabel::listeners()']]],

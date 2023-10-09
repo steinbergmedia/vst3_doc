@@ -6,7 +6,10 @@ var hierarchy =
       [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html", null ]
     ] ],
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html", null ],
+    [ "DataExchangeHandler::Config", "structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html", null ],
     [ "ClassInfo::Data", "structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html", null ],
+    [ "DataExchangeHandler", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html", null ],
+    [ "DataExchangeReceiverHandler", "classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler.html", null ],
     [ "BypassProcessor< T >::Delay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html", null ],
     [ "PresetFile::Entry", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html", null ],
     [ "FactoryInfo", "classVST3_1_1Hosting_1_1FactoryInfo.html", null ],
@@ -40,7 +43,6 @@ var hierarchy =
         [ "RangeParameter", "classSteinberg_1_1Vst_1_1RangeParameter.html", null ],
         [ "StringListParameter", "classSteinberg_1_1Vst_1_1StringListParameter.html", null ]
       ] ],
-      [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ],
       [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html", [
         [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html", null ]
       ] ],
@@ -114,17 +116,17 @@ var hierarchy =
         [ "AudioEffect", "classSteinberg_1_1Vst_1_1AudioEffect.html", null ],
         [ "SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html", null ]
       ] ],
-      [ "ITestPlugProvider", "../vstinterfaces/classSteinberg_1_1Vst_1_1ITestPlugProvider.html", [
-        [ "ITestPlugProvider2", "../vstinterfaces/classSteinberg_1_1Vst_1_1ITestPlugProvider2.html", [
-          [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
-        ] ]
-      ] ],
       [ "IUnitInfo", "../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html", [
         [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html", null ]
       ] ]
     ] ],
     [ "Handler", "structSteinberg_1_1Vst_1_1MPE_1_1Handler.html", null ],
+    [ "HostDataExchangeHandler", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html", null ],
+    [ "IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html", null ],
     [ "Module::Snapshot::ImageDesc", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html", null ],
+    [ "Implements", null, [
+      [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
+    ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],
     [ "Module", "classVST3_1_1Hosting_1_1Module.html", null ],
     [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", null ],
@@ -147,10 +149,13 @@ var hierarchy =
     [ "ProcessDataSlicer", "classSteinberg_1_1Vst_1_1ProcessDataSlicer.html", null ],
     [ "Processor", "classSteinberg_1_1Vst_1_1MPE_1_1Processor.html", null ],
     [ "RingBuffer< ItemT >", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", null ],
+    [ "RingBuffer< Block >", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", null ],
+    [ "RingBuffer< void * >", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", null ],
     [ "RTTransferT< ObjectT, Deleter >", "structSteinberg_1_1Vst_1_1RTTransferT.html", null ],
     [ "Setup", "structSteinberg_1_1Vst_1_1MPE_1_1Setup.html", null ],
     [ "Module::Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", null ],
     [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", null ],
+    [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", null ],
     [ "TestDefaults", "structSteinberg_1_1Vst_1_1TestDefaults.html", null ],
     [ "TestingPluginContext", "structSteinberg_1_1Vst_1_1TestingPluginContext.html", null ],
     [ "<UIApplicationDelegate>", null, [

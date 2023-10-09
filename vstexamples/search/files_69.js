@@ -17,6 +17,7 @@ var searchData=
   ['ivstchannelcontextinfo_2eh',['ivstchannelcontextinfo.h',['../../vstinterfaces/ivstchannelcontextinfo_8h.html',1,'']]],
   ['ivstcomponent_2eh',['ivstcomponent.h',['../../vstinterfaces/ivstcomponent_8h.html',1,'']]],
   ['ivstcontextmenu_2eh',['ivstcontextmenu.h',['../../vstinterfaces/ivstcontextmenu_8h.html',1,'']]],
+  ['ivstdataexchange_2eh',['ivstdataexchange.h',['../../vstinterfaces/ivstdataexchange_8h.html',1,'']]],
   ['ivsteditcontroller_2eh',['ivsteditcontroller.h',['../../vstinterfaces/ivsteditcontroller_8h.html',1,'']]],
   ['ivstevents_2eh',['ivstevents.h',['../../vstinterfaces/ivstevents_8h.html',1,'']]],
   ['ivsthostapplication_2eh',['ivsthostapplication.h',['../../vstinterfaces/ivsthostapplication_8h.html',1,'']]],

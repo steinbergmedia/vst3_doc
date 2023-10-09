@@ -27,6 +27,7 @@ var searchData=
   ['againsidechain_2ecpp',['againsidechain.cpp',['../againsidechain_8cpp.html',1,'']]],
   ['againsidechain_2eh',['againsidechain.h',['../againsidechain_8h.html',1,'']]],
   ['againuimessagecontroller_2eh',['againuimessagecontroller.h',['../againuimessagecontroller_8h.html',1,'']]],
+  ['alignedalloc_2eh',['alignedalloc.h',['../../vstsdk/alignedalloc_8h.html',1,'']]],
   ['aucarbonview_2eh',['aucarbonview.h',['../../vstsdk/aucarbonview_8h.html',1,'']]],
   ['aucarbonview_2emm',['aucarbonview.mm',['../../vstsdk/aucarbonview_8mm.html',1,'']]],
   ['aucocoaview_2eh',['aucocoaview.h',['../../vstsdk/aucocoaview_8h.html',1,'']]],

@@ -1,5 +1,4 @@
 <map id="ITestPlugProvider" name="ITestPlugProvider">
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="23,334,153,408"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="30,5,146,108"/>
-<area shape="rect" id="node4" href="vstsdk.tag$classSteinberg_1_1Vst_1_1PlugProvider.html" title="{PlugProvider\n|+ ITestPlugProvider2\l# factory\l# component\l# controller\l# classInfo\l# componentCP\l# controllerCP\l# plugIsGlobal\l|+ PlugProvider()\l+ ~PlugProvider()\l+ initialize()\l+ getComponent()\l+ getController()\l+ releasePlugIn()\l+ getSubCategories()\l+ getComponentUID()\l+ getPluginFactory()\l+ OBJ_METHODS()\l# setupPlugin()\l# connectComponents()\l# disconnectComponents()\l# terminatePlugin()\l}" alt="" coords="5,456,170,807"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="11,328,143,401"/>
+<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="17,5,136,105"/>
 </map>

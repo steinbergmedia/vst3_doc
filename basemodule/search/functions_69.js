@@ -3,6 +3,7 @@ var searchData=
   ['ibstreamer',['IBStreamer',['../classSteinberg_1_1IBStreamer.html#a845d37e3a5e1ef478b7c44527a8ebd9c',1,'Steinberg::IBStreamer']]],
   ['incrementtrailingnumber',['incrementTrailingNumber',['../classSteinberg_1_1String.html#a784e9e7df7086386504a8935b9e39879',1,'Steinberg::String']]],
   ['init',['init',['../classSteinberg_1_1FDynLibrary.html#a8f36f17c29d5a7cc5f29677a6093ac5f',1,'Steinberg::FDynLibrary']]],
+  ['injectcreatetimerfunction',['InjectCreateTimerFunction',['../namespaceSteinberg.html#a849a1fe250eac0b91bcdbe70167d560c',1,'Steinberg']]],
   ['insertat',['insertAt',['../classSteinberg_1_1String.html#ab4203737065fd753214e0b65d61a874d',1,'Steinberg::String::insertAt(uint32 idx, const ConstString &amp;str, int32 n=-1)'],['../classSteinberg_1_1String.html#aea25de79cbc2237412bd253cdc2836be',1,'Steinberg::String::insertAt(uint32 idx, const char8 *str, int32 n=-1)'],['../classSteinberg_1_1String.html#a5afc7b36bf978427835538018f6f6bc5',1,'Steinberg::String::insertAt(uint32 idx, const char16 *str, int32 n=-1)'],['../classSteinberg_1_1String.html#a48cffef1dd37fc734c322b8366bf45fe',1,'Steinberg::String::insertAt(uint32 idx, char8 c)'],['../classSteinberg_1_1String.html#a92cfef5cae8cad95b4420998cc1298c3',1,'Steinberg::String::insertAt(uint32 idx, char16 c)']]],
   ['int16ptr',['int16Ptr',['../classSteinberg_1_1Buffer.html#a3948221f29d91cb858a4cceddc117390',1,'Steinberg::Buffer']]],
   ['int32ptr',['int32Ptr',['../classSteinberg_1_1Buffer.html#a571fa3f4781d2cdf4b5175b72a352598',1,'Steinberg::Buffer']]],

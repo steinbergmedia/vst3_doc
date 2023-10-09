@@ -19,6 +19,7 @@ var files =
       [ "IContextMenuItem", "structSteinberg_1_1Vst_1_1IContextMenuItem.html", "structSteinberg_1_1Vst_1_1IContextMenuItem" ],
       [ "IContextMenu", "classSteinberg_1_1Vst_1_1IContextMenu.html", "classSteinberg_1_1Vst_1_1IContextMenu" ]
     ] ],
+    [ "ivstdataexchange.h", "ivstdataexchange_8h.html", "ivstdataexchange_8h" ],
     [ "ivsteditcontroller.h", "ivsteditcontroller_8h.html", "ivsteditcontroller_8h" ],
     [ "ivstevents.h", "ivstevents_8h.html", "ivstevents_8h" ],
     [ "ivsthostapplication.h", "ivsthostapplication_8h.html", "ivsthostapplication_8h" ],

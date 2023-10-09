@@ -24,10 +24,11 @@ var searchData=
   ['url',['url',['../../base/structSteinberg_1_1PFactoryInfo.html#aa4ccdd008796e1fda60a64aca8fc6a16',1,'Steinberg::PFactoryInfo::url()'],['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#a3d1b81135890c4cc698ebec4217ed8c8',1,'VST3::Hosting::FactoryInfo::url()']]],
   ['usediids_2ecpp',['usediids.cpp',['../../vstsdk/usediids_8cpp.html',1,'']]],
   ['usedqueuecount',['usedQueueCount',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd',1,'Steinberg::Vst::ParameterChanges']]],
-  ['ustring',['UString',['../../base/classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3',1,'Steinberg::UString']]],
+  ['usercontextid',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
+  ['ustring',['UString',['../../base/classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3',1,'Steinberg::UString']]],
   ['ustring_2ecpp',['ustring.cpp',['../../base/ustring_8cpp.html',1,'']]],
   ['ustring_2eh',['ustring.h',['../../base/ustring_8h.html',1,'']]],
-  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
-  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html#ad2c1eac721335328075dcbfb452dde55',1,'Steinberg::UStringBuffer::UStringBuffer()'],['../../base/classSteinberg_1_1UStringBuffer.html#a6f858761bd4a84aa683759e4cc4b5fbd',1,'Steinberg::UStringBuffer::UStringBuffer(const char16 *src, int32 srcSize=-1)'],['../../base/classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf',1,'Steinberg::UStringBuffer::UStringBuffer(const char *src, int32 srcSize=-1)']]]
+  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html#ad2c1eac721335328075dcbfb452dde55',1,'Steinberg::UStringBuffer::UStringBuffer()'],['../../base/classSteinberg_1_1UStringBuffer.html#a6f858761bd4a84aa683759e4cc4b5fbd',1,'Steinberg::UStringBuffer::UStringBuffer(const char16 *src, int32 srcSize=-1)'],['../../base/classSteinberg_1_1UStringBuffer.html#a83089d05c32e18b3f50b2980859734cf',1,'Steinberg::UStringBuffer::UStringBuffer(const char *src, int32 srcSize=-1)']]],
+  ['ustringbuffer',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
 ];

@@ -10,6 +10,7 @@ var searchData=
   ['elements',['elements',['../class_v_s_t_g_u_i_1_1_c_graphics_path.html#af53e16429105ead070bf3fdbc6e98140',1,'VSTGUI::CGraphicsPath']]],
   ['enabled',['enabled',['../struct_v_s_t_g_u_i_1_1_focus_drawing_settings.html#a8740ba80e30dd75e71d09fa1dcf04f3d',1,'VSTGUI::FocusDrawingSettings']]],
   ['endedfunc',['endedFunc',['../class_v_s_t_g_u_i_1_1_drag_callback_functions.html#a1463ae390510a39e84d21e82be424fb1',1,'VSTGUI::DragCallbackFunctions']]],
+  ['endedit',['endEdit',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension_1_1_edit_callbacks.html#ad48fb27b29419d8a1083a1f63894a75a',1,'VSTGUI::ExternalView::IControlViewExtension::EditCallbacks']]],
   ['endvalue',['endValue',['../class_v_s_t_g_u_i_1_1_animation_1_1_alpha_value_animation.html#aca6a8e3a4064d2794d90e83d5bfe0993',1,'VSTGUI::Animation::AlphaValueAnimation::endValue()'],['../class_v_s_t_g_u_i_1_1_animation_1_1_control_value_animation.html#aca6a8e3a4064d2794d90e83d5bfe0993',1,'VSTGUI::Animation::ControlValueAnimation::endValue()']]],
   ['entries',['entries',['../class_v_s_t_g_u_i_1_1_c_drop_source.html#ad7f0cae4e14e8cd08f5c9f21346b204f',1,'VSTGUI::CDropSource']]],
   ['entrystate',['entryState',['../struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html#a3e89015d9f154c1f70c6980605686fc0',1,'VSTGUI::CKnobBase::MouseEditingState']]]

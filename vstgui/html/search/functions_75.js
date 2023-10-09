@@ -33,6 +33,7 @@ var searchData=
   ['updatecontrolvalue',['updateControlValue',['../class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a9cfc75a6671c251dacdbd24e636d0ca3',1,'VSTGUI::ParameterChangeListener']]],
   ['updatelayersize',['updateLayerSize',['../class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa',1,'VSTGUI::CLayeredViewContainer']]],
   ['updateminmaxfrombackground',['updateMinMaxFromBackground',['../class_v_s_t_g_u_i_1_1_c_auto_animation.html#a255ab875415900d903c1be948d5d19df',1,'VSTGUI::CAutoAnimation']]],
+  ['updatesize',['updateSize',['../struct_v_s_t_g_u_i_1_1_c_external_view_base_impl.html#a55c247a347cc6d285c375b996b3fae78',1,'VSTGUI::CExternalViewBaseImpl']]],
   ['updatestate',['updateState',['../class_v_s_t_g_u_i_1_1_c_color_chooser.html#aa5dabf4a89c5e3410a829e6a3d042c1f',1,'VSTGUI::CColorChooser']]],
   ['updatestringlist',['updateStringList',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_string_list_value.html#a32c27ba59da7b043a7f1c164443e039f',1,'VSTGUI::Standalone::IStringListValue']]],
   ['updatetext',['updateText',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#aa82b02c80ace5d87a049c6ef8278ccf7',1,'VSTGUI::CTextEdit']]],

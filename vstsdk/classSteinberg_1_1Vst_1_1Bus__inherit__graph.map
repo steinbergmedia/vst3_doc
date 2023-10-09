@@ -1,4 +1,4 @@
 <map id="Bus" name="Bus">
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1AudioBus.html" title="Description of an Audio Bus." alt="" coords="5,361,131,477"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1EventBus.html" title="Description of an Event Bus." alt="" coords="155,368,285,470"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1AudioBus.html" title="Description of an Audio Bus." alt="" coords="5,355,133,468"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1EventBus.html" title="Description of an Event Bus." alt="" coords="157,361,288,461"/>
 </map>

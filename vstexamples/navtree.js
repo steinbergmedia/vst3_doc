@@ -58,17 +58,18 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1AGainController.html#a4dae123b5697706651d9ff20c9614f63",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a8cef184b72b4074c934a5691b745e5df",
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a5a96da022fed22b7882c63bb557181d6",
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a272e5d4c8e24f012573f9f5b11f7f569",
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a9d7d4880ac7e7433d4f5087114a31c0a",
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a4b2c559c2f162c828c6bf91d1567a959",
-"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a9f83d53e5233a6e3b1fe6c7a55a48e54",
-"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4dae123b5697706651d9ff20c9614f63",
-"eventlistcheck_8h.html",
-"logevents_8h.html#ad535885ce8f80d2d5eddc5423e73393e",
-"mdaDynamicsController_8h.html",
-"pitchnames_2source_2version_8h.html#a642cf2d637621b344ca826ba26e3da52"
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#accb2b76127645a7a8ec171c7b220ce8d",
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa0f1925c785d52e33d430e24a55cc7e4",
+"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a699787679fa0c570221c8667007b8d31",
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569",
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a11784160b1e993a66a2166bfc11a4359",
+"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a35aa3fed88ff6cfb7898384d9e608277",
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#acbd0bddc8a0b209adfe907e208f1ff8c",
+"doc_8h.html",
+"legacymidiccout_2source_2version_8h.html#aa863825ce130d257c1ba798e4e639d67",
+"mdaDegradeController_8cpp.html",
+"note__expression__text_2source_2plugentry_8cpp.html#af95bfaaff460967d112f7e5db4232ea2",
+"syncdelayprocessor_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

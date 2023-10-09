@@ -14,7 +14,7 @@ var searchData=
   ['uint64',['uint64',['../namespaceSteinberg.html#abc0f5bc07737e498f287334775dff2b6',1,'Steinberg']]],
   ['uint8',['uint8',['../namespaceSteinberg.html#a33a5e996e7a90acefb8b1c0bea47e365',1,'Steinberg']]],
   ['unicode',['UNICODE',['../ftypes_8h.html#a09ecca53f2cd1b8d1c566bedb245e141',1,'ftypes.h']]],
-  ['unknown',['Unknown',['../namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9',1,'Steinberg::FUnknownImpl']]],
+  ['unknown',['Unknown',['../namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9',1,'Steinberg::FUnknownImpl::Unknown()'],['../namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b',1,'Steinberg::U::Unknown()']]],
   ['unknowncast',['unknownCast',['../classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#aa3f2ae6d2286c0a7f3db7dad018240aa',1,'Steinberg::FUnknownImpl::ImplementsImpl&lt; BaseClass, Directly&lt; I, DirectIFs...&gt;, Indirectly&lt; IndirectIFs...&gt; &gt;']]],
   ['unqueue',['unqueue',['../classSteinberg_1_1IAttributes.html#aa69fa3df16e665aea80acd34d1b9d568',1,'Steinberg::IAttributes']]],
   ['unregistereventhandler',['unregisterEventHandler',['../classSteinberg_1_1Linux_1_1IRunLoop.html#a8aa17239995359c3ba6f120b041f4e7e',1,'Steinberg::Linux::IRunLoop']]],

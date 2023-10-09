@@ -15,6 +15,7 @@ var searchData=
   ['detail',['Detail',['../namespace_v_s_t_g_u_i_1_1_detail.html',1,'VSTGUI']]],
   ['detail',['Detail',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_detail.html',1,'VSTGUI::Standalone::Value']]],
   ['eventprivate',['EventPrivate',['../namespace_v_s_t_g_u_i_1_1_event_private.html',1,'VSTGUI']]],
+  ['externalview',['ExternalView',['../namespace_v_s_t_g_u_i_1_1_external_view.html',1,'VSTGUI']]],
   ['pixelbuffer',['PixelBuffer',['../namespace_v_s_t_g_u_i_1_1_pixel_buffer.html',1,'VSTGUI']]],
   ['private',['Private',['../namespace_v_s_t_g_u_i_1_1_pixel_buffer_1_1_private.html',1,'VSTGUI::PixelBuffer']]],
   ['property',['Property',['../namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard_1_1_property.html',1,'VSTGUI::BitmapFilter::Standard']]],

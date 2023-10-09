@@ -120,6 +120,9 @@ $(document).ready(function(){initNavTree('funknownimpl_8h.html','');});
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html">HideIIDBase</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A base class which hides the <a class="el" href="classSteinberg_1_1FUnknown.html#ae78a44399218c930be44d3aa46521d0e">FUnknown::iid</a> static var.  <a href="structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html#details">More...</a><br/></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1FUnknownImpl_1_1Destroyer.html">Destroyer</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Common destroyer policy for ski object instances.  <a href="structSteinberg_1_1FUnknownImpl_1_1Destroyer.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,7 +149,7 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01Base_00_01Indirectly_3_01IndirectInterfaces763873a8ee2d629fad4aaf19816ccc89.html">ImplementsImpl&lt; Base, Indirectly&lt; IndirectInterfaces...&gt;, Directly&lt; DirectInterfaces...&gt; &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html">ImplementsImpl&lt; BaseClass, Directly&lt; I, DirectIFs...&gt;, Indirectly&lt; IndirectIFs...&gt; &gt;</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class implements the required virtual methods for the U::Unknown class.  <a href="classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#details">More...</a><br/></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class implements the required virtual methods for the <a class="el" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">U::Unknown</a> class.  <a href="classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
@@ -179,6 +182,8 @@ Typedefs</h2></td></tr>
 <tr class="memitem:a33de2f2ebaac4a7bbc9853bd215136b6"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1FUnknownImpl.html#a33de2f2ebaac4a7bbc9853bd215136b6">ImplementsNonDestroyable</a> = <a class="el" href="classImplementsImpl.html">ImplementsImpl</a>&lt; Detail::QueryInterfaceEnd&lt; Detail::NonDestroyable &gt;, D, I &gt;</td></tr>
 <tr class="memdesc:a33de2f2ebaac4a7bbc9853bd215136b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">This typedef provides the interface implementation for objects which should not be destroyed via <a class="el" href="classSteinberg_1_1FUnknown.html#a58847c78bf6142f01ce214c2802cb146" title="Releases a reference and returns the new reference count.">FUnknown::release</a> (like singletons).  <a href="#a33de2f2ebaac4a7bbc9853bd215136b6"></a><br/></td></tr>
 <tr class="separator:a33de2f2ebaac4a7bbc9853bd215136b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68f6e121eb237b7f588f0036b056b43b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">Unknown</a> = FUnknownImpl::HideIIDBase</td></tr>
+<tr class="separator:a68f6e121eb237b7f588f0036b056b43b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>

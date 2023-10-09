@@ -618,8 +618,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="memitem:ac3627a2e2abcfe4e6df2a77e4829446a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">drawRect</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_draw_context.html">CDrawContext</a> *pContext, const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;updateRect) override</td></tr>
 <tr class="memdesc:ac3627a2e2abcfe4e6df2a77e4829446a"><td class="mdescLeft">&#160;</td><td class="mdescRight">called if the view should draw itself  <a href="#ac3627a2e2abcfe4e6df2a77e4829446a"></a><br/></td></tr>
 <tr class="separator:ac3627a2e2abcfe4e6df2a77e4829446a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a005f718035d5093fac737c6e748e1c64"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a005f718035d5093fac737c6e748e1c64">drawViewLayer</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_draw_context.html">CDrawContext</a> *context, const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;dirtyRect) override</td></tr>
-<tr class="separator:a005f718035d5093fac737c6e748e1c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8501ac9401d85b0a4c62ebe85d273948"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a8501ac9401d85b0a4c62ebe85d273948">drawViewLayerRects</a> (const <a class="el" href="namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a">PlatformGraphicsDeviceContextPtr</a> &amp;context, double scaleFactor, const std::vector&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &gt; &amp;rects) override</td></tr>
+<tr class="separator:a8501ac9401d85b0a4c62ebe85d273948"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ace9b3c47c9e0ef3c187703628097f0eb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ace9b3c47c9e0ef3c187703628097f0eb">viewContainerTransformChanged</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html">CViewContainer</a> *container) override</td></tr>
 <tr class="memdesc:ace9b3c47c9e0ef3c187703628097f0eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">called when the transform matrix of the container changed  <a href="#ace9b3c47c9e0ef3c187703628097f0eb"></a><br/></td></tr>
 <tr class="separator:ace9b3c47c9e0ef3c187703628097f0eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -816,7 +816,7 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a005f718035d5093fac737c6e748e1c64"></a>
+<a class="anchor" id="a8501ac9401d85b0a4c62ebe85d273948"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -824,16 +824,22 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void drawViewLayer </td>
+          <td class="memname">void drawViewLayerRects </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="class_v_s_t_g_u_i_1_1_c_draw_context.html">CDrawContext</a> *&#160;</td>
+          <td class="paramtype">const <a class="el" href="namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a">PlatformGraphicsDeviceContextPtr</a> &amp;&#160;</td>
           <td class="paramname"><em>context</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;&#160;</td>
-          <td class="paramname"><em>dirtyRect</em>&#160;</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>scaleFactor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &gt; &amp;&#160;</td>
+          <td class="paramname"><em>rects</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -1313,7 +1319,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html">CLayeredViewContainer</a></li>
-    <li class="footer">Generated on Tue May 9 2023 17:23:00 for VSTGUI by
+    <li class="footer">Generated on Mon Oct 9 2023 12:29:44 for VSTGUI by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.3 </li>
   </ul>

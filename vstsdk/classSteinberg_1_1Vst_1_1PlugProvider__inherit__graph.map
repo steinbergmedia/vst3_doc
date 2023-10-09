@@ -1,5 +1,2 @@
 <map id="PlugProvider" name="PlugProvider">
-<area shape="rect" id="node3" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="{ITestPlugProvider2\n|+ iid\l|+ getPluginFactory()\l}" alt="" coords="92,334,222,408"/>
-<area shape="rect" id="node4" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title="{ITestPlugProvider\n|+ iid\l|+ getComponent()\l+ getController()\l+ releasePlugIn()\l+ getSubCategories()\l+ getComponentUID()\l}" alt="" coords="87,156,227,286"/>
-<area shape="rect" id="node5" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="99,5,215,108"/>
 </map>

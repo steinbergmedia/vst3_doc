@@ -12,6 +12,7 @@ var searchData=
   ['hostcheck',['HostCheck',['../classHostCheck.html#a09a1e801f6256d7411bdfbb3cd3c2e7e',1,'HostCheck']]],
   ['hostcheckercontroller',['HostCheckerController',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a65358ccb23d2c1b1ebc2e245eec0b824',1,'Steinberg::Vst::HostCheckerController']]],
   ['hostcheckerprocessor',['HostCheckerProcessor',['../classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a6597f3049abfd875de6339005caacc5f',1,'Steinberg::Vst::HostCheckerProcessor']]],
+  ['hostdataexchangehandler',['HostDataExchangeHandler',['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#a72c00ee9d1c317e2075880659f34a399',1,'Steinberg::Vst::HostDataExchangeHandler']]],
   ['hostmessage',['HostMessage',['../../vstsdk/exceptionSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage']]],
   ['hostprocessdata',['HostProcessData',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData']]]
 ];

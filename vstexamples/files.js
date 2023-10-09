@@ -75,9 +75,7 @@ var files =
     [ "hostcheckercontroller.cpp", "hostcheckercontroller_8cpp.html", "hostcheckercontroller_8cpp" ],
     [ "hostcheckercontroller.h", "hostcheckercontroller_8h.html", "hostcheckercontroller_8h" ],
     [ "hostcheckerprocessor.cpp", "hostcheckerprocessor_8cpp.html", "hostcheckerprocessor_8cpp" ],
-    [ "hostcheckerprocessor.h", "hostcheckerprocessor_8h.html", [
-      [ "HostCheckerProcessor", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html", "classSteinberg_1_1Vst_1_1HostCheckerProcessor" ]
-    ] ],
+    [ "hostcheckerprocessor.h", "hostcheckerprocessor_8h.html", "hostcheckerprocessor_8h" ],
     [ "logevents.h", "logevents_8h.html", "logevents_8h" ],
     [ "logscale.h", "logscale_8h.html", [
       [ "LogScale", "classSteinberg_1_1Vst_1_1LogScale.html", "classSteinberg_1_1Vst_1_1LogScale" ],

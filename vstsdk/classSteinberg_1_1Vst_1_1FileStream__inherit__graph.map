@@ -1,4 +1,4 @@
 <map id="FileStream" name="FileStream">
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1IBStream.html" title="{IBStream\n|+ kIBSeekSet\l+ kIBSeekCur\l+ kIBSeekEnd\l+ iid\l|+ read()\l+ write()\l+ seek()\l+ tell()\l}" alt="" coords="15,156,112,313"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,122,108"/>
+<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1IBStream.html" title="{IBStream\n|+ kIBSeekSet\l+ kIBSeekCur\l+ kIBSeekEnd\l+ iid\l|+ read()\l+ write()\l+ seek()\l+ tell()\l}" alt="" coords="15,153,114,307"/>
+<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,124,105"/>
 </map>

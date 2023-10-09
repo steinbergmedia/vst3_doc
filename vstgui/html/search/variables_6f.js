@@ -20,6 +20,7 @@ var searchData=
   ['opendocument',['OpenDocument',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html#ac632d635d09463432c86cf581d474c6e',1,'VSTGUI::Standalone::Commands']]],
   ['openmode',['openMode',['../class_v_s_t_g_u_i_1_1_c_file_stream.html#a4fd46fb094ceae1a2f3f8469d74a85c6',1,'VSTGUI::CFileStream']]],
   ['openuieditorcontroller',['openUIEditorController',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0fdb3db51a3dce268f9ec3a59a2a4fe8',1,'VSTGUI::VST3Editor']]],
+  ['origin',['origin',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_int_rect.html#a34c25d3542773b3e0567f42694418b37',1,'VSTGUI::ExternalView::IntRect']]],
   ['originalcontroller',['originalController',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#abca0c2220f109ab8c0647e9d8d45789f',1,'VSTGUI::VST3Editor']]],
   ['overlaystyle',['overlayStyle',['../class_v_s_t_g_u_i_1_1_c_scrollbar.html#ad303445f68b931e186ddfaefaf265715',1,'VSTGUI::CScrollbar']]],
   ['ownsbuffer',['ownsBuffer',['../class_v_s_t_g_u_i_1_1_c_memory_stream.html#afb4fab930fe69f2ac05beb1e8e2a2315',1,'VSTGUI::CMemoryStream']]]

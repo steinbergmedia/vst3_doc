@@ -11,6 +11,9 @@ var searchData=
   ['seektocomponentstate',['seekToComponentState',['../classSteinberg_1_1Vst_1_1PresetFile.html#a6b83421be037cd96cd577c3a4da4d21a',1,'Steinberg::Vst::PresetFile']]],
   ['seektocontrollerstate',['seekToControllerState',['../classSteinberg_1_1Vst_1_1PresetFile.html#a868ad2038afd1f1375de915d8942e5bb',1,'Steinberg::Vst::PresetFile']]],
   ['selectunit',['selectUnit',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html#a2504c2bb3c57742102577f34cb58e257',1,'Steinberg::Vst::IUnitInfo::selectUnit()'],['../classSteinberg_1_1Vst_1_1EditControllerEx1.html#ae1a6f23bb9d5afb00fe42c8c8bb1b2b1',1,'Steinberg::Vst::EditControllerEx1::selectUnit()']]],
+  ['sendbackgroundblocks',['sendBackgroundBlocks',['../structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#aa94525c96a85485f58ebd1390a219183',1,'Steinberg::Vst::HostDataExchangeHandler']]],
+  ['sendcurrentblock',['sendCurrentBlock',['../classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a97ca1031d43944ec348aab7d5a060b8c',1,'Steinberg::Vst::DataExchangeHandler']]],
+  ['sendmainthreadblocks',['sendMainThreadBlocks',['../structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#a53a520f8ba52a5d12bea9f3a4fdd39e6',1,'Steinberg::Vst::HostDataExchangeHandler']]],
   ['sendmessage',['sendMessage',['../classSteinberg_1_1Vst_1_1ComponentBase.html#aa3484053dd9d99fb072465f65ed3a58e',1,'Steinberg::Vst::ComponentBase']]],
   ['sendmessageid',['sendMessageID',['../classSteinberg_1_1Vst_1_1ComponentBase.html#ab599093d44aa82deac5e46dba5cb8d18',1,'Steinberg::Vst::ComponentBase']]],
   ['sendremotecontrolevent',['sendRemoteControlEvent',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a8d4eef17f1de81905a5936f9849de029',1,'Steinberg::Vst::IInterAppAudioHost']]],
@@ -39,6 +42,7 @@ var searchData=
   ['seteditorstate',['setEditorState',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a5c45cf61d3d8331302cdc6cad9ba2b3d',1,'Steinberg::Vst::SingleComponentEffect']]],
   ['setenabled',['setEnabled',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#ab37e7ad7503043f64fb3e36cada470eb',1,'Steinberg::Vst::InterAppAudio::MidiIO']]],
   ['setenvironment',['setEnvironment',['../../vstinterfaces/classSteinberg_1_1ITestSuite.html#a378a54c5bcba1f3c9e879273c0075bc6',1,'Steinberg::ITestSuite']]],
+  ['seterrorstream',['setErrorStream',['../classSteinberg_1_1Vst_1_1PlugProvider.html#a7cc2a8708a32c07bf4b3179f39bb1301',1,'Steinberg::Vst::PlugProvider']]],
   ['setflags',['setFlags',['../classSteinberg_1_1Vst_1_1Bus.html#abdbcab63e7904d8d008e49cbb0c8e12e',1,'Steinberg::Vst::Bus']]],
   ['setfloat',['setFloat',['../../base/classSteinberg_1_1FVariant.html#a465a9c6375b7b91e6a004bf4d13f6706',1,'Steinberg::FVariant::setFloat()'],['../../vstinterfaces/classSteinberg_1_1Vst_1_1IAttributeList.html#a5fcd359925f64b686e4e7e08113aae97',1,'Steinberg::Vst::IAttributeList::setFloat()'],['../exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#a7c6a0e107b24297dd13296f9d21bf492',1,'Steinberg::Vst::HostAttributeList::setFloat()']]],
   ['setframe',['setFrame',['../../base/classSteinberg_1_1IPlugView.html#ab0f059918bbf55ce110fc410240de423',1,'Steinberg::IPlugView::setFrame()'],['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#aeb9fb024ee5698f6332af52755497262',1,'Steinberg::Vst::VSTGUIEditor::setFrame()'],['../classSteinberg_1_1CPluginView.html#aeb9fb024ee5698f6332af52755497262',1,'Steinberg::CPluginView::setFrame()']]],
@@ -117,5 +121,6 @@ var searchData=
   ['subcategories',['subCategories',['../classVST3_1_1Hosting_1_1ClassInfo.html#a00e451a4fa6a0049adf7287cb6a64584',1,'VST3::Hosting::ClassInfo']]],
   ['subcategoriesstring',['subCategoriesString',['../classVST3_1_1Hosting_1_1ClassInfo.html#a3c54e473627b01f1693c3058d61311ac',1,'VST3::Hosting::ClassInfo']]],
   ['swap',['swap',['../structVST3_1_1Optional.html#a110ae1b77ad3a879e779a0d2deb90e52',1,'VST3::Optional']]],
-  ['switchtohost',['switchToHost',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a8b0ced23b7d8e83d9bae5dcbc324f403',1,'Steinberg::Vst::IInterAppAudioHost']]]
+  ['switchtohost',['switchToHost',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a8b0ced23b7d8e83d9bae5dcbc324f403',1,'Steinberg::Vst::IInterAppAudioHost']]],
+  ['systemtime',['SystemTime',['../classSteinberg_1_1Vst_1_1SystemTime.html#a3d4d83863fe3ba2a9a3c2522f2296c35',1,'Steinberg::Vst::SystemTime::SystemTime(IComponentHandler *componentHandler)'],['../classSteinberg_1_1Vst_1_1SystemTime.html#ab0702bde43ba6af1653a1a076678edc0',1,'Steinberg::Vst::SystemTime::SystemTime(const SystemTime &amp;st)'],['../classSteinberg_1_1Vst_1_1SystemTime.html#af3f456af1e1a602b02313470b72b544f',1,'Steinberg::Vst::SystemTime::SystemTime(SystemTime &amp;&amp;st) noexcept']]]
 ];

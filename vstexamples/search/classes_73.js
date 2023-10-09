@@ -24,5 +24,6 @@ var searchData=
   ['syncdelayprocessor',['SyncDelayProcessor',['../classSteinberg_1_1Vst_1_1SyncDelayProcessor.html',1,'Steinberg::Vst']]],
   ['syncentry',['SyncEntry',['../structSteinberg_1_1Vst_1_1SyncEntry.html',1,'Steinberg::Vst']]],
   ['synthdata',['SynthData',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html',1,'Steinberg::Vst::mda']]],
-  ['synthdata_3c_20voice_2c_20keventbuffersize_2c_20knumvoices_20_3e',['SynthData&lt; VOICE, kEventBufferSize, kNumVoices &gt;',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html',1,'Steinberg::Vst::mda']]]
+  ['synthdata_3c_20voice_2c_20keventbuffersize_2c_20knumvoices_20_3e',['SynthData&lt; VOICE, kEventBufferSize, kNumVoices &gt;',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html',1,'Steinberg::Vst::mda']]],
+  ['systemtime',['SystemTime',['../../vstsdk/classSteinberg_1_1Vst_1_1SystemTime.html',1,'Steinberg::Vst']]]
 ];

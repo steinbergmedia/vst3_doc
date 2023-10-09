@@ -41,6 +41,8 @@ var searchData=
   ['allnotesoff',['allNotesOff',['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#aec246739838d962211ec3124c7f26ff3',1,'Steinberg::Vst::mda::PianoProcessor']]],
   ['allocatemessage',['allocateMessage',['../../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html#aae7bbbf07353224bb0ba77a091b87d33',1,'Steinberg::Vst::AudioEffect']]],
   ['allocparameters',['allocParameters',['../classSteinberg_1_1Vst_1_1mda_1_1Processor.html#aa0717eb65af14a8ec9de39bbc5ba5037',1,'Steinberg::Vst::mda::Processor::allocParameters()'],['../classSteinberg_1_1Vst_1_1mda_1_1SampleAccurateBaseProcessor.html#a009053d0bf0fe9fb13b29fc3155e8b8c',1,'Steinberg::Vst::mda::SampleAccurateBaseProcessor::allocParameters()']]],
+  ['allowallocatesize',['allowAllocateSize',['../../vstsdk/structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#a34e686050e3477b842a5589d171a57be',1,'Steinberg::Vst::IDataExchangeHandlerHost']]],
+  ['allowqueuelistresize',['allowQueueListResize',['../../vstsdk/structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#ad0fba34c6a580a12c6bbd572c7951f01',1,'Steinberg::Vst::IDataExchangeHandlerHost']]],
   ['ambiencecontroller',['AmbienceController',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html#a16a6af7c0cdae25064c2193b1bb611d1',1,'Steinberg::Vst::mda::AmbienceController']]],
   ['ambienceprocessor',['AmbienceProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#aab98600536455a8c7c584966978ba80c',1,'Steinberg::Vst::mda::AmbienceProcessor']]],
   ['append',['append',['../../base/classSteinberg_1_1UString.html#a014ae12c2b6d6f3042855c5e411c0445',1,'Steinberg::UString']]],

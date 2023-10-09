@@ -8,7 +8,7 @@ var searchData=
   ['uint32',['uint32',['../namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2',1,'Steinberg']]],
   ['uint64',['uint64',['../namespaceSteinberg.html#abc0f5bc07737e498f287334775dff2b6',1,'Steinberg']]],
   ['uint8',['uint8',['../namespaceSteinberg.html#a33a5e996e7a90acefb8b1c0bea47e365',1,'Steinberg']]],
-  ['unknown',['Unknown',['../namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9',1,'Steinberg::FUnknownImpl']]],
+  ['unknown',['Unknown',['../namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9',1,'Steinberg::FUnknownImpl::Unknown()'],['../namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b',1,'Steinberg::U::Unknown()']]],
   ['ustring128',['UString128',['../namespaceSteinberg.html#aa92186fdeda699e7a0cc7ac6c45d07e5',1,'Steinberg']]],
   ['ustring256',['UString256',['../namespaceSteinberg.html#a71098a25fa252b10d271a11807153385',1,'Steinberg']]]
 ];

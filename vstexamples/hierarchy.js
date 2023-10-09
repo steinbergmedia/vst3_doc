@@ -164,6 +164,9 @@ var hierarchy =
       [ "IConnectionPoint", "../vstinterfaces/classSteinberg_1_1Vst_1_1IConnectionPoint.html", [
         [ "ComponentBase", "../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html", null ]
       ] ],
+      [ "IDataExchangeReceiver", "../vstinterfaces/classSteinberg_1_1Vst_1_1IDataExchangeReceiver.html", [
+        [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ]
+      ] ],
       [ "IDelayTestController", "classSteinberg_1_1Vst_1_1IDelayTestController.html", [
         [ "ADelayController", "classSteinberg_1_1Vst_1_1ADelayController.html", null ]
       ] ],
@@ -258,9 +261,9 @@ var hierarchy =
       [ "AGainUIMessageController< ControllerType >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ]
     ] ],
     [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
-    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "DX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
     [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
+    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "VoiceBase< numValues, SamplePrecision, numChannels, GlobalParameterStorage >", "classSteinberg_1_1Vst_1_1VoiceBase.html", null ],
     [ "VoiceBase< kNumParameters, SamplePrecision, 2, GlobalParameterState >", "classSteinberg_1_1Vst_1_1VoiceBase.html", [
       [ "Voice< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", null ]

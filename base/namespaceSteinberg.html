@@ -720,11 +720,11 @@ Variables</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>This header provides classes for working with <a class="el" href="classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces.">FUnknown</a>. </p>
-<p>An interface which shall support Steinbergs Module Architecture should inherit from U::Unknown and provide a typedef <code>IID</code> of type U::UID.</p>
+<p>An interface which shall support Steinbergs Module Architecture should inherit from <a class="el" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">U::Unknown</a> and provide a typedef <code>IID</code> of type U::UID.</p>
 <p>On OS X you can generate an U::UID and copy it to the clipboard with the following shell command: </p>
 <div class="fragment"><div class="line">uuidgen | { read id; echo -n <span class="stringliteral">&quot;using IID = U::UID&lt;0x${id:0:8}, 0x${id:9:4}${id:14:4}, 0x${id:19:4}${id:24:4}, 0x${id:28:8}&gt;;&quot;</span> ; } | pbcopy</div>
 </div><!-- fragment --><p>Example: </p>
-<div class="fragment"><div class="line"><span class="keyword">struct </span>IFoo : <span class="keyword">public</span> <a class="code" href="namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9" title="Typedef to keep everything in this namespace.">U::Unknown</a></div>
+<div class="fragment"><div class="line"><span class="keyword">struct </span>IFoo : <span class="keyword">public</span> <a class="code" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">U::Unknown</a></div>
 <div class="line">{</div>
 <div class="line">    <span class="comment">// Use a generated random uid here.</span></div>
 <div class="line">    <span class="keyword">using</span> IID = U::UID&lt;0x01234567, 0x89012345, 0x67890123, 0x45678901&gt;;</div>
@@ -739,7 +739,7 @@ Variables</h2></td></tr>
 <div class="line">};</div>
 </div><!-- fragment --><p>To check if a class can provide a specific interface use the U::cast function.</p>
 <p>Example: </p>
-<div class="fragment"><div class="line"><span class="keywordtype">void</span> test (<a class="code" href="namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9" title="Typedef to keep everything in this namespace.">U::Unknown</a>* obj)</div>
+<div class="fragment"><div class="line"><span class="keywordtype">void</span> test (<a class="code" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">U::Unknown</a>* obj)</div>
 <div class="line">{</div>
 <div class="line">    <span class="keywordflow">if</span> (<span class="keyword">auto</span> foo = U::cast&lt;IFoo&gt; (obj))</div>
 <div class="line">    {</div>
@@ -762,7 +762,7 @@ Variables</h2></td></tr>
 <div class="line">};</div>
 </div><!-- fragment --><p>In some cases a class shall be extended and an additional interface implemented. This is possible with the U::Extends template which is a generalization of the U::Implements template and allows specifying a base class from which should be inherited.</p>
 <p>Example: </p>
-<div class="fragment"><div class="line"><span class="keyword">struct </span>ITest : <span class="keyword">public</span> <a class="code" href="namespaceSteinberg_1_1FUnknownImpl.html#a0d0ab538662c2287caa62d394b13e5a9" title="Typedef to keep everything in this namespace.">U::Unknown</a></div>
+<div class="fragment"><div class="line"><span class="keyword">struct </span>ITest : <span class="keyword">public</span> <a class="code" href="namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b">U::Unknown</a></div>
 <div class="line">{</div>
 <div class="line">    <span class="keyword">using</span> IID = U::UID&lt;0x99887766, 0x55443322, 0x11009988, 0x77665544&gt;;</div>
 <div class="line"></div>
@@ -1444,7 +1444,7 @@ Variables</h2></td></tr>
 <p>Windows: ctrl key; macOS: cmd key. </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c"></a>kControlKey</em>&nbsp;</td><td class="fielddoc">
-<p>Wndows: win key, macOS: ctrl key. </p>
+<p>Windows: win key, macOS: ctrl key. </p>
 </td></tr>
 </table>
 

@@ -1,5 +1,6 @@
 var funknownimpl_8h =
 [
+    [ "HideIIDBase", "structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html", "structSteinberg_1_1FUnknownImpl_1_1HideIIDBase" ],
     [ "Destroyer", "structSteinberg_1_1FUnknownImpl_1_1Destroyer.html", null ],
     [ "ImplementsImpl", "classImplementsImpl.html", null ],
     [ "UID", "structSteinberg_1_1FUnknownImpl_1_1UID.html", "structSteinberg_1_1FUnknownImpl_1_1UID" ],
@@ -15,6 +16,7 @@ var funknownimpl_8h =
     [ "Extends", "funknownimpl_8h.html#ad7c3d8fc183de6c65cb7209c4edda8a7", null ],
     [ "Implements", "funknownimpl_8h.html#aa97fe0c3b9d688a3e43da776dec431c6", null ],
     [ "ImplementsNonDestroyable", "funknownimpl_8h.html#a33de2f2ebaac4a7bbc9853bd215136b6", null ],
+    [ "Unknown", "funknownimpl_8h.html#a68f6e121eb237b7f588f0036b056b43b", null ],
     [ "getTUID", "funknownimpl_8h.html#ab00dcafdf662436bb9d9a9dd1f64d8d1", null ],
     [ "cast", "funknownimpl_8h.html#ac3e8ceb5f944fed679e545636429d1f3", null ],
     [ "cast", "funknownimpl_8h.html#a3c8f4e584063f4ca3ecbaf01ac0335c9", null ],

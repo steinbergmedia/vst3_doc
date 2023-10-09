@@ -11,6 +11,7 @@ var searchData=
   ['editorview',['EditorView',['../classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf',1,'Steinberg::Vst::EditorView']]],
   ['email',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo::email()'],['../classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo::email()']]],
   ['empty',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant']]],
+  ['enable',['enable',['../classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a66d8feb44d790d1c96e76ffd13b54bb0',1,'Steinberg::Vst::DataExchangeHandler']]],
   ['enablempeinputprocessing',['enableMPEInputProcessing',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#a322e79e7c76c3e2b5f717e9666870c58',1,'Steinberg::Vst::IVst3WrapperMPESupport']]],
   ['end_5ftag_5fstring',['END_TAG_STRING',['../vstrepresentation_8cpp.html#a7e9b782fde8cf593b205b178f7796270',1,'vstrepresentation.cpp']]],
   ['endcell',['endCell',['../classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9fee3c40ec32cf0408b2e4480da153f4',1,'Steinberg::Vst::XmlRepresentationHelper']]],

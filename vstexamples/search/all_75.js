@@ -37,6 +37,7 @@ var searchData=
   ['usedqueuecount',['usedQueueCount',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd',1,'Steinberg::Vst::ParameterChanges']]],
   ['useextensivetests',['useExtensiveTests',['../structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html#a31237fc7b3dd92a28ccb2f74cb4acd3a',1,'Steinberg::Vst::Validator::ModuleTestConfig']]],
   ['useglobalinstance',['useGlobalInstance',['../structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html#a11be6e72e6395ba1d657305ceeb3294c',1,'Steinberg::Vst::Validator::ModuleTestConfig']]],
+  ['usercontextid',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html#a416d79c226552ab35ece769c8a5f59a3',1,'Steinberg::UString']]],
   ['ustring',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
   ['ustring_2ecpp',['ustring.cpp',['../../base/ustring_8cpp.html',1,'']]],

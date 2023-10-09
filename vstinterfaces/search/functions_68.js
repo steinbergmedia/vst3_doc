@@ -10,6 +10,7 @@ var searchData=
   ['hastopspeakers',['hasTopSpeakers',['../group__speakerArrangements.html#ga2fd1d5b534428e6414e46829089313f9',1,'Steinberg::Vst::SpeakerArr']]],
   ['havepointsbeenread',['havePointsBeenRead',['../../vstsdk/classSteinberg_1_1Vst_1_1ParamChanges.html#ad9ef33d81be2e39cc162a3ac4f9a8983',1,'Steinberg::Vst::ParamChanges']]],
   ['hostapplication',['HostApplication',['../../vstsdk/classSteinberg_1_1Vst_1_1HostApplication.html#a917b260c602e1aa5332bb349ef0f2c20',1,'Steinberg::Vst::HostApplication']]],
+  ['hostdataexchangehandler',['HostDataExchangeHandler',['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#a72c00ee9d1c317e2075880659f34a399',1,'Steinberg::Vst::HostDataExchangeHandler']]],
   ['hostmessage',['HostMessage',['../../vstsdk/exceptionSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage']]],
   ['hostprocessdata',['HostProcessData',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData']]]
 ];

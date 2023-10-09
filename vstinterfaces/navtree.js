@@ -20,7 +20,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ]
@@ -39,15 +39,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classSteinberg_1_1Vst_1_1ITestPlugProvider2.html",
-"group__musicalStyle.html#ga1e43c81772b3227d2239c4c869194733",
-"group__speakerArrangements.html#ga4a84febf8ecee1a6ba6c0a8786d378c3",
-"group__speakerArrangements.html#gae74e19a6a7653396d1c0e91ff85de6cb",
-"ivstmidicontrollers_8h.html#a70ee68a13248febed5047cfa0fddf4e6aa2e16c34abda2b690c0ce04f71fba7ed",
-"structSteinberg_1_1Vst_1_1BusInfo.html#a764af5c5b921de1cab2eca6565ea5d1e",
-"vstpresetkeys_8h.html#ga0bbfdd92cc2b2313b3cf974c5b3f9760",
-"vstpresetkeys_8h.html#gae4e52f708efde91cf0f2a78cebbd351c",
-"vstspeaker_8h.html#ga95a8ec3f36de03bb6b9f3f1be339f889"
+"classSteinberg_1_1Vst_1_1IProgress.html#a7da93484ec5338cb5b7cfa586b2a4387",
+"group__musicalInstrument.html#gae18de76efc605860475b6323ef233cc8",
+"group__speakerArrangements.html#ga32b8626cc036129ae6465115e7d33c5a",
+"group__speakerArrangements.html#gac847eadaa1938e45601af71cb37737b5",
+"ivstevents_8h.html#aa00940542b032ef188a88bda982bd36aa522b98801c4416f664488eb65aa33ab6",
+"namespaceSteinberg_1_1Vst_1_1PresetAttributes.html",
+"structSteinberg_1_1Vst_1_1ProcessData.html#a753be8bb50d436efaf9108959cb00cc4",
+"vstpresetkeys_8h.html#gab5c77bf645fdb2afae554c3c6b48dc92",
+"vstspeaker_8h.html#ga6d6ccb80d89619c8085ac9a7283fc248",
+"vsttypes_8h.html#aba0780a21f237667b79111c8f7419c79"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

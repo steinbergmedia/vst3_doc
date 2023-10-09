@@ -677,8 +677,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:a3402a32a2fd0efbfb2c3023bb151c025"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a991d27d26592d2b00b8a6e30bd79a502"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html#a991d27d26592d2b00b8a6e30bd79a502">dispatchNewScaleFactor</a> (double newScaleFactor)</td></tr>
 <tr class="separator:a991d27d26592d2b00b8a6e30bd79a502"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aafce94f30653d0fa99e31362075921c8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html#aafce94f30653d0fa99e31362075921c8">platformDrawRect</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_draw_context.html">CDrawContext</a> *context, const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;<a class="el" href="namespace_v_s_t_g_u_i.html#a934d3e77bd6de037c1caa3b7c11fed8c">rect</a>) override</td></tr>
-<tr class="separator:aafce94f30653d0fa99e31362075921c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15cb9a517c6c2d6d8a4f1ff021bdd9a3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html#a15cb9a517c6c2d6d8a4f1ff021bdd9a3">platformDrawRects</a> (const <a class="el" href="namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a">PlatformGraphicsDeviceContextPtr</a> &amp;context, double scaleFactor, const std::vector&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &gt; &amp;rects) override</td></tr>
+<tr class="separator:a15cb9a517c6c2d6d8a4f1ff021bdd9a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa136b9e220fd29bc6b230f15bfbc7ceb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html#aa136b9e220fd29bc6b230f15bfbc7ceb">platformOnEvent</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_event.html">Event</a> &amp;event) override</td></tr>
 <tr class="separator:aa136b9e220fd29bc6b230f15bfbc7ceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2ed1afc6fe8c0b6c026a504dd46b691d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__new__in__4__7.html#ga3cbd589c354a1539328b774d6ec68779">DragOperation</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html#a2ed1afc6fe8c0b6c026a504dd46b691d">platformOnDragEnter</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_drag_event_data.html">DragEventData</a> data) override</td></tr>
@@ -2412,7 +2412,7 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="aafce94f30653d0fa99e31362075921c8"></a>
+<a class="anchor" id="a15cb9a517c6c2d6d8a4f1ff021bdd9a3"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -2420,16 +2420,22 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool platformDrawRect </td>
+          <td class="memname">void platformDrawRects </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="class_v_s_t_g_u_i_1_1_c_draw_context.html">CDrawContext</a> *&#160;</td>
+          <td class="paramtype">const <a class="el" href="namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a">PlatformGraphicsDeviceContextPtr</a> &amp;&#160;</td>
           <td class="paramname"><em>context</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;&#160;</td>
-          <td class="paramname"><em>rect</em>&#160;</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>scaleFactor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &gt; &amp;&#160;</td>
+          <td class="paramname"><em>rects</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -3332,7 +3338,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="exception_v_s_t_g_u_i_1_1_c_frame.html">CFrame</a></li>
-    <li class="footer">Generated on Tue May 9 2023 17:23:00 for VSTGUI by
+    <li class="footer">Generated on Mon Oct 9 2023 12:29:43 for VSTGUI by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.3 </li>
   </ul>

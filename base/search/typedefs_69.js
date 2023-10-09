@@ -1,6 +1,7 @@
 var searchData=
 [
   ['iattrid',['IAttrID',['../namespaceSteinberg.html#ae6eacc17e4382538d4af0d9993bc869a',1,'Steinberg']]],
+  ['iid',['iid',['../structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html#af1c6ceaa3ae7a38295c19fd4994af35d',1,'Steinberg::FUnknownImpl::HideIIDBase']]],
   ['implements',['Implements',['../namespaceSteinberg_1_1FUnknownImpl.html#aa97fe0c3b9d688a3e43da776dec431c6',1,'Steinberg::FUnknownImpl']]],
   ['implementsnondestroyable',['ImplementsNonDestroyable',['../namespaceSteinberg_1_1FUnknownImpl.html#a33de2f2ebaac4a7bbc9853bd215136b6',1,'Steinberg::FUnknownImpl']]],
   ['int16',['int16',['../namespaceSteinberg.html#aa0d0fdc87fd135ef2bedb030901cdb9c',1,'Steinberg']]],

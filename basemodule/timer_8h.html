@@ -106,6 +106,7 @@ $(document).ready(function(){initNavTree('timer_8h.html','');});
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">timer.h File Reference</div>  </div>
@@ -133,6 +134,11 @@ Namespaces</h2></td></tr>
 <tr class="memitem:namespaceSteinberg_1_1SystemTime"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1SystemTime.html">Steinberg::SystemTime</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a4319ee5b75ba654ea27e72a9925da401"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a4319ee5b75ba654ea27e72a9925da401">CreateTimerFunc</a> = Timer *(*)(ITimerCallback *callback, uint32 intervalMilliseconds)</td></tr>
+<tr class="separator:a4319ee5b75ba654ea27e72a9925da401"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:accc64954e88f0a32add172d0189918dc"><td class="memItemLeft" align="right" valign="top">uint64&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1SystemTime.html#accc64954e88f0a32add172d0189918dc">getTicks64</a> ()</td></tr>
@@ -145,6 +151,8 @@ Functions</h2></td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplParams" colspan="2">template&lt;typename Call &gt; </td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplItemLeft" align="right" valign="top">ITimerCallback *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#af754042087ab79da3c3b0d08681e9a93">newTimerCallback</a> (const Call &amp;call)</td></tr>
 <tr class="separator:af754042087ab79da3c3b0d08681e9a93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a849a1fe250eac0b91bcdbe70167d560c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a849a1fe250eac0b91bcdbe70167d560c">InjectCreateTimerFunction</a> (CreateTimerFunc f)</td></tr>
+<tr class="separator:a849a1fe250eac0b91bcdbe70167d560c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->

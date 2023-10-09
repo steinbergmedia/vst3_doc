@@ -16,6 +16,8 @@ var annotated =
         [ "BufferStream", "classSteinberg_1_1Vst_1_1BufferStream.html", "classSteinberg_1_1Vst_1_1BufferStream" ],
         [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", "classSteinberg_1_1Vst_1_1SpeakerArray" ],
         [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", "classSteinberg_1_1Vst_1_1ConnectionProxy" ],
+        [ "IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost" ],
+        [ "HostDataExchangeHandler", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler" ],
         [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", "classSteinberg_1_1Vst_1_1PlugProvider" ],
         [ "PluginContextFactory", "classSteinberg_1_1Vst_1_1PluginContextFactory.html", "classSteinberg_1_1Vst_1_1PluginContextFactory" ],
         [ "TestingPluginContext", "structSteinberg_1_1Vst_1_1TestingPluginContext.html", null ],
@@ -25,9 +27,12 @@ var annotated =
         [ "ParamPoint", "classSteinberg_1_1Vst_1_1ParamPoint.html", "classSteinberg_1_1Vst_1_1ParamPoint" ],
         [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html", "classSteinberg_1_1Vst_1_1ParamChanges" ],
         [ "StringResult", "exceptionSteinberg_1_1Vst_1_1StringResult.html", "exceptionSteinberg_1_1Vst_1_1StringResult" ],
+        [ "DataExchangeHandler", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html", "classSteinberg_1_1Vst_1_1DataExchangeHandler" ],
+        [ "DataExchangeReceiverHandler", "classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler.html", "classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler" ],
         [ "ProcessContextRequirements", "classSteinberg_1_1Vst_1_1ProcessContextRequirements.html", "classSteinberg_1_1Vst_1_1ProcessContextRequirements" ],
         [ "ProcessDataSlicer", "classSteinberg_1_1Vst_1_1ProcessDataSlicer.html", "classSteinberg_1_1Vst_1_1ProcessDataSlicer" ],
-        [ "RTTransferT", "structSteinberg_1_1Vst_1_1RTTransferT.html", "structSteinberg_1_1Vst_1_1RTTransferT" ]
+        [ "RTTransferT", "structSteinberg_1_1Vst_1_1RTTransferT.html", "structSteinberg_1_1Vst_1_1RTTransferT" ],
+        [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", "classSteinberg_1_1Vst_1_1SystemTime" ]
       ] ],
       [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", "namespaceSteinberg_1_1OneReaderOneWriter" ],
       [ "ObjCVariable", "structSteinberg_1_1ObjCVariable.html", "structSteinberg_1_1ObjCVariable" ],

@@ -8,6 +8,7 @@ var searchData=
   ['editorview',['EditorView',['../../vstsdk/classSteinberg_1_1Vst_1_1EditorView.html#a04fe421361ccb6e2127b486a198e7adf',1,'Steinberg::Vst::EditorView']]],
   ['email',['email',['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo']]],
   ['empty',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant']]],
+  ['enable',['enable',['../../vstsdk/classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a66d8feb44d790d1c96e76ffd13b54bb0',1,'Steinberg::Vst::DataExchangeHandler']]],
   ['enablempeinputprocessing',['enableMPEInputProcessing',['../classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#a322e79e7c76c3e2b5f717e9666870c58',1,'Steinberg::Vst::IVst3WrapperMPESupport']]],
   ['endcell',['endCell',['../../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9fee3c40ec32cf0408b2e4480da153f4',1,'Steinberg::Vst::XmlRepresentationHelper']]],
   ['endchanges',['endChanges',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a557ea2e975f87cea30f847dd5b204175',1,'Steinberg::Vst::SampleAccurate::Parameter::endChanges() noexcept'],['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a054adb83b4c06aed15836ea7644de1a6',1,'Steinberg::Vst::SampleAccurate::Parameter::endChanges(Proc p) noexcept']]],

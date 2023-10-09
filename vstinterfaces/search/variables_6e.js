@@ -9,6 +9,7 @@ var searchData=
   ['noteoff',['noteOff',['../structSteinberg_1_1Vst_1_1Event.html#a21c98848a005b27ed5ed3951555d94a5',1,'Steinberg::Vst::Event']]],
   ['noteon',['noteOn',['../structSteinberg_1_1Vst_1_1Event.html#aa7ce3c35c89b80c286a732eb1794307c',1,'Steinberg::Vst::Event']]],
   ['numaudioblockstoprocess',['numAudioBlocksToProcess',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#af8f0e4e3f7b6d3d4503a21db23a94203',1,'Steinberg::Vst::TestDefaults']]],
+  ['numblocks',['numBlocks',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a4399417db11a1d3ec24cafe2ba6589fc',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
   ['numchannels',['numChannels',['../structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a84d2b789db2747bbef5244d1d15343a9',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['numinputs',['numInputs',['../structSteinberg_1_1Vst_1_1ProcessData.html#a852a74fc4e461ef086bac048313d2de9',1,'Steinberg::Vst::ProcessData']]],
   ['numiterations',['numIterations',['../../vstsdk/structSteinberg_1_1Vst_1_1TestDefaults.html#a4a2ce2e088b71a093c504b92eb167304',1,'Steinberg::Vst::TestDefaults']]],

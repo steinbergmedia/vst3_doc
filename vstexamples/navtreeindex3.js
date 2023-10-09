@@ -1,5 +1,15 @@
 var NAVTREEINDEX3 =
 {
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa0f1925c785d52e33d430e24a55cc7e4":[2,0,0,1,17,1],
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165":[2,0,0,1,17,6],
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa8fc8b8089eb6ee759dcfce7c2efcd39":[2,0,0,1,17,4],
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#adc8cb490ac3b4777e484c7d68c9fab73":[2,0,0,1,17,0],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html":[2,0,0,1,18],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a03e282472adb6318ffa662623225b257":[2,0,0,1,18,6],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a0849ab0f2ea82cee2cd2c29e1a5a193d":[2,0,0,1,18,2],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a0ee90f2ec55c3d3e1474d37fe9585de0":[2,0,0,1,18,3],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a1d61d362224a59b0409dd36fef8a9562":[2,0,0,1,18,0],
+"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a543bc2ae29df00825aa4409281f6921d":[2,0,0,1,18,5],
 "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a5a96da022fed22b7882c63bb557181d6":[2,0,0,1,18,1],
 "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#ae766dc58c41b24f353977f8d818443a3":[2,0,0,1,18,4],
 "classSteinberg_1_1Vst_1_1VstModule.html":[2,0,0,1,29],
@@ -239,15 +249,5 @@ var NAVTREEINDEX3 =
 "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#afbc91e345f0196f41e0dcb13785b15eb":[2,0,0,1,1,11,9],
 "classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html":[2,0,0,1,1,24],
 "classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,24,3],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,24,2],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a699787679fa0c570221c8667007b8d31":[2,0,0,1,1,24,0],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a7d9642a22f48a9f5597bd1659744d882":[2,0,0,1,1,24,1],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,1,1,24,5],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#aeb78d794ce0bc5812c526a1cc2083d5d":[2,0,0,1,1,24,4],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html":[2,0,0,1,1,25],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a016abda2855c77dcc1630f9d2f9f8d18":[2,0,0,1,1,25,43],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a01d616b8716f38ceba8c43bd0152912c":[2,0,0,1,1,25,16],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a0b3a22dc61786284db017648b600aabc":[2,0,0,1,1,25,44],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a207ad05f99cc72068a92358861ff5e71":[2,0,0,1,1,25,28],
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a25fa38a5317145096dce3ff00b6cde78":[2,0,0,1,1,25,13]
+"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,24,2]
 };

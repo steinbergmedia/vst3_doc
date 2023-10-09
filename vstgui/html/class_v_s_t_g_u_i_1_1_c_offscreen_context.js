@@ -1,5 +1,6 @@
 var class_v_s_t_g_u_i_1_1_c_offscreen_context =
 [
+    [ "COffscreenContext", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html#aca5e75e84fd205cbcfd88b4c7078a897", null ],
     [ "COffscreenContext", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html#a062f075792f632a52a46218fab33f513", null ],
     [ "COffscreenContext", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html#aeaf5695ffe871fcaedb4c74b852ba05f", null ],
     [ "copyFrom", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html#a789b005371ee41d2c3751efb0ee2ad06", null ],

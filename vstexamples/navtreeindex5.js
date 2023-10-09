@@ -1,5 +1,15 @@
 var NAVTREEINDEX5 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,23,4],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,23,7],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,23,6],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a3e80584097da0ce639dd3abf4e119086":[2,0,0,1,1,23,10],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a4cb5678cbeef8c076aedc860368cc4fa":[2,0,0,1,1,23,14],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,23,3],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a4fc43e5d31b41de090f95e23a406e205":[2,0,0,1,1,23,16],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a544e07e854e1c642f0fd64ebae5bbe15":[2,0,0,1,1,23,24],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a80b09ba6d56f803698722f396fff6329":[2,0,0,1,1,23,2],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a88a944e0df1b8a871f35d50f1160060b":[2,0,0,1,1,23,0],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a9d7d4880ac7e7433d4f5087114a31c0a":[2,0,0,1,1,23,1],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a9f83d53e5233a6e3b1fe6c7a55a48e54":[2,0,0,1,1,23,12],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#aa1728750481b853c3246037c1ba1c68b":[2,0,0,1,1,23,9],
@@ -239,15 +249,5 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,1,1,34,6],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#ace27e8c9182412956028ffa70d53c326":[2,0,0,1,1,34,2],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html":[2,0,0,1,1,35],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e":[2,0,0,1,1,35,14],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a11784160b1e993a66a2166bfc11a4359":[2,0,0,1,1,35,20],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16b31222df0f65f2f673cb819279d694":[2,0,0,1,1,35,13],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16c6b83c21dc8f1d712723bac6968670":[2,0,0,1,1,35,22],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,35,4],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,35,7],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a331c522690e3ec54032538f9c9272fa1":[2,0,0,1,1,35,11],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,35,6],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a386ee47d5e3d4167555bcbe7e458c50e":[2,0,0,1,1,35,9],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a3da6b7bb71e273b8871c854e9dfa47ea":[2,0,0,1,1,35,32],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a3f51c9365cb9fbaafe1c923f378166a5":[2,0,0,1,1,35,8]
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e":[2,0,0,1,1,35,14]
 };

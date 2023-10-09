@@ -1,5 +1,15 @@
 var NAVTREEINDEX8 =
 {
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#acbd0bddc8a0b209adfe907e208f1ff8c":[2,0,0,1,1,65,0],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#af178bffd48e73128237191204ea01c41":[2,0,0,1,1,65,1],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html":[2,0,0,1,1,66],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a00a332249e4d58732f3e201c8319c80b":[2,0,0,1,1,66,23],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,66,4],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a2ea315d12be6b343c8b4b6cb97cd1874":[2,0,0,1,1,66,1],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,66,7],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a309ae01687e3b743ec496aaac0d6dc62":[2,0,0,1,1,66,10],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,66,6],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4980a136b4d9f7c4a5b2b6ad5336f7d7":[2,0,0,1,1,66,8],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,66,3],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a58fcfa7bcfe7404baae154a6ebcf9402":[2,0,0,1,1,66,9],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a5ea5efa505b1b3b55bf7c8b0a1253713":[2,0,0,1,1,66,11],
@@ -239,15 +249,5 @@ var NAVTREEINDEX8 =
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#af04b31ac17a5eb191df423eac8d5c776":[2,0,2,2,14],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#af9a9c3ab456206ddd45c4df67fa84e39":[2,0,2,2,17],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#aff1cdebbc921ab91f3f98b9f91a9a32f":[2,0,2,2,8],
-"classes.html":[2,1],
-"doc_8h.html":[3,0,24],
-"editorhost_2source_2usediids_8cpp.html":[3,0,265],
-"editorhost_8cpp.html":[3,0,25],
-"editorhost_8cpp.html#a8b3291e5d46b20e550cfdc886ad9ca0f":[3,0,25,1],
-"editorhost_8cpp.html#ac6189c9d2e3b7153cab8913a42d8c4f4":[3,0,25,0],
-"editorhost_8h.html":[3,0,26],
-"editorsizecontroller_8cpp.html":[3,0,27],
-"editorsizecontroller_8h.html":[3,0,28],
-"editorsizecontroller_8h.html#a3e856c7ffbe25183e8d732833ec765d5":[3,0,28,1],
-"eventlistcheck_8cpp.html":[3,0,29]
+"classes.html":[2,1]
 };

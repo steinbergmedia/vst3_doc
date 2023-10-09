@@ -1,6 +1,7 @@
 var namespaceSteinberg_1_1FUnknownImpl =
 [
     [ "Detail", "namespaceSteinberg_1_1FUnknownImpl_1_1Detail.html", "namespaceSteinberg_1_1FUnknownImpl_1_1Detail" ],
+    [ "HideIIDBase", "structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html", "structSteinberg_1_1FUnknownImpl_1_1HideIIDBase" ],
     [ "Destroyer", "structSteinberg_1_1FUnknownImpl_1_1Destroyer.html", null ],
     [ "UID", "structSteinberg_1_1FUnknownImpl_1_1UID.html", "structSteinberg_1_1FUnknownImpl_1_1UID" ],
     [ "Directly", "structSteinberg_1_1FUnknownImpl_1_1Directly.html", null ],

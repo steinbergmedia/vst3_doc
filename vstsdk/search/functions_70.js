@@ -25,6 +25,7 @@ var searchData=
   ['presetfile',['PresetFile',['../classSteinberg_1_1Vst_1_1PresetFile.html#a9db1b48345e92320b0dffc446d5e3483',1,'Steinberg::Vst::PresetFile']]],
   ['presetmanager',['PresetManager',['../classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a40e63f530976a9ce740373e806bd08d6',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['print',['print',['../../base/classSteinberg_1_1FUID.html#a87f395d2dab31085a814b066b94e2f0a',1,'Steinberg::FUID::print(int32 style, char8 *string=nullptr, size_t stringBufferSize=0) const '],['../../base/classSteinberg_1_1FUID.html#af4c3e90529c90252f58d856dfbf43c6a',1,'Steinberg::FUID::print(char8 *string=nullptr, int32 style=kINLINE_UID) const ']]],
+  ['printerror',['printError',['../classSteinberg_1_1Vst_1_1PlugProvider.html#abfa14a169f62d20586d1d173d7af068c',1,'Steinberg::Vst::PlugProvider']]],
   ['printfloat',['printFloat',['../../base/classSteinberg_1_1UString.html#a0444f6da111b2df3c6289775e3eb24b6',1,'Steinberg::UString']]],
   ['printint',['printInt',['../../base/classSteinberg_1_1UString.html#ab1482d79e1ddf9a1cff1c41ea93df50e',1,'Steinberg::UString']]],
   ['printtestheader',['printTestHeader',['../classSteinberg_1_1Vst_1_1TestBase.html#aa2a890cf23bc6df3266783a3d8e4da09',1,'Steinberg::Vst::TestBase']]],

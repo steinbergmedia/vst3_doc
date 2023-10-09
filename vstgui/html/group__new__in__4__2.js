@@ -44,7 +44,7 @@ var group__new__in__4__2 =
       [ "~CLayeredViewContainer", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a508d8bfaf155e7e7770b71bffb56f717", null ],
       [ "attached", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2", null ],
       [ "drawRect", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a", null ],
-      [ "drawViewLayer", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a005f718035d5093fac737c6e748e1c64", null ],
+      [ "drawViewLayerRects", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a8501ac9401d85b0a4c62ebe85d273948", null ],
       [ "getDrawTransform", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a852e37cb94f2ccd5a0bc8a8f6a9e2ee7", null ],
       [ "getPlatformLayer", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a8f584ab1deaf1ef7587df93564c6015f", null ],
       [ "getZIndex", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a34ed4276adc53dac080e163029e1d5b6", null ],

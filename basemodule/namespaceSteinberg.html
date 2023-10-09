@@ -203,6 +203,8 @@ Typedefs</h2></td></tr>
 <tr class="separator:aac248a0d0bf4446d45f2539bc61f6c23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab36f267af0b3dc88ce9135a0c3b4f170"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#ab36f267af0b3dc88ce9135a0c3b4f170">FClassID</a> = FIDString</td></tr>
 <tr class="separator:ab36f267af0b3dc88ce9135a0c3b4f170"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4319ee5b75ba654ea27e72a9925da401"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a4319ee5b75ba654ea27e72a9925da401">CreateTimerFunc</a> = <a class="el" href="classSteinberg_1_1Timer.html">Timer</a> *(*)(<a class="el" href="classSteinberg_1_1ITimerCallback.html">ITimerCallback</a> *callback, uint32 intervalMilliseconds)</td></tr>
+<tr class="separator:a4319ee5b75ba654ea27e72a9925da401"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
 Enumerations</h2></td></tr>
@@ -362,6 +364,8 @@ Functions</h2></td></tr>
 <tr class="separator:a262d596d26d40f41fab24af7162c7020"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af813b691586a7d0180f9275b88d8ce86"><td class="memItemLeft" align="right" valign="top">int32&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#af813b691586a7d0180f9275b88d8ce86">strnatcmp</a> (const char *s1, const char *s2, bool caseSensitive=true)</td></tr>
 <tr class="separator:af813b691586a7d0180f9275b88d8ce86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a849a1fe250eac0b91bcdbe70167d560c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#a849a1fe250eac0b91bcdbe70167d560c">InjectCreateTimerFunction</a> (<a class="el" href="namespaceSteinberg.html#a4319ee5b75ba654ea27e72a9925da401">CreateTimerFunc</a> f)</td></tr>
+<tr class="separator:a849a1fe250eac0b91bcdbe70167d560c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplParams" colspan="2">template&lt;typename Call &gt; </td></tr>
 <tr class="memitem:af754042087ab79da3c3b0d08681e9a93"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="classSteinberg_1_1ITimerCallback.html">ITimerCallback</a> *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSteinberg.html#af754042087ab79da3c3b0d08681e9a93">newTimerCallback</a> (const Call &amp;call)</td></tr>
 <tr class="separator:af754042087ab79da3c3b0d08681e9a93"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -417,6 +421,18 @@ Steinberg::FObjectIIDInitializer&#160;</td><td class="memItemRight" valign="bott
       <table class="memname">
         <tr>
           <td class="memname">using <a class="el" href="namespaceSteinberg.html#ab36f267af0b3dc88ce9135a0c3b4f170">FClassID</a> =  FIDString</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a4319ee5b75ba654ea27e72a9925da401"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="namespaceSteinberg.html#a4319ee5b75ba654ea27e72a9925da401">CreateTimerFunc</a> =  <a class="el" href="classSteinberg_1_1Timer.html">Timer</a>* (*)(<a class="el" href="classSteinberg_1_1ITimerCallback.html">ITimerCallback</a>* callback, uint32 intervalMilliseconds)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2511,6 +2527,22 @@ Steinberg::FObjectIIDInitializer&#160;</td><td class="memItemRight" valign="bott
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a849a1fe250eac0b91bcdbe70167d560c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void InjectCreateTimerFunction </td>
+          <td>(</td>
+          <td class="paramtype">CreateTimerFunc&#160;</td>
+          <td class="paramname"><em>f</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 
 </div>

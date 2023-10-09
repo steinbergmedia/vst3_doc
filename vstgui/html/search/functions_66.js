@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['filllineargradient',['fillLinearGradient',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a8b17e14a03168a4c9c9675c75ad0d2aa',1,'VSTGUI::CDrawContext']]],
-  ['fillradialgradient',['fillRadialGradient',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a1136f1c36f2ff9ff670f37b89af77ed9',1,'VSTGUI::CDrawContext']]],
+  ['filllineargradient',['fillLinearGradient',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a83eeda78078492aa17231b2213ae6619',1,'VSTGUI::CDrawContext']]],
+  ['fillradialgradient',['fillRadialGradient',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#ada1068aacc13b262ad9611e86de95b2a',1,'VSTGUI::CDrawContext']]],
   ['fillrectwithbitmap',['fillRectWithBitmap',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a07e13b92a6da8f440f5688cfedc1686d',1,'VSTGUI::CDrawContext']]],
   ['filterbase',['FilterBase',['../class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html#a46a4be1b5b7164ce2404e7aff4629dda',1,'VSTGUI::BitmapFilter::FilterBase']]],
   ['finalaction',['FinalAction',['../class_v_s_t_g_u_i_1_1_final_action.html#aa5ff27cffc110e9e0a6a2bba62fd5ad4',1,'VSTGUI::FinalAction::FinalAction(Proc action) noexcept'],['../class_v_s_t_g_u_i_1_1_final_action.html#a14316ed1729d7960a8dc3320453496db',1,'VSTGUI::FinalAction::FinalAction(FinalAction &amp;&amp;other) noexcept'],['../class_v_s_t_g_u_i_1_1_final_action.html#afc7413d6e68a07af6fa2f06806a890cf',1,'VSTGUI::FinalAction::FinalAction(const FinalAction &amp;)=delete']]],

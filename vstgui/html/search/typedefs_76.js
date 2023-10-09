@@ -2,8 +2,11 @@ var searchData=
 [
   ['validatecallbackfunction',['ValidateCallbackFunction',['../class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a027fb38ab6a8909a2317dcc0666a24ce',1,'VSTGUI::CCommandMenuItem']]],
   ['value_5ftype',['value_type',['../class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html#a6969513e5d630761145ebcb1a43e3910',1,'VSTGUI::UTF8CodePointIterator']]],
+  ['valuebegineditcallback',['ValueBeginEditCallback',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension.html#af10bb809aae5b986a9506366c558a4ca',1,'VSTGUI::ExternalView::IControlViewExtension']]],
   ['valueconverterptr',['ValueConverterPtr',['../namespace_v_s_t_g_u_i_1_1_standalone.html#acb13d531f32416d3ba0b85e8f8237468',1,'VSTGUI::Standalone']]],
+  ['valueendeditcallback',['ValueEndEditCallback',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension.html#adcac7b59c3ebd748be4ff5540c5c7839',1,'VSTGUI::ExternalView::IControlViewExtension']]],
   ['valuelist',['ValueList',['../class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_model_binding.html#acf74dc8d6ddedd3f7ca679ed6e92052c',1,'VSTGUI::Standalone::UIDesc::IModelBinding']]],
+  ['valueperformeditcallback',['ValuePerformEditCallback',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension.html#ac139531a61a7c12f8431a685cf151014',1,'VSTGUI::ExternalView::IControlViewExtension']]],
   ['valueptr',['ValuePtr',['../namespace_v_s_t_g_u_i_1_1_standalone.html#af94fa214cf707a169d3f134ea153aeba',1,'VSTGUI::Standalone']]],
   ['valuetostringfunction',['ValueToStringFunction',['../class_v_s_t_g_u_i_1_1_c_param_display.html#a9581694dcc226028f81694c779874043',1,'VSTGUI::CParamDisplay']]],
   ['valuetostringfunction2',['ValueToStringFunction2',['../class_v_s_t_g_u_i_1_1_c_param_display.html#ada4ebfd98cae7a8a5e1b1c7f92eccd2a',1,'VSTGUI::CParamDisplay']]],

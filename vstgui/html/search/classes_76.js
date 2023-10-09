@@ -3,6 +3,7 @@ var searchData=
   ['valuecalls',['ValueCalls',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_value_calls.html',1,'VSTGUI::Standalone::UIDesc']]],
   ['valuelisteneradapter',['ValueListenerAdapter',['../class_v_s_t_g_u_i_1_1_standalone_1_1_value_listener_adapter.html',1,'VSTGUI::Standalone']]],
   ['verticalswitchcreator',['VerticalSwitchCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_vertical_switch_creator.html',1,'VSTGUI::UIViewCreator']]],
+  ['viewadapter',['ViewAdapter',['../struct_v_s_t_g_u_i_1_1_external_view_1_1_view_adapter.html',1,'VSTGUI::ExternalView']]],
   ['viewcontainercreator',['ViewContainerCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_view_container_creator.html',1,'VSTGUI::UIViewCreator']]],
   ['viewcontainerlisteneradapter',['ViewContainerListenerAdapter',['../class_v_s_t_g_u_i_1_1_view_container_listener_adapter.html',1,'VSTGUI']]],
   ['viewcreator',['ViewCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_view_creator.html',1,'VSTGUI::UIViewCreator']]],

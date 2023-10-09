@@ -9,6 +9,7 @@ var hierarchy =
     [ "FReleaser", "structSteinberg_1_1FReleaser.html", null ],
     [ "FUID", "classSteinberg_1_1FUID.html", null ],
     [ "FUnknown", "classSteinberg_1_1FUnknown.html", [
+      [ "HideIIDBase", "structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html", null ],
       [ "IAttributes", "classSteinberg_1_1IAttributes.html", [
         [ "IAttributes2", "classSteinberg_1_1IAttributes2.html", null ]
       ] ],

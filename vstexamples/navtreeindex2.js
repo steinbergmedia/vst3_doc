@@ -1,5 +1,15 @@
 var NAVTREEINDEX2 =
 {
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#accb2b76127645a7a8ec171c7b220ce8d":[2,0,0,1,2,2,5],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#aeb78d794ce0bc5812c526a1cc2083d5d":[2,0,0,1,2,2,4],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#af4d16dae99ff1010b80359cb70500e31":[2,0,0,1,2,2,9],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html":[2,0,0,1,2,4],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a0d13b05ef372806de086eec80526daae":[2,0,0,1,2,4,17],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,2,4,5],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a3310a1682cdcf572f5e22f59869b8e3c":[2,0,0,1,2,4,10],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,2,4,4],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a55f180ed79364469774124be9d724160":[2,0,0,1,2,4,11],
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a60aee36a21805e563d61242be6e7d8b0":[2,0,0,1,2,4,9],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a8cef184b72b4074c934a5691b745e5df":[2,0,0,1,2,4,16],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a8f5398486378a76ec028b304ddb2ee77":[2,0,0,1,2,4,14],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a9228db732b48ece8b5b734e69b979d10":[2,0,0,1,2,4,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a057fc4070dc2a34eea400b9a5f7c2573":[2,0,0,1,17,3],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a2c940dd02450b042f786670ea167a9c6":[2,0,0,1,17,7],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a507479b90e66719ae962ad5b81e76e0d":[2,0,0,1,17,5],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13":[2,0,0,1,17,2],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa0f1925c785d52e33d430e24a55cc7e4":[2,0,0,1,17,1],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165":[2,0,0,1,17,6],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa8fc8b8089eb6ee759dcfce7c2efcd39":[2,0,0,1,17,4],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#adc8cb490ac3b4777e484c7d68c9fab73":[2,0,0,1,17,0],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html":[2,0,0,1,18],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a03e282472adb6318ffa662623225b257":[2,0,0,1,18,6],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a0849ab0f2ea82cee2cd2c29e1a5a193d":[2,0,0,1,18,2],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a0ee90f2ec55c3d3e1474d37fe9585de0":[2,0,0,1,18,3],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a1d61d362224a59b0409dd36fef8a9562":[2,0,0,1,18,0],
-"classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html#a543bc2ae29df00825aa4409281f6921d":[2,0,0,1,18,5]
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13":[2,0,0,1,17,2]
 };

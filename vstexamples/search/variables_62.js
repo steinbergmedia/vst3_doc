@@ -10,6 +10,8 @@ var searchData=
   ['bhalfgain',['bHalfGain',['../classSteinberg_1_1Vst_1_1AGain.html#a8b1f18fc647d657a3b0528c1ae3467de',1,'Steinberg::Vst::AGain']]],
   ['bias',['bias',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#ab881305da614121cd59b58172248c151',1,'Steinberg::Vst::mda::ComboProcessor']]],
   ['bits',['bits',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a1eb8fc809d37cc6176f7f27374b063d0',1,'Steinberg::Vst::mda::DitherProcessor']]],
+  ['blockid',['blockID',['../../vstinterfaces/structSteinberg_1_1Vst_1_1DataExchangeBlock.html#a9f9919f70a2fc51767a51007a625dd5a',1,'Steinberg::Vst::DataExchangeBlock']]],
+  ['blocksize',['blockSize',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a46e19d5fda11ba7882b319a8bf47cf8d',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
   ['bold',['bold',['../classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a10eeaea122b5ce78c0a5c2561c844527',1,'Steinberg::Vst::mda::TrackerProcessor']]],
   ['bottom',['bottom',['../../base/structSteinberg_1_1ViewRect.html#a056cba400137ab9db43fdc7da2132a40',1,'Steinberg::ViewRect']]],
   ['buf',['buf',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html#a9ee81cec92d8a15d2b61d127b0007240',1,'Steinberg::Vst::mda::DetuneProcessor::buf()'],['../classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a543ca77ae28dc8147d7b0a136b66aea4',1,'Steinberg::Vst::mda::RePsychoProcessor::buf()']]],

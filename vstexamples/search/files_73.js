@@ -13,5 +13,7 @@ var searchData=
   ['syncdelayids_2eh',['syncdelayids.h',['../syncdelayids_8h.html',1,'']]],
   ['syncdelayprocessor_2ecpp',['syncdelayprocessor.cpp',['../syncdelayprocessor_8cpp.html',1,'']]],
   ['syncdelayprocessor_2eh',['syncdelayprocessor.h',['../syncdelayprocessor_8h.html',1,'']]],
-  ['syncdelayversion_2eh',['syncdelayversion.h',['../syncdelayversion_8h.html',1,'']]]
+  ['syncdelayversion_2eh',['syncdelayversion.h',['../syncdelayversion_8h.html',1,'']]],
+  ['systemtime_2ecpp',['systemtime.cpp',['../../vstsdk/systemtime_8cpp.html',1,'']]],
+  ['systemtime_2eh',['systemtime.h',['../../vstsdk/systemtime_8h.html',1,'']]]
 ];

@@ -9,6 +9,7 @@ var searchData=
   ['activevoices',['activevoices',['../structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a87eb341278a24a4f1320d45de8a3a5b1',1,'Steinberg::Vst::mda::SynthData::activevoices()'],['../classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa86ea8cc7dd3cf5f2033f261daec4165',1,'Steinberg::Vst::VoiceProcessor::activeVoices()']]],
   ['addbypassparameter',['addBypassParameter',['../classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a14e43faff229f25734bc51b0eae0f84e',1,'Steinberg::Vst::mda::BaseController']]],
   ['adderrorwarningtexttooutput',['addErrorWarningTextToOutput',['../classSteinberg_1_1Vst_1_1Validator.html#a2c773db003868abb1968b5bd9a9314c6',1,'Steinberg::Vst::Validator']]],
+  ['alignment',['alignment',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#ae60a9b82d7097942c8d2e3a5d434a897',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
   ['allocationerror',['allocationError',['../../vstsdk/classSteinberg_1_1MemoryStream.html#a1bfaf9acdd950aac257085ff792dfedb',1,'Steinberg::MemoryStream']]],
   ['argc',['argc',['../classSteinberg_1_1Vst_1_1Validator.html#ad1447518f4372828b8435ae82e48499e',1,'Steinberg::Vst::Validator']]],
   ['argv',['argv',['../classSteinberg_1_1Vst_1_1Validator.html#af2efa898e9eed6fe6715279cb1ec35b0',1,'Steinberg::Vst::Validator']]],

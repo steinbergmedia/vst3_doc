@@ -9,6 +9,7 @@ var ivsteditcontroller_8h =
     [ "IEditController2", "classSteinberg_1_1Vst_1_1IEditController2.html", "classSteinberg_1_1Vst_1_1IEditController2" ],
     [ "IMidiMapping", "classSteinberg_1_1Vst_1_1IMidiMapping.html", "classSteinberg_1_1Vst_1_1IMidiMapping" ],
     [ "IEditControllerHostEditing", "classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html", "classSteinberg_1_1Vst_1_1IEditControllerHostEditing" ],
+    [ "IComponentHandlerSystemTime", "classSteinberg_1_1Vst_1_1IComponentHandlerSystemTime.html", "classSteinberg_1_1Vst_1_1IComponentHandlerSystemTime" ],
     [ "kVstComponentControllerClass", "ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99", null ],
     [ "KnobMode", "ivsteditcontroller_8h.html#ga98965411c9e542b7c2a99a46c8c1dfa2", null ],
     [ "RestartFlags", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5", [

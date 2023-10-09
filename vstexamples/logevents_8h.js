@@ -193,6 +193,9 @@ var logevents_8h =
       [ "kLogIdIPlugViewremovedWithoutAttached", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a5fb9550c3dfb27797071bc17ef7adabf", null ],
       [ "kLogIdIParameterFinderSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1ed1e56eea06bb5be4b31c77f3ca3060", null ],
       [ "kLogIdIParameterFunctionNameSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa972d9a1b7865c1232278a3acde538f0", null ],
+      [ "kLogIdIComponentHandlerSystemTimeSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018", null ],
+      [ "kLogIdIDataExchangeHandlerSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3", null ],
+      [ "kLogIdIDataExchangeReceiverSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f", null ],
       [ "kLogIdInformLatencyChanged", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aea5987edd85d670fe157a6bde424efb9", null ],
       [ "kNumLogEvents", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae", null ]
     ] ]

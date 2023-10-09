@@ -126,7 +126,7 @@ $(document).ready(function(){initNavTree('classSteinberg_1_1Linux_1_1IRunLoop.ht
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classSteinberg_1_1Linux_1_1IRunLoop__inherit__graph.png" border="0" usemap="#IRunLoop_inherit__map" alt="Inheritance graph"/></div>
 <map name="IRunLoop_inherit__map" id="IRunLoop_inherit__map">
-<area shape="rect" id="node2" href="classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="30,5,146,108"/></map>
+<area shape="rect" id="node2" href="classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="31,5,150,105"/></map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -166,6 +166,7 @@ Static Public Attributes</h2></td></tr>
 <li>[released: 3.6.8]</li>
 </ul>
 <p>On <a class="el" href="namespaceSteinberg_1_1Linux.html">Linux</a> the host has to provide this interface to the plug-in as there's no global event run loop defined as on other platforms.</p>
+<p>This can be done by <a class="el" href="classSteinberg_1_1IPlugFrame.html" title="Callback interface passed to IPlugView.">IPlugFrame</a> and the context which is passed to the plug-in as an argument in the method IPlugFactory3::setHostContext. This way the plug-in can get a runloop even if it does not have an editor.</p>
 <p>A plug-in can register an event handler for a file descriptor. The host has to call the event handler when the file descriptor is marked readable.</p>
 <p>A plug-in also can register a timer which will be called repeatedly until it is unregistered. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>

@@ -12,5 +12,7 @@ var searchData=
   ['hostcheckerprocessor_2eh',['hostcheckerprocessor.h',['../hostcheckerprocessor_8h.html',1,'']]],
   ['hostclasses_2ecpp',['hostclasses.cpp',['../../vstsdk/hostclasses_8cpp.html',1,'']]],
   ['hostclasses_2eh',['hostclasses.h',['../../vstsdk/hostclasses_8h.html',1,'']]],
+  ['hostdataexchangehandler_2ecpp',['hostdataexchangehandler.cpp',['../../vstsdk/hostdataexchangehandler_8cpp.html',1,'']]],
+  ['hostdataexchangehandler_2eh',['hostdataexchangehandler.h',['../../vstsdk/hostdataexchangehandler_8h.html',1,'']]],
   ['version_2eh',['version.h',['../hostchecker_2source_2version_8h.html',1,'']]]
 ];

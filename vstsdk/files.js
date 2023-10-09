@@ -9,6 +9,7 @@ var files =
     [ "aaxwrapper_gui.h", "aaxwrapper__gui_8h.html", null ],
     [ "aaxwrapper_parameters.cpp", "aaxwrapper__parameters_8cpp.html", "aaxwrapper__parameters_8cpp" ],
     [ "aaxwrapper_parameters.h", "aaxwrapper__parameters_8h.html", null ],
+    [ "alignedalloc.h", "alignedalloc_8h.html", "alignedalloc_8h" ],
     [ "aucarbonview.h", "aucarbonview_8h.html", null ],
     [ "aucarbonview.mm", "aucarbonview_8mm.html", null ],
     [ "aucocoaview.h", "aucocoaview_8h.html", null ],
@@ -26,6 +27,8 @@ var files =
     [ "connectionproxy.h", "connectionproxy_8h.html", [
       [ "ConnectionProxy", "classSteinberg_1_1Vst_1_1ConnectionProxy.html", "classSteinberg_1_1Vst_1_1ConnectionProxy" ]
     ] ],
+    [ "dataexchange.cpp", "dataexchange_8cpp.html", "dataexchange_8cpp" ],
+    [ "dataexchange.h", "dataexchange_8h.html", "dataexchange_8h" ],
     [ "doc_public_sdk.h", "doc__public__sdk_8h.html", null ],
     [ "doc_public_sdk_limited.h", "doc__public__sdk__limited_8h.html", null ],
     [ "eventlist.cpp", "eventlist_8cpp.html", "eventlist_8cpp" ],
@@ -34,6 +37,11 @@ var files =
     [ "HostApp.mm", "HostApp_8mm.html", null ],
     [ "hostclasses.cpp", "hostclasses_8cpp.html", "hostclasses_8cpp" ],
     [ "hostclasses.h", "hostclasses_8h.html", null ],
+    [ "hostdataexchangehandler.cpp", "hostdataexchangehandler_8cpp.html", "hostdataexchangehandler_8cpp" ],
+    [ "hostdataexchangehandler.h", "hostdataexchangehandler_8h.html", [
+      [ "IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost" ],
+      [ "HostDataExchangeHandler", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler" ]
+    ] ],
     [ "memorystream.h", "memorystream_8h.html", null ],
     [ "MidiIO.h", "MidiIO_8h.html", [
       [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO" ]
@@ -106,6 +114,10 @@ var files =
     [ "SettingsViewController.mm", "SettingsViewController_8mm.html", "SettingsViewController_8mm" ],
     [ "stringconvert.cpp", "stringconvert_8cpp.html", "stringconvert_8cpp" ],
     [ "stringconvert.h", "stringconvert_8h.html", "stringconvert_8h" ],
+    [ "systemtime.cpp", "systemtime_8cpp.html", null ],
+    [ "systemtime.h", "systemtime_8h.html", [
+      [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", "classSteinberg_1_1Vst_1_1SystemTime" ]
+    ] ],
     [ "testbase.cpp", "testbase_8cpp.html", "testbase_8cpp" ],
     [ "testbase.h", "testbase_8h.html", "testbase_8h" ],
     [ "testing.cpp", "testing_8cpp.html", "testing_8cpp" ],

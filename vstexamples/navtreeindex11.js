@@ -1,5 +1,8 @@
 var NAVTREEINDEX11 =
 {
+"mdaDeEsserController_8h.html":[3,0,73],
+"mdaDeEsserProcessor_8cpp.html":[3,0,74],
+"mdaDeEsserProcessor_8h.html":[3,0,75],
 "mdaDegradeController_8cpp.html":[3,0,76],
 "mdaDegradeController_8h.html":[3,0,77],
 "mdaDegradeProcessor_8cpp.html":[3,0,78],
@@ -152,14 +155,14 @@ var NAVTREEINDEX11 =
 "namespaceSteinberg_1_1Panner.html":[1,0,0,3],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[1,0,0,1,3],
 "namespaceSteinberg_1_1Vst_1_1AudioHost.html":[2,0,0,1,3],
-"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1EditorHost.html":[1,0,0,1,4],
+"namespaceSteinberg_1_1Vst_1_1EditorHost.html":[2,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[2,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1LegacyMIDICCOut.html":[1,0,0,1,0],
-"namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[1,0,0,1,2],
 "namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[2,0,0,1,2],
-"namespaceSteinberg_1_1Vst_1_1mda.html":[2,0,0,1,1],
+"namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html":[1,0,0,1,2],
 "namespaceSteinberg_1_1Vst_1_1mda.html":[1,0,0,1,1],
+"namespaceSteinberg_1_1Vst_1_1mda.html":[2,0,0,1,1],
 "namespacemembers.html":[1,1,0],
 "namespacemembers_enum.html":[1,1,3],
 "namespacemembers_eval.html":[1,1,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX11 =
 "note__expression__text_2source_2plugcontroller_8h.html":[3,0,236],
 "note__expression__text_2source_2plugentry_8cpp.html":[3,0,241],
 "note__expression__text_2source_2plugentry_8cpp.html#a1075637db8f5731ef803159910f409f8":[3,0,241,1],
-"note__expression__text_2source_2plugentry_8cpp.html#a53ac779212edf501532da8751b27572c":[3,0,241,3],
-"note__expression__text_2source_2plugentry_8cpp.html#a580d3236cf2654394fd9dda85651efc0":[3,0,241,0],
-"note__expression__text_2source_2plugentry_8cpp.html#a7668929ac981fa3b7c508e7578a3e357":[3,0,241,2],
-"note__expression__text_2source_2plugentry_8cpp.html#ac09825b56d6a6e6099918f3b532a58b2":[3,0,241,4]
+"note__expression__text_2source_2plugentry_8cpp.html#a53ac779212edf501532da8751b27572c":[3,0,241,3]
 };

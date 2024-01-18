@@ -5,6 +5,7 @@ var searchData=
   ['readonlybstream',['ReadOnlyBStream',['../classSteinberg_1_1Vst_1_1ReadOnlyBStream.html',1,'Steinberg::Vst']]],
   ['refcounted',['RefCounted',['../../base/structSteinberg_1_1FUnknownImpl_1_1Detail_1_1RefCounted.html',1,'Steinberg::FUnknownImpl::Detail']]],
   ['representationinfo',['RepresentationInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html',1,'Steinberg::Vst']]],
+  ['resizablememoryibstream',['ResizableMemoryIBStream',['../classSteinberg_1_1ResizableMemoryIBStream.html',1,'Steinberg']]],
   ['ringbuffer',['RingBuffer',['../classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
   ['ringbuffer_3c_20block_20_3e',['RingBuffer&lt; Block &gt;',['../classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
   ['ringbuffer_3c_20void_20_2a_20_3e',['RingBuffer&lt; void * &gt;',['../classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],

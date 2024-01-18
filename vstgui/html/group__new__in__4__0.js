@@ -66,7 +66,7 @@ var group__new__in__4__0 =
     ] ],
     [ "FinishedMessage", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html", [
       [ "FinishedMessage", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a758391e31c2d599d701dfe25d9158675", null ],
-      [ "getName", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a8c6aec1ef17175cacf21384b04360420", null ],
+      [ "getName", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#ad20ce96bc400e4f3113875f242150b45", null ],
       [ "getTarget", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a468cc33888b76e7165ca488b68df6114", null ],
       [ "getView", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a985844150508e45eb1ee9dd549b98694", null ],
       [ "newCopy", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a4433ff4e66b32c32a4b90436e369ec39", null ],
@@ -195,7 +195,7 @@ var group__new__in__4__0 =
     ] ],
     [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html", [
       [ "ElementList", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a057042352a6b00ea2233bfddb55bc9f0", null ],
-      [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a9eb48e9e4b9a343711e5f31d08ce3790", null ],
+      [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a8ede31e4fbbef392b8490d6d30baabdd", null ],
       [ "~CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#aa2dd3aeda071709ec7ee463ea5fdfc4d", null ],
       [ "addArc", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a", null ],
       [ "addBezierCurve", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a119f99a3a75869ef3182b145e29c6657", null ],

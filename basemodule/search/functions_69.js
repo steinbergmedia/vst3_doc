@@ -1,6 +1,7 @@
 var searchData=
 [
   ['ibstreamer',['IBStreamer',['../classSteinberg_1_1IBStreamer.html#a845d37e3a5e1ef478b7c44527a8ebd9c',1,'Steinberg::IBStreamer']]],
+  ['icast',['ICast',['../namespaceSteinberg.html#a9a7a973ee78bae5773b6dc45fbb1e6f0',1,'Steinberg::ICast(FObject *object)'],['../namespaceSteinberg.html#a35104e382832e8ca3656f5e9e1580d07',1,'Steinberg::ICast(FUnknown *object)']]],
   ['incrementtrailingnumber',['incrementTrailingNumber',['../classSteinberg_1_1String.html#a784e9e7df7086386504a8935b9e39879',1,'Steinberg::String']]],
   ['init',['init',['../classSteinberg_1_1FDynLibrary.html#a8f36f17c29d5a7cc5f29677a6093ac5f',1,'Steinberg::FDynLibrary']]],
   ['injectcreatetimerfunction',['InjectCreateTimerFunction',['../namespaceSteinberg.html#a849a1fe250eac0b91bcdbe70167d560c',1,'Steinberg']]],

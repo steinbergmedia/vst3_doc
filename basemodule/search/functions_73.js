@@ -38,6 +38,7 @@ var searchData=
   ['shiftat',['shiftAt',['../classSteinberg_1_1Buffer.html#ac3d0af936a5a4f5f9aa26b378e9f3ff5',1,'Steinberg::Buffer']]],
   ['shiftstart',['shiftStart',['../classSteinberg_1_1Buffer.html#a79b7870538d70d8e72427d8cb1504917',1,'Steinberg::Buffer']]],
   ['skip',['skip',['../classSteinberg_1_1FStreamer.html#a28410ce59c7f96b01d34cbb996ba9d07',1,'Steinberg::FStreamer']]],
+  ['smtg_5fdeprecated_5fmsg',['SMTG_DEPRECATED_MSG',['../namespaceSteinberg.html#aa5b3f6bf640105c689aad999c94b3ae8',1,'Steinberg']]],
   ['startswith',['startsWith',['../classSteinberg_1_1ConstString.html#a04ad3a9b67c46f78ad5808ffa5c613f5',1,'Steinberg::ConstString']]],
   ['stop',['stop',['../classSteinberg_1_1Timer.html#a0efff8623a2fb79dad94a96dcf16d966',1,'Steinberg::Timer']]],
   ['str',['str',['../classSteinberg_1_1Buffer.html#aa64fafcd623e080b547d8991bb530065',1,'Steinberg::Buffer']]],

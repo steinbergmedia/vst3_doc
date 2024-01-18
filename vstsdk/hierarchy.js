@@ -125,6 +125,7 @@ var hierarchy =
     [ "IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html", null ],
     [ "Module::Snapshot::ImageDesc", "structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html", null ],
     [ "Implements", null, [
+      [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", null ],
       [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
     ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],

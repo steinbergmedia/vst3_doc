@@ -42,6 +42,7 @@ var group__containerviews =
       ] ],
       [ "EventProcessingFunction", "exception_v_s_t_g_u_i_1_1_c_frame.html#a75b7be149a5ded19b0de8dcd72e3170d", null ],
       [ "CFrame", "exception_v_s_t_g_u_i_1_1_c_frame.html#a6fa5f545ba9a08142895a94d8603d02f", null ],
+      [ "CFrame", "exception_v_s_t_g_u_i_1_1_c_frame.html#a2adc762721890dc5ff00ad13b5e57403", null ],
       [ "~CFrame", "exception_v_s_t_g_u_i_1_1_c_frame.html#a6c483269a5a246ba432eeb8df20f96ff", null ],
       [ "advanceNextFocusView", "exception_v_s_t_g_u_i_1_1_c_frame.html#a5170494249a728ad6e8764de6cd461be", null ],
       [ "attached", "exception_v_s_t_g_u_i_1_1_c_frame.html#a522467127f90bd5e2a6856e09b1b7bf2", null ],

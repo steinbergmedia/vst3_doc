@@ -12,7 +12,7 @@ var class_v_s_t_g_u_i_1_1_u_t_f8_string =
     [ "begin", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#ab4b636a7e13b5f02967ac676dc34f4f3", null ],
     [ "clear", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#a03bfacfaaba9195e4498375659f43531", null ],
     [ "copy", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#aae775ae5095c502d941e7ef2429edadf", null ],
-    [ "data", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#aaa8f0977308af4de2717e4c21a2a6b87", null ],
+    [ "data", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#abebb54233ab9a5adec0fb1f9f55fee6b", null ],
     [ "empty", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#a3f6fc5de06a318920d84f3c3742db07f", null ],
     [ "end", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#a3f4d1bf1574678a23a9b92e179b47830", null ],
     [ "getPlatformString", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html#a32a8e966f405d88863f3c8bd5fa9306c", null ],

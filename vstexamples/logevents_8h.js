@@ -48,6 +48,7 @@ var logevents_8h =
       [ "kLogIdNullPointerToAuxChannelBuf", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a75167ff761bc619af55ae8f389fed047", null ],
       [ "kLogIdNullPointerToAudioBusBuffer", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac259cd881ad45c5f84417ae2b2297461", null ],
       [ "kLogIdAudioBufNotMatchComponentBusCount", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ab7f1167909bec3d223696cc8b3114baf", null ],
+      [ "kLogIdNoBusActivated", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a98609a46c1def5110dfe1f33c8fa6c5a", null ],
       [ "kLogIdInvalidAudioBufNumOfChannels", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a88345749f4e5e9376688e63c19c8fd1e", null ],
       [ "kLogIdUnknownEventType", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ad776f0f81bb9dc8fa1353a3a1650fc4a", null ],
       [ "kLogIdInvalidEventVelocityValue", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46acca55d9df20a4e82dbd4db7a92b7bc2a", null ],

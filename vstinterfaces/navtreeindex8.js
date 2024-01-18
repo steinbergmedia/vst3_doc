@@ -1,5 +1,15 @@
 var NAVTREEINDEX8 =
 {
+"vstpresetkeys_8h.html#gaaa8a189a2e24961319d1e26349aa8a9a":[3,0,28,149],
+"vstpresetkeys_8h.html#gaab8ddc7cc6aa5f6c1b3383b7ba109c65":[3,0,28,121],
+"vstpresetkeys_8h.html#gaabb6cafa41915dc3a4ebb19d35aeb3be":[3,0,28,147],
+"vstpresetkeys_8h.html#gaad0a8d9f7a2cef071860eee02948c556":[3,0,28,233],
+"vstpresetkeys_8h.html#gaae40f2e630a0d26cdd3d862761b26d07":[3,0,28,263],
+"vstpresetkeys_8h.html#gaae916a5a813ecf7d856e61f456a24479":[3,0,28,85],
+"vstpresetkeys_8h.html#gaafd56235b0b917a43d284202d30f4f0a":[3,0,28,86],
+"vstpresetkeys_8h.html#gab17d3d9dbddf245300a0e581f27d2b21":[3,0,28,135],
+"vstpresetkeys_8h.html#gab2577b8dac71b9e6d679cd5fd337fc70":[3,0,28,108],
+"vstpresetkeys_8h.html#gab44336cb32a2e361969b84be167c6437":[3,0,28,93],
 "vstpresetkeys_8h.html#gab5c77bf645fdb2afae554c3c6b48dc92":[3,0,28,39],
 "vstpresetkeys_8h.html#gab5e9cb190b3c45ca56bb2e1adebb43fc":[3,0,28,72],
 "vstpresetkeys_8h.html#gab5f48d90dba2837a9b0552446258746c":[3,0,28,28],
@@ -239,15 +249,5 @@ var NAVTREEINDEX8 =
 "vstspeaker_8h.html#ga646cd09e52190d60f2d4ca83faf915aa":[3,0,30,304],
 "vstspeaker_8h.html#ga6509637bddb202148260ec274274c878":[3,0,30,21],
 "vstspeaker_8h.html#ga65243b42de36e6437862e02afb83ca72":[3,0,30,17],
-"vstspeaker_8h.html#ga67879f0e2d9733cd1a725c10b6bd41ac":[3,0,30,222],
-"vstspeaker_8h.html#ga693724048ed9aa6572030b22a0c722d5":[3,0,30,372],
-"vstspeaker_8h.html#ga6a60a614644af6eb7185b1ca3c863146":[3,0,30,224],
-"vstspeaker_8h.html#ga6aa3de86b02b284c84c12c3e3a772a7d":[3,0,30,33],
-"vstspeaker_8h.html#ga6ad5cb522b313a38c2134c7706b73027":[3,0,30,276],
-"vstspeaker_8h.html#ga6ad6a86612666400c64e041499a0f0b4":[3,0,30,392],
-"vstspeaker_8h.html#ga6bb5e6215f1f55441b2d63e1da3d826d":[3,0,30,218],
-"vstspeaker_8h.html#ga6bbc13de7df2c9e8a7ff9950bd44ab39":[3,0,30,160],
-"vstspeaker_8h.html#ga6c9595514bf015a122ca14bdae89a6b1":[3,0,30,172],
-"vstspeaker_8h.html#ga6cadcafb161f16aa7edcc676604e4def":[3,0,30,168],
-"vstspeaker_8h.html#ga6d4ef306235169341804482b1be208fe":[3,0,30,363]
+"vstspeaker_8h.html#ga67879f0e2d9733cd1a725c10b6bd41ac":[3,0,30,222]
 };

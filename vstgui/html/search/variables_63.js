@@ -40,7 +40,7 @@ var searchData=
   ['currentchild',['currentChild',['../class_v_s_t_g_u_i_1_1_c_tab_view.html#adc79eeea30fdbbaa88f73ef0667e19f3',1,'VSTGUI::CTabView']]],
   ['currentdragview',['currentDragView',['../struct_v_s_t_g_u_i_1_1_c_view_container_drop_target.html#a71696a7d97aa733ed39095a3ae16abf6',1,'VSTGUI::CViewContainerDropTarget']]],
   ['currentindex',['currentIndex',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#aa9f724afe491a4aa3e3689f0a83f59c0',1,'VSTGUI::COptionMenu::currentIndex()'],['../class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#aa9f724afe491a4aa3e3689f0a83f59c0',1,'VSTGUI::UIDescriptionViewSwitchController::currentIndex()']]],
-  ['currentpos',['currentPos',['../class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html#a4401caa753d152ea2061b99f0761fc88',1,'VSTGUI::CBitmapPixelAccess::currentPos()'],['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a4401caa753d152ea2061b99f0761fc88',1,'VSTGUI::UTF8CharacterIterator::currentPos()']]],
+  ['currentpos',['currentPos',['../class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html#a4401caa753d152ea2061b99f0761fc88',1,'VSTGUI::CBitmapPixelAccess::currentPos()'],['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a23b7cbfd6f689337346f117a7b4d07af',1,'VSTGUI::UTF8CharacterIterator::currentPos()']]],
   ['currentstate',['currentState',['../struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl.html#a62d920a9a06d7ac5b8c98e175defd014',1,'VSTGUI::CDrawContext::Impl']]],
   ['currenttab',['currentTab',['../class_v_s_t_g_u_i_1_1_c_tab_view.html#a892f79cd72c099da161916e45f9c46bc',1,'VSTGUI::CTabView']]],
   ['currentview',['currentView',['../class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a7ce97521eac28552ba3b017a500f4511',1,'VSTGUI::CTooltipSupport']]],

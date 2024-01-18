@@ -1,5 +1,14 @@
 var NAVTREEINDEX1 =
 {
+"classSteinberg_1_1Vst_1_1ComponentBase.html#a60bbab8211ead54d50dbb672be410342":[2,0,6,13],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#a6e27175ee5edbf22022daefbf19aceeb":[2,0,6,8],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#a92accc56f3a2d30116b52b3f5948101b":[2,0,6,6],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#a992af1025ac7720ce29a87d926531e05":[2,0,6,1],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#aa3484053dd9d99fb072465f65ed3a58e":[2,0,6,5],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#aae7bbbf07353224bb0ba77a091b87d33":[2,0,6,4],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#ab3b1f8979c4bbe983e42010925959fd3":[2,0,6,0],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#ab599093d44aa82deac5e46dba5cb8d18":[2,0,6,7],
+"classSteinberg_1_1Vst_1_1ComponentBase.html#adbcbdfd9061c4f951db444f60d358b12":[2,0,6,12],
 "classSteinberg_1_1Vst_1_1ComponentBase.html#ae8391f8417d768adbf055876641276cb":[2,0,6,2],
 "classSteinberg_1_1Vst_1_1ComponentBase.html#af5db5c33db4c9fa57a18b66fb714830c":[2,0,6,3],
 "classSteinberg_1_1Vst_1_1ConnectionProxy.html":[4,0,0,1,12],
@@ -240,14 +249,5 @@ var NAVTREEINDEX1 =
 "classSteinberg_1_1Vst_1_1Parameter.html#a8a0c6d8c8afd49db1e9a6c0746002d35":[2,0,17,13],
 "classSteinberg_1_1Vst_1_1Parameter.html#a900f4c886d0ec3012445a0eda9bf89fb":[2,0,17,8],
 "classSteinberg_1_1Vst_1_1Parameter.html#aa0ff61e185c085fe7d7a34aed67fca38":[2,0,17,11],
-"classSteinberg_1_1Vst_1_1Parameter.html#abf2d66439b66c3c696d3c65ce53ca324":[2,0,17,10],
-"classSteinberg_1_1Vst_1_1Parameter.html#adbfcb4b21973f6480502111f899ff8da":[2,0,17,6],
-"classSteinberg_1_1Vst_1_1Parameter.html#ae19c2c90f8dec6b6c96ff91b584c2b11":[2,0,17,17],
-"classSteinberg_1_1Vst_1_1Parameter.html#af3783cde85022795e4e6cfc78e627262":[2,0,17,15],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html":[2,2,5],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a03027b3181599682f2c0e1d099276726":[2,2,5,11],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a2409ad0a1739756bcf2889765ee14938":[2,2,5,5],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a40eebc46ee9addec3780f266037c642f":[2,2,5,10],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a5bc38e228c5ff68f4193697272b90963":[2,2,5,6],
-"classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#a7ecbfd66175891f0d25dd3e70348e242":[2,2,5,8]
+"classSteinberg_1_1Vst_1_1Parameter.html#abf2d66439b66c3c696d3c65ce53ca324":[2,0,17,10]
 };

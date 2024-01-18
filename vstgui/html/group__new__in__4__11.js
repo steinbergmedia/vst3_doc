@@ -31,6 +31,7 @@ var group__new__in__4__11 =
       [ "is", "struct_v_s_t_g_u_i_1_1_modifiers.html#a45c259f4d38ac870d15e99b2ca9c0b4e", null ],
       [ "is", "struct_v_s_t_g_u_i_1_1_modifiers.html#ae927f8a2330174198266cc7b5a2163e5", null ],
       [ "operator!=", "struct_v_s_t_g_u_i_1_1_modifiers.html#aef22a9279e0b6624b7d51b1f24e80a33", null ],
+      [ "operator=", "struct_v_s_t_g_u_i_1_1_modifiers.html#a0be60afc7397240655e2fd8fb67b3c11", null ],
       [ "operator=", "struct_v_s_t_g_u_i_1_1_modifiers.html#a1e3ddde3129831fe0d7c57d8e61bc7ec", null ],
       [ "operator==", "struct_v_s_t_g_u_i_1_1_modifiers.html#a0b487af87f2c96caa83076471885f5f1", null ],
       [ "operator==", "struct_v_s_t_g_u_i_1_1_modifiers.html#ae7c0c5c65f6dedaeaa8396223bab1ee0", null ],
@@ -57,6 +58,7 @@ var group__new__in__4__11 =
       [ "isOther", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a5d31638004a221dcfe8946a844a5e39d", null ],
       [ "isRight", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a85f93b21dd887470891f83791c680537", null ],
       [ "operator!=", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a3b537941222a7b70b8bbca23a92151fc", null ],
+      [ "operator=", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a837782911f308d49728dc971a95cac88", null ],
       [ "operator==", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a7f5a42f69199a71c7429a77400057152", null ],
       [ "set", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a2d75fdf094bfcd1596a7787aa08b55ae", null ]
     ] ],

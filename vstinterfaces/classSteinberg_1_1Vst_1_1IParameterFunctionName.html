@@ -170,7 +170,7 @@ Example</h1>
 <div class="line">{</div>
 <div class="line">    ...</div>
 <div class="line">    <a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API <a class="code" href="classSteinberg_1_1Vst_1_1IParameterFunctionName.html#a6b55bd3794ff48f3fff15b77962bccc9" title="Gets for the given unitID the associated paramID to a function Name.">getParameterIDFromFunctionName</a> (<a class="code" href="group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed" title="unit identifier">UnitID</a> unitID, <a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> functionName,</div>
-<div class="line">                                                    <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier">Vst::ParamID</a>&amp; paramID) <span class="keyword">override</span>;</div>
+<div class="line">                                                    <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier: value in range [0, 0x7FFFFFFF].">Vst::ParamID</a>&amp; paramID) <span class="keyword">override</span>;</div>
 <div class="line">    ...</div>
 <div class="line"></div>
 <div class="line">    OBJ_METHODS (MyController, Vst::EditController)</div>
@@ -191,7 +191,7 @@ Example</h1>
 <div class="line"></div>
 <div class="line"><span class="comment">//------------------------------------------------------------------------</span></div>
 <div class="line"><a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API MyController::getParameterIDFromFunctionName (<a class="code" href="group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed" title="unit identifier">UnitID</a> unitID, <a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a></div>
-<div class="line">functionName, <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier">Vst::ParamID</a>&amp; paramID)</div>
+<div class="line">functionName, <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier: value in range [0, 0x7FFFFFFF].">Vst::ParamID</a>&amp; paramID)</div>
 <div class="line">{</div>
 <div class="line">    <span class="keyword">using namespace </span>Vst;</div>
 <div class="line"></div>
@@ -208,13 +208,13 @@ Example</h1>
 <div class="line">FUnknownPtr&lt;Vst::IParameterFunctionName&gt; functionName (mEditController-&gt;getIEditController ());</div>
 <div class="line"><span class="keywordflow">if</span> (functionName)</div>
 <div class="line">{</div>
-<div class="line">    <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier">Vst::ParamID</a> paramID;</div>
+<div class="line">    <a class="code" href="group__vst3typedef.html#ga1dac5893f4a5c27f986d4e51741b544c" title="parameter identifier: value in range [0, 0x7FFFFFFF].">Vst::ParamID</a> paramID;</div>
 <div class="line">    <span class="keywordflow">if</span> (functionName-&gt;getParameterIDFromFunctionName (kRootUnitId,</div>
 <div class="line">                                                      <a class="code" href="namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a95060bef8cd2b144050c98326dccf13d">Vst::FunctionNameType::kCompGainReduction</a>, paramID) == <a class="codeRef" doxygen="base.tag:../base/" href="../base/namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">    {</div>
 <div class="line">        <span class="comment">// paramID could be cached for performance issue</span></div>
-<div class="line">        <a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641" title="parameter value type">ParamValue</a> norm = mEditController-&gt;getIEditController ()-&gt;getParamNormalized (paramID);</div>
-<div class="line">        <a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641" title="parameter value type">ParamValue</a> plain = mEditController-&gt;getIEditController ()-&gt;normalizedParamToPlain (paramID, norm);</div>
+<div class="line">        <a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641" title="parameter value type: normalized value =&gt; [0.0, 1.0]">ParamValue</a> norm = mEditController-&gt;getIEditController ()-&gt;getParamNormalized (paramID);</div>
+<div class="line">        <a class="code" href="group__vst3typedef.html#ga11508dccaa352a24d0ae6585a93f4641" title="parameter value type: normalized value =&gt; [0.0, 1.0]">ParamValue</a> plain = mEditController-&gt;getIEditController ()-&gt;normalizedParamToPlain (paramID, norm);</div>
 <div class="line">        <span class="comment">// plain is something like -6 (-6dB)</span></div>
 <div class="line">    }</div>
 <div class="line">}</div>
@@ -295,7 +295,7 @@ Example</h1>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2023 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2024 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

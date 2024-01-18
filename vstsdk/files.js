@@ -42,6 +42,9 @@ var files =
       [ "IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost" ],
       [ "HostDataExchangeHandler", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html", "structSteinberg_1_1Vst_1_1HostDataExchangeHandler" ]
     ] ],
+    [ "memoryibstream.h", "memoryibstream_8h.html", [
+      [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", "classSteinberg_1_1ResizableMemoryIBStream" ]
+    ] ],
     [ "memorystream.h", "memorystream_8h.html", null ],
     [ "MidiIO.h", "MidiIO_8h.html", [
       [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO" ]

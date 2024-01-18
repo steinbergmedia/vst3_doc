@@ -35,6 +35,7 @@ var annotated =
         [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", "classSteinberg_1_1Vst_1_1SystemTime" ]
       ] ],
       [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", "namespaceSteinberg_1_1OneReaderOneWriter" ],
+      [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", "classSteinberg_1_1ResizableMemoryIBStream" ],
       [ "ObjCVariable", "structSteinberg_1_1ObjCVariable.html", "structSteinberg_1_1ObjCVariable" ],
       [ "ObjCInstance", "structSteinberg_1_1ObjCInstance.html", "structSteinberg_1_1ObjCInstance" ],
       [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", "structSteinberg_1_1ObjCClassBuilder" ]

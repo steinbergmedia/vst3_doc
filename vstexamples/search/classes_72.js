@@ -7,6 +7,7 @@ var searchData=
   ['representationinfo',['RepresentationInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html',1,'Steinberg::Vst']]],
   ['repsychocontroller',['RePsychoController',['../classSteinberg_1_1Vst_1_1mda_1_1RePsychoController.html',1,'Steinberg::Vst::mda']]],
   ['repsychoprocessor',['RePsychoProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html',1,'Steinberg::Vst::mda']]],
+  ['resizablememoryibstream',['ResizableMemoryIBStream',['../../vstsdk/classSteinberg_1_1ResizableMemoryIBStream.html',1,'Steinberg']]],
   ['rezfiltercontroller',['RezFilterController',['../classSteinberg_1_1Vst_1_1mda_1_1RezFilterController.html',1,'Steinberg::Vst::mda']]],
   ['rezfilterprocessor',['RezFilterProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html',1,'Steinberg::Vst::mda']]],
   ['ringbuffer',['RingBuffer',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],

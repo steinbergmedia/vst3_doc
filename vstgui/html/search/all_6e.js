@@ -11,7 +11,7 @@ var searchData=
   ['newview',['newView',['../class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a6bf5eb681f9cdfb7bb4c8ccbd7fe1afa',1,'VSTGUI::Animation::ExchangeViewAnimation']]],
   ['newviewalphavalueend',['newViewAlphaValueEnd',['../class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a18d4421a8c17e6db4b80c548c81d1a24',1,'VSTGUI::Animation::ExchangeViewAnimation']]],
   ['newwithstring',['newWithString',['../namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803',1,'VSTGUI::String']]],
-  ['next',['next',['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#aea0742f4dc1c44734017c5b0c21d0413',1,'VSTGUI::UTF8CharacterIterator::next()'],['../class_v_s_t_g_u_i_1_1_c_drag_container_helper.html#a6d9df5bf575a3c3b18430be1e354e876',1,'VSTGUI::CDragContainerHelper::next()']]],
+  ['next',['next',['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a5aba7c85855db6a3b5f9ad1eaabe1532',1,'VSTGUI::UTF8CharacterIterator::next()'],['../class_v_s_t_g_u_i_1_1_c_drag_container_helper.html#a6d9df5bf575a3c3b18430be1e354e876',1,'VSTGUI::CDragContainerHelper::next()']]],
   ['nextpixmap',['nextPixmap',['../class_v_s_t_g_u_i_1_1_c_auto_animation.html#a7ca3bf73f0d19f84079ddd869582f150',1,'VSTGUI::CAutoAnimation']]],
   ['nodes',['nodes',['../struct_v_s_t_g_u_i_1_1_u_i_description_1_1_impl.html#a1c0237c5e67c91de1eade505b52d77a3',1,'VSTGUI::UIDescription::Impl']]],
   ['noevent',['noEvent',['../namespace_v_s_t_g_u_i.html#a79a5ae6609212d031b281c90d9a1ecd6',1,'VSTGUI']]],

@@ -147,6 +147,7 @@ var searchData=
   ['mdatrackercontroller_2eh',['mdaTrackerController.h',['../mdaTrackerController_8h.html',1,'']]],
   ['mdatrackerprocessor_2ecpp',['mdaTrackerProcessor.cpp',['../mdaTrackerProcessor_8cpp.html',1,'']]],
   ['mdatrackerprocessor_2eh',['mdaTrackerProcessor.h',['../mdaTrackerProcessor_8h.html',1,'']]],
+  ['memoryibstream_2eh',['memoryibstream.h',['../../vstsdk/memoryibstream_8h.html',1,'']]],
   ['memorystream_2eh',['memorystream.h',['../../vstsdk/memorystream_8h.html',1,'']]],
   ['midiio_2eh',['MidiIO.h',['../../vstsdk/MidiIO_8h.html',1,'']]],
   ['midiio_2emm',['MidiIO.mm',['../../vstsdk/MidiIO_8mm.html',1,'']]],

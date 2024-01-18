@@ -143,7 +143,7 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>List of command-line option descriptions. </p>
-<p>Use addOptions(const std::string&amp;) to add <a class="el" href="classSteinberg_1_1CommandLine_1_1Descriptions.html" title="List of command-line option descriptions.">Descriptions</a>. </p>
+<p>Use addOptions (const std::string&amp;) to add <a class="el" href="classSteinberg_1_1CommandLine_1_1Descriptions.html" title="List of command-line option descriptions.">Descriptions</a>. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a class="anchor" id="ab27a3d9559b5d6fddcbeb9d1474fd349"></a>
 <div class="memitem">
@@ -170,8 +170,8 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Sets the command-line tool caption and starts adding <a class="el" href="classSteinberg_1_1CommandLine_1_1Descriptions.html" title="List of command-line option descriptions.">Descriptions</a>. </p>
-<p><b>Usage example:</b> </p>
-<div class="fragment"><div class="line">CommandLine::Descriptions desc;</div>
+<pre class="fragment">&lt;b&gt;Usage example:&lt;/b&gt;
+</pre> <div class="fragment"><div class="line">CommandLine::Descriptions desc;</div>
 <div class="line">desc.addOptions (<span class="stringliteral">&quot;myTool&quot;</span>)           <span class="comment">// Set caption to &quot;myTool&quot;</span></div>
 <div class="line">    (<span class="stringliteral">&quot;help&quot;</span>, <span class="stringliteral">&quot;produce help message&quot;</span>) <span class="comment">// add switch -help</span></div>
 <div class="line">    (<span class="stringliteral">&quot;opt1&quot;</span>, <span class="keywordtype">string</span>(), <span class="stringliteral">&quot;option 1&quot;</span>)   <span class="comment">// add string option -opt1</span></div>
@@ -290,7 +290,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Add a new switch. </p>
 <p>Only</p>
-<p>Returning a reference to *this, enables chaining of calls to operator()(const std::string&amp;, const std::string&amp;). </p>
+<p>Returning a reference to *this, enables chaining of calls to operator()(const std::string&amp;, const std::string&amp;).</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramdir">[in]</td><td class="paramname">name</td><td>of the added option. </td></tr>
@@ -383,7 +383,7 @@ Public Member Functions</h2></td></tr>
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2023 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;2024 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
 </body>

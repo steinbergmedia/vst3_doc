@@ -222,7 +222,7 @@ var searchData=
   ['getmultiframebitmaprange',['getMultiFrameBitmapRange',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a95105ff9a9cba7ae57f50c261ec59a4b',1,'VSTGUI::MultiFrameBitmapView']]],
   ['getmultiframebitmaprangelength',['getMultiFrameBitmapRangeLength',['../class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a0fa0bf81b75aa9c4df87db57620dc95a',1,'VSTGUI::MultiFrameBitmapView']]],
   ['getmultiframedesc',['getMultiFrameDesc',['../class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html#a697a5151888674ab85ffc7c284ee685a',1,'VSTGUI::CMultiFrameBitmap']]],
-  ['getname',['getName',['../class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#a8c6aec1ef17175cacf21384b04360420',1,'VSTGUI::Animation::FinishedMessage::getName()'],['../class_v_s_t_g_u_i_1_1_c_font_desc.html#a9a2998915c15190196b1131ac28ec33e',1,'VSTGUI::CFontDesc::getName()']]],
+  ['getname',['getName',['../class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html#ad20ce96bc400e4f3113875f242150b45',1,'VSTGUI::Animation::FinishedMessage::getName()'],['../class_v_s_t_g_u_i_1_1_c_font_desc.html#a9a2998915c15190196b1131ac28ec33e',1,'VSTGUI::CFontDesc::getName()']]],
   ['getnbentries',['getNbEntries',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#adee7672985693efe9c38a8897f12936d',1,'VSTGUI::COptionMenu']]],
   ['getnbitemspercolumn',['getNbItemsPerColumn',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#a7137d45b3d98bfc6918cff0ca2877c0e',1,'VSTGUI::COptionMenu']]],
   ['getnbled',['getNbLed',['../class_v_s_t_g_u_i_1_1_c_vu_meter.html#ae8f3f2ba73bb2b38dd23ae9a8b540a20',1,'VSTGUI::CVuMeter']]],

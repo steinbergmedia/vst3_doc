@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="base.tag$classSteinberg_1_1FUnknown.html" title="FUnknown" alt="" coords="5,1325,87,1351"/>
+<area shape="rect" id="node1" href="base.tag$classSteinberg_1_1FUnknown.html" title="FUnknown" alt="" coords="5,1351,87,1376"/>
 <area shape="rect" id="node2" href="base.tag$classSteinberg_1_1IPluginBase.html" title="IPluginBase" alt="" coords="200,29,288,55"/>
 <area shape="rect" id="node5" href="$classSteinberg_1_1ITest.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45; &#160;ITest interface declaration..." alt="" coords="221,79,267,104"/>
 <area shape="rect" id="node6" href="$classSteinberg_1_1ITestFactory.html" title="Class factory that any testable module defines for creating tests &#160;that will be executed from the hos..." alt="" coords="201,128,287,153"/>
@@ -42,18 +42,19 @@
 <area shape="rect" id="node43" href="$classSteinberg_1_1Vst_1_1IProcessContextRequirements.html" title="Extended IAudioProcessor interface for a component: Vst::IProcessContextRequirements." alt="" coords="150,1967,338,1992"/>
 <area shape="rect" id="node44" href="$classSteinberg_1_1Vst_1_1IProgramListData.html" title="Component extension to access program list data: Vst::IProgramListData." alt="" coords="185,2016,303,2041"/>
 <area shape="rect" id="node45" href="$classSteinberg_1_1Vst_1_1IProgress.html" title="Extended host callback interface for an edit controller: Vst::IProgress." alt="" coords="207,2065,281,2091"/>
-<area shape="rect" id="node46" href="$classSteinberg_1_1Vst_1_1IStreamAttributes.html" title="Meta attributes of a stream: Vst::IStreamAttributes." alt="" coords="187,2115,301,2140"/>
-<area shape="rect" id="node47" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title="Test Helper." alt="" coords="185,2164,303,2189"/>
-<area shape="rect" id="node49" href="$classSteinberg_1_1Vst_1_1IUnitData.html" title="Component extension to access unit data: Vst::IUnitData." alt="" coords="207,2213,281,2239"/>
-<area shape="rect" id="node50" href="$classSteinberg_1_1Vst_1_1IUnitHandler.html" title="Host callback for unit support: Vst::IUnitHandler." alt="" coords="199,2263,289,2288"/>
-<area shape="rect" id="node51" href="$classSteinberg_1_1Vst_1_1IUnitHandler2.html" title="Host callback for extended unit support: Vst::IUnitHandler2." alt="" coords="195,2312,293,2337"/>
-<area shape="rect" id="node52" href="$classSteinberg_1_1Vst_1_1IUnitInfo.html" title="Edit controller extension to describe the plug&#45;in structure: Vst::IUnitInfo." alt="" coords="211,2361,277,2387"/>
-<area shape="rect" id="node53" href="$classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html" title="VST 3 to AAX Wrapper interface: Vst::IVst3ToAAXWrapper." alt="" coords="177,2411,311,2436"/>
-<area shape="rect" id="node54" href="$classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html" title="VST 3 to AU Wrapper interface: Vst::IVst3ToAUWrapper." alt="" coords="181,2460,307,2485"/>
-<area shape="rect" id="node55" href="$classSteinberg_1_1Vst_1_1IVst3ToVst2Wrapper.html" title="VST 3 to VST 2 Wrapper interface: Vst::IVst3ToVst2Wrapper." alt="" coords="177,2509,311,2535"/>
-<area shape="rect" id="node56" href="$classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html" title="Wrapper MPE Support interface: Vst::IVst3WrapperMPESupport." alt="" coords="161,2559,327,2584"/>
-<area shape="rect" id="node57" href="$classSteinberg_1_1Vst_1_1IXmlRepresentationController.html" title="Extended plug&#45;in interface IEditController for a component: Vst::IXmlRepresentationController." alt="" coords="152,2608,336,2633"/>
+<area shape="rect" id="node46" href="$classSteinberg_1_1Vst_1_1IRemapParamID.html" title="Extended IEditController interface for a component." alt="" coords="187,2115,301,2140"/>
+<area shape="rect" id="node47" href="$classSteinberg_1_1Vst_1_1IStreamAttributes.html" title="Meta attributes of a stream: Vst::IStreamAttributes." alt="" coords="187,2164,301,2189"/>
+<area shape="rect" id="node48" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title="Test Helper." alt="" coords="185,2213,303,2239"/>
+<area shape="rect" id="node50" href="$classSteinberg_1_1Vst_1_1IUnitData.html" title="Component extension to access unit data: Vst::IUnitData." alt="" coords="207,2263,281,2288"/>
+<area shape="rect" id="node51" href="$classSteinberg_1_1Vst_1_1IUnitHandler.html" title="Host callback for unit support: Vst::IUnitHandler." alt="" coords="199,2312,289,2337"/>
+<area shape="rect" id="node52" href="$classSteinberg_1_1Vst_1_1IUnitHandler2.html" title="Host callback for extended unit support: Vst::IUnitHandler2." alt="" coords="195,2361,293,2387"/>
+<area shape="rect" id="node53" href="$classSteinberg_1_1Vst_1_1IUnitInfo.html" title="Edit controller extension to describe the plug&#45;in structure: Vst::IUnitInfo." alt="" coords="211,2411,277,2436"/>
+<area shape="rect" id="node54" href="$classSteinberg_1_1Vst_1_1IVst3ToAAXWrapper.html" title="VST 3 to AAX Wrapper interface: Vst::IVst3ToAAXWrapper." alt="" coords="177,2460,311,2485"/>
+<area shape="rect" id="node55" href="$classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html" title="VST 3 to AU Wrapper interface: Vst::IVst3ToAUWrapper." alt="" coords="181,2509,307,2535"/>
+<area shape="rect" id="node56" href="$classSteinberg_1_1Vst_1_1IVst3ToVst2Wrapper.html" title="VST 3 to VST 2 Wrapper interface: Vst::IVst3ToVst2Wrapper." alt="" coords="177,2559,311,2584"/>
+<area shape="rect" id="node57" href="$classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html" title="Wrapper MPE Support interface: Vst::IVst3WrapperMPESupport." alt="" coords="161,2608,327,2633"/>
+<area shape="rect" id="node58" href="$classSteinberg_1_1Vst_1_1IXmlRepresentationController.html" title="Extended plug&#45;in interface IEditController for a component: Vst::IXmlRepresentationController." alt="" coords="152,2657,336,2683"/>
 <area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1IComponent.html" title="Component base interface: Vst::IComponent." alt="" coords="419,5,509,31"/>
 <area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1IEditController.html" title="Edit controller component interface: Vst::IEditController." alt="" coords="414,55,514,80"/>
-<area shape="rect" id="node48" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="401,2164,527,2189"/>
+<area shape="rect" id="node49" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider2.html" title="Test Helper extension." alt="" coords="401,2213,527,2239"/>
 </map>

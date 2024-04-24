@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a699787679fa0c570221c8667007b8d31":[2,0,0,1,1,24,0],
 "classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a7d9642a22f48a9f5597bd1659744d882":[2,0,0,1,1,24,1],
 "classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,1,1,24,5],
 "classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html#aeb78d794ce0bc5812c526a1cc2083d5d":[2,0,0,1,1,24,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html":[2,0,0,1,1,23],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a00a332249e4d58732f3e201c8319c80b":[2,0,0,1,1,23,23],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a0b8cfdb941d0485219db6afc073f58e3":[2,0,0,1,1,23,15],
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a198c465c948bd262682a0109e9d16378":[2,0,0,1,1,23,21]
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a198c465c948bd262682a0109e9d16378":[2,0,0,1,1,23,21],
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,23,4]
 };

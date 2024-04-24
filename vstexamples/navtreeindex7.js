@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,50,6],
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a46336872a13f7624153028a309558b97":[2,0,0,1,1,50,17],
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,50,3],
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a4fc43e5d31b41de090f95e23a406e205":[2,0,0,1,1,50,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,65,3],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#a4dae123b5697706651d9ff20c9614f63":[2,0,0,1,1,65,2],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#a813cbf9dee7a64708f56160974dd37b0":[2,0,0,1,1,65,4],
-"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,1,1,65,5]
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,1,1,65,5],
+"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#acbd0bddc8a0b209adfe907e208f1ff8c":[2,0,0,1,1,65,0]
 };

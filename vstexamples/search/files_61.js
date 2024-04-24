@@ -21,7 +21,6 @@ var searchData=
   ['againcontroller_2ecpp',['againcontroller.cpp',['../againcontroller_8cpp.html',1,'']]],
   ['againcontroller_2eh',['againcontroller.h',['../againcontroller_8h.html',1,'']]],
   ['againentry_2ecpp',['againentry.cpp',['../againentry_8cpp.html',1,'']]],
-  ['againentry_5fvst2_2ecpp',['againentry_vst2.cpp',['../againentry__vst2_8cpp.html',1,'']]],
   ['againparamids_2eh',['againparamids.h',['../againparamids_8h.html',1,'']]],
   ['againprocess_2eh',['againprocess.h',['../againprocess_8h.html',1,'']]],
   ['againsidechain_2ecpp',['againsidechain.cpp',['../againsidechain_8cpp.html',1,'']]],

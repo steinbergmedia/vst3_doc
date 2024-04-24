@@ -2,17 +2,17 @@
 <tagfile>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugview_8h</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h</filename>
   </compound>
   <compound kind="file">
     <name>itest.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/test/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>itest_8h</filename>
     <class kind="class">Steinberg::ITest</class>
     <class kind="class">Steinberg::ITestResult</class>
@@ -28,7 +28,7 @@
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -37,7 +37,7 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">ivstcomponent.h</includes>
     <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" imported="no">vstspeaker.h</includes>
@@ -479,7 +479,7 @@
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
@@ -487,7 +487,7 @@
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -662,7 +662,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -844,7 +844,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -855,7 +855,7 @@
   </compound>
   <compound kind="file">
     <name>ivstdataexchange.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstdataexchange_8h</filename>
     <class kind="struct">Steinberg::Vst::DataExchangeBlock</class>
     <class kind="class">Steinberg::Vst::IDataExchangeHandler</class>
@@ -885,7 +885,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -988,6 +988,12 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kParamIDMappingChanged</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <type>@</type>
       <name>kReloadComponent</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
@@ -1064,6 +1070,13 @@
       <anchor>a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9</anchor>
       <arglist></arglist>
     </member>
+    <member kind="enumvalue">
+      <type>@</type>
+      <name>kParamIDMappingChanged</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="enumeration">
       <type></type>
       <name>KnobModes</name>
@@ -1120,7 +1133,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstevents_8h</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" imported="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -1170,7 +1183,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" imported="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -1189,7 +1202,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -1198,7 +1211,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -1207,7 +1220,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h</filename>
     <namespace>Steinberg::Vst</namespace>
     <member kind="enumeration">
@@ -2052,7 +2065,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidilearn.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidilearn_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
@@ -2060,7 +2073,7 @@
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -2304,7 +2317,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -2313,7 +2326,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterfunctionname.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterfunctionname_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
@@ -2392,7 +2405,7 @@
   </compound>
   <compound kind="file">
     <name>ivstphysicalui.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstphysicalui_8h</filename>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" imported="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
     <class kind="struct">Steinberg::Vst::PhysicalUIMap</class>
@@ -2481,7 +2494,7 @@
   </compound>
   <compound kind="file">
     <name>ivstpluginterfacesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstpluginterfacesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
@@ -2489,7 +2502,7 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
@@ -2497,7 +2510,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" imported="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -2572,7 +2585,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -2581,8 +2594,16 @@
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
+    <name>ivstremapparamid.h</name>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <filename>ivstremapparamid_8h</filename>
+    <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
+    <class kind="class">Steinberg::Vst::IRemapParamID</class>
+    <namespace>Steinberg::Vst</namespace>
+  </compound>
+  <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -3269,7 +3290,7 @@
   </compound>
   <compound kind="file">
     <name>ivsttestplugprovider.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsttestplugprovider_8h</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" imported="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="ivsteditcontroller_8h" name="ivsteditcontroller.h" local="yes" imported="no">pluginterfaces/vst/ivsteditcontroller.h</includes>
@@ -3279,7 +3300,7 @@
   </compound>
   <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstunits_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -3293,7 +3314,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg::Vst</namespace>
@@ -5328,12 +5349,12 @@
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h</filename>
   </compound>
   <compound kind="file">
     <name>vstspeaker.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstspeaker_8h</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" imported="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg::Vst</namespace>
@@ -8155,7 +8176,7 @@
   </compound>
   <compound kind="file">
     <name>vsttypes.h</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vsttypes_8h</filename>
     <namespace>Steinberg::Vst</namespace>
     <member kind="define">
@@ -8191,6 +8212,13 @@
       <name>VST_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_3_7_11_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a81da5801773d5e380b67d049650b72b4</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -8807,6 +8835,7 @@
     <class kind="struct">Steinberg::Vst::FrameRate</class>
     <class kind="struct">Steinberg::Vst::Chord</class>
     <class kind="struct">Steinberg::Vst::ProcessContext</class>
+    <class kind="class">Steinberg::Vst::IRemapParamID</class>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
     <class kind="class">Steinberg::Vst::IXmlRepresentationController</class>
     <class kind="class">Steinberg::Vst::ITestPlugProvider</class>
@@ -12170,6 +12199,25 @@
       <arglist></arglist>
     </member>
   </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::IRemapParamID</name>
+    <filename>classSteinberg_1_1Vst_1_1IRemapParamID.html</filename>
+    <base>Steinberg::FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>getCompatibleParamID</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IRemapParamID.html</anchorfile>
+      <anchor>a8ccb7e4738dea0f31fad680fe7bdf860</anchor>
+      <arglist>(const TUID pluginToReplaceUID, ParamID oldParamID, ParamID &amp;newParamID)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IRemapParamID.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
   <compound kind="struct">
     <name>Steinberg::Vst::RepresentationInfo</name>
     <filename>structSteinberg_1_1Vst_1_1RepresentationInfo.html</filename>
@@ -12660,14 +12708,14 @@
   </compound>
   <compound kind="dir">
     <name>gui</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>dir_2b55989507b85f9714d7502e3b031586.html</filename>
     <file>iplugview.h</file>
     <file>iplugviewcontentscalesupport.h</file>
   </compound>
   <compound kind="dir">
     <name>pluginterfaces</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/</path>
     <filename>dir_a16602e771dbe98bb8f2594e31082617.html</filename>
     <dir>gui</dir>
     <dir>test</dir>
@@ -12675,13 +12723,13 @@
   </compound>
   <compound kind="dir">
     <name>test</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/test/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>dir_d97542da2fcf294e7d73be8ba6c1a565.html</filename>
     <file>itest.h</file>
   </compound>
   <compound kind="dir">
     <name>vst</name>
-    <path>/Users/buildserver/Builddata/re/433396905/b/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/768d8519ca96f8a0/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>dir_2fcc4ce6f11e0f407f9d20609d32c488.html</filename>
     <file>ivstattributes.h</file>
     <file>ivstaudioprocessor.h</file>
@@ -12705,6 +12753,7 @@
     <file>ivstplugview.h</file>
     <file>ivstprefetchablesupport.h</file>
     <file>ivstprocesscontext.h</file>
+    <file>ivstremapparamid.h</file>
     <file>ivstrepresentation.h</file>
     <file>ivsttestplugprovider.h</file>
     <file>ivstunits.h</file>

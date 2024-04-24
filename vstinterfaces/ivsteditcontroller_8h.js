@@ -23,7 +23,8 @@ var ivsteditcontroller_8h =
       [ "kIoTitlesChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5abf3d2b0a3519f44507b88691c0e6555e", null ],
       [ "kPrefetchableSupportChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5a2f4bc9de12259020c78fa4225f1d90b3", null ],
       [ "kRoutingInfoChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d", null ],
-      [ "kKeyswitchChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9", null ]
+      [ "kKeyswitchChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9", null ],
+      [ "kParamIDMappingChanged", "ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa", null ]
     ] ],
     [ "KnobModes", "ivsteditcontroller_8h.html#aaf58222f7d58268cdbe5849fd0670b39", [
       [ "kCircularMode", "ivsteditcontroller_8h.html#aaf58222f7d58268cdbe5849fd0670b39a261944b6b143c6fc78fa1e9c783200ea", null ],

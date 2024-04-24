@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#accb2b76127645a7a8ec171c7b220ce8d":[2,0,0,1,2,2,5],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#aeb78d794ce0bc5812c526a1cc2083d5d":[2,0,0,1,2,2,4],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#af4d16dae99ff1010b80359cb70500e31":[2,0,0,1,2,2,9],
 "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html":[2,0,0,1,2,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a057fc4070dc2a34eea400b9a5f7c2573":[2,0,0,1,17,3],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a2c940dd02450b042f786670ea167a9c6":[2,0,0,1,17,7],
 "classSteinberg_1_1Vst_1_1VoiceProcessor.html#a507479b90e66719ae962ad5b81e76e0d":[2,0,0,1,17,5],
-"classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13":[2,0,0,1,17,2]
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#a6b98eb31cf38ba96a28b303c13c64e13":[2,0,0,1,17,2],
+"classSteinberg_1_1Vst_1_1VoiceProcessor.html#aa0f1925c785d52e33d430e24a55cc7e4":[2,0,0,1,17,1]
 };

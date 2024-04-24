@@ -197,6 +197,7 @@ var logevents_8h =
       [ "kLogIdIComponentHandlerSystemTimeSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018", null ],
       [ "kLogIdIDataExchangeHandlerSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3", null ],
       [ "kLogIdIDataExchangeReceiverSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f", null ],
+      [ "kLogIdIRemapParamIDSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d", null ],
       [ "kLogIdInformLatencyChanged", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aea5987edd85d670fe157a6bde424efb9", null ],
       [ "kNumLogEvents", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae", null ]
     ] ]

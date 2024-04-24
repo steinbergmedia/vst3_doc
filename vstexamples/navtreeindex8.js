@@ -1,6 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#acbd0bddc8a0b209adfe907e208f1ff8c":[2,0,0,1,1,65,0],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html#af178bffd48e73128237191204ea01c41":[2,0,0,1,1,65,1],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html":[2,0,0,1,1,66],
 "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a00a332249e4d58732f3e201c8319c80b":[2,0,0,1,1,66,23],
@@ -249,5 +248,6 @@ var NAVTREEINDEX8 =
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#af04b31ac17a5eb191df423eac8d5c776":[2,0,2,2,14],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#af9a9c3ab456206ddd45c4df67fa84e39":[2,0,2,2,17],
 "classVSTGUI_1_1PitchNamesDataBrowserSource.html#aff1cdebbc921ab91f3f98b9f91a9a32f":[2,0,2,2,8],
-"classes.html":[2,1]
+"classes.html":[2,1],
+"doc_8h.html":[3,0,23]
 };

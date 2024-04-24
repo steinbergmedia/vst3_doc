@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a11784160b1e993a66a2166bfc11a4359":[2,0,0,1,1,35,20],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16b31222df0f65f2f673cb819279d694":[2,0,0,1,1,35,13],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16c6b83c21dc8f1d712723bac6968670":[2,0,0,1,1,35,22],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,35,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a23919a6521508fe0d55a3666119b22be":[2,0,0,1,1,50,16],
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a251b7e39e142dcfef12e35f6deedb274":[2,0,0,1,1,50,11],
 "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,50,4],
-"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,50,7]
+"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,50,7],
+"classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,50,6]
 };

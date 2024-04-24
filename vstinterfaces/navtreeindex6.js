@@ -1,17 +1,21 @@
 var NAVTREEINDEX6 =
 {
+"namespaceSteinberg_1_1Vst_1_1CurveType.html":[2,0,0,1,5],
+"namespaceSteinberg_1_1Vst_1_1CurveType.html":[1,0,0,1,5],
+"namespaceSteinberg_1_1Vst_1_1FunctionNameType.html":[2,0,0,1,3],
+"namespaceSteinberg_1_1Vst_1_1FunctionNameType.html":[1,0,0,1,3],
 "namespaceSteinberg_1_1Vst_1_1LayerType.html":[1,0,0,1,4],
 "namespaceSteinberg_1_1Vst_1_1LayerType.html":[2,0,0,1,4],
-"namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html":[2,0,0,1,14],
 "namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html":[1,0,0,1,14],
+"namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html":[2,0,0,1,14],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html":[1,0,0,1,12],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html":[2,0,0,1,12],
 "namespaceSteinberg_1_1Vst_1_1MusicalStyle.html":[1,0,0,1,13],
 "namespaceSteinberg_1_1Vst_1_1MusicalStyle.html":[2,0,0,1,13],
 "namespaceSteinberg_1_1Vst_1_1PlugType.html":[1,0,0,1,0],
 "namespaceSteinberg_1_1Vst_1_1PlugType.html":[2,0,0,1,0],
-"namespaceSteinberg_1_1Vst_1_1PresetAttributes.html":[1,0,0,1,10],
 "namespaceSteinberg_1_1Vst_1_1PresetAttributes.html":[2,0,0,1,10],
+"namespaceSteinberg_1_1Vst_1_1PresetAttributes.html":[1,0,0,1,10],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html":[1,0,0,1,15],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html":[2,0,0,1,15],
 "namespaceSteinberg_1_1Vst_1_1StateType.html":[1,0,0,1,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03ab5d7cb7ea333235f0050b65f6865c420":[2,0,0,1,81,0,7],
 "structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03ae43d6ac7d9f03c335ac275483cd8f303":[2,0,0,1,81,0,1],
 "structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03aede1cd4db7eec7e4680d7cc50dffc965":[2,0,0,1,81,0,8],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03af574e5e5705f9295d830c4b0de3c3b11":[2,0,0,1,81,0,4],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#a8a97acf6c5676d31de6ceac2483ecf3a":[2,0,0,1,81,13],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#a9081efe983722f59098a542b149bb07f":[2,0,0,1,81,7],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#aa442da3063c73885d2f386deb479d870":[2,0,0,1,81,5],
-"structSteinberg_1_1Vst_1_1ProcessContext.html#ac7c0bf22aeb016dfe8143bd1f261585a":[2,0,0,1,81,11]
+"structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03af574e5e5705f9295d830c4b0de3c3b11":[2,0,0,1,81,0,4]
 };

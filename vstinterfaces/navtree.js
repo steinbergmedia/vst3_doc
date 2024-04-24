@@ -40,15 +40,15 @@ var NAVTREEINDEX =
 [
 ".html",
 "classSteinberg_1_1Vst_1_1IProgress.html#a7da93484ec5338cb5b7cfa586b2a4387",
-"group__musicalInstrument.html#gae18de76efc605860475b6323ef233cc8",
-"group__speakerArrangements.html#ga3160617565b0ad36d34a025fe119bbb6",
-"group__speakerArrangements.html#gac672a7aa5cabd6a5d4c4441e6aadc925",
-"ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5af5308f6f5d92e718ccbd4cb0ca414907",
-"namespaceSteinberg_1_1Vst_1_1LayerType.html",
-"structSteinberg_1_1Vst_1_1ProcessContext.html#af46e5ad510319f6dd5687519ae47c76b",
-"vstpresetkeys_8h.html#gaaa8a189a2e24961319d1e26349aa8a9a",
-"vstspeaker_8h.html#ga693724048ed9aa6572030b22a0c722d5",
-"vsttypes_8h.html#a6c479776692cf749f41bd7bbcb0b79cd"
+"group__musicalInstrument.html#gad3c91ff5b7e51b5ed71479994af1f2b0",
+"group__speakerArrangements.html#ga30a288eb79dfa6b08afb569234e831d2",
+"group__speakerArrangements.html#gac5315e218c209f891d18ec25effa0fd1",
+"ivsteditcontroller_8h.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9",
+"namespaceSteinberg_1_1Vst_1_1CurveType.html",
+"structSteinberg_1_1Vst_1_1ProcessContext.html#a8a97acf6c5676d31de6ceac2483ecf3a",
+"vstpresetkeys_8h.html#gaa8427782100432cfaf837a729195f1ba",
+"vstspeaker_8h.html#ga646cd09e52190d60f2d4ca83faf915aa",
+"vsttypes_8h.html#a4176eccff262ac21393276308eda6ffc"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

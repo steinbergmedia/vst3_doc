@@ -194,6 +194,7 @@ var searchData=
   ['klogidiprefetchablesupportsupported',['kLogIdIPrefetchableSupportSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa6e9ee7941dbfaa2697fb36147470c67',1,'logevents.h']]],
   ['klogidiprocesscontextrequirementssupported',['kLogIdIProcessContextRequirementsSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46ad930eef435e7c1251e1bbf3a072b1aad',1,'logevents.h']]],
   ['klogidiprogresssupported',['kLogIdIProgressSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46aeccac95af4f90b8e1c75a232cc79fad8',1,'logevents.h']]],
+  ['klogidiremapparamidsupported',['kLogIdIRemapParamIDSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d',1,'logevents.h']]],
   ['klogidixmlrepresentationcontrollersupported',['kLogIdIXmlRepresentationControllerSupported',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1a7d888565f939d607393df7ac38f438',1,'logevents.h']]],
   ['klogidnobusactivated',['kLogIdNoBusActivated',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a98609a46c1def5110dfe1f33c8fa6c5a',1,'logevents.h']]],
   ['klogidnoteexpressvalnotnormalized',['kLogIdNoteExpressValNotNormalized',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0575a52841d1413897ba65aa355f3169',1,'logevents.h']]],

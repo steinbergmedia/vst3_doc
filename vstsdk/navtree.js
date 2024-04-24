@@ -55,7 +55,7 @@ var NAVTREEINDEX =
 "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a65dae22538ad6a22779884405a4490ed",
 "functions_0x70.html",
 "structSteinberg_1_1Vst_1_1MPE_1_1Setup.html#af8018e5cc3b8a139129c2b56514f1950",
-"vstpresetfile_8h.html#a6742d03aa1e93ba39b234d0ea402ee6d"
+"vstpresetfile_8h.html#a6742d03aa1e93ba39b234d0ea402ee6da714cee5be2553879ce58605d04b77319"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

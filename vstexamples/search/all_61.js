@@ -71,7 +71,6 @@ var searchData=
   ['againcontroller_2ecpp',['againcontroller.cpp',['../againcontroller_8cpp.html',1,'']]],
   ['againcontroller_2eh',['againcontroller.h',['../againcontroller_8h.html',1,'']]],
   ['againentry_2ecpp',['againentry.cpp',['../againentry_8cpp.html',1,'']]],
-  ['againentry_5fvst2_2ecpp',['againentry_vst2.cpp',['../againentry__vst2_8cpp.html',1,'']]],
   ['againparamids_2eh',['againparamids.h',['../againparamids_8h.html',1,'']]],
   ['againprocess_2eh',['againprocess.h',['../againprocess_8h.html',1,'']]],
   ['againsidechain_2ecpp',['againsidechain.cpp',['../againsidechain_8cpp.html',1,'']]],
@@ -127,10 +126,10 @@ var searchData=
   ['audiobuffer',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobuffer_3c_20t_20_3e',['AudioBuffer&lt; T &gt;',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobuffers_2eh',['audiobuffers.h',['../../vstsdk/audiobuffers_8h.html',1,'']]],
-  ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
   ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html#aa88e9bd8e9d969a00f0bd035a03c359f',1,'Steinberg::Vst::AudioBus']]],
-  ['audiobusbuffers',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a9b1b17da17d0a50b82b03273caae2b8b',1,'Steinberg::Vst::AudioBusBuffers']]],
+  ['audiobus',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
   ['audiobusbuffers',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html',1,'Steinberg::Vst']]],
+  ['audiobusbuffers',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html#a9b1b17da17d0a50b82b03273caae2b8b',1,'Steinberg::Vst::AudioBusBuffers']]],
   ['audiodefaults',['AudioDefaults',['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html#aeeab75fa34b77d026422bf02ea2a7716',1,'Steinberg::Vst::TestEnh']]],
   ['audioeffect',['AudioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html',1,'Steinberg::Vst']]],
   ['audioeffect',['AudioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html#a491f4bb6a5f726c520667832df4b9a14',1,'Steinberg::Vst::AudioEffect::AudioEffect()'],['../../vstsdk/classSteinberg_1_1Vst_1_1TestEnh.html#a13adc72f47daf6dc87f28e58b52c72d0',1,'Steinberg::Vst::TestEnh::audioEffect()']]],
@@ -147,6 +146,6 @@ var searchData=
   ['auwrapper_2emm',['auwrapper.mm',['../../vstsdk/auwrapper_8mm.html',1,'']]],
   ['factory_2ecpp',['factory.cpp',['../adelay_2source_2factory_8cpp.html',1,'']]],
   ['usediids_2ecpp',['usediids.cpp',['../audiohost_2source_2usediids_8cpp.html',1,'']]],
-  ['version_2eh',['version.h',['../again_2source_2version_8h.html',1,'']]],
-  ['version_2eh',['version.h',['../adelay_2source_2version_8h.html',1,'']]]
+  ['version_2eh',['version.h',['../adelay_2source_2version_8h.html',1,'']]],
+  ['version_2eh',['version.h',['../again_2source_2version_8h.html',1,'']]]
 ];

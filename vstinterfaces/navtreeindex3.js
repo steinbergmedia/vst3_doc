@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"group__speakerArrangements.html#ga30a288eb79dfa6b08afb569234e831d2":[0,8,243],
+"group__speakerArrangements.html#ga3151e2974547b528528e913542dd5292":[0,8,296],
 "group__speakerArrangements.html#ga3160617565b0ad36d34a025fe119bbb6":[0,8,306],
 "group__speakerArrangements.html#ga31865a34aa4e3eca16df14729ff1629f":[0,8,211],
 "group__speakerArrangements.html#ga319dbf573206d0bb1a8b77e7f476548d":[0,8,395],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "group__speakerArrangements.html#gac31faedafc0d6ef570cb6b5098b189b2":[0,8,250],
 "group__speakerArrangements.html#gac3ec49935f60ef5a877f21c6225274f5":[0,8,98],
 "group__speakerArrangements.html#gac432eebae5c8256e872d754aaa7f5b3a":[0,8,132],
-"group__speakerArrangements.html#gac45ef96ed94ff6232edffe4924f63e39":[0,8,67],
-"group__speakerArrangements.html#gac5315e218c209f891d18ec25effa0fd1":[0,8,369],
-"group__speakerArrangements.html#gac5f061a31de54df1c627e9ec947ac442":[0,8,63]
+"group__speakerArrangements.html#gac45ef96ed94ff6232edffe4924f63e39":[0,8,67]
 };

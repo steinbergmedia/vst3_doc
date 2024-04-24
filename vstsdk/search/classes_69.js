@@ -78,6 +78,7 @@ var searchData=
   ['iptr_3c_20steinberg_3a_3avst_3a_3aihostapplication_20_3e',['IPtr&lt; Steinberg::Vst::IHostApplication &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['iptr_3c_20steinberg_3a_3avst_3a_3apluginterfacesupport_20_3e',['IPtr&lt; Steinberg::Vst::PlugInterfaceSupport &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
   ['iptr_3c_20timer_20_3e',['IPtr&lt; Timer &gt;',['../../base/classSteinberg_1_1IPtr.html',1,'Steinberg']]],
+  ['iremapparamid',['IRemapParamID',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IRemapParamID.html',1,'Steinberg::Vst']]],
   ['irunloop',['IRunLoop',['../../base/classSteinberg_1_1Linux_1_1IRunLoop.html',1,'Steinberg::Linux']]],
   ['isizeablestream',['ISizeableStream',['../../base/classSteinberg_1_1ISizeableStream.html',1,'Steinberg']]],
   ['istreamattributes',['IStreamAttributes',['../../vstinterfaces/classSteinberg_1_1Vst_1_1IStreamAttributes.html',1,'Steinberg::Vst']]],

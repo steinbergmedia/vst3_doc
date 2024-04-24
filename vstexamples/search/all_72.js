@@ -114,7 +114,7 @@ var searchData=
   ['roundpanprocessor',['RoundPanProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#aabbe6a6f3ef6de165b7445cea41f8f64',1,'Steinberg::Vst::mda::RoundPanProcessor']]],
   ['roundpanprocessor',['RoundPanProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html',1,'Steinberg::Vst::mda']]],
   ['routinginfo',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]],
-  ['rpeak',['rpeak',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a085bdf91fd9b8903e82813ee1b4542de',1,'Steinberg::Vst::mda::SpecMeterProcessor::rpeak()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3164c6eded46552e0d1678ea79409072',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rpeak()']]],
+  ['rpeak',['Rpeak',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a3164c6eded46552e0d1678ea79409072',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rpeak()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a085bdf91fd9b8903e82813ee1b4542de',1,'Steinberg::Vst::mda::SpecMeterProcessor::rpeak()']]],
   ['rpp',['rpp',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a307e2014ad3e047dbef35ca478756daa',1,'Steinberg::Vst::mda::SpecMeterProcessor']]],
   ['rrms',['Rrms',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a5460de0e13faf8df4ebc17a4483ee14c',1,'Steinberg::Vst::mda::SpecMeterProcessor::Rrms()'],['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a8c3325f9c05b7876fffaccf9acabaa1e',1,'Steinberg::Vst::mda::SpecMeterProcessor::rrms()']]],
   ['rttransfer_2eh',['rttransfer.h',['../../vstsdk/rttransfer_8h.html',1,'']]],

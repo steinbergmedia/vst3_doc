@@ -54,6 +54,7 @@ var hierarchy =
       [ "IProcessContextRequirements", "classSteinberg_1_1Vst_1_1IProcessContextRequirements.html", null ],
       [ "IProgramListData", "classSteinberg_1_1Vst_1_1IProgramListData.html", null ],
       [ "IProgress", "classSteinberg_1_1Vst_1_1IProgress.html", null ],
+      [ "IRemapParamID", "classSteinberg_1_1Vst_1_1IRemapParamID.html", null ],
       [ "IStreamAttributes", "classSteinberg_1_1Vst_1_1IStreamAttributes.html", null ],
       [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", [
         [ "ITestPlugProvider2", "classSteinberg_1_1Vst_1_1ITestPlugProvider2.html", null ]

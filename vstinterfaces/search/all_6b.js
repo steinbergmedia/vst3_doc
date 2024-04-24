@@ -562,6 +562,7 @@ var searchData=
   ['kpanposfrontrightyfunc',['kPanPosFrontRightYFunc',['../namespaceSteinberg_1_1Vst_1_1AttributesFunction.html#aca1665ab0b3971f5a0d77c4f80dbd08c',1,'Steinberg::Vst::AttributesFunction']]],
   ['kpanrotationfunc',['kPanRotationFunc',['../namespaceSteinberg_1_1Vst_1_1AttributesFunction.html#af22d8c74678d445a5f8339261e960dfe',1,'Steinberg::Vst::AttributesFunction']]],
   ['kpantypeid',['kPanTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a7148e2b1e53d751df8801134fa2059f8',1,'Steinberg::Vst']]],
+  ['kparamidmappingchanged',['kParamIDMappingChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa',1,'Steinberg::Vst']]],
   ['kparamtitleschanged',['kParamTitlesChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5af5308f6f5d92e718ccbd4cb0ca414907',1,'Steinberg::Vst']]],
   ['kparamvalueschanged',['kParamValuesChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5a67a358277112f9c5ac816474ae501a09',1,'Steinberg::Vst']]],
   ['kpercussive',['kPercussive',['../group__musicalCharacter.html#gac6b35eb8d6cf9178f4b428d523760e89',1,'Steinberg::Vst::MusicalCharacter']]],

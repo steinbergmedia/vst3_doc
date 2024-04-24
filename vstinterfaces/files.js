@@ -53,6 +53,9 @@ var files =
       [ "Chord", "structSteinberg_1_1Vst_1_1Chord.html", "structSteinberg_1_1Vst_1_1Chord" ],
       [ "ProcessContext", "structSteinberg_1_1Vst_1_1ProcessContext.html", "structSteinberg_1_1Vst_1_1ProcessContext" ]
     ] ],
+    [ "ivstremapparamid.h", "ivstremapparamid_8h.html", [
+      [ "IRemapParamID", "classSteinberg_1_1Vst_1_1IRemapParamID.html", "classSteinberg_1_1Vst_1_1IRemapParamID" ]
+    ] ],
     [ "ivstrepresentation.h", "ivstrepresentation_8h.html", "ivstrepresentation_8h" ],
     [ "ivsttestplugprovider.h", "ivsttestplugprovider_8h.html", [
       [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider" ],

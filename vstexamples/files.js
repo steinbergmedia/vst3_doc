@@ -22,7 +22,6 @@ var files =
       [ "AGainController", "classSteinberg_1_1Vst_1_1AGainController.html", "classSteinberg_1_1Vst_1_1AGainController" ]
     ] ],
     [ "againentry.cpp", "againentry_8cpp.html", "againentry_8cpp" ],
-    [ "againentry_vst2.cpp", "againentry__vst2_8cpp.html", "againentry__vst2_8cpp" ],
     [ "againparamids.h", "againparamids_8h.html", "againparamids_8h" ],
     [ "againprocess.h", "againprocess_8h.html", null ],
     [ "againsidechain.cpp", "againsidechain_8cpp.html", null ],

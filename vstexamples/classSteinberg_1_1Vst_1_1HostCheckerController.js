@@ -47,6 +47,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "queueOpened", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a03c47a40142ada389fa7df3ab00f75c8", null ],
     [ "queueClosed", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a9cbc65f1d6c6bb0370a2cab22fda1d14", null ],
     [ "onDataExchangeBlocksReceived", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a1c5464feacdf2adcd6798bd672cc7414", null ],
+    [ "getCompatibleParamID", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af17f8cef5e2eac26dd4a327b20cb4da6", null ],
     [ "editorAttached", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac055deeb5f5ddca6e9e030e06a2fac7c", null ],
     [ "editorRemoved", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a893fe346bfbb357724bb3e4154ff80af", null ],
     [ "editorDestroyed", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a3ca86a9534ad2bb3adb4f5e4d71d68a5", null ],

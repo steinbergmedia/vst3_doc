@@ -184,6 +184,7 @@ var searchData=
   ['koutput',['kOutput',['../group__vstBus.html#gga48a6eea2da1c202231eb653f3f764af2a1aeceb4d8bf67a4d84e082604da2cffd',1,'Steinberg::Vst']]],
   ['kowner',['kOwner',['../../base/classSteinberg_1_1FVariant.html#a99fb83031ce9923c84392b4e92f956b5a8748a0de195760963cc4a77e6b4c29d0',1,'Steinberg::FVariant']]],
   ['kpantypeid',['kPanTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a7148e2b1e53d751df8801134fa2059f8',1,'Steinberg::Vst']]],
+  ['kparamidmappingchanged',['kParamIDMappingChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa',1,'Steinberg::Vst']]],
   ['kparamtitleschanged',['kParamTitlesChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5af5308f6f5d92e718ccbd4cb0ca414907',1,'Steinberg::Vst']]],
   ['kparamvalueschanged',['kParamValuesChanged',['../namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5a67a358277112f9c5ac816474ae501a09',1,'Steinberg::Vst']]],
   ['kphonemetypeid',['kPhonemeTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a4ebd202862aff5265a6c1bcd901bd5b8',1,'Steinberg::Vst']]],

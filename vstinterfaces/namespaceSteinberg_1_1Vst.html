@@ -506,6 +506,9 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1ProcessContext.html">ProcessContext</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Audio processing context.  <a href="structSteinberg_1_1Vst_1_1ProcessContext.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSteinberg_1_1Vst_1_1IRemapParamID.html">IRemapParamID</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extended <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html" title="Edit controller component interface: Vst::IEditController.">IEditController</a> interface for a component.  <a href="classSteinberg_1_1Vst_1_1IRemapParamID.html#details">More...</a><br/></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structSteinberg_1_1Vst_1_1RepresentationInfo.html">RepresentationInfo</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><pre class="fragment">RepresentationInfo is the structure describing a representation
 </pre><p> This structure is used in the function  <a href="structSteinberg_1_1Vst_1_1RepresentationInfo.html#details">More...</a><br/></td></tr>
@@ -680,7 +683,8 @@ Enumerations</h2></td></tr>
 <br/>
 &#160;&#160;<a class="el" href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5a2f4bc9de12259020c78fa4225f1d90b3">kPrefetchableSupportChanged</a> = 1 &lt;&lt; 8, 
 <a class="el" href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d">kRoutingInfoChanged</a> = 1 &lt;&lt; 9, 
-<a class="el" href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9">kKeyswitchChanged</a> = 1 &lt;&lt; 10
+<a class="el" href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9">kKeyswitchChanged</a> = 1 &lt;&lt; 10, 
+<a class="el" href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa">kParamIDMappingChanged</a> = 1 &lt;&lt; 11
 <br/>
  }</td></tr>
 <tr class="memdesc:a17867782006f9fdb2b72c16b0420bed5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flags used for IComponentHandler::restartComponent.  <a href="namespaceSteinberg_1_1Vst.html#a17867782006f9fdb2b72c16b0420bed5">More...</a><br/></td></tr>
@@ -1207,7 +1211,7 @@ Variables</h2></td></tr>
 <p>[SDK 3.0.0] </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5a560af1d548105a5e1c72f07a1b6fbd29"></a>kLatencyChanged</em>&nbsp;</td><td class="fielddoc">
-<p>Latency has changed The plug informs the host that its latency has changed, getLatencySamples should return the new latency after setActive (true) was called The host has to deactivate and reactivate the plug-in, then afterwards the host could ask for the current latency (getLatencySamples) see <a class="el" href="classSteinberg_1_1Vst_1_1IAudioProcessor.html#af8884671ccefe68e0a86e72413a0fcf8" title="Gets the current Latency in samples.">IAudioProcessor::getLatencySamples</a> [SDK 3.0.0]. </p>
+<p>Latency has changed The plug informs the host that its latency has changed, getLatencySamples should return the new latency after setActive (true) was called The host has to deactivate and reactivate the plug-in, then afterwards the host could ask for the current latency (getLatencySamples) See <a class="el" href="classSteinberg_1_1Vst_1_1IAudioProcessor.html#af8884671ccefe68e0a86e72413a0fcf8" title="Gets the current Latency in samples.">IAudioProcessor::getLatencySamples</a> [SDK 3.0.0]. </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5af5308f6f5d92e718ccbd4cb0ca414907"></a>kParamTitlesChanged</em>&nbsp;</td><td class="fielddoc">
 <p><a class="elRef" doxygen="vstsdk.tag:../vstsdk/" href="../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html">Parameter</a> titles, default values or flags (ParameterFlags) have changed The host invalidates all caches of parameter infos and asks the edit controller for the current infos. </p>
@@ -1226,14 +1230,20 @@ Variables</h2></td></tr>
 <p>[SDK 3.5.0] </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5a2f4bc9de12259020c78fa4225f1d90b3"></a>kPrefetchableSupportChanged</em>&nbsp;</td><td class="fielddoc">
-<p>Prefetch support has changed The plug-in informs the host that its PrefetchSupport has changed The host has to deactivate the plug-in, calls <a class="el" href="classSteinberg_1_1Vst_1_1IPrefetchableSupport.html#a127acb45e09dda596a2cdb7cf31b5a32" title="retrieve the current prefetch support.">IPrefetchableSupport::getPrefetchableSupport</a> and reactivate the plug-in see <a class="el" href="classSteinberg_1_1Vst_1_1IPrefetchableSupport.html" title="Indicates that the plug-in could or not support Prefetch (dynamically): Vst::IPrefetchableSupport.">IPrefetchableSupport</a> [SDK 3.6.1]. </p>
+<p>Prefetch support has changed The plug-in informs the host that its PrefetchSupport has changed The host has to deactivate the plug-in, calls <a class="el" href="classSteinberg_1_1Vst_1_1IPrefetchableSupport.html#a127acb45e09dda596a2cdb7cf31b5a32" title="retrieve the current prefetch support.">IPrefetchableSupport::getPrefetchableSupport</a> and reactivate the plug-in. </p>
+<p>See <a class="el" href="classSteinberg_1_1Vst_1_1IPrefetchableSupport.html" title="Indicates that the plug-in could or not support Prefetch (dynamically): Vst::IPrefetchableSupport.">IPrefetchableSupport</a> [SDK 3.6.1] </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5a1a2ea1cc0af4a65e3576a2f8c366350d"></a>kRoutingInfoChanged</em>&nbsp;</td><td class="fielddoc">
-<p><a class="el" href="structSteinberg_1_1Vst_1_1RoutingInfo.html" title="Routing Information:  When the plug-in supports multiple I/O busses, a host may want to know how the ...">RoutingInfo</a> has changed The plug-in informs the host that its internal routing (relation of an event-input-channel to an audio-output-bus) has changed The host ask the plug-in for the new routing with <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#aa0ffeccad3c44364a199ce56365a4c12" title="Retrieves routing information (to be implemented when more than one regular input or output bus exist...">IComponent::getRoutingInfo</a>, vst3Routing see <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html" title="Component base interface: Vst::IComponent.">IComponent</a> [SDK 3.6.6]. </p>
+<p><a class="el" href="structSteinberg_1_1Vst_1_1RoutingInfo.html" title="Routing Information:  When the plug-in supports multiple I/O busses, a host may want to know how the ...">RoutingInfo</a> has changed The plug-in informs the host that its internal routing (relation of an event-input-channel to an audio-output-bus) has changed. </p>
+<p>The host asks the plug-in for the new routing with <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html#aa0ffeccad3c44364a199ce56365a4c12" title="Retrieves routing information (to be implemented when more than one regular input or output bus exist...">IComponent::getRoutingInfo</a>, vst3Routing See <a class="el" href="classSteinberg_1_1Vst_1_1IComponent.html" title="Component base interface: Vst::IComponent.">IComponent</a> [SDK 3.6.6] </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5ab9d170d239305a60a6632d2224dd0cc9"></a>kKeyswitchChanged</em>&nbsp;</td><td class="fielddoc">
 <p>Key switches has changed (info, count) Either the Key switches info, the count of Key switches has changed. </p>
 <p>The host invalidates all caches of Key switches infos and asks the edit controller (<a class="el" href="classSteinberg_1_1Vst_1_1IKeyswitchController.html" title="Extended plug-in interface IEditController for key switches support: Vst::IKeyswitchController.">IKeyswitchController</a>) for the current ones. See <a class="el" href="classSteinberg_1_1Vst_1_1IKeyswitchController.html" title="Extended plug-in interface IEditController for key switches support: Vst::IKeyswitchController.">IKeyswitchController</a> [SDK 3.7.3] </p>
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a17867782006f9fdb2b72c16b0420bed5aad5c03a524a2b60c6e72f3f1b7fa1efa"></a>kParamIDMappingChanged</em>&nbsp;</td><td class="fielddoc">
+<p>Mapping of ParamID has changed The Plug-in informs the host that its parameters ID has changed. </p>
+<p>This has to be called by the edit controller in the method setComponentState or setState (during projects loading) when the plug-in detects that the given state was associated to an older version of the plug-in, or to a plug-in to replace (for ex. migrating VST2 =&gt; <a class="elRef" doxygen="vstsdk.tag:../vstsdk/" href="../vstsdk/namespaceVST3.html">VST3</a>), with a different set of parameter IDs, then the host could remap any used parameters like automation by asking the <a class="el" href="classSteinberg_1_1Vst_1_1IRemapParamID.html" title="Extended IEditController interface for a component.">IRemapParamID</a> interface (which extends <a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html" title="Edit controller component interface: Vst::IEditController.">IEditController</a>). See <a class="el" href="classSteinberg_1_1Vst_1_1IRemapParamID.html" title="Extended IEditController interface for a component.">IRemapParamID</a> [SDK 3.7.11] </p>
 </td></tr>
 </table>
 

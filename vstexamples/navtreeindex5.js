@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569":[2,0,0,1,1,23,4],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a3026090cef033b689dc36c5f122924f9":[2,0,0,1,1,23,7],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a35aa3fed88ff6cfb7898384d9e608277":[2,0,0,1,1,23,6],
 "classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a3e80584097da0ce639dd3abf4e119086":[2,0,0,1,1,23,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#abbe7aa5cacfe7d13c5ba4152ac6e3b5e":[2,0,0,1,1,34,6],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#ace27e8c9182412956028ffa70d53c326":[2,0,0,1,1,34,2],
 "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html":[2,0,0,1,1,35],
-"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e":[2,0,0,1,1,35,14]
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e":[2,0,0,1,1,35,14],
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a11784160b1e993a66a2166bfc11a4359":[2,0,0,1,1,35,20]
 };

@@ -2,7 +2,7 @@ var class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller =
 [
     [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a2815dd4fb5eb361cc70da5c0136e2842", null ],
     [ "createViewForIndex", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a9d4841facbf1963bcaf71fbb777c7afa", null ],
-    [ "getSwitchControlTag", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a114772da7a4c100cbaeaa974adcfe903", null ],
+    [ "getSwitchControlTag", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a326cf6ea9fc9592ad1460073ff0aeffb", null ],
     [ "getTemplateNames", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a7e5d0c338a8270d89d556806e9dfc750", null ],
     [ "setSwitchControlTag", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a5f02e1e31ad29e8f63989d3cf3c641f4", null ],
     [ "setTemplateNames", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a5014faf35169bcafe0b6b208cd9778bb", null ],

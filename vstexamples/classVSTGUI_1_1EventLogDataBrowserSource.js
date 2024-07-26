@@ -26,6 +26,6 @@ var classVSTGUI_1_1EventLogDataBrowserSource =
     [ "dbCellSetupTextEdit", "classVSTGUI_1_1EventLogDataBrowserSource.html#ac561d1c14dc1ad9dbf655b62c608f937", null ],
     [ "dbOnKeyDown", "classVSTGUI_1_1EventLogDataBrowserSource.html#af9a9c3ab456206ddd45c4df67fa84e39", null ],
     [ "updateLog", "classVSTGUI_1_1EventLogDataBrowserSource.html#ac133b1fd887b69e33317ce08f3230dd9", null ],
-    [ "getLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#af4184aec4b87bb83e026ae346eb81d14", null ],
+    [ "getLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#ae564640fd3dc2d199e045c1638667bac", null ],
     [ "mLogEvents", "classVSTGUI_1_1EventLogDataBrowserSource.html#abde7a8563e0588638005573e0aace4ae", null ]
 ];

@@ -1,11 +1,11 @@
 var group__new__in__4__12__2 =
 [
-    [ "MultiFrameBitmapView", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
-      [ "getInverseIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a6c6c346dd1f905286210a4346e0a3bcd", null ],
-      [ "getMultiFrameBitmapIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#ad5c4327c99eb9288cd118efcec431ff9", null ],
-      [ "getMultiFrameBitmapRange", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a95105ff9a9cba7ae57f50c261ec59a4b", null ],
-      [ "getMultiFrameBitmapRangeLength", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a0fa0bf81b75aa9c4df87db57620dc95a", null ],
-      [ "getNormValueFromMultiFrameBitmapIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#aaa7b9502ee9865e563c75945fc665fcb", null ],
+    [ "MultiFrameBitmapView< T >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
+      [ "getInverseIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a8f7ecd1385bb2e2fea084ceab1783f6f", null ],
+      [ "getMultiFrameBitmapIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#acefa9c847f35235375381e804c60e0e2", null ],
+      [ "getMultiFrameBitmapRange", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a687c64297aaee39448fd34c9e4425bbd", null ],
+      [ "getMultiFrameBitmapRangeLength", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a1592e029733691fd748bd7c71dc93908", null ],
+      [ "getNormValueFromMultiFrameBitmapIndex", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#ae2ab4c5b1aa4d9e512d41c0bc3ad9621", null ],
       [ "setMultiFrameBitmapRange", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html#a6ed81fc6c79cf54411b5b7f04c4e2320", null ]
     ] ]
 ];

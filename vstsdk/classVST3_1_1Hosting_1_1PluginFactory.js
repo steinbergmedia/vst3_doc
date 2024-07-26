@@ -8,5 +8,5 @@ var classVST3_1_1Hosting_1_1PluginFactory =
     [ "classCount", "classVST3_1_1Hosting_1_1PluginFactory.html#a32f6bd6953d626694bc1063777056191", null ],
     [ "classInfos", "classVST3_1_1Hosting_1_1PluginFactory.html#a0c9b24609bace7ed28902a36c4c7512f", null ],
     [ "createInstance", "classVST3_1_1Hosting_1_1PluginFactory.html#a281e36c942fab4bb6232edd54a57d3f2", null ],
-    [ "get", "classVST3_1_1Hosting_1_1PluginFactory.html#ab400f65393af1a14131cd2714ad04692", null ]
+    [ "get", "classVST3_1_1Hosting_1_1PluginFactory.html#a0380449efb0e0bc4680edd4d75fb46b4", null ]
 ];

@@ -11,8 +11,8 @@ var classVST3_1_1Hosting_1_1ClassInfo =
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html#a6a81e2fb6e7f9b4f25f770f22c119ce6", null ],
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html#ad78ae6d6d13bc991896e4d0fa2f94878", null ],
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html#add188ec4f3c25b9948d9414319305fb4", null ],
-    [ "operator=", "classVST3_1_1Hosting_1_1ClassInfo.html#a6bf5a2c6e385831b348339e9ef631a45", null ],
-    [ "operator=", "classVST3_1_1Hosting_1_1ClassInfo.html#adab63c4550110ac717000750d16f1ec3", null ],
+    [ "operator=", "classVST3_1_1Hosting_1_1ClassInfo.html#aa56c3b622a8f23a00eacbfaa2a94bb9d", null ],
+    [ "operator=", "classVST3_1_1Hosting_1_1ClassInfo.html#a56da45faf206929cd535a39c46d6f044", null ],
     [ "ID", "classVST3_1_1Hosting_1_1ClassInfo.html#af201f9f620563a86c808917291ece2a1", null ],
     [ "cardinality", "classVST3_1_1Hosting_1_1ClassInfo.html#a44108e1b8189370a1724c960e67b90bf", null ],
     [ "category", "classVST3_1_1Hosting_1_1ClassInfo.html#a35abfa00d1431e3f0d360064616e23d4", null ],
@@ -23,5 +23,5 @@ var classVST3_1_1Hosting_1_1ClassInfo =
     [ "subCategories", "classVST3_1_1Hosting_1_1ClassInfo.html#a00e451a4fa6a0049adf7287cb6a64584", null ],
     [ "subCategoriesString", "classVST3_1_1Hosting_1_1ClassInfo.html#a3c54e473627b01f1693c3058d61311ac", null ],
     [ "classFlags", "classVST3_1_1Hosting_1_1ClassInfo.html#a5d26d49dc9ccd59d51e7957e8fc52dcb", null ],
-    [ "get", "classVST3_1_1Hosting_1_1ClassInfo.html#adf775aa456b188024706b24ccea0425b", null ]
+    [ "get", "classVST3_1_1Hosting_1_1ClassInfo.html#a408396d9a7b114e161bbaecfb697f438", null ]
 ];

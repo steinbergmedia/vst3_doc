@@ -2,7 +2,7 @@ var structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost =
 [
     [ "~IDataExchangeHandlerHost", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#acd4bc3ac279ba44a9abd98934515f33b", null ],
     [ "isProcessorInactive", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#adc46792f6bdea9aea38c76afb45b1302", null ],
-    [ "findDataExchangeReceiver", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#a8b30703b87c59473a83f4077be1aae35", null ],
+    [ "findDataExchangeReceiver", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#a35a0e11552543b1269d3c5e6e45daa35", null ],
     [ "allowAllocateSize", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#a34e686050e3477b842a5589d171a57be", null ],
     [ "isMainThread", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#acfcf2d0e7de13f022cb37b4391737aac", null ],
     [ "allowQueueListResize", "structSteinberg_1_1Vst_1_1IDataExchangeHandlerHost.html#ad0fba34c6a580a12c6bbd572c7951f01", null ],

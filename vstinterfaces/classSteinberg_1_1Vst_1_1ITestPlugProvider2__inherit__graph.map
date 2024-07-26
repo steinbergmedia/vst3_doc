@@ -1,4 +1,5 @@
 <map id="ITestPlugProvider2" name="ITestPlugProvider2">
-<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title="Test Helper." alt="" coords="5,153,148,280"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="17,5,136,105"/>
+<area shape="rect" id="node1" title="Test Helper extension." alt="" coords="10,336,142,411"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1ITestPlugProvider.html" title="Test Helper." alt="" coords="5,157,147,288"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="17,5,135,109"/>
 </map>

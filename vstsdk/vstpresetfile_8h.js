@@ -1,6 +1,6 @@
 var vstpresetfile_8h =
 [
-    [ "Entry", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry" ],
+    [ "PresetFile::Entry", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry" ],
     [ "FileStream", "classSteinberg_1_1Vst_1_1FileStream.html", "classSteinberg_1_1Vst_1_1FileStream" ],
     [ "ReadOnlyBStream", "classSteinberg_1_1Vst_1_1ReadOnlyBStream.html", "classSteinberg_1_1Vst_1_1ReadOnlyBStream" ],
     [ "BufferStream", "classSteinberg_1_1Vst_1_1BufferStream.html", "classSteinberg_1_1Vst_1_1BufferStream" ],

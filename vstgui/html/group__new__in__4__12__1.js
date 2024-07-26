@@ -1,5 +1,5 @@
 var group__new__in__4__12__1 =
 [
-    [ "frameIndexToNormalizedValue", "group__new__in__4__12__1.html#ga92f1d595936949be30bb88842e3b14c0", null ],
-    [ "normalizedValueToFrameIndex", "group__new__in__4__12__1.html#ga4cca024629bfc0d7a7a2cf77eb386497", null ]
+    [ "VSTGUI::CMultiFrameBitmap::frameIndexToNormalizedValue", "group__new__in__4__12__1.html#ga9344f942e7cb65df24bfd54e2242ed61", null ],
+    [ "VSTGUI::CMultiFrameBitmap::normalizedValueToFrameIndex", "group__new__in__4__12__1.html#ga74b3f9f064c48162a531b1af18dbcaf2", null ]
 ];

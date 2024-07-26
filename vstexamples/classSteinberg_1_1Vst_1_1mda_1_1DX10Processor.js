@@ -3,7 +3,6 @@ var classSteinberg_1_1Vst_1_1mda_1_1DX10Processor =
     [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE" ],
     [ "Base", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#ac6f82520dd4f964fd3f43554e052e643", null ],
     [ "SynthDataT", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#ac9ed78aee51f485cca7ca2c85bcdc066", null ],
-    [ "NPARAMS", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a726ca809ffd3d67ab4b8476646f26635a54b6fffd3ba5eec39da9f688241a194b", null ],
     [ "DX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#ab2d7bfe1dfc858a8fd16bca4465c2335", null ],
     [ "~DX10Processor", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#aad700f3c9b071f39ce14ec499cf45817", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a80b09ba6d56f803698722f396fff6329", null ],

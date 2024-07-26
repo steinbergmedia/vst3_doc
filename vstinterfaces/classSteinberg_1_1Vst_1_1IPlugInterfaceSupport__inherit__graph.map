@@ -1,4 +1,5 @@
 <map id="IPlugInterfaceSupport" name="IPlugInterfaceSupport">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html" title="{PlugInterfaceSupport\n||+ PlugInterfaceSupport()\l+ ~PlugInterfaceSupport()\l+ isPlugInterfaceSupported()\l+ addPlugInterfaceSupported()\l+ removePlugInterfaceSupported()\l}" alt="" coords="5,275,216,401"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="51,5,170,105"/>
+<area shape="rect" id="node1" title="Host callback interface for an edit controller: Vst::IPlugInterfaceSupport." alt="" coords="21,157,199,232"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1PlugInterfaceSupport" title=" " alt="" coords="5,280,215,411"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="51,5,169,109"/>
 </map>

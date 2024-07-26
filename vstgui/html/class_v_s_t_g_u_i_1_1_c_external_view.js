@@ -1,6 +1,6 @@
 var class_v_s_t_g_u_i_1_1_c_external_view =
 [
-    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_external_view_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_external_view_1_1_impl.html", "struct_v_s_t_g_u_i_1_1_c_external_view_1_1_impl" ],
     [ "ExternalViewPtr", "class_v_s_t_g_u_i_1_1_c_external_view.html#af5029451dcce73681de5453ae8ec64a2", null ],
     [ "CExternalView", "class_v_s_t_g_u_i_1_1_c_external_view.html#ad5f98aa9ec35ed75a01f9c8b16bba9e5", null ],
     [ "~CExternalView", "class_v_s_t_g_u_i_1_1_c_external_view.html#a8fa26c9e0788c08566629b5c99c0f0ce", null ],

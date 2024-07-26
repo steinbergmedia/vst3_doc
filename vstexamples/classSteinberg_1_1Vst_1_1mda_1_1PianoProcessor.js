@@ -4,8 +4,6 @@ var classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor =
     [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE" ],
     [ "Base", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac6f82520dd4f964fd3f43554e052e643", null ],
     [ "SynthDataT", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac9ed78aee51f485cca7ca2c85bcdc066", null ],
-    [ "NPARAMS", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a0411cd49bb5b71852cecd93bcbf0ca2da54b6fffd3ba5eec39da9f688241a194b", null ],
-    [ "WAVELEN", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a0411cd49bb5b71852cecd93bcbf0ca2da7880ff67a682bfd5be243cf08651f273", null ],
     [ "PianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ae5ab489c088320246852cb9ef78df4a4", null ],
     [ "~PianoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac054f2759659a30425d57e23d26b94a7", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],

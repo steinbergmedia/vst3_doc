@@ -3,7 +3,7 @@ var struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state =
     [ "State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a7662f55909d581100da5f988e7ea2456", null ],
     [ "State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a8576c7d869d614c6a62d20b7a5732b11", null ],
     [ "State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a13335e4988781d51a04fcdd5133ad6f1", null ],
-    [ "operator=", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a546650d38cd3f15467d49e0017b793e3", null ],
+    [ "operator=", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a128be7fbaa2fede9beb689f57c26d3a7", null ],
     [ "operator=", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a40dd0a285d080b3dc45b9e19447b80b4", null ],
     [ "bitmapQuality", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#adece2639581ed6cf12077b1091b8e134", null ],
     [ "clipRect", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html#a07f1bfa7ef4006c79f752b819e71c1df", null ],

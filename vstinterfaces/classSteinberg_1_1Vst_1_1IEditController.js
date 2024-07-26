@@ -12,5 +12,5 @@ var classSteinberg_1_1Vst_1_1IEditController =
     [ "getParamNormalized", "classSteinberg_1_1Vst_1_1IEditController.html#ac5abbadd4c8326fae66fd1e63bdc15b3", null ],
     [ "setParamNormalized", "classSteinberg_1_1Vst_1_1IEditController.html#aded549c5b0f342a23dee18cc41ece6b8", null ],
     [ "setComponentHandler", "classSteinberg_1_1Vst_1_1IEditController.html#aab5ccab5fd1cc1cd0a59afd90279dd81", null ],
-    [ "createView", "classSteinberg_1_1Vst_1_1IEditController.html#a1fa4ed10cc0979e5559045104c998b1a", null ]
+    [ "createView", "classSteinberg_1_1Vst_1_1IEditController.html#a2fe381a8fb8412e6854c941dbb085fec", null ]
 ];

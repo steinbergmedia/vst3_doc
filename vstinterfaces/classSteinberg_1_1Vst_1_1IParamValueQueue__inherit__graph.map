@@ -1,5 +1,6 @@
 <map id="IParamValueQueue" name="IParamValueQueue">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1ParamChanges.html" title="{ParamChanges\n||+ ParamChanges()\l+ ~ParamChanges()\l+ init()\l+ setPoint()\l+ resetPoints()\l+ getProcessedFrames()\l+ setProcessedFrames()\l+ havePointsBeenRead()\l+ getParameterId()\l+ getPointCount()\l+ getPoint()\l+ addPoint()\l}" alt="" coords="5,315,165,535"/>
-<area shape="rect" id="node4" href="vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterValueQueue.html" title="{ParameterValueQueue\n|# paramID\l# values\l|+ ParameterValueQueue()\l+ ~ParameterValueQueue()\l+ getParameterId()\l+ getPointCount()\l+ getPoint()\l+ addPoint()\l+ setParamID()\l+ clear()\l}" alt="" coords="190,335,362,515"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="121,5,239,105"/>
+<area shape="rect" id="node1" title="Queue of changes for a specific parameter: Vst::IParamValueQueue." alt="" coords="116,157,244,274"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ParamChanges" title=" " alt="" coords="5,322,165,551"/>
+<area shape="rect" id="node4" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterValueQueue" title=" " alt="" coords="189,343,360,530"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="121,5,238,109"/>
 </map>

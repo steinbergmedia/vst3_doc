@@ -1,6 +1,5 @@
 var structSteinberg_1_1Vst_1_1RepresentationInfo =
 [
-    [ "kNameSize", "structSteinberg_1_1Vst_1_1RepresentationInfo.html#adc29c2ff13d900c2f185ee95427fb06ca5b9d2840f143c8288f728f5be29f638e", null ],
     [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html#a8b44829c5f48c94bb855c021db577bf4", null ],
     [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html#a647925bf3bf31ee8546a6084c5c09533", null ],
     [ "vendor", "structSteinberg_1_1Vst_1_1RepresentationInfo.html#ac4707b8abe69c6961d88a0ea8d9689e0", null ],

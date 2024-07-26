@@ -7,7 +7,7 @@ var classSteinberg_1_1FStreamer =
     [ "seek", "classSteinberg_1_1FStreamer.html#a80ed73a703e084b355627d8966daf77f", null ],
     [ "tell", "classSteinberg_1_1FStreamer.html#a1ba197f3c51297c9c18e64a27fb51c19", null ],
     [ "setByteOrder", "classSteinberg_1_1FStreamer.html#afd8f7d6bb97d1020c32fcb1beb49986a", null ],
-    [ "getByteOrder", "classSteinberg_1_1FStreamer.html#a216a5e81b4fc5262cc15e8279d62f0be", null ],
+    [ "getByteOrder", "classSteinberg_1_1FStreamer.html#ac5b0871ff8d06951e2df5194e93fdbbf", null ],
     [ "writeChar8", "classSteinberg_1_1FStreamer.html#a998c6902fdd8b21bbebc626dd4d63120", null ],
     [ "readChar8", "classSteinberg_1_1FStreamer.html#a49117f69772f84b75ac6eb3ca72c4f33", null ],
     [ "writeUChar8", "classSteinberg_1_1FStreamer.html#a3d2ae068d6eece63ec3f95bc42efb5ed", null ],

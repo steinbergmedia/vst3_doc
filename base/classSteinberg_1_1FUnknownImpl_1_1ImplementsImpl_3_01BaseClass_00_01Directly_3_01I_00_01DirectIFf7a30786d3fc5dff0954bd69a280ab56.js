@@ -1,9 +1,0 @@
-var classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56 =
-[
-    [ "Base", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#a19e87ed05d29af8bb4951ddbcab4af59", null ],
-    [ "ImplementsImpl", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#a4b5174b06eab2ce68692c5258f836474", null ],
-    [ "queryInterface", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#a55024c93e14c692864229af868276a77", null ],
-    [ "addRef", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#aceeefd83ecd3c2384778ac88c22cf96b", null ],
-    [ "release", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#a664997bd1f020b18ef7dbd1193b5bef5", null ],
-    [ "unknownCast", "classSteinberg_1_1FUnknownImpl_1_1ImplementsImpl_3_01BaseClass_00_01Directly_3_01I_00_01DirectIFf7a30786d3fc5dff0954bd69a280ab56.html#aa3f2ae6d2286c0a7f3db7dad018240aa", null ]
-];

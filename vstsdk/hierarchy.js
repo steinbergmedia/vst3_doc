@@ -55,6 +55,9 @@ var hierarchy =
         [ "FileStream", "classSteinberg_1_1Vst_1_1FileStream.html", null ],
         [ "ReadOnlyBStream", "classSteinberg_1_1Vst_1_1ReadOnlyBStream.html", null ]
       ] ],
+      [ "IPlugView", "../base/classSteinberg_1_1IPlugView.html", [
+        [ "CPluginView", "classSteinberg_1_1CPluginView.html", null ]
+      ] ],
       [ "IPluginBase", "../base/classSteinberg_1_1IPluginBase.html", [
         [ "ComponentBase", "classSteinberg_1_1Vst_1_1ComponentBase.html", null ],
         [ "IComponent", "../vstinterfaces/classSteinberg_1_1Vst_1_1IComponent.html", [
@@ -65,11 +68,15 @@ var hierarchy =
           [ "EditController", "classSteinberg_1_1Vst_1_1EditController.html", null ]
         ] ]
       ] ],
-      [ "IPlugView", "../base/classSteinberg_1_1IPlugView.html", [
-        [ "CPluginView", "classSteinberg_1_1CPluginView.html", null ]
+      [ "IPluginFactory", "../base/classSteinberg_1_1IPluginFactory.html", [
+        [ "IPluginFactory2", "../base/classSteinberg_1_1IPluginFactory2.html", [
+          [ "IPluginFactory3", "../base/classSteinberg_1_1IPluginFactory3.html", [
+            [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", null ]
+          ] ]
+        ] ]
       ] ],
       [ "IStringResult", "../base/classSteinberg_1_1IStringResult.html", [
-        [ "StringResult", "exceptionSteinberg_1_1Vst_1_1StringResult.html", null ]
+        [ "StringResult", "classSteinberg_1_1Vst_1_1StringResult.html", null ]
       ] ],
       [ "ITest", "../vstinterfaces/classSteinberg_1_1ITest.html", [
         [ "TestBase", "classSteinberg_1_1Vst_1_1TestBase.html", [
@@ -77,7 +84,7 @@ var hierarchy =
         ] ]
       ] ],
       [ "IAttributeList", "../vstinterfaces/classSteinberg_1_1Vst_1_1IAttributeList.html", [
-        [ "HostAttributeList", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html", null ]
+        [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", null ]
       ] ],
       [ "IAudioProcessor", "../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioProcessor.html", [
         [ "AudioEffect", "classSteinberg_1_1Vst_1_1AudioEffect.html", null ],
@@ -100,14 +107,14 @@ var hierarchy =
         [ "PresetManager", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html", null ]
       ] ],
       [ "IMessage", "../vstinterfaces/classSteinberg_1_1Vst_1_1IMessage.html", [
-        [ "HostMessage", "exceptionSteinberg_1_1Vst_1_1HostMessage.html", null ]
-      ] ],
-      [ "IParameterChanges", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterChanges.html", [
-        [ "ParameterChanges", "classSteinberg_1_1Vst_1_1ParameterChanges.html", null ]
+        [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", null ]
       ] ],
       [ "IParamValueQueue", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParamValueQueue.html", [
         [ "ParamChanges", "classSteinberg_1_1Vst_1_1ParamChanges.html", null ],
         [ "ParameterValueQueue", "classSteinberg_1_1Vst_1_1ParameterValueQueue.html", null ]
+      ] ],
+      [ "IParameterChanges", "../vstinterfaces/classSteinberg_1_1Vst_1_1IParameterChanges.html", [
+        [ "ParameterChanges", "classSteinberg_1_1Vst_1_1ParameterChanges.html", null ]
       ] ],
       [ "IPlugInterfaceSupport", "../vstinterfaces/classSteinberg_1_1Vst_1_1IPlugInterfaceSupport.html", [
         [ "PlugInterfaceSupport", "classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html", null ]
@@ -127,6 +134,9 @@ var hierarchy =
     [ "Implements", null, [
       [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", null ],
       [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
+    ] ],
+    [ "IUniversalMidiPacketHandler", "structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html", [
+      [ "UniversalMidiPacketHandlerAdapter", "structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter.html", null ]
     ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],
     [ "Module", "classVST3_1_1Hosting_1_1Module.html", null ],
@@ -159,12 +169,25 @@ var hierarchy =
     [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", null ],
     [ "TestDefaults", "structSteinberg_1_1Vst_1_1TestDefaults.html", null ],
     [ "TestingPluginContext", "structSteinberg_1_1Vst_1_1TestingPluginContext.html", null ],
+    [ "ThreadChecker", "classSteinberg_1_1Vst_1_1ThreadChecker.html", null ],
     [ "<UIApplicationDelegate>", null, [
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]
     ] ],
     [ "UID", "structVST3_1_1UID.html", null ],
-    [ "<UIResponder>", null, [
+    [ "UIResponder", null, [
       [ "VSTInterAppAudioAppDelegateBase", "interfaceVSTInterAppAudioAppDelegateBase.html", null ]
+    ] ],
+    [ "UMPMessage", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html", [
+      [ "UMPMessage2", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html", [
+        [ "UMPMessage4", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html", [
+          [ "UMPMessageData128", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html", null ]
+        ] ],
+        [ "UMPMessageChannelVoice2", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html", null ],
+        [ "UMPMessageSysEx", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html", null ]
+      ] ],
+      [ "UMPMessageChannelVoice1", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html", null ],
+      [ "UMPMessageSystem", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSystem.html", null ],
+      [ "UMPMessageUtility", "structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageUtility.html", null ]
     ] ],
     [ "vector", null, [
       [ "BusList", "classSteinberg_1_1Vst_1_1BusList.html", null ]

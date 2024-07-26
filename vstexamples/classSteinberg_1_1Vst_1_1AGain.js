@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1AGain =
 [
     [ "AGain", "classSteinberg_1_1Vst_1_1AGain.html#a9b934532e4add86437421a047a3cf7fa", null ],
-    [ "~AGain", "classSteinberg_1_1Vst_1_1AGain.html#aeedd6f72391025cc1c6f5ee3593cfb6e", null ],
+    [ "~AGain", "classSteinberg_1_1Vst_1_1AGain.html#a3601980f9e660159cab511721590c6a2", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1AGain.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1AGain.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1AGain.html#ad48c36f6210f722d195a93f68fb7dff4", null ],

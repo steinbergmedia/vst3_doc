@@ -1,3 +1,4 @@
 <map id="IComponentHandler2" name="IComponentHandler2">
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="17,5,136,105"/>
+<area shape="rect" id="node1" title="Extended host callback interface for an edit controller: Vst::IComponentHandler2." alt="" coords="5,157,148,274"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="18,5,135,109"/>
 </map>

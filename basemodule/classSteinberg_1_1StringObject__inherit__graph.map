@@ -1,5 +1,9 @@
 <map id="StringObject" name="StringObject">
-<area shape="rect" id="node2" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="5,713,147,1027"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1String.html" title="String." alt="" coords="171,760,287,980"/>
-<area shape="rect" id="node5" href="$classSteinberg_1_1ConstString.html" title="Invariant String." alt="" coords="146,5,313,665"/>
+<area shape="rect" id="node1" title="StringObject implements IStringResult and IString methods." alt="" coords="238,1120,345,1335"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="5,745,146,1072"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,313,118,389"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1String.html" title="String." alt="" coords="170,794,285,1023"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1ConstString.html" title="Invariant String." alt="" coords="144,5,311,697"/>
+<area shape="rect" id="node6" title=" " alt="" coords="310,871,401,946"/>
+<area shape="rect" id="node7" title=" " alt="" coords="425,871,481,946"/>
 </map>

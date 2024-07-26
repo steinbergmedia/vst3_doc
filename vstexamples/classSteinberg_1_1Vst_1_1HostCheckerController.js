@@ -55,7 +55,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerController =
     [ "queryInterface", "classSteinberg_1_1Vst_1_1HostCheckerController.html#af2233bd23acc913cd10e4a30916e5dda", null ],
     [ "REFCOUNT_METHODS", "classSteinberg_1_1Vst_1_1HostCheckerController.html#ac24758feb9e31f29d8ca5505bfac794e", null ],
     [ "addFeatureLog", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a2994126983f1437424bafc780fa5919b", null ],
-    [ "getSavedSize", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a9eab817373e53002e792dfa711ba80ca", null ],
+    [ "getSavedSize", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a6afc4733be833dacb21a8dd047d30c55", null ],
     [ "extractCurrentInfo", "classSteinberg_1_1Vst_1_1HostCheckerController.html#aedf0d687c00670ca351bd00b0b83f440", null ],
     [ "updateScoring", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a922bafd2d3b293f3718199dc804de0fe", null ],
     [ "onProgressTimer", "classSteinberg_1_1Vst_1_1HostCheckerController.html#a86f4dd968f780bf65369830c86adfa6a", null ],

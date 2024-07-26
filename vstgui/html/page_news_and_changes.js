@@ -2,6 +2,7 @@ var page_news_and_changes =
 [
     [ "Introduction", "page_news_and_changes.html#version4_introduction", null ],
     [ "New Stuff", "page_news_and_changes.html#new_stuff", [
+      [ "Version 4.14", "page_news_and_changes.html#version4_14", null ],
       [ "Version 4.13", "page_news_and_changes.html#version4_13", null ],
       [ "Version 4.12.2", "page_news_and_changes.html#version4_12_2", null ],
       [ "Version 4.12.1", "page_news_and_changes.html#version4_12_1", null ],
@@ -20,6 +21,7 @@ var page_news_and_changes =
       [ "Version 4.0", "page_news_and_changes.html#version4_0", null ]
     ] ],
     [ "Changes for existing VSTGUI code", "page_news_and_changes.html#code_changes", [
+      [ "VSTGUI 4.13 -> VSTGUI 4.14", "page_news_and_changes.html#code_changes_4_13_to_4_14", null ],
       [ "VSTGUI 4.12 -> VSTGUI 4.13", "page_news_and_changes.html#code_changes_4_12_to_4_13", null ],
       [ "VSTGUI 4.11 -> VSTGUI 4.12", "page_news_and_changes.html#code_changes_4_11_to_4_12", null ],
       [ "VSTGUI 4.10 -> VSTGUI 4.11", "page_news_and_changes.html#code_changes_4_10_to_4_11", null ],

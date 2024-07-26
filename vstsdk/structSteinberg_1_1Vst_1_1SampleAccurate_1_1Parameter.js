@@ -10,7 +10,10 @@ var structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter =
     [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a0a1eb92e8f90285d812b91b9031be7bd", null ],
     [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a5b61aa805edb7e4190f0b5b5dc0164db", null ],
     [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a557ea2e975f87cea30f847dd5b204175", null ],
-    [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a24114f6f1d82cd432747762041387fab", null ],
-    [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#af0b2dabdd56b4ca5c9c54cc0af5e662d", null ],
-    [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a054adb83b4c06aed15836ea7644de1a6", null ]
+    [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#aab9891a02898c4c164d209043617d4fe", null ],
+    [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a1c04eb9aed4d8bcd9277b64b4f5f02fa", null ],
+    [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#ae9376ad9802db780ec38e2346b4b85ab", null ],
+    [ "advance", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#aa7c29f403466f1932768cd801b98ed79", null ],
+    [ "flushChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a577a655e51169d894b437ceb9b5fbc6e", null ],
+    [ "endChanges", "structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a5d233b6b0a5e1da365b32074fd3e0106", null ]
 ];

@@ -1,8 +1,5 @@
 var structSteinberg_1_1PClassInfoW =
 [
-    [ "kVendorSize", "structSteinberg_1_1PClassInfoW.html#abed82baf7f470b522273a3e37c24c600abc92cf67d5c5576b27e52051ee42eaa0", null ],
-    [ "kVersionSize", "structSteinberg_1_1PClassInfoW.html#abed82baf7f470b522273a3e37c24c600af639cc09cb2106bdbd63cc5a4be8bc89", null ],
-    [ "kSubCategoriesSize", "structSteinberg_1_1PClassInfoW.html#abed82baf7f470b522273a3e37c24c600a9dfa52b0b8aabc14a4e753f1c2e37b5f", null ],
     [ "PClassInfoW", "structSteinberg_1_1PClassInfoW.html#aa9bbacedf981912769dee51d9f2b05f0", null ],
     [ "PClassInfoW", "structSteinberg_1_1PClassInfoW.html#ace7b45b143b16326d24f3783f28221ec", null ],
     [ "fromAscii", "structSteinberg_1_1PClassInfoW.html#a4bf4cd78c431e64f21d4bd2005813e9d", null ],

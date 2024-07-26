@@ -1,8 +1,8 @@
 var note__expression__synth__voice_8h =
 [
     [ "GlobalParameterState", "structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html", "structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState" ],
-    [ "VoiceStatics", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics" ],
-    [ "Voice", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice" ],
+    [ "VoiceStatics", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1VoiceStatics.html", null ],
+    [ "Voice< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice" ],
     [ "M_PI_MUL_2", "note__expression__synth__voice_8h.html#a2b12f538abaa78f3020c16a431d4eeb5", null ],
     [ "VoiceParameters", "note__expression__synth__voice_8h.html#a1ce3513d3c756afe6a0aecc8b8e7d45d", [
       [ "kVolumeMod", "note__expression__synth__voice_8h.html#a1ce3513d3c756afe6a0aecc8b8e7d45da5e10b316568bc305dce5048b0b4aa179", null ],

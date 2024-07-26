@@ -1,3 +1,4 @@
 <map id="IDataExchangeHandler" name="IDataExchangeHandler">
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="21,5,140,105"/>
+<area shape="rect" id="node1" title="Host Data Exchange handler interface: Vst::IDataExchangeHandler." alt="" coords="5,157,155,274"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="21,5,139,109"/>
 </map>

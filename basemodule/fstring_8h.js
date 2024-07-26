@@ -3,6 +3,10 @@ var fstring_8h =
     [ "ConstString", "classSteinberg_1_1ConstString.html", "classSteinberg_1_1ConstString" ],
     [ "String", "classSteinberg_1_1String.html", "classSteinberg_1_1String" ],
     [ "StringObject", "classSteinberg_1_1StringObject.html", "classSteinberg_1_1StringObject" ],
+    [ "NEWSTR8", "fstring_8h.html#ac0288ac3467c1183779a9c3458823797", null ],
+    [ "NEWSTR16", "fstring_8h.html#a00bc41be99620ec7a2195f4ad8f9b237", null ],
+    [ "DELETESTR8", "fstring_8h.html#abc50505107521a30a867ed1d0e8f1c11", null ],
+    [ "DELETESTR16", "fstring_8h.html#a9685b2d51de12a542a0eb0c0bca2a58d", null ],
     [ "MBCodePage", "fstring_8h.html#a879b9da0475eafb05527d00a3e87e198", [
       [ "kCP_ANSI", "fstring_8h.html#a879b9da0475eafb05527d00a3e87e198a4bc87ed163042e19a3c8c857f320e601", null ],
       [ "kCP_MAC_ROMAN", "fstring_8h.html#a879b9da0475eafb05527d00a3e87e198aece485d20e1f11025207f5d03331170b", null ],

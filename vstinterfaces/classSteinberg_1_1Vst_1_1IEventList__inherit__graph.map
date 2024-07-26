@@ -1,4 +1,5 @@
 <map id="IEventList" name="IEventList">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1EventList.html" title="{EventList\n|# events\l# maxSize\l# fillCount\l|+ EventList()\l+ ~EventList()\l+ getEventCount()\l+ getEvent()\l+ addEvent()\l+ setMaxSize()\l+ clear()\l+ getEventByIndex()\l}" alt="" coords="5,301,137,495"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="12,5,131,105"/>
+<area shape="rect" id="node1" title="List of events to process: Vst::IEventList." alt="" coords="11,157,131,260"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EventList" title=" " alt="" coords="5,308,137,509"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="12,5,130,109"/>
 </map>

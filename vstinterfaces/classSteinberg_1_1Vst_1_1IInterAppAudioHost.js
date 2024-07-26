@@ -6,6 +6,6 @@ var classSteinberg_1_1Vst_1_1IInterAppAudioHost =
     [ "sendRemoteControlEvent", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a8d4eef17f1de81905a5936f9849de029", null ],
     [ "getHostIcon", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a4ec60e594f7ad548f697c39c252191d0", null ],
     [ "scheduleEventFromUI", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a83a79b604432e251a09cbfcdc0b367a8", null ],
-    [ "createPresetManager", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#ae2524b3ead8126059bc897d1a97047e5", null ],
+    [ "createPresetManager", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a2d423bd55bda750e553d5da5e970b239", null ],
     [ "showSettingsView", "classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#aa6d66ecd68a991b8c12c40f39a5799c1", null ]
 ];

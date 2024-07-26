@@ -11,9 +11,13 @@
     <br/>
     <hr width="100%" size="2" align="left" />
     <div align=right>
-        Copyright &copy;2024 <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
+        Copyright &copy;<span id="year"></span> <a href="http://www.steinberg.net" target="_blank"><u>Steinberg Media Technologies GmbH</u></a>.
         All Rights Reserved. This documentation is under this <a href="http://www.steinberg.net/sdklicenses" target="_blank"><u>license</u></a>.
     </div>
+
+    <script>
+        document.querySelector("#year").textContent = new Date().getFullYear();
+    </script>
 </body>
 
 </html>

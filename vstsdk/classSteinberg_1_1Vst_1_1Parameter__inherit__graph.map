@@ -1,4 +1,6 @@
 <map id="Parameter" name="Parameter">
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1RangeParameter.html" title="Description of a RangeParameter." alt="" coords="5,395,140,601"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1StringListParameter.html" title="Description of a StringListParameter." alt="" coords="165,408,319,588"/>
+<area shape="rect" id="node1" title="Description of a Parameter." alt="" coords="94,129,218,358"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1RangeParameter.html" title="Description of a RangeParameter." alt="" coords="5,406,139,621"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1StringListParameter.html" title="Description of a StringListParameter." alt="" coords="163,420,317,607"/>
+<area shape="rect" id="node2" title=" " alt="" coords="124,5,188,81"/>
 </map>

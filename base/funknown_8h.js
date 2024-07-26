@@ -1,6 +1,6 @@
 var funknown_8h =
 [
-    [ "FUnknownPtr", "classSteinberg_1_1FUnknownPtr.html", "classSteinberg_1_1FUnknownPtr" ],
+    [ "FUnknownPtr< I >", "classSteinberg_1_1FUnknownPtr.html", "classSteinberg_1_1FUnknownPtr" ],
     [ "FReleaser", "structSteinberg_1_1FReleaser.html", "structSteinberg_1_1FReleaser" ],
     [ "INLINE_UID", "funknown_8h.html#a8024fad3ea7ecdd1ab3221d15e04aa52", null ],
     [ "DECLARE_UID", "funknown_8h.html#a5e349c26a022f90b3562eeb32976e6ed", null ],
@@ -19,16 +19,7 @@ var funknown_8h =
     [ "IMPLEMENT_FUNKNOWN_METHODS", "funknown_8h.html#a3131ec3273dc17d39bef17154309b893", null ],
     [ "LARGE_INT", "funknown_8h.html#a9cd1730908299276af7bc0baa8c5197e", null ],
     [ "TUID", "funknown_8h.html#a6935af93744bfe4ecc455f274ef1ec36", null ],
-    [ "kNoInterface", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba21f2c8af375a407ff9fb8d10e8e73a17", null ],
-    [ "kResultOk", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba941549edbe23d0f21851403ae03ad4df", null ],
-    [ "kResultTrue", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba9e60fad4624bee040985edebe1800372", null ],
-    [ "kResultFalse", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55bab954d2583eb15d3a762c5df29270f483", null ],
-    [ "kInvalidArgument", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55bace91375677eb541c1a70e7ecd95f5698", null ],
-    [ "kNotImplemented", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba598e4c5d4c234c1bf09367d64487519c", null ],
-    [ "kInternalError", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba3b287aa91111dd8aedf4bbf363e01525", null ],
-    [ "kNotInitialized", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba1216e3377e943f8898e78c63422924aa", null ],
-    [ "kOutOfMemory", "funknown_8h.html#a06fc87d81c62e9abb8790b6e5713c55bac43d80137687fc5c1c4b60dc77202283", null ],
     [ "iidEqual", "funknown_8h.html#aa492cc7f50f5f6bfb7bd727a115e211e", null ],
     [ "atomicAdd", "funknown_8h.html#aeab173beb18bb16a5737f9fbe0a45289", null ],
-    [ "getTUID", "funknown_8h.html#a1f27423c4c95cdb487e39ca650c8785b", null ]
+    [ "getTUID", "funknown_8h.html#afd6bc78c280406220f8af5436c191fff", null ]
 ];

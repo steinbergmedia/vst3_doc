@@ -1,3 +1,26 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSteinberg_1_1FVariant.html" title="A Value of variable type." alt="" coords="5,5,72,31"/>
+<area shape="rect" id="node1" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,487,86,513"/>
+<area shape="rect" id="node2" href="$structSteinberg_1_1FUnknownImpl_1_1HideIIDBase.html" title="A base class which hides the FUnknown::iid static var." alt="" coords="185,5,276,31"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1IAttributes.html" title="Object Data Archive Interface." alt="" coords="193,56,268,82"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1IBStream.html" title="Base class for streams." alt="" coords="195,107,266,133"/>
+<area shape="rect" id="node6" href="$classSteinberg_1_1ICloneable.html" title="Interface allowing an object to be copied." alt="" coords="190,157,271,183"/>
+<area shape="rect" id="node7" href="$classSteinberg_1_1IDependent.html" title="A dependent will get notified about changes of a model." alt="" coords="188,208,273,234"/>
+<area shape="rect" id="node8" href="$classSteinberg_1_1IErrorContext.html" title="Interface for error handling." alt="" coords="184,259,277,285"/>
+<area shape="rect" id="node9" href="$classSteinberg_1_1IPersistent.html" title="Persistent Object Interface." alt="" coords="191,309,270,335"/>
+<area shape="rect" id="node10" href="$classSteinberg_1_1IPlugFrame.html" title="Callback interface passed to IPlugView." alt="" coords="188,360,273,386"/>
+<area shape="rect" id="node11" href="$classSteinberg_1_1IPlugView.html" title="Plug&#45;in definition of a view." alt="" coords="192,411,269,437"/>
+<area shape="rect" id="node12" href="$classSteinberg_1_1IPlugViewContentScaleSupport.html" title="Plug&#45;in view content scale support." alt="" coords="134,461,327,487"/>
+<area shape="rect" id="node13" href="$classSteinberg_1_1IPluginBase.html" title="Basic interface to a plug&#45;in component: IPluginBase." alt="" coords="187,512,274,538"/>
+<area shape="rect" id="node14" href="$classSteinberg_1_1IPluginCompatibility.html" title="optional interface to query the compatibility of the plug&#45;ins classes" alt="" coords="165,563,296,589"/>
+<area shape="rect" id="node15" href="$classSteinberg_1_1IPluginFactory.html" title="Class factory that any plug&#45;in defines for creating class instances: IPluginFactory." alt="" coords="181,613,280,639"/>
+<area shape="rect" id="node18" href="$classSteinberg_1_1ISizeableStream.html" title="Stream with a size." alt="" coords="175,664,286,690"/>
+<area shape="rect" id="node19" href="$classSteinberg_1_1IString.html" title="Interface to a string of variable size and encoding." alt="" coords="202,715,259,741"/>
+<area shape="rect" id="node20" href="$classSteinberg_1_1IStringResult.html" title="Interface to return an ascii string of variable size." alt="" coords="185,765,276,791"/>
+<area shape="rect" id="node21" href="$classSteinberg_1_1IUpdateHandler.html" title="Host implements dependency handling for plugins." alt="" coords="176,816,285,842"/>
+<area shape="rect" id="node22" href="$classSteinberg_1_1Linux_1_1IEventHandler.html" title="Linux event handler interface." alt="" coords="181,867,280,893"/>
+<area shape="rect" id="node23" href="$classSteinberg_1_1Linux_1_1IRunLoop.html" title="Linux host run loop interface." alt="" coords="193,917,268,943"/>
+<area shape="rect" id="node24" href="$classSteinberg_1_1Linux_1_1ITimerHandler.html" title="Linux timer handler interface." alt="" coords="181,968,280,994"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1IAttributes2.html" title="Extended access to Attributes; supports Attribute retrieval via iteration." alt="" coords="387,56,469,82"/>
+<area shape="rect" id="node16" href="$classSteinberg_1_1IPluginFactory2.html" title="Version 2 of class factory supporting PClassInfo2: IPluginFactory2." alt="" coords="375,613,481,639"/>
+<area shape="rect" id="node17" href="$classSteinberg_1_1IPluginFactory3.html" title="Version 3 of class factory supporting PClassInfoW: IPluginFactory3." alt="" coords="529,613,636,639"/>
 </map>

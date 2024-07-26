@@ -11,7 +11,7 @@ var class_v_s_t_g_u_i_1_1_compressed_u_i_description =
       [ "kNoPlainXmlFileBackup", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a77588b7388318558cf0059438f294205ac2598a4dde30ec1f7cfb71df11248f36", null ]
     ] ],
     [ "CompressedUIDescription", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a5bb29719a65ceb404ce8bda4bac73e1b", null ],
-    [ "getOriginalIsCompressed", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a2b6a655845a5f36f3f4443c99fae2251", null ],
+    [ "getOriginalIsCompressed", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a8220ddc1398a317046ac189619f78b24", null ],
     [ "parse", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a0e8462cbdb966d03d6363033d4e588a3", null ],
     [ "save", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#af883ecc391472b26a25028f4c06a1bed", null ],
     [ "setCompressionLevel", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a5126ae39c5b1d2c0f488d65b6184d002", null ]

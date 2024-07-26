@@ -1,4 +1,5 @@
 <map id="ParamChanges" name="ParamChanges">
-<area shape="rect" id="node2" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParamValueQueue.html" title="{IParamValueQueue\n|+ iid\l|+ getParameterId()\l+ getPointCount()\l+ getPoint()\l+ addPoint()\l}" alt="" coords="21,153,150,267"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="26,5,145,105"/>
+<area shape="rect" id="node1" title="AutomationTest helper classes: implementation of IParamValueQueue." alt="" coords="5,322,165,551"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParamValueQueue" title=" " alt="" coords="21,157,149,274"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="26,5,144,109"/>
 </map>

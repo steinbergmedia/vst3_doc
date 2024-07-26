@@ -1,4 +1,5 @@
 <map id="IParameterChanges" name="IParameterChanges">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterChanges.html" title="{ParameterChanges\n|# queues\l# usedQueueCount\l|+ ParameterChanges()\l+ ~ParameterChanges()\l+ clearQueue()\l+ setMaxParameters()\l+ getParameterCount()\l+ getParameterData()\l+ addParameterData()\l}" alt="" coords="5,301,160,468"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="23,5,142,105"/>
+<area shape="rect" id="node1" title="All parameter changes of a processing block: Vst::IParameterChanges." alt="" coords="9,157,155,260"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ParameterChanges" title=" " alt="" coords="5,308,159,481"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="23,5,141,109"/>
 </map>

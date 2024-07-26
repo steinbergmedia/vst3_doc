@@ -1,3 +1,4 @@
 <map id="IParameterFinder" name="IParameterFinder">
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="5,5,124,105"/>
+<area shape="rect" id="node1" title="Extension for IPlugView to find view parameters (lookup value under mouse support): Vst::IParameterFi..." alt="" coords="6,157,122,232"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="5,5,123,109"/>
 </map>

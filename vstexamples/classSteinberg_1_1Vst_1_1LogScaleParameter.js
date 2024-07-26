@@ -1,9 +1,8 @@
 var classSteinberg_1_1Vst_1_1LogScaleParameter =
 [
-    [ "LogScaleParameter", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#a97df6afca0d6e50d9f96e05c33ab7d5a", null ],
-    [ "toString", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#a4fcf42f8bf05a987eea542a8ca66be1b", null ],
-    [ "fromString", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#afd9fed1cb3992645fc1f22b7862c2453", null ],
-    [ "toPlain", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#aeb06713e7c954a488ea7e38584081d8f", null ],
-    [ "toNormalized", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#a97263ffb42a20809b0265e426eef11d2", null ],
-    [ "multiplier", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#a1812bfbb9b7bbfd4f7349d44ba6b8ee7", null ]
+    [ "LogScaleParameter", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#adba578cb2eb7bb794dd38d22adcb8396", null ],
+    [ "toString", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#ab8cb2d05d8f8af76a610e783faecb324", null ],
+    [ "fromString", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#af7aab53314d6d62ad5b017ba85ab50b5", null ],
+    [ "toPlain", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#af7e7f0fc9f3c394f66dc5a8947742272", null ],
+    [ "toNormalized", "classSteinberg_1_1Vst_1_1LogScaleParameter.html#a64274ff145c58620b9b7c32fff087049", null ]
 ];

@@ -1,4 +1,5 @@
 <map id="ScaledParameter" name="ScaledParameter">
-<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html" title="{BaseParameter\n||+ BaseParameter()\l+ fromString()\l+ setNormalized()\l}" alt="" coords="10,273,135,373"/>
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title="{Parameter\n|+ valueNormalized\l+ precision\l|+ Parameter()\l+ Parameter()\l+ Parameter()\l+ ~Parameter()\l+ getInfo()\l+ getInfo()\l+ setUnitID()\l+ getUnitID()\l+ getNormalized()\l+ setNormalized()\land 6 more...\l}" alt="" coords="10,5,135,225"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,434,140,593"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html" title=" " alt="" coords="10,283,135,386"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter" title=" " alt="" coords="10,5,135,235"/>
 </map>

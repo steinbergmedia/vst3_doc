@@ -1,8 +1,8 @@
 var structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay =
 [
     [ "Delay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a59bfd0438cb1c6514a34373f69437691", null ],
-    [ "hasDelay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a1a013a451f71921f677fc504173431e3", null ],
-    [ "getBufferSamples", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a05a8c092918b02827815cc8af99e453e", null ],
+    [ "hasDelay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a4417deada38e35a1cb0f55cd30381d9e", null ],
+    [ "getBufferSamples", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a3627ef96ac5c7995539df05aa9570732", null ],
     [ "process", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a527d5a9fd900143afb37fd62da983285", null ],
     [ "flush", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#adac116554b543b7c4228c018a85882f5", null ],
     [ "mDelayBuffer", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a7b0892748450b983c4775c5ffdc3a24d", null ],

@@ -1,4 +1,5 @@
 <map id="IHostApplication" name="IHostApplication">
-<area shape="rect" id="node3" href="vstsdk.tag$classSteinberg_1_1Vst_1_1HostApplication.html" title="{HostApplication\n||+ HostApplication()\l+ ~HostApplication()\l+ getName()\l+ createInstance()\l+ getPlugInterfaceSupport()\l}" alt="" coords="5,288,177,415"/>
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="32,5,151,105"/>
+<area shape="rect" id="node1" title="Basic host callback interface: Vst::IHostApplication." alt="" coords="31,157,151,246"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1HostApplication" title=" " alt="" coords="5,294,177,425"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="32,5,150,109"/>
 </map>

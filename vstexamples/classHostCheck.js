@@ -6,6 +6,6 @@ var classHostCheck =
     [ "setProcessSetup", "classHostCheck.html#ac41b1bd0b53ff9d14dabcd95cddedcac", null ],
     [ "setComponent", "classHostCheck.html#a13c4ecb2dba03d3cfb14ae0d2e7aa6f6", null ],
     [ "validate", "classHostCheck.html#ad9813477ab849f30eac311e34705eae0", null ],
-    [ "getEventLogs", "classHostCheck.html#a403d1028dd5a95698e892c3f30f746c7", null ],
-    [ "getEventLogger", "classHostCheck.html#a8842e527c741d16c41b03bdaf75c47a1", null ]
+    [ "getEventLogs", "classHostCheck.html#a8e69d207c748cefe0903eec15345fc34", null ],
+    [ "getEventLogger", "classHostCheck.html#abacc0ec33e196fb0b1304a56c62f5e79", null ]
 ];

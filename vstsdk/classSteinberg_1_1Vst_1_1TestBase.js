@@ -2,7 +2,7 @@ var classSteinberg_1_1Vst_1_1TestBase =
 [
     [ "TestBase", "classSteinberg_1_1Vst_1_1TestBase.html#a7d0b00b1d6236ce752a133e9ef713c11", null ],
     [ "~TestBase", "classSteinberg_1_1Vst_1_1TestBase.html#ad2150d88fc7754ff1131930bd90728a3", null ],
-    [ "getName", "classSteinberg_1_1Vst_1_1TestBase.html#a144500b31544cf7c45c8562ebd9985fe", null ],
+    [ "getName", "classSteinberg_1_1Vst_1_1TestBase.html#a34dd7b93357edb368dc425d814bab0e2", null ],
     [ "setup", "classSteinberg_1_1Vst_1_1TestBase.html#a9b4ec98f480506d062a27f0eef17374e", null ],
     [ "run", "classSteinberg_1_1Vst_1_1TestBase.html#a61757a2824b38b279c3be2ed20ccddeb", null ],
     [ "teardown", "classSteinberg_1_1Vst_1_1TestBase.html#a3d1fb91255e41edeeaee8794cd488720", null ],

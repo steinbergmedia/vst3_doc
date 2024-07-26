@@ -6,7 +6,7 @@ var class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface =
     [ "beginEdit", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a9caf292b83f96562e7e8c99f2a07624f", null ],
     [ "doIdleStuff", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a07c23c5dd0cd1093dbd073aa1290b028", null ],
     [ "endEdit", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a9971b48d1eddda8aa43073733539eb9e", null ],
-    [ "getFrame", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a1eddc5beb8b15b64afc943d2c898b43e", null ],
-    [ "getKnobMode", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a055cc3647efae25d32645a4d44c59426", null ],
+    [ "getFrame", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a11fdef3dd0b2635d60542be34c0b5b81", null ],
+    [ "getKnobMode", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a1bfecf2f4ae3d46222627b2e89597629", null ],
     [ "frame", "class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a23b3f95ade5bceeafa5769ac7cdf94b4", null ]
 ];

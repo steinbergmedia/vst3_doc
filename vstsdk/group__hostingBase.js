@@ -5,25 +5,25 @@ var group__hostingBase =
       [ "~HostApplication", "classSteinberg_1_1Vst_1_1HostApplication.html#a682147e83d7a2350ed741b45f0e019cf", null ],
       [ "getName", "classSteinberg_1_1Vst_1_1HostApplication.html#abcfd783e3f96ce0afe0bbd6aa6a5a100", null ],
       [ "createInstance", "classSteinberg_1_1Vst_1_1HostApplication.html#aabc455f83c75009b923bc44a3ca49a90", null ],
-      [ "getPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#aa5be70d82b7920c483cff0230e293a8b", null ]
+      [ "getPlugInterfaceSupport", "classSteinberg_1_1Vst_1_1HostApplication.html#ad2b97d46a3f77dec0e10680b728ce534", null ]
     ] ],
-    [ "HostAttributeList", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html", [
-      [ "~HostAttributeList", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#aaf902b05ae06e0ba573bf390edc0807c", null ],
-      [ "setInt", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#af3bfc664b767bb69eb62f3c296bc91aa", null ],
-      [ "getInt", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#aa943e02feb31ca2ebc5dfef56a15e21a", null ],
-      [ "setFloat", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#a7c6a0e107b24297dd13296f9d21bf492", null ],
-      [ "getFloat", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#a16ad5bae15e27321262938d8be3ab2f6", null ],
-      [ "setString", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#ac8a3ddc9adea2879056969ed64c9a1c7", null ],
-      [ "getString", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#ab2c98c04d421edae097e036bbe258fde", null ],
-      [ "setBinary", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#ad1d557981b22013abfe8f42e99ce0122", null ],
-      [ "getBinary", "exceptionSteinberg_1_1Vst_1_1HostAttributeList.html#aa2ccb6c5f69d861062845db0c5445914", null ]
+    [ "HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html", [
+      [ "~HostAttributeList", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aaf902b05ae06e0ba573bf390edc0807c", null ],
+      [ "setInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#af3bfc664b767bb69eb62f3c296bc91aa", null ],
+      [ "getInt", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aa943e02feb31ca2ebc5dfef56a15e21a", null ],
+      [ "setFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a7c6a0e107b24297dd13296f9d21bf492", null ],
+      [ "getFloat", "classSteinberg_1_1Vst_1_1HostAttributeList.html#a16ad5bae15e27321262938d8be3ab2f6", null ],
+      [ "setString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ac8a3ddc9adea2879056969ed64c9a1c7", null ],
+      [ "getString", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ab2c98c04d421edae097e036bbe258fde", null ],
+      [ "setBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#ad1d557981b22013abfe8f42e99ce0122", null ],
+      [ "getBinary", "classSteinberg_1_1Vst_1_1HostAttributeList.html#aa2ccb6c5f69d861062845db0c5445914", null ]
     ] ],
-    [ "HostMessage", "exceptionSteinberg_1_1Vst_1_1HostMessage.html", [
-      [ "HostMessage", "exceptionSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75", null ],
-      [ "~HostMessage", "exceptionSteinberg_1_1Vst_1_1HostMessage.html#afa5e6400ac20881481fc810e945868fe", null ],
-      [ "getMessageID", "exceptionSteinberg_1_1Vst_1_1HostMessage.html#acea3be2c0b1776d7e08d4c105b073701", null ],
-      [ "setMessageID", "exceptionSteinberg_1_1Vst_1_1HostMessage.html#a856dd59c08aab6d5c775afb7a94a0944", null ],
-      [ "getAttributes", "exceptionSteinberg_1_1Vst_1_1HostMessage.html#aaf7a55b1a5216de03a9640fabf9b604e", null ]
+    [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html", [
+      [ "HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75", null ],
+      [ "~HostMessage", "classSteinberg_1_1Vst_1_1HostMessage.html#afa5e6400ac20881481fc810e945868fe", null ],
+      [ "getMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#acea3be2c0b1776d7e08d4c105b073701", null ],
+      [ "setMessageID", "classSteinberg_1_1Vst_1_1HostMessage.html#a856dd59c08aab6d5c775afb7a94a0944", null ],
+      [ "getAttributes", "classSteinberg_1_1Vst_1_1HostMessage.html#aaf7a55b1a5216de03a9640fabf9b604e", null ]
     ] ],
     [ "ParameterValueQueue", "classSteinberg_1_1Vst_1_1ParameterValueQueue.html", [
       [ "ParameterQueueValue", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", [
@@ -92,8 +92,8 @@ var group__hostingBase =
       [ "setChannelBuffer64", "classSteinberg_1_1Vst_1_1HostProcessData.html#a796f58f03d7aaa775291b741b99934ff", null ],
       [ "createBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#a31f69806459b22b6d413bc10e0bd849c", null ],
       [ "destroyBuffers", "classSteinberg_1_1Vst_1_1HostProcessData.html#ac9368c70233f027934c6414975720e68", null ],
-      [ "checkIfReallocationNeeded", "classSteinberg_1_1Vst_1_1HostProcessData.html#a67b02cbe272c27f0e21625542d40b33b", null ],
-      [ "isValidBus", "classSteinberg_1_1Vst_1_1HostProcessData.html#ac2afc09d9322d9b10604622a9603c2f4", null ],
+      [ "checkIfReallocationNeeded", "classSteinberg_1_1Vst_1_1HostProcessData.html#a4fe620da0769422d9cad2cf872e54914", null ],
+      [ "isValidBus", "classSteinberg_1_1Vst_1_1HostProcessData.html#aac85e944298eabcb099f9a98e6e97a94", null ],
       [ "channelBufferOwner", "classSteinberg_1_1Vst_1_1HostProcessData.html#ad2956018947469c5d5d17d86ee868f2a", null ]
     ] ]
 ];

@@ -1,8 +1,8 @@
 var futils_8h =
 [
     [ "CCONST", "futils_8h.html#abe9ebeb8fb703ceffa08dc69d920a27d", null ],
-    [ "Min", "futils_8h.html#affba9ed0dfe13309d79094f10bbc6021", null ],
-    [ "Max", "futils_8h.html#a0f480f7384f085c2606eff5f310ad194", null ],
+    [ "Min", "futils_8h.html#adac5f7e0dd537bfda376c3b96dd601f3", null ],
+    [ "Max", "futils_8h.html#a0c6c7876dc38fc4fedff0501ffd74457", null ],
     [ "Abs", "futils_8h.html#aba3ecff4e181af61d1fb90a1ebdddf4b", null ],
     [ "Sign", "futils_8h.html#aa79ff23f611f74e51508de6f934d9b74", null ],
     [ "Bound", "futils_8h.html#a1d0f063a19e621ae10e8e532e0ce3395", null ],

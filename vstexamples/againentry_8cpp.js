@@ -2,8 +2,8 @@ var againentry_8cpp =
 [
     [ "stringPluginName", "againentry_8cpp.html#a580d3236cf2654394fd9dda85651efc0", null ],
     [ "stringPluginSideChainName", "againentry_8cpp.html#a145bc98d1f6c61e9403c3fc8c0b66848", null ],
-    [ "BEGIN_FACTORY_DEF", "againentry_8cpp.html#a1993e346ea04a8993eed2597bcc05eaf", null ],
-    [ "DEF_CLASS2", "againentry_8cpp.html#a308ae2f119240125745edc29ac2f0139", null ],
+    [ "BEGIN_FACTORY_DEF", "againentry_8cpp.html#aa728b26b0b0f9502bc35257f281623cf", null ],
+    [ "DEF_CLASS2", "againentry_8cpp.html#afb47ed7b6138deab89806d7f4bcc82d9", null ],
     [ "kVstAudioEffectClass", "againentry_8cpp.html#a747235f6e5700e3fbd1d59010b512b50", null ],
     [ "VST3", "againentry_8cpp.html#aa2957643985a01da1edc5c69727584d1", null ],
     [ "Fx", "againentry_8cpp.html#a5b22b8428105605e67654e907261ab0a", null ],

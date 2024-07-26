@@ -8,7 +8,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor =
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
-    [ "param", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#aa9ee7461569e2f0b293d2f65df6f4710", null ],
+    [ "param", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#aed478d08a72a66ad70272c9d0513df56", null ],
     [ "thru", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a46fc11aca1e39fba7c5033c40690c4a7", null ],
     [ "left", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a7d10b0c779bad3aabf067d52035f7052", null ],
     [ "right", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a6202f38a97a1c9eb0142baeb338cf1f1", null ],

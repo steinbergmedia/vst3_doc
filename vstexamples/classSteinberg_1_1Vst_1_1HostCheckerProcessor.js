@@ -52,5 +52,8 @@ var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
     [ "dataExchangeHandler", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a804638e2145a4f4e6fdcac6e2d959a1b", null ],
     [ "mLastExchangeBlockSendSystemTime", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a5226097f06ed3b646babc1506b2aa46d", null ],
     [ "mBypass", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aa09864e5d6f2062a14eb8ad2d1db297d", null ],
-    [ "mSetActiveCalled", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab2e0fa82b6165abab8cb9fe58b424b91", null ]
+    [ "mSetActiveCalled", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab2e0fa82b6165abab8cb9fe58b424b91", null ],
+    [ "mCheckGetLatencyCall", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a84dee4ea21eb88b001b6332b3164f2b3", null ],
+    [ "mGetLatencyCalled", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a344c3b1a9c4375d6b53be31b2d08fee3", null ],
+    [ "mGetLatencyCalledAfterSetActive", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a31c997548a57f2668f5c44ea29df7fad", null ]
 ];

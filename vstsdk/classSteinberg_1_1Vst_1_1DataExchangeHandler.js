@@ -13,5 +13,5 @@ var classSteinberg_1_1Vst_1_1DataExchangeHandler =
     [ "sendCurrentBlock", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a97ca1031d43944ec348aab7d5a060b8c", null ],
     [ "discardCurrentBlock", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a49505377ab844ba48d3b85fd224f7d63", null ],
     [ "enable", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a66d8feb44d790d1c96e76ffd13b54bb0", null ],
-    [ "isEnabled", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html#ae2931e09e0fd8eac15c83f0254b4e4ac", null ]
+    [ "isEnabled", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html#aacb819fb241851fd9fc045271baa4034", null ]
 ];

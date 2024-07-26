@@ -1,80 +1,30 @@
-var NAVTREE =
-[
-  [ "VSTGUI", "index.html", [
-    [ "Introduction", "index.html#intro", null ],
-    [ "Setup", "page_setup.html", null ],
-    [ "New stuff in VSTGUI 4", "page_news_and_changes.html", "page_news_and_changes" ],
-    [ "License", "page_license.html", null ],
-    [ "Creating user interfaces", "uidescription.html", "uidescription" ],
-    [ "Standalone Library", "standalone_library.html", [
-      [ "About", "standalone_library.html#standalone_about", null ],
-      [ "Bindings", "standalone_library.html#standalone_modelbinding", null ],
-      [ "Customization", "standalone_library.html#standalone_window_customization", null ],
-      [ "Supported operating systems", "standalone_library.html#standalone_supported_os", null ],
-      [ "Compiler requirements", "standalone_library.html#standalone_compiler_requirements", null ]
-    ] ],
-    [ "Miscellaneous", "page_misc.html", "page_misc" ],
-    [ "Deprecated List", "deprecated.html", null ],
-    [ "Modules", "modules.html", "modules" ],
-    [ "Namespaces", null, [
-      [ "Namespace List", "namespaces.html", "namespaces" ],
-      [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
-        [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
-      ] ]
-    ] ],
-    [ "Classes", null, [
-      [ "Class List", "annotated.html", "annotated" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Typedefs", "functions_type.html", null ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", "functions_eval" ],
-        [ "Related Functions", "functions_rela.html", null ]
-      ] ]
-    ] ]
-  ] ]
-];
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
 
-var NAVTREEINDEX =
-[
-"annotated.html",
-"class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html#a2ff96652e89b99f424c047a59e85850d",
-"class_v_s_t_g_u_i_1_1_c_check_box.html",
-"class_v_s_t_g_u_i_1_1_c_draw_context.html#a59b405c179bf9c106c3066654a5aa57d",
-"class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a84f1ef44c839b7efebf5771f7e7b13f8",
-"class_v_s_t_g_u_i_1_1_c_menu_item.html#ad82def3068a469a676185f3d5de8bb4b",
-"class_v_s_t_g_u_i_1_1_c_param_display.html#a8a7b630abf596701c7bc80250640196d",
-"class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4433ff4e66b32c32a4b90436e369ec39",
-"class_v_s_t_g_u_i_1_1_c_splash_screen.html#a5b14ff21723bfb38a56f735bdcc1dfb7",
-"class_v_s_t_g_u_i_1_1_c_text_button.html#ac552d2f0e04f7e4a612b11339d190df0",
-"class_v_s_t_g_u_i_1_1_c_view.html#a9ee172fcd9ca5d6ee196f270717341cf",
-"class_v_s_t_g_u_i_1_1_dispatch_list.html#a684f0c4ebba9e0799262c9870b3956fa",
-"class_v_s_t_g_u_i_1_1_i_u_i_description.html#a7a2b19358c2e79b79c065087391307a5",
-"class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#a51de43dfb266e6e9f1bcc0dff4123034",
-"class_v_s_t_g_u_i_1_1_string_list_control_drawer.html#a9bafb95366e382dcfd0e08a07396c9b5",
-"class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html",
-"class_v_s_t_g_u_i_1_1_z_lib_output_stream.html#a46143fd6de3be9ab9951f140d3ae8c2f",
-"functions_eval_0x77.html",
-"namespace_v_s_t_g_u_i_1_1_standalone.html",
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html#ad47dfac3af8f8d02d777f0e291843650",
-"struct_v_s_t_g_u_i_1_1_c_rect.html#a86b47688f3e62e6d52eaf7470a615fa8",
-"struct_v_s_t_g_u_i_1_1_listener_provider.html#aef83aafdad21804f3a48eb7410d44c8a",
-"struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_check_box_creator.html#a94e0d3f25444bc5c775a4bf175c3f871",
-"struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_text_label_creator.html#a3416339a6d69ab40975c35995e59fb59"
-];
+ The MIT License (MIT)
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+ */
 var navTreeSubIndices = new Array();
+var arrowDown = '&#9660;';
+var arrowRight = '&#9658;';
 
 function getData(varName)
 {
@@ -96,6 +46,21 @@ function stripPath2(uri)
   return m ? uri.substring(i-6) : s;
 }
 
+function hashValue()
+{
+  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g,'');
+}
+
+function hashUrl()
+{
+  return '#'+hashValue();
+}
+
+function pathName()
+{
+  return $(location).attr('pathname').replace(/[^-A-Za-z0-9+&@#/%?=~_|!:,.;\(\)]/g, '');
+}
+
 function localStorageSupported()
 {
   try {
@@ -105,7 +70,6 @@ function localStorageSupported()
     return false;
   }
 }
-
 
 function storeLink(link)
 {
@@ -118,7 +82,7 @@ function deleteLink()
 {
   if (localStorageSupported()) {
     window.localStorage.setItem('navpath','');
-  } 
+  }
 }
 
 function cachedLink()
@@ -132,21 +96,13 @@ function cachedLink()
 
 function getScript(scriptName,func,show)
 {
-  var head = document.getElementsByTagName("head")[0]; 
+  var head = document.getElementsByTagName("head")[0];
   var script = document.createElement('script');
   script.id = scriptName;
   script.type = 'text/javascript';
-  script.onload = func; 
-  script.src = scriptName+'.js'; 
-  if ($.browser.msie && $.browser.version<=8) { 
-    // script.onload does not work with older versions of IE
-    script.onreadystatechange = function() {
-      if (script.readyState=='complete' || script.readyState=='loaded') { 
-        func(); if (show) showRoot(); 
-      }
-    }
-  }
-  head.appendChild(script); 
+  script.onload = func;
+  script.src = scriptName+'.js';
+  head.appendChild(script);
 }
 
 function createIndent(o,domNode,node,level)
@@ -154,19 +110,18 @@ function createIndent(o,domNode,node,level)
   var level=-1;
   var n = node;
   while (n.parentNode) { level++; n=n.parentNode; }
-  var imgNode = document.createElement("img");
-  imgNode.style.paddingLeft=(16*level).toString()+'px';
-  imgNode.width  = 16;
-  imgNode.height = 22;
-  imgNode.border = 0;
   if (node.childrenData) {
+    var imgNode = document.createElement("span");
+    imgNode.className = 'arrow';
+    imgNode.style.paddingLeft=(16*level).toString()+'px';
+    imgNode.innerHTML=arrowRight;
     node.plus_img = imgNode;
     node.expandToggle = document.createElement("a");
     node.expandToggle.href = "javascript:void(0)";
     node.expandToggle.onclick = function() {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
-        node.plus_img.src = node.relpath+"ftv2pnode.png";
+        node.plus_img.innerHTML=arrowRight;
         node.expanded = false;
       } else {
         expandNode(o, node, false, false);
@@ -174,11 +129,13 @@ function createIndent(o,domNode,node,level)
     }
     node.expandToggle.appendChild(imgNode);
     domNode.appendChild(node.expandToggle);
-    imgNode.src = node.relpath+"ftv2pnode.png";
   } else {
-    imgNode.src = node.relpath+"ftv2node.png";
-    domNode.appendChild(imgNode);
-  } 
+    var span = document.createElement("span");
+    span.className = 'arrow';
+    span.style.width   = 16*(level+1)+'px';
+    span.innerHTML = '&#160;';
+    domNode.appendChild(span);
+  }
 }
 
 var animationInProgress = false;
@@ -186,11 +143,14 @@ var animationInProgress = false;
 function gotoAnchor(anchor,aname,updateLocation)
 {
   var pos, docContent = $('#doc-content');
-  if (anchor.parent().attr('class')=='memItemLeft' ||
-      anchor.parent().attr('class')=='fieldtype' ||
-      anchor.parent().is(':header')) 
+  var ancParent = $(anchor.parent());
+  if (ancParent.hasClass('memItemLeft') ||
+      ancParent.hasClass('memtitle') ||
+      ancParent.hasClass('fieldname') ||
+      ancParent.hasClass('fieldtype') ||
+      ancParent.is(':header'))
   {
-    pos = anchor.parent().position().top;
+    pos = ancParent.position().top;
   } else if (anchor.position()) {
     pos = anchor.position().top;
   }
@@ -248,9 +208,9 @@ function newNode(o, po, text, link, childrenData, lastNode)
     a.className = stripPath(link.replace('#',':'));
     if (link.indexOf('#')!=-1) {
       var aname = '#'+link.split('#')[1];
-      var srcPage = stripPath($(location).attr('pathname'));
+      var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
-      a.href = srcPage!=targetPage ? url : "javascript:void(0)"; 
+      a.href = srcPage!=targetPage ? url : "javascript:void(0)";
       a.onclick = function(){
         storeLink(link);
         if (!$(a).parent().parent().hasClass('selected'))
@@ -268,7 +228,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
       a.onclick = function() { storeLink(link); }
     }
   } else {
-    if (childrenData != null) 
+    if (childrenData != null)
     {
       a.className = "nolink";
       a.href = "javascript:void(0)";
@@ -298,7 +258,7 @@ function showRoot()
   (function (){ // retry until we can scroll to the selected item
     try {
       var navtree=$('#nav-tree');
-      navtree.scrollTo('#selected',0,{offset:-windowHeight/2});
+      navtree.scrollTo('#selected',100,{offset:-windowHeight/2});
     } catch (err) {
       setTimeout(arguments.callee, 0);
     }
@@ -317,17 +277,9 @@ function expandNode(o, node, imm, showRoot)
     } else {
       if (!node.childrenVisited) {
         getNode(o, node);
-      } if (imm || ($.browser.msie && $.browser.version>8)) { 
-        // somehow slideDown jumps to the start of tree for IE9 :-(
-        $(node.getChildrenUL()).show();
-      } else {
-        $(node.getChildrenUL()).slideDown("fast");
       }
-      if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
-      } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
-      }
+      $(node.getChildrenUL()).slideDown("fast");
+      node.plus_img.innerHTML = arrowDown;
       node.expanded = true;
     }
   }
@@ -342,14 +294,13 @@ function glowEffect(n,duration)
 
 function highlightAnchor()
 {
-  var aname = $(location).attr('hash');
+  var aname = hashUrl();
   var anchor = $(aname);
   if (anchor.parent().attr('class')=='memItemLeft'){
-    var rows = $('.memberdecls tr[class$="'+
-               window.location.hash.substring(1)+'"]');
+    var rows = $('.memberdecls tr[class$="'+hashValue()+'"]');
     glowEffect(rows.children(),300); // member without details
-  } else if (anchor.parents().slice(2).prop('tagName')=='TR') {
-    glowEffect(anchor.parents('div.memitem'),1000); // enum value
+  } else if (anchor.parent().attr('class')=='fieldname'){
+    glowEffect(anchor.parent().parent(),1000); // enum value
   } else if (anchor.parent().attr('class')=='fieldtype'){
     glowEffect(anchor.parent().parent(),1000); // struct field
   } else if (anchor.parent().is(":header")) {
@@ -357,14 +308,13 @@ function highlightAnchor()
   } else {
     glowEffect(anchor.next(),1000); // normal member
   }
-  gotoAnchor(anchor,aname,false);
 }
 
 function selectAndHighlight(hash,n)
 {
   var a;
   if (hash) {
-    var link=stripPath($(location).attr('pathname'))+':'+hash.substring(1);
+    var link=stripPath(pathName())+':'+hash.substring(1);
     a=$('.item a[class$="'+link+'"]');
   }
   if (a && a.length) {
@@ -375,11 +325,14 @@ function selectAndHighlight(hash,n)
     $(n.itemDiv).addClass('selected');
     $(n.itemDiv).attr('id','selected');
   }
-  if ($('#nav-tree-contents .item:first').hasClass('selected')) {
-    $('#nav-sync').css('top','30px');
-  } else {
-    $('#nav-sync').css('top','5px');
+  var topOffset=5;
+  if (typeof page_layout!=='undefined' && page_layout==1) {
+    topOffset+=$('#top').outerHeight();
   }
+  if ($('#nav-tree-contents .item:first').hasClass('selected')) {
+    topOffset+=25;
+  }
+  $('#nav-sync').css('top',topOffset+'px');
   showRoot();
 }
 
@@ -396,12 +349,8 @@ function showNode(o, node, index, hash)
       if (!node.childrenVisited) {
         getNode(o, node);
       }
-      $(node.getChildrenUL()).show();
-      if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
-      } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
-      }
+      $(node.getChildrenUL()).css({'display':'block'});
+      node.plus_img.innerHTML = arrowDown;
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
       if (index+1<o.breadcrumbs.length) {
@@ -428,8 +377,22 @@ function showNode(o, node, index, hash)
   }
 }
 
+function removeToInsertLater(element) {
+  var parentNode = element.parentNode;
+  var nextSibling = element.nextSibling;
+  parentNode.removeChild(element);
+  return function() {
+    if (nextSibling) {
+      parentNode.insertBefore(element, nextSibling);
+    } else {
+      parentNode.appendChild(element);
+    }
+  };
+}
+
 function getNode(o, po)
 {
+  var insertFunction = removeToInsertLater(po.li);
   po.childrenVisited = true;
   var l = po.childrenData.length-1;
   for (var i in po.childrenData) {
@@ -437,6 +400,7 @@ function getNode(o, po)
     po.children[i] = newNode(o, po, nodeData[0], nodeData[1], nodeData[2],
       i==l);
   }
+  insertFunction();
 }
 
 function gotoNode(o,subIndex,root,hash,relpath)
@@ -460,14 +424,13 @@ function navTo(o,root,hash,relpath)
   if (link) {
     var parts = link.split('#');
     root = parts[0];
-    if (parts.length>1) hash = '#'+parts[1];
+    if (parts.length>1) hash = '#'+parts[1].replace(/[^\w\-]/g,'');
     else hash='';
   }
   if (hash.match(/^#l\d+$/)) {
     var anchor=$('a[name='+hash.substring(1)+']');
     glowEffect(anchor.parent(),1000); // line number
     hash=''; // strip line number anchors
-    //root=root.replace(/_source\./,'.'); // source link to doc link
   }
   var url=root+hash;
   var i=-1;
@@ -501,13 +464,25 @@ function toggleSyncButton(relpath)
   if (navSync.hasClass('sync')) {
     navSync.removeClass('sync');
     showSyncOff(navSync,relpath);
-    storeLink(stripPath2($(location).attr('pathname'))+$(location).attr('hash'));
+    storeLink(stripPath2(pathName())+hashUrl());
   } else {
     navSync.addClass('sync');
     showSyncOn(navSync,relpath);
     deleteLink();
   }
 }
+
+var loadTriggered = false;
+var readyTriggered = false;
+var loadObject,loadToRoot,loadUrl,loadRelPath;
+
+$(window).on('load',function(){
+  if (readyTriggered) { // ready first
+    navTo(loadObject,loadToRoot,loadUrl,loadRelPath);
+    showRoot();
+  }
+  loadTriggered=true;
+});
 
 function initNavTree(toroot,relpath)
 {
@@ -524,10 +499,9 @@ function initNavTree(toroot,relpath)
   o.node.relpath = relpath;
   o.node.expanded = false;
   o.node.isLast = true;
-  o.node.plus_img = document.createElement("img");
-  o.node.plus_img.src = relpath+"ftv2pnode.png";
-  o.node.plus_img.width = 16;
-  o.node.plus_img.height = 22;
+  o.node.plus_img = document.createElement("span");
+  o.node.plus_img.className = 'arrow';
+  o.node.plus_img.innerHTML = arrowRight;
 
   if (localStorageSupported()) {
     var navSync = $('#nav-sync');
@@ -540,30 +514,36 @@ function initNavTree(toroot,relpath)
     navSync.click(function(){ toggleSyncButton(relpath); });
   }
 
-  navTo(o,toroot,window.location.hash,relpath);
+  if (loadTriggered) { // load before ready
+    navTo(o,toroot,hashUrl(),relpath);
+    showRoot();
+  } else { // ready before load
+    loadObject  = o;
+    loadToRoot  = toroot;
+    loadUrl     = hashUrl();
+    loadRelPath = relpath;
+    readyTriggered=true;
+  }
 
   $(window).bind('hashchange', function(){
      if (window.location.hash && window.location.hash.length>1){
        var a;
        if ($(location).attr('hash')){
-         var clslink=stripPath($(location).attr('pathname'))+':'+
-                               $(location).attr('hash').substring(1);
-         a=$('.item a[class$="'+clslink+'"]');
+         var clslink=stripPath(pathName())+':'+hashValue();
+         a=$('.item a[class$="'+clslink.replace(/</g,'\\3c ')+'"]');
        }
        if (a==null || !$(a).parent().parent().hasClass('selected')){
          $('.item').removeClass('selected');
          $('.item').removeAttr('id');
        }
-       var link=stripPath2($(location).attr('pathname'));
-       navTo(o,link,$(location).attr('hash'),relpath);
+       var link=stripPath2(pathName());
+       navTo(o,link,hashUrl(),relpath);
      } else if (!animationInProgress) {
        $('#doc-content').scrollTop(0);
        $('.item').removeClass('selected');
        $('.item').removeAttr('id');
-       navTo(o,toroot,window.location.hash,relpath);
+       navTo(o,toroot,hashUrl(),relpath);
      }
   })
-
-  $(window).load(showRoot);
 }
-
+/* @license-end */

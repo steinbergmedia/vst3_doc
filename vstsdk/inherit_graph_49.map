@@ -1,3 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$interfaceVSTInterAppAudioAppDelegateBase.html" title="Base UIApplicationDelegate class." alt="" coords="212,31,435,56"/>
+<area shape="rect" id="node1" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="5,132,104,158"/>
+<area shape="rect" id="node2" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html" title=" " alt="" coords="190,56,296,82"/>
+<area shape="rect" id="node7" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html" title=" " alt="" coords="152,107,334,133"/>
+<area shape="rect" id="node8" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSystem.html" title=" " alt="" coords="174,157,312,183"/>
+<area shape="rect" id="node9" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageUtility.html" title=" " alt="" coords="179,208,307,234"/>
+<area shape="rect" id="node3" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="421,5,526,31"/>
+<area shape="rect" id="node5" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="382,56,564,82"/>
+<area shape="rect" id="node6" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="407,107,539,133"/>
+<area shape="rect" id="node4" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="612,5,758,31"/>
 </map>

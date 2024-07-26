@@ -1,14 +1,9 @@
 var class_v_s_t_g_u_i_1_1_c_tooltip_support =
 [
-    [ "kHidden", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57a8fb8095b9223baf9f215265c85bc6719", null ],
-    [ "kVisible", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57a467d3c826337f7a7da73feb9fa99af0d", null ],
-    [ "kHiding", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57a3b070d6fe9c45c03515eaf71d77bc076", null ],
-    [ "kShowing", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57ae7be90458ee55762b2a6e4c7f1a05971", null ],
-    [ "kForceVisible", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab04a0655cd1e3bcac5e8f48c18df1a57aef378386dbcd9ca1b175531ada292957", null ],
     [ "CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a388f95f3803e59a5d44ad0c98539e80d", null ],
-    [ "~CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a87db2028c19dfa82f5e7e1d0cfb65e65", null ],
+    [ "~CTooltipSupport", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ab16a522592a177c1a700745cfc381633", null ],
     [ "hideTooltip", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f", null ],
-    [ "newCopy", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a4433ff4e66b32c32a4b90436e369ec39", null ],
+    [ "newCopy", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a5b303fef30c4644882aaa04f5ad669ca", null ],
     [ "notify", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#ae620fd03d6fcdeab4fc7979004820cdf", null ],
     [ "onMouseDown", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a3a7c9c7c383203c3fc260f6b88dd6b81", null ],
     [ "onMouseEntered", "class_v_s_t_g_u_i_1_1_c_tooltip_support.html#abc8b4794c3c3b8761b387d51d9fbd075", null ],

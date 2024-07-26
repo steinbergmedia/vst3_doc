@@ -7,6 +7,5 @@ var vst2persistence_8cpp =
     [ "tryVst2ProgramLoad", "vst2persistence_8cpp.html#ab373c1cff2f2f5cbb560d5631ca9cf11", null ],
     [ "error", "vst2persistence_8cpp.html#a5e7e27258e59f4c4a80e5fb757024a2d", null ],
     [ "bytes", "vst2persistence_8cpp.html#a28cb1df25182ebaa2431de345906e862", null ],
-    [ "ptr", "vst2persistence_8cpp.html#ab6679b8a3625461c4f6c523048234022", null ],
-    [ "stream", "vst2persistence_8cpp.html#a37e73175990b3c432f984b8e25c6c22c", null ]
+    [ "ptr", "vst2persistence_8cpp.html#ab6679b8a3625461c4f6c523048234022", null ]
 ];

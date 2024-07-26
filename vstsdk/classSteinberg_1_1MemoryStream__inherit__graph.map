@@ -1,4 +1,5 @@
 <map id="MemoryStream" name="MemoryStream">
-<area shape="rect" id="node2" href="base.tag$classSteinberg_1_1IBStream.html" title="{IBStream\n|+ kIBSeekSet\l+ kIBSeekCur\l+ kIBSeekEnd\l+ iid\l|+ read()\l+ write()\l+ seek()\l+ tell()\l}" alt="" coords="23,153,122,307"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="13,5,132,105"/>
+<area shape="rect" id="node1" title="Memory based Stream for IBStream implementation (using malloc)." alt="" coords="5,364,139,677"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IBStream" title=" " alt="" coords="23,157,121,316"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="13,5,131,109"/>
 </map>

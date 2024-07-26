@@ -1,9 +1,9 @@
 var group__standalone =
 [
-    [ "Value", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html", null ],
-    [ "Async", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async.html", null ],
-    [ "CommandGroup", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_group.html", null ],
-    [ "Commands", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html", null ],
+    [ "VSTGUI::Standalone::Value", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html", null ],
+    [ "VSTGUI::Standalone::Async", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async.html", null ],
+    [ "VSTGUI::Standalone::CommandGroup", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_group.html", null ],
+    [ "VSTGUI::Standalone::Commands", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html", null ],
     [ "ConfigValue", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html", [
       [ "Type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a1d1cfd8ffb84e947f82999c682b666a7", [
         [ "Unknown", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a1d1cfd8ffb84e947f82999c682b666a7a88183b946cc5f0e8c96b2e66e1c74a7e", null ],
@@ -15,8 +15,8 @@ var group__standalone =
       [ "ConfigValue", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a5ddea8b3bf7c3b8009d9da66ca21096b", null ],
       [ "integer", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a57ef39e8def0d695ce9f6744ea05c48c", null ],
       [ "string", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ae1adbce218e7a9d09164012443191d24", null ],
-      [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ac5c30f6cb4c8fa8b11bc1ff7c70e1b12", null ],
-      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ad5838b52307c1ee839211156a773a513", null ]
+      [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a47112a46547df7760e7994aeea220774", null ],
+      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#abe2f65e757b87baa165a12f3e5db3367", null ]
     ] ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", [
       [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html#a5150c4261a4bcb40d81b8c7a8cc8f9b6", null ]
@@ -25,7 +25,7 @@ var group__standalone =
       [ "DelegateAdapter", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#aa63662b4d7d9dbf84fff5be7b58fa052", null ],
       [ "canQuit", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#af7d3d0e3acc069a3372eac66b9de3e70", null ],
       [ "finishLaunching", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#ac0dd8ed3738d91053127988d3a277a13", null ],
-      [ "getInfo", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a666c2b9cdcdb4cf9f3a3fc8286c76ee6", null ],
+      [ "getInfo", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#af119259ef372fb4adddf0d1d94b9ad13", null ],
       [ "getSharedUIResourceFilename", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a58b32d882ee86e7b8850b4f312005ef0", null ],
       [ "hasAboutDialog", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a34afeeb0d531536f7b13a8abbb61d093", null ],
       [ "hasPreferenceDialog", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a73d5a8357ac3b0e40f9de0b1426ee21d", null ],
@@ -45,14 +45,14 @@ var group__standalone =
       [ "showCommandInMenu", "class_v_s_t_g_u_i_1_1_standalone_1_1_no_menu_builder.html#a9465ed6e6124a25fa0a71dab0e775596", null ]
     ] ],
     [ "CustomizationAdapter", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization_adapter.html", [
-      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization_adapter.html#ae234e65204cf62fb942e82710855bceb", null ],
+      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization_adapter.html#ac8bbf77f37d95236f184acfb223bfb8e", null ],
       [ "onUIDescriptionParsed", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization_adapter.html#a0583c2f456eecd7b353b7182ace00187", null ]
     ] ],
     [ "Customization", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html", [
       [ "CreateViewControllerFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a1ebff47b115e2e077d7ea5deea44308d", null ],
       [ "addCreateViewControllerFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#ade1bf67228234d8d897a53615fd96c2b", null ],
-      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#ae234e65204cf62fb942e82710855bceb", null ],
-      [ "make", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a5b5013a9a15eb6ca85f127f2965e1e80", null ]
+      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#ac8bbf77f37d95236f184acfb223bfb8e", null ],
+      [ "make", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a07d4418d7f13d274d25bfc4d3d221cfc", null ]
     ] ],
     [ "ValueListenerAdapter", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_listener_adapter.html", [
       [ "onBeginEdit", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_listener_adapter.html#a82205d8c01681b355e22bdc98d427948", null ],
@@ -60,7 +60,7 @@ var group__standalone =
       [ "onPerformEdit", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_listener_adapter.html#acc7ada45189c7c843c2ed46c3256e7cb", null ],
       [ "onStateChange", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_listener_adapter.html#ae752e7d6d9f869c2a15722c68ae6c6a4", null ]
     ] ],
-    [ "ListenerT", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener_t.html", [
+    [ "ListenerT< Context >", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener_t.html", [
       [ "OnBeginEditFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener_t.html#a17f5c06786080942fc399eafbb77984c", null ],
       [ "OnEndEditFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener_t.html#a099de1987b9ffdecccc0d1ff4dbef19f", null ],
       [ "OnPerformEditFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_listener_t.html#abb8282b97517ab6f84dd5766a43518a6", null ],
@@ -87,7 +87,7 @@ var group__standalone =
       [ "canClose", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a2b98b840fc8e6285106e55bcbeeb8db8", null ],
       [ "constraintSize", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a330b320f03d17f62e055590fcd730c87", null ],
       [ "createPlatformFrameConfig", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#ac02c73fb32e2f457cee29b0bc9033e61", null ],
-      [ "getWindowMenuBuilder", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a1f7fb209c26ce0409bc1094cfc0151ba", null ],
+      [ "getWindowMenuBuilder", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a6065709339f8739307a07d216115200b", null ],
       [ "onActivated", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a34ce8511dddd6954ad1b0902fd9bbef0", null ],
       [ "onClosed", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a8f7e66e5be63bf00195572a29f15706a", null ],
       [ "onDeactivated", "class_v_s_t_g_u_i_1_1_standalone_1_1_window_controller_adapter.html#a6460e8f1c668888059c8ec75f8eab1fa", null ],
@@ -133,7 +133,7 @@ var group__standalone =
     [ "IDelegate", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html", [
       [ "canQuit", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#adb1dde2619d0af0c2c603843062a2207", null ],
       [ "finishLaunching", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#ab176719532d0918a8f15d6ea52ccae25", null ],
-      [ "getInfo", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#ad62a4c2ecc174b739a8e3fc25debdb3a", null ],
+      [ "getInfo", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#a0db813943a19a5bc820f558b726c247c", null ],
       [ "getSharedUIResourceFilename", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#a8e63f8ed74df2e356602e2832704d352", null ],
       [ "hasAboutDialog", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#aeb033b6b37cf05d4c7fe27772ca85f9a", null ],
       [ "hasPreferenceDialog", "class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#adcf0831591064f94f44cfffe83c69584", null ],
@@ -148,13 +148,13 @@ var group__standalone =
       [ "createWindow", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a4dbf94561c444abd21b73a741da25072", null ],
       [ "enableTooltips", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a15077313837b776666f30f73c4746e37", null ],
       [ "executeCommand", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a462cc295aa1e9243af8f8dabe7f2b6f1", null ],
-      [ "getCommandLineArguments", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#aa4da555075d47198a4f2ca57a927f67d", null ],
-      [ "getCommonDirectories", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a68618b765dc5bcc995e01fb18ce5a2fa", null ],
-      [ "getDelegate", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a0ca33839b947f47d4d9f3adea8c93145", null ],
-      [ "getPreferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a773fa83ef4c3bb76530ad8f25a36a226", null ],
-      [ "getSharedUIResources", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#ade7042cc70c63ec95f0d2f24384b2696", null ],
-      [ "getWindows", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a8c05cbf73ceb44e4cbbda458522186cf", null ],
-      [ "instance", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a2ab2dc0917fa6db32bf2b1abdc1c05b4", null ],
+      [ "getCommandLineArguments", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#ab3c5e87b57e0830df4bd4a5c9e452fad", null ],
+      [ "getCommonDirectories", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a53d09ff1a7f7f6b4c930b615a460ed0c", null ],
+      [ "getDelegate", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#adf9c4b9771ca93c76f123ecf52241bcf", null ],
+      [ "getPreferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a6047193c36ca4d81bfe6ee15a4dc0aea", null ],
+      [ "getSharedUIResources", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a6653bd7ceb70e2f39471a8acc16873b9", null ],
+      [ "getWindows", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a952814255ee42af76e30bd617f65c389", null ],
+      [ "instance", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a13d20b3e80259c57948e7ceaf531dfdd", null ],
       [ "quit", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a973eecfe1d38004b592e02cb837e043d", null ],
       [ "registerCommand", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a0f3f202aa9c6dcaba1e8dbde538d8033", null ],
       [ "showAlertBox", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#accee03daf311ba76b91a87f366320528", null ],
@@ -176,21 +176,21 @@ var group__standalone =
       [ "showCommandInMenu", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_menu_builder.html#a113a64c533cf7874c53b77e38f0a725c", null ]
     ] ],
     [ "IPreference", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_preference.html", [
-      [ "get", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_preference.html#a27ed04315b5e6a530d1908cbd5f592fd", null ],
+      [ "get", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_preference.html#ab430bee4eab6fb1e786fa80c06f57715", null ],
       [ "set", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_preference.html#ac61d99aecfc43390721d2df9baeb2ed4", null ]
     ] ],
     [ "ISharedUIResources", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html", [
-      [ "getBitmap", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a3d673ba3b1c585cf59cc25bc82edd845", null ],
-      [ "getColor", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#af386966a01ddf8c27e002f9d5aa88257", null ],
-      [ "getFont", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a61701d86f84a9def965b95dfa60ee0cd", null ],
-      [ "getGradient", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a23ea0bcb4674f622d108c1d26e149df0", null ]
+      [ "getBitmap", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a1aaa4867d4d2eec211d4970c6f2f3baf", null ],
+      [ "getColor", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a6b4cc87edc1b6d67b366cdc229059b72", null ],
+      [ "getFont", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a791a492c8ff9d18c100f926adf795e45", null ],
+      [ "getGradient", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_shared_u_i_resources.html#a349f298963cbf5f85581ec2f5f498765", null ]
     ] ],
     [ "IModelBinding", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_model_binding.html", [
       [ "ValueList", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_model_binding.html#acf74dc8d6ddedd3f7ca679ed6e92052c", null ],
-      [ "getValues", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_model_binding.html#a890166e83f7b9eb36e062b2c7206f486", null ]
+      [ "getValues", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_model_binding.html#afcaa7baff546031037a819f34e421b2c", null ]
     ] ],
     [ "ICustomization", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_customization.html", [
-      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_customization.html#a03cc77061793cd3cc9553597d0dcf089", null ],
+      [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_customization.html#aeac25140bf1f2624e82038763163f8f6", null ],
       [ "onUIDescriptionParsed", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_i_customization.html#a17d7bf071c6e40038894ab5759ed67d5", null ]
     ] ],
     [ "Config", "struct_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_config.html", [
@@ -204,8 +204,8 @@ var group__standalone =
       [ "Type", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#a9c6d412b9a1a8480bc2a7e058fbe168e", null ],
       [ "beginEdit", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#ad9e4b21b3a29017bc544f39212429d4b", null ],
       [ "endEdit", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#aef224cba0b7af2ba6c20072ab3939add", null ],
-      [ "getConverter", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#a782591958696e1c7e301b2067978ee96", null ],
-      [ "getID", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#a7c961507092c133bb903e64bc321a3ec", null ],
+      [ "getConverter", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#a5a72ecab336410404d23bd8673f5f4fc", null ],
+      [ "getID", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#af22696feebbe9a49a54ceb7e3d6df345", null ],
       [ "getValue", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#a63588dc2b960d6eeffe8170316182a3c", null ],
       [ "isActive", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#aa31cc4585cbaf30883079e122c4123a7", null ],
       [ "isEditing", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html#adc5129aa12c517a8b5a67fa22e8f961b", null ],
@@ -236,20 +236,20 @@ var group__standalone =
     ] ],
     [ "WindowStyle", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html", [
       [ "WindowStyle", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a6378522f1d261eef12a7f419adae7919", null ],
-      [ "border", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a8186b671315025ac95b3932841f3a6d2", null ],
-      [ "canClose", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a3eed51c5a57dc9c03825a0f68fa2ac76", null ],
-      [ "canSize", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a0dbc3e3ff3f17ff927f28a6ff55eaa4f", null ],
-      [ "centered", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#acd3e1b09524f95d3f7f809e22473d72d", null ],
-      [ "close", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a1268bb46fef09eef57279481031c6d40", null ],
-      [ "hasBorder", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#ad1fa146cf2245ea61795ebdc6df4d87e", null ],
-      [ "isCentered", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#abba2dd3bab0a6b3c5ebcff7558ab5b75", null ],
-      [ "isMovableByWindowBackground", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a8245fa101fa8ab9f5601b782beb71016", null ],
-      [ "isTransparent", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a9af8d1d3490a3fa7779927df11c7c039", null ],
-      [ "movableByWindowBackground", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a3178c503bec1093e791774bddb5c0267", null ],
-      [ "operator+=", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a1f607821263124ff2063283e504a558a", null ],
-      [ "operator-=", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a351fec8db6b03dffb92787726afcdf32", null ],
-      [ "size", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a5a61660f43cc5ac1f694f20bd3b97b86", null ],
-      [ "transparent", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#ae276b4741a7a0287dbd77f8af7086c36", null ]
+      [ "border", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a656f04cb2701691961e4c83c6d24ed07", null ],
+      [ "canClose", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a3a3ff0b804ba46f7aa9c7e89e0f3c350", null ],
+      [ "canSize", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a7cf1b9f00c39e55929c0d61dc9664838", null ],
+      [ "centered", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#aea455e0193caba8ceb22dd6f5e005d1e", null ],
+      [ "close", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#afc7c9e143ba5c58c2983ea2dbcf2ff34", null ],
+      [ "hasBorder", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#ad35e861e6e70148df3996fd2ba71091f", null ],
+      [ "isCentered", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a0404f63ba35163ac6cfb04c6acdd9298", null ],
+      [ "isMovableByWindowBackground", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a20cd4e9864a929f1d5c2b1205ab90a2d", null ],
+      [ "isTransparent", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#af52470d47876686f8756b0a597152edb", null ],
+      [ "movableByWindowBackground", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a7ce5af19d12c43abb088244dec1fae95", null ],
+      [ "operator+=", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a470e6549bef158136fea5edf31860a48", null ],
+      [ "operator-=", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a727fd0130137bcf29e2e71420096de00", null ],
+      [ "size", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#afdfd2f48006439226fbc15e5541a88a6", null ],
+      [ "transparent", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#a8db000ea8bcad2904fd14ea7d0738d04", null ]
     ] ],
     [ "WindowConfiguration", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html", [
       [ "autoSaveFrameName", "struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html#a5056387eadafc7e6edd8159c0ed5b549", null ],
@@ -263,14 +263,14 @@ var group__standalone =
       [ "activate", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a47e5a6ae6265549d3c13e585e0c32e1c", null ],
       [ "changeStyle", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a77ce438e437307c7ee3701352f546e61", null ],
       [ "close", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#af6ee7eacbde6b379b68d954e44f6e549", null ],
-      [ "getAutoSaveFrameName", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a84b1d561e4b2d0338c666a17a15169b0", null ],
-      [ "getController", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a5b452b9b27efcbcb893d22a5c4c66169", null ],
+      [ "getAutoSaveFrameName", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#aa07ab4c0b207aa3e808607871508de50", null ],
+      [ "getController", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a364686e077b73849de5c8532587a6aef", null ],
       [ "getFocusViewRect", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a7dd1aa31637d0b26a722e0b5835b16fa", null ],
       [ "getPosition", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a3d8ba5585356e0f064b3c4937ba23060", null ],
       [ "getScaleFactor", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a5fb8038954ee61e4851e810f7ae1275f", null ],
       [ "getSize", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a66bc9a0acebb56eaef1d0273d5b8387e", null ],
       [ "getStyle", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a64a5bafb830be9701d061b794583ac6e", null ],
-      [ "getTitle", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#ac64906e5f5a689f682f58877c7846c39", null ],
+      [ "getTitle", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a13ec5c666f45636ee5a652137ea862e6", null ],
       [ "getType", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a2dc9d8d28598b49a8779bc33233b40db", null ],
       [ "hide", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a60a6c04e603d8ab3232f8176bddb3ce3", null ],
       [ "registerWindowListener", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a1aea3c2ba06cc7d8230e7c365fa51b8b", null ],
@@ -287,7 +287,7 @@ var group__standalone =
       [ "canClose", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#a7d0908c96b30070bb4b8d32b77fc401b", null ],
       [ "constraintSize", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#aa7c4771a4ef446afba0a07d0a00623d5", null ],
       [ "createPlatformFrameConfig", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#a526e385b11a2772a363a5f20a6296d4f", null ],
-      [ "getWindowMenuBuilder", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#a5ead8f55cadb437c2311c042072d9ae8", null ],
+      [ "getWindowMenuBuilder", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#aa07c901297bd697a697e68c33b246c35", null ],
       [ "onSetContentView", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_controller.html#a88a8d4504f1527e41a0e314e4da90712", null ]
     ] ],
     [ "IWindowListener", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_listener.html", [
@@ -299,20 +299,20 @@ var group__standalone =
       [ "onShow", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_listener.html#add5ca5fb218972f3bc6a7826a0bad45c", null ],
       [ "onSizeChanged", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_listener.html#ab714977522893c05211e5de53d2835cc", null ]
     ] ],
-    [ "Configuration", "group__standalone.html#ga1e4e8a3cc28862237995f7def08e349d", null ],
-    [ "AlertResult", "group__standalone.html#ga796a634e8a9576ab14040f1eca4a9f81", [
-      [ "DefaultButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a22b5e3ca27f5a966acd40ade16ea6033", null ],
-      [ "SecondButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a93fc595b2deae014255c4621f7c21231", null ],
-      [ "ThirdButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a520b8f34613e43a9243228e404519d64", null ],
-      [ "Error", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a902b0d55fddef6f8d651fe1035b7d4bd", null ]
+    [ "VSTGUI::Standalone::Application::Configuration", "group__standalone.html#gab9888eb9fafded9906770f6c37118a63", null ],
+    [ "VSTGUI::Standalone::AlertResult", "group__standalone.html#ga796a634e8a9576ab14040f1eca4a9f81", [
+      [ "VSTGUI::Standalone::AlertResult::DefaultButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a22b5e3ca27f5a966acd40ade16ea6033", null ],
+      [ "VSTGUI::Standalone::AlertResult::SecondButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a93fc595b2deae014255c4621f7c21231", null ],
+      [ "VSTGUI::Standalone::AlertResult::ThirdButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a520b8f34613e43a9243228e404519d64", null ],
+      [ "VSTGUI::Standalone::AlertResult::Error", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a902b0d55fddef6f8d651fe1035b7d4bd", null ]
     ] ],
-    [ "ConfigKey", "group__standalone.html#gaebc84ce10c7f4503fdb5dac0f2c8b8df", [
-      [ "UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ],
-      [ "ShowCommandsInContextMenu", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfa64467c9fc342e68e559d041b7197c223", null ]
+    [ "VSTGUI::Standalone::Application::ConfigKey", "group__standalone.html#gaebc84ce10c7f4503fdb5dac0f2c8b8df", [
+      [ "VSTGUI::Standalone::Application::ConfigKey::UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ],
+      [ "VSTGUI::Standalone::Application::ConfigKey::ShowCommandsInContextMenu", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfa64467c9fc342e68e559d041b7197c223", null ]
     ] ],
-    [ "WindowType", "group__standalone.html#ga476342970f954b62d70552bcbb5ee509", [
-      [ "Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],
-      [ "Popup", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0d4c14a20b4d98a5de54e1480bf99a25", null ]
+    [ "VSTGUI::Standalone::WindowType", "group__standalone.html#ga476342970f954b62d70552bcbb5ee509", [
+      [ "VSTGUI::Standalone::WindowType::Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],
+      [ "VSTGUI::Standalone::WindowType::Popup", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0d4c14a20b4d98a5de54e1480bf99a25", null ]
     ] ],
-    [ "makeWindow", "group__standalone.html#gab9d3e106be16f1fae3b2d53c4281d595", null ]
+    [ "VSTGUI::Standalone::UIDesc::makeWindow", "group__standalone.html#gab9d3e106be16f1fae3b2d53c4281d595", null ]
 ];

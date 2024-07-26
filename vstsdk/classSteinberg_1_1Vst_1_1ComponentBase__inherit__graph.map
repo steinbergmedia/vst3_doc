@@ -1,10 +1,12 @@
 <map id="ComponentBase" name="ComponentBase">
-<area shape="rect" id="node6" href="$classSteinberg_1_1Vst_1_1Component.html" title="Default implementation for a VST 3 Component." alt="" coords="35,596,189,843"/>
-<area shape="rect" id="node8" href="$classSteinberg_1_1Vst_1_1EditController.html" title="Default implementation for a VST 3 edit controller." alt="" coords="219,596,397,843"/>
-<area shape="rect" id="node3" href="base.tag$classSteinberg_1_1IPluginBase.html" title="{IPluginBase\n|+ iid\l|+ initialize()\l+ terminate()\l}" alt="" coords="161,160,252,247"/>
-<area shape="rect" id="node4" href="base.tag$classSteinberg_1_1FUnknown.html" title="{FUnknown\n|+ iid\l|+ queryInterface()\l+ addRef()\l+ release()\l}" alt="" coords="211,5,330,105"/>
-<area shape="rect" id="node5" href="vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title="{IConnectionPoint\n|+ iid\l|+ connect()\l+ disconnect()\l+ notify()\l}" alt="" coords="277,153,393,253"/>
-<area shape="rect" id="node7" href="$classSteinberg_1_1Vst_1_1AudioEffect.html" title="Default implementation for a VST 3 audio effect." alt="" coords="5,911,200,1117"/>
-<area shape="rect" id="node9" href="$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title="Advanced implementation (support IUnitInfo) for a VST 3 edit controller." alt="" coords="224,891,403,1137"/>
-<area shape="rect" id="node10" href="$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title="Default implementation for a non&#45;distributable Plug&#45;in that combines &#160;processor and edit controller i..." alt="" coords="216,1185,411,1472"/>
+<area shape="rect" id="node1" title="Base class for VST 3 Component and Edit Controller." alt="" coords="137,308,275,565"/>
+<area shape="rect" id="node6" href="$classSteinberg_1_1Vst_1_1Component.html" title="Default implementation for a VST 3 Component." alt="" coords="35,613,188,871"/>
+<area shape="rect" id="node8" href="$classSteinberg_1_1Vst_1_1EditController.html" title="Default implementation for a VST 3 edit controller." alt="" coords="217,613,395,871"/>
+<area shape="rect" id="node2" title=" " alt="" coords="73,171,136,246"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPluginBase" title=" " alt="" coords="161,164,251,253"/>
+<area shape="rect" id="node4" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="210,5,327,109"/>
+<area shape="rect" id="node5" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint" title=" " alt="" coords="275,157,390,260"/>
+<area shape="rect" id="node7" href="$classSteinberg_1_1Vst_1_1AudioEffect.html" title="Default implementation for a VST 3 audio effect." alt="" coords="5,940,199,1155"/>
+<area shape="rect" id="node9" href="$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title="Advanced implementation (support IUnitInfo) for a VST 3 edit controller." alt="" coords="222,919,401,1176"/>
+<area shape="rect" id="node10" href="$classSteinberg_1_1Vst_1_1SingleComponentEffect.html" title="Default implementation for a non&#45;distributable Plug&#45;in that combines processor and edit controller in..." alt="" coords="215,1224,408,1523"/>
 </map>

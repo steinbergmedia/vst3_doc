@@ -1,0 +1,8 @@
+<map id="UMPMessage2" name="UMPMessage2">
+<area shape="rect" id="node1" title=" " alt="" coords="193,283,304,484"/>
+<area shape="rect" id="node3" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="22,532,134,719"/>
+<area shape="rect" id="node5" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="158,581,340,670"/>
+<area shape="rect" id="node6" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="364,588,496,663"/>
+<area shape="rect" id="node2" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="193,5,304,235"/>
+<area shape="rect" id="node4" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="5,767,151,871"/>
+</map>

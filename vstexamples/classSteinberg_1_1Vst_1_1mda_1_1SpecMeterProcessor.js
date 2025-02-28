@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor =
 [
     [ "SpecMeterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#abee6f9f47507867a951a5b85d8e10f16", null ],
-    [ "~SpecMeterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a814690d2fe8b3658e278b3a84eb4a134", null ],
+    [ "~SpecMeterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#abdc041142ada6e117d3383548798253e", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

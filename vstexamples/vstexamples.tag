@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.3">
+<tagfile doxygen_version="1.9.2">
   <compound kind="file">
     <name>audiohost.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/audiohost/source/</path>
@@ -2333,6 +2333,12 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kParamProcessModeTag</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>abc6126af1d45847bc59afa0aa3216b04aade71889bf462dc1060e115b7c8eea0f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <name>kProcessWarnTag</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>abc6126af1d45847bc59afa0aa3216b04ae8cff5408066b4167241eedf3679cf3d</anchor>
@@ -2545,6 +2551,13 @@
       <name>FEATURE_PROCESSOR_SUPPORT</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>aac9b17824a28a84dfef658574649e37c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>OTHER</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>ac00c5fe00853dab2ff3d86ae62c83809</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -2763,6 +2776,12 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kLogIdInvalidProcessContextSystemTime</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a6e42ee638d4fc84c07c88a5545adaf2c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <name>kLogIdNullPointerToChannelBuf</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46ae1e7066b76b319163016fb295fe87ca5</anchor>
@@ -2952,6 +2971,18 @@
       <name>kLogIdInformLatencyChanged</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46aea5987edd85d670fe157a6bde424efb9</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kLogWrongCOMBehaviorFUnknown1</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46a1241c4c8bcd89b613cc73df01ea24da5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kLogWrongCOMBehaviorFUnknown2</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46ac23291583f08eada27ccd6233515ae22</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -3180,6 +3211,12 @@
       <name>kLogIdIAttributeListInSetStateSupported</name>
       <anchorfile>logevents_8h.html</anchorfile>
       <anchor>afc84f29132b630b33d341d0769a66d46ab097977874ae5e9bed9b65a775930054</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kLogIdIAttributeListInGetStateSupported</name>
+      <anchorfile>logevents_8h.html</anchorfile>
+      <anchor>afc84f29132b630b33d341d0769a66d46aa21b167b8bc5b111075e60f7cda8bb36</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -6149,6 +6186,13 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ADelayProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>process</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayProcessor.html</anchorfile>
       <anchor>a2a13e09cc9ec3dd1b8617a38e3c07af5</anchor>
@@ -6175,6 +6219,13 @@
       <anchor>af7adeffe9f1eb98eedd526833dc3fb51</anchor>
       <arglist>(void *)</arglist>
     </member>
+    <member kind="function" protection="protected">
+      <type>bool</type>
+      <name>resetDelay</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ADelayProcessor.html</anchorfile>
+      <anchor>a5783722f570ccad215d88ff42f5b887c</anchor>
+      <arglist>()</arglist>
+    </member>
     <member kind="variable" protection="protected">
       <type>ParamValue</type>
       <name>mDelay</name>
@@ -6194,6 +6245,13 @@
       <name>mBufferPos</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ADelayProcessor.html</anchorfile>
       <anchor>a9c734456918490b900c3a3a05c5e74c5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>mNumChannels</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ADelayProcessor.html</anchorfile>
+      <anchor>a9fbc69488130ad6e636fe9b7afe1e606</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
@@ -6637,8 +6695,8 @@
       <type></type>
       <name>~AmbienceController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html</anchorfile>
-      <anchor>a5e35c5d570e4a6214b15358000ce8f6d</anchor>
-      <arglist>()</arglist>
+      <anchor>ac09bd0fc927443a335030e438e538334</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -6684,8 +6742,8 @@
       <type></type>
       <name>~AmbienceProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html</anchorfile>
-      <anchor>a69d45320830df3c378aa391d1c7f6a9f</anchor>
-      <arglist>()</arglist>
+      <anchor>aac3d176a885e18afbce328d117cf7a2d</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -6713,6 +6771,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -7046,8 +7111,8 @@
       <type></type>
       <name>~BandistoController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html</anchorfile>
-      <anchor>a61c727290774524f81342b91634679cc</anchor>
-      <arglist>()</arglist>
+      <anchor>a485b0265b08030309b5d25ded8465336</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -7448,6 +7513,13 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>getUnitByBus</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BaseController.html</anchorfile>
+      <anchor>a916c9d3245f4580b4effa6d977a64208</anchor>
+      <arglist>(MediaType type, BusDirection dir, int32 busIndex, int32 channel, UnitID &amp;unitId) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>getMidiControllerAssignment</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BaseController.html</anchorfile>
       <anchor>a0c25846cfb4cee3a28d6446c4f324877</anchor>
@@ -7714,8 +7786,8 @@
       <type></type>
       <name>~BeatBoxController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html</anchorfile>
-      <anchor>add633f1d916ae3ef1621bbf5e9c74ca6</anchor>
-      <arglist>()</arglist>
+      <anchor>a1aed8cad3ce5123ad29aaea2025b057a</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -7790,6 +7862,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -8301,8 +8380,8 @@
       <type></type>
       <name>~ComboController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ComboController.html</anchorfile>
-      <anchor>a72554bb7c7765158576a33165582f290</anchor>
-      <arglist>()</arglist>
+      <anchor>aca403ee23f916c03bdfc07a9c630c737</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -8348,8 +8427,8 @@
       <type></type>
       <name>~ComboProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html</anchorfile>
-      <anchor>a7c857261742264d941e8d2ce00cb4cd5</anchor>
-      <arglist>()</arglist>
+      <anchor>a3638bd40c16da11b1a10cceea0d3345a</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -8377,6 +8456,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -8870,10 +8956,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable" static="yes">
-      <type>static OBJ_METHODS(Controller, EditController) DEFINE_INTERFACES DEF_INTERFACE(INoteExpressionController) DEF_INTERFACE(IMidiMapping) DEF_INTERFACE(INoteExpressionPhysicalUIMapping) END_DEFINE_INTERFACES(EditController) REFCOUNT_METHODS(EditController) protected constexpr ParamID</type>
+      <type>static constexpr OBJ_METHODS(Controller, EditController) DEFINE_INTERFACES DEF_INTERFACE(INoteExpressionController) DEF_INTERFACE(IMidiMapping) DEF_INTERFACE(INoteExpressionPhysicalUIMapping) END_DEFINE_INTERFACES(EditController) REFCOUNT_METHODS(EditController) protected ParamID</type>
       <name>InvalidParamID</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
-      <anchor>a5619d64b65ed5d49f2d0848d646ec2c5</anchor>
+      <anchor>ac31791745f5ed32b52460b276d3c1cf3</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -9093,8 +9179,8 @@
       <type></type>
       <name>~DeEsserController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html</anchorfile>
-      <anchor>aa508bb2127050ccb3cba6ba84dc09b91</anchor>
-      <arglist>()</arglist>
+      <anchor>a3edbde445d88554ad4cd88ce59f3a5e8</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -9140,8 +9226,8 @@
       <type></type>
       <name>~DeEsserProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html</anchorfile>
-      <anchor>afb5bf7b43a8c473b293c43d0d8d6dcd2</anchor>
-      <arglist>()</arglist>
+      <anchor>a187326203c80c071eba43548a861226f</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -9169,6 +9255,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -9362,8 +9455,8 @@
       <type></type>
       <name>~DegradeController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html</anchorfile>
-      <anchor>ad30ebb8444693ace8bcc07fe5161314f</anchor>
-      <arglist>()</arglist>
+      <anchor>a32f5d95ece6d74436661d5e054d8f711</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -9423,8 +9516,8 @@
       <type></type>
       <name>~DegradeProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html</anchorfile>
-      <anchor>a464c879cfefa7930dc2d32db28b796e3</anchor>
-      <arglist>()</arglist>
+      <anchor>ad51bf014336dfc26bc301aa1916f090e</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -9452,6 +9545,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -9743,8 +9843,8 @@
       <type></type>
       <name>~DelayController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DelayController.html</anchorfile>
-      <anchor>a2ceee1c40dac133c85d55009e7f56ba0</anchor>
-      <arglist>()</arglist>
+      <anchor>a586497e73a0868c96a761247f5df411e</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -9804,8 +9904,8 @@
       <type></type>
       <name>~DelayProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html</anchorfile>
-      <anchor>a35e8133b24e7fb47cdc6918ab74391ef</anchor>
-      <arglist>()</arglist>
+      <anchor>a1bf31ef85c374e9056aadb380819bf53</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -9827,6 +9927,13 @@
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html</anchorfile>
       <anchor>a272e5d4c8e24f012573f9f5b11f7f569</anchor>
       <arglist>() SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -10030,8 +10137,8 @@
       <type></type>
       <name>~DetuneController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html</anchorfile>
-      <anchor>a4d583ab9c017f0552d6ab5927478ea98</anchor>
-      <arglist>()</arglist>
+      <anchor>aad8917c1c5af3f1b0f406539b1947a79</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -10091,8 +10198,8 @@
       <type></type>
       <name>~DetuneProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html</anchorfile>
-      <anchor>ad030c98cd04b12a2660da2273939f7c9</anchor>
-      <arglist>()</arglist>
+      <anchor>ad8263f3f0eec14b5f5a0174e67b07b6a</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -10120,6 +10227,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -10329,8 +10443,8 @@
       <type></type>
       <name>~DitherController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DitherController.html</anchorfile>
-      <anchor>aa19349fa150637f7c6b8341ab4a9fbdc</anchor>
-      <arglist>()</arglist>
+      <anchor>a274c9820a5dd28dbde91dd87f5e4dbac</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -10390,8 +10504,8 @@
       <type></type>
       <name>~DitherProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html</anchorfile>
-      <anchor>a1adb5bf22d42171d470bc4072e9aa999</anchor>
-      <arglist>()</arglist>
+      <anchor>a0809533d07a03173cf5bd7693356db3f</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -10652,8 +10766,8 @@
       <type></type>
       <name>~DubDelayController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html</anchorfile>
-      <anchor>afa343308c21321c4bf9660a5c299d744</anchor>
-      <arglist>()</arglist>
+      <anchor>a5e1a12d818a2ea326a50999fccfd02b5</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -10713,8 +10827,8 @@
       <type></type>
       <name>~DubDelayProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html</anchorfile>
-      <anchor>a9d7d4880ac7e7433d4f5087114a31c0a</anchor>
-      <arglist>()</arglist>
+      <anchor>a447acee2da50ddf1daee3cf13d9b5cad</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -10742,6 +10856,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -10907,8 +11028,8 @@
       <type></type>
       <name>~DX10Controller</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html</anchorfile>
-      <anchor>a7d9642a22f48a9f5597bd1659744d882</anchor>
-      <arglist>()</arglist>
+      <anchor>ab9543257f5750336172b130786cd4ac6</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -10988,8 +11109,8 @@
       <type></type>
       <name>~DX10Processor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
-      <anchor>aad700f3c9b071f39ce14ec499cf45817</anchor>
-      <arglist>()</arglist>
+      <anchor>a518cede64988af164ff15315aec12f4e</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -11017,6 +11138,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -11489,8 +11617,8 @@
       <type></type>
       <name>~DynamicsController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DynamicsController.html</anchorfile>
-      <anchor>adc7dafef64023abdaa93bad4e6027ce8</anchor>
-      <arglist>()</arglist>
+      <anchor>ac71c5cacee660bdbff6265be56a24c29</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -11550,8 +11678,8 @@
       <type></type>
       <name>~DynamicsProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html</anchorfile>
-      <anchor>a70c1f346f507da9b50d0df23dfe8e80e</anchor>
-      <arglist>()</arglist>
+      <anchor>a18df94c13920ff2e88e741fc63bdde79</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -11825,8 +11953,8 @@
       <type></type>
       <name>~EPianoController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html</anchorfile>
-      <anchor>a6773404a49785daf2b48d40ffa022114</anchor>
-      <arglist>()</arglist>
+      <anchor>a017c0691ac5cfd31b489287cf3668669</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -11902,8 +12030,8 @@
       <type></type>
       <name>~EPianoProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
-      <anchor>acbcf1360c00f6662701dd7b7891f0d44</anchor>
-      <arglist>()</arglist>
+      <anchor>a2f4bbcf5f798dce5603b863916c637d8</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -11931,6 +12059,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -12361,8 +12496,8 @@
       <type>bool</type>
       <name>isNormalized</name>
       <anchorfile>classEventListCheck.html</anchorfile>
-      <anchor>a18b81593e22ea1f7a57fc33370065b7c</anchor>
-      <arglist>(float normVal) const</arglist>
+      <anchor>abde0c68e719830db66018a16bc5cc00b</anchor>
+      <arglist>(double normVal) const</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>void</type>
@@ -13983,6 +14118,13 @@
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>mLastProcessMode</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
+      <anchor>a9beb9cdfe7ba50d0fad2770eb98d8a9e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
       <type>bool</type>
       <name>mBypass</name>
       <anchorfile>classSteinberg_1_1Vst_1_1HostCheckerProcessor.html</anchorfile>
@@ -14143,8 +14285,8 @@
       <type></type>
       <name>~ImageController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ImageController.html</anchorfile>
-      <anchor>abb7018df0560c1ce3c3485dc782e8b55</anchor>
-      <arglist>()</arglist>
+      <anchor>a7314bb8ae8c7ef858994f58d47366531</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -14190,8 +14332,8 @@
       <type></type>
       <name>~ImageProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html</anchorfile>
-      <anchor>ad9c8c08393e8422518560215c3769216</anchor>
-      <arglist>()</arglist>
+      <anchor>ab936ea09d6472f4d06922db8dc05c0f9</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -14328,8 +14470,8 @@
       <type></type>
       <name>~IndexedParameter</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html</anchorfile>
-      <anchor>a74963ad2f899909051efd21b14d7280a</anchor>
-      <arglist>()</arglist>
+      <anchor>a22988cce44051a4caf0f7760e716ee64</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="variable" protection="protected">
       <type>String128 *</type>
@@ -14354,8 +14496,8 @@
       <type></type>
       <name>~JX10Controller</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Controller.html</anchorfile>
-      <anchor>abcd667d7cf262f55800735404c9d0966</anchor>
-      <arglist>()</arglist>
+      <anchor>ae106026233b3de40a1486bec513843fe</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -14430,8 +14572,8 @@
       <type></type>
       <name>~JX10Processor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
-      <anchor>afc4a49db5b01382b5a2ebdc442fc0c09</anchor>
-      <arglist>()</arglist>
+      <anchor>a674ff7a2f3abf488636ceddd5b0d03d1</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -14459,6 +14601,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -15123,8 +15272,8 @@
       <type></type>
       <name>~LeslieController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html</anchorfile>
-      <anchor>ace27e8c9182412956028ffa70d53c326</anchor>
-      <arglist>()</arglist>
+      <anchor>a97efc42fc11132be9043ea6ea6acd230</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -15184,8 +15333,8 @@
       <type></type>
       <name>~LeslieProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html</anchorfile>
-      <anchor>a97dfe54d414592753aa183f49760cd28</anchor>
-      <arglist>()</arglist>
+      <anchor>a29b6f26ebb649e0531bf4fc7bd172b37</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -15213,6 +15362,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -15462,8 +15618,8 @@
       <type></type>
       <name>~LimiterController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LimiterController.html</anchorfile>
-      <anchor>a82216b62e2ecc0257f15d87d7630e3e4</anchor>
-      <arglist>()</arglist>
+      <anchor>a73a562e4c97c36b595abe57e8a12f71c</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -15523,8 +15679,8 @@
       <type></type>
       <name>~LimiterProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html</anchorfile>
-      <anchor>a12a5b3a002d504de38dca4ad0f81510e</anchor>
-      <arglist>()</arglist>
+      <anchor>a9c802691ee46820bced4da83b5e2f4dc</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -15847,8 +16003,8 @@
       <type></type>
       <name>~LoudnessController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html</anchorfile>
-      <anchor>a15a046a994045f876d80d45fb1254717</anchor>
-      <arglist>()</arglist>
+      <anchor>a5f18a98c6cb3162bad5cd2943bf7b4d5</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -15908,8 +16064,8 @@
       <type></type>
       <name>~LoudnessProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html</anchorfile>
-      <anchor>a276eca5290e17ef9227e019ca41d77b1</anchor>
-      <arglist>()</arglist>
+      <anchor>a9bbd53787c24e5dfeee4b39ad6a90cad</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -16113,8 +16269,8 @@
       <type></type>
       <name>~MultiBandController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1MultiBandController.html</anchorfile>
-      <anchor>a470c4de825a2061dfa5c7c8989a8f9d0</anchor>
-      <arglist>()</arglist>
+      <anchor>aec4be14c8f5fd60caafb017db22f31ac</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -16174,8 +16330,8 @@
       <type></type>
       <name>~MultiBandProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html</anchorfile>
-      <anchor>afa1de1cf9fe9b5b8c6b2d437b274ada2</anchor>
-      <arglist>()</arglist>
+      <anchor>a0265237466d40198e24a9b46f5a024e2</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -16547,8 +16703,8 @@
       <type></type>
       <name>~OverdriveController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1OverdriveController.html</anchorfile>
-      <anchor>af6076c2d0e769b176de790715677359b</anchor>
-      <arglist>()</arglist>
+      <anchor>a6937cbbb8b8e3d3b996e35d266d65e97</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -16608,8 +16764,8 @@
       <type></type>
       <name>~OverdriveProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html</anchorfile>
-      <anchor>a909f5de7a0fa09b4924960bee56d828d</anchor>
-      <arglist>()</arglist>
+      <anchor>a5c636f49155785c051cff915086c7669</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -16766,8 +16922,8 @@
       <type>void</type>
       <name>checkNormalized</name>
       <anchorfile>classParameterChangesCheck.html</anchorfile>
-      <anchor>a83eb4fbfa7f281fc33c2e29ddacec923</anchor>
-      <arglist>(float normVal)</arglist>
+      <anchor>a5da005751dca3defd050e92a3a66eb98</anchor>
+      <arglist>(double normVal)</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>void</type>
@@ -16794,15 +16950,15 @@
       <type>bool</type>
       <name>isNormalized</name>
       <anchorfile>classParameterChangesCheck.html</anchorfile>
-      <anchor>a18b81593e22ea1f7a57fc33370065b7c</anchor>
-      <arglist>(float normVal) const</arglist>
+      <anchor>abde0c68e719830db66018a16bc5cc00b</anchor>
+      <arglist>(double normVal) const</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>bool</type>
       <name>isValidSampleOffset</name>
       <anchorfile>classParameterChangesCheck.html</anchorfile>
-      <anchor>a7651b975755a7b4a29d3b7b4f76515bc</anchor>
-      <arglist>(float sampleOffset, float lastSampleOffset) const</arglist>
+      <anchor>ad39666ea624c5fe0a596b7430e4b9d07</anchor>
+      <arglist>(Steinberg::int32 sampleOffset, Steinberg::int32 lastSampleOffset) const</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>bool</type>
@@ -16855,8 +17011,8 @@
       <type></type>
       <name>~PianoController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoController.html</anchorfile>
-      <anchor>aa52d809382a76c99ac0590b6bf162f1d</anchor>
-      <arglist>()</arglist>
+      <anchor>aa3c0b341d6607bb34e8f58b6e837cd1b</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -16956,8 +17112,8 @@
       <type></type>
       <name>~PianoProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
-      <anchor>ac054f2759659a30425d57e23d26b94a7</anchor>
-      <arglist>()</arglist>
+      <anchor>af2716bdb23687d4b0331e14ad00c1ec6</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -16985,6 +17141,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -18161,6 +18324,13 @@
       <anchor>a600412479bad7d510631ebb99267ed91</anchor>
       <arglist></arglist>
     </member>
+    <member kind="variable" protection="protected">
+      <type>Steinberg::int64</type>
+      <name>mLastSystemTime</name>
+      <anchorfile>classProcessContextCheck.html</anchorfile>
+      <anchor>a61b1974f48772ab7b94c9db686fc7243</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="class">
     <name>Steinberg::Vst::mda::Processor</name>
@@ -18184,8 +18354,8 @@
       <type></type>
       <name>~Processor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1Processor.html</anchorfile>
-      <anchor>a2d8025401add2553bd80ccd3b87b5c30</anchor>
-      <arglist>()</arglist>
+      <anchor>ad9e0ee4e77538b193103c7901f2801e2</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function" protection="protected" virtualness="pure">
       <type>virtual void</type>
@@ -18712,8 +18882,8 @@
       <type></type>
       <name>~RePsychoController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RePsychoController.html</anchorfile>
-      <anchor>a8f0e5ce0ebf5f1df25001bab75fc61ea</anchor>
-      <arglist>()</arglist>
+      <anchor>a8ce30a593ee3a9f9f11d31074f867d3b</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -18773,8 +18943,8 @@
       <type></type>
       <name>~RePsychoProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html</anchorfile>
-      <anchor>a6019d93b3d148ec2b71948d3be39cf41</anchor>
-      <arglist>()</arglist>
+      <anchor>ad3c277dc8c767dc3dade766db9c946f7</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -18802,6 +18972,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -18946,8 +19123,8 @@
       <type></type>
       <name>~RezFilterController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RezFilterController.html</anchorfile>
-      <anchor>a5787cac1899d4ce4932caeb2f77775fa</anchor>
-      <arglist>()</arglist>
+      <anchor>a6d947cf0bff568fdcf74f48fe95ce0fd</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -19007,8 +19184,8 @@
       <type></type>
       <name>~RezFilterProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html</anchorfile>
-      <anchor>a6bd2a492488c704a9bf232d8a7a8d9ac</anchor>
-      <arglist>()</arglist>
+      <anchor>a54e02888abef938f0f9ed652a4b052de</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -19036,6 +19213,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -19222,8 +19406,8 @@
       <type></type>
       <name>~RingModController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RingModController.html</anchorfile>
-      <anchor>a7720cdc493cf43617c847e35127317e2</anchor>
-      <arglist>()</arglist>
+      <anchor>a365193627c5795f8306d3637e7d45f35</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -19283,8 +19467,8 @@
       <type></type>
       <name>~RingModProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html</anchorfile>
-      <anchor>aecf72b9af433ac2fd816edda7a7880a2</anchor>
-      <arglist>()</arglist>
+      <anchor>ad572329b8a4682316d9057ea274b3a9b</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -19400,8 +19584,8 @@
       <type></type>
       <name>~RoundPanController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html</anchorfile>
-      <anchor>a3f4460857cfaac34a39845bd61db05a8</anchor>
-      <arglist>()</arglist>
+      <anchor>a42d89f7c8be7ce61a0a5511ad4dd76fe</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -19461,8 +19645,8 @@
       <type></type>
       <name>~RoundPanProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html</anchorfile>
-      <anchor>a2926b0dd9624e553ecaeea8f30495929</anchor>
-      <arglist>()</arglist>
+      <anchor>a0f66b783bffda7655c488e8e7f2603aa</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -19669,8 +19853,8 @@
       <type></type>
       <name>~ShepardController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html</anchorfile>
-      <anchor>acbf9716b7a26d5a082f9ba2f2327983a</anchor>
-      <arglist>()</arglist>
+      <anchor>a751b719ca8c1a3ffee9738503ed8f1eb</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -19730,8 +19914,8 @@
       <type></type>
       <name>~ShepardProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html</anchorfile>
-      <anchor>a8e856e0d51d325ad8c502d665ca2fbd0</anchor>
-      <arglist>()</arglist>
+      <anchor>aec4957feb607668ecd5620fb1440603c</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -19995,8 +20179,8 @@
       <type></type>
       <name>~SpecMeterController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SpecMeterController.html</anchorfile>
-      <anchor>a46a6eddfa0740f3f38db0c67a1553a34</anchor>
-      <arglist>()</arglist>
+      <anchor>af3ddc97e02c62b5a248877ff8d60e0e8</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -20035,8 +20219,8 @@
       <type></type>
       <name>~SpecMeterProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html</anchorfile>
-      <anchor>a814690d2fe8b3658e278b3a84eb4a134</anchor>
-      <arglist>()</arglist>
+      <anchor>abdc041142ada6e117d3383548798253e</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -20299,8 +20483,8 @@
       <type></type>
       <name>~SplitterController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SplitterController.html</anchorfile>
-      <anchor>aa1af2983dfcfc404933789e01e0ab27f</anchor>
-      <arglist>()</arglist>
+      <anchor>a86afb89b88a8e4221c8cc116083f1616</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -20360,8 +20544,8 @@
       <type></type>
       <name>~SplitterProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html</anchorfile>
-      <anchor>ad8b0d88339441c0f6182ec47a705df55</anchor>
-      <arglist>()</arglist>
+      <anchor>a26960c99cfb228eec915881c95604241</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -20389,6 +20573,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -20568,8 +20759,8 @@
       <type></type>
       <name>~StereoController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1StereoController.html</anchorfile>
-      <anchor>a22c26debac7f8cac0e0350cecf8d0a4c</anchor>
-      <arglist>()</arglist>
+      <anchor>a75cc6fd02dc2d2d4d7b365f7bb4eb524</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -20629,8 +20820,8 @@
       <type></type>
       <name>~StereoProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html</anchorfile>
-      <anchor>ab8d6076d57d32e9f974ded44cbc96404</anchor>
-      <arglist>()</arglist>
+      <anchor>a18a9ddb1c64491ea2cfbebfd2c7c01b9</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -20781,8 +20972,8 @@
       <type></type>
       <name>~SubSynthController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html</anchorfile>
-      <anchor>af178bffd48e73128237191204ea01c41</anchor>
-      <arglist>()</arglist>
+      <anchor>a7830729b92a75d029105224a4ffacf47</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -20842,8 +21033,8 @@
       <type></type>
       <name>~SubSynthProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html</anchorfile>
-      <anchor>a2ea315d12be6b343c8b4b6cb97cd1874</anchor>
-      <arglist>()</arglist>
+      <anchor>a544b98e2ad32e837e8e5ab4dd8c7ee2a</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -20871,6 +21062,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -21081,6 +21279,13 @@
     </member>
     <member kind="function">
       <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
       <name>process</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
       <anchor>a2a13e09cc9ec3dd1b8617a38e3c07af5</anchor>
@@ -21119,6 +21324,13 @@
       <name>calculateDelay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
       <anchor>aa61dbbd9bf6e2bfc939d559a7fc4b2bb</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" protection="protected">
+      <type>bool</type>
+      <name>resetDelay</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
+      <anchor>a5783722f570ccad215d88ff42f5b887c</anchor>
       <arglist>()</arglist>
     </member>
     <member kind="variable" protection="protected">
@@ -21168,6 +21380,13 @@
       <name>mBufferPos</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
       <anchor>ab057f31002cb307dd84636e2898fe84c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int32</type>
+      <name>mNumChannels</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1SyncDelayProcessor.html</anchorfile>
+      <anchor>a9fbc69488130ad6e636fe9b7afe1e606</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -21323,8 +21542,8 @@
       <type></type>
       <name>~TalkBoxController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TalkBoxController.html</anchorfile>
-      <anchor>a86740502848ebb74ec30899de60e3ff9</anchor>
-      <arglist>()</arglist>
+      <anchor>ae76dbd21d9a5d3c25ae50d67071cf60d</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -21384,8 +21603,8 @@
       <type></type>
       <name>~TalkBoxProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html</anchorfile>
-      <anchor>a7f05481a9acb3c25c0b69a662730d70f</anchor>
-      <arglist>()</arglist>
+      <anchor>a2f306fb60826836249686de2702293bd</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -21413,6 +21632,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -21777,8 +22003,8 @@
       <type></type>
       <name>~TestToneController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TestToneController.html</anchorfile>
-      <anchor>adf5a2ee42225efbed0b561634f3c8e4b</anchor>
-      <arglist>()</arglist>
+      <anchor>a965cd6cdd73ae8aba8c755bfd2a2ddb8</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -21838,8 +22064,8 @@
       <type></type>
       <name>~TestToneProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html</anchorfile>
-      <anchor>a1e244593aa08929107576f5c39d87d8f</anchor>
-      <arglist>()</arglist>
+      <anchor>a20c092f036781ac28b18ac57c62a77fb</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -21867,6 +22093,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -22060,8 +22293,8 @@
       <type></type>
       <name>~ThruZeroController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ThruZeroController.html</anchorfile>
-      <anchor>a4cf7a206afb5cc12947e14a9651eacbd</anchor>
-      <arglist>()</arglist>
+      <anchor>a6861d9fef0529b7920e28284b8153b8d</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -22121,8 +22354,8 @@
       <type></type>
       <name>~ThruZeroProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html</anchorfile>
-      <anchor>aeb49c685c6f08d7edea3b1d0eeda21b9</anchor>
-      <arglist>()</arglist>
+      <anchor>ac01f4c5cc0a0aba77d89776c8b65b476</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -22150,6 +22383,13 @@
       <name>setActive</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html</anchorfile>
       <anchor>ad48c36f6210f722d195a93f68fb7dff4</anchor>
+      <arglist>(TBool state) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>setProcessing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html</anchorfile>
+      <anchor>a6fe399148064f1f04eb3f6d71c1f966d</anchor>
       <arglist>(TBool state) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
@@ -22294,8 +22534,8 @@
       <type></type>
       <name>~TrackerController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TrackerController.html</anchorfile>
-      <anchor>adeefe9d8999e73842066bb3597ffe15c</anchor>
-      <arglist>()</arglist>
+      <anchor>ab7b314abd2dc7f68e7d3f0c852d4679b</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -22355,8 +22595,8 @@
       <type></type>
       <name>~TrackerProcessor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html</anchorfile>
-      <anchor>ad92e1375ba0d21396ac67f99226b0e7d</anchor>
-      <arglist>()</arglist>
+      <anchor>ada3e6de98cd4cd4b76b4dbb141828420</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -23729,6 +23969,13 @@
       <anchor>a057fc4070dc2a34eea400b9a5f7c2573</anchor>
       <arglist>(Event evt)=0</arglist>
     </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual void</type>
+      <name>clearAllVoices</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1VoiceProcessor.html</anchorfile>
+      <anchor>ace785de6d586d47dcd69e0945fffaa98</anchor>
+      <arglist>()</arglist>
+    </member>
     <member kind="function">
       <type>int32</type>
       <name>getActiveVoices</name>
@@ -23794,6 +24041,13 @@
       <anchorfile>classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html</anchorfile>
       <anchor>a0ee90f2ec55c3d3e1474d37fe9585de0</anchor>
       <arglist>(Event evt) override</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>clearAllVoices</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html</anchorfile>
+      <anchor>ae6c0bd0daf0f76e75ede1c4d25511da3</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function" protection="protected">
       <type>VoiceClass *</type>
@@ -24270,6 +24524,12 @@
       <name>kParamRandomizeTag</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>abc6126af1d45847bc59afa0aa3216b04a61e4a6d616a321e8405d91dfca581361</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kParamProcessModeTag</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>abc6126af1d45847bc59afa0aa3216b04aade71889bf462dc1060e115b7c8eea0f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">

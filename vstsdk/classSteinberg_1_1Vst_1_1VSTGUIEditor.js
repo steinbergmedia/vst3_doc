@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1VSTGUIEditor =
 [
     [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#abe4d797f9faae89502fe8e63c032ddf8", null ],
-    [ "~VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af3ef338c0dd0439cb448abe7994ed6e7", null ],
+    [ "~VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a3b0ca40505936fe555ed9bfbd77aa57f", null ],
     [ "open", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5b4c5a35f6d87fdccb5ace7ec93b5327", null ],
     [ "close", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549", null ],
     [ "setIdleRate", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af480ce3bd3536701eef1f46d6b4d61eb", null ],

@@ -11,6 +11,7 @@ var vstpresetkeys_8h =
     [ "kFileName", "vstpresetkeys_8h.html#a94927840ff999e51218b78a405316220", null ],
     [ "kProject", "vstpresetkeys_8h.html#a89eaf816243da36726dfe2656c266a4c", null ],
     [ "kDefault", "vstpresetkeys_8h.html#a4f34c8d0372a9d06a2713fd488ece66e", null ],
+    [ "kTrackPreset", "vstpresetkeys_8h.html#a1f380534472555c866e5ab66387eb60e", null ],
     [ "kAccordion", "vstpresetkeys_8h.html#a5bd8958e2d10a39961b9ac9d20ac1a3c", null ],
     [ "kAccordionAccordion", "vstpresetkeys_8h.html#a4b3a7ca0aed4fd75c4c6de9da2c095b0", null ],
     [ "kAccordionHarmonica", "vstpresetkeys_8h.html#a13f91d403c87da4936308cd2f94b3dce", null ],

@@ -1,6 +1,6 @@
 <map id="TestBase" name="TestBase">
 <area shape="rect" id="node1" title="Test Helper." alt="" coords="5,322,166,523"/>
 <area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1TestEnh.html" title="Test Helper." alt="" coords="32,571,139,703"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1ITest" title=" " alt="" coords="26,157,145,274"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="27,5,144,109"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1ITest.html" title=" " alt="" coords="26,157,145,274"/>
+<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="27,5,144,109"/>
 </map>

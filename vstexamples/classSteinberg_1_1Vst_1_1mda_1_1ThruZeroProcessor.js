@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor =
 [
     [ "ThruZeroProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ac8d4cdf8c71c6cac0318c8f2c7428979", null ],
-    [ "~ThruZeroProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#aeb49c685c6f08d7edea3b1d0eeda21b9", null ],
+    [ "~ThruZeroProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ac01f4c5cc0a0aba77d89776c8b65b476", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "rat", "classSteinberg_1_1Vst_1_1mda_1_1ThruZeroProcessor.html#ac2b7fb9fc534e572efca4ecd24acdfc7", null ],

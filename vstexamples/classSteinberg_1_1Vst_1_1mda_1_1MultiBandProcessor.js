@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor =
 [
     [ "MultiBandProcessor", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a7e0e9b3d718ae96e40d4f47a10e64b1a", null ],
-    [ "~MultiBandProcessor", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#afa1de1cf9fe9b5b8c6b2d437b274ada2", null ],
+    [ "~MultiBandProcessor", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a0265237466d40198e24a9b46f5a024e2", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

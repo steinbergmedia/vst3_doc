@@ -7,6 +7,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1BaseController =
     [ "getProgramListCount", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#af5e30a37495c2dfff3891cbf86572c66", null ],
     [ "getProgramListInfo", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a2a3941823f36ec6291cbc7d815541d00", null ],
     [ "getProgramName", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a77f12234bacd276ef1f27a6c69fabe36", null ],
+    [ "getUnitByBus", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a916c9d3245f4580b4effa6d977a64208", null ],
     [ "getMidiControllerAssignment", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a0c25846cfb4cee3a28d6446c4f324877", null ],
     [ "getParameters", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#ab5aee47913a3a978f8007db2e06f4543", null ],
     [ "DELEGATE_REFCOUNT", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#a579f67d43479032fad177c903cad9a49", null ],

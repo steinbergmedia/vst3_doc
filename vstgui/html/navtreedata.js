@@ -29,7 +29,6 @@ var NAVTREE =
     [ "Setup", "page_setup.html", null ],
     [ "New stuff in VSTGUI 4", "page_news_and_changes.html", "page_news_and_changes" ],
     [ "License", "page_license.html", null ],
-    [ "Creating user interfaces", "uidescription.html", "uidescription" ],
     [ "Standalone Library", "standalone_library.html", [
       [ "About", "standalone_library.html#standalone_about", null ],
       [ "Bindings", "standalone_library.html#standalone_modelbinding", null ],
@@ -37,6 +36,7 @@ var NAVTREE =
       [ "Supported operating systems", "standalone_library.html#standalone_supported_os", null ],
       [ "Compiler requirements", "standalone_library.html#standalone_compiler_requirements", null ]
     ] ],
+    [ "Creating user interfaces", "uidescription.html", "uidescription" ],
     [ "Miscellaneous", "page_misc.html", "page_misc" ],
     [ "Deprecated List", "deprecated.html", null ],
     [ "Modules", "modules.html", "modules" ],

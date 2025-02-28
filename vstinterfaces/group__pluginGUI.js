@@ -1,9 +1,6 @@
 var group__pluginGUI =
 [
     [ "Platform UI Types", "group__platformUIType.html", null ],
-    [ "IParameterFinder", "classSteinberg_1_1Vst_1_1IParameterFinder.html", [
-      [ "findParameter", "classSteinberg_1_1Vst_1_1IParameterFinder.html#afd8d9733eee7b052280d7ddd0057b8ea", null ]
-    ] ],
     [ "ViewRect", "../base/structSteinberg_1_1ViewRect.html", [
       [ "ViewRect", "../base/structSteinberg_1_1ViewRect.html#afcdde0147792d1103d06537c37e59ef0", null ],
       [ "getWidth", "../base/structSteinberg_1_1ViewRect.html#a8393748cd69f8fb3f27257f9e7f5900b", null ],
@@ -45,5 +42,8 @@ var group__pluginGUI =
     [ "IPlugViewContentScaleSupport", "../base/classSteinberg_1_1IPlugViewContentScaleSupport.html", [
       [ "ScaleFactor", "../base/classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8", null ],
       [ "setContentScaleFactor", "../base/classSteinberg_1_1IPlugViewContentScaleSupport.html#af5b0fea85beba3cdcfeb8de66779f478", null ]
+    ] ],
+    [ "IParameterFinder", "classSteinberg_1_1Vst_1_1IParameterFinder.html", [
+      [ "findParameter", "classSteinberg_1_1Vst_1_1IParameterFinder.html#afd8d9733eee7b052280d7ddd0057b8ea", null ]
     ] ]
 ];

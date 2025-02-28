@@ -1,7 +1,6 @@
 var hierarchy =
 [
     [ "BrownNoise< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html", null ],
-    [ "BrownNoise< float >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html", null ],
     [ "CBaseObject", null, [
       [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", null ],
       [ "PitchNamesDataBrowserSource", "classVSTGUI_1_1PitchNamesDataBrowserSource.html", null ]
@@ -237,7 +236,6 @@ var hierarchy =
     [ "PianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
     [ "LogEvent", "structLogEvent.html", null ],
     [ "LogScale< T >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
-    [ "LogScale< ParamValue >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
     [ "Validator::ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", null ],
     [ "Parameter", "../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html", [
       [ "LogScaleParameter< T >", "classSteinberg_1_1Vst_1_1LogScaleParameter.html", null ],

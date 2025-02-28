@@ -11,7 +11,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1ComboController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "ComboController", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#aad43827bba8fb47f81eaf929cfeedff9", null ],
-    [ "~ComboController", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#a72554bb7c7765158576a33165582f290", null ],
+    [ "~ComboController", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#aca403ee23f916c03bdfc07a9c630c737", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ComboController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ]
 ];

@@ -30,7 +30,7 @@ var searchData=
   ['getnumber_27',['getNumber',['../classSteinberg_1_1FVariant.html#ae13f760a4b1aefdc15749b6bad43c94b',1,'Steinberg::FVariant']]],
   ['getobject_28',['getObject',['../classSteinberg_1_1FVariant.html#a30a14e98c6eacc6b1ba9df80b42adfc9',1,'Steinberg::FVariant']]],
   ['getpluginfactory_29',['GetPluginFactory',['../group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce',1,'ipluginbase.h']]],
-  ['getqueueitemcount_30',['getQueueItemCount',['../classSteinberg_1_1IAttributes.html#a9a492c4051f10885bbac87ef1882ea44',1,'Steinberg::IAttributes']]],
+  ['getqueueitemcount_30',['getQueueItemCount',['../classSteinberg_1_1IAttributes.html#a0ba9fecabcbf74309a19ea33bb11dec8',1,'Steinberg::IAttributes']]],
   ['getred_31',['GetRed',['../namespaceSteinberg.html#aa2093d47e98716adb212069f951ff841',1,'Steinberg']]],
   ['getsize_32',['getSize',['../classSteinberg_1_1UString.html#aeba375d43d0cabc60d729cdb1625c686',1,'Steinberg::UString::getSize()'],['../classSteinberg_1_1IPlugView.html#ae4f7f751a5b75837f47ba19b29c53917',1,'Steinberg::IPlugView::getSize()']]],
   ['getstreamsize_33',['getStreamSize',['../classSteinberg_1_1ISizeableStream.html#a14a1cf32b76e98f867728d2b140d664c',1,'Steinberg::ISizeableStream']]],

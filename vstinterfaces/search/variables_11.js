@@ -28,8 +28,6 @@ var searchData=
   ['strings_25',['strings',['../../vstsdk/classSteinberg_1_1Vst_1_1StringListParameter.html#a5a9dee2a0836631d70d59cde796132a0',1,'Steinberg::Vst::StringListParameter']]],
   ['subcategories_26',['subCategories',['../../base/structSteinberg_1_1PClassInfo2.html#a106c76c37c57aa35e42654278412ee90',1,'Steinberg::PClassInfo2::subCategories()'],['../../base/structSteinberg_1_1PClassInfoW.html#a106c76c37c57aa35e42654278412ee90',1,'Steinberg::PClassInfoW::subCategories()'],['../../vstsdk/structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#aa58fa0abd717f05f9716d6644e4c9c27',1,'VST3::Hosting::ClassInfo::Data::subCategories()']]],
   ['symbolicsamplesize_27',['symbolicSampleSize',['../structSteinberg_1_1Vst_1_1ProcessSetup.html#a9392481e4890fb9c08015eed7c2655e0',1,'Steinberg::Vst::ProcessSetup::symbolicSampleSize()'],['../structSteinberg_1_1Vst_1_1ProcessData.html#a9392481e4890fb9c08015eed7c2655e0',1,'Steinberg::Vst::ProcessData::symbolicSampleSize()']]],
-  ['sysex_28',['SysEx',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b',1,'Steinberg::Vst::UMP']]],
-  ['system_29',['System',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034',1,'Steinberg::Vst::UMP']]],
-  ['systemtime_30',['systemTime',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a6dca674d990cf41493918b226fcf5dde',1,'Steinberg::Vst::ProcessContext']]],
-  ['systemwindow_31',['systemWindow',['../../vstsdk/classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd',1,'Steinberg::CPluginView']]]
+  ['systemtime_28',['systemTime',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a6dca674d990cf41493918b226fcf5dde',1,'Steinberg::Vst::ProcessContext']]],
+  ['systemwindow_29',['systemWindow',['../../vstsdk/classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd',1,'Steinberg::CPluginView']]]
 ];

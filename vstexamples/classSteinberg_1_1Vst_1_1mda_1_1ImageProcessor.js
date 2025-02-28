@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor =
 [
     [ "ImageProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#a20eb0f92b9f59876d8eda29f59a28dae", null ],
-    [ "~ImageProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#ad9c8c08393e8422518560215c3769216", null ],
+    [ "~ImageProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#ab936ea09d6472f4d06922db8dc05c0f9", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ImageProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

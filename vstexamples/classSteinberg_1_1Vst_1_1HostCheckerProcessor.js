@@ -51,6 +51,7 @@ var classSteinberg_1_1Vst_1_1HostCheckerProcessor =
     [ "msgQueue", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a307db218f2f193eb1b8a148f3ec6234b", null ],
     [ "dataExchangeHandler", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a804638e2145a4f4e6fdcac6e2d959a1b", null ],
     [ "mLastExchangeBlockSendSystemTime", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a5226097f06ed3b646babc1506b2aa46d", null ],
+    [ "mLastProcessMode", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a9beb9cdfe7ba50d0fad2770eb98d8a9e", null ],
     [ "mBypass", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#aa09864e5d6f2062a14eb8ad2d1db297d", null ],
     [ "mSetActiveCalled", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#ab2e0fa82b6165abab8cb9fe58b424b91", null ],
     [ "mCheckGetLatencyCall", "classSteinberg_1_1Vst_1_1HostCheckerProcessor.html#a84dee4ea21eb88b001b6332b3164f2b3", null ],

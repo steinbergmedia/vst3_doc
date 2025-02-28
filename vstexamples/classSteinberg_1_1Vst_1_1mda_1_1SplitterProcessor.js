@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor =
 [
     [ "SplitterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a19f05625e02ec0b0ed1296f8f0561ba1", null ],
-    [ "~SplitterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#ad8b0d88339441c0f6182ec47a705df55", null ],
+    [ "~SplitterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a26960c99cfb228eec915881c95604241", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "freq", "classSteinberg_1_1Vst_1_1mda_1_1SplitterProcessor.html#a4409e94ad13a060b0ffbc0f371c80004", null ],

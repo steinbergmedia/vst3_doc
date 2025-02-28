@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.3">
+<tagfile doxygen_version="1.9.2">
   <compound kind="file">
     <name>iplugview.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
@@ -529,6 +529,13 @@
       <name>kChannelUIDLengthKey</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
       <anchor>af44825ca23e7c673682f438d8cf6283e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kChannelRuntimeIDKey</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
+      <anchor>a9c2f6d2b8c4bdae3d194aee3a111bfd8</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -2542,6 +2549,13 @@
       <name>kDefault</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
       <anchor>a4f34c8d0372a9d06a2713fd488ece66e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kTrackPreset</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
+      <anchor>a1f380534472555c866e5ab66387eb60e</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -7404,6 +7418,13 @@
     </member>
     <member kind="define">
       <type>#define</type>
+      <name>VST_3_7_13_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>aaa09f40411138f40e8297a1614c89755</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
       <name>VST_3_7_12_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a79417033b8926d7da1e79f901ed7b739</anchor>
@@ -8491,55 +8512,55 @@
       <type></type>
       <name>AutomationStates</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adb</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNoAutomation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba50593589ab3b2b6bc94d914caf926e8a</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a50593589ab3b2b6bc94d914caf926e8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kReadState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba27168d4bbe8c328ccc1c61c18e5e86cf</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a27168d4bbe8c328ccc1c61c18e5e86cf</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kWriteState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adbad3b29f3c6c1d4b45e32c9782ac13b4ad</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719ad3b29f3c6c1d4b45e32c9782ac13b4ad</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kReadWriteState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba91c9e6284228f8fed9c09539698ff6c1</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a91c9e6284228f8fed9c09539698ff6c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNoAutomation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba50593589ab3b2b6bc94d914caf926e8a</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a50593589ab3b2b6bc94d914caf926e8a</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kReadState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba27168d4bbe8c328ccc1c61c18e5e86cf</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a27168d4bbe8c328ccc1c61c18e5e86cf</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kWriteState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adbad3b29f3c6c1d4b45e32c9782ac13b4ad</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719ad3b29f3c6c1d4b45e32c9782ac13b4ad</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kReadWriteState</name>
       <anchorfile>classSteinberg_1_1Vst_1_1IAutomationState.html</anchorfile>
-      <anchor>a787ff792c6d9eaf7652cef4454750adba91c9e6284228f8fed9c09539698ff6c1</anchor>
+      <anchor>ab92119cb4745f1106c18a44f6d7d7719a91c9e6284228f8fed9c09539698ff6c1</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" virtualness="pure">
@@ -13644,6 +13665,13 @@
     </member>
     <member kind="variable">
       <type>const CString</type>
+      <name>kChannelRuntimeIDKey</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
+      <anchor>a9c2f6d2b8c4bdae3d194aee3a111bfd8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
       <name>kChannelNameKey</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1ChannelContext.html</anchorfile>
       <anchor>a355d0e3fe55ba9c58ebe6cb29cf27ce5</anchor>
@@ -18636,6 +18664,13 @@
       <anchor>a4f34c8d0372a9d06a2713fd488ece66e</anchor>
       <arglist></arglist>
     </member>
+    <member kind="variable">
+      <type>const CString</type>
+      <name>kTrackPreset</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1StateType.html</anchorfile>
+      <anchor>a1f380534472555c866e5ab66387eb60e</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="namespace">
     <name>Steinberg::Vst::ViewType</name>
@@ -18647,6 +18682,18 @@
       <anchor>aaa62c4c32f0270a908eb20c7c7124dfc</anchor>
       <arglist></arglist>
     </member>
+  </compound>
+  <compound kind="group">
+    <name>pluginGUI</name>
+    <title>Graphical User Interface</title>
+    <filename>group__pluginGUI.html</filename>
+    <subgroup>platformUIType</subgroup>
+    <class kind="class">Steinberg::Vst::IParameterFinder</class>
+  </compound>
+  <compound kind="group">
+    <name>platformUIType</name>
+    <title>Platform UI Types</title>
+    <filename>group__platformUIType.html</filename>
   </compound>
   <compound kind="group">
     <name>plugType</name>
@@ -19154,17 +19201,5 @@
       <anchor>ga646cd09e52190d60f2d4ca83faf915aa</anchor>
       <arglist></arglist>
     </member>
-  </compound>
-  <compound kind="group">
-    <name>pluginGUI</name>
-    <title>Graphical User Interface</title>
-    <filename>group__pluginGUI.html</filename>
-    <subgroup>platformUIType</subgroup>
-    <class kind="class">Steinberg::Vst::IParameterFinder</class>
-  </compound>
-  <compound kind="group">
-    <name>platformUIType</name>
-    <title>Platform UI Types</title>
-    <filename>group__platformUIType.html</filename>
   </compound>
 </tagfile>

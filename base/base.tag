@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.3">
+<tagfile doxygen_version="1.9.2">
   <compound kind="file">
     <name>conststringtable.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
@@ -3396,8 +3396,8 @@
       <type>virtual int32</type>
       <name>getQueueItemCount</name>
       <anchorfile>classSteinberg_1_1IAttributes.html</anchorfile>
-      <anchor>a9a492c4051f10885bbac87ef1882ea44</anchor>
-      <arglist>(IAttrID)=0</arglist>
+      <anchor>a0ba9fecabcbf74309a19ea33bb11dec8</anchor>
+      <arglist>(IAttrID attrId)=0</arglist>
     </member>
     <member kind="function" virtualness="pure">
       <type>virtual tresult</type>

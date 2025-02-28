@@ -66,9 +66,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classSteinberg_1_1IPtr.html#aa026503428fb71f2170fcf230a54ddea",
-"functions_vars.html",
-"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078",
-"structSteinberg_1_1FReleaser.html#aa5116d1833f098d611bf2336d869823d"
+"funknown_8cpp.html",
+"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da8779d8eaee888493c6c5db7acc5d4a0a",
+"structSteinberg_1_1FReleaser.html#adcb624ac2e22762ff3ef4a83c423d84f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

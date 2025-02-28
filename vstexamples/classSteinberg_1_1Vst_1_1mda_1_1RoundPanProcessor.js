@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor =
 [
     [ "RoundPanProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#aabbe6a6f3ef6de165b7445cea41f8f64", null ],
-    [ "~RoundPanProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a2926b0dd9624e553ecaeea8f30495929", null ],
+    [ "~RoundPanProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a0f66b783bffda7655c488e8e7f2603aa", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

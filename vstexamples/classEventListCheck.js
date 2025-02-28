@@ -12,7 +12,7 @@ var classEventListCheck =
     [ "checkEventSampleOffset", "classEventListCheck.html#a556be7172cc2c97647ad0388f2aa4e9c", null ],
     [ "checkEventChannelIndex", "classEventListCheck.html#abc74d5053815f6de3709e0f5fd03475f", null ],
     [ "checkValidPitch", "classEventListCheck.html#acdb09e4fcc0be2ae868343614fdeecd8", null ],
-    [ "isNormalized", "classEventListCheck.html#a18b81593e22ea1f7a57fc33370065b7c", null ],
+    [ "isNormalized", "classEventListCheck.html#abde0c68e719830db66018a16bc5cc00b", null ],
     [ "checkNoteExpressionValueEvent", "classEventListCheck.html#a147de6d29504bb4f688609822cbeb271", null ],
     [ "mEventLogger", "classEventListCheck.html#ac7b803638761074f9b199990874a1ddc", null ],
     [ "mComponent", "classEventListCheck.html#a97bf8db9a16fed4a26a663b55f840c89", null ],

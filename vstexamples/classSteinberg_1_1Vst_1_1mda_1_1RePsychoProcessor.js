@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor =
 [
     [ "RePsychoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a8ad648787388e306f093001442b31380", null ],
-    [ "~RePsychoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a6019d93b3d148ec2b71948d3be39cf41", null ],
+    [ "~RePsychoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#ad3c277dc8c767dc3dade766db9c946f7", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "thr", "classSteinberg_1_1Vst_1_1mda_1_1RePsychoProcessor.html#af1251a78af95b174cf6fa123dbe441a7", null ],

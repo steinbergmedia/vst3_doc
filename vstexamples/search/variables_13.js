@@ -15,6 +15,5 @@ var searchData=
   ['usedqueuecount_12',['usedQueueCount',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd',1,'Steinberg::Vst::ParameterChanges']]],
   ['useextensivetests_13',['useExtensiveTests',['../structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html#a31237fc7b3dd92a28ccb2f74cb4acd3a',1,'Steinberg::Vst::Validator::ModuleTestConfig']]],
   ['useglobalinstance_14',['useGlobalInstance',['../structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html#a11be6e72e6395ba1d657305ceeb3294c',1,'Steinberg::Vst::Validator::ModuleTestConfig']]],
-  ['usercontextid_15',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
-  ['utility_16',['Utility',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c',1,'Steinberg::Vst::UMP']]]
+  ['usercontextid_15',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]]
 ];

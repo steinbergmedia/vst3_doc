@@ -10,7 +10,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1DegradeController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "DegradeController", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#ac301b14dff40a06c4aa8dbcc67d243d7", null ],
-    [ "~DegradeController", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#ad30ebb8444693ace8bcc07fe5161314f", null ],
+    [ "~DegradeController", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#a32f5d95ece6d74436661d5e054d8f711", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

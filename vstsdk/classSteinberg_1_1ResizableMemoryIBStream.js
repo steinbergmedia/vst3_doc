@@ -7,5 +7,6 @@ var classSteinberg_1_1ResizableMemoryIBStream =
     [ "tell", "classSteinberg_1_1ResizableMemoryIBStream.html#acbe865d4dee3f7291b82df7740283b94", null ],
     [ "getCursor", "classSteinberg_1_1ResizableMemoryIBStream.html#a54701d93d827cc573cc0047e46b209e8", null ],
     [ "getData", "classSteinberg_1_1ResizableMemoryIBStream.html#a33cd764c2c1b43d5db112281ed04cce0", null ],
-    [ "rewind", "classSteinberg_1_1ResizableMemoryIBStream.html#ab8734e666421c9fe3b6380a818c6c727", null ]
+    [ "rewind", "classSteinberg_1_1ResizableMemoryIBStream.html#ab8734e666421c9fe3b6380a818c6c727", null ],
+    [ "take", "classSteinberg_1_1ResizableMemoryIBStream.html#afe04a58c8b1cf08fb6ff00c59a30afe6", null ]
 ];

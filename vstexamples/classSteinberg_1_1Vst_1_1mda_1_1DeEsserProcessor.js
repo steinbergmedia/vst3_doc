@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor =
 [
     [ "DeEsserProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a29aa9aaa9007e7dd3c04058ac99b789e", null ],
-    [ "~DeEsserProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#afb5bf7b43a8c473b293c43d0d8d6dcd2", null ],
+    [ "~DeEsserProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a187326203c80c071eba43548a861226f", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "fbuf1", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a386ee47d5e3d4167555bcbe7e458c50e", null ],

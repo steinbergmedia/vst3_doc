@@ -1,14 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a58fd32018d0d25fa22a065fe293e4079":[3,0,0,7,13,96],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a5bd16506f3db8c7cada37ac1030fdeec":[3,0,0,7,13,46],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a5bd8958e2d10a39961b9ac9d20ac1a3c":[3,0,0,7,13,0],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a5de2bf50670628599940b4afba85fba1":[3,0,0,7,13,38],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a6077d4646f9ce2fcd14f40ee5f1fcfce":[3,0,0,7,13,47],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a642a844eb43638962aec00dda572b724":[3,0,0,7,13,44],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a65f99d06e1cdec2a31ced94c3e74e2b8":[3,0,0,7,13,83],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a685ce7454b4f454c4f2e36b40d215fab":[3,0,0,7,13,112],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a722ff7ac1ffb92a922ef3f562117327f":[3,0,0,7,13,6],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a76398345f57877810ceeb6db295a08a8":[3,0,0,7,13,111],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a7806c7198452bd9b38813e1254bffdde":[3,0,0,7,13,5],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a7827735f5bb526019207c524f487af0a":[3,0,0,7,13,56],
@@ -249,5 +240,14 @@ var NAVTREEINDEX9 =
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a0dbaa8d90949e4084abb7878a5d5f91b":[3,0,0,7,18,47],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a0f4c3361e3f81439c234f22f2c526829":[3,0,0,7,18,159],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a137e13924264d25e2b23315c90a1a735":[3,0,0,7,18,157],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a13c1699c11fba17352b83a1b3a7cfcc8":[3,0,0,7,18,110]
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a13c1699c11fba17352b83a1b3a7cfcc8":[3,0,0,7,18,110],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a153beb2d5d562ed4fc8643bf51c711d8":[3,0,0,7,18,44],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a16ff5025a411dc1c3b7fc305dfe53073":[3,0,0,7,18,268],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a17add6f7e226c7057f023d5fb79ea514":[3,0,0,7,18,19],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1815df54ea6a8c9ec3b7992c2680f930":[3,0,0,7,18,299],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a19887804c5277a7d95cb691486752326":[3,0,0,7,18,314],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a19addfe92087609dea4ef8c257becfbf":[3,0,0,7,18,257],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1aa3ca2f975b4b24895e3fbbd0ee4de6":[3,0,0,7,18,202],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1ab315f9942e83ed753c115f427d16a3":[3,0,0,7,18,116],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b17445201a92bee4c23dd16e5cd1728":[3,0,0,7,18,308]
 };

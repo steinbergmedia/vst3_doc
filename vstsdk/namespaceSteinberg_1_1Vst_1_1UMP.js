@@ -4,13 +4,13 @@ var namespaceSteinberg_1_1Vst_1_1UMP =
     [ "IUniversalMidiPacketHandler", "structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html", "structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler" ],
     [ "UniversalMidiPacketHandlerAdapter", "structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter.html", "structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter" ],
     [ "ParseSections", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfd", [
-      [ "Utility", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c", null ],
-      [ "System", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034", null ],
-      [ "ChannelVoice1", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0", null ],
-      [ "SysEx", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b", null ],
-      [ "ChannelVoice2", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdabde4f53903d2b7d63bbfe836cefb5553", null ],
-      [ "Data128", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdab038fd64cd9159f0dc2b853e40bf2e73", null ],
-      [ "All", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda54991d225c58ce0af43461d4e9a82312", null ]
+      [ "Utility", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda94df2a6972ca1fa79411645fe9b42339", null ],
+      [ "System", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaa45da96d0bf6575970f2d27af22be28a", null ],
+      [ "ChannelVoice1", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdae3e4484656839edbd9f43322b1022996", null ],
+      [ "SysEx", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda8ff5fa82b4027e7e2ed8a05e5df0662a", null ],
+      [ "ChannelVoice2", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaeb7a9ac9f662bc5dc17e8d1f12cf2e17", null ],
+      [ "Data128", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d", null ],
+      [ "All", "namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdab1c94ca2fbc3e78fc30069c8d0f01680", null ]
     ] ],
     [ "ParsingAction", "namespaceSteinberg_1_1Vst_1_1UMP.html#a6c9e0211fc7c61b64b68c891db88aa9f", [
       [ "Break", "namespaceSteinberg_1_1Vst_1_1UMP.html#a6c9e0211fc7c61b64b68c891db88aa9fae4c38d6d45baf080943d323dd51a2ce8", null ],

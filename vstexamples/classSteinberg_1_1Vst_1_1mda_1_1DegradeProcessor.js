@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor =
 [
     [ "DegradeProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a1a55ed8e0d46bc5f64d71fde9dbcc239", null ],
-    [ "~DegradeProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a464c879cfefa7930dc2d32db28b796e3", null ],
+    [ "~DegradeProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ad51bf014336dfc26bc301aa1916f090e", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "filterFreq", "classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#afbc91e345f0196f41e0dcb13785b15eb", null ],

@@ -14,6 +14,7 @@ var namespaceSteinberg_1_1Vst_1_1ChannelContext =
     [ "GetAlpha", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a59f0bbea32d4ae966062be29a76bd969", null ],
     [ "kChannelUIDKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a68ad60e2a9bdcefda0e2296e7f9296f9", null ],
     [ "kChannelUIDLengthKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#af44825ca23e7c673682f438d8cf6283e", null ],
+    [ "kChannelRuntimeIDKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9c2f6d2b8c4bdae3d194aee3a111bfd8", null ],
     [ "kChannelNameKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a355d0e3fe55ba9c58ebe6cb29cf27ce5", null ],
     [ "kChannelNameLengthKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a175778add2bfeafd5b184f4e47869e80", null ],
     [ "kChannelColorKey", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a218d5777a06f7780c7ded2a14c9f2922", null ],

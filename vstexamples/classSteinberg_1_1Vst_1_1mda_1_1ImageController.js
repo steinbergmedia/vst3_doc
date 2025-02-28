@@ -10,7 +10,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1ImageController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "ImageController", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#a24089951a536a3bf260e9e8da028db95", null ],
-    [ "~ImageController", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#abb7018df0560c1ce3c3485dc782e8b55", null ],
+    [ "~ImageController", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#a7314bb8ae8c7ef858994f58d47366531", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ImageController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ]
 ];

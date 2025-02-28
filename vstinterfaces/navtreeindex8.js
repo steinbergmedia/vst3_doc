@@ -1,7 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a2133b89c1fce6c11540a55ede3d00715":[1,0,0,6,17,35],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a2211a95b3ce1e534c1da0ad1824c4018":[1,0,0,6,17,326],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a22796d2f7f109bde16a525429c8194af":[1,0,0,6,17,132],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a22b0cac49e8ef5b3d9a1836abd021720":[1,0,0,6,17,251],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a230b03c83c3ad137460b4ab78fdede4a":[1,0,0,6,17,181],
@@ -249,5 +247,7 @@ var NAVTREEINDEX8 =
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#acfc39ea40d9b3ee2c64ee332aadf9dc5":[1,0,0,6,17,195],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#acff5991a9dd2a3d5a415d499bcfd681b":[1,0,0,6,17,253],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad07e3ef7063ba3b63b8699fceab70e14":[1,0,0,6,17,206],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad0d54db82db6123d96d1f586b443bca3":[1,0,0,6,17,163]
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad0d54db82db6123d96d1f586b443bca3":[1,0,0,6,17,163],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad25d6a1fe574b28440e6b95d94978edb":[1,0,0,6,17,254],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad29f5880932646a417c0ea712454874c":[1,0,0,6,17,77]
 };

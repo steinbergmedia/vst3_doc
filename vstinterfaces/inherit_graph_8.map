@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown" title=" " alt="" coords="5,1387,86,1413"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPluginBase" title=" " alt="" coords="199,31,286,57"/>
+<area shape="rect" id="node1" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="5,1387,86,1413"/>
+<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="199,31,286,57"/>
 <area shape="rect" id="node5" href="$classSteinberg_1_1ITest.html" title=" " alt="" coords="219,81,266,107"/>
 <area shape="rect" id="node6" href="$classSteinberg_1_1ITestFactory.html" title="Class factory that any testable module defines for creating tests that will be executed from the host..." alt="" coords="199,132,286,158"/>
 <area shape="rect" id="node7" href="$classSteinberg_1_1ITestResult.html" title="Test Result message logger [host imp] when a test is called, a pointer to an ITestResult is passed in..." alt="" coords="202,183,283,209"/>

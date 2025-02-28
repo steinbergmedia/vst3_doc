@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor =
 [
     [ "AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#aab98600536455a8c7c584966978ba80c", null ],
-    [ "~AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a69d45320830df3c378aa391d1c7f6a9f", null ],
+    [ "~AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#aac3d176a885e18afbce328d117cf7a2d", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "clearBuffers", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html#a893bc773ca9d89fc457033b6c3b896ee", null ],

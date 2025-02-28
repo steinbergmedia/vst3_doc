@@ -1,8 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da111880e47a70791b129ec7a46f988078":[1,0,0,74,2],
-"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da6bd5ac36e7d960d29783e07406f3b15c":[1,0,0,74,3],
-"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da7dee5096e7803ac26cee7abe740d777d":[1,0,0,74,0],
 "namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da8779d8eaee888493c6c5db7acc5d4a0a":[1,0,0,74,1],
 "namespaceSteinberg.html#a768fbbf50f430da794a4c2c616427ab8":[1,0,0,99],
 "namespaceSteinberg.html#a7cde0074dfd288f2d70c0e035dacb28a":[1,0,0,48],
@@ -216,8 +213,8 @@ var NAVTREEINDEX3 =
 "namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c":[1,0,0,4,3],
 "namespaceSteinberg_1_1U.html":[1,0,0,5],
 "namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b":[1,0,0,5,0],
-"namespacemembers.html":[1,1,0],
 "namespacemembers.html":[1,1,0,0],
+"namespacemembers.html":[1,1,0],
 "namespacemembers_a.html":[1,1,0,1],
 "namespacemembers_b.html":[1,1,0,2],
 "namespacemembers_c.html":[1,1,0,3],
@@ -242,12 +239,15 @@ var NAVTREEINDEX3 =
 "namespacemembers_vars.html":[1,1,2],
 "namespaces.html":[1,0],
 "pages.html":[],
-"pluginbasefwd_8h.html":[3,0,0,0,23],
-"smartpointer_8h.html":[3,0,0,0,24],
-"smartpointer_8h.html#ad48669ba893591a4e3ed6b131325ecbc":[3,0,0,0,24,1],
-"smartpointer_8h.html#af4392ab94aba2f5c1df4697aae435f7f":[3,0,0,0,24,0],
+"pluginbasefwd_8h.html":[3,0,23],
+"smartpointer_8h.html":[3,0,24],
+"smartpointer_8h.html#ad48669ba893591a4e3ed6b131325ecbc":[3,0,24,1],
+"smartpointer_8h.html#af4392ab94aba2f5c1df4697aae435f7f":[3,0,24,0],
 "structSteinberg_1_1FReleaser.html":[2,0,0,3],
 "structSteinberg_1_1FReleaser.html":[1,0,0,7],
+"structSteinberg_1_1FReleaser.html#a9aeee674f38393febf98f8cf953657f5":[1,0,0,7,0],
 "structSteinberg_1_1FReleaser.html#a9aeee674f38393febf98f8cf953657f5":[2,0,0,3,0],
-"structSteinberg_1_1FReleaser.html#a9aeee674f38393febf98f8cf953657f5":[1,0,0,7,0]
+"structSteinberg_1_1FReleaser.html#aa5116d1833f098d611bf2336d869823d":[1,0,0,7,1],
+"structSteinberg_1_1FReleaser.html#aa5116d1833f098d611bf2336d869823d":[2,0,0,3,1],
+"structSteinberg_1_1FReleaser.html#adcb624ac2e22762ff3ef4a83c423d84f":[1,0,0,7,2]
 };

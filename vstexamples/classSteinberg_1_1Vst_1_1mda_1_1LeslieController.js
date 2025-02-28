@@ -13,7 +13,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1LeslieController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "LeslieController", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a0830a7c4e566bbf4ae18958c6ededbb1", null ],
-    [ "~LeslieController", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#ace27e8c9182412956028ffa70d53c326", null ],
+    [ "~LeslieController", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a97efc42fc11132be9043ea6ea6acd230", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

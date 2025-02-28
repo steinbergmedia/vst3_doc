@@ -4,7 +4,7 @@ var searchData=
   ['newwithstring_1',['newWithString',['../namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803',1,'VSTGUI::String']]],
   ['next_2',['next',['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a8f9c4f8b42bf9f37840c058cf27121ea',1,'VSTGUI::UTF8CharacterIterator::next()'],['../class_v_s_t_g_u_i_1_1_c_drag_container_helper.html#a6d9df5bf575a3c3b18430be1e354e876',1,'VSTGUI::CDragContainerHelper::next()']]],
   ['nextpixmap_3',['nextPixmap',['../class_v_s_t_g_u_i_1_1_c_auto_animation.html#a7ca3bf73f0d19f84079ddd869582f150',1,'VSTGUI::CAutoAnimation']]],
-  ['noevent_4',['noEvent',['../namespace_v_s_t_g_u_i.html#a3a399ac6c0c4b47c5521578dff18f912',1,'VSTGUI']]],
+  ['noevent_4',['noEvent',['../namespace_v_s_t_g_u_i.html#a79a5ae6609212d031b281c90d9a1ecd6',1,'VSTGUI']]],
   ['normalize_5',['normalize',['../struct_v_s_t_g_u_i_1_1_c_rect.html#a63e6527168ac6522121a0202e16bee87',1,'VSTGUI::CRect']]],
   ['normalizedtoindex_6',['normalizedToIndex',['../class_v_s_t_g_u_i_1_1_c_switch_base.html#a8474ee5cc122ccc9609963db25ff3959',1,'VSTGUI::CSwitchBase']]],
   ['normalizedtoplain_7',['normalizedToPlain',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_converter.html#ae746571857ec69dcf3c6c02cf81f260d',1,'VSTGUI::Standalone::IValueConverter::normalizedToPlain()'],['../namespace_v_s_t_g_u_i.html#a01ca69a89a5de82036eec96c6b5c5afc',1,'VSTGUI::normalizedToPlain(NormT value, PlainT minValue, PlainT maxValue)']]],

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor =
 [
     [ "LoudnessProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#afb7834026dca839331366161d17b2ff0", null ],
-    [ "~LoudnessProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a276eca5290e17ef9227e019ca41d77b1", null ],
+    [ "~LoudnessProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a9bbd53787c24e5dfeee4b39ad6a90cad", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

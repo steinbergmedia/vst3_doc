@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor =
 [
     [ "LimiterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a620bc38468213a1a1200556116d00e6b", null ],
-    [ "~LimiterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a12a5b3a002d504de38dca4ad0f81510e", null ],
+    [ "~LimiterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a9c802691ee46820bced4da83b5e2f4dc", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

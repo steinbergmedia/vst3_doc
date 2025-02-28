@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor =
 [
     [ "SubSynthProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#aaa735da54e3292f6c4de154c7939cbb8", null ],
-    [ "~SubSynthProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a2ea315d12be6b343c8b4b6cb97cd1874", null ],
+    [ "~SubSynthProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a544b98e2ad32e837e8e5ab4dd8c7ee2a", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "filt1", "classSteinberg_1_1Vst_1_1mda_1_1SubSynthProcessor.html#a4980a136b4d9f7c4a5b2b6ad5336f7d7", null ],

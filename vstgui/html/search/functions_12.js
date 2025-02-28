@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['save_0',['save',['../class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#af883ecc391472b26a25028f4c06a1bed',1,'VSTGUI::CompressedUIDescription::save()'],['../class_v_s_t_g_u_i_1_1_u_i_description.html#a801fea98f9c5854e82ec03ebb197d582',1,'VSTGUI::UIDescription::save()'],['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a686e6c3e4128af1fd656944ae498dece',1,'VSTGUI::VST3Editor::save()']]],
+  ['save_0',['save',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a686e6c3e4128af1fd656944ae498dece',1,'VSTGUI::VST3Editor::save()'],['../class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#af883ecc391472b26a25028f4c06a1bed',1,'VSTGUI::CompressedUIDescription::save()'],['../class_v_s_t_g_u_i_1_1_u_i_description.html#a801fea98f9c5854e82ec03ebb197d582',1,'VSTGUI::UIDescription::save()']]],
   ['saveglobalstate_1',['saveGlobalState',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a5e5c5433a0882c009dbb80af5587b184',1,'VSTGUI::CDrawContext']]],
   ['savescreenshot_2',['saveScreenshot',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3670d3a476852657572527cefe285f56',1,'VSTGUI::VST3Editor']]],
   ['savetostream_3',['saveToStream',['../class_v_s_t_g_u_i_1_1_u_i_description.html#a910c84a5117b62aaf360edbcec91f09d',1,'VSTGUI::UIDescription']]],

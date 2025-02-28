@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor =
 [
     [ "DitherProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a00231a003d334eff8b5bb95428cddabd", null ],
-    [ "~DitherProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a1adb5bf22d42171d470bc4072e9aa999", null ],
+    [ "~DitherProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a0809533d07a03173cf5bd7693356db3f", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

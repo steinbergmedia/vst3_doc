@@ -88,8 +88,6 @@ var searchData=
   ['swx_85',['swx',['../classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a63df4a404c5b601929a2e2aebeea3e65',1,'Steinberg::Vst::mda::TestToneProcessor']]],
   ['symbolicsamplesize_86',['symbolicSampleSize',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html#a9392481e4890fb9c08015eed7c2655e0',1,'Steinberg::Vst::ProcessData::symbolicSampleSize()'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessSetup.html#a9392481e4890fb9c08015eed7c2655e0',1,'Steinberg::Vst::ProcessSetup::symbolicSampleSize()']]],
   ['synthdata_87',['synthData',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#ac16ff5312692ef65aaadddac31421aeb',1,'Steinberg::Vst::mda::DX10Processor::synthData()'],['../classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ac16ff5312692ef65aaadddac31421aeb',1,'Steinberg::Vst::mda::EPianoProcessor::synthData()'],['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#ac16ff5312692ef65aaadddac31421aeb',1,'Steinberg::Vst::mda::JX10Processor::synthData()'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#ac16ff5312692ef65aaadddac31421aeb',1,'Steinberg::Vst::mda::PianoProcessor::synthData()']]],
-  ['sysex_88',['SysEx',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b',1,'Steinberg::Vst::UMP']]],
-  ['system_89',['System',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034',1,'Steinberg::Vst::UMP']]],
-  ['systemtime_90',['systemTime',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a6dca674d990cf41493918b226fcf5dde',1,'Steinberg::Vst::ProcessContext']]],
-  ['systemwindow_91',['systemWindow',['../../vstsdk/classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd',1,'Steinberg::CPluginView']]]
+  ['systemtime_88',['systemTime',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessContext.html#a6dca674d990cf41493918b226fcf5dde',1,'Steinberg::Vst::ProcessContext']]],
+  ['systemwindow_89',['systemWindow',['../../vstsdk/classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd',1,'Steinberg::CPluginView']]]
 ];

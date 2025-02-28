@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter =
 [
     [ "IndexedParameter", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#ab99bbd5a596e2d2ab56798c21abc0096", null ],
-    [ "~IndexedParameter", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#a74963ad2f899909051efd21b14d7280a", null ],
+    [ "~IndexedParameter", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#a22988cce44051a4caf0f7760e716ee64", null ],
     [ "toPlain", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#af7e7f0fc9f3c394f66dc5a8947742272", null ],
     [ "toNormalized", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#a64274ff145c58620b9b7c32fff087049", null ],
     [ "toString", "classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html#ab8cb2d05d8f8af76a610e783faecb324", null ],

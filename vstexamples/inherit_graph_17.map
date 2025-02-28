@@ -1,3 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSteinberg_1_1Vst_1_1LogScale.html" title=" " alt="" coords="5,5,166,31"/>
+<area shape="rect" id="node1" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="5,56,84,82"/>
+<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1LogScaleParameter.html" title="Parameter class with a LogScale." alt="" coords="132,5,289,31"/>
+<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html" title=" " alt="" coords="157,56,264,82"/>
+<area shape="rect" id="node6" href="$classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html" title=" " alt="" coords="156,107,265,133"/>
+<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html" title=" " alt="" coords="337,31,459,57"/>
+<area shape="rect" id="node5" href="$classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html" title=" " alt="" coords="340,81,456,107"/>
 </map>

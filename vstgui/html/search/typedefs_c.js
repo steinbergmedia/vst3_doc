@@ -6,7 +6,7 @@ var searchData=
   ['platformfileselectorptr_3',['PlatformFileSelectorPtr',['../namespace_v_s_t_g_u_i.html#a5959ebce637f14f6daabea82c525177c',1,'VSTGUI']]],
   ['platformfontptr_4',['PlatformFontPtr',['../namespace_v_s_t_g_u_i.html#a92a65435a53ecdc78fe79c313978b5e2',1,'VSTGUI']]],
   ['platformframeconfigptr_5',['PlatformFrameConfigPtr',['../namespace_v_s_t_g_u_i_1_1_standalone.html#ab11a0e1b09cdba1e98eab113ebd5eb0a',1,'VSTGUI::Standalone']]],
-  ['platformframeptr_6',['PlatformFramePtr',['../namespace_v_s_t_g_u_i.html#a6a658c6ce8d779da1cfdb30f9a91bbf8',1,'VSTGUI']]],
+  ['platformframeptr_6',['PlatformFramePtr',['../namespace_v_s_t_g_u_i.html#a1b70ea8ce18c64ea3b0309b91899b278',1,'VSTGUI']]],
   ['platformgradientptr_7',['PlatformGradientPtr',['../namespace_v_s_t_g_u_i.html#a553287139d7b3c2d72206ec69e88c2c3',1,'VSTGUI']]],
   ['platformgraphicsdevicecontextptr_8',['PlatformGraphicsDeviceContextPtr',['../namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a',1,'VSTGUI']]],
   ['platformgraphicsdeviceptr_9',['PlatformGraphicsDevicePtr',['../namespace_v_s_t_g_u_i.html#a28dd00c729d1192f745167c436f2830c',1,'VSTGUI']]],

@@ -16,7 +16,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "BeatBoxController", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a0114d51b222e8663f93dc0a8f1afb095", null ],
-    [ "~BeatBoxController", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#add633f1d916ae3ef1621bbf5e9c74ca6", null ],
+    [ "~BeatBoxController", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a1aed8cad3ce5123ad29aaea2025b057a", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

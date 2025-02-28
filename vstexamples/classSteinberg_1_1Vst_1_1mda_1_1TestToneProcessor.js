@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor =
 [
     [ "TestToneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a8927b3843d3313bc797b42b850f93a20", null ],
-    [ "~TestToneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a1e244593aa08929107576f5c39d87d8f", null ],
+    [ "~TestToneProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a20c092f036781ac28b18ac57c62a77fb", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "param", "classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#aed478d08a72a66ad70272c9d0513df56", null ],

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor =
 [
     [ "StereoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a9b78fd2ff9f8710606c7664f070201d0", null ],
-    [ "~StereoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#ab8d6076d57d32e9f974ded44cbc96404", null ],
+    [ "~StereoProcessor", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a18a9ddb1c64491ea2cfbebfd2c7c01b9", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

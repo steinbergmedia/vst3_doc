@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.3">
+<tagfile doxygen_version="1.9.2">
   <compound kind="file">
     <name>memorystream.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/common/</path>
@@ -514,10 +514,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>IParamValueQueue::iid constexpr int32</type>
+      <type>constexpr IParamValueQueue::iid int32</type>
       <name>kQueueReservedPoints</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5924f4d90b379cf4ccb846aff8b64d88</anchor>
+      <anchor>a700bd2d567ccb0cc3640ae675f657f57</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -1689,48 +1689,13 @@
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
       <anchor>a912340f293ecc1dedf72513159862bfd</anchor>
       <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>Utility</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>System</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>ChannelVoice1</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>SysEx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>ChannelVoice2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdabde4f53903d2b7d63bbfe836cefb5553</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>Data128</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdab038fd64cd9159f0dc2b853e40bf2e73</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>All</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda54991d225c58ce0af43461d4e9a82312</anchor>
-      <arglist></arglist>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda94df2a6972ca1fa79411645fe9b42339">Utility</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaa45da96d0bf6575970f2d27af22be28a">System</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdae3e4484656839edbd9f43322b1022996">ChannelVoice1</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda8ff5fa82b4027e7e2ed8a05e5df0662a">SysEx</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaeb7a9ac9f662bc5dc17e8d1f12cf2e17">ChannelVoice2</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d">Data128</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdab1c94ca2fbc3e78fc30069c8d0f01680">All</enumvalue>
     </member>
     <member kind="enumeration">
       <type></type>
@@ -6368,6 +6333,13 @@
       <anchor>aed2707f6ee392c1248574ea1fa5f0870</anchor>
       <arglist>(const std::string &amp;modulePath)</arglist>
     </member>
+    <member kind="function" static="yes">
+      <type>static bool</type>
+      <name>validateBundleStructure</name>
+      <anchorfile>classVST3_1_1Hosting_1_1Module.html</anchorfile>
+      <anchor>a9a0ce3b69056565ea8468313d311ffcf</anchor>
+      <arglist>(const std::string &amp;path, std::string &amp;errorDescription)</arglist>
+    </member>
     <member kind="function" protection="protected" virtualness="virtual">
       <type>virtual</type>
       <name>~Module</name>
@@ -8158,13 +8130,13 @@
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>a06fc87d81c62e9abb8790b6e5713c55ba7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>a06fc87d81c62e9abb8790b6e5713c55ba7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">
@@ -9115,6 +9087,13 @@
       <anchor>ab8734e666421c9fe3b6380a818c6c727</anchor>
       <arglist>()</arglist>
     </member>
+    <member kind="function">
+      <type>std::vector&lt; uint8 &gt; &amp;&amp;</type>
+      <name>take</name>
+      <anchorfile>classSteinberg_1_1ResizableMemoryIBStream.html</anchorfile>
+      <anchor>afe04a58c8b1cf08fb6ff00c59a30afe6</anchor>
+      <arglist>()</arglist>
+    </member>
   </compound>
   <compound kind="class">
     <name>Steinberg::OneReaderOneWriter::RingBuffer</name>
@@ -9278,12 +9257,12 @@
       <anchor>a2efe1e138401d6dcadfc5de300ac2a94</anchor>
       <arglist>()</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual</type>
+    <member kind="function">
+      <type></type>
       <name>~SingleComponentEffect</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SingleComponentEffect.html</anchorfile>
-      <anchor>a5c6f3bcf7a15be18c8e63a52aa6775dd</anchor>
-      <arglist>()</arglist>
+      <anchor>a574efe1b9178625de912e5e7656dc0d6</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
@@ -9570,7 +9549,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>abc6126af1d45847bc59afa0aa3216b04aceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -9583,7 +9562,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>abc6126af1d45847bc59afa0aa3216b04aceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -11197,12 +11176,12 @@
       <anchor>abe4d797f9faae89502fe8e63c032ddf8</anchor>
       <arglist>(void *controller, ViewRect *size=nullptr)</arglist>
     </member>
-    <member kind="function" virtualness="virtual">
-      <type>virtual</type>
+    <member kind="function">
+      <type></type>
       <name>~VSTGUIEditor</name>
       <anchorfile>classSteinberg_1_1Vst_1_1VSTGUIEditor.html</anchorfile>
-      <anchor>af3ef338c0dd0439cb448abe7994ed6e7</anchor>
-      <arglist>()</arglist>
+      <anchor>a3b0ca40505936fe555ed9bfbd77aa57f</anchor>
+      <arglist>() override</arglist>
     </member>
     <member kind="function" virtualness="pure">
       <type>virtual bool</type>
@@ -11488,73 +11467,73 @@
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5af0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5af0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a99fb83031ce9923c84392b4e92f956b5a90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">
@@ -11702,13 +11681,6 @@
     <class kind="class">Steinberg::Vst::VSTGUIEditor</class>
     <class kind="class">Steinberg::Vst::XmlRepresentationHelper</class>
     <member kind="typedef">
-      <type>char[4]</type>
-      <name>ChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>adaf388baf0aebf53f3a12e1055fbd7ec</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
       <type>int32</type>
       <name>ProcessSampleSize</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
@@ -11727,6 +11699,13 @@
       <name>TestFuncWithContext</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>a7f3c745946efb648d6bfbfee4c848f71</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char[4]</type>
+      <name>ChunkID</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>adaf388baf0aebf53f3a12e1055fbd7ec</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -11777,90 +11756,6 @@
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>a6742d03aa1e93ba39b234d0ea402ee6daf4670cf4bdaa52d4168191c2bfb1ac6b</anchor>
       <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>void **</type>
-      <name>getChannelBuffersPointer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad874542fcca17d454d0d4f91a6231fa7</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, const AudioBusBuffers &amp;bufs)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>getSampleFramesSizeInBytes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa9dfbe077a3078558451ff526b305744</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, int32 numSamples)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getChannelMask</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac5416c9248a6b737903df6e7d35f67e3</anchor>
-      <arglist>(int32 numChannels)</arglist>
-    </member>
-    <member kind="function">
-      <type>tresult</type>
-      <name>getSpeakerChannelIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a659fcad9bdc947491c6e057f59eacae2</anchor>
-      <arglist>(SpeakerArrangement arrangement, uint64 speaker, int32 &amp;channel)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>setupVSTGUIBundleSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5fe69fef877c637b191f7d45ad040849</anchor>
-      <arglist>(void *hInstance)</arglist>
-    </member>
-    <member kind="function">
-      <type>const ChunkID &amp;</type>
-      <name>getChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aecb30226876947afe7079bc185597f0c</anchor>
-      <arglist>(ChunkType type)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>verify</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5be931a78fa765babf69c7dc76e0c800</anchor>
-      <arglist>(tresult result)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>copyStream</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1c0494fa27bea9e830204ab0451615c9</anchor>
-      <arglist>(IBStream *inStream, IBStream *outStream)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1d9350b127ef8ad03a8025e93853b433</anchor>
-      <arglist>(FileStream, IBStream, IBStream::iid) tresult FileStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_REFCOUNT</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6abddc24208fd641b8776e4be24d3cad</anchor>
-      <arglist>(ReadOnlyBStream) ReadOnlyBStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9eb03817ce43297a3187ab5dc9f3340a</anchor>
-      <arglist>(BufferStream, IBStream, IBStream::iid) BufferStream</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isEqualID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a235c00ee8509a0532c542fc91326849b</anchor>
-      <arglist>(const ChunkID id1, const ChunkID id2)</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -12170,6 +12065,90 @@
       <anchor>af0621743f305f87dd320b9bdacff874a</anchor>
       <arglist>(FIDString name, ITest *test)</arglist>
     </member>
+    <member kind="function">
+      <type>void **</type>
+      <name>getChannelBuffersPointer</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>ad874542fcca17d454d0d4f91a6231fa7</anchor>
+      <arglist>(const ProcessSetup &amp;processSetup, const AudioBusBuffers &amp;bufs)</arglist>
+    </member>
+    <member kind="function">
+      <type>uint32</type>
+      <name>getSampleFramesSizeInBytes</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>aa9dfbe077a3078558451ff526b305744</anchor>
+      <arglist>(const ProcessSetup &amp;processSetup, int32 numSamples)</arglist>
+    </member>
+    <member kind="function">
+      <type>uint64</type>
+      <name>getChannelMask</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>ac5416c9248a6b737903df6e7d35f67e3</anchor>
+      <arglist>(int32 numChannels)</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getSpeakerChannelIndex</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a659fcad9bdc947491c6e057f59eacae2</anchor>
+      <arglist>(SpeakerArrangement arrangement, uint64 speaker, int32 &amp;channel)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>setupVSTGUIBundleSupport</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a5fe69fef877c637b191f7d45ad040849</anchor>
+      <arglist>(void *hInstance)</arglist>
+    </member>
+    <member kind="function">
+      <type>const ChunkID &amp;</type>
+      <name>getChunkID</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>aecb30226876947afe7079bc185597f0c</anchor>
+      <arglist>(ChunkType type)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>verify</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a5be931a78fa765babf69c7dc76e0c800</anchor>
+      <arglist>(tresult result)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>copyStream</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a1c0494fa27bea9e830204ab0451615c9</anchor>
+      <arglist>(IBStream *inStream, IBStream *outStream)</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a1d9350b127ef8ad03a8025e93853b433</anchor>
+      <arglist>(FileStream, IBStream, IBStream::iid) tresult FileStream</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>IMPLEMENT_REFCOUNT</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a6abddc24208fd641b8776e4be24d3cad</anchor>
+      <arglist>(ReadOnlyBStream) ReadOnlyBStream</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a9eb03817ce43297a3187ab5dc9f3340a</anchor>
+      <arglist>(BufferStream, IBStream, IBStream::iid) BufferStream</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>isEqualID</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a235c00ee8509a0532c542fc91326849b</anchor>
+      <arglist>(const ChunkID id1, const ChunkID id2)</arglist>
+    </member>
     <member kind="variable">
       <type></type>
       <name>IParamValueQueue</name>
@@ -12178,10 +12157,10 @@
       <arglist></arglist>
     </member>
     <member kind="variable">
-      <type>IParamValueQueue::iid constexpr int32</type>
+      <type>constexpr IParamValueQueue::iid int32</type>
       <name>kQueueReservedPoints</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5924f4d90b379cf4ccb846aff8b64d88</anchor>
+      <anchor>a700bd2d567ccb0cc3640ae675f657f57</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -12594,48 +12573,13 @@
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
       <anchor>a912340f293ecc1dedf72513159862bfd</anchor>
       <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>Utility</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>System</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>ChannelVoice1</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>SysEx</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>ChannelVoice2</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdabde4f53903d2b7d63bbfe836cefb5553</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>Data128</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfdab038fd64cd9159f0dc2b853e40bf2e73</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>All</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfda54991d225c58ce0af43461d4e9a82312</anchor>
-      <arglist></arglist>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda94df2a6972ca1fa79411645fe9b42339">Utility</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaa45da96d0bf6575970f2d27af22be28a">System</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdae3e4484656839edbd9f43322b1022996">ChannelVoice1</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda8ff5fa82b4027e7e2ed8a05e5df0662a">SysEx</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaeb7a9ac9f662bc5dc17e8d1f12cf2e17">ChannelVoice2</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d">Data128</enumvalue>
+      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdab1c94ca2fbc3e78fc30069c8d0f01680">All</enumvalue>
     </member>
     <member kind="enumeration">
       <type></type>

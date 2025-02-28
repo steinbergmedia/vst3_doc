@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor =
 [
     [ "ShepardProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a0d600152186b39c5ab43070dc2ddffda", null ],
-    [ "~ShepardProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a8e856e0d51d325ad8c502d665ca2fbd0", null ],
+    [ "~ShepardProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#aec4957feb607668ecd5620fb1440603c", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

@@ -14,6 +14,7 @@ var ivstchannelcontextinfo_8h =
     [ "GetAlpha", "ivstchannelcontextinfo_8h.html#a59f0bbea32d4ae966062be29a76bd969", null ],
     [ "kChannelUIDKey", "ivstchannelcontextinfo_8h.html#a68ad60e2a9bdcefda0e2296e7f9296f9", null ],
     [ "kChannelUIDLengthKey", "ivstchannelcontextinfo_8h.html#af44825ca23e7c673682f438d8cf6283e", null ],
+    [ "kChannelRuntimeIDKey", "ivstchannelcontextinfo_8h.html#a9c2f6d2b8c4bdae3d194aee3a111bfd8", null ],
     [ "kChannelNameKey", "ivstchannelcontextinfo_8h.html#a355d0e3fe55ba9c58ebe6cb29cf27ce5", null ],
     [ "kChannelNameLengthKey", "ivstchannelcontextinfo_8h.html#a175778add2bfeafd5b184f4e47869e80", null ],
     [ "kChannelColorKey", "ivstchannelcontextinfo_8h.html#a218d5777a06f7780c7ded2a14c9f2922", null ],

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1SingleComponentEffect =
 [
     [ "SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a2efe1e138401d6dcadfc5de300ac2a94", null ],
-    [ "~SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a5c6f3bcf7a15be18c8e63a52aa6775dd", null ],
+    [ "~SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a574efe1b9178625de912e5e7656dc0d6", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getControllerClassId", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#ac8369734067dcb5f9288a67db686e5f4", null ],

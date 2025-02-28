@@ -5,6 +5,7 @@ var vsttypes_8h =
     [ "kVstVersionMinor", "vsttypes_8h.html#aad745365073e680343605ac17c381811", null ],
     [ "kVstVersionSub", "vsttypes_8h.html#a6e91d244c8cfdd2b123d37e599043ca1", null ],
     [ "VST_VERSION", "vsttypes_8h.html#a8f8e3e0f6ff1889cda8597884edccb61", null ],
+    [ "VST_3_7_13_VERSION", "vsttypes_8h.html#aaa09f40411138f40e8297a1614c89755", null ],
     [ "VST_3_7_12_VERSION", "vsttypes_8h.html#a79417033b8926d7da1e79f901ed7b739", null ],
     [ "VST_3_7_11_VERSION", "vsttypes_8h.html#a81da5801773d5e380b67d049650b72b4", null ],
     [ "VST_3_7_10_VERSION", "vsttypes_8h.html#adc77fadc46f7777596d41e72746f2f93", null ],

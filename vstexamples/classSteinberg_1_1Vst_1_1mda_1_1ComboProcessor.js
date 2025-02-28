@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor =
 [
     [ "ComboProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a73bcd441abd4b4fd521b089195a5d72a", null ],
-    [ "~ComboProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a7c857261742264d941e8d2ce00cb4cd5", null ],
+    [ "~ComboProcessor", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a3638bd40c16da11b1a10cceea0d3345a", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "clearBuffers", "classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#a893bc773ca9d89fc457033b6c3b896ee", null ],

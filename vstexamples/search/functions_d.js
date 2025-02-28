@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['main_0',['main',['../main_8m.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.m'],['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
+  ['main_0',['main',['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../main_8m.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.m']]],
   ['make_1',['make',['../../vstsdk/classSteinberg_1_1Vst_1_1HostAttributeList.html#aeaaa458fee981785f687f46a87d7b361',1,'Steinberg::Vst::HostAttributeList']]],
   ['makecolorspec_2',['MakeColorSpec',['../../base/namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
   ['max_3',['Max',['../../base/namespaceSteinberg.html#a0c6c7876dc38fc4fedff0501ffd74457',1,'Steinberg']]],

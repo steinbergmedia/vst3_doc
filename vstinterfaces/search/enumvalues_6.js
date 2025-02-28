@@ -136,7 +136,7 @@ var searchData=
   ['kneedtempo_133',['kNeedTempo',['../classSteinberg_1_1Vst_1_1IProcessContextRequirements.html#aa705cf7e79a21c2352b00ffe20cd295fa2c4c819b006ecaf5f4a9019e27db78fb',1,'Steinberg::Vst::IProcessContextRequirements']]],
   ['kneedtimesignature_134',['kNeedTimeSignature',['../classSteinberg_1_1Vst_1_1IProcessContextRequirements.html#aa705cf7e79a21c2352b00ffe20cd295fa70305b15a471a18eda82a146f2d0847b',1,'Steinberg::Vst::IProcessContextRequirements']]],
   ['kneedtransportstate_135',['kNeedTransportState',['../classSteinberg_1_1Vst_1_1IProcessContextRequirements.html#aa705cf7e79a21c2352b00ffe20cd295fa98d6bb4315562bcdb2d6bd57da499ea5',1,'Steinberg::Vst::IProcessContextRequirements']]],
-  ['knoautomation_136',['kNoAutomation',['../classSteinberg_1_1Vst_1_1IAutomationState.html#a787ff792c6d9eaf7652cef4454750adba50593589ab3b2b6bc94d914caf926e8a',1,'Steinberg::Vst::IAutomationState']]],
+  ['knoautomation_136',['kNoAutomation',['../classSteinberg_1_1Vst_1_1IAutomationState.html#ab92119cb4745f1106c18a44f6d7d7719a50593589ab3b2b6bc94d914caf926e8a',1,'Steinberg::Vst::IAutomationState']]],
   ['knoflags_137',['kNoFlags',['../structSteinberg_1_1Vst_1_1ParameterInfo.html#a476cd90287edc0ca7c78dab33628a0ccaacc42d61d53f9b50d3f1f3b463ede0b5',1,'Steinberg::Vst::ParameterInfo']]],
   ['knoteexpressionchanged_138',['kNoteExpressionChanged',['../namespaceSteinberg_1_1Vst.html#a35f71d02b79cbd11942a149e651373e6aa11fe6e24349c6d2f7e0035dbc01c10b',1,'Steinberg::Vst']]],
   ['knoteexpressiontextevent_139',['kNoteExpressionTextEvent',['../structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a494e407c199f55129c93f53bd5cada93',1,'Steinberg::Vst::Event']]],
@@ -172,8 +172,8 @@ var searchData=
   ['kpuixmovement_169',['kPUIXMovement',['../namespaceSteinberg_1_1Vst.html#a625d3c836663769a5ea9df6a8481fecaa973abf8a1ca38781df5550b5db3ed345',1,'Steinberg::Vst']]],
   ['kpuiymovement_170',['kPUIYMovement',['../namespaceSteinberg_1_1Vst.html#a625d3c836663769a5ea9df6a8481fecaa8b27cb6543ac07a669439676746fb05f',1,'Steinberg::Vst']]],
   ['kpulldownrate_171',['kPullDownRate',['../structSteinberg_1_1Vst_1_1FrameRate.html#a0e1b90fc53cc88f751388bc4466a4665aa2055ed514ccc81c537ca60ddbdaa226',1,'Steinberg::Vst::FrameRate']]],
-  ['kreadstate_172',['kReadState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#a787ff792c6d9eaf7652cef4454750adba27168d4bbe8c328ccc1c61c18e5e86cf',1,'Steinberg::Vst::IAutomationState']]],
-  ['kreadwritestate_173',['kReadWriteState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#a787ff792c6d9eaf7652cef4454750adba91c9e6284228f8fed9c09539698ff6c1',1,'Steinberg::Vst::IAutomationState']]],
+  ['kreadstate_172',['kReadState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#ab92119cb4745f1106c18a44f6d7d7719a27168d4bbe8c328ccc1c61c18e5e86cf',1,'Steinberg::Vst::IAutomationState']]],
+  ['kreadwritestate_173',['kReadWriteState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#ab92119cb4745f1106c18a44f6d7d7719a91c9e6284228f8fed9c09539698ff6c1',1,'Steinberg::Vst::IAutomationState']]],
   ['krealtime_174',['kRealtime',['../namespaceSteinberg_1_1Vst.html#ae514554bd822c5370bf9496c70302e31af21cd390d9ad5f7929f3f0a3ab972e13',1,'Steinberg::Vst']]],
   ['krecording_175',['kRecording',['../structSteinberg_1_1Vst_1_1ProcessContext.html#a7ac64bdb8f6c1e2d67da949940d46d03a7c3dd7bb52ddb9f7557a8cb32d38ea2b',1,'Steinberg::Vst::ProcessContext']]],
   ['krelativcircularmode_176',['kRelativCircularMode',['../namespaceSteinberg_1_1Vst.html#ac8ed0b1f451e979e746e721810469fc6a98a7d7b1f331414876a55df149340e1e',1,'Steinberg::Vst']]],
@@ -198,5 +198,5 @@ var searchData=
   ['kuserreserved2_195',['kUserReserved2',['../structSteinberg_1_1Vst_1_1Event.html#ab52fb080a2898a94efbd54969f61e5d5aa0fac77d8173c8ca51fb73ae6177181b',1,'Steinberg::Vst::Event']]],
   ['kvibratotypeid_196',['kVibratoTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a9fadf3f8d95dee835c8a0dcc9605b5af',1,'Steinberg::Vst']]],
   ['kvolumetypeid_197',['kVolumeTypeID',['../namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a18860e42c73ce4d8d66d49d6a662ab56',1,'Steinberg::Vst']]],
-  ['kwritestate_198',['kWriteState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#a787ff792c6d9eaf7652cef4454750adbad3b29f3c6c1d4b45e32c9782ac13b4ad',1,'Steinberg::Vst::IAutomationState']]]
+  ['kwritestate_198',['kWriteState',['../classSteinberg_1_1Vst_1_1IAutomationState.html#ab92119cb4745f1106c18a44f6d7d7719ad3b29f3c6c1d4b45e32c9782ac13b4ad',1,'Steinberg::Vst::IAutomationState']]]
 ];

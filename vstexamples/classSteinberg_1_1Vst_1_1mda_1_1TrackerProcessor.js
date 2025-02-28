@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor =
 [
     [ "TrackerProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#adc555d54eea3713247297be28cb3032b", null ],
-    [ "~TrackerProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#ad92e1375ba0d21396ac67f99226b0e7d", null ],
+    [ "~TrackerProcessor", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#ada3e6de98cd4cd4b76b4dbb141828420", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1TrackerProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

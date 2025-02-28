@@ -1,7 +1,7 @@
 var searchData=
 [
   ['validatefunc_0',['validateFunc',['../class_v_s_t_g_u_i_1_1_c_command_menu_item.html#aef8b81d61d056028f0cc265e02abc1ee',1,'VSTGUI::CCommandMenuItem']]],
-  ['value_1',['value',['../class_v_s_t_g_u_i_1_1_c_control.html#a17956fe0129d3d4c94ebc06cfef2ad82',1,'VSTGUI::CControl::value()'],['../struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#abe2f65e757b87baa165a12f3e5db3367',1,'VSTGUI::Standalone::Application::ConfigValue::value()']]],
+  ['value_1',['value',['../class_v_s_t_g_u_i_1_1_c_control.html#a17956fe0129d3d4c94ebc06cfef2ad82',1,'VSTGUI::CControl::value()'],['../struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a982a3f7352040c0cba18dc979ec5f19c',1,'VSTGUI::Standalone::Application::ConfigValue::value()']]],
   ['valuecolor_2',['valueColor',['../struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html#a11c105a0cdc3bbb4de78260c53c67e07',1,'VSTGUI::CSlider::Impl']]],
   ['valueprecision_3',['valuePrecision',['../class_v_s_t_g_u_i_1_1_c_param_display.html#aac5e530e3157ddab16911fee9fb6f9d2',1,'VSTGUI::CParamDisplay']]],
   ['valuetostringfunction_4',['valueToStringFunction',['../class_v_s_t_g_u_i_1_1_c_param_display.html#aac2b3b0b06d9655d54bf33bafdc80b9e',1,'VSTGUI::CParamDisplay']]],

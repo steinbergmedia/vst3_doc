@@ -7,7 +7,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1DeEsserController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "DeEsserController", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#ae1393cd500ea7918602c141166ecc592", null ],
-    [ "~DeEsserController", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#aa508bb2127050ccb3cba6ba84dc09b91", null ],
+    [ "~DeEsserController", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a3edbde445d88554ad4cd88ce59f3a5e8", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ]
 ];

@@ -216,7 +216,7 @@ var group__vstClasses =
     ] ],
     [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html", [
       [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#abe4d797f9faae89502fe8e63c032ddf8", null ],
-      [ "~VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af3ef338c0dd0439cb448abe7994ed6e7", null ],
+      [ "~VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a3b0ca40505936fe555ed9bfbd77aa57f", null ],
       [ "open", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a5b4c5a35f6d87fdccb5ace7ec93b5327", null ],
       [ "close", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af6ee7eacbde6b379b68d954e44f6e549", null ],
       [ "setIdleRate", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af480ce3bd3536701eef1f46d6b4d61eb", null ],
@@ -417,7 +417,7 @@ var group__vstClasses =
     ] ],
     [ "SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html", [
       [ "SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a2efe1e138401d6dcadfc5de300ac2a94", null ],
-      [ "~SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a5c6f3bcf7a15be18c8e63a52aa6775dd", null ],
+      [ "~SingleComponentEffect", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a574efe1b9178625de912e5e7656dc0d6", null ],
       [ "initialize", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a4dae123b5697706651d9ff20c9614f63", null ],
       [ "terminate", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
       [ "getControllerClassId", "classSteinberg_1_1Vst_1_1SingleComponentEffect.html#ac8369734067dcb5f9288a67db686e5f4", null ],

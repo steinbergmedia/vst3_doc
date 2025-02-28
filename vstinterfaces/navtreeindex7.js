@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a8dbf5e607efc62bfd0fb4044a943c399":[1,0,0,6,13,35],
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a8f75ccb3769fa4876436c45a09107fcd":[1,0,0,6,13,72],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a91eddfe8e8f1e826c887b57971600988":[1,0,0,6,13,49],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a97b0787f7bc7a12d8aa9c451626252df":[1,0,0,6,13,105],
 "namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a98b124c4c95e7d1f055a878c293036a1":[1,0,0,6,13,95],
@@ -249,5 +247,7 @@ var NAVTREEINDEX7 =
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1eb079a06c32ed8dfe5640d1ea129beb":[1,0,0,6,17,10],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1f2886d3047f9f7b5fd699b1d9fa6a79":[1,0,0,6,17,332],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a2057f29b65596edf1cb80ccc6a041b83":[1,0,0,6,17,146],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a20ceaf9e134bcb9d31d268f2bca6f990":[1,0,0,6,17,6]
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a20ceaf9e134bcb9d31d268f2bca6f990":[1,0,0,6,17,6],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a2133b89c1fce6c11540a55ede3d00715":[1,0,0,6,17,35],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a2211a95b3ce1e534c1da0ad1824c4018":[1,0,0,6,17,326]
 };

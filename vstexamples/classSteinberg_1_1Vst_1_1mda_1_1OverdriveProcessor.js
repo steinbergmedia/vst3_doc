@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor =
 [
     [ "OverdriveProcessor", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a74e5dd87a53506000bce04db8ed0c4bd", null ],
-    [ "~OverdriveProcessor", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a909f5de7a0fa09b4924960bee56d828d", null ],
+    [ "~OverdriveProcessor", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a5c636f49155785c051cff915086c7669", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1OverdriveProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

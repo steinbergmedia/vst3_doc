@@ -10,7 +10,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1DelayController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "DelayController", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#aef9b8c2d29550c33130b23aa35d581fc", null ],
-    [ "~DelayController", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a2ceee1c40dac133c85d55009e7f56ba0", null ],
+    [ "~DelayController", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a586497e73a0868c96a761247f5df411e", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1DelayController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

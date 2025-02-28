@@ -41,11 +41,11 @@ var searchData=
   ['_7ereadonlybstream_38',['~ReadOnlyBStream',['../classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#a2ed660cc0d7cd3467e9394a963073a48',1,'Steinberg::Vst::ReadOnlyBStream']]],
   ['_7erefcounted_39',['~RefCounted',['../../base/structSteinberg_1_1FUnknownImpl_1_1Detail_1_1RefCounted.html#a4642676d625ac327e2f31afbd07b419f',1,'Steinberg::FUnknownImpl::Detail::RefCounted']]],
   ['_7erttransfert_40',['~RTTransferT',['../structSteinberg_1_1Vst_1_1RTTransferT.html#a410f3f6c3d8402d06a114534aa6483e4',1,'Steinberg::Vst::RTTransferT']]],
-  ['_7esinglecomponenteffect_41',['~SingleComponentEffect',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a5c6f3bcf7a15be18c8e63a52aa6775dd',1,'Steinberg::Vst::SingleComponentEffect']]],
+  ['_7esinglecomponenteffect_41',['~SingleComponentEffect',['../classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a574efe1b9178625de912e5e7656dc0d6',1,'Steinberg::Vst::SingleComponentEffect']]],
   ['_7estringlistparameter_42',['~StringListParameter',['../classSteinberg_1_1Vst_1_1StringListParameter.html#aa4056bdab127f0ae3fd36fef00fe86c1',1,'Steinberg::Vst::StringListParameter']]],
   ['_7etestbase_43',['~TestBase',['../classSteinberg_1_1Vst_1_1TestBase.html#ad2150d88fc7754ff1131930bd90728a3',1,'Steinberg::Vst::TestBase']]],
   ['_7etestenh_44',['~TestEnh',['../classSteinberg_1_1Vst_1_1TestEnh.html#aea063e38c16b155569e7637de2c311e0',1,'Steinberg::Vst::TestEnh']]],
   ['_7ethreadchecker_45',['~ThreadChecker',['../classSteinberg_1_1Vst_1_1ThreadChecker.html#a6c5ade0a1125312d44f7c331e20d69d9',1,'Steinberg::Vst::ThreadChecker']]],
-  ['_7evstguieditor_46',['~VSTGUIEditor',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#af3ef338c0dd0439cb448abe7994ed6e7',1,'Steinberg::Vst::VSTGUIEditor']]],
+  ['_7evstguieditor_46',['~VSTGUIEditor',['../classSteinberg_1_1Vst_1_1VSTGUIEditor.html#a3b0ca40505936fe555ed9bfbd77aa57f',1,'Steinberg::Vst::VSTGUIEditor']]],
   ['_7exmlrepresentationhelper_47',['~XmlRepresentationHelper',['../classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html#a9de53b27f3ed60398d9e5ba7fe2ef14e',1,'Steinberg::Vst::XmlRepresentationHelper']]]
 ];

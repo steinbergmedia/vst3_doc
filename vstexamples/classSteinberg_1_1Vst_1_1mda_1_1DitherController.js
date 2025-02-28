@@ -9,7 +9,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1DitherController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "DitherController", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a05276b0ff0f3cbd165d07e8e4629ffd8", null ],
-    [ "~DitherController", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#aa19349fa150637f7c6b8341ab4a9fbdc", null ],
+    [ "~DitherController", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a274c9820a5dd28dbde91dd87f5e4dbac", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1DitherController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

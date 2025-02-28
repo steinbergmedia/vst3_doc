@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor =
 [
     [ "RezFilterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a26751899fa7e0e54fa19e937b3f00d29", null ],
-    [ "~RezFilterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a6bd2a492488c704a9bf232d8a7a8d9ac", null ],
+    [ "~RezFilterProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a54e02888abef938f0f9ed652a4b052de", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "fff", "classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html#a5dafde482b0aeaa0268cb7720bb133fa", null ],

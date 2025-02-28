@@ -6,6 +6,5 @@ var searchData=
   ['units_3',['units',['../../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html#a6d1eb8c7229080be20f950a9dbb693c3',1,'Steinberg::Vst::EditControllerEx1::units()'],['../structSteinberg_1_1Vst_1_1ParameterInfo.html#a1c553556d9764875c3e04ac9eea2f247',1,'Steinberg::Vst::ParameterInfo::units()'],['../structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html#a1c553556d9764875c3e04ac9eea2f247',1,'Steinberg::Vst::NoteExpressionTypeInfo::units()']]],
   ['url_4',['url',['../../base/structSteinberg_1_1PFactoryInfo.html#aa4ccdd008796e1fda60a64aca8fc6a16',1,'Steinberg::PFactoryInfo']]],
   ['usedqueuecount_5',['usedQueueCount',['../../vstsdk/classSteinberg_1_1Vst_1_1ParameterChanges.html#affa318ea1f104f4c9a2bcc359dd9c4dd',1,'Steinberg::Vst::ParameterChanges']]],
-  ['usercontextid_6',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]],
-  ['utility_7',['Utility',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c',1,'Steinberg::Vst::UMP']]]
+  ['usercontextid_6',['userContextID',['../../vstsdk/structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html#a903d0143d4ed53f56d5ac00c752a4c6e',1,'Steinberg::Vst::DataExchangeHandler::Config']]]
 ];

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor =
 [
     [ "DynamicsProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a41c9ffc582af2b2bae53ec9a0e386f12", null ],
-    [ "~DynamicsProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a70c1f346f507da9b50d0df23dfe8e80e", null ],
+    [ "~DynamicsProcessor", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a18df94c13920ff2e88e741fc63bdde79", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1DynamicsProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

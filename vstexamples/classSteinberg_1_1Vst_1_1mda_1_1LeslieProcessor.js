@@ -1,11 +1,12 @@
 var classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor =
 [
     [ "LeslieProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a9795cdf660ee0fa4967e49b141d701af", null ],
-    [ "~LeslieProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a97dfe54d414592753aa183f49760cd28", null ],
+    [ "~LeslieProcessor", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a29b6f26ebb649e0531bf4fc7bd172b37", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "setActive", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ad48c36f6210f722d195a93f68fb7dff4", null ],
+    [ "setProcessing", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a6fe399148064f1f04eb3f6d71c1f966d", null ],
     [ "doProcessing", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a35aa3fed88ff6cfb7898384d9e608277", null ],
     [ "recalculate", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a3026090cef033b689dc36c5f122924f9", null ],
     [ "filo", "classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a3f51c9365cb9fbaafe1c923f378166a5", null ],

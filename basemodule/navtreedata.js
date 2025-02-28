@@ -73,8 +73,8 @@ var NAVTREEINDEX =
 "classSteinberg_1_1ConstString.html#a0e3593cb1c3537ca53339e22c92f02ab",
 "classSteinberg_1_1FStreamer.html#a079a7a951eee3154e9e89808d02ecc3d",
 "classSteinberg_1_1String.html#a834a4ca1d041cdcd9ef5d6d5d0003a5b",
-"fobject_8cpp.html#a4887636bdd4ce9765adf2ebeba53fd78",
-"namespaceSteinberg.html#a7784e17f867a990478e8b3a25216f047"
+"fobject_8cpp.html#a9550d93de76bc0422a328bc17dfaa0c7",
+"namespaceSteinberg.html#a77ef60ecf7bafa1fad170373890daf52"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor =
 [
     [ "RingModProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#ac30fae771f6b5cbd9719cdb7f8aedbe3", null ],
-    [ "~RingModProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#aecf72b9af433ac2fd816edda7a7880a2", null ],
+    [ "~RingModProcessor", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#ad572329b8a4682316d9057ea274b3a9b", null ],
     [ "getVst2UniqueId", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#a80b09ba6d56f803698722f396fff6329", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

@@ -1,14 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a153beb2d5d562ed4fc8643bf51c711d8":[3,0,0,7,18,44],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a16ff5025a411dc1c3b7fc305dfe53073":[3,0,0,7,18,268],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a17add6f7e226c7057f023d5fb79ea514":[3,0,0,7,18,19],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1815df54ea6a8c9ec3b7992c2680f930":[3,0,0,7,18,299],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a19887804c5277a7d95cb691486752326":[3,0,0,7,18,314],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a19addfe92087609dea4ef8c257becfbf":[3,0,0,7,18,257],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1aa3ca2f975b4b24895e3fbbd0ee4de6":[3,0,0,7,18,202],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1ab315f9942e83ed753c115f427d16a3":[3,0,0,7,18,116],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b17445201a92bee4c23dd16e5cd1728":[3,0,0,7,18,308],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b19ef3d9cbdfb96c008f4586b186997":[3,0,0,7,18,61],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b7e67dba5f5333b64eb847d3d78668d":[3,0,0,7,18,261],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b93e71fddaa428f500d5c00389e1983":[3,0,0,7,18,86],
@@ -249,5 +240,14 @@ var NAVTREEINDEX10 =
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac2c7b9174c8b38607b2cb2e68769aaca":[3,0,0,7,18,144],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac31faedafc0d6ef570cb6b5098b189b2":[3,0,0,7,18,190],
 "namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac3ec49935f60ef5a877f21c6225274f5":[3,0,0,7,18,36],
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac432eebae5c8256e872d754aaa7f5b3a":[3,0,0,7,18,70]
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac432eebae5c8256e872d754aaa7f5b3a":[3,0,0,7,18,70],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac5315e218c209f891d18ec25effa0fd1":[3,0,0,7,18,313],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac672a7aa5cabd6a5d4c4441e6aadc925":[3,0,0,7,18,122],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac777248ebd6fa592c82b7bcb78f9301e":[3,0,0,7,18,255],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac7c590bd9642823b634c33a5fa3d6cfd":[3,0,0,7,18,79],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac7d25b1cc65c51e76c225ae50c4116ba":[3,0,0,7,18,221],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac847eadaa1938e45601af71cb37737b5":[3,0,0,7,18,167],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac89dcac8a9acb594a3e406cc5241d650":[3,0,0,7,18,309],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ac97a088b45e2fde1967424d9b81fedd3":[3,0,0,7,18,318],
+"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#aca11b7e3831e00dd7b5828111675411a":[3,0,0,7,18,287]
 };

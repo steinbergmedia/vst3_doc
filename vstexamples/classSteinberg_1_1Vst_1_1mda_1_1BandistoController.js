@@ -14,7 +14,7 @@ var classSteinberg_1_1Vst_1_1mda_1_1BandistoController =
       [ "kNumParams", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a6d2a1929151bc7086c493054f3a7be85af908d754c50a6918f78d2bc00b5ffe55", null ]
     ] ],
     [ "BandistoController", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#ab13c91e53a1d3422e92a7c50f286b115", null ],
-    [ "~BandistoController", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a61c727290774524f81342b91634679cc", null ],
+    [ "~BandistoController", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a485b0265b08030309b5d25ded8465336", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],
     [ "getParamStringByValue", "classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html#a813cbf9dee7a64708f56160974dd37b0", null ],

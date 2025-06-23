@@ -1,4 +1,5 @@
 <map id="Unit" name="Unit">
-<area shape="rect" id="node1" title="Unit element." alt="" coords="5,129,140,316"/>
-<area shape="rect" id="node2" title=" " alt="" coords="41,5,104,81"/>
+<area shape="rect" id="Node000001" title="Unit element." alt="" coords="5,115,131,325"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,95,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,82,71,115,65,115,65,82"/>
 </map>

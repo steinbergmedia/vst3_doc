@@ -6,7 +6,7 @@ var searchData=
   ['platformfileselectorptr_3',['PlatformFileSelectorPtr',['../namespace_v_s_t_g_u_i.html#a5959ebce637f14f6daabea82c525177c',1,'VSTGUI']]],
   ['platformfontptr_4',['PlatformFontPtr',['../namespace_v_s_t_g_u_i.html#a92a65435a53ecdc78fe79c313978b5e2',1,'VSTGUI']]],
   ['platformframeconfigptr_5',['PlatformFrameConfigPtr',['../namespace_v_s_t_g_u_i_1_1_standalone.html#ab11a0e1b09cdba1e98eab113ebd5eb0a',1,'VSTGUI::Standalone']]],
-  ['platformframeptr_6',['PlatformFramePtr',['../namespace_v_s_t_g_u_i.html#a1b70ea8ce18c64ea3b0309b91899b278',1,'VSTGUI']]],
+  ['platformframeptr_6',['PlatformFramePtr',['../namespace_v_s_t_g_u_i.html#a6a658c6ce8d779da1cfdb30f9a91bbf8',1,'VSTGUI']]],
   ['platformgradientptr_7',['PlatformGradientPtr',['../namespace_v_s_t_g_u_i.html#a553287139d7b3c2d72206ec69e88c2c3',1,'VSTGUI']]],
   ['platformgraphicsdevicecontextptr_8',['PlatformGraphicsDeviceContextPtr',['../namespace_v_s_t_g_u_i.html#a31bc5c657a17f12e9880ff136897bd2a',1,'VSTGUI']]],
   ['platformgraphicsdeviceptr_9',['PlatformGraphicsDevicePtr',['../namespace_v_s_t_g_u_i.html#a28dd00c729d1192f745167c436f2830c',1,'VSTGUI']]],
@@ -17,7 +17,7 @@ var searchData=
   ['platformtexteditptr_14',['PlatformTextEditPtr',['../class_v_s_t_g_u_i_1_1_c_text_edit.html#a5736b182941f30a9826cd997d559a008',1,'VSTGUI::CTextEdit']]],
   ['platformtimerptr_15',['PlatformTimerPtr',['../namespace_v_s_t_g_u_i.html#a24528a069c61df796b973b9f9149fbca',1,'VSTGUI']]],
   ['pointer_16',['pointer',['../class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html#acac9b608999cf745e97dc574e896cdb8',1,'VSTGUI::UTF8CodePointIterator']]],
-  ['pointlist_17',['PointList',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a49dd11429677dc14bd5a1f5161eac40e',1,'VSTGUI::CDrawContext::PointList()'],['../namespace_v_s_t_g_u_i.html#ad2fc415eb172cbcccde2459300aae5af',1,'VSTGUI::PointList()']]],
+  ['pointlist_17',['PointList',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a49dd11429677dc14bd5a1f5161eac40e',1,'VSTGUI::CDrawContext::PointList'],['../namespace_v_s_t_g_u_i.html#ad2fc415eb172cbcccde2459300aae5af',1,'VSTGUI::PointList']]],
   ['pointmap_18',['PointMap',['../class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html#a01f166fde92a515d699a2cf84eb200c4',1,'VSTGUI::Animation::InterpolationTimingFunction']]],
   ['popupcallback_19',['PopupCallback',['../class_v_s_t_g_u_i_1_1_c_option_menu.html#abf9993f365eab8de8e22b1fee8d1f499',1,'VSTGUI::COptionMenu']]]
 ];

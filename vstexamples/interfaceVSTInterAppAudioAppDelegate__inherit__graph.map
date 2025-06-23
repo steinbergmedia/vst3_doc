@@ -1,4 +1,5 @@
 <map id="VSTInterAppAudioAppDelegate" name="VSTInterAppAudioAppDelegate">
-<area shape="rect" id="node1" title=" " alt="" coords="19,255,214,330"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$interfaceVSTInterAppAudioAppDelegateBase.html" title=" " alt="" coords="5,5,228,207"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,267,205,328"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$interfaceVSTInterAppAudioAppDelegateBase.html" title=" " alt="" coords="5,5,219,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,234,115,267,109,267,109,234"/>
 </map>

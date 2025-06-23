@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['uid_0',['UID',['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html',1,'UID&lt; uint32 t1, uint32 t2, uint32 t3, uint32 t4 &gt;'],['../structVST3_1_1UID.html',1,'UID']]],
+  ['uid_0',['UID',['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html',1,'UID&lt; uint32 t1, uint32 t2, uint32 t3, uint32 t4 &gt;'],['../../base/structSteinberg_1_1U_1_1UID.html',1,'UID&lt; uint32 t1, uint32 t2, uint32 t3, uint32 t4 &gt;'],['../structVST3_1_1UID.html',1,'UID']]],
   ['umpmessage_1',['UMPMessage',['../structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html',1,'Steinberg::Vst::UMP::Detail']]],
   ['umpmessage2_2',['UMPMessage2',['../structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html',1,'Steinberg::Vst::UMP::Detail']]],
   ['umpmessage4_3',['UMPMessage4',['../structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html',1,'Steinberg::Vst::UMP::Detail']]],
@@ -14,5 +14,7 @@ var searchData=
   ['unitinfo_11',['UnitInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1UnitInfo.html',1,'Steinberg::Vst']]],
   ['universalmidipackethandleradapter_12',['UniversalMidiPacketHandlerAdapter',['../structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter.html',1,'Steinberg::Vst::UMP']]],
   ['ustring_13',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
-  ['ustringbuffer_14',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
+  ['ustringbuffer_14',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
+  ['ustringbuffer_3c_20128_20_3e_15',['UStringBuffer&lt; 128 &gt;',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
+  ['ustringbuffer_3c_20256_20_3e_16',['UStringBuffer&lt; 256 &gt;',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
 ];

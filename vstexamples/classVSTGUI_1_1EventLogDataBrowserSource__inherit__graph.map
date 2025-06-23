@@ -1,5 +1,7 @@
 <map id="EventLogDataBrowserSource" name="EventLogDataBrowserSource">
-<area shape="rect" id="node1" title=" " alt="" coords="29,129,238,344"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,99,81"/>
-<area shape="rect" id="node3" title=" " alt="" coords="123,5,309,81"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,115,225,363"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,91,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,80,80,114,75,116,62,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,293,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,82,176,116,171,114,184,80"/>
 </map>

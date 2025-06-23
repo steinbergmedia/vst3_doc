@@ -1,5 +1,7 @@
 <map id="BusList" name="BusList">
-<area shape="rect" id="node1" title="List of Busses." alt="" coords="28,143,158,274"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,12,69,88"/>
-<area shape="rect" id="node3" title=" " alt="" coords="93,5,208,95"/>
+<area shape="rect" id="Node000001" title="List of Busses." alt="" coords="25,129,145,265"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,60,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,87,64,129,59,131,45,89"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,191,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,96,111,130,106,129,118,95"/>
 </map>

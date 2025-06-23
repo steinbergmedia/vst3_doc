@@ -1,4 +1,9 @@
 <map id="UString" name="UString">
-<area shape="rect" id="node1" title="UTF&#45;16 string class without buffer management." alt="" coords="5,5,172,277"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1UStringBuffer.html" title="UTF&#45;16 string with fixed buffer size." alt="" coords="8,325,169,428"/>
+<area shape="rect" id="Node000001" title="UTF&#45;16 string class without buffer management." alt="" coords="141,5,298,328"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1UStringBuffer.html" title=" " alt="" coords="5,376,132,549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,336,115,377,110,375,132,333"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1UStringBuffer.html" title=" " alt="" coords="156,376,283,549"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,343,222,376,217,376,217,343"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1UStringBuffer.html" title="UTF&#45;16 string with fixed buffer size." alt="" coords="307,413,460,512"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="308,321,359,412,354,415,303,323"/>
 </map>

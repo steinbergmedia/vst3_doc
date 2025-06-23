@@ -8,7 +8,8 @@ var searchData=
   ['meta_5fclass_5fsingle_5',['META_CLASS_SINGLE',['../classfactoryhelpers_8h.html#a63944ca72c7a04d6ec65301936202ffe',1,'classfactoryhelpers.h']]],
   ['meta_5fcreate_5ffunc_6',['META_CREATE_FUNC',['../classfactoryhelpers_8h.html#afab65b35bec1c0222e99218f057b0a2c',1,'classfactoryhelpers.h']]],
   ['mhelp_7',['mHelp',['../classSteinberg_1_1CommandLine_1_1Description.html#aec239d2835b6febb1c0c7096896f4ee7',1,'Steinberg::CommandLine::Description']]],
-  ['move_8',['move',['../classSteinberg_1_1Buffer.html#a0a728693e22178550b0bda95b139e684',1,'Steinberg::Buffer']]],
-  ['mtype_9',['mType',['../classSteinberg_1_1CommandLine_1_1Description.html#a3437227e441ef7e6d2b63197b26023ed',1,'Steinberg::CommandLine::Description']]],
-  ['multibytetowidestring_10',['multiByteToWideString',['../classSteinberg_1_1ConstString.html#aae9eb74628356d91bdd0e50426577d02',1,'Steinberg::ConstString']]]
+  ['module_8',['Base Module',['../index.html',1,'']]],
+  ['move_9',['move',['../classSteinberg_1_1Buffer.html#a0a728693e22178550b0bda95b139e684',1,'Steinberg::Buffer']]],
+  ['mtype_10',['mType',['../classSteinberg_1_1CommandLine_1_1Description.html#a3437227e441ef7e6d2b63197b26023ed',1,'Steinberg::CommandLine::Description']]],
+  ['multibytetowidestring_11',['multiByteToWideString',['../classSteinberg_1_1ConstString.html#aae9eb74628356d91bdd0e50426577d02',1,'Steinberg::ConstString']]]
 ];

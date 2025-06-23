@@ -1,5 +1,7 @@
 <map id="ParamChanges" name="ParamChanges">
-<area shape="rect" id="node1" title="AutomationTest helper classes: implementation of IParamValueQueue." alt="" coords="5,322,165,551"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParamValueQueue.html" title=" " alt="" coords="21,157,149,274"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="26,5,144,109"/>
+<area shape="rect" id="Node000001" title="AutomationTest helper classes: implementation of IParamValueQueue." alt="" coords="5,317,156,584"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParamValueQueue.html" title=" " alt="" coords="21,152,141,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,284,83,318,78,318,78,284"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="27,5,135,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,119,83,153,78,153,78,119"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="ITestResult" name="ITestResult">
-<area shape="rect" id="node1" title="Test Result message logger [host imp] when a test is called, a pointer to an ITestResult is passed in..." alt="" coords="5,157,143,246"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="15,5,133,109"/>
+<area shape="rect" id="Node000001" title="Test Result message logger [host imp] When a test is called, a pointer to an ITestResult is passed in..." alt="" coords="5,152,133,232"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="15,5,123,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,119,72,152,67,152,67,119"/>
 </map>

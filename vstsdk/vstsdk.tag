@@ -1,33 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.2">
+<tagfile doxygen_version="1.13.2" doxygen_gitid="26342b775ea25e6fefb53220926b20702c56fcb3">
   <compound kind="file">
     <name>memorystream.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>memorystream_8h.html</filename>
     <class kind="class">Steinberg::MemoryStream</class>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>pluginview.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>pluginview_8h.html</filename>
     <class kind="class">Steinberg::CPluginView</class>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>threadchecker.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>threadchecker_8h.html</filename>
     <class kind="class">Steinberg::Vst::ThreadChecker</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>pluginfactory.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/main/</path>
     <filename>pluginfactory_8h.html</filename>
     <class kind="class">Steinberg::CPluginFactory</class>
-    <namespace>Steinberg</namespace>
     <member kind="define">
       <type>#define</type>
       <name>BEGIN_FACTORY_CLASS</name>
@@ -90,13 +85,6 @@
       <anchorfile>group__classFactoryMacros.html</anchorfile>
       <anchor>ga9fdf83113c2b2dddbb42811957843dd6</anchor>
       <arglist>(pluginName, pluginVst3Categories, classFlags, pluginVersion, processorCID, processorCreateFunc, controllerCID, controllerCreateFunc)</arglist>
-    </member>
-    <member kind="variable">
-      <type>CPluginFactory *</type>
-      <name>gPluginFactory</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8424a16f6b47419c0c3bb4b7b1374d81</anchor>
-      <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
@@ -193,7 +181,6 @@
     <name>usediids.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>usediids_8cpp.html</filename>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>basewrapper.cpp</name>
@@ -209,13 +196,13 @@
     <name>basewrapper.sdk.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8sdk_8cpp.html</filename>
-    <includes id="basewrapper_8cpp" name="basewrapper.cpp" local="yes" imported="no">public.sdk/source/vst/basewrapper/basewrapper.cpp</includes>
-    <includes id="connectionproxy_8cpp" name="connectionproxy.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/connectionproxy.cpp</includes>
-    <includes id="eventlist_8cpp" name="eventlist.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/eventlist.cpp</includes>
-    <includes id="hostclasses_8cpp" name="hostclasses.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/hostclasses.cpp</includes>
-    <includes id="parameterchanges_8cpp" name="parameterchanges.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/parameterchanges.cpp</includes>
-    <includes id="pluginterfacesupport_8cpp" name="pluginterfacesupport.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/pluginterfacesupport.cpp</includes>
-    <includes id="processdata_8cpp" name="processdata.cpp" local="yes" imported="no">public.sdk/source/vst/hosting/processdata.cpp</includes>
+    <includes id="basewrapper_8cpp" name="basewrapper.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/basewrapper/basewrapper.cpp</includes>
+    <includes id="connectionproxy_8cpp" name="connectionproxy.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/connectionproxy.cpp</includes>
+    <includes id="eventlist_8cpp" name="eventlist.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/eventlist.cpp</includes>
+    <includes id="hostclasses_8cpp" name="hostclasses.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/hostclasses.cpp</includes>
+    <includes id="parameterchanges_8cpp" name="parameterchanges.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/parameterchanges.cpp</includes>
+    <includes id="pluginterfacesupport_8cpp" name="pluginterfacesupport.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/pluginterfacesupport.cpp</includes>
+    <includes id="processdata_8cpp" name="processdata.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/processdata.cpp</includes>
   </compound>
   <compound kind="file">
     <name>doc_public_sdk.h</name>
@@ -231,92 +218,50 @@
     <name>connectionproxy.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8cpp.html</filename>
-    <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" imported="no">connectionproxy.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a66aea247135e1846f335a23d9cf6bbcb</anchor>
-      <arglist>(ConnectionProxy, IConnectionPoint, IConnectionPoint::iid) ConnectionProxy</arglist>
-    </member>
+    <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" import="no" module="no" objc="no">connectionproxy.h</includes>
   </compound>
   <compound kind="file">
     <name>connectionproxy.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8h.html</filename>
-    <includes id="threadchecker_8h" name="threadchecker.h" local="yes" imported="no">public.sdk/source/common/threadchecker.h</includes>
+    <includes id="threadchecker_8h" name="threadchecker.h" local="yes" import="no" module="no" objc="no">public.sdk/source/common/threadchecker.h</includes>
     <class kind="class">Steinberg::Vst::ConnectionProxy</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>eventlist.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8cpp.html</filename>
-    <includes id="eventlist_8h" name="eventlist.h" local="yes" imported="no">eventlist.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a14da991e5b59eb10c9ad2d5fb90bbaee</anchor>
-      <arglist>(EventList, IEventList, IEventList::iid) EventList</arglist>
-    </member>
+    <includes id="eventlist_8h" name="eventlist.h" local="yes" import="no" module="no" objc="no">eventlist.h</includes>
   </compound>
   <compound kind="file">
     <name>eventlist.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8h.html</filename>
     <class kind="class">Steinberg::Vst::EventList</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>hostclasses.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8cpp.html</filename>
-    <includes id="hostclasses_8h" name="hostclasses.h" local="yes" imported="no">hostclasses.h</includes>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a476fe6d184a54896b92f055e61b011bf</anchor>
-      <arglist>(HostMessage, IMessage, IMessage::iid) HostMessage</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a389055ec7b088e8040c289a99c17d33a</anchor>
-      <arglist>(HostAttributeList, IAttributeList, IAttributeList::iid) IPtr&lt; IAttributeList &gt; HostAttributeList</arglist>
-    </member>
+    <includes id="hostclasses_8h" name="hostclasses.h" local="yes" import="no" module="no" objc="no">hostclasses.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
   </compound>
   <compound kind="file">
     <name>hostclasses.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8h.html</filename>
-    <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" imported="no">public.sdk/source/vst/hosting/pluginterfacesupport.h</includes>
+    <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/pluginterfacesupport.h</includes>
     <class kind="class">Steinberg::Vst::HostApplication</class>
     <class kind="class">Steinberg::Vst::HostAttributeList</class>
     <class kind="class">Steinberg::Vst::HostMessage</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>hostdataexchangehandler.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostdataexchangehandler_8cpp.html</filename>
-    <includes id="hostdataexchangehandler_8h" name="hostdataexchangehandler.h" local="yes" imported="no">hostdataexchangehandler.h</includes>
-    <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" imported="no">../utility/alignedalloc.h</includes>
-    <includes id="ringbuffer_8h" name="ringbuffer.h" local="yes" imported="no">../utility/ringbuffer.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="hostdataexchangehandler_8h" name="hostdataexchangehandler.h" local="yes" import="no" module="no" objc="no">hostdataexchangehandler.h</includes>
+    <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" import="no" module="no" objc="no">../utility/alignedalloc.h</includes>
+    <includes id="ringbuffer_8h" name="ringbuffer.h" local="yes" import="no" module="no" objc="no">../utility/ringbuffer.h</includes>
   </compound>
   <compound kind="file">
     <name>hostdataexchangehandler.h</name>
@@ -324,16 +269,14 @@
     <filename>hostdataexchangehandler_8h.html</filename>
     <class kind="struct">Steinberg::Vst::IDataExchangeHandlerHost</class>
     <class kind="struct">Steinberg::Vst::HostDataExchangeHandler</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>module.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8cpp.html</filename>
-    <includes id="module_8h" name="module.h" local="yes" imported="no">module.h</includes>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
+    <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
     <namespace>VST3</namespace>
     <namespace>VST3::Hosting</namespace>
   </compound>
@@ -341,7 +284,7 @@
     <name>module.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8h.html</filename>
-    <includes id="uid_8h" name="uid.h" local="yes" imported="no">../utility/uid.h</includes>
+    <includes id="uid_8h" name="uid.h" local="yes" import="no" module="no" objc="no">../utility/uid.h</includes>
     <class kind="class">VST3::Hosting::FactoryInfo</class>
     <class kind="class">VST3::Hosting::ClassInfo</class>
     <class kind="struct">VST3::Hosting::ClassInfo::Data</class>
@@ -356,9 +299,9 @@
     <name>module_linux.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__linux_8cpp.html</filename>
-    <includes id="module_8h" name="module.h" local="yes" imported="no">module.h</includes>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
+    <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
     <namespace>VST3</namespace>
     <namespace>VST3::Hosting</namespace>
     <member kind="define">
@@ -382,26 +325,12 @@
       <anchor>a6bb67fd6e30b095f26ee8859d12de8ef</anchor>
       <arglist></arglist>
     </member>
-    <member kind="typedef">
-      <type>filesystem::path</type>
-      <name>Path</name>
-      <anchorfile>namespaceVST3_1_1Hosting.html</anchorfile>
-      <anchor>ada742d09a758c7053b346ceab75bfa58</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>void *</type>
-      <name>mModule</name>
-      <anchorfile>module__linux_8cpp.html</anchorfile>
-      <anchor>a2f8d15415d186671c101186f3cb67860</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>module_mac.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__mac_8mm.html</filename>
-    <includes id="module_8h" name="module.h" local="yes" imported="yes">module.h</includes>
+    <includes id="module_8h" name="module.h" local="yes" import="yes" module="no" objc="yes">module.h</includes>
     <namespace>VST3</namespace>
     <namespace>VST3::Hosting</namespace>
     <member kind="typedef">
@@ -418,21 +347,14 @@
       <anchor>a5b4d4515bd38ea320f10dab298266d7e</anchor>
       <arglist>)()</arglist>
     </member>
-    <member kind="variable">
-      <type>CFPtr&lt; CFBundleRef &gt;</type>
-      <name>bundle</name>
-      <anchorfile>module__mac_8mm.html</anchorfile>
-      <anchor>a6387533239cde0ad6c17b518817ebd38</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>module_win32.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__win32_8cpp.html</filename>
-    <includes id="module_8h" name="module.h" local="yes" imported="no">module.h</includes>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
+    <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
     <namespace>VST3</namespace>
     <namespace>VST3::Hosting</namespace>
     <member kind="define">
@@ -477,49 +399,12 @@
       <anchor>aec121fc4a56e70a587fd2cb5f4d9883e</anchor>
       <arglist></arglist>
     </member>
-    <member kind="variable">
-      <type>constexpr unsigned long</type>
-      <name>kIPPathNameMax</name>
-      <anchorfile>namespaceVST3_1_1Hosting.html</anchorfile>
-      <anchor>adc18f3cbe8d2b92a8350abbed9157fab</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>HINSTANCE</type>
-      <name>mModule</name>
-      <anchorfile>module__win32_8cpp.html</anchorfile>
-      <anchor>a872231d16d10835d836c77daa67fee18</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>parameterchanges.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>parameterchanges_8cpp.html</filename>
-    <includes id="parameterchanges_8h" name="parameterchanges.h" local="yes" imported="no">parameterchanges.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae41776e5d40ac5a09f7c0d862b004157</anchor>
-      <arglist>(ParameterChanges, IParameterChanges, IParameterChanges::iid) IMPLEMENT_FUNKNOWN_METHODS(ParameterValueQueue</arglist>
-    </member>
-    <member kind="variable">
-      <type></type>
-      <name>IParamValueQueue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9599d04a145b093a9e253d564c6739f5</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>constexpr IParamValueQueue::iid int32</type>
-      <name>kQueueReservedPoints</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a700bd2d567ccb0cc3640ae675f657f57</anchor>
-      <arglist></arglist>
-    </member>
+    <includes id="parameterchanges_8h" name="parameterchanges.h" local="yes" import="no" module="no" objc="no">parameterchanges.h</includes>
   </compound>
   <compound kind="file">
     <name>parameterchanges.h</name>
@@ -530,59 +415,45 @@
     <class kind="class">Steinberg::Vst::ParameterChanges</class>
     <class kind="class">Steinberg::Vst::ParameterChangeTransfer</class>
     <class kind="struct">Steinberg::Vst::ParameterChangeTransfer::ParameterChange</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8cpp.html</filename>
-    <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" imported="no">pluginterfacesupport.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" import="no" module="no" objc="no">pluginterfacesupport.h</includes>
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8h.html</filename>
     <class kind="class">Steinberg::Vst::PlugInterfaceSupport</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>plugprovider.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8cpp.html</filename>
-    <includes id="plugprovider_8h" name="plugprovider.h" local="yes" imported="no">plugprovider.h</includes>
-    <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" imported="no">connectionproxy.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="plugprovider_8h" name="plugprovider.h" local="yes" import="no" module="no" objc="no">plugprovider.h</includes>
+    <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" import="no" module="no" objc="no">connectionproxy.h</includes>
   </compound>
   <compound kind="file">
     <name>plugprovider.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8h.html</filename>
-    <includes id="module_8h" name="module.h" local="yes" imported="no">public.sdk/source/vst/hosting/module.h</includes>
+    <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/module.h</includes>
     <class kind="class">Steinberg::Vst::PlugProvider</class>
     <class kind="class">Steinberg::Vst::PluginContextFactory</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>processdata.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8cpp.html</filename>
-    <includes id="processdata_8h" name="processdata.h" local="yes" imported="no">processdata.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="processdata_8h" name="processdata.h" local="yes" import="no" module="no" objc="no">processdata.h</includes>
   </compound>
   <compound kind="file">
     <name>processdata.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8h.html</filename>
     <class kind="class">Steinberg::Vst::HostProcessData</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>AudioIO.h</name>
@@ -593,10 +464,8 @@
     <name>AudioIO.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>AudioIO_8mm.html</filename>
-    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
-    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">MidiIO.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
+    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">MidiIO.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
     <member kind="define">
       <type>#define</type>
@@ -604,13 +473,6 @@
       <anchorfile>AudioIO_8mm.html</anchorfile>
       <anchor>ac032d233a8ebfcd82fd49d0824eefb18</anchor>
       <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>__attribute__</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1InterAppAudio.html</anchorfile>
-      <anchor>ae10fe1cc8210f9fbd6bd159c65c8ef87</anchor>
-      <arglist>((always_inline)) void AudioIO</arglist>
     </member>
   </compound>
   <compound kind="file">
@@ -622,32 +484,26 @@
     <name>HostApp.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>HostApp_8mm.html</filename>
-    <includes id="HostApp_8h" name="HostApp.h" local="yes" imported="yes">HostApp.h</includes>
-    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
-    <includes id="PresetManager_8h" name="PresetManager.h" local="yes" imported="yes">PresetManager.h</includes>
-    <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" imported="yes">SettingsViewController.h</includes>
-    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="yes">VST3Plugin.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="HostApp_8h" name="HostApp.h" local="yes" import="yes" module="no" objc="yes">HostApp.h</includes>
+    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
+    <includes id="PresetManager_8h" name="PresetManager.h" local="yes" import="yes" module="no" objc="yes">PresetManager.h</includes>
+    <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" import="yes" module="no" objc="yes">SettingsViewController.h</includes>
+    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="yes" module="no" objc="yes">VST3Plugin.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
     <name>MidiIO.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8h.html</filename>
-    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="no">AudioIO.h</includes>
+    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="no" module="no" objc="no">AudioIO.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::MidiIO</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
     <name>MidiIO.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8mm.html</filename>
-    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">MidiIO.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">MidiIO.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
@@ -659,28 +515,24 @@
     <name>PresetBrowserViewController.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetBrowserViewController_8mm.html</filename>
-    <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" imported="yes">PresetBrowserViewController.h</includes>
+    <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" import="yes" module="no" objc="yes">PresetBrowserViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>PresetManager.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8h.html</filename>
-    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="no">VST3Plugin.h</includes>
+    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="no" module="no" objc="no">VST3Plugin.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::PresetManager</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
     <name>PresetManager.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8mm.html</filename>
-    <includes id="PresetManager_8h" name="PresetManager.h" local="yes" imported="yes">PresetManager.h</includes>
-    <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" imported="yes">PresetBrowserViewController.h</includes>
-    <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" imported="yes">PresetSaveViewController.h</includes>
-    <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" imported="yes">public.sdk/source/vst/vstpresetfile.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="PresetManager_8h" name="PresetManager.h" local="yes" import="yes" module="no" objc="yes">PresetManager.h</includes>
+    <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" import="yes" module="no" objc="yes">PresetBrowserViewController.h</includes>
+    <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" import="yes" module="no" objc="yes">PresetSaveViewController.h</includes>
+    <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/vstpresetfile.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
@@ -692,7 +544,7 @@
     <name>PresetSaveViewController.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetSaveViewController_8mm.html</filename>
-    <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" imported="yes">PresetSaveViewController.h</includes>
+    <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" import="yes" module="no" objc="yes">PresetSaveViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>SettingsViewController.h</name>
@@ -710,9 +562,9 @@
     <name>SettingsViewController.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>SettingsViewController_8mm.html</filename>
-    <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" imported="yes">SettingsViewController.h</includes>
-    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">AudioIO.h</includes>
-    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">MidiIO.h</includes>
+    <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" import="yes" module="no" objc="yes">SettingsViewController.h</includes>
+    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
+    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">MidiIO.h</includes>
     <member kind="function">
       <type>void</type>
       <name>showIOSettings</name>
@@ -730,9 +582,7 @@
     <name>VST3Editor.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Editor_8mm.html</filename>
-    <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" imported="yes">VST3Editor.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" import="yes" module="no" objc="yes">VST3Editor.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
   </compound>
   <compound kind="file">
@@ -744,12 +594,10 @@
     <name>VST3Plugin.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Plugin_8mm.html</filename>
-    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="yes">VST3Plugin.h</includes>
-    <includes id="HostApp_8h" name="HostApp.h" local="yes" imported="yes">HostApp.h</includes>
-    <includes id="NSDataIBStream_8h" name="NSDataIBStream.h" local="yes" imported="yes">public.sdk/source/vst/auwrapper/NSDataIBStream.h</includes>
-    <includes id="hostclasses_8h" name="hostclasses.h" local="yes" imported="yes">public.sdk/source/vst/hosting/hostclasses.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="yes" module="no" objc="yes">VST3Plugin.h</includes>
+    <includes id="HostApp_8h" name="HostApp.h" local="yes" import="yes" module="no" objc="yes">HostApp.h</includes>
+    <includes id="NSDataIBStream_8h" name="NSDataIBStream.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/auwrapper/NSDataIBStream.h</includes>
+    <includes id="hostclasses_8h" name="hostclasses.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/hosting/hostclasses.h</includes>
     <namespace>Steinberg::Vst::InterAppAudio</namespace>
     <member kind="function">
       <type>bool</type>
@@ -765,13 +613,6 @@
       <anchor>a65451ddd317f3c796347114f42638024</anchor>
       <arglist>(void)</arglist>
     </member>
-    <member kind="function">
-      <type></type>
-      <name>__attribute__</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1InterAppAudio.html</anchorfile>
-      <anchor>ab2feb4fc133a7b3e0cdb5f9cdf941382</anchor>
-      <arglist>((constructor)) static void InitUpdateHandler()</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegateBase.h</name>
@@ -783,70 +624,19 @@
     <name>VSTInterAppAudioAppDelegateBase.mm</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VSTInterAppAudioAppDelegateBase_8mm.html</filename>
-    <includes id="VSTInterAppAudioAppDelegateBase_8h" name="VSTInterAppAudioAppDelegateBase.h" local="yes" imported="yes">VSTInterAppAudioAppDelegateBase.h</includes>
-    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/AudioIO.h</includes>
-    <includes id="HostApp_8h" name="HostApp.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/HostApp.h</includes>
-    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/MidiIO.h</includes>
-    <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/VST3Editor.h</includes>
-    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" imported="yes">public.sdk/source/vst/interappaudio/VST3Plugin.h</includes>
+    <includes id="VSTInterAppAudioAppDelegateBase_8h" name="VSTInterAppAudioAppDelegateBase.h" local="yes" import="yes" module="no" objc="yes">VSTInterAppAudioAppDelegateBase.h</includes>
+    <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/AudioIO.h</includes>
+    <includes id="HostApp_8h" name="HostApp.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/HostApp.h</includes>
+    <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/MidiIO.h</includes>
+    <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/VST3Editor.h</includes>
+    <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/VST3Plugin.h</includes>
   </compound>
   <compound kind="file">
     <name>testbase.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>testbase_8cpp.html</filename>
-    <includes id="testbase_8h" name="testbase.h" local="yes" imported="no">public.sdk/source/vst/testsuite/testbase.h</includes>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4a8c06ebdc705fd88035f2fb33a4b838</anchor>
-      <arglist>(TestBase, ITest, ITest::iid)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8625885fbaf994689ee9a6b642d59578</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a623edb9565017639d2a11bb57a61d86e</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abc986b31ab8662d936d005ef0c81248a</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8bebcc96c4d0a82bd8ccf4d48c40a763</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>printf</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad0e23cf02b8fa84dad11b10435b6e82c</anchor>
-      <arglist>(const char8 *format,...)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af9162cbdfe84aedc8def491e096eedde</anchor>
-      <arglist>(ParamChanges, IParamValueQueue, IParamValueQueue::iid) ParamChanges</arglist>
-    </member>
+    <includes id="testbase_8h" name="testbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/testsuite/testbase.h</includes>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
   </compound>
   <compound kind="file">
     <name>testbase.h</name>
@@ -859,8 +649,6 @@
     <class kind="class">Steinberg::Vst::ParamPoint</class>
     <class kind="class">Steinberg::Vst::ParamChanges</class>
     <class kind="class">Steinberg::Vst::StringResult</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>DECLARE_VSTTEST</name>
@@ -868,55 +656,11 @@
       <anchor>a23f4ad9728f7038aeac2897684bcc326</anchor>
       <arglist>(name)</arglist>
     </member>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>ProcessSampleSize</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aaee256cc21f2275ca1d2faf08027a337</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8625885fbaf994689ee9a6b642d59578</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a623edb9565017639d2a11bb57a61d86e</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abc986b31ab8662d936d005ef0c81248a</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8bebcc96c4d0a82bd8ccf4d48c40a763</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>printf</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad0e23cf02b8fa84dad11b10435b6e82c</anchor>
-      <arglist>(const char8 *format,...)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vststructsizecheck.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vststructsizecheck_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>SMTG_VST_COMPILE_TIME_STRUCT_CHECK</name>
@@ -930,118 +674,6 @@
       <anchorfile>vststructsizecheck_8h.html</anchorfile>
       <anchor>a1a453c2655ed4314fa276aef96786471</anchor>
       <arglist>(T)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a3469392c5ae76c05ac5c0dcc2002b993</anchor>
-      <arglist>(PFactoryInfo, 4, 4, 4, 4) SMTG_TYPE_ALIGN_CHECK(PClassInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a598cd71e55749830c8982e1cebf24b1c</anchor>
-      <arglist>(PClassInfo2, 4, 4, 4, 4) SMTG_TYPE_ALIGN_CHECK(PClassInfoW</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae3fed4df17afbcff1fd768c40212ceb1</anchor>
-      <arglist>(ProcessSetup, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(AudioBusBuffers</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a63234469d10d33a544ee9599df71c180</anchor>
-      <arglist>(ProcessData, 8, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(BusInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae5e08c103fb69b61cea6c86b5c24ebc5</anchor>
-      <arglist>(RoutingInfo, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(IContextMenuItem</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af0fa779cb2b8b59441492e92e3f010b4</anchor>
-      <arglist>(ParameterInfo, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(NoteOnEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a209ab57585af9fba5af6d8a37f603a10</anchor>
-      <arglist>(NoteOffEvent, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(DataEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae5acb01d463261780769e27f7049e95e</anchor>
-      <arglist>(PolyPressureEvent, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(ChordEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1817c886d208596b3d7fa89bf965ea20</anchor>
-      <arglist>(ScaleEvent, 8, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(LegacyMIDICCOutEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aad6bbf546601feb4c8fe2673688829cd</anchor>
-      <arglist>(Event, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(NoteExpressionValueDescription</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a78651b00cf0173d17e3992e7c19d519a</anchor>
-      <arglist>(NoteExpressionValueEvent, 8, 1, 4, 8) SMTG_TYPE_ALIGN_CHECK(NoteExpressionTextEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a06c3307874053365618ffed99e21ec4d</anchor>
-      <arglist>(NoteExpressionTypeInfo, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(KeyswitchInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad562df3cdbe7659ffbda62984016e3ee</anchor>
-      <arglist>(FrameRate, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(Chord</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac68845c52a449b1c7f1b979739871031</anchor>
-      <arglist>(ProcessContext, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(RepresentationInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac80653deb627ae16c7d3e73554305889</anchor>
-      <arglist>(UnitInfo, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(ProgramListInfo</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>printStructSizes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>acd3e604cb624147a3e4d6c266c88b74b</anchor>
-      <arglist>()</arglist>
     </member>
   </compound>
   <compound kind="file">
@@ -1058,100 +690,40 @@
     <name>alignedalloc.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>alignedalloc_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>void *</type>
-      <name>aligned_alloc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ade54ba761a77d3f1e0c403b16e1e00a1</anchor>
-      <arglist>(size_t numBytes, uint32_t alignment)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>aligned_free</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aad3f24cc8aa05a74184f0ca1c9a91ca4</anchor>
-      <arglist>(void *addr, uint32_t alignment)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>audiobuffers.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>audiobuffers_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>Sample32 **</type>
-      <name>getChannelBuffers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abd14f31a79df41df93a370cacc149ddf</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
-    </member>
-    <member kind="function">
-      <type>Sample64 **</type>
-      <name>getChannelBuffers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac2443501452dae102f77c874d81286ae</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>dataexchange.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>dataexchange_8cpp.html</filename>
-    <includes id="dataexchange_8h" name="dataexchange.h" local="yes" imported="no">dataexchange.h</includes>
-    <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" imported="no">public.sdk/source/vst/utility/alignedalloc.h</includes>
-    <includes id="ringbuffer_8h" name="ringbuffer.h" local="yes" imported="no">public.sdk/source/vst/utility/ringbuffer.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abf26a9c9bb662f8dee939c833413a0d0</anchor>
-      <arglist>(const DataExchangeHandler::Config &amp;c1, const DataExchangeHandler::Config &amp;c2)</arglist>
-    </member>
+    <includes id="dataexchange_8h" name="dataexchange.h" local="yes" import="no" module="no" objc="no">dataexchange.h</includes>
+    <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/alignedalloc.h</includes>
+    <includes id="ringbuffer_8h" name="ringbuffer.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/ringbuffer.h</includes>
   </compound>
   <compound kind="file">
     <name>dataexchange.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>dataexchange_8h.html</filename>
-    <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" imported="no">public.sdk/source/vst/vstaudioeffect.h</includes>
+    <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstaudioeffect.h</includes>
     <class kind="class">Steinberg::Vst::DataExchangeHandler</class>
     <class kind="struct">Steinberg::Vst::DataExchangeHandler::Config</class>
     <class kind="class">Steinberg::Vst::DataExchangeReceiverHandler</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ab1444bade1e2d33212f2fe2e8c760acf</anchor>
-      <arglist>(const DataExchangeBlock &amp;lhs, const DataExchangeBlock &amp;rhs)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1df79da3fa9e3615e855efe07534b62b</anchor>
-      <arglist>(const DataExchangeBlock &amp;lhs, const DataExchangeBlock &amp;rhs)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>memoryibstream.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>memoryibstream_8h.html</filename>
     <class kind="class">Steinberg::ResizableMemoryIBStream</class>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>mpeprocessor.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>mpeprocessor_8cpp.html</filename>
-    <includes id="mpeprocessor_8h" name="mpeprocessor.h" local="yes" imported="no">mpeprocessor.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="mpeprocessor_8h" name="mpeprocessor.h" local="yes" import="no" module="no" objc="no">mpeprocessor.h</includes>
     <namespace>Steinberg::Vst::MPE</namespace>
   </compound>
   <compound kind="file">
@@ -1161,92 +733,7 @@
     <class kind="struct">Steinberg::Vst::MPE::Handler</class>
     <class kind="struct">Steinberg::Vst::MPE::Setup</class>
     <class kind="class">Steinberg::Vst::MPE::Processor</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::MPE</namespace>
-    <member kind="typedef">
-      <type>int32_t</type>
-      <name>NoteID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>ab4311216475ec4d94c471bb87ed1721e</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32_t</type>
-      <name>Pitch</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>acc0ccc0e35cb8a064d3b1675fbef9d44</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>uint32_t</type>
-      <name>Channel</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a3e8994751b152f3d2c0b7af99d4bd825</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>float</type>
-      <name>Velocity</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a7c60eb3978177e5b1583e38914401ec9</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>double</type>
-      <name>NormalizedValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>ab38d25bdae264eebd969558d1a01425b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>Controller</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4c50a079c1d1540bd8a979d731211afa</anchor>
-      <arglist></arglist>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1MPE.html" anchor="a4c50a079c1d1540bd8a979d731211afaaa78578c428179b490a0461e76ba5f319">Pressure</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1MPE.html" anchor="a4c50a079c1d1540bd8a979d731211afaa02129bb861061d1a052c592e2dc6b383">X</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1MPE.html" anchor="a4c50a079c1d1540bd8a979d731211afaa57cec4137b614c87cb4e24a3d003a3e0">Y</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1MPE.html" anchor="a4c50a079c1d1540bd8a979d731211afaa6adf97f83acf6453d4a6a4b1070f3754">None</enumvalue>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>InputMIDIMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376ce</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>MIDICC_0</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376cea9804413280ca3d345c26aef19789dea2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>MIDICC_127</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376ceac54b75a3718ef2d9a20d4383520837fb</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>ChannelPressure</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376cea3711a2ce088455b63a78f9f8f5cfdb3e</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>PitchBend</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376cead0eed86b1606c722a91a0cb9e71305e6</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>Aftertouch</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1MPE.html</anchorfile>
-      <anchor>a4d7f55bab4770c518fc51d11680376cea68292a2609ab656038be0ec343841ed2</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>objcclassbuilder.h</name>
@@ -1255,7 +742,6 @@
     <class kind="struct">Steinberg::ObjCVariable</class>
     <class kind="struct">Steinberg::ObjCInstance</class>
     <class kind="struct">Steinberg::ObjCClassBuilder</class>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>optional.h</name>
@@ -1269,23 +755,18 @@
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>processcontextrequirements_8h.html</filename>
     <class kind="class">Steinberg::Vst::ProcessContextRequirements</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>processdataslicer.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>processdataslicer_8h.html</filename>
     <class kind="class">Steinberg::Vst::ProcessDataSlicer</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>ringbuffer.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>ringbuffer_8h.html</filename>
     <class kind="class">Steinberg::OneReaderOneWriter::RingBuffer</class>
-    <namespace>Steinberg</namespace>
     <namespace>Steinberg::OneReaderOneWriter</namespace>
   </compound>
   <compound kind="file">
@@ -1293,192 +774,51 @@
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>rttransfer_8h.html</filename>
     <class kind="struct">Steinberg::Vst::RTTransferT</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>sampleaccurate.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>sampleaccurate_8h.html</filename>
     <class kind="struct">Steinberg::Vst::SampleAccurate::Parameter</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::SampleAccurate</namespace>
   </compound>
   <compound kind="file">
     <name>stringconvert.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8cpp.html</filename>
-    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" imported="no">public.sdk/source/vst/utility/stringconvert.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
     <namespace>Steinberg::Vst::StringConvert</namespace>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a7b24e433664bafa3dd3f9357ec3f6c4d</anchor>
-      <arglist>(const std::string &amp;utf8Str)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>ab16efb35664dd3b3202ebc37571ae369</anchor>
-      <arglist>(const std::string &amp;utf8Str, Steinberg::Vst::String128 str)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a516c6fb6f3feea42db8958f97e146129</anchor>
-      <arglist>(const std::string &amp;utf8Str, Steinberg::Vst::TChar *str, uint32_t maxCharacters)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a931b7bcc1c22509766093e32f28d2e23</anchor>
-      <arglist>(const Steinberg::Vst::TChar *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>ab20bb6b50e97de71fea1897b45dca317</anchor>
-      <arglist>(const char *str, uint32_t max)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>abff8a368026b5ff872b48945fcf3113f</anchor>
-      <arglist>(const std::u16string &amp;str)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>stringconvert.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::StringConvert</namespace>
     <namespace>VST3</namespace>
     <namespace>VST3::StringConvert</namespace>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a7b24e433664bafa3dd3f9357ec3f6c4d</anchor>
-      <arglist>(const std::string &amp;utf8Str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>abff8a368026b5ff872b48945fcf3113f</anchor>
-      <arglist>(const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>ab20bb6b50e97de71fea1897b45dca317</anchor>
-      <arglist>(const char *str, uint32_t max)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>ab16efb35664dd3b3202ebc37571ae369</anchor>
-      <arglist>(const std::string &amp;utf8Str, Steinberg::Vst::String128 str)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a516c6fb6f3feea42db8958f97e146129</anchor>
-      <arglist>(const std::string &amp;utf8Str, Steinberg::Vst::TChar *str, uint32_t maxCharacters)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::string</type>
-      <name>convert</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1StringConvert.html</anchorfile>
-      <anchor>a931b7bcc1c22509766093e32f28d2e23</anchor>
-      <arglist>(const Steinberg::Vst::TChar *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>const Steinberg::Vst::TChar *</type>
-      <name>toTChar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>adddd2ecf30f024c6f4e679bf1f517086</anchor>
-      <arglist>(const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>toString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a26aac7af543c28a1d31d2e2844eaa669</anchor>
-      <arglist>(NumberT value)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_DEPRECATED_MSG</name>
-      <anchorfile>namespaceVST3_1_1StringConvert.html</anchorfile>
-      <anchor>a203be2421bab29e8a54581095d863309</anchor>
-      <arglist>(&quot;Use Steinberg::Vst::StringConvert::convert (...)&quot;) inline std</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_DEPRECATED_MSG</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af1e63d1e65d82ff5f484e4b5ec7c2860</anchor>
-      <arglist>(&quot;Use Steinberg::Vst::toTChar (...)&quot;) inline const Steinberg</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_DEPRECATED_MSG</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>a44d57efe7fbba4ccc78ca7b189b134ff</anchor>
-      <arglist>(&quot;Use Steinberg::Vst::toString (...)&quot;) std</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>systemtime.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>systemtime_8cpp.html</filename>
-    <includes id="systemtime_8h" name="systemtime.h" local="yes" imported="no">systemtime.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="systemtime_8h" name="systemtime.h" local="yes" import="no" module="no" objc="no">systemtime.h</includes>
   </compound>
   <compound kind="file">
     <name>systemtime.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>systemtime_8h.html</filename>
     <class kind="class">Steinberg::Vst::SystemTime</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>testing.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>testing_8cpp.html</filename>
-    <includes id="testing_8h" name="testing.h" local="yes" imported="no">public.sdk/source/vst/utility/testing.h</includes>
-    <namespace>Steinberg</namespace>
-    <member kind="function">
-      <type></type>
-      <name>DEF_CLASS_IID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac5fa6c7c0083a2a67b209b23b1b12fd2</anchor>
-      <arglist>(ITest) DEF_CLASS_IID(ITestSuite) DEF_CLASS_IID(ITestFactory) namespace Vst</arglist>
-    </member>
+    <includes id="testing_8h" name="testing.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/testing.h</includes>
   </compound>
   <compound kind="file">
     <name>testing.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>testing_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::Test</namespace>
     <member kind="define">
       <type>#define</type>
@@ -1529,119 +869,14 @@
       <anchor>ab04fd0b3ef7a0470bfcd5b220deeda8a</anchor>
       <arglist>(var1, var2)</arglist>
     </member>
-    <member kind="typedef">
-      <type>std::function&lt; bool(ITestResult *)&gt;</type>
-      <name>TestFunc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6de37bbde36975cef7843c563815e004</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>std::function&lt; bool(FUnknown *, ITestResult *)&gt;</type>
-      <name>TestFuncWithContext</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a7f3c745946efb648d6bfbfee4c848f71</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>FUnknown *</type>
-      <name>createTestFactoryInstance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5376c80324dc1db352c25d9195012249</anchor>
-      <arglist>(void *)</arglist>
-    </member>
-    <member kind="function">
-      <type>const FUID &amp;</type>
-      <name>getTestFactoryUID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a42678eb936f6fd039de3af4027213ac9</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ab6e655509c579433631bb4db9bc49e9f</anchor>
-      <arglist>(FIDString name, const char *desc, const TestFunc &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>afd363300a76b48236b3cc7fb437a8822</anchor>
-      <arglist>(FIDString name, const char *desc, TestFunc &amp;&amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a996e09bb27dc5ee45c0c0dcfa398bf15</anchor>
-      <arglist>(FIDString name, const char *desc, const TestFuncWithContext &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa5257bc85533b36017356d89822878a6</anchor>
-      <arglist>(FIDString name, const char *desc, TestFuncWithContext &amp;&amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af0621743f305f87dd320b9bdacff874a</anchor>
-      <arglist>(FIDString name, ITest *test)</arglist>
-    </member>
-    <member kind="function">
-      <type>constexpr bool</type>
-      <name>equal</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
-      <anchor>a9c9857bf54181af4d02c7be0eaedffeb</anchor>
-      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>constexpr bool</type>
-      <name>notEqual</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
-      <anchor>a7a61e58c85b01750f4fb662ffbe586e7</anchor>
-      <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>constexpr bool</type>
-      <name>maxDiff</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
-      <anchor>a258cadbe3c6a686a777c68ffe6745a92</anchor>
-      <arglist>(const T &amp;lhs, const T &amp;rhs, const T &amp;maxDiff) noexcept</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>uid.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>uid_8h.html</filename>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">optional.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">optional.h</includes>
     <class kind="struct">VST3::UID</class>
     <namespace>VST3</namespace>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>a0626bd924334f40b13c5636349ab5728</anchor>
-      <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>aae0ec880f82ddb89e7bbc994c07ce205</anchor>
-      <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af54ea793d1c17f7fe92b1e141bcde68b</anchor>
-      <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>ump.h</name>
@@ -1658,8 +893,6 @@
     <class kind="struct">Steinberg::Vst::UMP::Detail::UMPMessageChannelVoice2</class>
     <class kind="struct">Steinberg::Vst::UMP::Detail::UMPMessageData128</class>
     <class kind="struct">Steinberg::Vst::UMP::UniversalMidiPacketHandlerAdapter</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::UMP</namespace>
     <namespace>Steinberg::Vst::UMP::Detail</namespace>
     <member kind="define">
@@ -1669,177 +902,12 @@
       <anchor>a3df4ece706682a504fa3d08c3b0a04a4</anchor>
       <arglist></arglist>
     </member>
-    <member kind="typedef">
-      <type>UMPMessageUtility::Status</type>
-      <name>Status</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a4d1ca4bc909d5a95c05bdfcaedad1a26</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>IUniversalMidiPacketHandler::SystemRealtime</type>
-      <name>SystemRealtime</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>af6065ad0dbabfa787d39404158af316c</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>ParseSections</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a912340f293ecc1dedf72513159862bfd</anchor>
-      <arglist></arglist>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda94df2a6972ca1fa79411645fe9b42339">Utility</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaa45da96d0bf6575970f2d27af22be28a">System</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdae3e4484656839edbd9f43322b1022996">ChannelVoice1</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda8ff5fa82b4027e7e2ed8a05e5df0662a">SysEx</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaeb7a9ac9f662bc5dc17e8d1f12cf2e17">ChannelVoice2</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d">Data128</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdab1c94ca2fbc3e78fc30069c8d0f01680">All</enumvalue>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>ParsingAction</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a6c9e0211fc7c61b64b68c891db88aa9f</anchor>
-      <arglist></arglist>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a6c9e0211fc7c61b64b68c891db88aa9fae4c38d6d45baf080943d323dd51a2ce8">Break</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a6c9e0211fc7c61b64b68c891db88aa9faa0bfb8e59e6c13fc8d990781f77694fe">Continue</enumvalue>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>MessageType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a1bc3ccf4d567ca83c993c3aaa8124904</anchor>
-      <arglist></arglist>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a94df2a6972ca1fa79411645fe9b42339">Utility</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904aa45da96d0bf6575970f2d27af22be28a">System</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904ae3e4484656839edbd9f43322b1022996">ChannelVoice1</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a8ff5fa82b4027e7e2ed8a05e5df0662a">SysEx</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904aeb7a9ac9f662bc5dc17e8d1f12cf2e17">ChannelVoice2</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a69af36fbac2fdd8ac4322deff3451d1d">Data128</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a02ea1a152064e08f0b4d73ac678fd5ec">Unknown6</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a5d0feb5e862d1330b3932ebc38be7d40">Unknown7</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a1441440508bb5bf1a9a852dcba5ad59a">Unknown8</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904afb06e135ac9816e3ee68dcd380274aa5">Unknown9</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a955ef429197cd7be8c7d9ba2789f6123">UnknownA</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a88414062bbb20776d79cba7bcc493c06">UnknownB</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a98299bbf0e093b84e07509fab1c85e4b">UnknownC</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a29d94a84d36bdfabe6996e8c29ceffbc">UnknownD</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904a4e5561a724dd62f54afebb396bad43ab">UnknownE</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html" anchor="a1bc3ccf4d567ca83c993c3aaa8124904abaaca46ee353402d30aaf3473e852a4c">UnknownF</enumvalue>
-    </member>
-    <member kind="function">
-      <type>size_t</type>
-      <name>parsePackets</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>abed5c161f5b6e35183d00e5540b88d12</anchor>
-      <arglist>(const size_t numWords, const uint32_t *words, const IUniversalMidiPacketHandler &amp;handler)</arglist>
-    </member>
-    <member kind="function">
-      <type>__inline__</type>
-      <name>__attribute__</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a9a414635875f976553059b09e42d86f0</anchor>
-      <arglist>((__always_inline__)) bool onUtilityMessage(const UMPMessageUtility &amp;msg</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>switch</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>abe02337e222d5432aae4ac7a36aa850f</anchor>
-      <arglist>(status)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>switch</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a1f3fdb6446dda5adbe2182b091a8d0c6</anchor>
-      <arglist>(msg.status())</arglist>
-    </member>
-    <member kind="function">
-      <type>__inline__</type>
-      <name>__attribute__</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a80ff4115cdc20ed4feab985e59b647cd</anchor>
-      <arglist>((__always_inline__)) size_t parse(const size_t numWords</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>for</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a70576b77350845bd36cc8d6287cfc1a6</anchor>
-      <arglist>(size_t index=0;index&lt; numWords;)</arglist>
-    </member>
-    <member kind="function">
-      <type>__inline__</type>
-      <name>__attribute__</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a1d902b585868bd79af23fbd142ad8b12</anchor>
-      <arglist>((__always_inline__)) size_t parsePackets(const size_t numWords</arglist>
-    </member>
-    <member kind="variable">
-      <type>__inline__ const IUniversalMidiPacketHandler &amp;</type>
-      <name>handler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>aa544dcbb86dadb152231d09d05be4df3</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>return</type>
-      <name>true</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a930920b2bc42824a5c03be681830f4b2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>auto</type>
-      <name>status</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>abb9d3e7c57cc450afa4f6e25756d4130</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>auto</type>
-      <name>channel</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a2c057d7f287676e3df379121230c4fe1</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>__inline__ const uint32_t *</type>
-      <name>words</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>abfcd94910b058b0f6b0788a6115cd56d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>return</type>
-      <name>numWords</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>afbd4cdb4b13ad6e1264838684c4b8e11</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>__inline__ const uint32_t *</type>
-      <name>words</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>abfcd94910b058b0f6b0788a6115cd56d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>__inline__ const uint32_t const IUniversalMidiPacketHandler &amp;</type>
-      <name>handler</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a33c75c85b16fdd52c51a6b2552673168</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>versionparser.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>versionparser_8h.html</filename>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Version</class>
     <namespace>VST3</namespace>
   </compound>
@@ -1847,298 +915,45 @@
     <name>vst2persistence.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8cpp.html</filename>
-    <includes id="vst2persistence_8h" name="vst2persistence.h" local="yes" imported="no">public.sdk/source/vst/utility/vst2persistence.h</includes>
+    <includes id="vst2persistence_8h" name="vst2persistence.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/vst2persistence.h</includes>
     <namespace>VST3</namespace>
     <namespace>VST3::IO</namespace>
-    <member kind="enumeration">
-      <type></type>
-      <name>Error</name>
-      <anchorfile>vst2persistence_8cpp.html</anchorfile>
-      <anchor>a2c3e4bb40f36b262a5214e2da2bca9c5</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>SeekMode</name>
-      <anchorfile>vst2persistence_8cpp.html</anchorfile>
-      <anchor>a84d76d32dd4ef90e5a90cf759b7e563f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>Optional&lt; Vst2xState &gt;</type>
-      <name>tryVst2StateLoad</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>aadc6b99109a9b056a0176f49f9220822</anchor>
-      <arglist>(Steinberg::IBStream &amp;stream, Optional&lt; int32_t &gt; vst2xUniqueID={}) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>writeVst2State</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af4c57cb866e8a8343d790c6d60c8a21b</anchor>
-      <arglist>(const Vst2xState &amp;state, Steinberg::IBStream &amp;stream, bool writeBypassState=true) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>Optional&lt; Vst2xProgram &gt;</type>
-      <name>tryVst2ProgramLoad</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>ab373c1cff2f2f5cbb560d5631ca9cf11</anchor>
-      <arglist>(Steinberg::IBStream &amp;stream, Optional&lt; int32_t &gt; vst2xUniqueID) noexcept</arglist>
-    </member>
-    <member kind="variable">
-      <type>Error</type>
-      <name>error</name>
-      <anchorfile>vst2persistence_8cpp.html</anchorfile>
-      <anchor>a5e7e27258e59f4c4a80e5fb757024a2d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>uint64_t</type>
-      <name>bytes</name>
-      <anchorfile>vst2persistence_8cpp.html</anchorfile>
-      <anchor>a28cb1df25182ebaa2431de345906e862</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>void *</type>
-      <name>ptr</name>
-      <anchorfile>vst2persistence_8cpp.html</anchorfile>
-      <anchor>ab6679b8a3625461c4f6c523048234022</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vst2persistence.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8h.html</filename>
-    <includes id="optional_8h" name="optional.h" local="yes" imported="no">public.sdk/source/vst/utility/optional.h</includes>
+    <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Vst2xProgram</class>
     <class kind="struct">VST3::Vst2xState</class>
     <namespace>VST3</namespace>
-    <member kind="typedef">
-      <type>std::vector&lt; int8_t &gt;</type>
-      <name>Vst2xChunk</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>ae40166dd2c8a5e7b724178bf1d8b4289</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>Optional&lt; Vst2xState &gt;</type>
-      <name>tryVst2StateLoad</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>aadc6b99109a9b056a0176f49f9220822</anchor>
-      <arglist>(Steinberg::IBStream &amp;stream, Optional&lt; int32_t &gt; vst2xUniqueID={}) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>writeVst2State</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af4c57cb866e8a8343d790c6d60c8a21b</anchor>
-      <arglist>(const Vst2xState &amp;state, Steinberg::IBStream &amp;stream, bool writeBypassState=true) noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>Optional&lt; Vst2xProgram &gt;</type>
-      <name>tryVst2ProgramLoad</name>
-      <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>ab373c1cff2f2f5cbb560d5631ca9cf11</anchor>
-      <arglist>(Steinberg::IBStream &amp;stream, Optional&lt; int32_t &gt; vst2xUniqueID) noexcept</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8cpp.html</filename>
-    <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" imported="no">vstaudioeffect.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" import="no" module="no" objc="no">vstaudioeffect.h</includes>
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8h.html</filename>
-    <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">public.sdk/source/vst/vstbus.h</includes>
-    <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" imported="no">public.sdk/source/vst/vstcomponent.h</includes>
-    <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" imported="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
+    <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstbus.h</includes>
+    <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponent.h</includes>
+    <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
     <class kind="class">Steinberg::Vst::AudioEffect</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vstaudioprocessoralgo.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioprocessoralgo_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::Algo</namespace>
-    <member kind="function">
-      <type>void **</type>
-      <name>getChannelBuffersPointer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad874542fcca17d454d0d4f91a6231fa7</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, const AudioBusBuffers &amp;bufs)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>getSampleFramesSizeInBytes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa9dfbe077a3078558451ff526b305744</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, int32 numSamples)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getChannelMask</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac5416c9248a6b737903df6e7d35f67e3</anchor>
-      <arglist>(int32 numChannels)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a18aea9feb58dbe1f6201eeee6c072155</anchor>
-      <arglist>(AudioBusBuffers *audioBusBuffers, int32 busCount, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a84892f45159b0bd1836030284f9eefc7</anchor>
-      <arglist>(AudioBusBuffers &amp;audioBuffer, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a4cb4ac5d134f87d28833172d318eee91</anchor>
-      <arglist>(AudioBusBuffers &amp;audioBuffer, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a15c1c19c964ef2e7e86a9b3ffcf9e4c5</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer1, AudioBusBuffers &amp;buffer2, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>adf74545ab50d6cd580ca0c81cc5918b0</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer1, AudioBusBuffers &amp;buffer2, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>copy32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a965e36149619ace13036a8a766bb0404</anchor>
-      <arglist>(AudioBusBuffers *src, AudioBusBuffers *dest, int32 sliceSize, int32 startIndex)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>copy64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a26d0efd0ec8967f561d09ef4bcae7655</anchor>
-      <arglist>(AudioBusBuffers *src, AudioBusBuffers *dest, int32 sliceSize, int32 startIndex)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>clear32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a4979d1f1ce8a6870d7bab7c0cce499dc</anchor>
-      <arglist>(AudioBusBuffers *audioBusBuffers, int32 sampleCount, int32 busCount=1)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>clear64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a6206b73e5b2a05df6f4c2ea49735ca45</anchor>
-      <arglist>(AudioBusBuffers *audioBusBuffers, int32 sampleCount, int32 busCount=1)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>mix32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a24782ecf71e6cf327e0614ec373624cc</anchor>
-      <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>mix64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a462ca40a45befc344ea3de34256c067b</anchor>
-      <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>multiply</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>aca95440bf753e70fe7a8a00d95e83f9a</anchor>
-      <arglist>(T *srcBuffer, T *destBuffer, int32 sampleCount, T factor)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>multiply32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ab0290cfe659c7a4de89c7ef45af643a5</anchor>
-      <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount, float factor)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>multiply64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ac727ec5263dbcfffe6796f9b5012fcea</anchor>
-      <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount, double factor)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isSilent32</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ad3fbbf9aba45d6d78acc406f7177ddd2</anchor>
-      <arglist>(AudioBusBuffers &amp;audioBuffer, int32 sampleCount, int32 startIndex=0)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isSilent64</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ab9a15d2a72d5500380bb5fa49551abf3</anchor>
-      <arglist>(AudioBusBuffers &amp;audioBuffer, int32 sampleCount, int32 startIndex=0)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>acaec494e28f0a1988b0a247c29c6d7db</anchor>
-      <arglist>(IEventList *eventList, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>aff127ca5c383c8f60dfabf2e385e6478</anchor>
-      <arglist>(IParamValueQueue &amp;paramQueue, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreachLast</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a25ed939a301649331125f0929334df23</anchor>
-      <arglist>(IParamValueQueue &amp;paramQueue, const T &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>foreach</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a8321b46d3e8a41462d8b68c661568507</anchor>
-      <arglist>(IParameterChanges *changes, const T &amp;func)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstbus.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbus_8cpp.html</filename>
-    <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">vstbus.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">vstbus.h</includes>
   </compound>
   <compound kind="file">
     <name>vstbus.h</name>
@@ -2148,19 +963,15 @@
     <class kind="class">Steinberg::Vst::EventBus</class>
     <class kind="class">Steinberg::Vst::AudioBus</class>
     <class kind="class">Steinberg::Vst::BusList</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vstbypassprocessor.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbypassprocessor_8h.html</filename>
-    <includes id="vstspeakerarray_8h" name="vstspeakerarray.h" local="yes" imported="no">vstspeakerarray.h</includes>
+    <includes id="vstspeakerarray_8h" name="vstspeakerarray.h" local="yes" import="no" module="no" objc="no">vstspeakerarray.h</includes>
     <class kind="class">Steinberg::Vst::AudioBuffer</class>
     <class kind="class">Steinberg::Vst::BypassProcessor</class>
     <class kind="struct">Steinberg::Vst::BypassProcessor::Delay</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>kMaxChannelsSupported</name>
@@ -2173,175 +984,71 @@
     <name>vstcomponent.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8cpp.html</filename>
-    <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" imported="no">vstcomponent.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>tresult</type>
-      <name>getSpeakerChannelIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a659fcad9bdc947491c6e057f59eacae2</anchor>
-      <arglist>(SpeakerArrangement arrangement, uint64 speaker, int32 &amp;channel)</arglist>
-    </member>
+    <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" import="no" module="no" objc="no">vstcomponent.h</includes>
   </compound>
   <compound kind="file">
     <name>vstcomponent.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8h.html</filename>
-    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">public.sdk/source/vst/vstcomponentbase.h</includes>
-    <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">public.sdk/source/vst/vstbus.h</includes>
+    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponentbase.h</includes>
+    <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstbus.h</includes>
     <class kind="class">Steinberg::Vst::Component</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>tresult</type>
-      <name>getSpeakerChannelIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a659fcad9bdc947491c6e057f59eacae2</anchor>
-      <arglist>(SpeakerArrangement arrangement, uint64 speaker, int32 &amp;channel)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8cpp.html</filename>
-    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">vstcomponentbase.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">vstcomponentbase.h</includes>
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8h.html</filename>
     <class kind="class">Steinberg::Vst::ComponentBase</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8cpp.html</filename>
-    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.h</includes>
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8h.html</filename>
-    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" imported="no">public.sdk/source/vst/vstcomponentbase.h</includes>
-    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">public.sdk/source/vst/vstparameters.h</includes>
-    <includes id="pluginview_8h" name="pluginview.h" local="yes" imported="no">public.sdk/source/common/pluginview.h</includes>
+    <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponentbase.h</includes>
+    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstparameters.h</includes>
+    <includes id="pluginview_8h" name="pluginview.h" local="yes" import="no" module="no" objc="no">public.sdk/source/common/pluginview.h</includes>
     <class kind="class">Steinberg::Vst::EditController</class>
     <class kind="class">Steinberg::Vst::EditorView</class>
     <class kind="class">Steinberg::Vst::Unit</class>
     <class kind="class">Steinberg::Vst::ProgramList</class>
     <class kind="class">Steinberg::Vst::ProgramListWithPitchNames</class>
     <class kind="class">Steinberg::Vst::EditControllerEx1</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vsteventshelper.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteventshelper_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::Helpers</namespace>
-    <member kind="function">
-      <type>T</type>
-      <name>boundTo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>af6b5e0825fbe7c215d5e05b118ab2e1e</anchor>
-      <arglist>(T minval, T maxval, T x)</arglist>
-    </member>
-    <member kind="function">
-      <type>Event &amp;</type>
-      <name>init</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7e6b16689c9acd187b3206c16bdd7ebe</anchor>
-      <arglist>(Event &amp;event, uint16 type, int32 busIndex=0, int32 sampleOffset=0, TQuarterNotes ppqPosition=0, uint16 flags=0)</arglist>
-    </member>
-    <member kind="function">
-      <type>ParamValue</type>
-      <name>getMIDINormValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>acee21ef070bcb18b50ed4b1376462ce7</anchor>
-      <arglist>(uint8 value)</arglist>
-    </member>
-    <member kind="function">
-      <type>int8</type>
-      <name>getMIDICCOutValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a3e5296d9f56910f7b76bb836eeaf3440</anchor>
-      <arglist>(ParamValue value)</arglist>
-    </member>
-    <member kind="function">
-      <type>int16</type>
-      <name>getPitchBendValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a47ddebf598d6a776308246e7716deac0</anchor>
-      <arglist>(const LegacyMIDICCOutEvent &amp;e)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>setPitchBendValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a5d111f2ca95494fd25050552be927eef</anchor>
-      <arglist>(LegacyMIDICCOutEvent &amp;e, ParamValue value)</arglist>
-    </member>
-    <member kind="function">
-      <type>float</type>
-      <name>getNormPitchBendValue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7773e0a672be20e05b01258dcea10ddf</anchor>
-      <arglist>(const LegacyMIDICCOutEvent &amp;e)</arglist>
-    </member>
-    <member kind="function">
-      <type>LegacyMIDICCOutEvent &amp;</type>
-      <name>initLegacyMIDICCOutEvent</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a09a51ba42075011a7e35e26746922cbb</anchor>
-      <arglist>(Event &amp;event, uint8 controlNumber, uint8 channel=0, int8 value=0, int8 value2=0)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8cpp.html</filename>
-    <includes id="vstgui__win32__bundle__support_8h" name="vstgui_win32_bundle_support.h" local="yes" imported="no">vstgui_win32_bundle_support.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>void</type>
-      <name>setupVSTGUIBundleSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5fe69fef877c637b191f7d45ad040849</anchor>
-      <arglist>(void *hInstance)</arglist>
-    </member>
+    <includes id="vstgui__win32__bundle__support_8h" name="vstgui_win32_bundle_support.h" local="yes" import="no" module="no" objc="no">vstgui_win32_bundle_support.h</includes>
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>void</type>
-      <name>setupVSTGUIBundleSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5fe69fef877c637b191f7d45ad040849</anchor>
-      <arglist>(void *hInstance)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstguieditor.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8cpp.html</filename>
-    <includes id="vstguieditor_8h" name="vstguieditor.h" local="yes" imported="no">vstguieditor.h</includes>
+    <includes id="vstguieditor_8h" name="vstguieditor.h" local="yes" import="no" module="no" objc="no">vstguieditor.h</includes>
     <namespace>VSTGUI</namespace>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>VSTGUI_NEEDS_INIT_LIB</name>
@@ -2356,22 +1063,13 @@
       <anchor>ab302317af2233cef9ab2bd2a2d89b60f</anchor>
       <arglist></arglist>
     </member>
-    <member kind="variable">
-      <type>void *</type>
-      <name>soHandle</name>
-      <anchorfile>namespaceVSTGUI.html</anchorfile>
-      <anchor>acfe0fc5dd43523202fab9c1ec6ef4e42</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstguieditor.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8h.html</filename>
-    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">vsteditcontroller.h</includes>
+    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">vsteditcontroller.h</includes>
     <class kind="class">Steinberg::Vst::VSTGUIEditor</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>VSTGUI_INT32</name>
@@ -2384,31 +1082,19 @@
     <name>vsthelpers.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsthelpers_8h.html</filename>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <namespace>Steinberg::Vst::Helpers</namespace>
-    <member kind="function">
-      <type>tresult</type>
-      <name>isProjectState</name>
-      <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7f02c298f47c0db9090be5aacb05f57b</anchor>
-      <arglist>(IBStream *state)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstinitiids.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstinitiids_8cpp.html</filename>
-    <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstnoteexpressiontypes_8cpp.html</filename>
-    <includes id="vstnoteexpressiontypes_8h" name="vstnoteexpressiontypes.h" local="yes" imported="no">vstnoteexpressiontypes.h</includes>
-    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">vstparameters.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstnoteexpressiontypes_8h" name="vstnoteexpressiontypes.h" local="yes" import="no" module="no" objc="no">vstnoteexpressiontypes.h</includes>
+    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">vstparameters.h</includes>
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.h</name>
@@ -2417,16 +1103,12 @@
     <class kind="class">Steinberg::Vst::NoteExpressionType</class>
     <class kind="class">Steinberg::Vst::RangeNoteExpressionType</class>
     <class kind="class">Steinberg::Vst::NoteExpressionTypeContainer</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vstparameters.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstparameters_8cpp.html</filename>
-    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">vstparameters.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">vstparameters.h</includes>
   </compound>
   <compound kind="file">
     <name>vstparameters.h</name>
@@ -2436,58 +1118,12 @@
     <class kind="class">Steinberg::Vst::RangeParameter</class>
     <class kind="class">Steinberg::Vst::StringListParameter</class>
     <class kind="class">Steinberg::Vst::ParameterContainer</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vstpresetfile.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstpresetfile_8cpp.html</filename>
-    <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" imported="no">vstpresetfile.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="function">
-      <type>const ChunkID &amp;</type>
-      <name>getChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aecb30226876947afe7079bc185597f0c</anchor>
-      <arglist>(ChunkType type)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>verify</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5be931a78fa765babf69c7dc76e0c800</anchor>
-      <arglist>(tresult result)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>copyStream</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1c0494fa27bea9e830204ab0451615c9</anchor>
-      <arglist>(IBStream *inStream, IBStream *outStream)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1d9350b127ef8ad03a8025e93853b433</anchor>
-      <arglist>(FileStream, IBStream, IBStream::iid) tresult FileStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_REFCOUNT</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6abddc24208fd641b8776e4be24d3cad</anchor>
-      <arglist>(ReadOnlyBStream) ReadOnlyBStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9eb03817ce43297a3187ab5dc9f3340a</anchor>
-      <arglist>(BufferStream, IBStream, IBStream::iid) BufferStream</arglist>
-    </member>
+    <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" import="no" module="no" objc="no">vstpresetfile.h</includes>
   </compound>
   <compound kind="file">
     <name>vstpresetfile.h</name>
@@ -2498,86 +1134,12 @@
     <class kind="class">Steinberg::Vst::FileStream</class>
     <class kind="class">Steinberg::Vst::ReadOnlyBStream</class>
     <class kind="class">Steinberg::Vst::BufferStream</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <member kind="typedef">
-      <type>char[4]</type>
-      <name>ChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>adaf388baf0aebf53f3a12e1055fbd7ec</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>ChunkType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kHeader</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da247a9a25a5fcf2b9a22b25874fdbb32b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kComponentState</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da847efe92e412b647b41977961910049d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kControllerState</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da714cee5be2553879ce58605d04b77319</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kProgramData</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da6f13cbddc9f9d7754192b09f424abfb0</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kMetaInfo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6dade0a9c73b08ec63caa0c8dbef1a4244b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kChunkList</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da676f1a84ce41206b756a3baa743bb968</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kNumPresetChunks</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6daf4670cf4bdaa52d4168191c2bfb1ac6b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>const ChunkID &amp;</type>
-      <name>getChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aecb30226876947afe7079bc185597f0c</anchor>
-      <arglist>(ChunkType type)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isEqualID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a235c00ee8509a0532c542fc91326849b</anchor>
-      <arglist>(const ChunkID id1, const ChunkID id2)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>vstrepresentation.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8cpp.html</filename>
-    <includes id="vstrepresentation_8h" name="vstrepresentation.h" local="yes" imported="no">vstrepresentation.h</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstrepresentation_8h" name="vstrepresentation.h" local="yes" import="no" module="no" objc="no">vstrepresentation.h</includes>
     <member kind="define">
       <type>#define</type>
       <name>START_TAG_STRING</name>
@@ -2612,17 +1174,13 @@
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8h.html</filename>
     <class kind="class">Steinberg::Vst::XmlRepresentationHelper</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>vstsinglecomponenteffect.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8cpp.html</filename>
-    <includes id="vstsinglecomponenteffect_8h" name="vstsinglecomponenteffect.h" local="yes" imported="no">vstsinglecomponenteffect.h</includes>
-    <includes id="vsteditcontroller_8cpp" name="vsteditcontroller.cpp" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.cpp</includes>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
+    <includes id="vstsinglecomponenteffect_8h" name="vstsinglecomponenteffect.h" local="yes" import="no" module="no" objc="no">vstsinglecomponenteffect.h</includes>
+    <includes id="vsteditcontroller_8cpp" name="vsteditcontroller.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.cpp</includes>
     <member kind="define">
       <type>#define</type>
       <name>setState</name>
@@ -2642,13 +1200,11 @@
     <name>vstsinglecomponenteffect.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8h.html</filename>
-    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" imported="no">public.sdk/source/vst/vsteditcontroller.h</includes>
-    <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" imported="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
-    <includes id="vstbus_8h" name="vstbus.h" local="yes" imported="no">public.sdk/source/vst/vstbus.h</includes>
-    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" imported="no">public.sdk/source/vst/vstparameters.h</includes>
+    <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.h</includes>
+    <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
+    <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstbus.h</includes>
+    <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstparameters.h</includes>
     <class kind="class">Steinberg::Vst::SingleComponentEffect</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
     <member kind="define">
       <type>#define</type>
       <name>setState</name>
@@ -2669,8 +1225,6 @@
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstspeakerarray_8h.html</filename>
     <class kind="class">Steinberg::Vst::SpeakerArray</class>
-    <namespace>Steinberg</namespace>
-    <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="class">
     <name>Steinberg::Vst::AudioBuffer</name>
@@ -2750,7 +1304,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::AudioBus</name>
     <filename>classSteinberg_1_1Vst_1_1AudioBus.html</filename>
-    <base>Steinberg::Vst::Bus</base>
+    <base>Bus</base>
     <member kind="function">
       <type></type>
       <name>AudioBus</name>
@@ -2783,9 +1337,9 @@
   <compound kind="class">
     <name>Steinberg::Vst::AudioEffect</name>
     <filename>classSteinberg_1_1Vst_1_1AudioEffect.html</filename>
-    <base>Steinberg::Vst::Component</base>
-    <base>Steinberg::Vst::IAudioProcessor</base>
-    <base>Steinberg::Vst::IProcessContextRequirements</base>
+    <base>Component</base>
+    <base>IAudioProcessor</base>
+    <base>IProcessContextRequirements</base>
     <member kind="function">
       <type></type>
       <name>AudioEffect</name>
@@ -2923,7 +1477,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::BufferStream</name>
     <filename>classSteinberg_1_1Vst_1_1BufferStream.html</filename>
-    <base>Steinberg::IBStream</base>
+    <base>IBStream</base>
     <member kind="function">
       <type></type>
       <name>BufferStream</name>
@@ -3346,8 +1900,8 @@
   <compound kind="class">
     <name>Steinberg::Vst::Component</name>
     <filename>classSteinberg_1_1Vst_1_1Component.html</filename>
-    <base>Steinberg::Vst::ComponentBase</base>
-    <base>Steinberg::Vst::IComponent</base>
+    <base>ComponentBase</base>
+    <base>IComponent</base>
     <member kind="function">
       <type></type>
       <name>Component</name>
@@ -3513,8 +2067,8 @@
   <compound kind="class">
     <name>Steinberg::Vst::ComponentBase</name>
     <filename>classSteinberg_1_1Vst_1_1ComponentBase.html</filename>
-    <base>Steinberg::IPluginBase</base>
-    <base>Steinberg::Vst::IConnectionPoint</base>
+    <base>IPluginBase</base>
+    <base>IConnectionPoint</base>
     <member kind="function">
       <type></type>
       <name>ComponentBase</name>
@@ -3656,7 +2210,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::ConnectionProxy</name>
     <filename>classSteinberg_1_1Vst_1_1ConnectionProxy.html</filename>
-    <base>Steinberg::Vst::IConnectionPoint</base>
+    <base>IConnectionPoint</base>
     <member kind="function">
       <type></type>
       <name>ConnectionProxy</name>
@@ -3724,7 +2278,7 @@
   <compound kind="class">
     <name>Steinberg::CPluginFactory</name>
     <filename>classSteinberg_1_1CPluginFactory.html</filename>
-    <base>Steinberg::IPluginFactory3</base>
+    <base>IPluginFactory3</base>
     <member kind="function">
       <type></type>
       <name>CPluginFactory</name>
@@ -3862,7 +2416,7 @@
   <compound kind="class">
     <name>Steinberg::CPluginView</name>
     <filename>classSteinberg_1_1CPluginView.html</filename>
-    <base>Steinberg::IPlugView</base>
+    <base>IPlugView</base>
     <member kind="function">
       <type></type>
       <name>CPluginView</name>
@@ -4269,9 +2823,9 @@
   <compound kind="class">
     <name>Steinberg::Vst::EditController</name>
     <filename>classSteinberg_1_1Vst_1_1EditController.html</filename>
-    <base>Steinberg::Vst::ComponentBase</base>
-    <base>Steinberg::Vst::IEditController</base>
-    <base>Steinberg::Vst::IEditController2</base>
+    <base>ComponentBase</base>
+    <base>IEditController</base>
+    <base>IEditController2</base>
     <member kind="function">
       <type></type>
       <name>EditController</name>
@@ -4528,20 +3082,20 @@
   <compound kind="class">
     <name>Steinberg::Vst::EditControllerEx1</name>
     <filename>classSteinberg_1_1Vst_1_1EditControllerEx1.html</filename>
-    <base>Steinberg::Vst::EditController</base>
-    <base>Steinberg::Vst::IUnitInfo</base>
+    <base>EditController</base>
+    <base>IUnitInfo</base>
     <member kind="typedef">
-      <type>(EditControllerEx1, EditController) DEFINE_INTERFACES DEF_INTERFACE(IUnitInfo) END_DEFINE_INTERFACES(EditController) REFCOUNT_METHODS(EditController) protected std::map&lt; ProgramListID, ProgramListVector::size_type &gt;</type>
+      <type>std::map&lt; ProgramListID, ProgramListVector::size_type &gt;</type>
       <name>ProgramIndexMap</name>
       <anchorfile>classSteinberg_1_1Vst_1_1EditControllerEx1.html</anchorfile>
-      <anchor>a1926d11ac5eb67ab443e956596b136bf</anchor>
+      <anchor>a9ad9da59b7e996f892be2d9150eb72d2</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>std::vector&lt; IPtr&lt; Unit &gt; &gt;</type>
       <name>UnitVector</name>
       <anchorfile>classSteinberg_1_1Vst_1_1EditControllerEx1.html</anchorfile>
-      <anchor>a687ee1e9d187cd0224fbcc4750addb5c</anchor>
+      <anchor>a17bdb5b5f4819158a18138198cb4dddc</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -4730,7 +3284,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::EditorView</name>
     <filename>classSteinberg_1_1Vst_1_1EditorView.html</filename>
-    <base>Steinberg::CPluginView</base>
+    <base>CPluginView</base>
     <member kind="function">
       <type></type>
       <name>EditorView</name>
@@ -4802,7 +3356,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::EventBus</name>
     <filename>classSteinberg_1_1Vst_1_1EventBus.html</filename>
-    <base>Steinberg::Vst::Bus</base>
+    <base>Bus</base>
     <member kind="function">
       <type></type>
       <name>EventBus</name>
@@ -4835,7 +3389,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::EventList</name>
     <filename>classSteinberg_1_1Vst_1_1EventList.html</filename>
-    <base>Steinberg::Vst::IEventList</base>
+    <base>IEventList</base>
     <member kind="function">
       <type></type>
       <name>EventList</name>
@@ -5040,7 +3594,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::FileStream</name>
     <filename>classSteinberg_1_1Vst_1_1FileStream.html</filename>
-    <base>Steinberg::IBStream</base>
+    <base>IBStream</base>
     <member kind="function">
       <type>DECLARE_FUNKNOWN_METHODS tresult</type>
       <name>read</name>
@@ -5182,7 +3736,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::HostApplication</name>
     <filename>classSteinberg_1_1Vst_1_1HostApplication.html</filename>
-    <base>Steinberg::Vst::IHostApplication</base>
+    <base>IHostApplication</base>
     <member kind="function">
       <type></type>
       <name>HostApplication</name>
@@ -5222,7 +3776,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::HostAttributeList</name>
     <filename>classSteinberg_1_1Vst_1_1HostAttributeList.html</filename>
-    <base>Steinberg::Vst::IAttributeList</base>
+    <base>IAttributeList</base>
     <member kind="function">
       <type>tresult</type>
       <name>setInt</name>
@@ -5336,7 +3890,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::HostMessage</name>
     <filename>classSteinberg_1_1Vst_1_1HostMessage.html</filename>
-    <base>Steinberg::Vst::IMessage</base>
+    <base>IMessage</base>
     <member kind="function">
       <type></type>
       <name>HostMessage</name>
@@ -5376,7 +3930,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::HostProcessData</name>
     <filename>classSteinberg_1_1Vst_1_1HostProcessData.html</filename>
-    <base>Steinberg::Vst::ProcessData</base>
+    <base>ProcessData</base>
     <member kind="function">
       <type></type>
       <name>HostProcessData</name>
@@ -6050,7 +4604,7 @@
   <compound kind="class">
     <name>Steinberg::MemoryStream</name>
     <filename>classSteinberg_1_1MemoryStream.html</filename>
-    <base>Steinberg::IBStream</base>
+    <base>IBStream</base>
     <member kind="function">
       <type></type>
       <name>MemoryStream</name>
@@ -6790,7 +5344,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::ParamChanges</name>
     <filename>classSteinberg_1_1Vst_1_1ParamChanges.html</filename>
-    <base>Steinberg::Vst::IParamValueQueue</base>
+    <base>IParamValueQueue</base>
     <member kind="function">
       <type>DECLARE_FUNKNOWN_METHODS</type>
       <name>ParamChanges</name>
@@ -7150,7 +5704,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::ParameterChanges</name>
     <filename>classSteinberg_1_1Vst_1_1ParameterChanges.html</filename>
-    <base>Steinberg::Vst::IParameterChanges</base>
+    <base>IParameterChanges</base>
     <member kind="function">
       <type></type>
       <name>ParameterChanges</name>
@@ -7388,7 +5942,7 @@
       <type>std::vector&lt; IPtr&lt; Parameter &gt; &gt;</type>
       <name>ParameterPtrVector</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ParameterContainer.html</anchorfile>
-      <anchor>a4741f281ae770bca7eef575bc328452c</anchor>
+      <anchor>a6c53528dbca2a65e9fd7e368c4e17b27</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef" protection="protected">
@@ -7441,7 +5995,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::ParameterValueQueue</name>
     <filename>classSteinberg_1_1Vst_1_1ParameterValueQueue.html</filename>
-    <base>Steinberg::Vst::IParamValueQueue</base>
+    <base>IParamValueQueue</base>
     <class kind="struct">Steinberg::Vst::ParameterValueQueue::ParameterQueueValue</class>
     <member kind="function">
       <type></type>
@@ -7641,7 +6195,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::PlugInterfaceSupport</name>
     <filename>classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html</filename>
-    <base>Steinberg::Vst::IPlugInterfaceSupport</base>
+    <base>IPlugInterfaceSupport</base>
     <member kind="function">
       <type></type>
       <name>PlugInterfaceSupport</name>
@@ -8130,13 +6684,13 @@
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>a3b365bd6fd61c94a8ec8ae4fb7a7461aa7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>adf764cbdea00d65edcd07bb9953ad2b7a7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>a3b365bd6fd61c94a8ec8ae4fb7a7461aa7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">
@@ -8241,7 +6795,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::InterAppAudio::PresetManager</name>
     <filename>classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html</filename>
-    <base>Steinberg::Vst::IInterAppAudioPresetManager</base>
+    <base>IInterAppAudioPresetManager</base>
     <member kind="function">
       <type></type>
       <name>PresetManager</name>
@@ -8595,10 +7149,10 @@
     <name>Steinberg::Vst::ProgramList</name>
     <filename>classSteinberg_1_1Vst_1_1ProgramList.html</filename>
     <member kind="typedef">
-      <type>(ProgramList, FObject) protected std::vector&lt; std::u16string &gt;</type>
+      <type>std::vector&lt; std::u16string &gt;</type>
       <name>StringVector</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ProgramList.html</anchorfile>
-      <anchor>afe43a7b90531776c45c8249e3d8f9ece</anchor>
+      <anchor>a6abb6494190bf7743511db2c1c5075ae</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -8706,6 +7260,13 @@
       <anchor>a1d7e6db44f9cda4d229ae18b9ca157f1</anchor>
       <arglist>()</arglist>
     </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual void</type>
+      <name>clearPrograms</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ProgramList.html</anchorfile>
+      <anchor>ac5ae9282675ede75ad2cbc4f1aedaf1b</anchor>
+      <arglist>()</arglist>
+    </member>
     <member kind="variable">
       <type>ProgramListInfo</type>
       <name>info</name>
@@ -8745,12 +7306,12 @@
   <compound kind="class">
     <name>Steinberg::Vst::ProgramListWithPitchNames</name>
     <filename>classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html</filename>
-    <base>Steinberg::Vst::ProgramList</base>
+    <base>ProgramList</base>
     <member kind="typedef">
-      <type>(ProgramListWithPitchNames, ProgramList) protected std::vector&lt; PitchNameMap &gt;</type>
+      <type>std::vector&lt; PitchNameMap &gt;</type>
       <name>PitchNamesVector</name>
       <anchorfile>classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html</anchorfile>
-      <anchor>a8af35b796490c0fc57e0152bfa30ceb6</anchor>
+      <anchor>a33839446939346908f990b9ce8e26def</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -8806,7 +7367,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::RangeNoteExpressionType</name>
     <filename>classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html</filename>
-    <base>Steinberg::Vst::NoteExpressionType</base>
+    <base>NoteExpressionType</base>
     <member kind="function">
       <type></type>
       <name>RangeNoteExpressionType</name>
@@ -8867,7 +7428,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::RangeParameter</name>
     <filename>classSteinberg_1_1Vst_1_1RangeParameter.html</filename>
-    <base>Steinberg::Vst::Parameter</base>
+    <base>Parameter</base>
     <member kind="function">
       <type></type>
       <name>RangeParameter</name>
@@ -8956,7 +7517,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::ReadOnlyBStream</name>
     <filename>classSteinberg_1_1Vst_1_1ReadOnlyBStream.html</filename>
-    <base>Steinberg::IBStream</base>
+    <base>IBStream</base>
     <member kind="function">
       <type></type>
       <name>ReadOnlyBStream</name>
@@ -9136,6 +7697,13 @@
     </member>
     <member kind="function">
       <type>bool</type>
+      <name>push</name>
+      <anchorfile>classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html</anchorfile>
+      <anchor>a948c8b8f45fbe9a63891c80210972dcf</anchor>
+      <arglist>(const std::initializer_list&lt; ItemT &gt; &amp;items) noexcept</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
       <name>pop</name>
       <anchorfile>classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html</anchorfile>
       <anchor>a6665df5057fa2792c8e67084e9246cf9</anchor>
@@ -9246,10 +7814,10 @@
   <compound kind="class">
     <name>Steinberg::Vst::SingleComponentEffect</name>
     <filename>classSteinberg_1_1Vst_1_1SingleComponentEffect.html</filename>
-    <base>Steinberg::Vst::EditControllerEx1</base>
-    <base>Steinberg::Vst::IComponent</base>
-    <base>Steinberg::Vst::IAudioProcessor</base>
-    <base>Steinberg::Vst::IProcessContextRequirements</base>
+    <base>EditControllerEx1</base>
+    <base>IComponent</base>
+    <base>IAudioProcessor</base>
+    <base>IProcessContextRequirements</base>
     <member kind="function">
       <type></type>
       <name>SingleComponentEffect</name>
@@ -9549,7 +8117,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>abc6126af1d45847bc59afa0aa3216b04aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>a35e02a87060ffafba1a33c838f4a313baceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -9562,7 +8130,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>abc6126af1d45847bc59afa0aa3216b04aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>a35e02a87060ffafba1a33c838f4a313baceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -9625,7 +8193,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::StringListParameter</name>
     <filename>classSteinberg_1_1Vst_1_1StringListParameter.html</filename>
-    <base>Steinberg::Vst::Parameter</base>
+    <base>Parameter</base>
     <member kind="function">
       <type></type>
       <name>StringListParameter</name>
@@ -9660,6 +8228,13 @@
       <anchorfile>classSteinberg_1_1Vst_1_1StringListParameter.html</anchorfile>
       <anchor>ad17abefa165bfcf74201afba909a3d51</anchor>
       <arglist>(int32 index, const String128 string)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual void</type>
+      <name>clear</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1StringListParameter.html</anchorfile>
+      <anchor>ac8bb3912a3ce86b15842e79d0b421204</anchor>
+      <arglist>()</arglist>
     </member>
     <member kind="function">
       <type>void</type>
@@ -9700,7 +8275,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::StringResult</name>
     <filename>classSteinberg_1_1Vst_1_1StringResult.html</filename>
-    <base>Steinberg::IStringResult</base>
+    <base>IStringResult</base>
     <member kind="function">
       <type>const std::string &amp;</type>
       <name>get</name>
@@ -9793,7 +8368,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::TestBase</name>
     <filename>classSteinberg_1_1Vst_1_1TestBase.html</filename>
-    <base>Steinberg::ITest</base>
+    <base>ITest</base>
     <member kind="function">
       <type></type>
       <name>TestBase</name>
@@ -9935,7 +8510,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::TestEnh</name>
     <filename>classSteinberg_1_1Vst_1_1TestEnh.html</filename>
-    <base>Steinberg::Vst::TestBase</base>
+    <base>TestBase</base>
     <member kind="enumeration">
       <type></type>
       <name>AudioDefaults</name>
@@ -10258,7 +8833,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessage2</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage</base>
+    <base>UMPMessage</base>
     <member kind="function">
       <type>__inline__</type>
       <name>__attribute__</name>
@@ -10340,7 +8915,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessage4</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage2</base>
+    <base>UMPMessage2</base>
     <member kind="function">
       <type>__inline__</type>
       <name>__attribute__</name>
@@ -10415,7 +8990,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageChannelVoice1</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage</base>
+    <base>UMPMessage</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10448,7 +9023,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageChannelVoice2</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage2</base>
+    <base>UMPMessage2</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10489,7 +9064,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageData128</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage4</base>
+    <base>UMPMessage4</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10528,7 +9103,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageSysEx</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage2</base>
+    <base>UMPMessage2</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10551,7 +9126,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageSystem</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSystem.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage</base>
+    <base>UMPMessage</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10586,7 +9161,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::Detail::UMPMessageUtility</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageUtility.html</filename>
-    <base>Steinberg::Vst::UMP::Detail::UMPMessage</base>
+    <base>UMPMessage</base>
     <member kind="enumeration">
       <type></type>
       <name>Status</name>
@@ -10682,7 +9257,7 @@
   <compound kind="struct">
     <name>Steinberg::Vst::UMP::UniversalMidiPacketHandlerAdapter</name>
     <filename>structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter.html</filename>
-    <base>Steinberg::Vst::UMP::IUniversalMidiPacketHandler</base>
+    <base>IUniversalMidiPacketHandler</base>
     <member kind="function">
       <type>void</type>
       <name>onNoop</name>
@@ -11168,7 +9743,7 @@
   <compound kind="class">
     <name>Steinberg::Vst::VSTGUIEditor</name>
     <filename>classSteinberg_1_1Vst_1_1VSTGUIEditor.html</filename>
-    <base>Steinberg::Vst::EditorView</base>
+    <base>EditorView</base>
     <member kind="function">
       <type></type>
       <name>VSTGUIEditor</name>
@@ -11467,73 +10042,73 @@
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5caf0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5caf0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a99fb83031ce9923c84392b4e92f956b5a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a71a41b297f733fcd53ad5f1b0631dd5ca90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">
@@ -11580,589 +10155,9 @@
     </member>
   </compound>
   <compound kind="namespace">
-    <name>Steinberg</name>
-    <filename>namespaceSteinberg.html</filename>
-    <namespace>Steinberg::OneReaderOneWriter</namespace>
-    <namespace>Steinberg::Vst</namespace>
-    <class kind="class">Steinberg::CPluginFactory</class>
-    <class kind="class">Steinberg::CPluginView</class>
-    <class kind="class">Steinberg::MemoryStream</class>
-    <class kind="struct">Steinberg::ObjCClassBuilder</class>
-    <class kind="struct">Steinberg::ObjCInstance</class>
-    <class kind="struct">Steinberg::ObjCVariable</class>
-    <class kind="class">Steinberg::ResizableMemoryIBStream</class>
-    <member kind="function">
-      <type></type>
-      <name>DEF_CLASS_IID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac5fa6c7c0083a2a67b209b23b1b12fd2</anchor>
-      <arglist>(ITest) DEF_CLASS_IID(ITestSuite) DEF_CLASS_IID(ITestFactory) namespace Vst</arglist>
-    </member>
-    <member kind="variable">
-      <type>CPluginFactory *</type>
-      <name>gPluginFactory</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8424a16f6b47419c0c3bb4b7b1374d81</anchor>
-      <arglist></arglist>
-    </member>
-  </compound>
-  <compound kind="namespace">
     <name>Steinberg::OneReaderOneWriter</name>
     <filename>namespaceSteinberg_1_1OneReaderOneWriter.html</filename>
     <class kind="class">Steinberg::OneReaderOneWriter::RingBuffer</class>
-  </compound>
-  <compound kind="namespace">
-    <name>Steinberg::Vst</name>
-    <filename>namespaceSteinberg_1_1Vst.html</filename>
-    <namespace>Steinberg::Vst::Algo</namespace>
-    <namespace>Steinberg::Vst::Helpers</namespace>
-    <namespace>Steinberg::Vst::InterAppAudio</namespace>
-    <namespace>Steinberg::Vst::MPE</namespace>
-    <namespace>Steinberg::Vst::SampleAccurate</namespace>
-    <namespace>Steinberg::Vst::StringConvert</namespace>
-    <namespace>Steinberg::Vst::Test</namespace>
-    <namespace>Steinberg::Vst::UMP</namespace>
-    <class kind="class">Steinberg::Vst::AudioBuffer</class>
-    <class kind="class">Steinberg::Vst::AudioBus</class>
-    <class kind="class">Steinberg::Vst::AudioEffect</class>
-    <class kind="class">Steinberg::Vst::BufferStream</class>
-    <class kind="class">Steinberg::Vst::Bus</class>
-    <class kind="class">Steinberg::Vst::BusList</class>
-    <class kind="class">Steinberg::Vst::BypassProcessor</class>
-    <class kind="class">Steinberg::Vst::Component</class>
-    <class kind="class">Steinberg::Vst::ComponentBase</class>
-    <class kind="class">Steinberg::Vst::ConnectionProxy</class>
-    <class kind="class">Steinberg::Vst::DataExchangeHandler</class>
-    <class kind="class">Steinberg::Vst::DataExchangeReceiverHandler</class>
-    <class kind="class">Steinberg::Vst::EditController</class>
-    <class kind="class">Steinberg::Vst::EditControllerEx1</class>
-    <class kind="class">Steinberg::Vst::EditorView</class>
-    <class kind="class">Steinberg::Vst::EventBus</class>
-    <class kind="class">Steinberg::Vst::EventList</class>
-    <class kind="class">Steinberg::Vst::FileStream</class>
-    <class kind="class">Steinberg::Vst::HostApplication</class>
-    <class kind="class">Steinberg::Vst::HostAttributeList</class>
-    <class kind="struct">Steinberg::Vst::HostDataExchangeHandler</class>
-    <class kind="class">Steinberg::Vst::HostMessage</class>
-    <class kind="class">Steinberg::Vst::HostProcessData</class>
-    <class kind="struct">Steinberg::Vst::IDataExchangeHandlerHost</class>
-    <class kind="class">Steinberg::Vst::NoteExpressionType</class>
-    <class kind="class">Steinberg::Vst::NoteExpressionTypeContainer</class>
-    <class kind="class">Steinberg::Vst::ParamChanges</class>
-    <class kind="class">Steinberg::Vst::Parameter</class>
-    <class kind="class">Steinberg::Vst::ParameterChanges</class>
-    <class kind="class">Steinberg::Vst::ParameterChangeTransfer</class>
-    <class kind="class">Steinberg::Vst::ParameterContainer</class>
-    <class kind="class">Steinberg::Vst::ParameterValueQueue</class>
-    <class kind="class">Steinberg::Vst::ParamPoint</class>
-    <class kind="class">Steinberg::Vst::PluginContextFactory</class>
-    <class kind="class">Steinberg::Vst::PlugInterfaceSupport</class>
-    <class kind="class">Steinberg::Vst::PlugProvider</class>
-    <class kind="class">Steinberg::Vst::PresetFile</class>
-    <class kind="class">Steinberg::Vst::ProcessContextRequirements</class>
-    <class kind="class">Steinberg::Vst::ProcessDataSlicer</class>
-    <class kind="class">Steinberg::Vst::ProgramList</class>
-    <class kind="class">Steinberg::Vst::ProgramListWithPitchNames</class>
-    <class kind="class">Steinberg::Vst::RangeNoteExpressionType</class>
-    <class kind="class">Steinberg::Vst::RangeParameter</class>
-    <class kind="class">Steinberg::Vst::ReadOnlyBStream</class>
-    <class kind="struct">Steinberg::Vst::RTTransferT</class>
-    <class kind="class">Steinberg::Vst::SingleComponentEffect</class>
-    <class kind="class">Steinberg::Vst::SpeakerArray</class>
-    <class kind="class">Steinberg::Vst::StringListParameter</class>
-    <class kind="class">Steinberg::Vst::StringResult</class>
-    <class kind="class">Steinberg::Vst::SystemTime</class>
-    <class kind="class">Steinberg::Vst::TestBase</class>
-    <class kind="struct">Steinberg::Vst::TestDefaults</class>
-    <class kind="class">Steinberg::Vst::TestEnh</class>
-    <class kind="struct">Steinberg::Vst::TestingPluginContext</class>
-    <class kind="class">Steinberg::Vst::ThreadChecker</class>
-    <class kind="class">Steinberg::Vst::Unit</class>
-    <class kind="class">Steinberg::Vst::VSTGUIEditor</class>
-    <class kind="class">Steinberg::Vst::XmlRepresentationHelper</class>
-    <member kind="typedef">
-      <type>int32</type>
-      <name>ProcessSampleSize</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aaee256cc21f2275ca1d2faf08027a337</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>std::function&lt; bool(ITestResult *)&gt;</type>
-      <name>TestFunc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6de37bbde36975cef7843c563815e004</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>std::function&lt; bool(FUnknown *, ITestResult *)&gt;</type>
-      <name>TestFuncWithContext</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a7f3c745946efb648d6bfbfee4c848f71</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="typedef">
-      <type>char[4]</type>
-      <name>ChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>adaf388baf0aebf53f3a12e1055fbd7ec</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>ChunkType</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kHeader</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da247a9a25a5fcf2b9a22b25874fdbb32b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kComponentState</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da847efe92e412b647b41977961910049d</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kControllerState</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da714cee5be2553879ce58605d04b77319</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kProgramData</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da6f13cbddc9f9d7754192b09f424abfb0</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kMetaInfo</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6dade0a9c73b08ec63caa0c8dbef1a4244b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kChunkList</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6da676f1a84ce41206b756a3baa743bb968</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kNumPresetChunks</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6742d03aa1e93ba39b234d0ea402ee6daf4670cf4bdaa52d4168191c2bfb1ac6b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a66aea247135e1846f335a23d9cf6bbcb</anchor>
-      <arglist>(ConnectionProxy, IConnectionPoint, IConnectionPoint::iid) ConnectionProxy</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a14da991e5b59eb10c9ad2d5fb90bbaee</anchor>
-      <arglist>(EventList, IEventList, IEventList::iid) EventList</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a476fe6d184a54896b92f055e61b011bf</anchor>
-      <arglist>(HostMessage, IMessage, IMessage::iid) HostMessage</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a389055ec7b088e8040c289a99c17d33a</anchor>
-      <arglist>(HostAttributeList, IAttributeList, IAttributeList::iid) IPtr&lt; IAttributeList &gt; HostAttributeList</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae41776e5d40ac5a09f7c0d862b004157</anchor>
-      <arglist>(ParameterChanges, IParameterChanges, IParameterChanges::iid) IMPLEMENT_FUNKNOWN_METHODS(ParameterValueQueue</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a4a8c06ebdc705fd88035f2fb33a4b838</anchor>
-      <arglist>(TestBase, ITest, ITest::iid)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8625885fbaf994689ee9a6b642d59578</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a623edb9565017639d2a11bb57a61d86e</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abc986b31ab8662d936d005ef0c81248a</anchor>
-      <arglist>(ITestResult *testResult, const char *str)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>addErrorMessage</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a8bebcc96c4d0a82bd8ccf4d48c40a763</anchor>
-      <arglist>(ITestResult *testResult, const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>printf</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad0e23cf02b8fa84dad11b10435b6e82c</anchor>
-      <arglist>(const char8 *format,...)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af9162cbdfe84aedc8def491e096eedde</anchor>
-      <arglist>(ParamChanges, IParamValueQueue, IParamValueQueue::iid) ParamChanges</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a3469392c5ae76c05ac5c0dcc2002b993</anchor>
-      <arglist>(PFactoryInfo, 4, 4, 4, 4) SMTG_TYPE_ALIGN_CHECK(PClassInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a598cd71e55749830c8982e1cebf24b1c</anchor>
-      <arglist>(PClassInfo2, 4, 4, 4, 4) SMTG_TYPE_ALIGN_CHECK(PClassInfoW</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae3fed4df17afbcff1fd768c40212ceb1</anchor>
-      <arglist>(ProcessSetup, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(AudioBusBuffers</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a63234469d10d33a544ee9599df71c180</anchor>
-      <arglist>(ProcessData, 8, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(BusInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae5e08c103fb69b61cea6c86b5c24ebc5</anchor>
-      <arglist>(RoutingInfo, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(IContextMenuItem</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af0fa779cb2b8b59441492e92e3f010b4</anchor>
-      <arglist>(ParameterInfo, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(NoteOnEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a209ab57585af9fba5af6d8a37f603a10</anchor>
-      <arglist>(NoteOffEvent, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(DataEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ae5acb01d463261780769e27f7049e95e</anchor>
-      <arglist>(PolyPressureEvent, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(ChordEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1817c886d208596b3d7fa89bf965ea20</anchor>
-      <arglist>(ScaleEvent, 8, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(LegacyMIDICCOutEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aad6bbf546601feb4c8fe2673688829cd</anchor>
-      <arglist>(Event, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(NoteExpressionValueDescription</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a78651b00cf0173d17e3992e7c19d519a</anchor>
-      <arglist>(NoteExpressionValueEvent, 8, 1, 4, 8) SMTG_TYPE_ALIGN_CHECK(NoteExpressionTextEvent</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a06c3307874053365618ffed99e21ec4d</anchor>
-      <arglist>(NoteExpressionTypeInfo, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(KeyswitchInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad562df3cdbe7659ffbda62984016e3ee</anchor>
-      <arglist>(FrameRate, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(Chord</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac68845c52a449b1c7f1b979739871031</anchor>
-      <arglist>(ProcessContext, 8, 1, 8, 8) SMTG_TYPE_ALIGN_CHECK(RepresentationInfo</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_TYPE_ALIGN_CHECK</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac80653deb627ae16c7d3e73554305889</anchor>
-      <arglist>(UnitInfo, 4, 1, 4, 4) SMTG_TYPE_ALIGN_CHECK(ProgramListInfo</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>printStructSizes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>acd3e604cb624147a3e4d6c266c88b74b</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void *</type>
-      <name>aligned_alloc</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ade54ba761a77d3f1e0c403b16e1e00a1</anchor>
-      <arglist>(size_t numBytes, uint32_t alignment)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>aligned_free</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aad3f24cc8aa05a74184f0ca1c9a91ca4</anchor>
-      <arglist>(void *addr, uint32_t alignment)</arglist>
-    </member>
-    <member kind="function">
-      <type>Sample32 **</type>
-      <name>getChannelBuffers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abd14f31a79df41df93a370cacc149ddf</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
-    </member>
-    <member kind="function">
-      <type>Sample64 **</type>
-      <name>getChannelBuffers</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac2443501452dae102f77c874d81286ae</anchor>
-      <arglist>(AudioBusBuffers &amp;buffer)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>abf26a9c9bb662f8dee939c833413a0d0</anchor>
-      <arglist>(const DataExchangeHandler::Config &amp;c1, const DataExchangeHandler::Config &amp;c2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ab1444bade1e2d33212f2fe2e8c760acf</anchor>
-      <arglist>(const DataExchangeBlock &amp;lhs, const DataExchangeBlock &amp;rhs)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1df79da3fa9e3615e855efe07534b62b</anchor>
-      <arglist>(const DataExchangeBlock &amp;lhs, const DataExchangeBlock &amp;rhs)</arglist>
-    </member>
-    <member kind="function">
-      <type>const Steinberg::Vst::TChar *</type>
-      <name>toTChar</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>adddd2ecf30f024c6f4e679bf1f517086</anchor>
-      <arglist>(const std::u16string &amp;str)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::u16string</type>
-      <name>toString</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a26aac7af543c28a1d31d2e2844eaa669</anchor>
-      <arglist>(NumberT value)</arglist>
-    </member>
-    <member kind="function">
-      <type>FUnknown *</type>
-      <name>createTestFactoryInstance</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5376c80324dc1db352c25d9195012249</anchor>
-      <arglist>(void *)</arglist>
-    </member>
-    <member kind="function">
-      <type>const FUID &amp;</type>
-      <name>getTestFactoryUID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a42678eb936f6fd039de3af4027213ac9</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ab6e655509c579433631bb4db9bc49e9f</anchor>
-      <arglist>(FIDString name, const char *desc, const TestFunc &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>afd363300a76b48236b3cc7fb437a8822</anchor>
-      <arglist>(FIDString name, const char *desc, TestFunc &amp;&amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a996e09bb27dc5ee45c0c0dcfa398bf15</anchor>
-      <arglist>(FIDString name, const char *desc, const TestFuncWithContext &amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa5257bc85533b36017356d89822878a6</anchor>
-      <arglist>(FIDString name, const char *desc, TestFuncWithContext &amp;&amp;func)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerTest</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>af0621743f305f87dd320b9bdacff874a</anchor>
-      <arglist>(FIDString name, ITest *test)</arglist>
-    </member>
-    <member kind="function">
-      <type>void **</type>
-      <name>getChannelBuffersPointer</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ad874542fcca17d454d0d4f91a6231fa7</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, const AudioBusBuffers &amp;bufs)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>getSampleFramesSizeInBytes</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aa9dfbe077a3078558451ff526b305744</anchor>
-      <arglist>(const ProcessSetup &amp;processSetup, int32 numSamples)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getChannelMask</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>ac5416c9248a6b737903df6e7d35f67e3</anchor>
-      <arglist>(int32 numChannels)</arglist>
-    </member>
-    <member kind="function">
-      <type>tresult</type>
-      <name>getSpeakerChannelIndex</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a659fcad9bdc947491c6e057f59eacae2</anchor>
-      <arglist>(SpeakerArrangement arrangement, uint64 speaker, int32 &amp;channel)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>setupVSTGUIBundleSupport</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5fe69fef877c637b191f7d45ad040849</anchor>
-      <arglist>(void *hInstance)</arglist>
-    </member>
-    <member kind="function">
-      <type>const ChunkID &amp;</type>
-      <name>getChunkID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>aecb30226876947afe7079bc185597f0c</anchor>
-      <arglist>(ChunkType type)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>verify</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a5be931a78fa765babf69c7dc76e0c800</anchor>
-      <arglist>(tresult result)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>copyStream</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1c0494fa27bea9e830204ab0451615c9</anchor>
-      <arglist>(IBStream *inStream, IBStream *outStream)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a1d9350b127ef8ad03a8025e93853b433</anchor>
-      <arglist>(FileStream, IBStream, IBStream::iid) tresult FileStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_REFCOUNT</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a6abddc24208fd641b8776e4be24d3cad</anchor>
-      <arglist>(ReadOnlyBStream) ReadOnlyBStream</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>IMPLEMENT_FUNKNOWN_METHODS</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9eb03817ce43297a3187ab5dc9f3340a</anchor>
-      <arglist>(BufferStream, IBStream, IBStream::iid) BufferStream</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isEqualID</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a235c00ee8509a0532c542fc91326849b</anchor>
-      <arglist>(const ChunkID id1, const ChunkID id2)</arglist>
-    </member>
-    <member kind="variable">
-      <type></type>
-      <name>IParamValueQueue</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a9599d04a145b093a9e253d564c6739f5</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>constexpr IParamValueQueue::iid int32</type>
-      <name>kQueueReservedPoints</name>
-      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
-      <anchor>a700bd2d567ccb0cc3640ae675f657f57</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="namespace">
     <name>Steinberg::Vst::Algo</name>
@@ -12171,140 +10166,140 @@
       <type>void</type>
       <name>foreach</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a18aea9feb58dbe1f6201eeee6c072155</anchor>
+      <anchor>ae5188e0fcbccdaca23b0e177aed80bf8</anchor>
       <arglist>(AudioBusBuffers *audioBusBuffers, int32 busCount, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a84892f45159b0bd1836030284f9eefc7</anchor>
+      <anchor>abdaa99cc5cef44c09a3ecc3e5db58851</anchor>
       <arglist>(AudioBusBuffers &amp;audioBuffer, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a4cb4ac5d134f87d28833172d318eee91</anchor>
+      <anchor>a1a9aa6271a90ff5f2a623048e4aa3a7d</anchor>
       <arglist>(AudioBusBuffers &amp;audioBuffer, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a15c1c19c964ef2e7e86a9b3ffcf9e4c5</anchor>
+      <anchor>a571c186f757e64f45711a926055c320f</anchor>
       <arglist>(AudioBusBuffers &amp;buffer1, AudioBusBuffers &amp;buffer2, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>adf74545ab50d6cd580ca0c81cc5918b0</anchor>
+      <anchor>ac55d336f7d34d85d1aea9be72218dd1c</anchor>
       <arglist>(AudioBusBuffers &amp;buffer1, AudioBusBuffers &amp;buffer2, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>copy32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a965e36149619ace13036a8a766bb0404</anchor>
+      <anchor>a496a91a6a5742f4aa7856cc82fd39baf</anchor>
       <arglist>(AudioBusBuffers *src, AudioBusBuffers *dest, int32 sliceSize, int32 startIndex)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>copy64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a26d0efd0ec8967f561d09ef4bcae7655</anchor>
+      <anchor>a5c02788df732c893fc23a7e609833643</anchor>
       <arglist>(AudioBusBuffers *src, AudioBusBuffers *dest, int32 sliceSize, int32 startIndex)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>clear32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a4979d1f1ce8a6870d7bab7c0cce499dc</anchor>
+      <anchor>accdc58782bb705365e62cb562f239725</anchor>
       <arglist>(AudioBusBuffers *audioBusBuffers, int32 sampleCount, int32 busCount=1)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>clear64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a6206b73e5b2a05df6f4c2ea49735ca45</anchor>
+      <anchor>ae7d41ccfa3f264ba404375b83fa5e339</anchor>
       <arglist>(AudioBusBuffers *audioBusBuffers, int32 sampleCount, int32 busCount=1)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>mix32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a24782ecf71e6cf327e0614ec373624cc</anchor>
+      <anchor>ac6c8308521bdc786226f50f06587aaf1</anchor>
       <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>mix64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a462ca40a45befc344ea3de34256c067b</anchor>
+      <anchor>aa21351148099718b2c8b8b394c8ae4eb</anchor>
       <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>multiply</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>aca95440bf753e70fe7a8a00d95e83f9a</anchor>
+      <anchor>af912cfbd9de39307730ba3fd8b3a7401</anchor>
       <arglist>(T *srcBuffer, T *destBuffer, int32 sampleCount, T factor)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>multiply32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ab0290cfe659c7a4de89c7ef45af643a5</anchor>
+      <anchor>a5eeca500b831a5f1a78b91e3dde87b8f</anchor>
       <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount, float factor)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>multiply64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ac727ec5263dbcfffe6796f9b5012fcea</anchor>
+      <anchor>abd96d11fb44d55d35af944867a3d9c1e</anchor>
       <arglist>(AudioBusBuffers &amp;src, AudioBusBuffers &amp;dest, int32 sampleCount, double factor)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isSilent32</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ad3fbbf9aba45d6d78acc406f7177ddd2</anchor>
+      <anchor>af05b381f31a7515b3966e7939fde5554</anchor>
       <arglist>(AudioBusBuffers &amp;audioBuffer, int32 sampleCount, int32 startIndex=0)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>isSilent64</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>ab9a15d2a72d5500380bb5fa49551abf3</anchor>
+      <anchor>a6e9a21aad42af561f501a9ef3d66d2c1</anchor>
       <arglist>(AudioBusBuffers &amp;audioBuffer, int32 sampleCount, int32 startIndex=0)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>acaec494e28f0a1988b0a247c29c6d7db</anchor>
+      <anchor>a0c53113e2359eee14997de7e0e3c8791</anchor>
       <arglist>(IEventList *eventList, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>aff127ca5c383c8f60dfabf2e385e6478</anchor>
+      <anchor>a23512a9053f9db4d7e8db1a7e105868c</anchor>
       <arglist>(IParamValueQueue &amp;paramQueue, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreachLast</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a25ed939a301649331125f0929334df23</anchor>
+      <anchor>a5387b9e2705673920c364a6d400a8545</anchor>
       <arglist>(IParamValueQueue &amp;paramQueue, const T &amp;func)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>foreach</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Algo.html</anchorfile>
-      <anchor>a8321b46d3e8a41462d8b68c661568507</anchor>
+      <anchor>a4fe3d1a1d290fc9e3e463dce2ebfbe7f</anchor>
       <arglist>(IParameterChanges *changes, const T &amp;func)</arglist>
     </member>
   </compound>
@@ -12315,63 +10310,63 @@
       <type>T</type>
       <name>boundTo</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>af6b5e0825fbe7c215d5e05b118ab2e1e</anchor>
+      <anchor>ade20fd383b80836576a502cc40996574</anchor>
       <arglist>(T minval, T maxval, T x)</arglist>
     </member>
     <member kind="function">
       <type>Event &amp;</type>
       <name>init</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7e6b16689c9acd187b3206c16bdd7ebe</anchor>
+      <anchor>a673665acf6b425837be9fec84fae7421</anchor>
       <arglist>(Event &amp;event, uint16 type, int32 busIndex=0, int32 sampleOffset=0, TQuarterNotes ppqPosition=0, uint16 flags=0)</arglist>
     </member>
     <member kind="function">
       <type>ParamValue</type>
       <name>getMIDINormValue</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>acee21ef070bcb18b50ed4b1376462ce7</anchor>
+      <anchor>a47f08e8eee4bc488281cf4cdf503ec6a</anchor>
       <arglist>(uint8 value)</arglist>
     </member>
     <member kind="function">
       <type>int8</type>
       <name>getMIDICCOutValue</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a3e5296d9f56910f7b76bb836eeaf3440</anchor>
+      <anchor>ae62992d264909f65c737496eefb5778d</anchor>
       <arglist>(ParamValue value)</arglist>
     </member>
     <member kind="function">
       <type>int16</type>
       <name>getPitchBendValue</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a47ddebf598d6a776308246e7716deac0</anchor>
+      <anchor>a826366bd62326475d89e8d0ce159e9e5</anchor>
       <arglist>(const LegacyMIDICCOutEvent &amp;e)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>setPitchBendValue</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a5d111f2ca95494fd25050552be927eef</anchor>
+      <anchor>a0a53a01b296e553ae4c5ba62044ae3b5</anchor>
       <arglist>(LegacyMIDICCOutEvent &amp;e, ParamValue value)</arglist>
     </member>
     <member kind="function">
       <type>float</type>
       <name>getNormPitchBendValue</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7773e0a672be20e05b01258dcea10ddf</anchor>
+      <anchor>af4a912358bbfa1f1f53bd087d4681561</anchor>
       <arglist>(const LegacyMIDICCOutEvent &amp;e)</arglist>
     </member>
     <member kind="function">
       <type>LegacyMIDICCOutEvent &amp;</type>
       <name>initLegacyMIDICCOutEvent</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a09a51ba42075011a7e35e26746922cbb</anchor>
+      <anchor>a319973cb2c516040fdb0ae8d201884f2</anchor>
       <arglist>(Event &amp;event, uint8 controlNumber, uint8 channel=0, int8 value=0, int8 value2=0)</arglist>
     </member>
     <member kind="function">
       <type>tresult</type>
       <name>isProjectState</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Helpers.html</anchorfile>
-      <anchor>a7f02c298f47c0db9090be5aacb05f57b</anchor>
+      <anchor>a4c69aedd60f9bad0d65706860bb2ad74</anchor>
       <arglist>(IBStream *state)</arglist>
     </member>
   </compound>
@@ -12391,7 +10386,7 @@
       <type></type>
       <name>__attribute__</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1InterAppAudio.html</anchorfile>
-      <anchor>ab2feb4fc133a7b3e0cdb5f9cdf941382</anchor>
+      <anchor>a648b73a31c79a2e90bdf53a2b590340f</anchor>
       <arglist>((constructor)) static void InitUpdateHandler()</arglist>
     </member>
   </compound>
@@ -12550,14 +10545,14 @@
       <type>constexpr bool</type>
       <name>notEqual</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
-      <anchor>a7a61e58c85b01750f4fb662ffbe586e7</anchor>
+      <anchor>aea0ba0b48dc0a6035a2ac152d8dcf3a1</anchor>
       <arglist>(const T &amp;lhs, const T &amp;rhs) noexcept</arglist>
     </member>
     <member kind="function">
       <type>constexpr bool</type>
       <name>maxDiff</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1Test.html</anchorfile>
-      <anchor>a258cadbe3c6a686a777c68ffe6745a92</anchor>
+      <anchor>a9241cea02e5045b56dcae09ba0dd7576</anchor>
       <arglist>(const T &amp;lhs, const T &amp;rhs, const T &amp;maxDiff) noexcept</arglist>
     </member>
   </compound>
@@ -12573,13 +10568,48 @@
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
       <anchor>a912340f293ecc1dedf72513159862bfd</anchor>
       <arglist></arglist>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda94df2a6972ca1fa79411645fe9b42339">Utility</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaa45da96d0bf6575970f2d27af22be28a">System</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdae3e4484656839edbd9f43322b1022996">ChannelVoice1</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda8ff5fa82b4027e7e2ed8a05e5df0662a">SysEx</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdaeb7a9ac9f662bc5dc17e8d1f12cf2e17">ChannelVoice2</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d">Data128</enumvalue>
-      <enumvalue file="namespaceSteinberg_1_1Vst_1_1UMP.html" anchor="a912340f293ecc1dedf72513159862bfdab1c94ca2fbc3e78fc30069c8d0f01680">All</enumvalue>
+    </member>
+    <member kind="enumvalue">
+      <name>Utility</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfda76941a2855dbdd4c5603469575555e1c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>System</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfdaacd40056f9fbe11dadadeba269eb2034</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>ChannelVoice1</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>SysEx</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfda385cc4ad6c408b5ca77ea500350d080b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>ChannelVoice2</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfdabde4f53903d2b7d63bbfe836cefb5553</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>Data128</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfdab038fd64cd9159f0dc2b853e40bf2e73</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>All</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
+      <anchor>a912340f293ecc1dedf72513159862bfda54991d225c58ce0af43461d4e9a82312</anchor>
+      <arglist></arglist>
     </member>
     <member kind="enumeration">
       <type></type>
@@ -12594,14 +10624,14 @@
       <type>size_t</type>
       <name>parsePackets</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>abed5c161f5b6e35183d00e5540b88d12</anchor>
+      <anchor>a7036fc0356f9c93f9d8bbd36b13be705</anchor>
       <arglist>(const size_t numWords, const uint32_t *words, const IUniversalMidiPacketHandler &amp;handler)</arglist>
     </member>
     <member kind="function">
       <type>__inline__</type>
       <name>__attribute__</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP.html</anchorfile>
-      <anchor>a1d902b585868bd79af23fbd142ad8b12</anchor>
+      <anchor>a2e95215f2088f24f21cd1e3f5a764eee</anchor>
       <arglist>((__always_inline__)) size_t parsePackets(const size_t numWords</arglist>
     </member>
     <member kind="variable">
@@ -12635,7 +10665,7 @@
       <type>UMPMessageUtility::Status</type>
       <name>Status</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a4d1ca4bc909d5a95c05bdfcaedad1a26</anchor>
+      <anchor>a4a6a5e1402644e339d533d6e52c98276</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -12693,14 +10723,14 @@
       <type>__inline__</type>
       <name>__attribute__</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a80ff4115cdc20ed4feab985e59b647cd</anchor>
+      <anchor>ab27de204fd0c83bc0b6c5de212db937e</anchor>
       <arglist>((__always_inline__)) size_t parse(const size_t numWords</arglist>
     </member>
     <member kind="function">
       <type></type>
       <name>for</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html</anchorfile>
-      <anchor>a70576b77350845bd36cc8d6287cfc1a6</anchor>
+      <anchor>af9c58d448d351b17eb4ad845d0da646e</anchor>
       <arglist>(size_t index=0;index&lt; numWords;)</arglist>
     </member>
     <member kind="variable">
@@ -12768,35 +10798,35 @@
       <type></type>
       <name>SMTG_DEPRECATED_MSG</name>
       <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af1e63d1e65d82ff5f484e4b5ec7c2860</anchor>
+      <anchor>a95dc6a5264c9ebdbe258038891ed15b0</anchor>
       <arglist>(&quot;Use Steinberg::Vst::toTChar (...)&quot;) inline const Steinberg</arglist>
     </member>
     <member kind="function">
       <type></type>
       <name>SMTG_DEPRECATED_MSG</name>
       <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>a44d57efe7fbba4ccc78ca7b189b134ff</anchor>
+      <anchor>a3f8f0d41f800cd4a1dc66d1e6775b241</anchor>
       <arglist>(&quot;Use Steinberg::Vst::toString (...)&quot;) std</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>a0626bd924334f40b13c5636349ab5728</anchor>
+      <anchor>ae01b731f55016701b6d06b9234715889</anchor>
       <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>aae0ec880f82ddb89e7bbc994c07ce205</anchor>
+      <anchor>a5e2936b1c1337e565525459714a83ad7</anchor>
       <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceVST3.html</anchorfile>
-      <anchor>af54ea793d1c17f7fe92b1e141bcde68b</anchor>
+      <anchor>a837b78a345f5f39cce8b52631e371613</anchor>
       <arglist>(const UID &amp;uid1, const UID &amp;uid2)</arglist>
     </member>
     <member kind="function">
@@ -12988,11 +11018,6 @@
       <anchor>ga9fdf83113c2b2dddbb42811957843dd6</anchor>
       <arglist>(pluginName, pluginVst3Categories, classFlags, pluginVersion, processorCID, processorCreateFunc, controllerCID, controllerCreateFunc)</arglist>
     </member>
-  </compound>
-  <compound kind="page">
-    <name>How</name>
-    <title>to use the validator to run your own tests?</title>
-    <filename>How.html</filename>
   </compound>
   <compound kind="page">
     <name>index</name>

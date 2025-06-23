@@ -15,6 +15,5 @@ var searchData=
   ['vstguieditor_12',['VSTGUIEditor',['../../vstsdk/classSteinberg_1_1Vst_1_1VSTGUIEditor.html',1,'Steinberg::Vst']]],
   ['vstinterappaudioappdelegate_13',['VSTInterAppAudioAppDelegate',['../interfaceVSTInterAppAudioAppDelegate.html',1,'']]],
   ['vstinterappaudioappdelegatebase_14',['VSTInterAppAudioAppDelegateBase',['../../vstsdk/interfaceVSTInterAppAudioAppDelegateBase.html',1,'']]],
-  ['vstinterappaudiohostuicontrollerviewcontroller_15',['VSTInterAppAudioHostUIControllerViewController',['../interfaceVSTInterAppAudioHostUIControllerViewController.html',1,'']]],
-  ['vstmodule_16',['VstModule',['../classSteinberg_1_1Vst_1_1VstModule.html',1,'Steinberg::Vst']]]
+  ['vstinterappaudiohostuicontrollerviewcontroller_15',['VSTInterAppAudioHostUIControllerViewController',['../interfaceVSTInterAppAudioHostUIControllerViewController.html',1,'']]]
 ];

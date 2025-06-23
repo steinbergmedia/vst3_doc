@@ -1,5 +1,5 @@
 var alignedalloc_8h =
 [
-    [ "aligned_alloc", "alignedalloc_8h.html#ade54ba761a77d3f1e0c403b16e1e00a1", null ],
-    [ "aligned_free", "alignedalloc_8h.html#aad3f24cc8aa05a74184f0ca1c9a91ca4", null ]
+    [ "aligned_alloc", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a4956c866375daf91c0788f9a7e0f5660", null ],
+    [ "aligned_free", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a295558b8b53eddc5f2592e8509d900f2", null ]
 ];

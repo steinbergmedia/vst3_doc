@@ -1,4 +1,5 @@
 <map id="INoteExpressionPhysicalUIMapping" name="INoteExpressionPhysicalUIMapping">
-<area shape="rect" id="node1" title="Extended plug&#45;in interface IEditController for note expression event support: Vst::INoteExpressionPhy..." alt="" coords="5,157,223,232"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="55,5,173,109"/>
+<area shape="rect" id="Node000001" title="Extended plug&#45;in interface IEditController for note expression event support: Vst::INoteExpressionPhy..." alt="" coords="5,152,215,213"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="56,5,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,119,113,152,107,152,107,119"/>
 </map>

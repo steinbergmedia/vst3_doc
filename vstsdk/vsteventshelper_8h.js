@@ -1,11 +1,11 @@
 var vsteventshelper_8h =
 [
-    [ "boundTo", "vsteventshelper_8h.html#af6b5e0825fbe7c215d5e05b118ab2e1e", null ],
-    [ "init", "vsteventshelper_8h.html#a7e6b16689c9acd187b3206c16bdd7ebe", null ],
-    [ "getMIDINormValue", "vsteventshelper_8h.html#acee21ef070bcb18b50ed4b1376462ce7", null ],
-    [ "getMIDICCOutValue", "vsteventshelper_8h.html#a3e5296d9f56910f7b76bb836eeaf3440", null ],
-    [ "getPitchBendValue", "vsteventshelper_8h.html#a47ddebf598d6a776308246e7716deac0", null ],
-    [ "setPitchBendValue", "vsteventshelper_8h.html#a5d111f2ca95494fd25050552be927eef", null ],
-    [ "getNormPitchBendValue", "vsteventshelper_8h.html#a7773e0a672be20e05b01258dcea10ddf", null ],
-    [ "initLegacyMIDICCOutEvent", "vsteventshelper_8h.html#a09a51ba42075011a7e35e26746922cbb", null ]
+    [ "boundTo", "namespaceSteinberg_1_1Vst_1_1Helpers.html#ade20fd383b80836576a502cc40996574", null ],
+    [ "init", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a673665acf6b425837be9fec84fae7421", null ],
+    [ "getMIDINormValue", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a47f08e8eee4bc488281cf4cdf503ec6a", null ],
+    [ "getMIDICCOutValue", "namespaceSteinberg_1_1Vst_1_1Helpers.html#ae62992d264909f65c737496eefb5778d", null ],
+    [ "getPitchBendValue", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a826366bd62326475d89e8d0ce159e9e5", null ],
+    [ "setPitchBendValue", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a0a53a01b296e553ae4c5ba62044ae3b5", null ],
+    [ "getNormPitchBendValue", "namespaceSteinberg_1_1Vst_1_1Helpers.html#af4a912358bbfa1f1f53bd087d4681561", null ],
+    [ "initLegacyMIDICCOutEvent", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a319973cb2c516040fdb0ae8d201884f2", null ]
 ];

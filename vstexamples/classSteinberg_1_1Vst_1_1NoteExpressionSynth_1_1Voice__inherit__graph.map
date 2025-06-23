@@ -1,4 +1,5 @@
 <map id="Voice&lt; SamplePrecision &gt;" name="Voice&lt; SamplePrecision &gt;">
-<area shape="rect" id="node1" title="Example Note Expression Synth Voice Class." alt="" coords="33,423,207,736"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1VoiceBase.html" title=" " alt="" coords="5,5,235,375"/>
+<area shape="rect" id="Node000001" title="Example Note Expression Synth Voice Class." alt="" coords="34,497,198,876"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1Vst_1_1VoiceBase.html" title=" " alt="" coords="5,5,227,449"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,464,119,497,113,497,113,464"/>
 </map>

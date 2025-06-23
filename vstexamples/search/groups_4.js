@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['platform_20ui_20types_0',['Platform UI Types',['../../base/group__platformUIType.html',1,'']]],
-  ['plug_2din_20type_20used_20for_20subcategories_1',['Plug-in Type used for subCategories',['../../vstinterfaces/group__plugType.html',1,'']]],
-  ['predefined_20musical_20character_2',['Predefined Musical Character',['../../vstinterfaces/group__musicalCharacter.html',1,'']]],
-  ['predefined_20musical_20instrument_3',['Predefined Musical Instrument',['../../vstinterfaces/group__musicalInstrument.html',1,'']]],
-  ['predefined_20musical_20style_4',['Predefined Musical Style',['../../vstinterfaces/group__musicalStyle.html',1,'']]],
-  ['predefined_20preset_20attributes_5',['Predefined Preset Attributes',['../../vstinterfaces/group__presetAttributes.html',1,'']]]
+  ['data_20types_0',['VST 3 Data Types',['../../vstinterfaces/group__vst3typedef.html',1,'']]],
+  ['defining_20the_20class_20factory_1',['Macros for defining the class factory',['../../vstsdk/group__classFactoryMacros.html',1,'']]]
 ];

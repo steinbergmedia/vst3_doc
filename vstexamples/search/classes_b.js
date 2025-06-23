@@ -7,7 +7,8 @@ var searchData=
   ['limiterprocessor_4',['LimiterProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1LimiterProcessor.html',1,'Steinberg::Vst::mda']]],
   ['logevent_5',['LogEvent',['../structLogEvent.html',1,'']]],
   ['logscale_6',['LogScale',['../classSteinberg_1_1Vst_1_1LogScale.html',1,'Steinberg::Vst']]],
-  ['logscaleparameter_7',['LogScaleParameter',['../classSteinberg_1_1Vst_1_1LogScaleParameter.html',1,'Steinberg::Vst']]],
-  ['loudnesscontroller_8',['LoudnessController',['../classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html',1,'Steinberg::Vst::mda']]],
-  ['loudnessprocessor_9',['LoudnessProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html',1,'Steinberg::Vst::mda']]]
+  ['logscale_3c_20paramvalue_20_3e_7',['LogScale&lt; ParamValue &gt;',['../classSteinberg_1_1Vst_1_1LogScale.html',1,'Steinberg::Vst']]],
+  ['logscaleparameter_8',['LogScaleParameter',['../classSteinberg_1_1Vst_1_1LogScaleParameter.html',1,'Steinberg::Vst']]],
+  ['loudnesscontroller_9',['LoudnessController',['../classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html',1,'Steinberg::Vst::mda']]],
+  ['loudnessprocessor_10',['LoudnessProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1LoudnessProcessor.html',1,'Steinberg::Vst::mda']]]
 ];

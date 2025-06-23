@@ -1,6 +1,9 @@
 <map id="BaseParameter" name="BaseParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="100,283,224,386"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html" title=" " alt="" coords="5,434,153,593"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html" title=" " alt="" coords="177,434,312,593"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="100,5,224,235"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,320,209,419"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Vst_1_1mda_1_1IndexedParameter.html" title=" " alt="" coords="5,467,144,640"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,433,113,468,109,466,123,431"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1Vst_1_1mda_1_1ScaledParameter.html" title=" " alt="" coords="168,467,293,640"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,431,196,466,191,468,176,433"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="95,5,209,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,287,155,320,149,320,149,287"/>
 </map>

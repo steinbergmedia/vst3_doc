@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['basic_20interfaces_0',['Basic Interfaces',['../../base/group__pluginBase.html',1,'']]]
+  ['3_20data_20types_0',['VST 3 Data Types',['../group__vst3typedef.html',1,'']]]
 ];

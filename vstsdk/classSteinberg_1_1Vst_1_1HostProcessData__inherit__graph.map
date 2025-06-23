@@ -1,4 +1,5 @@
 <map id="HostProcessData" name="HostProcessData">
-<area shape="rect" id="node1" title="Extension of ProcessData." alt="" coords="5,283,196,554"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$structSteinberg_1_1Vst_1_1ProcessData.html" title=" " alt="" coords="14,5,187,235"/>
+<area shape="rect" id="Node000001" title="Extension of ProcessData." alt="" coords="5,320,187,643"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$structSteinberg_1_1Vst_1_1ProcessData.html" title=" " alt="" coords="15,5,177,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,287,99,320,93,320,93,287"/>
 </map>

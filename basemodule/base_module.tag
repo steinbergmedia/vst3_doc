@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.2">
+<tagfile doxygen_version="1.13.2" doxygen_gitid="26342b775ea25e6fefb53220926b20702c56fcb3">
   <compound kind="file">
     <name>baseiids.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
@@ -76,8 +76,8 @@
     <name>fbuffer.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fbuffer_8cpp.html</filename>
-    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
-    <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
+    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" import="no" module="no" objc="no">base/source/fbuffer.h</includes>
+    <includes id="fstring_8h" name="fstring.h" local="yes" import="no" module="no" objc="no">base/source/fstring.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
@@ -100,13 +100,6 @@
     <class kind="struct">Steinberg::FCloser</class>
     <class kind="class">Steinberg::FMallocReleaser</class>
     <namespace>Steinberg</namespace>
-    <member kind="typedef">
-      <type>FBooleanSetter&lt; bool &gt;</type>
-      <name>FBoolSetter</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aac248a0d0bf4446d45f2539bc61f6c23</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>fcommandline.h</name>
@@ -117,33 +110,12 @@
     <class kind="class">Steinberg::CommandLine::Descriptions</class>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::CommandLine</namespace>
-    <member kind="typedef">
-      <type>std::vector&lt; std::string &gt;</type>
-      <name>FilesVector</name>
-      <anchorfile>namespaceSteinberg_1_1CommandLine.html</anchorfile>
-      <anchor>a8e4c7d85763c5d6cafd67588804308f4</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>parse</name>
-      <anchorfile>namespaceSteinberg_1_1CommandLine.html</anchorfile>
-      <anchor>aa59540066a0354da873325a175666974</anchor>
-      <arglist>(int ac, char *av[], const Descriptions &amp;desc, VariablesMap &amp;result, FilesVector *files=nullptr)</arglist>
-    </member>
-    <member kind="function">
-      <type>std::ostream &amp;</type>
-      <name>operator&lt;&lt;</name>
-      <anchorfile>namespaceSteinberg_1_1CommandLine.html</anchorfile>
-      <anchor>a6a38965238a994bf87587aac0b83a5be</anchor>
-      <arglist>(std::ostream &amp;os, const Descriptions &amp;desc)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>fdebug.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fdebug_8cpp.html</filename>
-    <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
+    <includes id="fdebug_8h" name="fdebug.h" local="yes" import="no" module="no" objc="no">base/source/fdebug.h</includes>
     <member kind="function">
       <type>bool</type>
       <name>AmIBeingDebugged</name>
@@ -399,15 +371,15 @@
     <name>fdynlib.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fdynlib_8cpp.html</filename>
-    <includes id="fdynlib_8h" name="fdynlib.h" local="yes" imported="no">base/source/fdynlib.h</includes>
-    <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
+    <includes id="fdynlib_8h" name="fdynlib.h" local="yes" import="no" module="no" objc="no">base/source/fdynlib.h</includes>
+    <includes id="fstring_8h" name="fstring.h" local="yes" import="no" module="no" objc="no">base/source/fstring.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>fdynlib.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fdynlib_8h.html</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
+    <includes id="fobject_8h" name="fobject.h" local="yes" import="no" module="no" objc="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::FDynLibrary</class>
     <namespace>Steinberg</namespace>
   </compound>
@@ -415,7 +387,7 @@
     <name>fobject.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fobject_8cpp.html</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
+    <includes id="fobject_8h" name="fobject.h" local="yes" import="no" module="no" objc="no">base/source/fobject.h</includes>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Singleton</namespace>
     <member kind="define">
@@ -425,82 +397,12 @@
       <anchor>a9550d93de76bc0422a328bc17dfaa0c7</anchor>
       <arglist></arglist>
     </member>
-    <member kind="typedef">
-      <type>std::vector&lt; FObject ** &gt;</type>
-      <name>ObjectVector</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ae71bce85324f37d598620c2adc38733f</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isTerminated</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a84acfabb69fd8f78cc6afad4301357b7</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>lockRegister</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a1612cf2b7b00489ee4cd0af7999ff7ac</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>unlockRegister</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a2aad80bf0469cb9153a7666f2b2b4817</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerInstance</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ad6e6c857d3abf9d8ef37ef8d465c9977</anchor>
-      <arglist>(FObject **o)</arglist>
-    </member>
-    <member kind="variable">
-      <type>struct Steinberg::FObjectIIDInitializer</type>
-      <name>gFObjectIidInitializer</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4887636bdd4ce9765adf2ebeba53fd78</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>ObjectVector *</type>
-      <name>singletonInstances</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ab5cb5c38a31d778cf922b01947589311</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>bool</type>
-      <name>singletonsTerminated</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ae52f18a708ab305abe54c48ffc1c9840</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>Steinberg::Base::Thread::FLock *</type>
-      <name>singletonsLock</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ac67df8722321fe3f07d688a9710006cc</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>struct Steinberg::Singleton::Deleter</type>
-      <name>deleter</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ad0aba916420413107b7921c376fa714b</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>fobject.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fobject_8h.html</filename>
-    <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
+    <includes id="fdebug_8h" name="fdebug.h" local="yes" import="no" module="no" objc="no">base/source/fdebug.h</includes>
     <class kind="class">Steinberg::FObject</class>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Singleton</namespace>
@@ -609,137 +511,25 @@
       <anchor>a41a8ea197ab9208b554473144f6572fd</anchor>
       <arglist>(InterfaceName1, InterfaceName2, InterfaceName3, InterfaceName4, BaseClass)</arglist>
     </member>
-    <member kind="typedef">
-      <type>FIDString</type>
-      <name>FClassID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab36f267af0b3dc88ce9135a0c3b4f170</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>C *</type>
-      <name>FCast</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2d6b9817403c371fec28cc810cb14ea0</anchor>
-      <arglist>(const FObject *object)</arglist>
-    </member>
-    <member kind="function">
-      <type>C *</type>
-      <name>FCast</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a77ef60ecf7bafa1fad170373890daf52</anchor>
-      <arglist>(FUnknown *unknown)</arglist>
-    </member>
-    <member kind="function">
-      <type>IPtr&lt; I &gt;</type>
-      <name>ICast</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a216bbd351fcf1f4dc80767db1d73524d</anchor>
-      <arglist>(FObject *object)</arglist>
-    </member>
-    <member kind="function">
-      <type>IPtr&lt; I &gt;</type>
-      <name>ICast</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7ae6051c223e215dfb8704423e3fca99</anchor>
-      <arglist>(FUnknown *object)</arglist>
-    </member>
-    <member kind="function">
-      <type>C *</type>
-      <name>FCastIsA</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab27ae4bf80e2aad8d6cdacfd8f6ab0f6</anchor>
-      <arglist>(const FObject *object)</arglist>
-    </member>
-    <member kind="function">
-      <type></type>
-      <name>SMTG_DEPRECATED_MSG</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa5b3f6bf640105c689aad999c94b3ae8</anchor>
-      <arglist>(&quot;use ICast&lt;&gt;&quot;) inline C *FUCast(FObject *object)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>AssignShared</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a061c8d1b219f1b80adf65d2c1d36e899</anchor>
-      <arglist>(T *&amp;dest, T *newPtr)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>AssignSharedDependent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a52db63df2d44c7a493bf7b5ce39df1a6</anchor>
-      <arglist>(IDependent *_this, T *&amp;dest, T *newPtr)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>AssignSharedDependent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8567982a150047c011e89c7185871d96</anchor>
-      <arglist>(IDependent *_this, IPtr&lt; T &gt; &amp;dest, T *newPtr)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>SafeReleaseDependent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a0869140d4f11c3f1dae20794daa85b5f</anchor>
-      <arglist>(IDependent *_this, T *&amp;dest)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>SafeReleaseDependent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad047921ea5c9ffd8f4b5e2c31d30d819</anchor>
-      <arglist>(IDependent *_this, IPtr&lt; T &gt; &amp;dest)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>registerInstance</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>ad6e6c857d3abf9d8ef37ef8d465c9977</anchor>
-      <arglist>(FObject **o)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>isTerminated</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a84acfabb69fd8f78cc6afad4301357b7</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>lockRegister</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a1612cf2b7b00489ee4cd0af7999ff7ac</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>unlockRegister</name>
-      <anchorfile>namespaceSteinberg_1_1Singleton.html</anchorfile>
-      <anchor>a2aad80bf0469cb9153a7666f2b2b4817</anchor>
-      <arglist>()</arglist>
-    </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a694fec3dd0db8909ea3289ba1de4f494</anchor>
+      <anchor>a69050516521be935150d7cc9cbdd6d07</anchor>
       <arglist>(I *&amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2b4982585b3f7bc20622a0f5b81fcb43</anchor>
+      <anchor>a7bc17c908b6a840c80c88cf97ccd49f4</anchor>
       <arglist>(IPtr&lt; I &gt; &amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeDelete</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a7b3d6a54e6b821d843acdbb90ec7a1</anchor>
+      <anchor>a7003153d08b04bbbd48f67260561b7ae</anchor>
       <arglist>(T *&amp;ptr)</arglist>
     </member>
     <member kind="define">
@@ -823,21 +613,21 @@
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a694fec3dd0db8909ea3289ba1de4f494</anchor>
+      <anchor>a69050516521be935150d7cc9cbdd6d07</anchor>
       <arglist>(I *&amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2b4982585b3f7bc20622a0f5b81fcb43</anchor>
+      <anchor>a7bc17c908b6a840c80c88cf97ccd49f4</anchor>
       <arglist>(IPtr&lt; I &gt; &amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeDelete</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a7b3d6a54e6b821d843acdbb90ec7a1</anchor>
+      <anchor>a7003153d08b04bbbd48f67260561b7ae</anchor>
       <arglist>(T *&amp;ptr)</arglist>
     </member>
   </compound>
@@ -1088,9 +878,9 @@
     <name>fstreamer.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fstreamer_8cpp.html</filename>
-    <includes id="fstreamer_8h" name="fstreamer.h" local="yes" imported="no">fstreamer.h</includes>
-    <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
-    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
+    <includes id="fstreamer_8h" name="fstreamer.h" local="yes" import="no" module="no" objc="no">fstreamer.h</includes>
+    <includes id="fstring_8h" name="fstring.h" local="yes" import="no" module="no" objc="no">base/source/fstring.h</includes>
+    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" import="no" module="no" objc="no">base/source/fbuffer.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
@@ -1101,38 +891,13 @@
     <class kind="class">Steinberg::FStreamSizeHolder</class>
     <class kind="class">Steinberg::IBStreamer</class>
     <namespace>Steinberg</namespace>
-    <member kind="enumeration">
-      <type></type>
-      <name>FSeekMode</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a78e5e10c2df97a6a5a6096069ade24db</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kSeekSet</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a78e5e10c2df97a6a5a6096069ade24dbad9fe3df36943c836f26fd55f2e800384</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kSeekCurrent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a78e5e10c2df97a6a5a6096069ade24dbaff1a9d5b4238462a49619084e8324b85</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kSeekEnd</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a78e5e10c2df97a6a5a6096069ade24dbaa2d1805ccbf869dc4a610f9571d83d7f</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>fstring.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fstring_8cpp.html</filename>
-    <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
-    <includes id="fdebug_8h" name="fdebug.h" local="yes" imported="no">base/source/fdebug.h</includes>
+    <includes id="fstring_8h" name="fstring.h" local="yes" import="no" module="no" objc="no">base/source/fstring.h</includes>
+    <includes id="fdebug_8h" name="fdebug.h" local="yes" import="no" module="no" objc="no">base/source/fdebug.h</includes>
     <namespace>Steinberg</namespace>
     <member kind="define">
       <type>#define</type>
@@ -1176,47 +941,12 @@
       <anchor>a243f56b639b9bb0d1850454b40ea0cb8</anchor>
       <arglist></arglist>
     </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>hashString8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a166ebc6677e19253cda1f55ead2b8106</anchor>
-      <arglist>(const char8 *s, uint32 m)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>hashString16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a61e26dc8165fa82a90f930a1f8367a3c</anchor>
-      <arglist>(const char16 *s, uint32 m)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>tstrnatcmp</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>adcccbbf0a6580038c4fb1f0dbf91667f</anchor>
-      <arglist>(const T *s1, const T *s2, bool caseSensitive=true)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>strnatcmp8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab16cda4272acda12af7fe328eb3abbfa</anchor>
-      <arglist>(const char8 *s1, const char8 *s2, bool caseSensitive)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>strnatcmp16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a026eef900ab2e9f3c1390d73992a48a2</anchor>
-      <arglist>(const char16 *s1, const char16 *s2, bool caseSensitive)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>fstring.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>fstring_8h.html</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
+    <includes id="fobject_8h" name="fobject.h" local="yes" import="no" module="no" objc="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::ConstString</class>
     <class kind="class">Steinberg::String</class>
     <class kind="class">Steinberg::StringObject</class>
@@ -1249,540 +979,41 @@
       <anchor>a9685b2d51de12a542a0eb0c0bca2a58d</anchor>
       <arglist>(p)</arglist>
     </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>MBCodePage</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_ANSI</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198a4bc87ed163042e19a3c8c857f320e601</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_MAC_ROMAN</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198aece485d20e1f11025207f5d03331170b</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_ANSI_WEL</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198ae306671b758491ebea5651afc41faf06</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_MAC_CEE</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198afdfb28513dca7897ba46509177f3f295</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_Utf8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198a42fe778326afe1a478de66fa0ae88053</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_ShiftJIS</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198a800fe314d21309f85659ee3c8ff41fba</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_US_ASCII</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198a68f73e16ffd280be8ea415937c17901e</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kCP_Default</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a879b9da0475eafb05527d00a3e87e198ab93a845dd7dd03d5e296ffff03a78aa2</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumeration">
-      <type></type>
-      <name>UnicodeNormalization</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ade9b236510365125beb73ce8c7347fd5</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kUnicodeNormC</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ade9b236510365125beb73ce8c7347fd5a5ab93cdbd8bb16cc7261b7d02f656426</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kUnicodeNormD</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ade9b236510365125beb73ce8c7347fd5a719813623d8e0a706e6ab6cd2a0fb0f4</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kUnicodeNormKC</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ade9b236510365125beb73ce8c7347fd5a6bc71341f3a88c030bc7f46992d39c99</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="enumvalue">
-      <name>kUnicodeNormKD</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ade9b236510365125beb73ce8c7347fd5ad8daa621694a792a6b4368b2e1caccad</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>hashString8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a166ebc6677e19253cda1f55ead2b8106</anchor>
-      <arglist>(const char8 *s, uint32 m)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>hashString16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a61e26dc8165fa82a90f930a1f8367a3c</anchor>
-      <arglist>(const char16 *s, uint32 m)</arglist>
-    </member>
-    <member kind="function">
-      <type>uint32</type>
-      <name>hashString</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab9e1f71a717bf28978e67938cf197360</anchor>
-      <arglist>(const char *s, uint32 m)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ada25fd2a2681fec14af4507826ffdfe8</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2c3adccbf0361ed1e35dc58f474aa783</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a0047a2ab78ce4594023b5691eda91128</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>adafb26f233ad745fb7503011697a8d89</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4d79863da188e183ae4150116906ad6b</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a02a54515930b11df9cb7c05ed0a663</anchor>
-      <arglist>(const ConstString &amp;s1, const String &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af032c74c6993e1abfbd7bccda3fea33d</anchor>
-      <arglist>(const String &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac18cc72253d13ec535ba0187d07759af</anchor>
-      <arglist>(const String &amp;s1, const String &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa19edede938efc8875df07e2079cb898</anchor>
-      <arglist>(const String &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ae356517d1995baa9053ae4cbec848b85</anchor>
-      <arglist>(const String &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a86f7c6c4e0f84a11e5583452e809debe</anchor>
-      <arglist>(const char8 *s1, const String &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>String</type>
-      <name>operator+</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a484a5c7b2980c3eddde1777f4f8740e2</anchor>
-      <arglist>(const char16 *s1, const String &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad5ce23c4f9cca43a9f66ef23d9325159</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>afc04c8ac4717595b641a119f8e1f4c08</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac98deb5a1f36329c44edeee647d46431</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a98082cddf36f42dae42928aab7b7d704</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af65b89110f91b435a658a09cde45ee6b</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aaad28d7939d8454ba62e2ed43e6b6a07</anchor>
-      <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acf5c2d96088a26678de1f7ba2b0610a9</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab4e3d70dc9e542aa4830d9026f49e318</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a296a0841f7c8f2fc3a5708556c720a5a</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a111fe3210982295b10c2b0a6c64f8849</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8e6d100fac4f2e9011a595eb516d21ea</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acf534ee8bc3f7368a3a21e666eb87e88</anchor>
-      <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7e81e3384f1e73b68dba43f8ca561b27</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7784e17f867a990478e8b3a25216f047</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7792b96abbdb52f88644a2d7fdc0635d</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a763dcfcbf62f158517e3265575e09b03</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af532a1fe0c1fa0b787fb1c6fa58048e4</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a294195888b30e4aa51ac89171313dddd</anchor>
-      <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7a3ef53c29d18481261d4ad40fbd93d8</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a5dac4595f7ec9120e736fc4a72b263a4</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a59823787882c26e6dc2a849a23785b22</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1bfad3a77225793f845ad097c4b694a6</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a5998cbea9b1218b35018328826e6a40d</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a34e7201686726b43099edeabc6e64b02</anchor>
-      <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4a5e176ffe4e3d42b9dbdd5ff6b6a232</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&lt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab43ab059cf7a1b2eee6dcf7db9429f72</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af8868f64b08e62fc4ca89095b748dcb3</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator&gt;=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a70fa44d88af75be3d8d5402aa761370c</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator==</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a645271d1621265af41557ff516b67961</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>operator!=</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a262d596d26d40f41fab24af7162c7020</anchor>
-      <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>strnatcmp8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab16cda4272acda12af7fe328eb3abbfa</anchor>
-      <arglist>(const char8 *s1, const char8 *s2, bool caseSensitive)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>strnatcmp16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a026eef900ab2e9f3c1390d73992a48a2</anchor>
-      <arglist>(const char16 *s1, const char16 *s2, bool caseSensitive)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>strnatcmp</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af813b691586a7d0180f9275b88d8ce86</anchor>
-      <arglist>(const char *s1, const char *s2, bool caseSensitive=true)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>hexbinary.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>hexbinary_8h.html</filename>
-    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" imported="no">base/source/fbuffer.h</includes>
+    <includes id="fbuffer_8h" name="fbuffer.h" local="yes" import="no" module="no" objc="no">base/source/fbuffer.h</includes>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::HexBinary</namespace>
-    <member kind="function">
-      <type>bool</type>
-      <name>decode</name>
-      <anchorfile>namespaceSteinberg_1_1HexBinary.html</anchorfile>
-      <anchor>a567d62615b1d9ccab3b175b4b9fc61f0</anchor>
-      <arglist>(const void *input, int32 inputSize, Buffer &amp;result)</arglist>
-    </member>
-    <member kind="function">
-      <type>bool</type>
-      <name>encode</name>
-      <anchorfile>namespaceSteinberg_1_1HexBinary.html</anchorfile>
-      <anchor>a409cabd0268ae39045fe68f7816a06af</anchor>
-      <arglist>(const void *input, int32 inputSize, Buffer &amp;result)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>timer.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>timer_8cpp.html</filename>
-    <includes id="timer_8h" name="timer.h" local="yes" imported="no">base/source/timer.h</includes>
+    <includes id="timer_8h" name="timer.h" local="yes" import="no" module="no" objc="no">base/source/timer.h</includes>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::SystemTime</namespace>
-    <member kind="function">
-      <type>int32</type>
-      <name>getTicks</name>
-      <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>ae994ceba61021313d4200996d46787f5</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getTicks64</name>
-      <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>accc64954e88f0a32add172d0189918dc</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>InjectCreateTimerFunction</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a849a1fe250eac0b91bcdbe70167d560c</anchor>
-      <arglist>(CreateTimerFunc f)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>timer.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>timer_8h.html</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">fobject.h</includes>
+    <includes id="fobject_8h" name="fobject.h" local="yes" import="no" module="no" objc="no">fobject.h</includes>
     <class kind="class">Steinberg::ITimerCallback</class>
     <class kind="class">Steinberg::Timer</class>
     <class kind="class">Steinberg::DisableDispatchingTimers</class>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::SystemTime</namespace>
-    <member kind="typedef">
-      <type>Timer *(*)(ITimerCallback *callback, uint32 intervalMilliseconds)</type>
-      <name>CreateTimerFunc</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4319ee5b75ba654ea27e72a9925da401</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getTicks64</name>
-      <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>accc64954e88f0a32add172d0189918dc</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>uint64</type>
-      <name>getTicksDuration</name>
-      <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>a5eb6e497830d117c9591a9d18faa3816</anchor>
-      <arglist>(uint64 old, uint64 now)</arglist>
-    </member>
-    <member kind="function">
-      <type>int32</type>
-      <name>getTicks</name>
-      <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>ae994ceba61021313d4200996d46787f5</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>ITimerCallback *</type>
-      <name>newTimerCallback</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a08de0e8fe9d679d09d8cd5c5f33a37df</anchor>
-      <arglist>(const Call &amp;call)</arglist>
-    </member>
-    <member kind="function">
-      <type>void</type>
-      <name>InjectCreateTimerFunction</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a849a1fe250eac0b91bcdbe70167d560c</anchor>
-      <arglist>(CreateTimerFunc f)</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>updatehandler.cpp</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>updatehandler_8cpp.html</filename>
-    <includes id="updatehandler_8h" name="updatehandler.h" local="yes" imported="no">base/source/updatehandler.h</includes>
-    <includes id="classfactoryhelpers_8h" name="classfactoryhelpers.h" local="yes" imported="no">base/source/classfactoryhelpers.h</includes>
-    <includes id="fstring_8h" name="fstring.h" local="yes" imported="no">base/source/fstring.h</includes>
+    <includes id="updatehandler_8h" name="updatehandler.h" local="yes" import="no" module="no" objc="no">base/source/updatehandler.h</includes>
+    <includes id="classfactoryhelpers_8h" name="classfactoryhelpers.h" local="yes" import="no" module="no" objc="no">base/source/classfactoryhelpers.h</includes>
+    <includes id="fstring_8h" name="fstring.h" local="yes" import="no" module="no" objc="no">base/source/fstring.h</includes>
     <namespace>Steinberg</namespace>
     <member kind="define">
       <type>#define</type>
@@ -1798,19 +1029,12 @@
       <anchor>a748343c42faddaaa8b263d379c45a1a6</anchor>
       <arglist></arglist>
     </member>
-    <member kind="function">
-      <type></type>
-      <name>DEF_CLASS_IID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a03374ef5cb2e4ca5d36313f4c3dd85e2</anchor>
-      <arglist>(IUpdateManager) namespace Update</arglist>
-    </member>
   </compound>
   <compound kind="file">
     <name>updatehandler.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/base/source/</path>
     <filename>updatehandler_8h.html</filename>
-    <includes id="fobject_8h" name="fobject.h" local="yes" imported="no">base/source/fobject.h</includes>
+    <includes id="fobject_8h" name="fobject.h" local="yes" import="no" module="no" objc="no">base/source/fobject.h</includes>
     <class kind="class">Steinberg::IUpdateManager</class>
     <class kind="class">Steinberg::UpdateHandler</class>
     <namespace>Steinberg</namespace>
@@ -3665,7 +2889,7 @@
   <compound kind="class">
     <name>Steinberg::FDynLibrary</name>
     <filename>classSteinberg_1_1FDynLibrary.html</filename>
-    <base>Steinberg::FObject</base>
+    <base>FObject</base>
     <member kind="function">
       <type></type>
       <name>FDynLibrary</name>
@@ -4851,7 +4075,7 @@
   <compound kind="class">
     <name>Steinberg::IBStreamer</name>
     <filename>classSteinberg_1_1IBStreamer.html</filename>
-    <base>Steinberg::FStreamer</base>
+    <base>FStreamer</base>
     <member kind="function">
       <type></type>
       <name>IBStreamer</name>
@@ -4948,7 +4172,7 @@
   <compound kind="class">
     <name>Steinberg::String</name>
     <filename>classSteinberg_1_1String.html</filename>
-    <base>Steinberg::ConstString</base>
+    <base>ConstString</base>
     <member kind="enumeration">
       <type></type>
       <name>CharGroup</name>
@@ -5675,8 +4899,8 @@
   <compound kind="class">
     <name>Steinberg::StringObject</name>
     <filename>classSteinberg_1_1StringObject.html</filename>
-    <base>Steinberg::FObject</base>
-    <base>Steinberg::String</base>
+    <base>FObject</base>
+    <base>String</base>
     <member kind="function">
       <type></type>
       <name>StringObject</name>
@@ -5828,7 +5052,7 @@
   <compound kind="class">
     <name>Steinberg::Timer</name>
     <filename>classSteinberg_1_1Timer.html</filename>
-    <base>Steinberg::FObject</base>
+    <base>FObject</base>
     <member kind="function" virtualness="pure">
       <type>virtual void</type>
       <name>stop</name>
@@ -5847,8 +5071,8 @@
   <compound kind="class">
     <name>Steinberg::UpdateHandler</name>
     <filename>classSteinberg_1_1UpdateHandler.html</filename>
-    <base>Steinberg::FObject</base>
-    <base>Steinberg::IUpdateManager</base>
+    <base>FObject</base>
+    <base>IUpdateManager</base>
     <member kind="function">
       <type></type>
       <name>UpdateHandler</name>
@@ -6187,35 +5411,35 @@
       <type>C *</type>
       <name>FCast</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2d6b9817403c371fec28cc810cb14ea0</anchor>
+      <anchor>aaa99ecbd430edfff1c6f13067b6445c1</anchor>
       <arglist>(const FObject *object)</arglist>
     </member>
     <member kind="function">
       <type>C *</type>
       <name>FCast</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a77ef60ecf7bafa1fad170373890daf52</anchor>
+      <anchor>ab1c7c73bcf9453420493980ea0c148d6</anchor>
       <arglist>(FUnknown *unknown)</arglist>
     </member>
     <member kind="function">
       <type>IPtr&lt; I &gt;</type>
       <name>ICast</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a216bbd351fcf1f4dc80767db1d73524d</anchor>
+      <anchor>a091df1d5711be4cc3638dc4df0520e59</anchor>
       <arglist>(FObject *object)</arglist>
     </member>
     <member kind="function">
       <type>IPtr&lt; I &gt;</type>
       <name>ICast</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7ae6051c223e215dfb8704423e3fca99</anchor>
+      <anchor>a66c0905bbe3432f8a15ed3565846ae0a</anchor>
       <arglist>(FUnknown *object)</arglist>
     </member>
     <member kind="function">
       <type>C *</type>
       <name>FCastIsA</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab27ae4bf80e2aad8d6cdacfd8f6ab0f6</anchor>
+      <anchor>a30de56b256b272282807bb50634a7888</anchor>
       <arglist>(const FObject *object)</arglist>
     </member>
     <member kind="function">
@@ -6229,35 +5453,35 @@
       <type>void</type>
       <name>AssignShared</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a061c8d1b219f1b80adf65d2c1d36e899</anchor>
+      <anchor>a772adc0fcb5de416403e831a5f16797d</anchor>
       <arglist>(T *&amp;dest, T *newPtr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>AssignSharedDependent</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a52db63df2d44c7a493bf7b5ce39df1a6</anchor>
+      <anchor>a1bd8111a2b52e57f15758f0e1d7b3f5c</anchor>
       <arglist>(IDependent *_this, T *&amp;dest, T *newPtr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>AssignSharedDependent</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8567982a150047c011e89c7185871d96</anchor>
+      <anchor>a785dfd10645feff83d9c49db1a2df56c</anchor>
       <arglist>(IDependent *_this, IPtr&lt; T &gt; &amp;dest, T *newPtr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeReleaseDependent</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a0869140d4f11c3f1dae20794daa85b5f</anchor>
+      <anchor>afb5bf71aafd7a70c707c9f0a9f64eb0b</anchor>
       <arglist>(IDependent *_this, T *&amp;dest)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeReleaseDependent</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad047921ea5c9ffd8f4b5e2c31d30d819</anchor>
+      <anchor>aa23406c35d7e68e9717fee2dd47b8c27</anchor>
       <arglist>(IDependent *_this, IPtr&lt; T &gt; &amp;dest)</arglist>
     </member>
     <member kind="function">
@@ -6278,7 +5502,7 @@
       <type>int32</type>
       <name>tstrnatcmp</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>adcccbbf0a6580038c4fb1f0dbf91667f</anchor>
+      <anchor>ab49c72fbc0f3f79e0c5cad7e1a1c1948</anchor>
       <arglist>(const T *s1, const T *s2, bool caseSensitive=true)</arglist>
     </member>
     <member kind="function">
@@ -6299,308 +5523,308 @@
       <type>uint32</type>
       <name>hashString</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab9e1f71a717bf28978e67938cf197360</anchor>
+      <anchor>a10e32f745d0b3c92a9f5a5451e41a4de</anchor>
       <arglist>(const char *s, uint32 m)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ada25fd2a2681fec14af4507826ffdfe8</anchor>
+      <anchor>a3155d38c91dcb6c45bea66fb4368e531</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2c3adccbf0361ed1e35dc58f474aa783</anchor>
+      <anchor>a9a4658b79e6a9303f069f9c691b924ae</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a0047a2ab78ce4594023b5691eda91128</anchor>
+      <anchor>a055404c06cb83078880eaaef06e9f2ee</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>adafb26f233ad745fb7503011697a8d89</anchor>
+      <anchor>ad508987e258de47bbddda23ec201f0e2</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4d79863da188e183ae4150116906ad6b</anchor>
+      <anchor>a9f22e3d13ec01912b2fff389d0981af2</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a02a54515930b11df9cb7c05ed0a663</anchor>
+      <anchor>a1cff4c7660c9f6c271f48924f386daed</anchor>
       <arglist>(const ConstString &amp;s1, const String &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af032c74c6993e1abfbd7bccda3fea33d</anchor>
+      <anchor>a1160c9c417a2e61f11e7629fa8f6ed16</anchor>
       <arglist>(const String &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac18cc72253d13ec535ba0187d07759af</anchor>
+      <anchor>aa32f7361ca2291f8996eec46dd3baaed</anchor>
       <arglist>(const String &amp;s1, const String &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa19edede938efc8875df07e2079cb898</anchor>
+      <anchor>a1f31e0e18362a5bebc804bf994f74050</anchor>
       <arglist>(const String &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ae356517d1995baa9053ae4cbec848b85</anchor>
+      <anchor>a12a3a80f34eae89860ed5fb052ee154e</anchor>
       <arglist>(const String &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a86f7c6c4e0f84a11e5583452e809debe</anchor>
+      <anchor>af0c9f4db99f573ff28fc33641ce3f555</anchor>
       <arglist>(const char8 *s1, const String &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>String</type>
       <name>operator+</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a484a5c7b2980c3eddde1777f4f8740e2</anchor>
+      <anchor>ad7f6150162fb8088641b8bf2e1c3c58e</anchor>
       <arglist>(const char16 *s1, const String &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad5ce23c4f9cca43a9f66ef23d9325159</anchor>
+      <anchor>af984eeef41f56a35efe53f729c0bf288</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>afc04c8ac4717595b641a119f8e1f4c08</anchor>
+      <anchor>ab18fee5da302c1ba95f1efa733c33fd7</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac98deb5a1f36329c44edeee647d46431</anchor>
+      <anchor>ab2522d939d642f5d858f97a4c1c1594b</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a98082cddf36f42dae42928aab7b7d704</anchor>
+      <anchor>af2bdbaf87284f1ef8cb2f94f7ef4d0c2</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af65b89110f91b435a658a09cde45ee6b</anchor>
+      <anchor>a7538d316b3f7641c7bf995c13065e01e</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aaad28d7939d8454ba62e2ed43e6b6a07</anchor>
+      <anchor>ad8e66fc1224bac0b5c95771f0aebcc2d</anchor>
       <arglist>(const ConstString &amp;s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acf5c2d96088a26678de1f7ba2b0610a9</anchor>
+      <anchor>ac69b374716b8c0ea1660a030725fd69b</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab4e3d70dc9e542aa4830d9026f49e318</anchor>
+      <anchor>a0434dd8b67dbb2ee226a97df5c10c2aa</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a296a0841f7c8f2fc3a5708556c720a5a</anchor>
+      <anchor>a79cae2826b626bbdfb94d3eb03e9d664</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a111fe3210982295b10c2b0a6c64f8849</anchor>
+      <anchor>ad508b8fafd0d50f80a5af91ebd149e94</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8e6d100fac4f2e9011a595eb516d21ea</anchor>
+      <anchor>ae816ebbf8a4272559155f0efa0b41755</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acf534ee8bc3f7368a3a21e666eb87e88</anchor>
+      <anchor>af6783db572730e5e7106ab6eedd56719</anchor>
       <arglist>(const ConstString &amp;s1, const char8 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7e81e3384f1e73b68dba43f8ca561b27</anchor>
+      <anchor>ae22557acadc178c8dc4078635a1131a8</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7784e17f867a990478e8b3a25216f047</anchor>
+      <anchor>a342d99f6485a4661fbbc76f95da3746c</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7792b96abbdb52f88644a2d7fdc0635d</anchor>
+      <anchor>ac5edebe9b613bbb57e904219daa7ff41</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a763dcfcbf62f158517e3265575e09b03</anchor>
+      <anchor>a9de9564f26666cbbfc0275be65833f82</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af532a1fe0c1fa0b787fb1c6fa58048e4</anchor>
+      <anchor>a6af84d6cb183b6ad7f3916ae2d28f5b2</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a294195888b30e4aa51ac89171313dddd</anchor>
+      <anchor>a30c33771c8918d82749e86fb39e88fa3</anchor>
       <arglist>(const char8 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7a3ef53c29d18481261d4ad40fbd93d8</anchor>
+      <anchor>a40f305f690252b206d5eba504dc4281a</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a5dac4595f7ec9120e736fc4a72b263a4</anchor>
+      <anchor>a6d6fc94ec879713fcc5402af441f0d5f</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a59823787882c26e6dc2a849a23785b22</anchor>
+      <anchor>a980a5443d78ac3c86e65c2f804864c67</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1bfad3a77225793f845ad097c4b694a6</anchor>
+      <anchor>a42f60bc417bd9ffeb9205ffc681f9790</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a5998cbea9b1218b35018328826e6a40d</anchor>
+      <anchor>a09c78eceba69bd833b851eba67edb6a2</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a34e7201686726b43099edeabc6e64b02</anchor>
+      <anchor>a77e2c1c2844f7f7772f5d8028f3f053a</anchor>
       <arglist>(const ConstString &amp;s1, const char16 *s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a4a5e176ffe4e3d42b9dbdd5ff6b6a232</anchor>
+      <anchor>acb49ed37614b6e1f3178370ef4aaafe7</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&lt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab43ab059cf7a1b2eee6dcf7db9429f72</anchor>
+      <anchor>a4e32aabca60b845bcca2623afff73857</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af8868f64b08e62fc4ca89095b748dcb3</anchor>
+      <anchor>a1a6f31857fed231db26e7cbf98006227</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator&gt;=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a70fa44d88af75be3d8d5402aa761370c</anchor>
+      <anchor>a300e4bd67e98875763a7a41a18a1118a</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator==</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a645271d1621265af41557ff516b67961</anchor>
+      <anchor>a0bd3398321ae2e95484d87cae62fff82</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>operator!=</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a262d596d26d40f41fab24af7162c7020</anchor>
+      <anchor>a67c03198b511b5a6aef7a56c785d0a0d</anchor>
       <arglist>(const char16 *s1, const ConstString &amp;s2)</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
       <name>strnatcmp</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af813b691586a7d0180f9275b88d8ce86</anchor>
+      <anchor>a48bea2ed4f6c2a9289b951c28986ba24</anchor>
       <arglist>(const char *s1, const char *s2, bool caseSensitive=true)</arglist>
     </member>
     <member kind="function">
@@ -6614,35 +5838,35 @@
       <type>ITimerCallback *</type>
       <name>newTimerCallback</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a08de0e8fe9d679d09d8cd5c5f33a37df</anchor>
+      <anchor>a20d54de852fbc17f7e111abb18ed21a9</anchor>
       <arglist>(const Call &amp;call)</arglist>
     </member>
     <member kind="function">
       <type></type>
       <name>DEF_CLASS_IID</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a03374ef5cb2e4ca5d36313f4c3dd85e2</anchor>
+      <anchor>a57552eb91226c5988fde6bbd5a75c700</anchor>
       <arglist>(IUpdateManager) namespace Update</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a694fec3dd0db8909ea3289ba1de4f494</anchor>
+      <anchor>a69050516521be935150d7cc9cbdd6d07</anchor>
       <arglist>(I *&amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2b4982585b3f7bc20622a0f5b81fcb43</anchor>
+      <anchor>a7bc17c908b6a840c80c88cf97ccd49f4</anchor>
       <arglist>(IPtr&lt; I &gt; &amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeDelete</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a7b3d6a54e6b821d843acdbb90ec7a1</anchor>
+      <anchor>a7003153d08b04bbbd48f67260561b7ae</anchor>
       <arglist>(T *&amp;ptr)</arglist>
     </member>
     <member kind="variable">
@@ -6656,21 +5880,21 @@
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a694fec3dd0db8909ea3289ba1de4f494</anchor>
+      <anchor>a69050516521be935150d7cc9cbdd6d07</anchor>
       <arglist>(I *&amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeRelease</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2b4982585b3f7bc20622a0f5b81fcb43</anchor>
+      <anchor>a7bc17c908b6a840c80c88cf97ccd49f4</anchor>
       <arglist>(IPtr&lt; I &gt; &amp;ptr)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
       <name>SafeDelete</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1a7b3d6a54e6b821d843acdbb90ec7a1</anchor>
+      <anchor>a7003153d08b04bbbd48f67260561b7ae</anchor>
       <arglist>(T *&amp;ptr)</arglist>
     </member>
   </compound>
@@ -6709,14 +5933,14 @@
       <type>bool</type>
       <name>decode</name>
       <anchorfile>namespaceSteinberg_1_1HexBinary.html</anchorfile>
-      <anchor>a567d62615b1d9ccab3b175b4b9fc61f0</anchor>
+      <anchor>acb08b9e10decd3e90cbc9be922b7c424</anchor>
       <arglist>(const void *input, int32 inputSize, Buffer &amp;result)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>encode</name>
       <anchorfile>namespaceSteinberg_1_1HexBinary.html</anchorfile>
-      <anchor>a409cabd0268ae39045fe68f7816a06af</anchor>
+      <anchor>a25273cf9c94e82ef1bfc5f47be1261ff</anchor>
       <arglist>(const void *input, int32 inputSize, Buffer &amp;result)</arglist>
     </member>
   </compound>
@@ -6808,7 +6032,7 @@
       <type>uint64</type>
       <name>getTicksDuration</name>
       <anchorfile>namespaceSteinberg_1_1SystemTime.html</anchorfile>
-      <anchor>a5eb6e497830d117c9591a9d18faa3816</anchor>
+      <anchor>ad0322b1604c6a282f6884f5c59ffcc7b</anchor>
       <arglist>(uint64 old, uint64 now)</arglist>
     </member>
   </compound>

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['fidstring_0',['FIDString',['../namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5',1,'Steinberg']]],
-  ['filedescriptor_1',['FileDescriptor',['../namespaceSteinberg_1_1Linux.html#a9c80aaf6d9c6451b471e97de46595753',1,'Steinberg::Linux']]]
+  ['getfactoryproc_0',['GetFactoryProc',['../ipluginbase_8h.html#aa9191a0df91519481477d0ed17802104',1,'ipluginbase.h']]]
 ];

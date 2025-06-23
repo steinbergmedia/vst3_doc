@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1TestSuite =
 [
     [ "Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test" ],
-    [ "TestSuitePair", "classSteinberg_1_1Vst_1_1TestSuite.html#a7b66f5f92eb311aed02726c38b7bcdb8", null ],
+    [ "TestSuitePair", "classSteinberg_1_1Vst_1_1TestSuite.html#a690bd2d231545c3c795ac156274f2f89", null ],
     [ "TestSuiteVector", "classSteinberg_1_1Vst_1_1TestSuite.html#afecb8a3440f3b9772a44e2954219f6ad", null ],
     [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html#aa17ab95efd66681927463ebcd8b83c46", null ],
     [ "addTest", "classSteinberg_1_1Vst_1_1TestSuite.html#ab5cd3d6642bf98c0e011eec89e1f7eab", null ],

@@ -20,5 +20,5 @@ var searchData=
   ['triggerupdates_17',['triggerUpdates',['../classSteinberg_1_1UpdateHandler.html#a0fc8d0ba8be89cecce9f6d82c804b59c',1,'Steinberg::UpdateHandler']]],
   ['trim_18',['trim',['../classSteinberg_1_1String.html#a80d652fd1a09fe0c4e667c670f9b2dd5',1,'Steinberg::String']]],
   ['truncatetofillsize_19',['truncateToFillSize',['../classSteinberg_1_1Buffer.html#a1a3b64cb526cc540ab6e7e533ab07efd',1,'Steinberg::Buffer']]],
-  ['tstrnatcmp_20',['tstrnatcmp',['../namespaceSteinberg.html#adcccbbf0a6580038c4fb1f0dbf91667f',1,'Steinberg']]]
+  ['tstrnatcmp_20',['tstrnatcmp',['../namespaceSteinberg.html#ab49c72fbc0f3f79e0c5cad7e1a1c1948',1,'Steinberg']]]
 ];

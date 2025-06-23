@@ -157,7 +157,7 @@ var group__views =
     ] ],
     [ "CView", "class_v_s_t_g_u_i_1_1_c_view.html", [
       [ "Impl", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html", [
-        [ "ViewAttributes", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#a100134f13c87a3757fafbc164be77c1c", null ],
+        [ "ViewAttributes", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#aa6fff649fe3829fcc4af11ac16c33312", null ],
         [ "ViewEventListenerDispatcher", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#aaea1e7b52a7b3a8ad5dac0528d998a92", null ],
         [ "ViewListenerDispatcher", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#a65c97ee3c9284111d8d438c77a7310f1", null ],
         [ "ViewMouseListenerDispatcher", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#a875e0ddc4e05071b2cf60094b735d8c7", null ],

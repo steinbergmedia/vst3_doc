@@ -1,4 +1,4 @@
 var eventlist_8cpp =
 [
-    [ "IMPLEMENT_FUNKNOWN_METHODS", "eventlist_8cpp.html#a14da991e5b59eb10c9ad2d5fb90bbaee", null ]
+    [ "IMPLEMENT_FUNKNOWN_METHODS", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a5d7c59e33cc6c06380586a5ed763479b", null ]
 ];

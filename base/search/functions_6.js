@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['fidstringsequal_0',['FIDStringsEqual',['../namespaceSteinberg.html#ae609f786a23774a473851d3eddaa22ff',1,'Steinberg']]],
+  ['fidstringsequal_0',['FIDStringsEqual',['../namespaceSteinberg.html#afcb1a763178c9806cc827360a02741e2',1,'Steinberg']]],
   ['freleaser_1',['FReleaser',['../structSteinberg_1_1FReleaser.html#a9aeee674f38393febf98f8cf953657f5',1,'Steinberg::FReleaser']]],
   ['from4int_2',['from4Int',['../classSteinberg_1_1FUID.html#ad4ecb2d9af5f8cf17d6ec497f871f13a',1,'Steinberg::FUID']]],
   ['fromascii_3',['fromAscii',['../structSteinberg_1_1PClassInfoW.html#a4bf4cd78c431e64f21d4bd2005813e9d',1,'Steinberg::PClassInfoW::fromAscii()'],['../classSteinberg_1_1UString.html#a3862d0f352b58aaf5159ff9751d1b3d1',1,'Steinberg::UString::fromAscii()']]],
-  ['fromnormalized_4',['FromNormalized',['../namespaceSteinberg.html#a15c8c1bdcb98836c8074a36c9458c048',1,'Steinberg']]],
+  ['fromnormalized_4',['FromNormalized',['../namespaceSteinberg.html#a53b9fdb1691391567d0bd6697ddc503c',1,'Steinberg']]],
   ['fromregistrystring_5',['fromRegistryString',['../classSteinberg_1_1FUID.html#a8124e38def2946aa169b72c0fdb115bb',1,'Steinberg::FUID']]],
   ['fromstring_6',['fromString',['../classSteinberg_1_1FUID.html#a1e809eb52c1b13101a137f4f722d93ab',1,'Steinberg::FUID']]],
   ['fromtuid_7',['fromTUID',['../classSteinberg_1_1FUID.html#a23ebc24784d7e1065dd4685c348921d6',1,'Steinberg::FUID']]],

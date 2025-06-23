@@ -9,5 +9,5 @@ var pluginfactory_8h =
     [ "DEF_CLASS_W2", "group__classFactoryMacros.html#ga790d425a588499b53552614009b8bbfe", null ],
     [ "END_FACTORY", "group__classFactoryMacros.html#ga962bbf29e9f424c00fd43493fb8f9489", null ],
     [ "DEF_VST3_CLASS", "group__classFactoryMacros.html#ga9fdf83113c2b2dddbb42811957843dd6", null ],
-    [ "gPluginFactory", "pluginfactory_8h.html#a8424a16f6b47419c0c3bb4b7b1374d81", null ]
+    [ "gPluginFactory", "../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81", null ]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['about_0',['About',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_name.html#ab7f8c189c4daa1c6180f7a918ddaae42',1,'VSTGUI::Standalone::CommandName::About()'],['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html#a87cfb23bb2655f7dca7aae3d0a7fef52',1,'VSTGUI::Standalone::Commands::About()']]],
+  ['about_0',['About',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_name.html#ab7f8c189c4daa1c6180f7a918ddaae42',1,'VSTGUI::Standalone::CommandName::About'],['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html#a87cfb23bb2655f7dca7aae3d0a7fef52',1,'VSTGUI::Standalone::Commands::About']]],
   ['active_1',['active',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a03c996f9fcf0e10baeb3e700be0c409a',1,'VSTGUI::CFrame::Impl']]],
   ['activefocusview_2',['activeFocusView',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a01d261b33a34bd0a3bf951da935c3067',1,'VSTGUI::CFrame::Impl']]],
   ['activescrollbarstyle_3',['activeScrollbarStyle',['../class_v_s_t_g_u_i_1_1_c_scroll_view.html#a6e7d66c797bece478be8cf6e6578bf8c',1,'VSTGUI::CScrollView']]],
@@ -10,7 +10,7 @@ var searchData=
   ['animationframetime_7',['animationFrameTime',['../class_v_s_t_g_u_i_1_1_c_auto_animation.html#a275bcd40970f1aaae9a958fd95d1e803',1,'VSTGUI::CAutoAnimation']]],
   ['animationindex_8',['animationIndex',['../class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a99de761c9ac5817ab552eba94d954786',1,'VSTGUI::CAnimationSplashScreen']]],
   ['animationstyle_9',['animationStyle',['../class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a0395c1c995896dcc42f9e7c7322147fa',1,'VSTGUI::UIViewSwitchContainer']]],
-  ['animationtime_10',['animationTime',['../class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::CAnimationSplashScreen::animationTime()'],['../class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::UIViewSwitchContainer::animationTime()']]],
+  ['animationtime_10',['animationTime',['../class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::CAnimationSplashScreen::animationTime'],['../class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a558e2d543ddb0d0029564890c433c661',1,'VSTGUI::UIViewSwitchContainer::animationTime']]],
   ['animator_11',['animator',['../struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a75da6aee5022106edcbd8ad3ea6f543e',1,'VSTGUI::CFrame::Impl']]],
   ['application_12',['Application',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_group.html#a3e27afa829309036a28ce2a244a78f1f',1,'VSTGUI::Standalone::CommandGroup']]],
   ['assertionhandler_13',['assertionHandler',['../namespace_v_s_t_g_u_i.html#ac8534d324abb28a3408624afe03d14df',1,'VSTGUI']]],

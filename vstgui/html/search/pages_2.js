@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deprecated_20list_0',['Deprecated List',['../deprecated.html',1,'']]]
+  ['6_20and_20earlier_0',['New Stuff in VSTGUI 3.6 and earlier',['../page_previous_new_stuff.html',1,'page_news_and_changes']]]
 ];

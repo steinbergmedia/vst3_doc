@@ -5,7 +5,7 @@ var searchData=
   ['hasaboutdialog_2',['hasAboutDialog',['../class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a34afeeb0d531536f7b13a8abbb61d093',1,'VSTGUI::Standalone::Application::DelegateAdapter::hasAboutDialog()'],['../class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#aeb033b6b37cf05d4c7fe27772ca85f9a',1,'VSTGUI::Standalone::Application::IDelegate::hasAboutDialog()']]],
   ['hasassertionhandler_3',['hasAssertionHandler',['../namespace_v_s_t_g_u_i.html#ab0411f6642b03599f6d293af2c17079c',1,'VSTGUI']]],
   ['hasattribute_4',['hasAttribute',['../class_v_s_t_g_u_i_1_1_u_i_attributes.html#ad52e5687361be08bae90b7f0479ac675',1,'VSTGUI::UIAttributes']]],
-  ['hasbit_5',['hasBit',['../namespace_v_s_t_g_u_i.html#ad9eec0b3cf87e9731da4b76d93d19b2d',1,'VSTGUI']]],
+  ['hasbit_5',['hasBit',['../namespace_v_s_t_g_u_i.html#a64ee641cfa5acff3b6d1640b8034b7e4',1,'VSTGUI']]],
   ['hasbitmapname_6',['hasBitmapName',['../class_v_s_t_g_u_i_1_1_u_i_description.html#aaca2e99f8b71920196663d73357b7781',1,'VSTGUI::UIDescription']]],
   ['hasborder_7',['hasBorder',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_window_style.html#ad35e861e6e70148df3996fd2ba71091f',1,'VSTGUI::Standalone::WindowStyle']]],
   ['haschildren_8',['hasChildren',['../class_v_s_t_g_u_i_1_1_c_view_container.html#abae2ef4777ea28fa9acc234111dc84eb',1,'VSTGUI::CViewContainer']]],

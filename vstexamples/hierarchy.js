@@ -15,9 +15,8 @@ var hierarchy =
     [ "FObject", null, [
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ],
       [ "TestSuite", "classSteinberg_1_1Vst_1_1TestSuite.html", null ],
-      [ "TestSuite::Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", null ],
-      [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ],
-      [ "VstModule", "classSteinberg_1_1Vst_1_1VstModule.html", null ]
+      [ "Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", null ],
+      [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ]
     ] ],
     [ "FUnknown", "../base/classSteinberg_1_1FUnknown.html", [
       [ "IPluginBase", "../base/classSteinberg_1_1IPluginBase.html", [
@@ -228,15 +227,16 @@ var hierarchy =
       [ "App", "classSteinberg_1_1Vst_1_1EditorHost_1_1App.html", null ]
     ] ],
     [ "IController", null, [
+      [ "AGainUIMessageController< AGainController >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ],
       [ "AGainUIMessageController< ControllerType >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ],
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ],
       [ "NoteTouchController", "classVSTGUI_1_1NoteTouchController.html", null ]
     ] ],
-    [ "EPianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
-    [ "PianoProcessor::KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
+    [ "KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
+    [ "KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
     [ "LogEvent", "structLogEvent.html", null ],
     [ "LogScale< T >", "classSteinberg_1_1Vst_1_1LogScale.html", null ],
-    [ "Validator::ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", null ],
+    [ "ModuleTestConfig", "structSteinberg_1_1Vst_1_1Validator_1_1ModuleTestConfig.html", null ],
     [ "Parameter", "../vstsdk/classSteinberg_1_1Vst_1_1Parameter.html", [
       [ "LogScaleParameter< T >", "classSteinberg_1_1Vst_1_1LogScaleParameter.html", null ],
       [ "BaseParameter", "classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html", [
@@ -248,20 +248,20 @@ var hierarchy =
     [ "ParameterChangesCheck", "classParameterChangesCheck.html", null ],
     [ "ProcessContextCheck", "classProcessContextCheck.html", null ],
     [ "ProcessSetupCheck", "classProcessSetupCheck.html", null ],
-    [ "HostCheckerController::ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", null ],
+    [ "ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", null ],
     [ "SyncEntry", "structSteinberg_1_1Vst_1_1SyncEntry.html", null ],
     [ "SynthData< VoiceT, kEventBufferSize, kNumVoices >", "structSteinberg_1_1Vst_1_1mda_1_1SynthData.html", null ],
-    [ "SynthData< VOICE, kEventBufferSize, kNumVoices >", "structSteinberg_1_1Vst_1_1mda_1_1SynthData.html", null ],
     [ "UIViewController", null, [
       [ "VSTInterAppAudioHostUIControllerViewController", "interfaceVSTInterAppAudioHostUIControllerViewController.html", null ]
     ] ],
     [ "ViewListenerAdapter", null, [
+      [ "AGainUIMessageController< AGainController >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ],
       [ "AGainUIMessageController< ControllerType >", "classSteinberg_1_1Vst_1_1AGainUIMessageController.html", null ]
     ] ],
-    [ "DX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
-    [ "EPianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
-    [ "JX10Processor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
-    [ "PianoProcessor::VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
+    [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1DX10Processor_1_1VOICE.html", null ],
+    [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html", null ],
+    [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html", null ],
+    [ "VOICE", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html", null ],
     [ "VoiceBase< numValues, SamplePrecision, numChannels, GlobalParameterStorage >", "classSteinberg_1_1Vst_1_1VoiceBase.html", null ],
     [ "VoiceBase< kNumParameters, SamplePrecision, 2, GlobalParameterState >", "classSteinberg_1_1Vst_1_1VoiceBase.html", [
       [ "Voice< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Voice.html", null ]

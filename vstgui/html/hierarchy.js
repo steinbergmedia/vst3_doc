@@ -17,10 +17,10 @@ var hierarchy =
     [ "CColorChooserUISettings", "struct_v_s_t_g_u_i_1_1_c_color_chooser_u_i_settings.html", null ],
     [ "CDragContainerHelper", "class_v_s_t_g_u_i_1_1_c_drag_container_helper.html", null ],
     [ "CDrawMode", "struct_v_s_t_g_u_i_1_1_c_draw_mode.html", null ],
-    [ "CDataBrowser::Cell", "struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html", null ],
+    [ "Cell", "struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html", null ],
     [ "CExternalViewBaseImpl", "struct_v_s_t_g_u_i_1_1_c_external_view_base_impl.html", [
-      [ "CExternalControl::Impl", "struct_v_s_t_g_u_i_1_1_c_external_control_1_1_impl.html", null ],
-      [ "CExternalView::Impl", "struct_v_s_t_g_u_i_1_1_c_external_view_1_1_impl.html", null ]
+      [ "Impl", "struct_v_s_t_g_u_i_1_1_c_external_control_1_1_impl.html", null ],
+      [ "Impl", "struct_v_s_t_g_u_i_1_1_c_external_view_1_1_impl.html", null ]
     ] ],
     [ "CFileExtension", "class_v_s_t_g_u_i_1_1_c_file_extension.html", null ],
     [ "CFontChooserUIDefinition", "struct_v_s_t_g_u_i_1_1_c_font_chooser_u_i_definition.html", null ],
@@ -43,7 +43,7 @@ var hierarchy =
     ] ],
     [ "CMultiFrameBitmapDescription", "struct_v_s_t_g_u_i_1_1_c_multi_frame_bitmap_description.html", null ],
     [ "CNinePartTiledDescription", "struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html", null ],
-    [ "CFrame::CollectInvalidRects", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html", null ],
+    [ "CollectInvalidRects", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html", null ],
     [ "Command", "struct_v_s_t_g_u_i_1_1_standalone_1_1_command.html", null ],
     [ "ConcatClip", "struct_v_s_t_g_u_i_1_1_concat_clip.html", null ],
     [ "Config", "struct_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_config.html", null ],
@@ -52,16 +52,13 @@ var hierarchy =
     [ "CRect", "struct_v_s_t_g_u_i_1_1_c_rect.html", null ],
     [ "CResourceDescription", "class_v_s_t_g_u_i_1_1_c_resource_description.html", null ],
     [ "DataPackageIterator", "struct_v_s_t_g_u_i_1_1_data_package_iterator.html", null ],
-    [ "IDependency::DeferChanges", "class_v_s_t_g_u_i_1_1_i_dependency_1_1_defer_changes.html", null ],
-    [ "CCommandMenuItem::Desc", "struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html", null ],
+    [ "DeferChanges", "class_v_s_t_g_u_i_1_1_i_dependency_1_1_defer_changes.html", null ],
+    [ "Desc", "struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html", null ],
     [ "DispatchList< T >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
-    [ "DispatchList< IControlListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
-    [ "DispatchList< IViewContainerListener * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
-    [ "DispatchList< ListenerInterface * >", "class_v_s_t_g_u_i_1_1_dispatch_list.html", null ],
     [ "DragDescription", "struct_v_s_t_g_u_i_1_1_drag_description.html", null ],
     [ "DragEventData", "struct_v_s_t_g_u_i_1_1_drag_event_data.html", null ],
     [ "DragStartMouseObserver", "struct_v_s_t_g_u_i_1_1_drag_start_mouse_observer.html", null ],
-    [ "IControlViewExtension::EditCallbacks", "struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension_1_1_edit_callbacks.html", null ],
+    [ "EditCallbacks", "struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension_1_1_edit_callbacks.html", null ],
     [ "enable_shared_from_this", null, [
       [ "Group", "struct_v_s_t_g_u_i_1_1_standalone_1_1_async_1_1_group.html", null ]
     ] ],
@@ -194,15 +191,15 @@ var hierarchy =
       [ "OldMouseObserverAdapter", "class_v_s_t_g_u_i_1_1_old_mouse_observer_adapter.html", null ],
       [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
     ] ],
-    [ "CDrawContext::Impl", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl.html", null ],
-    [ "CFrame::Impl", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html", null ],
-    [ "CListControl::Impl", "struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html", null ],
-    [ "CMenuItem::Impl", "struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html", null ],
-    [ "CSlider::Impl", "struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html", null ],
-    [ "CSliderBase::Impl", "struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html", null ],
-    [ "CView::Impl", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html", null ],
-    [ "CViewContainer::Impl", "struct_v_s_t_g_u_i_1_1_c_view_container_1_1_impl.html", null ],
-    [ "StringListControlDrawer::Impl", "struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_slider_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_c_view_container_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html", null ],
     [ "IMultiBitmapControl", "class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html", [
       [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html", null ],
       [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", null ],
@@ -296,26 +293,26 @@ var hierarchy =
       [ "CLayeredViewContainer", "class_v_s_t_g_u_i_1_1_c_layered_view_container.html", null ]
     ] ],
     [ "IReference", "class_v_s_t_g_u_i_1_1_i_reference.html", [
-      [ "ICommandMenuItemTarget", "class_v_s_t_g_u_i_1_1_i_command_menu_item_target.html", [
-        [ "CommandMenuItemTargetAdapter", "class_v_s_t_g_u_i_1_1_command_menu_item_target_adapter.html", [
-          [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
+      [ "ReferenceCounted< std::atomic< int32_t > >", "class_v_s_t_g_u_i_1_1_reference_counted.html", [
+        [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html", [
+          [ "CMultiFrameBitmap", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html", null ],
+          [ "CNinePartTiledBitmap", "class_v_s_t_g_u_i_1_1_c_nine_part_tiled_bitmap.html", null ]
+        ] ],
+        [ "CBitmapPixelAccess", "class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html", null ],
+        [ "CDrawContext", "class_v_s_t_g_u_i_1_1_c_draw_context.html", [
+          [ "COffscreenContext", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html", null ]
+        ] ],
+        [ "CFileStream", "class_v_s_t_g_u_i_1_1_c_file_stream.html", null ],
+        [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html", null ],
+        [ "CGradient", "class_v_s_t_g_u_i_1_1_c_gradient.html", null ],
+        [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html", null ],
+        [ "CMemoryStream", "class_v_s_t_g_u_i_1_1_c_memory_stream.html", null ],
+        [ "IDataPackage", "class_v_s_t_g_u_i_1_1_i_data_package.html", [
+          [ "StringDataPackage< AsFile >", "struct_v_s_t_g_u_i_1_1_c_clipboard_detail_1_1_string_data_package.html", null ],
+          [ "CDropSource", "class_v_s_t_g_u_i_1_1_c_drop_source.html", null ]
         ] ]
       ] ],
-      [ "IDragCallback", "class_v_s_t_g_u_i_1_1_i_drag_callback.html", [
-        [ "DragCallbackAdapter", "class_v_s_t_g_u_i_1_1_drag_callback_adapter.html", null ],
-        [ "DragCallbackFunctions", "class_v_s_t_g_u_i_1_1_drag_callback_functions.html", null ]
-      ] ],
-      [ "IDropTarget", "class_v_s_t_g_u_i_1_1_i_drop_target.html", [
-        [ "CViewContainerDropTarget", "struct_v_s_t_g_u_i_1_1_c_view_container_drop_target.html", null ],
-        [ "DropTargetAdapter", "class_v_s_t_g_u_i_1_1_drop_target_adapter.html", null ]
-      ] ],
-      [ "IListControlConfigurator", "class_v_s_t_g_u_i_1_1_i_list_control_configurator.html", [
-        [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html", null ]
-      ] ],
-      [ "IListControlDrawer", "class_v_s_t_g_u_i_1_1_i_list_control_drawer.html", [
-        [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", null ]
-      ] ],
-      [ "ReferenceCounted< T >", "class_v_s_t_g_u_i_1_1_reference_counted.html", [
+      [ "ReferenceCounted< int32_t >", "class_v_s_t_g_u_i_1_1_reference_counted.html", [
         [ "AlphaValueAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_alpha_value_animation.html", null ],
         [ "Animator", "class_v_s_t_g_u_i_1_1_animation_1_1_animator.html", null ],
         [ "ControlValueAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_control_value_animation.html", null ],
@@ -355,25 +352,8 @@ var hierarchy =
           [ "GenericStringListDataBrowserSource", "class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html", null ],
           [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html", null ]
         ] ],
-        [ "CBitmap", "class_v_s_t_g_u_i_1_1_c_bitmap.html", [
-          [ "CMultiFrameBitmap", "class_v_s_t_g_u_i_1_1_c_multi_frame_bitmap.html", null ],
-          [ "CNinePartTiledBitmap", "class_v_s_t_g_u_i_1_1_c_nine_part_tiled_bitmap.html", null ]
-        ] ],
-        [ "CBitmapPixelAccess", "class_v_s_t_g_u_i_1_1_c_bitmap_pixel_access.html", null ],
-        [ "CDrawContext", "class_v_s_t_g_u_i_1_1_c_draw_context.html", [
-          [ "COffscreenContext", "class_v_s_t_g_u_i_1_1_c_offscreen_context.html", null ]
-        ] ],
-        [ "CFileStream", "class_v_s_t_g_u_i_1_1_c_file_stream.html", null ],
-        [ "CFontDesc", "class_v_s_t_g_u_i_1_1_c_font_desc.html", null ],
-        [ "CGradient", "class_v_s_t_g_u_i_1_1_c_gradient.html", null ],
-        [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html", null ],
-        [ "CMemoryStream", "class_v_s_t_g_u_i_1_1_c_memory_stream.html", null ],
         [ "CViewContainerDropTarget", "struct_v_s_t_g_u_i_1_1_c_view_container_drop_target.html", null ],
         [ "DragCallbackFunctions", "class_v_s_t_g_u_i_1_1_drag_callback_functions.html", null ],
-        [ "IDataPackage", "class_v_s_t_g_u_i_1_1_i_data_package.html", [
-          [ "StringDataPackage< AsFile >", "struct_v_s_t_g_u_i_1_1_c_clipboard_detail_1_1_string_data_package.html", null ],
-          [ "CDropSource", "class_v_s_t_g_u_i_1_1_c_drop_source.html", null ]
-        ] ],
         [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html", null ],
         [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", null ],
         [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html", null ],
@@ -381,7 +361,27 @@ var hierarchy =
           [ "CompressedUIDescription", "class_v_s_t_g_u_i_1_1_compressed_u_i_description.html", null ]
         ] ],
         [ "UIViewFactory", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html", null ]
-      ] ]
+      ] ],
+      [ "ICommandMenuItemTarget", "class_v_s_t_g_u_i_1_1_i_command_menu_item_target.html", [
+        [ "CommandMenuItemTargetAdapter", "class_v_s_t_g_u_i_1_1_command_menu_item_target_adapter.html", [
+          [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
+        ] ]
+      ] ],
+      [ "IDragCallback", "class_v_s_t_g_u_i_1_1_i_drag_callback.html", [
+        [ "DragCallbackAdapter", "class_v_s_t_g_u_i_1_1_drag_callback_adapter.html", null ],
+        [ "DragCallbackFunctions", "class_v_s_t_g_u_i_1_1_drag_callback_functions.html", null ]
+      ] ],
+      [ "IDropTarget", "class_v_s_t_g_u_i_1_1_i_drop_target.html", [
+        [ "CViewContainerDropTarget", "struct_v_s_t_g_u_i_1_1_c_view_container_drop_target.html", null ],
+        [ "DropTargetAdapter", "class_v_s_t_g_u_i_1_1_drop_target_adapter.html", null ]
+      ] ],
+      [ "IListControlConfigurator", "class_v_s_t_g_u_i_1_1_i_list_control_configurator.html", [
+        [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html", null ]
+      ] ],
+      [ "IListControlDrawer", "class_v_s_t_g_u_i_1_1_i_list_control_drawer.html", [
+        [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", null ]
+      ] ],
+      [ "ReferenceCounted< T >", "class_v_s_t_g_u_i_1_1_reference_counted.html", null ]
     ] ],
     [ "IScaleFactorChangedListener", "class_v_s_t_g_u_i_1_1_i_scale_factor_changed_listener.html", [
       [ "CExternalControl", "class_v_s_t_g_u_i_1_1_c_external_control.html", null ],
@@ -393,8 +393,8 @@ var hierarchy =
     [ "IScrollbarDrawer", "class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html", null ],
     [ "ISplitViewController", "class_v_s_t_g_u_i_1_1_i_split_view_controller.html", null ],
     [ "ISplitViewSeparatorDrawer", "class_v_s_t_g_u_i_1_1_i_split_view_separator_drawer.html", null ],
-    [ "DataPackageIterator::Item", "struct_v_s_t_g_u_i_1_1_data_package_iterator_1_1_item.html", null ],
-    [ "CViewContainer::Iterator< reverse >", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html", null ],
+    [ "Item", "struct_v_s_t_g_u_i_1_1_data_package_iterator_1_1_item.html", null ],
+    [ "Iterator< reverse >", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html", null ],
     [ "ITextEditListener", "class_v_s_t_g_u_i_1_1_i_text_edit_listener.html", [
       [ "TextEditListenerAdapter", "class_v_s_t_g_u_i_1_1_text_edit_listener_adapter.html", null ]
     ] ],
@@ -479,7 +479,7 @@ var hierarchy =
     ] ],
     [ "IViewEventListener", "class_v_s_t_g_u_i_1_1_i_view_event_listener.html", [
       [ "ViewEventListenerAdapter", "class_v_s_t_g_u_i_1_1_view_event_listener_adapter.html", [
-        [ "CControl::Impl", "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html", null ]
+        [ "Impl", "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html", null ]
       ] ]
     ] ],
     [ "IViewFactory", "class_v_s_t_g_u_i_1_1_i_view_factory.html", [
@@ -502,12 +502,12 @@ var hierarchy =
     [ "KeyboardHook", "struct_v_s_t3_editor_1_1_keyboard_hook.html", null ],
     [ "ListenerProvider< T, ListenerInterface >", "struct_v_s_t_g_u_i_1_1_listener_provider.html", null ],
     [ "ListenerProvider< Impl, UIDescriptionListener >", "struct_v_s_t_g_u_i_1_1_listener_provider.html", [
-      [ "UIDescription::Impl", "struct_v_s_t_g_u_i_1_1_u_i_description_1_1_impl.html", null ]
+      [ "Impl", "struct_v_s_t_g_u_i_1_1_u_i_description_1_1_impl.html", null ]
     ] ],
     [ "MallocAllocator", "struct_v_s_t_g_u_i_1_1_malloc_allocator.html", null ],
     [ "ModalViewSession", "struct_v_s_t_g_u_i_1_1_modal_view_session.html", null ],
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html", null ],
-    [ "CKnobBase::MouseEditingState", "struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html", null ],
+    [ "MouseEditingState", "struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html", null ],
     [ "MouseEventButtonState", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html", null ],
     [ "MultiFrameBitmapView< T >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", null ],
     [ "MultiFrameBitmapView< CAnimKnob >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
@@ -541,35 +541,30 @@ var hierarchy =
     ] ],
     [ "Parser", "class_v_s_t_g_u_i_1_1_xml_1_1_parser.html", null ],
     [ "PlatformFileExtension", null, [
-      [ "CFileExtension::Impl", "struct_v_s_t_g_u_i_1_1_c_file_extension_1_1_impl.html", null ]
+      [ "Impl", "struct_v_s_t_g_u_i_1_1_c_file_extension_1_1_impl.html", null ]
     ] ],
     [ "PlatformFileSelectorConfig", null, [
-      [ "CNewFileSelector::Impl", "struct_v_s_t_g_u_i_1_1_c_new_file_selector_1_1_impl.html", null ]
+      [ "Impl", "struct_v_s_t_g_u_i_1_1_c_new_file_selector_1_1_impl.html", null ]
     ] ],
-    [ "CFrame::Impl::PostEventHandler", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html", null ],
+    [ "PostEventHandler", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html", null ],
     [ "Preferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_preferences.html", null ],
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html", null ],
-    [ "Base64Codec::Result", "struct_v_s_t_g_u_i_1_1_base64_codec_1_1_result.html", null ],
-    [ "IListControlDrawer::Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html", null ],
+    [ "Result", "struct_v_s_t_g_u_i_1_1_base64_codec_1_1_result.html", null ],
+    [ "Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html", null ],
     [ "SeekableStream", "class_v_s_t_g_u_i_1_1_seekable_stream.html", [
       [ "CFileStream", "class_v_s_t_g_u_i_1_1_c_file_stream.html", null ],
       [ "CMemoryStream", "class_v_s_t_g_u_i_1_1_c_memory_stream.html", null ],
       [ "CResourceInputStream", "class_v_s_t_g_u_i_1_1_c_resource_input_stream.html", null ]
     ] ],
-    [ "CSegmentButton::Segment", "struct_v_s_t_g_u_i_1_1_c_segment_button_1_1_segment.html", null ],
+    [ "Segment", "struct_v_s_t_g_u_i_1_1_c_segment_button_1_1_segment.html", null ],
     [ "SharedPointer< I >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", [
       [ "OwningPointer< I >", "class_v_s_t_g_u_i_1_1_owning_pointer.html", null ]
     ] ],
-    [ "SharedPointer< IPlatformFont >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", null ],
-    [ "SharedPointer< IPlatformFrame >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", null ],
-    [ "SharedPointer< IPlatformString >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", null ],
-    [ "SharedPointer< IPlatformTextEdit >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", null ],
-    [ "SharedPointer< IPlatformTimer >", "class_v_s_t_g_u_i_1_1_shared_pointer.html", null ],
-    [ "CDrawContext::Impl::State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html", null ],
+    [ "State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html", null ],
     [ "string", null, [
       [ "StringToken", "class_v_s_t_g_u_i_1_1_u_i_description_private_1_1_string_token.html", null ]
     ] ],
-    [ "CDrawContext::Transform", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html", null ],
+    [ "Transform", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html", null ],
     [ "TrimOptions", "struct_v_s_t_g_u_i_1_1_trim_options.html", null ],
     [ "UIAttributesMap", null, [
       [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html", null ]

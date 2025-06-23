@@ -7,5 +7,5 @@ var searchData=
   ['dataexchangereceiverhandler_4',['DataExchangeReceiverHandler',['../../vstsdk/classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler.html',1,'Steinberg::Vst']]],
   ['delay_5',['Delay',['../../vstsdk/structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html',1,'Steinberg::Vst::BypassProcessor']]],
   ['destroyer_6',['Destroyer',['../../base/structSteinberg_1_1FUnknownImpl_1_1Destroyer.html',1,'Steinberg::FUnknownImpl']]],
-  ['directly_7',['Directly',['../../base/structSteinberg_1_1FUnknownImpl_1_1Directly.html',1,'Steinberg::FUnknownImpl']]]
+  ['directly_7',['Directly',['../../base/structSteinberg_1_1FUnknownImpl_1_1Directly.html',1,'Directly&lt; typename... T &gt;'],['../../base/structSteinberg_1_1U_1_1Directly.html',1,'Directly&lt; typename... T &gt;']]]
 ];

@@ -1,5 +1,5 @@
 var smartpointer_8h =
 [
-    [ "owned", "smartpointer_8h.html#af4392ab94aba2f5c1df4697aae435f7f", null ],
-    [ "shared", "smartpointer_8h.html#ad48669ba893591a4e3ed6b131325ecbc", null ]
+    [ "owned", "namespaceSteinberg.html#a603b2ada00778d1a71caef40362ae6d8", null ],
+    [ "shared", "namespaceSteinberg.html#aecbafba4ac9e0f4734fdc1d0aecc5f70", null ]
 ];

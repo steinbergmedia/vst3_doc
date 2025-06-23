@@ -1,6 +1,6 @@
 var classSteinberg_1_1Vst_1_1ProgramList =
 [
-    [ "StringVector", "classSteinberg_1_1Vst_1_1ProgramList.html#afe43a7b90531776c45c8249e3d8f9ece", null ],
+    [ "StringVector", "classSteinberg_1_1Vst_1_1ProgramList.html#a6abb6494190bf7743511db2c1c5075ae", null ],
     [ "ProgramInfoVector", "classSteinberg_1_1Vst_1_1ProgramList.html#a43790e03c786a44ac4501bf277e660e6", null ],
     [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html#a064d4941eb4a37a951ba11db619139a1", null ],
     [ "ProgramList", "classSteinberg_1_1Vst_1_1ProgramList.html#af096804513689f8f3e210b22c69df785", null ],
@@ -16,6 +16,7 @@ var classSteinberg_1_1Vst_1_1ProgramList =
     [ "addProgram", "classSteinberg_1_1Vst_1_1ProgramList.html#abdd3a0c7d2b61659ffbb4b2867f5f4be", null ],
     [ "setProgramInfo", "classSteinberg_1_1Vst_1_1ProgramList.html#a690f43fc8ce29a0a0e14b59e9877588c", null ],
     [ "getParameter", "classSteinberg_1_1Vst_1_1ProgramList.html#a1d7e6db44f9cda4d229ae18b9ca157f1", null ],
+    [ "clearPrograms", "classSteinberg_1_1Vst_1_1ProgramList.html#ac5ae9282675ede75ad2cbc4f1aedaf1b", null ],
     [ "info", "classSteinberg_1_1Vst_1_1ProgramList.html#a03672ebc5c493f1caa8f647dd62e7019", null ],
     [ "unitId", "classSteinberg_1_1Vst_1_1ProgramList.html#a4d2e0574df0f6d36f26fae1ad759a14f", null ],
     [ "programNames", "classSteinberg_1_1Vst_1_1ProgramList.html#a374d0d28218114229c2469dec596b9ff", null ],

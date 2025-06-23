@@ -1,47 +1,96 @@
 <map id="BaseController" name="BaseController">
-<area shape="rect" id="node1" title=" " alt="" coords="3082,1224,3279,1509"/>
-<area shape="rect" id="node12" href="$classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html" title=" " alt="" coords="5,1578,161,1724"/>
-<area shape="rect" id="node13" href="$classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html" title=" " alt="" coords="185,1564,354,1738"/>
-<area shape="rect" id="node14" href="$classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html" title=" " alt="" coords="378,1564,548,1738"/>
-<area shape="rect" id="node15" href="$classSteinberg_1_1Vst_1_1mda_1_1ComboController.html" title=" " alt="" coords="572,1578,712,1724"/>
-<area shape="rect" id="node16" href="$classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html" title=" " alt="" coords="736,1564,905,1738"/>
-<area shape="rect" id="node17" href="$classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html" title=" " alt="" coords="929,1578,1077,1724"/>
-<area shape="rect" id="node18" href="$classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html" title=" " alt="" coords="1101,1564,1270,1738"/>
-<area shape="rect" id="node19" href="$classSteinberg_1_1Vst_1_1mda_1_1DelayController.html" title=" " alt="" coords="1294,1564,1464,1738"/>
-<area shape="rect" id="node20" href="$classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html" title=" " alt="" coords="1488,1564,1657,1738"/>
-<area shape="rect" id="node21" href="$classSteinberg_1_1Vst_1_1mda_1_1DitherController.html" title=" " alt="" coords="1681,1564,1850,1738"/>
-<area shape="rect" id="node22" href="$classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html" title=" " alt="" coords="1874,1564,2044,1738"/>
-<area shape="rect" id="node23" href="$classSteinberg_1_1Vst_1_1mda_1_1DynamicsController.html" title=" " alt="" coords="2068,1564,2237,1738"/>
-<area shape="rect" id="node24" href="$classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html" title=" " alt="" coords="2261,1557,2430,1745"/>
-<area shape="rect" id="node25" href="$classSteinberg_1_1Vst_1_1mda_1_1ImageController.html" title=" " alt="" coords="2455,1578,2589,1724"/>
-<area shape="rect" id="node26" href="$classSteinberg_1_1Vst_1_1mda_1_1JX10Controller.html" title=" " alt="" coords="2613,1557,2782,1745"/>
-<area shape="rect" id="node27" href="$classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html" title=" " alt="" coords="2806,1564,2976,1738"/>
-<area shape="rect" id="node28" href="$classSteinberg_1_1Vst_1_1mda_1_1LimiterController.html" title=" " alt="" coords="3000,1564,3169,1738"/>
-<area shape="rect" id="node29" href="$classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html" title=" " alt="" coords="3193,1564,3362,1738"/>
-<area shape="rect" id="node30" href="$classSteinberg_1_1Vst_1_1mda_1_1MultiBandController.html" title=" " alt="" coords="3386,1564,3556,1738"/>
-<area shape="rect" id="node31" href="$classSteinberg_1_1Vst_1_1mda_1_1OverdriveController.html" title=" " alt="" coords="3580,1564,3749,1738"/>
-<area shape="rect" id="node32" href="$classSteinberg_1_1Vst_1_1mda_1_1PianoController.html" title=" " alt="" coords="3773,1557,3942,1745"/>
-<area shape="rect" id="node33" href="$classSteinberg_1_1Vst_1_1mda_1_1RePsychoController.html" title=" " alt="" coords="3966,1564,4136,1738"/>
-<area shape="rect" id="node34" href="$classSteinberg_1_1Vst_1_1mda_1_1RezFilterController.html" title=" " alt="" coords="4160,1564,4329,1738"/>
-<area shape="rect" id="node35" href="$classSteinberg_1_1Vst_1_1mda_1_1RingModController.html" title=" " alt="" coords="4353,1564,4522,1738"/>
-<area shape="rect" id="node36" href="$classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html" title=" " alt="" coords="4546,1564,4716,1738"/>
-<area shape="rect" id="node37" href="$classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html" title=" " alt="" coords="4740,1564,4909,1738"/>
-<area shape="rect" id="node38" href="$classSteinberg_1_1Vst_1_1mda_1_1SpecMeterController.html" title=" " alt="" coords="4933,1585,5092,1717"/>
-<area shape="rect" id="node39" href="$classSteinberg_1_1Vst_1_1mda_1_1SplitterController.html" title=" " alt="" coords="5116,1564,5285,1738"/>
-<area shape="rect" id="node40" href="$classSteinberg_1_1Vst_1_1mda_1_1StereoController.html" title=" " alt="" coords="5309,1564,5478,1738"/>
-<area shape="rect" id="node41" href="$classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html" title=" " alt="" coords="5502,1564,5672,1738"/>
-<area shape="rect" id="node42" href="$classSteinberg_1_1Vst_1_1mda_1_1TalkBoxController.html" title=" " alt="" coords="5696,1564,5865,1738"/>
-<area shape="rect" id="node43" href="$classSteinberg_1_1Vst_1_1mda_1_1TestToneController.html" title=" " alt="" coords="5889,1564,6058,1738"/>
-<area shape="rect" id="node44" href="$classSteinberg_1_1Vst_1_1mda_1_1ThruZeroController.html" title=" " alt="" coords="6082,1564,6252,1738"/>
-<area shape="rect" id="node45" href="$classSteinberg_1_1Vst_1_1mda_1_1TrackerController.html" title=" " alt="" coords="6276,1564,6445,1738"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="2986,919,3164,1176"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="2874,613,3052,871"/>
-<area shape="rect" id="node4" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ComponentBase.html" title=" " alt="" coords="2711,308,2850,565"/>
-<area shape="rect" id="node5" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="2918,164,3008,253"/>
-<area shape="rect" id="node8" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController.html" title=" " alt="" coords="2874,315,3052,558"/>
-<area shape="rect" id="node6" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="3078,5,3195,109"/>
-<area shape="rect" id="node7" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title=" " alt="" coords="2751,157,2866,260"/>
-<area shape="rect" id="node9" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController2.html" title=" " alt="" coords="3076,385,3197,488"/>
-<area shape="rect" id="node10" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IUnitInfo.html" title=" " alt="" coords="3077,627,3249,857"/>
-<area shape="rect" id="node11" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IMidiMapping.html" title=" " alt="" coords="3188,1010,3386,1085"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="2929,1355,3117,1696"/>
+<area shape="rect" id="Node000012" href="$classSteinberg_1_1Vst_1_1mda_1_1AmbienceController.html" title=" " alt="" coords="5,1772,152,1927"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="2914,1533,2311,1554,1893,1573,1447,1597,1013,1626,629,1661,468,1680,334,1701,231,1723,165,1746,146,1759,130,1774,126,1770,143,1755,163,1742,230,1718,333,1696,467,1675,629,1656,1013,1621,1447,1592,1892,1568,2311,1549,2914,1527"/>
+<area shape="rect" id="Node000013" href="$classSteinberg_1_1Vst_1_1mda_1_1BandistoController.html" title=" " alt="" coords="176,1753,336,1945"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="2914,1533,2346,1558,1956,1578,1541,1603,1138,1633,781,1667,631,1685,506,1705,411,1725,349,1746,334,1756,331,1751,347,1742,409,1720,505,1700,630,1680,780,1662,1137,1628,1541,1598,1955,1573,2346,1553,2914,1528"/>
+<area shape="rect" id="Node000014" href="$classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html" title=" " alt="" coords="360,1753,520,1945"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="2914,1534,2381,1561,1634,1607,1261,1637,932,1671,793,1689,678,1707,590,1727,533,1746,518,1756,515,1751,531,1742,588,1721,677,1702,792,1683,931,1665,1260,1632,1634,1602,2381,1555,2913,1529"/>
+<area shape="rect" id="Node000015" href="$classSteinberg_1_1Vst_1_1mda_1_1ComboController.html" title=" " alt="" coords="544,1772,675,1927"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="2914,1534,2410,1561,1711,1607,1363,1636,1057,1670,928,1688,821,1707,740,1726,688,1746,671,1759,655,1774,652,1770,667,1755,685,1742,738,1721,820,1701,927,1683,1056,1665,1363,1631,1711,1601,2410,1555,2914,1529"/>
+<area shape="rect" id="Node000016" href="$classSteinberg_1_1Vst_1_1mda_1_1DX10Controller.html" title=" " alt="" coords="699,1753,859,1945"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="2914,1530,2483,1539,2194,1551,1884,1570,1575,1597,1289,1635,1161,1658,1047,1684,950,1713,872,1746,856,1756,854,1751,869,1742,948,1708,1046,1679,1160,1653,1288,1630,1575,1592,1884,1565,2194,1546,2483,1534,2914,1525"/>
+<area shape="rect" id="Node000017" href="$classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html" title=" " alt="" coords="883,1772,1021,1927"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="2914,1530,2511,1540,2244,1553,1959,1572,1676,1599,1414,1637,1297,1659,1194,1685,1105,1714,1035,1746,1001,1774,997,1770,1032,1742,1103,1709,1192,1680,1296,1654,1413,1631,1675,1594,1958,1567,2244,1547,2511,1535,2914,1525"/>
+<area shape="rect" id="Node000018" href="$classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html" title=" " alt="" coords="1045,1753,1205,1945"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="2914,1532,2546,1549,2305,1564,2049,1585,1795,1613,1560,1649,1456,1670,1362,1693,1283,1718,1219,1746,1203,1756,1200,1751,1216,1742,1281,1713,1361,1688,1455,1664,1559,1643,1794,1608,2048,1580,2305,1559,2546,1543,2914,1527"/>
+<area shape="rect" id="Node000019" href="$classSteinberg_1_1Vst_1_1mda_1_1DelayController.html" title=" " alt="" coords="1229,1753,1389,1945"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="2914,1534,2580,1554,2364,1571,2137,1593,1912,1622,1705,1656,1612,1676,1530,1698,1459,1721,1403,1746,1387,1756,1384,1751,1400,1742,1457,1716,1528,1693,1611,1671,1704,1651,1911,1616,2136,1588,2364,1566,2579,1549,2913,1529"/>
+<area shape="rect" id="Node000020" href="$classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html" title=" " alt="" coords="1413,1753,1573,1945"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="2914,1536,2614,1560,2425,1579,2226,1602,2030,1630,1849,1664,1697,1702,1636,1724,1587,1746,1572,1756,1569,1751,1584,1742,1634,1719,1696,1697,1848,1658,2029,1625,2225,1597,2424,1573,2614,1555,2913,1531"/>
+<area shape="rect" id="Node000021" href="$classSteinberg_1_1Vst_1_1mda_1_1DitherController.html" title=" " alt="" coords="1597,1753,1757,1945"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="2914,1539,2651,1566,2316,1611,2148,1639,1994,1671,1865,1707,1813,1726,1771,1746,1756,1756,1753,1751,1768,1742,1811,1721,1863,1702,1993,1666,2147,1634,2315,1606,2650,1561,2914,1534"/>
+<area shape="rect" id="Node000022" href="$classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html" title=" " alt="" coords="1781,1753,1941,1945"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="2914,1529,2723,1539,2604,1552,2476,1571,2343,1599,2209,1637,2078,1685,2015,1714,1955,1746,1940,1756,1937,1751,1952,1742,2013,1709,2076,1680,2207,1631,2342,1594,2475,1566,2604,1547,2723,1534,2914,1524"/>
+<area shape="rect" id="Node000023" href="$classSteinberg_1_1Vst_1_1mda_1_1DynamicsController.html" title=" " alt="" coords="1965,1753,2125,1945"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="2914,1535,2754,1553,2658,1568,2554,1589,2448,1617,2341,1652,2237,1694,2139,1746,2125,1756,2122,1751,2136,1742,2234,1690,2339,1647,2446,1612,2553,1584,2657,1563,2754,1548,2914,1530"/>
+<area shape="rect" id="Node000024" href="$classSteinberg_1_1Vst_1_1mda_1_1EPianoController.html" title=" " alt="" coords="2149,1744,2309,1955"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="2915,1544,2787,1569,2635,1609,2554,1635,2474,1667,2396,1704,2323,1746,2310,1755,2307,1751,2320,1742,2394,1699,2472,1662,2552,1630,2633,1604,2786,1564,2914,1539"/>
+<area shape="rect" id="Node000025" href="$classSteinberg_1_1Vst_1_1mda_1_1ImageController.html" title=" " alt="" coords="2333,1772,2459,1927"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="2915,1552,2815,1580,2699,1621,2581,1676,2525,1709,2472,1746,2444,1774,2440,1770,2469,1742,2522,1705,2579,1671,2697,1616,2813,1575,2914,1547"/>
+<area shape="rect" id="Node000026" href="$classSteinberg_1_1Vst_1_1mda_1_1JX10Controller.html" title=" " alt="" coords="2483,1744,2643,1955"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="2917,1581,2788,1653,2720,1698,2656,1746,2644,1757,2641,1753,2653,1742,2717,1693,2785,1649,2914,1576"/>
+<area shape="rect" id="Node000027" href="$classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html" title=" " alt="" coords="2667,1753,2827,1945"/>
+<area shape="poly" id="edge31_Node000001_Node000027" title=" " alt="" coords="2921,1649,2828,1757,2824,1753,2917,1646"/>
+<area shape="rect" id="Node000028" href="$classSteinberg_1_1Vst_1_1mda_1_1LimiterController.html" title=" " alt="" coords="2851,1753,3011,1945"/>
+<area shape="poly" id="edge32_Node000001_Node000028" title=" " alt="" coords="2973,1711,2960,1754,2955,1753,2968,1709"/>
+<area shape="rect" id="Node000029" href="$classSteinberg_1_1Vst_1_1mda_1_1LoudnessController.html" title=" " alt="" coords="3035,1753,3195,1945"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="3078,1709,3090,1753,3085,1754,3073,1711"/>
+<area shape="rect" id="Node000030" href="$classSteinberg_1_1Vst_1_1mda_1_1MultiBandController.html" title=" " alt="" coords="3219,1753,3379,1945"/>
+<area shape="poly" id="edge34_Node000001_Node000030" title=" " alt="" coords="3128,1646,3221,1753,3217,1757,3124,1649"/>
+<area shape="rect" id="Node000031" href="$classSteinberg_1_1Vst_1_1mda_1_1OverdriveController.html" title=" " alt="" coords="3403,1753,3563,1945"/>
+<area shape="poly" id="edge35_Node000001_Node000031" title=" " alt="" coords="3131,1576,3260,1649,3328,1693,3392,1742,3405,1753,3401,1757,3389,1746,3325,1698,3257,1653,3129,1581"/>
+<area shape="rect" id="Node000032" href="$classSteinberg_1_1Vst_1_1mda_1_1PianoController.html" title=" " alt="" coords="3587,1744,3747,1955"/>
+<area shape="poly" id="edge36_Node000001_Node000032" title=" " alt="" coords="3132,1550,3231,1580,3346,1622,3465,1675,3522,1707,3576,1742,3589,1751,3585,1755,3573,1746,3519,1712,3462,1680,3344,1627,3230,1585,3130,1556"/>
+<area shape="rect" id="Node000033" href="$classSteinberg_1_1Vst_1_1mda_1_1RePsychoController.html" title=" " alt="" coords="3771,1753,3931,1945"/>
+<area shape="poly" id="edge37_Node000001_Node000033" title=" " alt="" coords="3132,1537,3265,1560,3427,1600,3513,1627,3599,1659,3682,1697,3760,1742,3774,1752,3771,1756,3757,1746,3679,1702,3597,1664,3511,1632,3426,1605,3264,1566,3131,1542"/>
+<area shape="rect" id="Node000034" href="$classSteinberg_1_1Vst_1_1mda_1_1RezFilterController.html" title=" " alt="" coords="3955,1753,4115,1945"/>
+<area shape="poly" id="edge38_Node000001_Node000034" title=" " alt="" coords="3131,1529,3298,1545,3398,1560,3507,1581,3619,1608,3731,1644,3841,1688,3944,1742,3958,1751,3955,1756,3941,1746,3839,1693,3730,1649,3617,1613,3506,1586,3398,1565,3297,1550,3131,1534"/>
+<area shape="rect" id="Node000035" href="$classSteinberg_1_1Vst_1_1mda_1_1RingModController.html" title=" " alt="" coords="4139,1753,4299,1945"/>
+<area shape="poly" id="edge39_Node000001_Node000035" title=" " alt="" coords="3132,1523,3329,1532,3452,1544,3585,1563,3724,1591,3863,1629,4000,1678,4065,1708,4128,1742,4143,1751,4140,1756,4125,1746,4063,1713,3998,1683,3862,1634,3722,1596,3584,1568,3451,1549,3328,1537,3131,1528"/>
+<area shape="rect" id="Node000036" href="$classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html" title=" " alt="" coords="4323,1753,4483,1945"/>
+<area shape="poly" id="edge40_Node000001_Node000036" title=" " alt="" coords="3132,1533,3402,1560,3747,1604,3921,1632,4080,1665,4214,1701,4268,1721,4312,1742,4327,1751,4324,1756,4309,1746,4266,1726,4212,1706,4078,1670,3920,1637,3747,1609,3402,1565,3131,1538"/>
+<area shape="rect" id="Node000037" href="$classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html" title=" " alt="" coords="4507,1753,4667,1945"/>
+<area shape="poly" id="edge41_Node000001_Node000037" title=" " alt="" coords="3132,1530,3437,1553,3632,1572,3837,1595,4039,1623,4224,1657,4381,1696,4445,1718,4496,1742,4511,1751,4508,1756,4493,1746,4443,1723,4380,1701,4223,1662,4038,1629,3836,1600,3631,1577,3437,1559,3131,1536"/>
+<area shape="rect" id="Node000038" href="$classSteinberg_1_1Vst_1_1mda_1_1SpecMeterController.html" title=" " alt="" coords="4691,1781,4842,1917"/>
+<area shape="poly" id="edge42_Node000001_Node000038" title=" " alt="" coords="3132,1528,3472,1547,3693,1563,3926,1585,4157,1613,4370,1648,4464,1668,4549,1691,4621,1715,4680,1742,4704,1759,4725,1780,4721,1783,4701,1763,4677,1746,4620,1720,4547,1696,4463,1674,4369,1653,4156,1618,3925,1590,3692,1568,3472,1552,3131,1533"/>
+<area shape="rect" id="Node000039" href="$classSteinberg_1_1Vst_1_1mda_1_1SplitterController.html" title=" " alt="" coords="4867,1753,5027,1945"/>
+<area shape="poly" id="edge43_Node000001_Node000039" title=" " alt="" coords="3131,1527,3504,1543,3749,1558,4010,1579,4268,1607,4507,1642,4613,1664,4709,1687,4790,1713,4856,1742,4872,1751,4869,1756,4853,1746,4788,1718,4707,1692,4612,1669,4506,1648,4267,1612,4009,1584,3749,1563,3504,1548,3131,1532"/>
+<area shape="rect" id="Node000040" href="$classSteinberg_1_1Vst_1_1mda_1_1StereoController.html" title=" " alt="" coords="5051,1753,5211,1945"/>
+<area shape="poly" id="edge44_Node000001_Node000040" title=" " alt="" coords="3132,1525,3538,1538,3808,1551,4097,1571,4385,1598,4651,1635,4770,1657,4876,1682,4967,1710,5040,1742,5056,1751,5053,1756,5037,1746,4965,1715,4874,1688,4768,1663,4650,1640,4384,1603,4097,1576,3808,1556,3538,1543,3131,1531"/>
+<area shape="rect" id="Node000041" href="$classSteinberg_1_1Vst_1_1mda_1_1SubSynthController.html" title=" " alt="" coords="5235,1753,5395,1945"/>
+<area shape="poly" id="edge45_Node000001_Node000041" title=" " alt="" coords="3131,1524,3571,1533,3867,1544,4184,1563,4501,1590,4652,1607,4794,1628,4926,1651,5043,1678,5143,1708,5224,1742,5240,1751,5237,1756,5221,1746,5141,1713,5041,1683,4925,1656,4794,1633,4651,1613,4500,1595,4184,1568,3866,1550,3570,1538,3131,1530"/>
+<area shape="rect" id="Node000042" href="$classSteinberg_1_1Vst_1_1mda_1_1TalkBoxController.html" title=" " alt="" coords="5419,1753,5579,1945"/>
+<area shape="poly" id="edge46_Node000001_Node000042" title=" " alt="" coords="3131,1523,3603,1528,3925,1538,4271,1555,4617,1582,4782,1600,4938,1620,5082,1645,5210,1673,5320,1705,5408,1742,5424,1751,5421,1756,5405,1746,5318,1710,5208,1678,5081,1650,4937,1626,4781,1605,4616,1587,4271,1560,3925,1543,3603,1534,3131,1529"/>
+<area shape="rect" id="Node000043" href="$classSteinberg_1_1Vst_1_1mda_1_1TestToneController.html" title=" " alt="" coords="5603,1753,5763,1945"/>
+<area shape="poly" id="edge47_Node000001_Node000043" title=" " alt="" coords="3132,1528,3679,1554,4451,1600,4837,1630,5178,1664,5321,1682,5441,1701,5532,1721,5592,1742,5608,1751,5605,1756,5590,1746,5531,1726,5440,1706,5320,1687,5177,1669,4836,1635,4451,1606,3679,1560,3132,1534"/>
+<area shape="rect" id="Node000044" href="$classSteinberg_1_1Vst_1_1mda_1_1ThruZeroController.html" title=" " alt="" coords="5787,1753,5947,1945"/>
+<area shape="poly" id="edge48_Node000001_Node000044" title=" " alt="" coords="3132,1528,3714,1552,4116,1571,4544,1596,4960,1626,5328,1660,5483,1679,5612,1699,5711,1720,5776,1742,5792,1751,5789,1756,5774,1746,5710,1725,5611,1704,5483,1684,5328,1665,4960,1631,4543,1602,4116,1577,3714,1557,3132,1533"/>
+<area shape="rect" id="Node000045" href="$classSteinberg_1_1Vst_1_1mda_1_1TrackerController.html" title=" " alt="" coords="5971,1753,6131,1945"/>
+<area shape="poly" id="edge49_Node000001_Node000045" title=" " alt="" coords="3132,1527,3748,1549,4178,1568,4636,1592,5083,1622,5479,1656,5645,1676,5784,1696,5891,1718,5960,1742,5976,1751,5974,1756,5958,1746,5889,1723,5783,1701,5645,1681,5478,1662,5083,1627,4636,1598,4178,1573,3748,1555,3131,1533"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditControllerEx1.html" title=" " alt="" coords="2837,1003,3006,1307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2969,1320,2979,1354,2974,1356,2964,1322"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1EditController.html" title=" " alt="" coords="2730,651,2899,955"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2867,968,2878,1002,2873,1004,2862,969"/>
+<area shape="rect" id="Node000004" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1ComponentBase.html" title=" " alt="" coords="2577,299,2706,603"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2715,594,2743,650,2738,652,2710,597"/>
+<area shape="rect" id="Node000005" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPluginBase.html" title=" " alt="" coords="2774,161,2855,241"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="2765,249,2719,300,2708,317,2704,314,2715,297,2761,245"/>
+<area shape="rect" id="Node000008" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController.html" title=" " alt="" coords="2730,308,2899,593"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="2817,256,2817,308,2812,308,2812,256"/>
+<area shape="rect" id="Node000006" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="2925,5,3033,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="2915,115,2857,167,2853,163,2912,111"/>
+<area shape="rect" id="Node000007" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IConnectionPoint.html" title=" " alt="" coords="2616,152,2723,251"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="2912,87,2762,154,2724,174,2721,169,2760,150,2910,82"/>
+<area shape="rect" id="Node000009" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IEditController2.html" title=" " alt="" coords="2923,401,3034,500"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="2981,119,2981,402,2976,402,2976,119"/>
+<area shape="rect" id="Node000010" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IUnitInfo.html" title=" " alt="" coords="2924,669,3087,936"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="3003,117,3028,202,3048,298,3057,384,3060,450,3056,517,3048,603,3038,670,3033,669,3043,602,3051,517,3054,450,3052,384,3043,299,3023,204,2998,119"/>
+<area shape="rect" id="Node000011" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IMidiMapping.html" title=" " alt="" coords="3030,1124,3218,1185"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="3027,115,3046,151,3060,191,3066,223,3073,298,3099,548,3115,791,3126,1124,3121,1124,3110,791,3094,548,3068,299,3061,224,3055,192,3042,153,3023,117"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="2665,266,2661,299,2656,298,2660,265"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="2817,608,2817,651,2812,651,2812,608"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="2954,515,2913,604,2890,652,2886,650,2908,602,2949,513"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="2973,951,2960,1004,2955,1002,2968,950"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="3115,1200,3072,1356,3067,1354,3109,1199"/>
 </map>

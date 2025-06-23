@@ -1,8 +1,13 @@
 <map id="UpdateHandler" name="UpdateHandler">
-<area shape="rect" id="node1" title="UpdateHandler implements IUpdateManager and IUpdateHandler to handle dependencies between objects to ..." alt="" coords="141,504,306,789"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="5,129,146,456"/>
-<area shape="rect" id="node3" title=" " alt="" coords="33,5,118,81"/>
-<area shape="rect" id="node4" title=" " alt="" coords="169,255,278,330"/>
-<area shape="rect" id="node5" href="$classSteinberg_1_1IUpdateManager.html" title="Handle Send and Cancel pending message for a given object." alt="" coords="301,248,466,337"/>
-<area shape="rect" id="node6" title=" " alt="" coords="343,5,424,81"/>
+<area shape="rect" id="Node000001" title="UpdateHandler implements IUpdateManager and IUpdateHandler to handle dependencies between objects to ..." alt="" coords="133,560,288,901"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="5,115,136,512"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,522,156,560,151,561,138,523"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="32,5,109,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,81,73,115,68,115,68,81"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,283,261,344"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,359,213,560,208,560,208,359"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1IUpdateManager.html" title="Handle Send and Cancel pending message for a given object." alt="" coords="285,273,440,353"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="346,368,275,561,270,559,341,367"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="327,5,399,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="365,81,365,273,360,273,360,81"/>
 </map>

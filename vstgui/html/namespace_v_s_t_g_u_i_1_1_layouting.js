@@ -17,9 +17,9 @@ var namespace_v_s_t_g_u_i_1_1_layouting =
       [ "kRow", "namespace_v_s_t_g_u_i_1_1_layouting.html#addb2fa415e015ee482fa2cd9eba96af7a08960ddb2241c0ee9af6fee018c6a61f", null ],
       [ "kColumn", "namespace_v_s_t_g_u_i_1_1_layouting.html#addb2fa415e015ee482fa2cd9eba96af7addae739dd417bd8d26f6d3d02e264d27", null ]
     ] ],
-    [ "computeGroupRect", "namespace_v_s_t_g_u_i_1_1_layouting.html#a597337e0a62d7f0e4fb0fc11e5d36aef", null ],
-    [ "computeGroupRect", "namespace_v_s_t_g_u_i_1_1_layouting.html#a654b639286a6d665a27d6ccd84318309", null ],
-    [ "computeRectOffset", "namespace_v_s_t_g_u_i_1_1_layouting.html#ae2af65ea9cef3196282b955cb091875c", null ],
-    [ "translate", "namespace_v_s_t_g_u_i_1_1_layouting.html#a1d27a9fc0297a2b1b8395b52137c4538", null ],
-    [ "translate", "namespace_v_s_t_g_u_i_1_1_layouting.html#a9d5ab12c5b5e4273dc691db5ec4d85db", null ]
+    [ "computeGroupRect", "namespace_v_s_t_g_u_i_1_1_layouting.html#ace1d39b02f1801e64c436f507a8e9963", null ],
+    [ "computeGroupRect", "namespace_v_s_t_g_u_i_1_1_layouting.html#a1c2f0b10618823fd8c77e1ce42ef4c9f", null ],
+    [ "computeRectOffset", "namespace_v_s_t_g_u_i_1_1_layouting.html#a8623691115dbd2a572893b78cfa46fb4", null ],
+    [ "translate", "namespace_v_s_t_g_u_i_1_1_layouting.html#ac52394f753da1ab3e409f4d037c45485", null ],
+    [ "translate", "namespace_v_s_t_g_u_i_1_1_layouting.html#a5f76a5be38a57028b1c0399370fed8fb", null ]
 ];

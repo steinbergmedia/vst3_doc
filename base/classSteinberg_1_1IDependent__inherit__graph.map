@@ -1,4 +1,5 @@
 <map id="IDependent" name="IDependent">
-<area shape="rect" id="node1" title="A dependent will get notified about changes of a model." alt="" coords="21,157,107,232"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,5,123,109"/>
+<area shape="rect" id="Node000001" title="A dependent will get notified about changes of a model." alt="" coords="21,152,98,213"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,5,113,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,119,62,152,57,152,57,119"/>
 </map>

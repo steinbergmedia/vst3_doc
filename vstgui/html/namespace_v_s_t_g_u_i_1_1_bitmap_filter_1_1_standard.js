@@ -10,7 +10,7 @@ var namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard =
       [ "kOutputRect", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard_1_1_property.html#a077ca8202b86d61a842de4812cd95be0", null ],
       [ "kRadius", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard_1_1_property.html#a20a6c142f4cfa2e4112f5279e0b0496a", null ]
     ] ],
-    [ "registerStandardFilters", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a588d9cbbdc36173c5b633958c27d5eba", null ],
+    [ "registerStandardFilters", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#aff825ec5a8c153b0c3af22116518a993", null ],
     [ "kBoxBlur", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a29bc0e902f5045d6c418b693d52fee21", null ],
     [ "kGrayscale", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a5c70dec36543738f35ff66e3559230f2", null ],
     [ "kReplaceColor", "namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a9cee48ab6355ea70a4596872f64263bd", null ],

@@ -2,7 +2,7 @@ var classSteinberg_1_1Vst_1_1EditorSizeController =
 [
     [ "SizeFunc", "classSteinberg_1_1Vst_1_1EditorSizeController.html#ad741ea56f6152c2588b56f489437a33e", null ],
     [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html#adaacfce4d25deb06a5971e726b913f53", null ],
-    [ "~EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html#aaf211a420e77b05478e8496317035d3c", null ],
+    [ "~EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html#a4dd8408e9699c8d75a3d2b63d8203bed", null ],
     [ "update", "classSteinberg_1_1Vst_1_1EditorSizeController.html#ac4009a084661640328fe21fb458b2a3f", null ],
     [ "verifyView", "classSteinberg_1_1Vst_1_1EditorSizeController.html#a271e0d4801237fae9a463a265a4f6d48", null ],
     [ "valueChanged", "classSteinberg_1_1Vst_1_1EditorSizeController.html#a419a7042f1c31265091d5870ed70d100", null ],

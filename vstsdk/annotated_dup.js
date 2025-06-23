@@ -1,10 +1,10 @@
 var annotated_dup =
 [
-    [ "Steinberg", "namespaceSteinberg.html", [
+    [ "Steinberg", null, [
       [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", [
         [ "RingBuffer", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer" ]
       ] ],
-      [ "Vst", "namespaceSteinberg_1_1Vst.html", [
+      [ "Vst", null, [
         [ "InterAppAudio", "namespaceSteinberg_1_1Vst_1_1InterAppAudio.html", [
           [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO" ],
           [ "PresetManager", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager" ]

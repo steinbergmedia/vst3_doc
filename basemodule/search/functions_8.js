@@ -1,7 +1,7 @@
 var searchData=
 [
   ['ibstreamer_0',['IBStreamer',['../classSteinberg_1_1IBStreamer.html#a845d37e3a5e1ef478b7c44527a8ebd9c',1,'Steinberg::IBStreamer']]],
-  ['icast_1',['ICast',['../namespaceSteinberg.html#a7ae6051c223e215dfb8704423e3fca99',1,'Steinberg::ICast(FUnknown *object)'],['../namespaceSteinberg.html#a216bbd351fcf1f4dc80767db1d73524d',1,'Steinberg::ICast(FObject *object)']]],
+  ['icast_1',['ICast',['../namespaceSteinberg.html#a091df1d5711be4cc3638dc4df0520e59',1,'Steinberg::ICast(FObject *object)'],['../namespaceSteinberg.html#a66c0905bbe3432f8a15ed3565846ae0a',1,'Steinberg::ICast(FUnknown *object)']]],
   ['incrementtrailingnumber_2',['incrementTrailingNumber',['../classSteinberg_1_1String.html#a784e9e7df7086386504a8935b9e39879',1,'Steinberg::String']]],
   ['init_3',['init',['../classSteinberg_1_1FDynLibrary.html#a8f36f17c29d5a7cc5f29677a6093ac5f',1,'Steinberg::FDynLibrary']]],
   ['injectcreatetimerfunction_4',['InjectCreateTimerFunction',['../namespaceSteinberg.html#a849a1fe250eac0b91bcdbe70167d560c',1,'Steinberg']]],
@@ -14,7 +14,7 @@ var searchData=
   ['ischaralpha_11',['isCharAlpha',['../classSteinberg_1_1ConstString.html#a6447bfca9b9d31ed9ce96a35fb987206',1,'Steinberg::ConstString::isCharAlpha(char8 character)'],['../classSteinberg_1_1ConstString.html#ac2291ddfae0133dedde40a26dbd51099',1,'Steinberg::ConstString::isCharAlpha(char16 character)']]],
   ['ischaralphanum_12',['isCharAlphaNum',['../classSteinberg_1_1ConstString.html#a2b48d0f2b9de6a59ee41f6029f030dfa',1,'Steinberg::ConstString::isCharAlphaNum(char8 character)'],['../classSteinberg_1_1ConstString.html#af748287f5024af4c82b3e6225660f88d',1,'Steinberg::ConstString::isCharAlphaNum(char16 character)']]],
   ['ischarascii_13',['isCharAscii',['../classSteinberg_1_1ConstString.html#af506286b5d395d5b6e5918eba7f71486',1,'Steinberg::ConstString::isCharAscii(char8 character)'],['../classSteinberg_1_1ConstString.html#af0143d0862af1c86a44f42708b7d6fce',1,'Steinberg::ConstString::isCharAscii(char16 character)']]],
-  ['ischardigit_14',['isCharDigit',['../classSteinberg_1_1ConstString.html#a1561e3f288d0886f47344379e2f0fa49',1,'Steinberg::ConstString::isCharDigit(char16 character)'],['../classSteinberg_1_1ConstString.html#a60d921d7240987538c237a8c5a315e73',1,'Steinberg::ConstString::isCharDigit(char8 character)']]],
+  ['ischardigit_14',['isCharDigit',['../classSteinberg_1_1ConstString.html#a60d921d7240987538c237a8c5a315e73',1,'Steinberg::ConstString::isCharDigit(char8 character)'],['../classSteinberg_1_1ConstString.html#a1561e3f288d0886f47344379e2f0fa49',1,'Steinberg::ConstString::isCharDigit(char16 character)']]],
   ['ischarlower_15',['isCharLower',['../classSteinberg_1_1ConstString.html#a6288d7b8b62d464b8cda5cdc86054bc8',1,'Steinberg::ConstString::isCharLower(char8 character)'],['../classSteinberg_1_1ConstString.html#af69b5c5f85db7bf8e88f94fd541c2eda',1,'Steinberg::ConstString::isCharLower(char16 character)']]],
   ['ischarspace_16',['isCharSpace',['../classSteinberg_1_1ConstString.html#a558f9643b112a9e296034f4b5c104da4',1,'Steinberg::ConstString::isCharSpace(char8 character)'],['../classSteinberg_1_1ConstString.html#afc1738b9f2705034218d299e33afbb0e',1,'Steinberg::ConstString::isCharSpace(char16 character)']]],
   ['ischarupper_17',['isCharUpper',['../classSteinberg_1_1ConstString.html#a15c5156f789b384961e95ed427c62e9b',1,'Steinberg::ConstString::isCharUpper(char8 character)'],['../classSteinberg_1_1ConstString.html#a1735df81440afee9f39ffa303acfcc80',1,'Steinberg::ConstString::isCharUpper(char16 character)']]],

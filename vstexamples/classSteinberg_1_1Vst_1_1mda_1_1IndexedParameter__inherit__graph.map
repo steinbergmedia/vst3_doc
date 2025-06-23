@@ -1,5 +1,7 @@
 <map id="IndexedParameter" name="IndexedParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="5,434,153,593"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html" title=" " alt="" coords="17,283,141,386"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="17,5,141,235"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,467,144,640"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1Vst_1_1mda_1_1BaseParameter.html" title=" " alt="" coords="17,320,132,419"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,434,77,467,72,467,72,434"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1Parameter.html" title=" " alt="" coords="17,5,132,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,287,77,320,72,320,72,287"/>
 </map>

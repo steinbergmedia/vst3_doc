@@ -1,5 +1,7 @@
 <map id="IDelayTestController" name="IDelayTestController">
-<area shape="rect" id="node1" title=" " alt="" coords="13,157,145,232"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1Vst_1_1ADelayController.html" title=" " alt="" coords="5,280,153,397"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="20,5,138,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,152,137,213"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Vst_1_1ADelayController.html" title=" " alt="" coords="5,261,144,379"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="77,229,77,262,72,262,72,229"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="21,5,129,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,119,77,152,72,152,72,119"/>
 </map>

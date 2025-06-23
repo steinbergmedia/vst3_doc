@@ -1,7 +1,7 @@
 var uid_8h =
 [
     [ "UID", "structVST3_1_1UID.html", "structVST3_1_1UID" ],
-    [ "operator==", "uid_8h.html#a0626bd924334f40b13c5636349ab5728", null ],
-    [ "operator!=", "uid_8h.html#aae0ec880f82ddb89e7bbc994c07ce205", null ],
-    [ "operator<", "uid_8h.html#af54ea793d1c17f7fe92b1e141bcde68b", null ]
+    [ "operator==", "namespaceVST3.html#ae01b731f55016701b6d06b9234715889", null ],
+    [ "operator!=", "namespaceVST3.html#a5e2936b1c1337e565525459714a83ad7", null ],
+    [ "operator<", "namespaceVST3.html#a837b78a345f5f39cce8b52631e371613", null ]
 ];

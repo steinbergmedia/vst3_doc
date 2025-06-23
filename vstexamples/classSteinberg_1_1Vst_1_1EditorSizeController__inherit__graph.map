@@ -1,5 +1,7 @@
 <map id="EditorSizeController" name="EditorSizeController">
-<area shape="rect" id="node1" title=" " alt="" coords="6,129,162,330"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,69,81"/>
-<area shape="rect" id="node3" title=" " alt="" coords="93,5,171,81"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,152,344"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,63,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,80,56,114,51,115,43,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,5,157,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,82,107,115,102,114,110,80"/>
 </map>

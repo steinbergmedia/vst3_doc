@@ -1,7 +1,7 @@
 var annotated_dup =
 [
-    [ "Steinberg", "namespaceSteinberg.html", [
-      [ "Vst", "namespaceSteinberg_1_1Vst.html", [
+    [ "Steinberg", null, [
+      [ "Vst", null, [
         [ "AudioHost", "namespaceSteinberg_1_1Vst_1_1AudioHost.html", [
           [ "App", "classSteinberg_1_1Vst_1_1AudioHost_1_1App.html", "classSteinberg_1_1Vst_1_1AudioHost_1_1App" ]
         ] ],
@@ -124,11 +124,10 @@ var annotated_dup =
         [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", "classSteinberg_1_1Vst_1_1Validator" ],
         [ "VoiceBase", "classSteinberg_1_1Vst_1_1VoiceBase.html", "classSteinberg_1_1Vst_1_1VoiceBase" ],
         [ "VoiceProcessor", "classSteinberg_1_1Vst_1_1VoiceProcessor.html", "classSteinberg_1_1Vst_1_1VoiceProcessor" ],
-        [ "VoiceProcessorImplementation", "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html", "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation" ],
-        [ "VstModule", "classSteinberg_1_1Vst_1_1VstModule.html", "classSteinberg_1_1Vst_1_1VstModule" ]
+        [ "VoiceProcessorImplementation", "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html", "classSteinberg_1_1Vst_1_1VoiceProcessorImplementation" ]
       ] ]
     ] ],
-    [ "VSTGUI", "namespaceVSTGUI.html", [
+    [ "VSTGUI", null, [
       [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", "classVSTGUI_1_1EventLogDataBrowserSource" ],
       [ "NoteTouchController", "classVSTGUI_1_1NoteTouchController.html", "classVSTGUI_1_1NoteTouchController" ],
       [ "PitchNamesDataBrowserSource", "classVSTGUI_1_1PitchNamesDataBrowserSource.html", "classVSTGUI_1_1PitchNamesDataBrowserSource" ]

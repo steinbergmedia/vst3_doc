@@ -1,7 +1,7 @@
 var classSteinberg_1_1Vst_1_1EditControllerEx1 =
 [
-    [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a1926d11ac5eb67ab443e956596b136bf", null ],
-    [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a687ee1e9d187cd0224fbcc4750addb5c", null ],
+    [ "ProgramIndexMap", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a9ad9da59b7e996f892be2d9150eb72d2", null ],
+    [ "UnitVector", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a17bdb5b5f4819158a18138198cb4dddc", null ],
     [ "EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a811774900d44bda403000f2b423bcbe5", null ],
     [ "~EditControllerEx1", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#abeab0355fc2fa4cf2c7e66cb30db79e7", null ],
     [ "terminate", "classSteinberg_1_1Vst_1_1EditControllerEx1.html#a272e5d4c8e24f012573f9f5b11f7f569", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vstgui_0',['VSTGUI',['../index.html',1,'']]]
+  ['miscellaneous_0',['Miscellaneous',['../page_misc.html',1,'']]]
 ];

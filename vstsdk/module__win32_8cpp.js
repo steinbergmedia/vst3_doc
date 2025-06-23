@@ -6,6 +6,5 @@ var module__win32_8cpp =
     [ "LOG_ENABLE", "module__win32_8cpp.html#aba0050d0d9182386e51d25ec355f4f8d", null ],
     [ "InitModuleFunc", "module__win32_8cpp.html#a8a1e393b01e903bee13c2bdba15dcea5", null ],
     [ "ExitModuleFunc", "module__win32_8cpp.html#aec121fc4a56e70a587fd2cb5f4d9883e", null ],
-    [ "kIPPathNameMax", "module__win32_8cpp.html#adc18f3cbe8d2b92a8350abbed9157fab", null ],
-    [ "mModule", "module__win32_8cpp.html#a872231d16d10835d836c77daa67fee18", null ]
+    [ "kIPPathNameMax", "namespaceVST3_1_1Hosting.html#adc18f3cbe8d2b92a8350abbed9157fab", null ]
 ];

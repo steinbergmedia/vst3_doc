@@ -13,5 +13,6 @@ var searchData=
   ['updatehandler_10',['UpdateHandler',['../classSteinberg_1_1UpdateHandler.html',1,'UpdateHandler'],['../classSteinberg_1_1UpdateHandler.html#a5cb070dc5b6e125ca7dd0f609a266f0b',1,'Steinberg::UpdateHandler::UpdateHandler()']]],
   ['updatehandler_2ecpp_11',['updatehandler.cpp',['../updatehandler_8cpp.html',1,'']]],
   ['updatehandler_2eh_12',['updatehandler.h',['../updatehandler_8h.html',1,'']]],
-  ['updatelength_13',['updateLength',['../classSteinberg_1_1String.html#aeaaaf7e3d412ec741fc91722eaaceb13',1,'Steinberg::String']]]
+  ['updatelength_13',['updateLength',['../classSteinberg_1_1String.html#aeaaaf7e3d412ec741fc91722eaaceb13',1,'Steinberg::String']]],
+  ['useful_14',['Also useful',['../index.html#baseOtherUsefulClasses',1,'']]]
 ];

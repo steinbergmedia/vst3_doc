@@ -1,13 +1,13 @@
 var futils_8h =
 [
     [ "CCONST", "futils_8h.html#abe9ebeb8fb703ceffa08dc69d920a27d", null ],
-    [ "Min", "futils_8h.html#adac5f7e0dd537bfda376c3b96dd601f3", null ],
-    [ "Max", "futils_8h.html#a0c6c7876dc38fc4fedff0501ffd74457", null ],
-    [ "Abs", "futils_8h.html#aba3ecff4e181af61d1fb90a1ebdddf4b", null ],
-    [ "Sign", "futils_8h.html#aa79ff23f611f74e51508de6f934d9b74", null ],
-    [ "Bound", "futils_8h.html#a1d0f063a19e621ae10e8e532e0ce3395", null ],
-    [ "Swap", "futils_8h.html#afc06120bebe47474d1e6c5bfa4eb66b8", null ],
-    [ "IsApproximateEqual", "futils_8h.html#af300911d7995de5985af548ee4eadcf4", null ],
-    [ "ToNormalized", "futils_8h.html#a3b853af91258cfec3aaaf03bff12541b", null ],
-    [ "FromNormalized", "futils_8h.html#a15c8c1bdcb98836c8074a36c9458c048", null ]
+    [ "Min", "namespaceSteinberg.html#a29948ccdc9190054dba415d7ac893768", null ],
+    [ "Max", "namespaceSteinberg.html#ae861849d924547696801cead672d8b16", null ],
+    [ "Abs", "namespaceSteinberg.html#a6618cd408bb7e6ca706d2ede559b7883", null ],
+    [ "Sign", "namespaceSteinberg.html#a89abcadbf71668d5248488e4b94eacc6", null ],
+    [ "Bound", "namespaceSteinberg.html#ac5974f8c0577e9e37f9ea9d9d5a70a75", null ],
+    [ "Swap", "namespaceSteinberg.html#a1bab287b1f45fc8d99493a1d142b7deb", null ],
+    [ "IsApproximateEqual", "namespaceSteinberg.html#a004e46ded0d442c0c031094559ad23b6", null ],
+    [ "ToNormalized", "namespaceSteinberg.html#a31a33bd1d2143601be9244b5eb666167", null ],
+    [ "FromNormalized", "namespaceSteinberg.html#a53b9fdb1691391567d0bd6697ddc503c", null ]
 ];

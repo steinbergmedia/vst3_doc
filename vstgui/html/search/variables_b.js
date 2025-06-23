@@ -35,7 +35,7 @@ var searchData=
   ['keycode_32',['keyCode',['../struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html#a03ddb81528dc7515a09da9177c46818e',1,'VSTGUI::CMenuItem::Impl']]],
   ['keycode_33',['keycode',['../struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html#ad14b5c65c00b0a1df79e0ef23e484611',1,'VSTGUI::CCommandMenuItem::Desc']]],
   ['keydownfindstring_34',['keyDownFindString',['../class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a0be7beae82eb913f9c03c9573020de3e',1,'VSTGUI::GenericStringListDataBrowserSource']]],
-  ['keymodifiers_35',['keyModifiers',['../struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html#a1ba8e665dce0790fcf07cc86a47a161d',1,'VSTGUI::CCommandMenuItem::Desc::keyModifiers()'],['../struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html#a1ba8e665dce0790fcf07cc86a47a161d',1,'VSTGUI::CMenuItem::Impl::keyModifiers()']]],
+  ['keymodifiers_35',['keyModifiers',['../struct_v_s_t_g_u_i_1_1_c_menu_item_1_1_impl.html#a1ba8e665dce0790fcf07cc86a47a161d',1,'VSTGUI::CMenuItem::Impl::keyModifiers'],['../struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html#a1ba8e665dce0790fcf07cc86a47a161d',1,'VSTGUI::CCommandMenuItem::Desc::keyModifiers']]],
   ['kgrayscale_36',['kGrayscale',['../namespace_v_s_t_g_u_i_1_1_bitmap_filter_1_1_standard.html#a5c70dec36543738f35ff66e3559230f2',1,'VSTGUI::BitmapFilter::Standard']]],
   ['kgreenccolor_37',['kGreenCColor',['../namespace_v_s_t_g_u_i.html#addd11f9ca62a7318169eefd52f167019',1,'VSTGUI']]],
   ['kgreyccolor_38',['kGreyCColor',['../namespace_v_s_t_g_u_i.html#a7c0ad4952320483854b054220f51e2c3',1,'VSTGUI']]],

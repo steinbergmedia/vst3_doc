@@ -1,5 +1,7 @@
 <map id="HostApplication" name="HostApplication">
-<area shape="rect" id="node1" title="Implementation&#39;s example of IHostApplication." alt="" coords="5,294,177,425"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IHostApplication.html" title=" " alt="" coords="31,157,151,246"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="32,5,150,109"/>
+<area shape="rect" id="Node000001" title="Implementation&#39;s example of IHostApplication." alt="" coords="5,280,168,416"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IHostApplication.html" title=" " alt="" coords="31,152,142,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,247,89,280,84,280,84,247"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="33,5,141,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,119,89,152,84,152,84,119"/>
 </map>

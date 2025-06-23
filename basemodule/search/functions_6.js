@@ -21,7 +21,7 @@ var searchData=
   ['gettext8_18',['getText8',['../classSteinberg_1_1StringObject.html#a37286d8e66991bc0b5324aac53fbfa1b',1,'Steinberg::StringObject']]],
   ['getticks_19',['getTicks',['../namespaceSteinberg_1_1SystemTime.html#ae994ceba61021313d4200996d46787f5',1,'Steinberg::SystemTime']]],
   ['getticks64_20',['getTicks64',['../namespaceSteinberg_1_1SystemTime.html#accc64954e88f0a32add172d0189918dc',1,'Steinberg::SystemTime']]],
-  ['getticksduration_21',['getTicksDuration',['../namespaceSteinberg_1_1SystemTime.html#a5eb6e497830d117c9591a9d18faa3816',1,'Steinberg::SystemTime']]],
+  ['getticksduration_21',['getTicksDuration',['../namespaceSteinberg_1_1SystemTime.html#ad0322b1604c6a282f6884f5c59ffcc7b',1,'Steinberg::SystemTime']]],
   ['gettrailingnumber_22',['getTrailingNumber',['../classSteinberg_1_1ConstString.html#abd3bd0c45c739a00930d9104bc4f039c',1,'Steinberg::ConstString']]],
   ['gettrailingnumberindex_23',['getTrailingNumberIndex',['../classSteinberg_1_1ConstString.html#ab877fc292201494ab4be2be190fd5cd1',1,'Steinberg::ConstString']]],
   ['getupdatehandler_24',['getUpdateHandler',['../classSteinberg_1_1FObject.html#a603a8093a1d2e99527a89d3a15e5504a',1,'Steinberg::FObject']]],

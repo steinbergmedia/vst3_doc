@@ -1,5 +1,7 @@
 <map id="AGainUIMessageController&lt; ControllerType &gt;" name="AGainUIMessageController&lt; ControllerType &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="12,129,208,246"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,84,81"/>
-<area shape="rect" id="node3" title=" " alt="" coords="108,5,243,81"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,115,195,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,75,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,79,78,114,74,116,57,81"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,226,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,81,129,116,124,114,141,79"/>
 </map>

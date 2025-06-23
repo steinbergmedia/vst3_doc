@@ -1,6 +1,6 @@
 var annotated_dup =
 [
-    [ "Steinberg", "namespaceSteinberg.html", [
+    [ "Steinberg", null, [
       [ "Vst", "namespaceSteinberg_1_1Vst.html", [
         [ "ChannelContext", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html", [
           [ "IInfoListener", "classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html", "classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener" ]

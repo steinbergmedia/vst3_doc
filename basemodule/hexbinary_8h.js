@@ -1,5 +1,5 @@
 var hexbinary_8h =
 [
-    [ "decode", "hexbinary_8h.html#a567d62615b1d9ccab3b175b4b9fc61f0", null ],
-    [ "encode", "hexbinary_8h.html#a409cabd0268ae39045fe68f7816a06af", null ]
+    [ "decode", "namespaceSteinberg_1_1HexBinary.html#acb08b9e10decd3e90cbc9be922b7c424", null ],
+    [ "encode", "namespaceSteinberg_1_1HexBinary.html#a25273cf9c94e82ef1bfc5f47be1261ff", null ]
 ];

@@ -1,5 +1,7 @@
 <map id="VSTInterAppAudioAppDelegateBase" name="VSTInterAppAudioAppDelegateBase">
-<area shape="rect" id="node1" title="Base UIApplicationDelegate class." alt="" coords="16,129,238,330"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,100,81"/>
-<area shape="rect" id="node3" title=" " alt="" coords="124,5,282,81"/>
+<area shape="rect" id="Node000001" title="Base UIApplicationDelegate class." alt="" coords="12,115,225,328"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,91,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,79,80,114,75,116,62,81"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,264,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,81,162,116,157,114,170,79"/>
 </map>

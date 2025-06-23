@@ -24,8 +24,7 @@
 */
 var menudata={children:[
 {text:"Main Page",url:"index.html"},
-{text:"Related Pages",url:"pages.html"},
-{text:"Modules",url:"modules.html"},
+{text:"Topics",url:"topics.html"},
 {text:"Namespaces",url:"namespaces.html",children:[
 {text:"Namespace List",url:"namespaces.html"},
 {text:"Namespace Members",url:"namespacemembers.html",children:[
@@ -35,7 +34,6 @@ var menudata={children:[
 {text:"c",url:"namespacemembers_c.html#index_c"},
 {text:"d",url:"namespacemembers_d.html#index_d"},
 {text:"e",url:"namespacemembers_e.html#index_e"},
-{text:"f",url:"namespacemembers_f.html#index_f"},
 {text:"g",url:"namespacemembers_g.html#index_g"},
 {text:"h",url:"namespacemembers_h.html#index_h"},
 {text:"i",url:"namespacemembers_i.html#index_i"},
@@ -54,7 +52,6 @@ var menudata={children:[
 {text:"b",url:"namespacemembers_type.html#index_b"},
 {text:"c",url:"namespacemembers_type.html#index_c"},
 {text:"d",url:"namespacemembers_type.html#index_d"},
-{text:"f",url:"namespacemembers_type.html#index_f"},
 {text:"i",url:"namespacemembers_type.html#index_i"},
 {text:"k",url:"namespacemembers_type.html#index_k"},
 {text:"m",url:"namespacemembers_type.html#index_m"},

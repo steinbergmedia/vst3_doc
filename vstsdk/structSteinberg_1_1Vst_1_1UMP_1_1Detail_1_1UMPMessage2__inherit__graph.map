@@ -1,8 +1,13 @@
 <map id="UMPMessage2" name="UMPMessage2">
-<area shape="rect" id="node1" title=" " alt="" coords="193,283,304,484"/>
-<area shape="rect" id="node3" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="22,532,134,719"/>
-<area shape="rect" id="node5" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="158,581,340,670"/>
-<area shape="rect" id="node6" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="364,588,496,663"/>
-<area shape="rect" id="node2" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="193,5,304,235"/>
-<area shape="rect" id="node4" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="5,767,151,871"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,320,288,549"/>
+<area shape="rect" id="Node000003" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="23,597,125,808"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,534,128,619,123,616,175,531"/>
+<area shape="rect" id="Node000005" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="150,663,323,743"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,565,239,663,234,663,234,565"/>
+<area shape="rect" id="Node000006" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="348,672,472,733"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="298,526,393,671,389,674,294,529"/>
+<area shape="rect" id="Node000002" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="185,5,288,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,287,239,320,234,320,234,287"/>
+<area shape="rect" id="Node000004" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="5,856,143,955"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,823,77,856,71,856,71,823"/>
 </map>

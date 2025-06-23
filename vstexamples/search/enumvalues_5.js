@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['f1_0',['F1',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4ae1dffc8709f31a4987c8a88334107e89',1,'Steinberg::Vst::mda']]],
-  ['f2_1',['F2',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4afe5c3684dce76cdd9f7f42430868aa74',1,'Steinberg::Vst::mda']]]
+  ['nparams_0',['NPARAMS',['../classSteinberg_1_1Vst_1_1mda_1_1DX10Processor.html#a86ca4486923e7d7e3800e67054c6eef1a54b6fffd3ba5eec39da9f688241a194b',1,'Steinberg::Vst::mda::DX10Processor::NPARAMS'],['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a041339dc15ff85959c0ebc57e2106e0aa54b6fffd3ba5eec39da9f688241a194b',1,'Steinberg::Vst::mda::PianoProcessor::NPARAMS']]]
 ];

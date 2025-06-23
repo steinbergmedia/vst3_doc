@@ -1,4 +1,5 @@
 <map id="ResizableMemoryIBStream" name="ResizableMemoryIBStream">
-<area shape="rect" id="node1" title=" " alt="" coords="5,143,194,330"/>
-<area shape="rect" id="node2" title=" " alt="" coords="24,5,175,95"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,184,340"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,165,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,96,97,130,92,130,92,96"/>
 </map>

@@ -120,5 +120,5 @@ var group__new__in__4__9 =
       [ "init", "struct_v_s_t_g_u_i_1_1_drag_start_mouse_observer.html#afb7f762789096b0ce458bc7190236a05", null ],
       [ "shouldStartDrag", "struct_v_s_t_g_u_i_1_1_drag_start_mouse_observer.html#a5b1ee08ce3d86cfcccbbb2c6ec0cab41", null ]
     ] ],
-    [ "VSTGUI::shouldStartDrag", "group__new__in__4__9.html#ga00b08005394f4061d1c0b5320426a91e", null ]
+    [ "shouldStartDrag", "group__new__in__4__9.html#gab218802ff3016e52ac7dc3abb331945e", null ]
 ];

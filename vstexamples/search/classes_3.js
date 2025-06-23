@@ -15,7 +15,7 @@ var searchData=
   ['destroyer_12',['Destroyer',['../../base/structSteinberg_1_1FUnknownImpl_1_1Destroyer.html',1,'Steinberg::FUnknownImpl']]],
   ['detunecontroller_13',['DetuneController',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneController.html',1,'Steinberg::Vst::mda']]],
   ['detuneprocessor_14',['DetuneProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DetuneProcessor.html',1,'Steinberg::Vst::mda']]],
-  ['directly_15',['Directly',['../../base/structSteinberg_1_1FUnknownImpl_1_1Directly.html',1,'Steinberg::FUnknownImpl']]],
+  ['directly_15',['Directly',['../../base/structSteinberg_1_1FUnknownImpl_1_1Directly.html',1,'Directly&lt; typename... T &gt;'],['../../base/structSteinberg_1_1U_1_1Directly.html',1,'Directly&lt; typename... T &gt;']]],
   ['dithercontroller_16',['DitherController',['../classSteinberg_1_1Vst_1_1mda_1_1DitherController.html',1,'Steinberg::Vst::mda']]],
   ['ditherprocessor_17',['DitherProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DitherProcessor.html',1,'Steinberg::Vst::mda']]],
   ['dubdelaycontroller_18',['DubDelayController',['../classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html',1,'Steinberg::Vst::mda']]],

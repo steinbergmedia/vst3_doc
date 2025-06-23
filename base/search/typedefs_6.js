@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['large_5fint_0',['LARGE_INT',['../namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]]
+  ['scalefactor_0',['ScaleFactor',['../classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport']]],
+  ['string_1',['String',['../classSteinberg_1_1FUID.html#a2e69817c730e10bae2a6d442eb32b9a7',1,'Steinberg::FUID']]]
 ];

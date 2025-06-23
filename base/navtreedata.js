@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Interface Technology Basics", "index.html", [
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -65,11 +65,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classSteinberg_1_1IPtr.html#aa026503428fb71f2170fcf230a54ddea",
-"funknown_8cpp.html",
-"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da8779d8eaee888493c6c5db7acc5d4a0a",
-"structSteinberg_1_1FReleaser.html#adcb624ac2e22762ff3ef4a83c423d84f"
+"classSteinberg_1_1IString.html#a855f4116dd9824838ebc984adeccfe96",
+"namespaceSteinberg.html#a27f6f9da6429b67343a7e36078494bd9",
+"namespaceSteinberg_1_1U.html#a68f6e121eb237b7f588f0036b056b43b"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

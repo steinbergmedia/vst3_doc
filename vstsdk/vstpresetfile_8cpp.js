@@ -1,9 +1,9 @@
 var vstpresetfile_8cpp =
 [
-    [ "getChunkID", "vstpresetfile_8cpp.html#aecb30226876947afe7079bc185597f0c", null ],
-    [ "verify", "vstpresetfile_8cpp.html#a5be931a78fa765babf69c7dc76e0c800", null ],
-    [ "copyStream", "vstpresetfile_8cpp.html#a1c0494fa27bea9e830204ab0451615c9", null ],
-    [ "IMPLEMENT_FUNKNOWN_METHODS", "vstpresetfile_8cpp.html#a1d9350b127ef8ad03a8025e93853b433", null ],
-    [ "IMPLEMENT_REFCOUNT", "vstpresetfile_8cpp.html#a6abddc24208fd641b8776e4be24d3cad", null ],
-    [ "IMPLEMENT_FUNKNOWN_METHODS", "vstpresetfile_8cpp.html#a9eb03817ce43297a3187ab5dc9f3340a", null ]
+    [ "getChunkID", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#aecb30226876947afe7079bc185597f0c", null ],
+    [ "verify", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#ae8809151e20a251ce9b20229c4869a0a", null ],
+    [ "copyStream", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a4f9c1619fe2cd259dba6d48690b3f177", null ],
+    [ "IMPLEMENT_FUNKNOWN_METHODS", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a7c83ef57915a7757423bdfa6feeab7a1", null ],
+    [ "IMPLEMENT_REFCOUNT", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a229c279bd51ea77cdcd445c2624fbbdc", null ],
+    [ "IMPLEMENT_FUNKNOWN_METHODS", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a34db024fdc16ddf1744aa0c65e0be5ee", null ]
 ];

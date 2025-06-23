@@ -88,9 +88,9 @@ var group__new__in__4__7 =
       [ "viewOnMouseMoved", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a245695d91455039e62b73119b526e930", null ],
       [ "viewOnMouseUp", "class_v_s_t_g_u_i_1_1_view_mouse_listener_adapter.html#a97c057e108b8a5deb551afd09cc58f63", null ]
     ] ],
-    [ "VSTGUI::DragOperation", "group__new__in__4__7.html#ga3cbd589c354a1539328b774d6ec68779", [
-      [ "VSTGUI::DragOperation::Copy", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a5fb63579fc981698f97d55bfecb213ea", null ],
-      [ "VSTGUI::DragOperation::Move", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6bc362dbf494c61ea117fe3c71ca48a5", null ],
-      [ "VSTGUI::DragOperation::None", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6adf97f83acf6453d4a6a4b1070f3754", null ]
+    [ "DragOperation", "group__new__in__4__7.html#ga3cbd589c354a1539328b774d6ec68779", [
+      [ "Copy", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a5fb63579fc981698f97d55bfecb213ea", null ],
+      [ "Move", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6bc362dbf494c61ea117fe3c71ca48a5", null ],
+      [ "None", "group__new__in__4__7.html#gga3cbd589c354a1539328b774d6ec68779a6adf97f83acf6453d4a6a4b1070f3754", null ]
     ] ]
 ];

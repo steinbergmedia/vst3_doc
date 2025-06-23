@@ -6,9 +6,9 @@ var fstring_8cpp =
     [ "SMTG_STRING_CHECK_MSG", "fstring_8cpp.html#a31965eb0cfa7cfcf80410f2b94c40086", null ],
     [ "ConverterFacet", "fstring_8cpp.html#a1ece0eb061ed782654f2aadfd088e204", null ],
     [ "Converter", "fstring_8cpp.html#a243f56b639b9bb0d1850454b40ea0cb8", null ],
-    [ "hashString8", "fstring_8cpp.html#a166ebc6677e19253cda1f55ead2b8106", null ],
-    [ "hashString16", "fstring_8cpp.html#a61e26dc8165fa82a90f930a1f8367a3c", null ],
-    [ "tstrnatcmp", "fstring_8cpp.html#adcccbbf0a6580038c4fb1f0dbf91667f", null ],
-    [ "strnatcmp8", "fstring_8cpp.html#ab16cda4272acda12af7fe328eb3abbfa", null ],
-    [ "strnatcmp16", "fstring_8cpp.html#a026eef900ab2e9f3c1390d73992a48a2", null ]
+    [ "hashString8", "namespaceSteinberg.html#a166ebc6677e19253cda1f55ead2b8106", null ],
+    [ "hashString16", "namespaceSteinberg.html#a61e26dc8165fa82a90f930a1f8367a3c", null ],
+    [ "tstrnatcmp", "namespaceSteinberg.html#ab49c72fbc0f3f79e0c5cad7e1a1c1948", null ],
+    [ "strnatcmp8", "namespaceSteinberg.html#ab16cda4272acda12af7fe328eb3abbfa", null ],
+    [ "strnatcmp16", "namespaceSteinberg.html#a026eef900ab2e9f3c1390d73992a48a2", null ]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['join_0',['join',['../class_v_s_t_g_u_i_1_1_c_line_style.html#a7267fbe5fb4546135d213bcf9e70edf6',1,'VSTGUI::CLineStyle']]],
-  ['joinnearbyinvalidrects_1',['joinNearbyInvalidRects',['../namespace_v_s_t_g_u_i.html#aa843a4d6bca1a131278d3ad74780ff03',1,'VSTGUI']]]
+  ['_5fpath_0',['_path',['../class_v_s_t_g_u_i_1_1_c_text_button.html#ac552d2f0e04f7e4a612b11339d190df0',1,'VSTGUI::CTextButton']]]
 ];

@@ -1,4 +1,5 @@
 <map id="IInfoListener" name="IInfoListener">
-<area shape="rect" id="node1" title="Channel context interface: Vst::IInfoListener." alt="" coords="5,157,176,232"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="32,5,149,109"/>
+<area shape="rect" id="Node000001" title="Channel context interface: Vst::IInfoListener." alt="" coords="5,152,167,213"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="32,5,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,119,89,152,83,152,83,119"/>
 </map>

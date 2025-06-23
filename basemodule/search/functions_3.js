@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['decode_0',['decode',['../namespaceSteinberg_1_1HexBinary.html#a567d62615b1d9ccab3b175b4b9fc61f0',1,'Steinberg::HexBinary']]],
-  ['def_5fclass_5fiid_1',['DEF_CLASS_IID',['../namespaceSteinberg.html#a03374ef5cb2e4ca5d36313f4c3dd85e2',1,'Steinberg']]],
+  ['decode_0',['decode',['../namespaceSteinberg_1_1HexBinary.html#acb08b9e10decd3e90cbc9be922b7c424',1,'Steinberg::HexBinary']]],
+  ['def_5fclass_5fiid_1',['DEF_CLASS_IID',['../namespaceSteinberg.html#a57552eb91226c5988fde6bbd5a75c700',1,'Steinberg']]],
   ['deferupdate_2',['deferUpdate',['../classSteinberg_1_1FObject.html#ad0cb02215c1c6e44b53f177e7844a9f5',1,'Steinberg::FObject::deferUpdate()'],['../classSteinberg_1_1UpdateHandler.html#ad0cb02215c1c6e44b53f177e7844a9f5',1,'Steinberg::UpdateHandler::deferUpdate(int32 msg=kChanged)']]],
   ['deferupdates_3',['deferUpdates',['../classSteinberg_1_1UpdateHandler.html#a1ba21e80d0caaaf9e1040c880d7e9927',1,'Steinberg::UpdateHandler']]],
   ['description_4',['Description',['../classSteinberg_1_1CommandLine_1_1Description.html#ad22e14e4e415962ac43d552ed282c9fc',1,'Steinberg::CommandLine::Description']]],

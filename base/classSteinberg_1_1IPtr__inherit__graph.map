@@ -1,5 +1,7 @@
 <map id="IPtr&lt; I &gt;" name="IPtr&lt; I &gt;">
-<area shape="rect" id="node1" title="IPtr &#45; Smart pointer template class." alt="" coords="80,5,177,291"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FUnknownPtr.html" title="FUnknownPtr &#45; automatic interface conversion and smart pointer in one." alt="" coords="5,339,124,484"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1OPtr.html" title="OPtr &#45; &quot;owning&quot; smart pointer used for newly created FObjects." alt="" coords="148,346,240,477"/>
+<area shape="rect" id="Node000001" title="IPtr &#45; Smart pointer template class." alt="" coords="77,5,163,347"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FUnknownPtr.html" title="FUnknownPtr &#45; automatic interface conversion and smart pointer in one." alt="" coords="5,395,115,549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,362,78,395,73,394,80,361"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1OPtr.html" title="OPtr &#45; &quot;owning&quot; smart pointer used for newly created FObjects." alt="" coords="139,404,221,540"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,360,169,403,164,405,155,361"/>
 </map>

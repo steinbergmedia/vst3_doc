@@ -4,7 +4,7 @@ var searchData=
   ['globalfonts_1',['globalFonts',['../namespace_v_s_t_g_u_i.html#a468cfdbb3f7b47818718b6cbedd64a25',1,'VSTGUI']]],
   ['globalmode_2',['globalMode',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a83172cf1193308d8afbded72f77a4ae5',1,'VSTGUI::CSliderBase::Impl']]],
   ['globalstatesstack_3',['globalStatesStack',['../struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl.html#a0ec7ab419e4e92c6a721fd5cc8818fa3',1,'VSTGUI::CDrawContext::Impl']]],
-  ['gradient_4',['gradient',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#ac7733fe737fd1ea71efd94f8412db816',1,'VSTGUI::CGradientView::gradient()'],['../class_v_s_t_g_u_i_1_1_c_text_button.html#ac7733fe737fd1ea71efd94f8412db816',1,'VSTGUI::CTextButton::gradient()']]],
+  ['gradient_4',['gradient',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#ac7733fe737fd1ea71efd94f8412db816',1,'VSTGUI::CGradientView::gradient'],['../class_v_s_t_g_u_i_1_1_c_text_button.html#ac7733fe737fd1ea71efd94f8412db816',1,'VSTGUI::CTextButton::gradient']]],
   ['gradientangle_5',['gradientAngle',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#aad4d0ac1daf1318e88192a8a6041b6dd',1,'VSTGUI::CGradientView']]],
   ['gradienthighlighted_6',['gradientHighlighted',['../class_v_s_t_g_u_i_1_1_c_text_button.html#ab2382f244e327c227b3d2839cc08136d',1,'VSTGUI::CTextButton']]],
   ['gradientstyle_7',['gradientStyle',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#af8f6f9f902ede53688481efd286f7890',1,'VSTGUI::CGradientView']]],

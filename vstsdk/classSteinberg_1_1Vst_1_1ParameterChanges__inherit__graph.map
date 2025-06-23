@@ -1,5 +1,7 @@
 <map id="ParameterChanges" name="ParameterChanges">
-<area shape="rect" id="node1" title="Implementation&#39;s example of IParameterChanges &#45; not threadsave!." alt="" coords="5,308,159,481"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParameterChanges.html" title=" " alt="" coords="9,157,155,260"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="23,5,141,109"/>
+<area shape="rect" id="Node000001" title="Implementation&#39;s example of IParameterChanges &#45; not threadsave!" alt="" coords="5,299,149,491"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IParameterChanges.html" title=" " alt="" coords="9,152,146,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,265,80,299,75,299,75,265"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="23,5,131,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,119,80,152,75,152,75,119"/>
 </map>

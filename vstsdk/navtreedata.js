@@ -25,13 +25,8 @@
 var NAVTREE =
 [
   [ "VST 3 SDK", "index.html", [
-    [ "Introduction", "index.html", [
-      [ "Welcome to VST SDK 3.7", "index.html#vst3sdkIntro", null ],
-      [ "About VST Plug-ins in general", "index.html#vstPlugGeneral", null ],
-      [ "About VST 3", "index.html#vst3General", null ]
-    ] ],
-    [ "to use the validator to run your own tests?", "How.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Introduction", "index.html", "index" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -64,7 +59,6 @@ var NAVTREE =
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
-        [ "Enumerations", "globals_enum.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -74,22 +68,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AudioIO_8h.html",
-"classSteinberg_1_1Vst_1_1BypassProcessor.html#ad20897c5c8bd47f5d4005989bead0e55",
-"classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#a5f54b6e5cf74285792bb132af98c0308",
-"classSteinberg_1_1Vst_1_1PluginContextFactory.html",
-"classSteinberg_1_1Vst_1_1StringListParameter.html#a64274ff145c58620b9b7c32fff087049",
-"classVST3_1_1Hosting_1_1Module.html#ad210dec17843e489c4c87cb1d401444c",
-"namespaceSteinberg.html#a06fc87d81c62e9abb8790b6e5713c55bac43d80137687fc5c1c4b60dc77202283",
-"namespaceSteinberg.html#af1189c83b63820c6ccc3167402601fea",
-"namespaceSteinberg_1_1Vst.html#ae3fed4df17afbcff1fd768c40212ceb1",
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a76398345f57877810ceeb6db295a08a8",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a1b19ef3d9cbdfb96c008f4586b186997",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#acafff17c0c21e0030c6bb0cce8b72576",
-"structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a9f84222a3b328f760149aceee1e45124",
-"structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html#a67a0db04d321a74b7e7fcfd3f1a3f70ba8313cf6eab18c71c8129afef3cf7c3b1",
-"structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#ac58272a5d5adda033dfab6f5bd4dda66",
-"systemtime_8h.html"
+"classSteinberg_1_1Vst_1_1BypassProcessor.html#af03bc4cf393d19019897417293c55663",
+"classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#ab37e7ad7503043f64fb3e36cada470eb",
+"classSteinberg_1_1Vst_1_1PresetFile.html#a9e8e502499657ad0cb2d1ca286fd906c",
+"classSteinberg_1_1Vst_1_1ThreadChecker.html#a6c5ade0a1125312d44f7c331e20d69d9",
+"functions_m.html",
+"group__musicalStyle.html#ga60c65b0575b241924ccfcc59fa7dccaf",
+"group__speakerArrangements.html#ga5756399f47d692e0e5e587bcc8a06a9d",
+"group__speakerArrangements.html#gaf19e8a3b3f0d3a2c0e9587f6cc9b1411",
+"namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22baf6db7ad5110a115d774dd8d74d333a42",
+"namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a1c30475ef992f89f37c2fe0aafcc6283",
+"namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html#a1bc3ccf4d567ca83c993c3aaa8124904aeb7a9ac9f662bc5dc17e8d1f12cf2e17",
+"structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#aa7c29f403466f1932768cd801b98ed79",
+"structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a07859aa4165b1d16bc6580571a0fb8ca",
+"structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#a7945fc22e5d1821e4e22fbf8a9722339"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

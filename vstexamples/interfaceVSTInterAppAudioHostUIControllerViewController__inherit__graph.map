@@ -1,4 +1,5 @@
 <map id="VSTInterAppAudioHostUIControllerViewController" name="VSTInterAppAudioHostUIControllerViewController">
-<area shape="rect" id="node1" title=" " alt="" coords="5,129,219,274"/>
-<area shape="rect" id="node2" title=" " alt="" coords="55,5,169,81"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,211,265"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,161,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,82,111,115,105,115,105,82"/>
 </map>

@@ -1,4 +1,4 @@
 var vsthelpers_8h =
 [
-    [ "isProjectState", "vsthelpers_8h.html#a7f02c298f47c0db9090be5aacb05f57b", null ]
+    [ "isProjectState", "namespaceSteinberg_1_1Vst_1_1Helpers.html#a4c69aedd60f9bad0d65706860bb2ad74", null ]
 ];

@@ -25,26 +25,12 @@
 var NAVTREE =
 [
   [ "VST 3 Examples", "index.html", [
-    [ "VST 3 plug-ins Examples", "index.html", [
-      [ "ADelay", "index.html#adelay", null ],
-      [ "AGain", "index.html#again", null ],
-      [ "TestChannelContext", "index.html#channelcontext", null ],
-      [ "HostChecker", "index.html#HostChecker", null ],
-      [ "TestLegacyMIDICCOut", "index.html#legacymidiccout", null ],
-      [ "mda Plug-ins", "index.html#mdaplugs", null ],
-      [ "Note Expression Synth", "index.html#NoteExpressionSynth", null ],
-      [ "Note Expression Text", "index.html#NoteExpressionText", null ],
-      [ "Panner", "index.html#Panner", null ],
-      [ "PitchNames", "index.html#PitchNames", null ],
-      [ "TestPrefetchableSupport", "index.html#prefetchablesupport", null ],
-      [ "TestProgramChange", "index.html#programchange", null ],
-      [ "Sync Delay", "index.html#syncdelay", null ]
-    ] ],
+    [ "VST 3 plug-ins Examples", "index.html", "index" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ],
@@ -82,34 +68,34 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "VSTInterAppAudioAppDelegate_8h.html",
-"classSteinberg_1_1Vst_1_1AGain.html#ad26040642b7a7a3101a414385c259763",
-"classSteinberg_1_1Vst_1_1HostCheckerController.html#aee393393dc4dccf6e0b30a43380859b4",
-"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954a24dfa9930fd91c8f1599c537f23ddde4",
+"classSteinberg_1_1Vst_1_1AGain.html#ad48c36f6210f722d195a93f68fb7dff4",
+"classSteinberg_1_1Vst_1_1HostCheckerController.html#af161b55b382c62c4868a760fff750cd0",
+"classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html#a4c975cd547adc38bc800fddc7f8a2954a29851866e68dd8cf8111d40879ec848c",
 "classSteinberg_1_1Vst_1_1Plug.html#a4dae123b5697706651d9ff20c9614f63",
-"classSteinberg_1_1Vst_1_1VoiceBase.html#a5107872e5f644007e7c4b2ed42371928",
-"classSteinberg_1_1Vst_1_1mda_1_1BaseController.html#ab6597e05f5085eb723517723e5c5bbed",
-"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#ac821f9ed3aa1c57e8629c55c6dc288c9",
-"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a80b09ba6d56f803698722f396fff6329",
-"classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a4dae123b5697706651d9ff20c9614f63",
-"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#a8bf90593e40ded7977f2c198b52ad973",
-"classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#af9d275bd4396ad8322439ea0df080181",
-"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a58c6bdf31a2bef33a474b4cfb9409f84",
-"classSteinberg_1_1Vst_1_1mda_1_1Processor.html#acef92f4ee38add0cdbd9e207888fbbaf",
-"classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html#a35aa3fed88ff6cfb7898384d9e608277",
-"classSteinberg_1_1Vst_1_1mda_1_1StereoController.html#a75cc6fd02dc2d2d4d7b365f7bb4eb524",
-"classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#a7d10b0c779bad3aabf067d52035f7052",
-"classVSTGUI_1_1NoteTouchController.html#a924984487df3e8186f02c815a29984e4",
-"group__speakerArrangements.html#gae771dcd8cf33e293b56b78ea7693544c",
-"logevents_8h.html#afc84f29132b630b33d341d0769a66d46ad5130063c82c6654c06ce73a3074bc5b",
-"namespaceSteinberg.html#a1c13255fbcd5845d44bd45cc27bd3586",
-"namespaceSteinberg.html#afc06120bebe47474d1e6c5bfa4eb66b8",
-"namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06",
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a642a844eb43638962aec00dda572b724",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a02d21f6bfee6423fceb6a3695954c33b",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#abec483e2214863d8fbfd2f68815647a8",
-"note__expression__text_2source_2version_8h.html#aa863825ce130d257c1ba798e4e639d67",
-"structSteinberg_1_1Vst_1_1mda_1_1JX10Processor_1_1VOICE.html#a52d4b890b9497c9beaff3eaf28e7dd7c"
+"classSteinberg_1_1Vst_1_1VoiceBase.html#a62774a81bf875a00321b2974ee87d4f9",
+"classSteinberg_1_1Vst_1_1mda_1_1BeatBoxController.html#a0114d51b222e8663f93dc0a8f1afb095",
+"classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#af886660e87d29c40f1ca26f5fe065ad3",
+"classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#ab756503ec7eb8340aae55ee1455b31ae",
+"classSteinberg_1_1Vst_1_1mda_1_1DubDelayController.html#a6d2a1929151bc7086c493054f3a7be85a7ca1e7303f91236e87a28d0da99ce499",
+"classSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor.html#ac16ff5312692ef65aaadddac31421aeb",
+"classSteinberg_1_1Vst_1_1mda_1_1LeslieController.html#a6d2a1929151bc7086c493054f3a7be85a4b064a62c3d4542e876b5111292b6f2d",
+"classSteinberg_1_1Vst_1_1mda_1_1MultiBandProcessor.html#a8cb865e4b76909b24401f9f68be53839",
+"classSteinberg_1_1Vst_1_1mda_1_1Processor.html#af8b29edd2aa8b0f1efd6fe304f98c445",
+"classSteinberg_1_1Vst_1_1mda_1_1SampleAccurateBaseProcessor.html#a009053d0bf0fe9fb13b29fc3155e8b8c",
+"classSteinberg_1_1Vst_1_1mda_1_1StereoProcessor.html#a18a9ddb1c64491ea2cfbebfd2c7c01b9",
+"classSteinberg_1_1Vst_1_1mda_1_1TestToneProcessor.html#ad36303b43802391ea41993be94178770",
+"classVSTGUI_1_1NoteTouchController.html#ae184ac69ed767b0c43c94f63244a5b67",
+"group__musicalCharacter.html#gaa57323ce9c0b4d417c6b36aa76570514",
+"group__plugType.html#ga0759e804603c37125d02cbc3b091f03b",
+"group__speakerArrangements.html#ga7da30e8a25cd20fc4b44a292368092fc",
+"index.html#Panner",
+"main_8m.html",
+"namespaceSteinberg.html#a743f60968fa58cdae68b31a1a3eb493da7dee5096e7803ac26cee7abe740d777d",
+"namespaceSteinberg_1_1Vst.html#a3e856c7ffbe25183e8d732833ec765d5",
+"namespaceSteinberg_1_1Vst_1_1NoteExpressionSynth.html#a1ce3513d3c756afe6a0aecc8b8e7d45da0ac26f0bf0461b55b596412ebb5c25b5",
+"structSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1GlobalParameterState.html#a27e13d4bf656b836f731506edd58ab83",
+"structSteinberg_1_1Vst_1_1mda_1_1SynthData.html#a02e33118d5f5843bb2b6e0e5884ca8fc"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

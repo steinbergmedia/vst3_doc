@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['makecolorspec_0',['MakeColorSpec',['../namespaceSteinberg.html#aa3e0271047ce95a6e8097ece6edd712b',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../namespaceSteinberg.html#ae445afc6fd5a0c291ebfa793a174a68f',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
-  ['max_1',['Max',['../namespaceSteinberg.html#a0c6c7876dc38fc4fedff0501ffd74457',1,'Steinberg']]],
-  ['min_2',['Min',['../namespaceSteinberg.html#adac5f7e0dd537bfda376c3b96dd601f3',1,'Steinberg']]]
+  ['makecolorspec_0',['MakeColorSpec',['../namespaceSteinberg.html#a58b97116e0faaf335c798a65b687e9f2',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../namespaceSteinberg.html#aa7cb190cb494b7f61aaacf170d322d30',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],
+  ['max_1',['Max',['../namespaceSteinberg.html#ae861849d924547696801cead672d8b16',1,'Steinberg']]],
+  ['min_2',['Min',['../namespaceSteinberg.html#a29948ccdc9190054dba415d7ac893768',1,'Steinberg']]]
 ];

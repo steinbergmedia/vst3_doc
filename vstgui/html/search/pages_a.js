@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['ui_20xml_20attribute_20definitions_0',['UI XML Attribute Definitions',['../uidescription_attributes.html',1,'uidescriptionXML']]]
+  ['library_0',['Standalone Library',['../standalone_library.html',1,'']]],
+  ['license_1',['License',['../page_license.html',1,'']]],
+  ['list_2',['Deprecated List',['../deprecated.html',1,'']]]
 ];

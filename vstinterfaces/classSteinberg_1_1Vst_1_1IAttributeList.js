@@ -1,6 +1,6 @@
 var classSteinberg_1_1Vst_1_1IAttributeList =
 [
-    [ "AttrID", "classSteinberg_1_1Vst_1_1IAttributeList.html#afbcb28dffd98773ba0287d888f16d00a", null ],
+    [ "AttrID", "group__vst3typedef.html#gafbcb28dffd98773ba0287d888f16d00a", null ],
     [ "setInt", "classSteinberg_1_1Vst_1_1IAttributeList.html#a25f64b8d44505736988478be3c3ea3db", null ],
     [ "getInt", "classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810", null ],
     [ "setFloat", "classSteinberg_1_1Vst_1_1IAttributeList.html#a5fcd359925f64b686e4e7e08113aae97", null ],

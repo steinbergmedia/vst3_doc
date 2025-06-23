@@ -11,6 +11,7 @@ var searchData=
   ['uiviewswitchcontainercreator_8',['UIViewSwitchContainerCreator',['../struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_u_i_view_switch_container_creator.html',1,'VSTGUI::UIViewCreator']]],
   ['utf8characteriterator_9',['UTF8CharacterIterator',['../class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html',1,'VSTGUI']]],
   ['utf8codepointiterator_10',['UTF8CodePointIterator',['../class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html',1,'VSTGUI']]],
-  ['utf8string_11',['UTF8String',['../class_v_s_t_g_u_i_1_1_u_t_f8_string.html',1,'VSTGUI']]],
-  ['utf8stringview_12',['UTF8StringView',['../class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html',1,'VSTGUI']]]
+  ['utf8codepointiterator_3c_20stringtype_3a_3aconst_5fiterator_20_3e_11',['UTF8CodePointIterator&lt; StringType::const_iterator &gt;',['../class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html',1,'VSTGUI']]],
+  ['utf8string_12',['UTF8String',['../class_v_s_t_g_u_i_1_1_u_t_f8_string.html',1,'VSTGUI']]],
+  ['utf8stringview_13',['UTF8StringView',['../class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html',1,'VSTGUI']]]
 ];

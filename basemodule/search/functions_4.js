@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['encode_0',['encode',['../namespaceSteinberg_1_1HexBinary.html#a409cabd0268ae39045fe68f7816a06af',1,'Steinberg::HexBinary']]],
+  ['encode_0',['encode',['../namespaceSteinberg_1_1HexBinary.html#a25273cf9c94e82ef1bfc5f47be1261ff',1,'Steinberg::HexBinary']]],
   ['endread_1',['endRead',['../classSteinberg_1_1FStreamSizeHolder.html#a1143ed396d1273198dd270fd13a1d1fb',1,'Steinberg::FStreamSizeHolder']]],
   ['endstring_2',['endString',['../classSteinberg_1_1Buffer.html#a50de18138bdd773dfc112c841c8597a3',1,'Steinberg::Buffer']]],
   ['endstring16_3',['endString16',['../classSteinberg_1_1Buffer.html#ad487b6b6fedb84790a3820aa27b407ad',1,'Steinberg::Buffer']]],

@@ -1,11 +1,19 @@
 <map id="UMPMessage" name="UMPMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="456,5,567,235"/>
-<area shape="rect" id="node2" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html" title=" " alt="" coords="193,283,304,484"/>
-<area shape="rect" id="node7" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html" title=" " alt="" coords="328,339,511,428"/>
-<area shape="rect" id="node8" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSystem.html" title=" " alt="" coords="534,346,673,421"/>
-<area shape="rect" id="node9" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageUtility.html" title=" " alt="" coords="697,346,825,421"/>
-<area shape="rect" id="node3" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="22,532,134,719"/>
-<area shape="rect" id="node5" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="158,581,340,670"/>
-<area shape="rect" id="node6" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="364,588,496,663"/>
-<area shape="rect" id="node4" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="5,767,151,871"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="436,5,539,272"/>
+<area shape="rect" id="Node000002" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html" title=" " alt="" coords="185,320,288,549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,194,364,253,303,322,290,340,286,336,299,318,360,249,423,190"/>
+<area shape="rect" id="Node000007" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html" title=" " alt="" coords="313,395,486,475"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="446,287,413,395,408,394,441,285"/>
+<area shape="rect" id="Node000008" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSystem.html" title=" " alt="" coords="511,404,640,465"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="534,285,569,404,564,405,529,287"/>
+<area shape="rect" id="Node000009" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageUtility.html" title=" " alt="" coords="665,404,785,465"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="551,199,603,256,655,318,710,403,706,406,651,322,599,259,547,203"/>
+<area shape="rect" id="Node000003" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage4.html" title=" " alt="" coords="23,597,125,808"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,534,128,619,123,616,175,531"/>
+<area shape="rect" id="Node000005" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice2.html" title=" " alt="" coords="150,663,323,743"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="239,565,239,663,234,663,234,565"/>
+<area shape="rect" id="Node000006" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageSysEx.html" title=" " alt="" coords="348,672,472,733"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="298,540,303,548,337,596,391,671,387,674,333,599,298,551,294,543"/>
+<area shape="rect" id="Node000004" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageData128.html" title=" " alt="" coords="5,856,143,955"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,823,77,856,71,856,71,823"/>
 </map>

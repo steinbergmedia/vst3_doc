@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['level_0',['Level',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4aa0db49ba470c1c9ae2128c3470339153',1,'Steinberg::Vst::mda']]]
+  ['wavelen_0',['WAVELEN',['../classSteinberg_1_1Vst_1_1mda_1_1PianoProcessor.html#a041339dc15ff85959c0ebc57e2106e0aa7880ff67a682bfd5be243cf08651f273',1,'Steinberg::Vst::mda::PianoProcessor']]]
 ];

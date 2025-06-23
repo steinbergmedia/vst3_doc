@@ -1,9 +1,15 @@
 <map id="StringObject" name="StringObject">
-<area shape="rect" id="node1" title="StringObject implements IStringResult and IString methods." alt="" coords="238,1120,345,1335"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="5,745,146,1072"/>
-<area shape="rect" id="node3" title=" " alt="" coords="33,313,118,389"/>
-<area shape="rect" id="node4" href="$classSteinberg_1_1String.html" title="String." alt="" coords="170,794,285,1023"/>
-<area shape="rect" id="node5" href="$classSteinberg_1_1ConstString.html" title="Invariant String." alt="" coords="144,5,311,697"/>
-<area shape="rect" id="node6" title=" " alt="" coords="310,871,401,946"/>
-<area shape="rect" id="node7" title=" " alt="" coords="425,871,481,946"/>
+<area shape="rect" id="Node000001" title="StringObject implements IStringResult and IString methods." alt="" coords="274,1381,374,1629"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FObject.html" title="Implements FUnknown and IDependent." alt="" coords="31,936,161,1333"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,1278,202,1332,276,1438,272,1441,198,1335,166,1281"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,416,83,477"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,492,84,936,78,937,45,492"/>
+<area shape="rect" id="Node000004" href="$classSteinberg_1_1String.html" title="String." alt="" coords="212,1001,319,1268"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,1282,307,1381,302,1382,286,1283"/>
+<area shape="rect" id="Node000005" href="$classSteinberg_1_1ConstString.html" title="Invariant String." alt="" coords="107,5,477,888"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="277,903,273,1002,268,1002,272,903"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="343,1104,425,1165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="380,1180,347,1382,341,1381,374,1179"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="449,1104,497,1165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="473,1181,463,1254,453,1295,440,1334,411,1392,376,1444,372,1441,406,1389,435,1332,448,1293,457,1253,468,1180"/>
 </map>

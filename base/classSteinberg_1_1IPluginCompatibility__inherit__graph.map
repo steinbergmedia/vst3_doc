@@ -1,4 +1,5 @@
 <map id="IPluginCompatibility" name="IPluginCompatibility">
-<area shape="rect" id="node1" title="optional interface to query the compatibility of the plug&#45;ins classes" alt="" coords="5,157,165,232"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="26,5,144,109"/>
+<area shape="rect" id="Node000001" title="optional interface to query the compatibility of the plug&#45;ins classes" alt="" coords="5,152,156,213"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="27,5,135,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,119,83,152,78,152,78,119"/>
 </map>

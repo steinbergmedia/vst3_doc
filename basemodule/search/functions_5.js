@@ -2,8 +2,8 @@ var searchData=
 [
   ['farraydeleter_0',['FArrayDeleter',['../structSteinberg_1_1FArrayDeleter.html#a43cb3155da3a95365940b11cc42cbba8',1,'Steinberg::FArrayDeleter']]],
   ['fbooleansetter_1',['FBooleanSetter',['../structSteinberg_1_1FBooleanSetter.html#a184b4f0acbd0515534b0a8c161f9ee38',1,'Steinberg::FBooleanSetter']]],
-  ['fcast_2',['FCast',['../namespaceSteinberg.html#a77ef60ecf7bafa1fad170373890daf52',1,'Steinberg::FCast(FUnknown *unknown)'],['../namespaceSteinberg.html#a2d6b9817403c371fec28cc810cb14ea0',1,'Steinberg::FCast(const FObject *object)']]],
-  ['fcastisa_3',['FCastIsA',['../namespaceSteinberg.html#ab27ae4bf80e2aad8d6cdacfd8f6ab0f6',1,'Steinberg']]],
+  ['fcast_2',['FCast',['../namespaceSteinberg.html#aaa99ecbd430edfff1c6f13067b6445c1',1,'Steinberg::FCast(const FObject *object)'],['../namespaceSteinberg.html#ab1c7c73bcf9453420493980ea0c148d6',1,'Steinberg::FCast(FUnknown *unknown)']]],
+  ['fcastisa_3',['FCastIsA',['../namespaceSteinberg.html#a30de56b256b272282807bb50634a7888',1,'Steinberg']]],
   ['fcloser_4',['FCloser',['../structSteinberg_1_1FCloser.html#a46a490c0e086deff18fe1a1d484b2910',1,'Steinberg::FCloser']]],
   ['fconditionalboolsetter_5',['FConditionalBoolSetter',['../structSteinberg_1_1FConditionalBoolSetter.html#a46c5ce3d2063724dc2cac0a21fef7529',1,'Steinberg::FConditionalBoolSetter']]],
   ['fdeleter_6',['FDeleter',['../structSteinberg_1_1FDeleter.html#a8d904032d15002f7232451f551053c29',1,'Steinberg::FDeleter']]],

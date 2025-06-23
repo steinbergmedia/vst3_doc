@@ -1,5 +1,7 @@
 <map id="IUpdateManager" name="IUpdateManager">
-<area shape="rect" id="node1" title="Handle Send and Cancel pending message for a given object." alt="" coords="5,129,170,218"/>
-<area shape="rect" id="node3" href="$classSteinberg_1_1UpdateHandler.html" title="UpdateHandler implements IUpdateManager and IUpdateHandler to handle dependencies between objects to ..." alt="" coords="5,266,170,551"/>
-<area shape="rect" id="node2" title=" " alt="" coords="47,5,128,81"/>
+<area shape="rect" id="Node000001" title="Handle Send and Cancel pending message for a given object." alt="" coords="5,115,160,195"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1UpdateHandler.html" title="UpdateHandler implements IUpdateManager and IUpdateHandler to handle dependencies between objects to ..." alt="" coords="5,243,160,584"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,210,85,243,80,243,80,210"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,119,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,82,85,115,80,115,80,82"/>
 </map>

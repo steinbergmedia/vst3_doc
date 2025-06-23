@@ -28,7 +28,7 @@ var NAVTREE =
     [ "Introduction", "index.html#baseIntro", null ],
     [ "Strings", "index.html#baseString", null ],
     [ "IPtr Smart Pointer", "index.html#baseIPtr", null ],
-    [ "Steinberg::FObject", "index.html#baseFObject", null ],
+    [ "FObject", "index.html#baseFObject", null ],
     [ "Dependencies", "index.html#baseDependencies", null ],
     [ "Debugging", "index.html#basefdebug_h", null ],
     [ "Also useful", "index.html#baseOtherUsefulClasses", null ],
@@ -73,9 +73,9 @@ var NAVTREEINDEX =
 "classSteinberg_1_1ConstString.html#a0e3593cb1c3537ca53339e22c92f02ab",
 "classSteinberg_1_1FStreamer.html#a079a7a951eee3154e9e89808d02ecc3d",
 "classSteinberg_1_1String.html#a834a4ca1d041cdcd9ef5d6d5d0003a5b",
-"fobject_8cpp.html#a9550d93de76bc0422a328bc17dfaa0c7",
-"namespaceSteinberg.html#a77ef60ecf7bafa1fad170373890daf52"
+"fobject_8h.html#a41a8ea197ab9208b554473144f6572fd",
+"structSteinberg_1_1FCloser.html#a46a490c0e086deff18fe1a1d484b2910"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

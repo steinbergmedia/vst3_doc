@@ -1,5 +1,5 @@
 var hostclasses_8cpp =
 [
-    [ "IMPLEMENT_FUNKNOWN_METHODS", "hostclasses_8cpp.html#a476fe6d184a54896b92f055e61b011bf", null ],
-    [ "IMPLEMENT_FUNKNOWN_METHODS", "hostclasses_8cpp.html#a389055ec7b088e8040c289a99c17d33a", null ]
+    [ "IMPLEMENT_FUNKNOWN_METHODS", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#af796a282a5bbc784089caaf39891a5c3", null ],
+    [ "IMPLEMENT_FUNKNOWN_METHODS", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#af836a2bb5f529806e0a645aafcc7f558", null ]
 ];

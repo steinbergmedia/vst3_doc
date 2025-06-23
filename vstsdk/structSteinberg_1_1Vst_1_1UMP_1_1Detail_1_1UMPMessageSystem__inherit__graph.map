@@ -1,4 +1,5 @@
 <map id="UMPMessageSystem" name="UMPMessageSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="5,283,144,358"/>
-<area shape="rect" id="node2" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="19,5,130,235"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,135,381"/>
+<area shape="rect" id="Node000002" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="19,5,121,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,287,73,320,67,320,67,287"/>
 </map>

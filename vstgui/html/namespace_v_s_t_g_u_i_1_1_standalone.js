@@ -85,7 +85,7 @@ var namespace_v_s_t_g_u_i_1_1_standalone =
       [ "Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],
       [ "Popup", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0d4c14a20b4d98a5de54e1480bf99a25", null ]
     ] ],
-    [ "operator!=", "namespace_v_s_t_g_u_i_1_1_standalone.html#aa32accc8e2abb17ee36c93cf08ef6e61", null ],
-    [ "operator==", "namespace_v_s_t_g_u_i_1_1_standalone.html#aedadaf3af359764a729234db558ffd8a", null ],
+    [ "operator!=", "namespace_v_s_t_g_u_i_1_1_standalone.html#ac56f038028e91a83085da570187efedf", null ],
+    [ "operator==", "namespace_v_s_t_g_u_i_1_1_standalone.html#adf9129bad413b750bc911d8317276db7", null ],
     [ "DefaultPreferencesGroupSeparator", "namespace_v_s_t_g_u_i_1_1_standalone.html#aa3f9a0d7b741e5548d8dc2eee49b4895", null ]
 ];

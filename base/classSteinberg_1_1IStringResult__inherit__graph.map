@@ -1,4 +1,5 @@
 <map id="IStringResult" name="IStringResult">
-<area shape="rect" id="node1" title="Interface to return an ascii string of variable size." alt="" coords="18,157,110,232"/>
-<area shape="rect" id="node2" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,5,123,109"/>
+<area shape="rect" id="Node000001" title="Interface to return an ascii string of variable size." alt="" coords="18,152,101,213"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1FUnknown.html" title="The basic interface of all interfaces." alt="" coords="5,5,113,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,119,62,152,57,152,57,119"/>
 </map>

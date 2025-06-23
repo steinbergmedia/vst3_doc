@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "VST 3 Interfaces", "index.html", [
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -63,21 +63,17 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#a589c94be69d4ee5ed29cf62e437fecbb",
-"classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html#ae3cece9ab989e0769cb14377e2f719b1",
-"ivsteditcontroller_8h.html#a35f71d02b79cbd11942a149e651373e6aad5c03a524a2b60c6e72f3f1b7fa1efa",
-"namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895",
-"namespaceSteinberg_1_1FUnknownImpl.html#aa97fe0c3b9d688a3e43da776dec431c6",
-"namespaceSteinberg_1_1Vst.html#af0621743f305f87dd320b9bdacff874a",
-"namespaceSteinberg_1_1Vst_1_1MusicalInstrument.html#a91eddfe8e8f1e826c887b57971600988",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#a22796d2f7f109bde16a525429c8194af",
-"namespaceSteinberg_1_1Vst_1_1SpeakerArr.html#ad41abd22120392163e10a8699f174346",
-"structSteinberg_1_1Vst_1_1Event.html#a4f0bc42a72c611ac6c177661d617b6dc",
-"structSteinberg_1_1Vst_1_1ProcessContext.html",
-"vstpresetkeys_8h.html#a4f34c8d0372a9d06a2713fd488ece66e",
-"vstspeaker_8h.html#a31865a34aa4e3eca16df14729ff1629f",
-"vstspeaker_8h.html#ae5b25533bf821c6470e9d5a8d37b2f08"
+"classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#a97cc85e97b22ff0d4fb9b5109a1a2bf2",
+"dir_d97542da2fcf294e7d73be8ba6c1a565.html",
+"group__musicalStyle.html#ga3ccf2f159b7b1becbe0d64f4688f7f4e",
+"group__speakerArrangements.html#ga4d03f739a3250bd1cf51152ca75390ea",
+"group__speakerArrangements.html#gae026a8a57e8a9a408320616a0d289ece",
+"namespaceSteinberg.html#a728f0ddc16a12be5fa0f950f4c8a0a8e",
+"namespaceSteinberg_1_1Vst.html#a626a070dcd2e025250f41b9c3f9817cda3185111648c1599241528f1a7f523396",
+"namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0",
+"structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html",
+"structSteinberg_1_1Vst_1_1ProcessSetup.html#a9392481e4890fb9c08015eed7c2655e0"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';

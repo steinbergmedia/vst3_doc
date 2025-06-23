@@ -1,6 +1,6 @@
 var classSteinberg_1_1Vst_1_1ProgramListWithPitchNames =
 [
-    [ "PitchNamesVector", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a8af35b796490c0fc57e0152bfa30ceb6", null ],
+    [ "PitchNamesVector", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a33839446939346908f990b9ce8e26def", null ],
     [ "ProgramListWithPitchNames", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#ac35cdc8c766d4de4e9677d278c01382a", null ],
     [ "setPitchName", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a104e9768ddee171300a82f6568993cdd", null ],
     [ "removePitchName", "classSteinberg_1_1Vst_1_1ProgramListWithPitchNames.html#a43fd572150a2444e22d340013631c6d8", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['data128_0',['Data128',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfda69af36fbac2fdd8ac4322deff3451d1d',1,'Steinberg::Vst::UMP::Data128()'],['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html#a1bc3ccf4d567ca83c993c3aaa8124904a69af36fbac2fdd8ac4322deff3451d1d',1,'Steinberg::Vst::UMP::Detail::Data128()']]]
+  ['level_0',['Level',['../namespaceSteinberg_1_1Vst_1_1mda.html#ad4a12cdd49d69dab3151c2972b5e76a4aa0db49ba470c1c9ae2128c3470339153',1,'Steinberg::Vst::mda']]]
 ];

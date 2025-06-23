@@ -8,7 +8,7 @@ var classVSTGUI_1_1EventLogDataBrowserSource =
       [ "kNumColumns", "classVSTGUI_1_1EventLogDataBrowserSource.html#a630db3b24057ec4478d3730b8b71e1b9a8d6607732bcd95062fd9c16d5a4f82dd", null ]
     ] ],
     [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html#a89196a2307985705f23f0712b18f1de3", null ],
-    [ "~EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html#a1c340fa702572d1f11d02946ab9d3d8e", null ],
+    [ "~EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html#ae82d2fe73a286a08777c7086c281bc4e", null ],
     [ "dbGetNumRows", "classVSTGUI_1_1EventLogDataBrowserSource.html#ac3440ce013f8321eb6eece8cc864a3c1", null ],
     [ "dbGetNumColumns", "classVSTGUI_1_1EventLogDataBrowserSource.html#ad8e06d1b5d95a889436dbfc46f8d85fa", null ],
     [ "dbGetColumnDescription", "classVSTGUI_1_1EventLogDataBrowserSource.html#a66c23e6b22694cfbfb940e48fafd97f2", null ],

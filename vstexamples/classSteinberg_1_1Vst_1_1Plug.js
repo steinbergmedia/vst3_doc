@@ -25,7 +25,7 @@ var classSteinberg_1_1Vst_1_1Plug =
     [ "bBypass", "classSteinberg_1_1Vst_1_1Plug.html#abc22129b24de048752fd93a6ca2f8910", null ],
     [ "mLastNoteOnId", "classSteinberg_1_1Vst_1_1Plug.html#ab339f0786371412cc11e743edf64fd5d", null ],
     [ "mLastNoteOnPitch", "classSteinberg_1_1Vst_1_1Plug.html#af450460a7817e55054c194f496fb52a3", null ],
-    [ "mPrefetchableMode", "classSteinberg_1_1Vst_1_1Plug.html#a3c5c05ab4030afbc711fb0ae076ce294", null ],
+    [ "bBypass", "classSteinberg_1_1Vst_1_1Plug.html#a7341f6855d156925b2a3968f13d89b13", null ],
     [ "currentProgram", "classSteinberg_1_1Vst_1_1Plug.html#a35330d583ecab989fc886e9b070413e4", null ],
     [ "currentGainValue", "classSteinberg_1_1Vst_1_1Plug.html#aa326f55344affc7dc381ce26bab76e65", null ]
 ];

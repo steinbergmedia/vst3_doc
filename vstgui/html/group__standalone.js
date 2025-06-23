@@ -1,9 +1,9 @@
 var group__standalone =
 [
-    [ "VSTGUI::Standalone::Value", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html", null ],
-    [ "VSTGUI::Standalone::Async", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async.html", null ],
-    [ "VSTGUI::Standalone::CommandGroup", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_group.html", null ],
-    [ "VSTGUI::Standalone::Commands", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html", null ],
+    [ "Value", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html", null ],
+    [ "Async", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_async.html", null ],
+    [ "CommandGroup", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_command_group.html", null ],
+    [ "Commands", "namespace_v_s_t_g_u_i_1_1_standalone_1_1_commands.html", null ],
     [ "ConfigValue", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html", [
       [ "Type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a1d1cfd8ffb84e947f82999c682b666a7", [
         [ "Unknown", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a1d1cfd8ffb84e947f82999c682b666a7a88183b946cc5f0e8c96b2e66e1c74a7e", null ],
@@ -16,7 +16,7 @@ var group__standalone =
       [ "integer", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a57ef39e8def0d695ce9f6744ea05c48c", null ],
       [ "string", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ae1adbce218e7a9d09164012443191d24", null ],
       [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a47112a46547df7760e7994aeea220774", null ],
-      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a982a3f7352040c0cba18dc979ec5f19c", null ]
+      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a0bcdc6592e80d671f7b4dda18188d366", null ]
     ] ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", [
       [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html#a5150c4261a4bcb40d81b8c7a8cc8f9b6", null ]
@@ -49,7 +49,7 @@ var group__standalone =
       [ "onUIDescriptionParsed", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization_adapter.html#a0583c2f456eecd7b353b7182ace00187", null ]
     ] ],
     [ "Customization", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html", [
-      [ "CreateViewControllerFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a1ebff47b115e2e077d7ea5deea44308d", null ],
+      [ "CreateViewControllerFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a7378abad76dfaa09d047913b0a252b1d", null ],
       [ "addCreateViewControllerFunc", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#ade1bf67228234d8d897a53615fd96c2b", null ],
       [ "createController", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#ac8bbf77f37d95236f184acfb223bfb8e", null ],
       [ "make", "class_v_s_t_g_u_i_1_1_standalone_1_1_u_i_desc_1_1_customization.html#a07d4418d7f13d274d25bfc4d3d221cfc", null ]
@@ -299,20 +299,20 @@ var group__standalone =
       [ "onShow", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_listener.html#add5ca5fb218972f3bc6a7826a0bad45c", null ],
       [ "onSizeChanged", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window_listener.html#ab714977522893c05211e5de53d2835cc", null ]
     ] ],
-    [ "VSTGUI::Standalone::Application::Configuration", "group__standalone.html#gab9888eb9fafded9906770f6c37118a63", null ],
-    [ "VSTGUI::Standalone::AlertResult", "group__standalone.html#ga796a634e8a9576ab14040f1eca4a9f81", [
-      [ "VSTGUI::Standalone::AlertResult::DefaultButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a22b5e3ca27f5a966acd40ade16ea6033", null ],
-      [ "VSTGUI::Standalone::AlertResult::SecondButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a93fc595b2deae014255c4621f7c21231", null ],
-      [ "VSTGUI::Standalone::AlertResult::ThirdButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a520b8f34613e43a9243228e404519d64", null ],
-      [ "VSTGUI::Standalone::AlertResult::Error", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a902b0d55fddef6f8d651fe1035b7d4bd", null ]
+    [ "Configuration", "group__standalone.html#ga1e4e8a3cc28862237995f7def08e349d", null ],
+    [ "AlertResult", "group__standalone.html#ga796a634e8a9576ab14040f1eca4a9f81", [
+      [ "DefaultButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a22b5e3ca27f5a966acd40ade16ea6033", null ],
+      [ "SecondButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a93fc595b2deae014255c4621f7c21231", null ],
+      [ "ThirdButton", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a520b8f34613e43a9243228e404519d64", null ],
+      [ "Error", "group__standalone.html#gga796a634e8a9576ab14040f1eca4a9f81a902b0d55fddef6f8d651fe1035b7d4bd", null ]
     ] ],
-    [ "VSTGUI::Standalone::Application::ConfigKey", "group__standalone.html#gaebc84ce10c7f4503fdb5dac0f2c8b8df", [
-      [ "VSTGUI::Standalone::Application::ConfigKey::UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ],
-      [ "VSTGUI::Standalone::Application::ConfigKey::ShowCommandsInContextMenu", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfa64467c9fc342e68e559d041b7197c223", null ]
+    [ "ConfigKey", "group__standalone.html#gaebc84ce10c7f4503fdb5dac0f2c8b8df", [
+      [ "UseCompressedUIDescriptionFiles", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfab5d08d6f8ad318bb05c4b58751e9a4c1", null ],
+      [ "ShowCommandsInContextMenu", "group__standalone.html#ggaebc84ce10c7f4503fdb5dac0f2c8b8dfa64467c9fc342e68e559d041b7197c223", null ]
     ] ],
-    [ "VSTGUI::Standalone::WindowType", "group__standalone.html#ga476342970f954b62d70552bcbb5ee509", [
-      [ "VSTGUI::Standalone::WindowType::Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],
-      [ "VSTGUI::Standalone::WindowType::Popup", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0d4c14a20b4d98a5de54e1480bf99a25", null ]
+    [ "WindowType", "group__standalone.html#ga476342970f954b62d70552bcbb5ee509", [
+      [ "Document", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0945359809dad1fbf3dea1c95a0da951", null ],
+      [ "Popup", "group__standalone.html#gga476342970f954b62d70552bcbb5ee509a0d4c14a20b4d98a5de54e1480bf99a25", null ]
     ] ],
-    [ "VSTGUI::Standalone::UIDesc::makeWindow", "group__standalone.html#gab9d3e106be16f1fae3b2d53c4281d595", null ]
+    [ "makeWindow", "group__standalone.html#gae587916edd6a3a49bfc695104289f9c2", null ]
 ];

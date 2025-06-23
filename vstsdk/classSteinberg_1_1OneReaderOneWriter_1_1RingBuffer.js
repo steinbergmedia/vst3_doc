@@ -5,5 +5,6 @@ var classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer =
     [ "resize", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#aaf49963ae6d354927275c84adc3f448e", null ],
     [ "push", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#abbabbc28c5f4f8830e2ed06b19ea9549", null ],
     [ "push", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#a91f11a2997e9e08387ea391c50fc1e98", null ],
+    [ "push", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#a948c8b8f45fbe9a63891c80210972dcf", null ],
     [ "pop", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#a6665df5057fa2792c8e67084e9246cf9", null ]
 ];

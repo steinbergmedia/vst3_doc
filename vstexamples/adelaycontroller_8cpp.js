@@ -1,4 +1,4 @@
 var adelaycontroller_8cpp =
 [
-    [ "DEF_CLASS_IID", "adelaycontroller_8cpp.html#ad4b1aebf3c139f29c168a7b0c7513b89", null ]
+    [ "DEF_CLASS_IID", "../vstinterfaces/namespaceSteinberg_1_1Vst.html#a5a45bca27ac9cedb7d399704ca3c0b95", null ]
 ];

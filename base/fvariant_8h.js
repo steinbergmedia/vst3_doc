@@ -1,5 +1,5 @@
 var fvariant_8h =
 [
-    [ "operator==", "fvariant_8h.html#a2978443758ec8594b15872123119363a", null ],
-    [ "operator!=", "fvariant_8h.html#aa3bb730da3e8dd39c4b324d057e430c4", null ]
+    [ "operator==", "namespaceSteinberg.html#a8a42998c5c8a3a844cdf3b21d1b9be70", null ],
+    [ "operator!=", "namespaceSteinberg.html#a443dbd34922bff48d94a4060764ae9e9", null ]
 ];

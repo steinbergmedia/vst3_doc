@@ -1,5 +1,7 @@
 <map id="IInterAppAudioPresetManager" name="IInterAppAudioPresetManager">
-<area shape="rect" id="node1" title="Extended plug&#45;in interface IEditController for Inter&#45;App Audio Preset Management." alt="" coords="17,157,204,274"/>
-<area shape="rect" id="node3" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html" title=" " alt="" coords="5,322,216,579"/>
-<area shape="rect" id="node2" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="52,5,169,109"/>
+<area shape="rect" id="Node000001" title="Extended plug&#45;in interface IEditController for Inter&#45;App Audio Preset Management." alt="" coords="17,152,195,269"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstsdk/vstsdk.tag$classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html" title=" " alt="" coords="5,317,207,617"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,284,109,318,103,318,103,284"/>
+<area shape="rect" id="Node000002" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="52,5,160,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,119,109,153,103,153,103,119"/>
 </map>

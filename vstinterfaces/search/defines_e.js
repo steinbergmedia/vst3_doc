@@ -32,5 +32,6 @@ var searchData=
   ['vst_5f3_5f7_5f7_5fversion_29',['VST_3_7_7_VERSION',['../vsttypes_8h.html#a7d459f763cbfc4bc4d33603d0150ded9',1,'vsttypes.h']]],
   ['vst_5f3_5f7_5f8_5fversion_30',['VST_3_7_8_VERSION',['../vsttypes_8h.html#ac6362f71a29ce492d4be2b4e04a6e7b1',1,'vsttypes.h']]],
   ['vst_5f3_5f7_5f9_5fversion_31',['VST_3_7_9_VERSION',['../vsttypes_8h.html#a100b1e2c5665d6ea27ec0282bf555f7f',1,'vsttypes.h']]],
-  ['vst_5fversion_32',['VST_VERSION',['../vsttypes_8h.html#a8f8e3e0f6ff1889cda8597884edccb61',1,'vsttypes.h']]]
+  ['vst_5f3_5f8_5f0_5fversion_32',['VST_3_8_0_VERSION',['../vsttypes_8h.html#ae1bfc06ec617ee597864fc59810d14e4',1,'vsttypes.h']]],
+  ['vst_5fversion_33',['VST_VERSION',['../vsttypes_8h.html#a8f8e3e0f6ff1889cda8597884edccb61',1,'vsttypes.h']]]
 ];

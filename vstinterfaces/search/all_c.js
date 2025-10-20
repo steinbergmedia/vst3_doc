@@ -16,7 +16,7 @@ var searchData=
   ['l4_5f2_13',['l4_2',['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283',1,'Steinberg::FUnknownImpl::UID::l4_2'],['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283',1,'Steinberg::U::UID::l4_2']]],
   ['l4_5f3_14',['l4_3',['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb',1,'Steinberg::FUnknownImpl::UID::l4_3'],['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb',1,'Steinberg::U::UID::l4_3']]],
   ['l4_5f4_15',['l4_4',['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6',1,'Steinberg::FUnknownImpl::UID::l4_4'],['../../base/structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6',1,'Steinberg::U::UID::l4_4']]],
-  ['large_5fint_16',['LARGE_INT',['../../base/namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
+  ['large_5fint_16',['LARGE_INT',['../../base/group__smtgtypedef.html#ga9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
   ['lastpreset_17',['lastPreset',['../../vstsdk/classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a46ad71fcafe9288a61041dd87173d9a6',1,'Steinberg::Vst::InterAppAudio::PresetManager']]],
   ['layer_5ftag_18',['LAYER_TAG',['../ivstrepresentation_8h.html#ae9bb7fe3c8a5619a8a69a878a93cf053',1,'ivstrepresentation.h']]],
   ['left_19',['left',['../../base/structSteinberg_1_1ViewRect.html#ae08ef45a841fb76eef2ed11f7f6661ad',1,'Steinberg::ViewRect']]],

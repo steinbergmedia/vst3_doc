@@ -23,7 +23,7 @@ var searchData=
   ['effmidi_20',['effMIDI',['../againaax_8cpp.html#aecbe923fbe60e46a80a00f852f275acc',1,'againaax.cpp']]],
   ['effplugins_21',['effPlugins',['../againaax_8cpp.html#a69e9ff8c435bb8eed1e2ca65d4c5ffd1',1,'againaax.cpp']]],
   ['elogids_22',['eLogIds',['../logevents_8h.html#afc84f29132b630b33d341d0769a66d46',1,'logevents.h']]],
-  ['email_23',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo::email'],['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo::email()']]],
+  ['email_23',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo::email'],['../../vstsdk/structSteinberg_1_1ModuleInfo_1_1FactoryInfo.html#a39f10874f551f4c4ad837e516691e4e6',1,'Steinberg::ModuleInfo::FactoryInfo::email'],['../../vstsdk/classVST3_1_1Hosting_1_1FactoryInfo.html#aab48f577414d7c9d0008bb27dec6eca5',1,'VST3::Hosting::FactoryInfo::email()']]],
   ['emphasis_24',['emphasis',['../classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html#ac5a9593af467bae7f2701cc7b1c8e273',1,'Steinberg::Vst::mda::TalkBoxProcessor']]],
   ['empty_25',['empty',['../../base/classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e',1,'Steinberg::FVariant::empty()'],['../classEventLogger.html#a644718bb2fb240de962dc3c9a1fdf0dc',1,'EventLogger::empty()']]],
   ['enable_26',['enable',['../../vstsdk/classSteinberg_1_1Vst_1_1DataExchangeHandler.html#a66d8feb44d790d1c96e76ffd13b54bb0',1,'Steinberg::Vst::DataExchangeHandler']]],

@@ -63,16 +63,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classSteinberg_1_1Vst_1_1IEditControllerHostEditing.html#a97cc85e97b22ff0d4fb9b5109a1a2bf2",
-"dir_d97542da2fcf294e7d73be8ba6c1a565.html",
-"group__musicalStyle.html#ga3ccf2f159b7b1becbe0d64f4688f7f4e",
-"group__speakerArrangements.html#ga4d03f739a3250bd1cf51152ca75390ea",
-"group__speakerArrangements.html#gae026a8a57e8a9a408320616a0d289ece",
-"namespaceSteinberg.html#a728f0ddc16a12be5fa0f950f4c8a0a8e",
-"namespaceSteinberg_1_1Vst.html#a626a070dcd2e025250f41b9c3f9817cda3185111648c1599241528f1a7f523396",
-"namespaceSteinberg_1_1Vst_1_1UMP.html#a912340f293ecc1dedf72513159862bfdaa2f1103bbcd73e7ab88294a62df5f8b0",
-"structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html",
-"structSteinberg_1_1Vst_1_1ProcessSetup.html#a9392481e4890fb9c08015eed7c2655e0"
+"classSteinberg_1_1Vst_1_1IEditController.html#af4254a0360b21f8871a61c62fb317058",
+"classSteinberg_1_1Vst_1_1IUnitInfo.html#a6f1b43425ba894764f35b7d492e81c53",
+"group__musicalStyle.html",
+"group__speakerArrangements.html#ga2a834a6c97df49e2fa45315ff7045533",
+"group__speakerArrangements.html#gabebe500b3d27127ae844c7fcabb854f0",
+"namespaceSteinberg.html#a145379c6e26917acaa0bac72b8c0bc05",
+"namespaceSteinberg_1_1StringConvert.html#a7b24e433664bafa3dd3f9357ec3f6c4d",
+"namespaceSteinberg_1_1Vst_1_1Helpers.html#a61c7a8dfad41943eaacd09811d60c958",
+"structSteinberg_1_1Vst_1_1Event.html#acd2bbbb2eae99e9e00ac1517dbf7958d",
+"structSteinberg_1_1Vst_1_1PolyPressureEvent.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

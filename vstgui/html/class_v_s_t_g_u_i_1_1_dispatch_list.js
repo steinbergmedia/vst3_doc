@@ -1,6 +1,7 @@
 var class_v_s_t_g_u_i_1_1_dispatch_list =
 [
     [ "DispatchList", "class_v_s_t_g_u_i_1_1_dispatch_list.html#a06f5a748e74e91ec4adbe012ea4c4895", null ],
+    [ "~DispatchList", "class_v_s_t_g_u_i_1_1_dispatch_list.html#a79042532cce4f904729ccd4b4ec73a27", null ],
     [ "add", "class_v_s_t_g_u_i_1_1_dispatch_list.html#af5332a12be0cb4c44ac6df90ff435dcb", null ],
     [ "add", "class_v_s_t_g_u_i_1_1_dispatch_list.html#a78121c39d0447ba64e233fc6c96c929e", null ],
     [ "empty", "class_v_s_t_g_u_i_1_1_dispatch_list.html#a644718bb2fb240de962dc3c9a1fdf0dc", null ],

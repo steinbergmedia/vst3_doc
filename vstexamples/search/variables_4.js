@@ -6,7 +6,7 @@ var searchData=
   ['effmeters_3',['effMeters',['../againaax_8cpp.html#adee80717eee22432f9fb4e19402d2ca2',1,'againaax.cpp']]],
   ['effmidi_4',['effMIDI',['../againaax_8cpp.html#aecbe923fbe60e46a80a00f852f275acc',1,'againaax.cpp']]],
   ['effplugins_5',['effPlugins',['../againaax_8cpp.html#a69e9ff8c435bb8eed1e2ca65d4c5ffd1',1,'againaax.cpp']]],
-  ['email_6',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo']]],
+  ['email_6',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo::email'],['../../vstsdk/structSteinberg_1_1ModuleInfo_1_1FactoryInfo.html#a39f10874f551f4c4ad837e516691e4e6',1,'Steinberg::ModuleInfo::FactoryInfo::email']]],
   ['emphasis_7',['emphasis',['../classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html#ac5a9593af467bae7f2701cc7b1c8e273',1,'Steinberg::Vst::mda::TalkBoxProcessor']]],
   ['end_8',['end',['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::EPianoProcessor::VOICE::end'],['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::EPianoProcessor::KGRP::end'],['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::PianoProcessor::VOICE::end'],['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::PianoProcessor::KGRP::end']]],
   ['entries_9',['entries',['../../vstsdk/classSteinberg_1_1Vst_1_1PresetFile.html#a83b23e1334542a860af5f8f6a9b813bf',1,'Steinberg::Vst::PresetFile']]],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['factoryinfo_0',['FactoryInfo',['../classVST3_1_1Hosting_1_1FactoryInfo.html',1,'VST3::Hosting']]],
+  ['factoryinfo_0',['FactoryInfo',['../structSteinberg_1_1ModuleInfo_1_1FactoryInfo.html',1,'ModuleInfo::FactoryInfo'],['../classVST3_1_1Hosting_1_1FactoryInfo.html',1,'FactoryInfo']]],
   ['filestream_1',['FileStream',['../classSteinberg_1_1Vst_1_1FileStream.html',1,'Steinberg::Vst']]],
   ['framerate_2',['FrameRate',['../../vstinterfaces/structSteinberg_1_1Vst_1_1FrameRate.html',1,'Steinberg::Vst']]],
   ['freleaser_3',['FReleaser',['../../base/structSteinberg_1_1FReleaser.html',1,'Steinberg']]],

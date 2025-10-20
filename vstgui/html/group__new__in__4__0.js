@@ -196,6 +196,7 @@ var group__new__in__4__0 =
     [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html", [
       [ "ElementList", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a057042352a6b00ea2233bfddb55bc9f0", null ],
       [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a8ede31e4fbbef392b8490d6d30baabdd", null ],
+      [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a330f91adae1497c404b8b7c337e34315", null ],
       [ "~CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a2e273d6e4876daa45a180a9f488aae62", null ],
       [ "addArc", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a", null ],
       [ "addBezierCurve", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#ada42a6501e39ad2065ce72d1a4d589a0", null ],
@@ -252,7 +253,8 @@ var group__new__in__4__0 =
     [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html", [
       [ "Styles", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fd", [
         [ "kAutoSizeToFit", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fdac857b2834fb85cea61b0cb84445b7314", null ],
-        [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ]
+        [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ],
+        [ "kIgnoreCapHeightOnDraw", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda0676dbf4aaa3be2a2445e76f143f9a1a", null ]
       ] ],
       [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#ab590b4311a6e3452c1c0d16bad6d657e", null ],
       [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a211316126af1ea989498906b9c526502", null ],
@@ -461,11 +463,7 @@ var group__new__in__4__0 =
       [ "removeAll", "class_v_s_t_g_u_i_1_1_c_split_view.html#aabd341267925286a64dd52c16072e0cd", null ],
       [ "removed", "class_v_s_t_g_u_i_1_1_c_split_view.html#a157ad241be4354121739aac80cf3cd3d", null ],
       [ "removeView", "class_v_s_t_g_u_i_1_1_c_split_view.html#a628758060bb2b806776d7654c53768ca", null ],
-      [ "requestNewSeparatorSize", "class_v_s_t_g_u_i_1_1_c_split_view.html#a129ba2469954235dd9ad1eb7f9c5ca4c", null ],
-      [ "resizeFirstView", "class_v_s_t_g_u_i_1_1_c_split_view.html#ad6ece4580634fc04e425a521c327125d", null ],
-      [ "resizeLastView", "class_v_s_t_g_u_i_1_1_c_split_view.html#a54f2ef725a3284c7cadc1cc0c7dcc527", null ],
-      [ "resizeSecondView", "class_v_s_t_g_u_i_1_1_c_split_view.html#a7d515066dd3e7c3d0960c3da1502f64c", null ],
-      [ "resizeViewsEqual", "class_v_s_t_g_u_i_1_1_c_split_view.html#ac98cefe207ff01ac2532c39dd3a85619", null ],
+      [ "requestNewSeparatorSize", "class_v_s_t_g_u_i_1_1_c_split_view.html#afbfeb203210b85fbb6839ecf96ee0364", null ],
       [ "setResizeMethod", "class_v_s_t_g_u_i_1_1_c_split_view.html#a3e054909d56d2693a28f490aad1ae585", null ],
       [ "setSeparatorWidth", "class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d", null ],
       [ "setStyle", "class_v_s_t_g_u_i_1_1_c_split_view.html#aa053942a502bdcf882888ab77b7a3b45", null ],
@@ -526,7 +524,8 @@ var group__new__in__4__0 =
         [ "kRectType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00aac50f62c199d9e1cfafc3ce801743852", null ],
         [ "kTagType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a9654c5f3654439dd62d1e5c4b8224afa", null ],
         [ "kListType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00ab1e36fc8da4d0b51aa375215d1b58dab", null ],
-        [ "kGradientType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a733ac9612f65dae8f8596a08869f4fde", null ]
+        [ "kGradientType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a733ac9612f65dae8f8596a08869f4fde", null ],
+        [ "kScriptType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a0aad804521bc9fcf939e9843ee0e8c2e", null ]
       ] ],
       [ "~IViewCreator", "class_v_s_t_g_u_i_1_1_i_view_creator.html#ae8965f884224c40fa402fe8721a4c173", null ],
       [ "apply", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a5e0194bf3751756ecb768f9fa9536f74", null ],
@@ -610,7 +609,7 @@ var group__new__in__4__0 =
       [ "getController", "class_v_s_t_g_u_i_1_1_u_i_description.html#a15b780b00484f99c174f4301c8554b73", null ],
       [ "getControlListener", "class_v_s_t_g_u_i_1_1_u_i_description.html#a8d6a50e130f286632d53878b5f6c87ed", null ],
       [ "getControlTagString", "class_v_s_t_g_u_i_1_1_u_i_description.html#a85efed84d96a86a0d3740147e8cd5b35", null ],
-      [ "getCustomAttributes", "class_v_s_t_g_u_i_1_1_u_i_description.html#a3fdcda2536c24a252c5483759a199c90", null ],
+      [ "getCustomAttributes", "class_v_s_t_g_u_i_1_1_u_i_description.html#a77e23223afcef7bd94bc16e04c908dd3", null ],
       [ "getCustomAttributes", "class_v_s_t_g_u_i_1_1_u_i_description.html#ac31b19b95c627517ae2ce89ded82a3e5", null ],
       [ "getFilePath", "class_v_s_t_g_u_i_1_1_u_i_description.html#a37ba9a3d8eb766e0d126286838cf50b0", null ],
       [ "getFocusDrawingSettings", "class_v_s_t_g_u_i_1_1_u_i_description.html#aa0ba54abec2b1261b4c49a3498785677", null ],
@@ -652,7 +651,7 @@ var group__new__in__4__0 =
       [ "setBitmapCreator2", "class_v_s_t_g_u_i_1_1_u_i_description.html#a9f381a5a38909fe4578eb00188d3013d", null ],
       [ "setContentProvider", "class_v_s_t_g_u_i_1_1_u_i_description.html#a09bb3ee2a2868bcd4fe909984e3811c6", null ],
       [ "setController", "class_v_s_t_g_u_i_1_1_u_i_description.html#ae41bce89e152415331a477f0702262d1", null ],
-      [ "setCustomAttributes", "class_v_s_t_g_u_i_1_1_u_i_description.html#a5c9b944f11086254d7503ad66e5bdd3f", null ],
+      [ "setCustomAttributes", "class_v_s_t_g_u_i_1_1_u_i_description.html#a0049a3d1a003b705d07859241fc4b83c", null ],
       [ "setFilePath", "class_v_s_t_g_u_i_1_1_u_i_description.html#a7375c29b62b0fb9a035996f2b4aa60f1", null ],
       [ "setFocusDrawingSettings", "class_v_s_t_g_u_i_1_1_u_i_description.html#a67a61941cfc2c09eb3fa6d3f4e943258", null ],
       [ "setSharedResources", "class_v_s_t_g_u_i_1_1_u_i_description.html#aaad4ae20f04be7c38d242c6a089bd4e9", null ],
@@ -669,9 +668,10 @@ var group__new__in__4__0 =
       [ "createView", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a1f335dca9a60845eeeade364d75eb599", null ],
       [ "createViewByName", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#ae2688d6f48f05fcefae0278e25c9e493", null ],
       [ "evaluateAttributesAndRemember", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a271fdef380763912fedc2d1c843da1a6", null ],
-      [ "getViewName", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#adf5730ebd1a66959d4cdebbb45441b11", null ],
+      [ "getAttributeValue", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a919db21e289d2ed56183f79f986170b0", null ],
       [ "registerViewCreator", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#aa8bd27c0b05d0759c648959863ad3cef", null ],
-      [ "unregisterViewCreator", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a319fc52127401456b018e4174d221b5e", null ]
+      [ "unregisterViewCreator", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a319fc52127401456b018e4174d221b5e", null ],
+      [ "viewIsTypeOf", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a5d1c494e12234b08220b2f58f5d35b69", null ]
     ] ],
     [ "IVST3EditorDelegate", "class_v_s_t_g_u_i_1_1_i_v_s_t3_editor_delegate.html", [
       [ "~IVST3EditorDelegate", "class_v_s_t_g_u_i_1_1_i_v_s_t3_editor_delegate.html#a8424ab4d99465cf3c752a75f83c4cd8a", null ],
@@ -710,6 +710,7 @@ var group__new__in__4__0 =
       [ "findParameter", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ae346799e9e1aa5e185c167b60ba8154c", null ],
       [ "getAbsScaleFactor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aaea057e55161b79eb514d5b8c9cdb237", null ],
       [ "getContentScaleFactor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a137632410289a90575b0fbcf01d31c97", null ],
+      [ "getCurrentTemplateName", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a34bdd47a2dd7f4a3335e6d274d021b79", null ],
       [ "getDelegate", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aba082db0a29b4e8416956abca1ea1b0e", null ],
       [ "getEditorSizeConstrains", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#afeb7a30f02af571c8cd3899e2dd72ca3", null ],
       [ "getParameterChangeListener", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a5596c604ac876f4a0d4146f125f81e65", null ],

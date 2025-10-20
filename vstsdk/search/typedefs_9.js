@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['large_5fint_0',['LARGE_INT',['../../base/namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]]
+  ['keyswitchtypeid_0',['KeyswitchTypeID',['../../vstinterfaces/group__vst3typedef.html#ga62cc12c76af32650e16a6920962ddbf1',1,'Steinberg::Vst']]],
+  ['knobmode_1',['KnobMode',['../../vstinterfaces/group__vst3typedef.html#gace7eaa9efefc89d60148285cfbbad71d',1,'Steinberg::Vst']]]
 ];

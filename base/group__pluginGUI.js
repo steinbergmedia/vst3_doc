@@ -1,6 +1,6 @@
 var group__pluginGUI =
 [
-    [ "Platform UI Types", "group__platformUIType.html", null ],
+    [ "Platform UI Types", "group__platformUIType.html", "group__platformUIType" ],
     [ "ViewRect", "structSteinberg_1_1ViewRect.html", [
       [ "ViewRect", "structSteinberg_1_1ViewRect.html#afcdde0147792d1103d06537c37e59ef0", null ],
       [ "getWidth", "structSteinberg_1_1ViewRect.html#a8393748cd69f8fb3f27257f9e7f5900b", null ],
@@ -40,7 +40,7 @@ var group__pluginGUI =
       [ "unregisterTimer", "classSteinberg_1_1Linux_1_1IRunLoop.html#ae84103b4ac33ddbe1fec57d28e917618", null ]
     ] ],
     [ "IPlugViewContentScaleSupport", "classSteinberg_1_1IPlugViewContentScaleSupport.html", [
-      [ "ScaleFactor", "classSteinberg_1_1IPlugViewContentScaleSupport.html#a75ec4b5d086d2af3733ac3775ab008d8", null ],
+      [ "ScaleFactor", "group__smtgtypedef.html#ga75ec4b5d086d2af3733ac3775ab008d8", null ],
       [ "setContentScaleFactor", "classSteinberg_1_1IPlugViewContentScaleSupport.html#af5b0fea85beba3cdcfeb8de66779f478", null ]
     ] ]
 ];

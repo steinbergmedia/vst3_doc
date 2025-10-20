@@ -25,7 +25,7 @@ var searchData=
   ['plug_22',['Plug',['../classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html',1,'Plug'],['../classSteinberg_1_1Vst_1_1Plug.html',1,'Plug']]],
   ['plugcontroller_23',['PlugController',['../classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1PlugController.html',1,'PlugController'],['../classSteinberg_1_1Vst_1_1PlugController.html',1,'PlugController']]],
   ['plugincontextfactory_24',['PluginContextFactory',['../../vstsdk/classSteinberg_1_1Vst_1_1PluginContextFactory.html',1,'Steinberg::Vst']]],
-  ['pluginfactory_25',['PluginFactory',['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'VST3::Hosting']]],
+  ['pluginfactory_25',['PluginFactory',['../../vstsdk/classSteinberg_1_1PluginFactory.html',1,'PluginFactory&lt; typename T &gt;'],['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'PluginFactory']]],
   ['pluginterfacesupport_26',['PlugInterfaceSupport',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html',1,'Steinberg::Vst']]],
   ['plugprovider_27',['PlugProvider',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html',1,'Steinberg::Vst']]],
   ['polypressureevent_28',['PolyPressureEvent',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PolyPressureEvent.html',1,'Steinberg::Vst']]],

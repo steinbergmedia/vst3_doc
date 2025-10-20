@@ -14,6 +14,7 @@ var class_v_s_t_g_u_i_1_1_standalone_1_1_i_window =
     [ "getType", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a2dc9d8d28598b49a8779bc33233b40db", null ],
     [ "hide", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a60a6c04e603d8ab3232f8176bddb3ce3", null ],
     [ "registerWindowListener", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a1aea3c2ba06cc7d8230e7c365fa51b8b", null ],
+    [ "setAutoSaveFrameName", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#af95afec181627882f0d2b9e702423357", null ],
     [ "setContentView", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#aeebc73ca6b41c5876612cfb46c46f8ed", null ],
     [ "setPosition", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a090307040a1a02ef485d0d7cebfbb9cc", null ],
     [ "setRepresentedPath", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a2efe9a0860a4a96be5ebcbdb4e71fa49", null ],

@@ -6,8 +6,10 @@ var hierarchy =
     [ "AlertBoxConfig", "struct_v_s_t_g_u_i_1_1_standalone_1_1_alert_box_config.html", [
       [ "AlertBoxForWindowConfig", "struct_v_s_t_g_u_i_1_1_standalone_1_1_alert_box_for_window_config.html", null ]
     ] ],
+    [ "Auto", "struct_v_s_t_g_u_i_1_1_grid_layout_properties_1_1_auto.html", null ],
     [ "AutoLayout", "class_v_s_t_g_u_i_1_1_layouting_1_1_auto_layout.html", null ],
     [ "Base64Codec", "class_v_s_t_g_u_i_1_1_base64_codec.html", null ],
+    [ "BaseViewLayouterEntry", "struct_v_s_t_g_u_i_1_1_base_view_layouter_entry.html", null ],
     [ "BitScopeToggleT< T, B >", "struct_v_s_t_g_u_i_1_1_bit_scope_toggle_t.html", null ],
     [ "Buffer< T, Allocator >", "class_v_s_t_g_u_i_1_1_buffer.html", null ],
     [ "CBaseObjectGuard", "class_v_s_t_g_u_i_1_1_c_base_object_guard.html", null ],
@@ -51,6 +53,7 @@ var hierarchy =
     [ "CPoint", "struct_v_s_t_g_u_i_1_1_c_point.html", null ],
     [ "CRect", "struct_v_s_t_g_u_i_1_1_c_rect.html", null ],
     [ "CResourceDescription", "class_v_s_t_g_u_i_1_1_c_resource_description.html", null ],
+    [ "CSSNamedColor", "struct_v_s_t_g_u_i_1_1_c_s_s_named_color.html", null ],
     [ "DataPackageIterator", "struct_v_s_t_g_u_i_1_1_data_package_iterator.html", null ],
     [ "DeferChanges", "class_v_s_t_g_u_i_1_1_i_dependency_1_1_defer_changes.html", null ],
     [ "Desc", "struct_v_s_t_g_u_i_1_1_c_command_menu_item_1_1_desc.html", null ],
@@ -62,6 +65,7 @@ var hierarchy =
     [ "enable_shared_from_this", null, [
       [ "Group", "struct_v_s_t_g_u_i_1_1_standalone_1_1_async_1_1_group.html", null ]
     ] ],
+    [ "EnumBitset< Enum, EnumIsBitMask >", "struct_v_s_t_g_u_i_1_1_enum_bitset.html", null ],
     [ "ERect", "struct_v_s_t_g_u_i_1_1_e_rect.html", null ],
     [ "Event", "struct_v_s_t_g_u_i_1_1_event.html", [
       [ "ModifierEvent", "struct_v_s_t_g_u_i_1_1_modifier_event.html", [
@@ -98,10 +102,13 @@ var hierarchy =
     ] ],
     [ "GetViewOptions", "struct_v_s_t_g_u_i_1_1_get_view_options.html", null ],
     [ "GlobalFonts", "struct_v_s_t_g_u_i_1_1_global_fonts.html", null ],
+    [ "GridArea", "struct_v_s_t_g_u_i_1_1_grid_layout_properties_1_1_grid_area.html", null ],
+    [ "GridLayoutProperties", "struct_v_s_t_g_u_i_1_1_grid_layout_properties.html", null ],
     [ "IAnimationTarget", "class_v_s_t_g_u_i_1_1_animation_1_1_i_animation_target.html", [
       [ "AlphaValueAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_alpha_value_animation.html", null ],
       [ "ControlValueAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_control_value_animation.html", null ],
       [ "ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html", null ],
+      [ "FuncAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_func_animation.html", null ],
       [ "ViewSizeAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html", null ]
     ] ],
     [ "IBitmapCreator", "class_v_s_t_g_u_i_1_1_i_bitmap_creator.html", null ],
@@ -133,6 +140,7 @@ var hierarchy =
           [ "AspectRatioVST3Editor", "class_v_s_t_g_u_i_1_1_aspect_ratio_v_s_t3_editor.html", null ]
         ] ]
       ] ],
+      [ "FindPanelController", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_find_panel_controller.html", null ],
       [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html", null ]
     ] ],
     [ "IControlViewExtension", "struct_v_s_t_g_u_i_1_1_external_view_1_1_i_control_view_extension.html", [
@@ -145,6 +153,10 @@ var hierarchy =
     ] ],
     [ "IDependency", "class_v_s_t_g_u_i_1_1_i_dependency.html", null ],
     [ "IDraggingSession", "class_v_s_t_g_u_i_1_1_i_dragging_session.html", null ],
+    [ "IDrawLinearGradientLine", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_i_draw_linear_gradient_line.html", null ],
+    [ "IEditorExt", "struct_v_s_t_g_u_i_1_1_text_editor_colorization_1_1_i_editor_ext.html", [
+      [ "TextEditorView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html", null ]
+    ] ],
     [ "IFocusDrawing", "class_v_s_t_g_u_i_1_1_i_focus_drawing.html", [
       [ "CControl", "class_v_s_t_g_u_i_1_1_c_control.html", [
         [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", null ],
@@ -179,7 +191,8 @@ var hierarchy =
         [ "CTextButton", "class_v_s_t_g_u_i_1_1_c_text_button.html", null ],
         [ "CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html", null ],
         [ "CControlCreatorDummyControl", "struct_v_s_t_g_u_i_1_1_u_i_view_creator_1_1_c_control_creator_dummy_control.html", null ]
-      ] ]
+      ] ],
+      [ "TextEditorView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html", null ]
     ] ],
     [ "IFocusViewObserver", "class_v_s_t_g_u_i_1_1_i_focus_view_observer.html", null ],
     [ "IFontChooserDelegate", "class_v_s_t_g_u_i_1_1_i_font_chooser_delegate.html", null ],
@@ -200,6 +213,9 @@ var hierarchy =
     [ "Impl", "struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html", null ],
     [ "Impl", "struct_v_s_t_g_u_i_1_1_c_view_container_1_1_impl.html", null ],
     [ "Impl", "struct_v_s_t_g_u_i_1_1_string_list_control_drawer_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_u_i_description_add_on_registry_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_z_lib_input_stream_1_1_impl.html", null ],
+    [ "Impl", "struct_v_s_t_g_u_i_1_1_z_lib_output_stream_1_1_impl.html", null ],
     [ "IMultiBitmapControl", "class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html", [
       [ "CAnimKnob", "class_v_s_t_g_u_i_1_1_c_anim_knob.html", null ],
       [ "CAutoAnimation", "class_v_s_t_g_u_i_1_1_c_auto_animation.html", null ],
@@ -239,6 +255,7 @@ var hierarchy =
       [ "IStepValue", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_step_value.html", null ],
       [ "IStringListValue", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_string_list_value.html", null ],
       [ "IStringValue", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_string_value.html", null ],
+      [ "IUIDescWindowController", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_u_i_desc_window_controller.html", null ],
       [ "IValue", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value.html", null ],
       [ "IValueConverter", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_converter.html", null ],
       [ "IValueListener", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_value_listener.html", [
@@ -317,6 +334,7 @@ var hierarchy =
         [ "Animator", "class_v_s_t_g_u_i_1_1_animation_1_1_animator.html", null ],
         [ "ControlValueAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_control_value_animation.html", null ],
         [ "ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html", null ],
+        [ "FuncAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_func_animation.html", null ],
         [ "ViewSizeAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html", null ],
         [ "IFilter", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_i_filter.html", [
           [ "FilterBase", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_filter_base.html", null ]
@@ -347,13 +365,17 @@ var hierarchy =
               [ "CSplitView", "class_v_s_t_g_u_i_1_1_c_split_view.html", null ],
               [ "CTabView", "class_v_s_t_g_u_i_1_1_c_tab_view.html", null ],
               [ "UIViewSwitchContainer", "class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html", null ]
-            ] ]
+            ] ],
+            [ "LineNumberView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_line_number_view.html", null ],
+            [ "TextEditorView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html", null ]
           ] ],
           [ "GenericStringListDataBrowserSource", "class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html", null ],
           [ "UIDescriptionViewSwitchController", "class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html", null ]
         ] ],
         [ "CViewContainerDropTarget", "struct_v_s_t_g_u_i_1_1_c_view_container_drop_target.html", null ],
         [ "DragCallbackFunctions", "class_v_s_t_g_u_i_1_1_drag_callback_functions.html", null ],
+        [ "GridLayouter", "class_v_s_t_g_u_i_1_1_grid_layouter.html", null ],
+        [ "NoViewLayouter", "struct_v_s_t_g_u_i_1_1_no_view_layouter.html", null ],
         [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html", null ],
         [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", null ],
         [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html", null ],
@@ -381,6 +403,13 @@ var hierarchy =
       [ "IListControlDrawer", "class_v_s_t_g_u_i_1_1_i_list_control_drawer.html", [
         [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", null ]
       ] ],
+      [ "IViewLayouter", "class_v_s_t_g_u_i_1_1_i_view_layouter.html", [
+        [ "BaseViewLayouter", "class_v_s_t_g_u_i_1_1_base_view_layouter.html", [
+          [ "AutoSizeViewLayouter", "struct_v_s_t_g_u_i_1_1_auto_size_view_layouter.html", null ],
+          [ "NoViewLayouter", "struct_v_s_t_g_u_i_1_1_no_view_layouter.html", null ]
+        ] ],
+        [ "GridLayouter", "class_v_s_t_g_u_i_1_1_grid_layouter.html", null ]
+      ] ],
       [ "ReferenceCounted< T >", "class_v_s_t_g_u_i_1_1_reference_counted.html", null ]
     ] ],
     [ "IScaleFactorChangedListener", "class_v_s_t_g_u_i_1_1_i_scale_factor_changed_listener.html", [
@@ -393,10 +422,17 @@ var hierarchy =
     [ "IScrollbarDrawer", "class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html", null ],
     [ "ISplitViewController", "class_v_s_t_g_u_i_1_1_i_split_view_controller.html", null ],
     [ "ISplitViewSeparatorDrawer", "class_v_s_t_g_u_i_1_1_i_split_view_separator_drawer.html", null ],
+    [ "IStyleProvider", "struct_v_s_t_g_u_i_1_1_text_editor_colorization_1_1_i_style_provider.html", null ],
     [ "Item", "struct_v_s_t_g_u_i_1_1_data_package_iterator_1_1_item.html", null ],
     [ "Iterator< reverse >", "class_v_s_t_g_u_i_1_1_c_view_container_1_1_iterator.html", null ],
     [ "ITextEditListener", "class_v_s_t_g_u_i_1_1_i_text_edit_listener.html", [
       [ "TextEditListenerAdapter", "class_v_s_t_g_u_i_1_1_text_edit_listener_adapter.html", null ]
+    ] ],
+    [ "ITextEditor", "struct_v_s_t_g_u_i_1_1_i_text_editor.html", [
+      [ "TextEditorView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html", null ]
+    ] ],
+    [ "ITextEditorController", "struct_v_s_t_g_u_i_1_1_i_text_editor_controller.html", [
+      [ "TextEditorControllerAdapter", "struct_v_s_t_g_u_i_1_1_text_editor_controller_adapter.html", null ]
     ] ],
     [ "ITextLabelListener", "class_v_s_t_g_u_i_1_1_i_text_label_listener.html", [
       [ "TextLabelListenerAdapter", "class_v_s_t_g_u_i_1_1_text_label_listener_adapter.html", null ]
@@ -412,6 +448,9 @@ var hierarchy =
     ] ],
     [ "IUIDescription", "class_v_s_t_g_u_i_1_1_i_u_i_description.html", [
       [ "UIDescription", "class_v_s_t_g_u_i_1_1_u_i_description.html", null ]
+    ] ],
+    [ "IUIDescriptionAddOn", "struct_v_s_t_g_u_i_1_1_i_u_i_description_add_on.html", [
+      [ "UIDescriptionAddOnAdapter", "struct_v_s_t_g_u_i_1_1_u_i_description_add_on_adapter.html", null ]
     ] ],
     [ "IView", "struct_v_s_t_g_u_i_1_1_external_view_1_1_i_view.html", [
       [ "ViewAdapter", "struct_v_s_t_g_u_i_1_1_external_view_1_1_view_adapter.html", [
@@ -479,15 +518,23 @@ var hierarchy =
     ] ],
     [ "IViewEventListener", "class_v_s_t_g_u_i_1_1_i_view_event_listener.html", [
       [ "ViewEventListenerAdapter", "class_v_s_t_g_u_i_1_1_view_event_listener_adapter.html", [
-        [ "Impl", "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html", null ]
+        [ "Impl", "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html", null ],
+        [ "FindPanelController", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_find_panel_controller.html", null ],
+        [ "TextEditorView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html", null ]
       ] ]
     ] ],
     [ "IViewFactory", "class_v_s_t_g_u_i_1_1_i_view_factory.html", [
-      [ "UIViewFactory", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html", null ]
+      [ "UIViewFactory", "class_v_s_t_g_u_i_1_1_u_i_view_factory.html", null ],
+      [ "ViewFactoryDelegate", "class_v_s_t_g_u_i_1_1_view_factory_delegate.html", null ]
+    ] ],
+    [ "IViewFactoryEditingSupport", "class_v_s_t_g_u_i_1_1_i_view_factory_editing_support.html", [
+      [ "ViewFactoryDelegate", "class_v_s_t_g_u_i_1_1_view_factory_delegate.html", null ]
     ] ],
     [ "IViewListener", "class_v_s_t_g_u_i_1_1_i_view_listener.html", [
       [ "ViewListenerAdapter", "class_v_s_t_g_u_i_1_1_view_listener_adapter.html", [
-        [ "CScrollView", "class_v_s_t_g_u_i_1_1_c_scroll_view.html", null ]
+        [ "CScrollView", "class_v_s_t_g_u_i_1_1_c_scroll_view.html", null ],
+        [ "FindPanelController", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_find_panel_controller.html", null ],
+        [ "LineNumberView", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_line_number_view.html", null ]
       ] ]
     ] ],
     [ "IViewMouseListener", "class_v_s_t_g_u_i_1_1_i_view_mouse_listener.html", [
@@ -499,13 +546,16 @@ var hierarchy =
     [ "IVST3EditorDelegate", "class_v_s_t_g_u_i_1_1_i_v_s_t3_editor_delegate.html", [
       [ "VST3EditorDelegate", "class_v_s_t_g_u_i_1_1_v_s_t3_editor_delegate.html", null ]
     ] ],
+    [ "Key", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_key.html", null ],
     [ "KeyboardHook", "struct_v_s_t3_editor_1_1_keyboard_hook.html", null ],
+    [ "Line", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_line.html", null ],
     [ "ListenerProvider< T, ListenerInterface >", "struct_v_s_t_g_u_i_1_1_listener_provider.html", null ],
     [ "ListenerProvider< Impl, UIDescriptionListener >", "struct_v_s_t_g_u_i_1_1_listener_provider.html", [
       [ "Impl", "struct_v_s_t_g_u_i_1_1_u_i_description_1_1_impl.html", null ]
     ] ],
     [ "MallocAllocator", "struct_v_s_t_g_u_i_1_1_malloc_allocator.html", null ],
     [ "ModalViewSession", "struct_v_s_t_g_u_i_1_1_modal_view_session.html", null ],
+    [ "ModelData", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view_1_1_model_data.html", null ],
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html", null ],
     [ "MouseEditingState", "struct_v_s_t_g_u_i_1_1_c_knob_base_1_1_mouse_editing_state.html", null ],
     [ "MouseEventButtonState", "struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html", null ],
@@ -531,6 +581,7 @@ var hierarchy =
     [ "MultiFrameBitmapView< CSwitchBase >", "class_v_s_t_g_u_i_1_1_multi_frame_bitmap_view.html", [
       [ "CSwitchBase", "class_v_s_t_g_u_i_1_1_c_switch_base.html", null ]
     ] ],
+    [ "NewLineProcessor", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_new_line_processor.html", null ],
     [ "Optional< T >", "struct_v_s_t_g_u_i_1_1_optional.html", null ],
     [ "OutputStream", "class_v_s_t_g_u_i_1_1_output_stream.html", [
       [ "BufferedOutputStream", "class_v_s_t_g_u_i_1_1_buffered_output_stream.html", null ],
@@ -540,6 +591,7 @@ var hierarchy =
       [ "ZLibOutputStream", "class_v_s_t_g_u_i_1_1_z_lib_output_stream.html", null ]
     ] ],
     [ "Parser", "class_v_s_t_g_u_i_1_1_xml_1_1_parser.html", null ],
+    [ "Percentage", "struct_v_s_t_g_u_i_1_1_grid_layout_properties_1_1_percentage.html", null ],
     [ "PlatformFileExtension", null, [
       [ "Impl", "struct_v_s_t_g_u_i_1_1_c_file_extension_1_1_impl.html", null ]
     ] ],
@@ -549,6 +601,7 @@ var hierarchy =
     [ "PostEventHandler", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl_1_1_post_event_handler.html", null ],
     [ "Preferences", "class_v_s_t_g_u_i_1_1_standalone_1_1_preferences.html", null ],
     [ "Property", "class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_property.html", null ],
+    [ "Range", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_range.html", null ],
     [ "Result", "struct_v_s_t_g_u_i_1_1_base64_codec_1_1_result.html", null ],
     [ "Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html", null ],
     [ "SeekableStream", "class_v_s_t_g_u_i_1_1_seekable_stream.html", [
@@ -561,18 +614,29 @@ var hierarchy =
       [ "OwningPointer< I >", "class_v_s_t_g_u_i_1_1_owning_pointer.html", null ]
     ] ],
     [ "State", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl_1_1_state.html", null ],
+    [ "STB_TexteditState", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_s_t_b___textedit_state.html", null ],
+    [ "StbFindState", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_stb_find_state.html", null ],
+    [ "StbTexteditRow", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_stb_textedit_row.html", null ],
+    [ "StbUndoRecord", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_stb_undo_record.html", null ],
+    [ "StbUndoState", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_stb_undo_state.html", null ],
     [ "string", null, [
       [ "StringToken", "class_v_s_t_g_u_i_1_1_u_i_description_private_1_1_string_token.html", null ]
     ] ],
+    [ "Style", "struct_v_s_t_g_u_i_1_1_i_text_editor_1_1_style.html", null ],
+    [ "Style", "struct_v_s_t_g_u_i_1_1_text_editor_colorization_1_1_i_style_provider_1_1_style.html", null ],
+    [ "TextModel", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_model.html", null ],
     [ "Transform", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html", null ],
     [ "TrimOptions", "struct_v_s_t_g_u_i_1_1_trim_options.html", null ],
     [ "UIAttributesMap", null, [
       [ "UIAttributes", "class_v_s_t_g_u_i_1_1_u_i_attributes.html", null ]
     ] ],
+    [ "UIDescriptionAddOnRegistry", "class_v_s_t_g_u_i_1_1_u_i_description_add_on_registry.html", null ],
     [ "UIDescriptionListener", "class_v_s_t_g_u_i_1_1_u_i_description_listener.html", [
       [ "UIDescriptionListenerAdapter", "class_v_s_t_g_u_i_1_1_u_i_description_listener_adapter.html", null ]
     ] ],
     [ "UIDescriptionListenerOff", "struct_v_s_t_g_u_i_1_1_u_i_description_listener_off.html", null ],
+    [ "UndoGroup", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view_1_1_undo_group.html", null ],
+    [ "UndoRecord", "struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view_1_1_undo_record.html", null ],
     [ "UTF8CharacterIterator", "class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html", null ],
     [ "UTF8CodePointIterator< BaseIterator >", "class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html", null ],
     [ "UTF8String", "class_v_s_t_g_u_i_1_1_u_t_f8_string.html", null ],
@@ -581,6 +645,7 @@ var hierarchy =
     [ "ViewCreatorRegistryMap", null, [
       [ "ViewCreatorRegistry", "class_v_s_t_g_u_i_1_1_view_creator_registry.html", null ]
     ] ],
+    [ "ViewLayout", "struct_v_s_t_g_u_i_1_1_view_layout.html", null ],
     [ "VSTGUIEditor", null, [
       [ "VST3Editor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html", null ]
     ] ],

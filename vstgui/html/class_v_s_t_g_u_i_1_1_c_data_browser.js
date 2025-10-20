@@ -24,7 +24,6 @@ var class_v_s_t_g_u_i_1_1_c_data_browser =
     [ "onKeyboardEvent", "class_v_s_t_g_u_i_1_1_c_data_browser.html#abbed291f472ef9b036974c0c584043cb", null ],
     [ "onMouseDown", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a5dd3200e872b6337fa6eefe9599dd596", null ],
     [ "recalculateLayout", "class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba", null ],
-    [ "recalculateSubViews", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a23f1fe0d2709f43dbe62f0d5d78aa85e", null ],
     [ "removed", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a157ad241be4354121739aac80cf3cd3d", null ],
     [ "selectRow", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229", null ],
     [ "setAutosizeFlags", "class_v_s_t_g_u_i_1_1_c_data_browser.html#ae636961f473c40033bf1edc1468f237f", null ],

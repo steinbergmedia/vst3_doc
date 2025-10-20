@@ -238,8 +238,10 @@ var menudata={children:[
 {text:"a",url:"functions_enum.html#index_a"},
 {text:"c",url:"functions_enum.html#index_c"},
 {text:"d",url:"functions_enum.html#index_d"},
+{text:"e",url:"functions_enum.html#index_e"},
 {text:"f",url:"functions_enum.html#index_f"},
 {text:"g",url:"functions_enum.html#index_g"},
+{text:"j",url:"functions_enum.html#index_j"},
 {text:"l",url:"functions_enum.html#index_l"},
 {text:"m",url:"functions_enum.html#index_m"},
 {text:"p",url:"functions_enum.html#index_p"},
@@ -248,6 +250,7 @@ var menudata={children:[
 {text:"t",url:"functions_enum.html#index_t"}]},
 {text:"Enumerator",url:"functions_eval.html",children:[
 {text:"d",url:"functions_eval.html#index_d"},
+{text:"e",url:"functions_eval_e.html#index_e"},
 {text:"f",url:"functions_eval_f.html#index_f"},
 {text:"h",url:"functions_eval_h.html#index_h"},
 {text:"k",url:"functions_eval_k.html#index_k"},

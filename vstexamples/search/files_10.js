@@ -14,6 +14,7 @@ var searchData=
   ['syncdelayprocessor_2ecpp_11',['syncdelayprocessor.cpp',['../syncdelayprocessor_8cpp.html',1,'']]],
   ['syncdelayprocessor_2eh_12',['syncdelayprocessor.h',['../syncdelayprocessor_8h.html',1,'']]],
   ['syncdelayversion_2eh_13',['syncdelayversion.h',['../syncdelayversion_8h.html',1,'']]],
-  ['systemtime_2ecpp_14',['systemtime.cpp',['../../vstsdk/systemtime_8cpp.html',1,'']]],
-  ['systemtime_2eh_15',['systemtime.h',['../../vstsdk/systemtime_8h.html',1,'']]]
+  ['systemclipboard_2eh_14',['systemclipboard.h',['../../vstsdk/systemclipboard_8h.html',1,'']]],
+  ['systemtime_2ecpp_15',['systemtime.cpp',['../../vstsdk/systemtime_8cpp.html',1,'']]],
+  ['systemtime_2eh_16',['systemtime.h',['../../vstsdk/systemtime_8h.html',1,'']]]
 ];

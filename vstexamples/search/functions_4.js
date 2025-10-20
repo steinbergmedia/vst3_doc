@@ -25,7 +25,7 @@ var searchData=
   ['deessercontroller_22',['DeEsserController',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserController.html#ae1393cd500ea7918602c141166ecc592',1,'Steinberg::Vst::mda::DeEsserController']]],
   ['deesserprocessor_23',['DeEsserProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DeEsserProcessor.html#a29aa9aaa9007e7dd3c04058ac99b789e',1,'Steinberg::Vst::mda::DeEsserProcessor']]],
   ['def_5fclass2_24',['DEF_CLASS2',['../againentry_8cpp.html#afb47ed7b6138deab89806d7f4bcc82d9',1,'againentry.cpp']]],
-  ['def_5fclass_5fiid_25',['DEF_CLASS_IID',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a5a45bca27ac9cedb7d399704ca3c0b95',1,'Steinberg::Vst']]],
+  ['def_5fclass_5fiid_25',['DEF_CLASS_IID',['../../vstsdk/namespaceSteinberg.html#a0a5776df696f816f7fcc81666e242d81',1,'Steinberg::DEF_CLASS_IID()'],['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a5a45bca27ac9cedb7d399704ca3c0b95',1,'Steinberg::Vst::DEF_CLASS_IID()']]],
   ['deferupdates_26',['deferUpdates',['../../base/classSteinberg_1_1IUpdateHandler.html#a161a23aead9a302f8b4b2021d8553e29',1,'Steinberg::IUpdateHandler']]],
   ['degradecontroller_27',['DegradeController',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeController.html#ac301b14dff40a06c4aa8dbcc67d243d7',1,'Steinberg::Vst::mda::DegradeController']]],
   ['degradeprocessor_28',['DegradeProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1DegradeProcessor.html#a1a55ed8e0d46bc5f64d71fde9dbcc239',1,'Steinberg::Vst::mda::DegradeProcessor']]],

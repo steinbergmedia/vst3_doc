@@ -13,9 +13,12 @@ var classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI =
     [ "performEdit", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a3310a1682cdcf572f5e22f59869b8e3c", null ],
     [ "endEdit", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a55f180ed79364469774124be9d724160", null ],
     [ "onLiveMIDIControllerInput", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ad8535466d93aa534a40ae1244940cc52", null ],
+    [ "onLiveMidi2ControllerInput", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#acbb7cb113623a741222a09c2df63517b", null ],
+    [ "onLiveMidi1ControllerInput", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ab023303c00dcd1bb6856bf7bf89c01ec", null ],
     [ "createSubController", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ac8f9a7e40bf5981bc73eaf685034b4d4", null ],
     [ "isPrivateParameter", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a8f5398486378a76ec028b304ddb2ee77", null ],
-    [ "keyboardRange", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ab86046c9174e294df454f1b7ac321e7e", null ],
+    [ "removeCurrentMidiLearnParamAssignment", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a3e139e7109c8144d9026c62df0f73c0d", null ],
+    [ "keyboardRange", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#ae5a413751588051fb3326e925c7062f0", null ],
     [ "midiLearnParamID", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a8cef184b72b4074c934a5691b745e5df", null ],
     [ "doMIDILearn", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html#a0d13b05ef372806de086eec80526daae", null ]
 ];

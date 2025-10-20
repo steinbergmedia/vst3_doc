@@ -43,6 +43,7 @@ var class_v_s_t_g_u_i_1_1_c_view =
     [ "getMouseableArea", "class_v_s_t_g_u_i_1_1_c_view.html#a5121504050e29e9758c7d452d7e8dc3f", null ],
     [ "getMouseEnabled", "class_v_s_t_g_u_i_1_1_c_view.html#aac003ad010797e5b85321b1cf105f655", null ],
     [ "getParentView", "class_v_s_t_g_u_i_1_1_c_view.html#a838bbf95fe22cf6ab9cfdd7e86dee474", null ],
+    [ "getRuntimeID", "class_v_s_t_g_u_i_1_1_c_view.html#ac193f62cd9b8406c8619b08c01178a9e", null ],
     [ "getTransparency", "class_v_s_t_g_u_i_1_1_c_view.html#acd651f4659936e2f70f1d0e3605053d3", null ],
     [ "getViewSize", "class_v_s_t_g_u_i_1_1_c_view.html#a6cb1bdadd05b33ec42c14a139dbbfcb3", null ],
     [ "getVisibleViewSize", "class_v_s_t_g_u_i_1_1_c_view.html#a5eb5f422b9b85d9e897f05c960795e02", null ],

@@ -1782,6 +1782,60 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kCtrlQuarterFrameId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aaf749b0805dc8ef9641bcf0e78810aa0b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemSongSelectId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aa2e5728ac204408d98d12feedb07bfa06</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemSongPointerId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aa2742068d26e15256edef5c760844c66b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemCableSelectId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aabeb6c85500b32b095e891f85d1d57159</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemTuneRequestId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aa9bedb749ae2897506ea053724cd7571b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockStartId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aa6c7fd2ee6e45ff6b2753ebd47b85b46a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockContinueId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aad5cd3deaad4b1c6c2bb5fe4a4ac4ea19</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockStopId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aae8f10b2618e7ffc5661016fdc7046cda</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemActiveSensingId</name>
+      <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
+      <anchor>ac4be826a52dfb944c537ffb649e2829aae9b903cb368428283ae31d674840d35d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <name>kMaxMIDIChannelSupported</name>
       <anchorfile>legacymidiccout_2source_2plugparamids_8h.html</anchorfile>
       <anchor>ac4be826a52dfb944c537ffb649e2829aa511f238797aa6628f2a9a238b1776c9a</anchor>
@@ -7709,6 +7763,7 @@
     <base>EditController</base>
     <base>INoteExpressionController</base>
     <base>IMidiMapping</base>
+    <base>IMidiMapping2</base>
     <base>INoteExpressionPhysicalUIMapping</base>
     <member kind="enumeration">
       <type></type>
@@ -7781,6 +7836,37 @@
       <name>kSquareVolumeTypeID</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
       <anchor>a4c975cd547adc38bc800fddc7f8a2954ac1a5aa0ddecf87b45de4322fddbc19f5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>CCType</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a8a8f2828a236b7d005a2dde41e4c7870</anchor>
+      <arglist></arglist>
+      <enumvalue file="classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html" anchor="a8a8f2828a236b7d005a2dde41e4c7870aaa53ca0b650dfd85c4f59fa156f7a2cc">CC</enumvalue>
+      <enumvalue file="classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html" anchor="a8a8f2828a236b7d005a2dde41e4c7870abe6799f4f26eaa787df34c3e3de896cf">RPN</enumvalue>
+      <enumvalue file="classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html" anchor="a8a8f2828a236b7d005a2dde41e4c7870a51be17774189c1fef6468631535c6206">NRPN</enumvalue>
+    </member>
+    <member kind="typedef">
+      <type>uint16</type>
+      <name>CCIndex</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a8b3b769e9b9890fd58126924ca0f73c7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::pair&lt; CCType, CCIndex &gt;</type>
+      <name>CCKey</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a75c45e056120f20f02af2c895455c5c3</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>std::map&lt; CCKey, ParamID &gt;</type>
+      <name>CCMap</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>aaff56551d32ce09c1de52b94b4b53ee1</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -7885,6 +7971,34 @@
       <arglist>(int32 busIndex, int16 channel, CtrlNumber midiControllerNumber, ParamID &amp;id) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
+      <type>uint32</type>
+      <name>getNumMidi2ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>acaf57eb98f9d13ec2caf2b7df3cea032</anchor>
+      <arglist>(BusDirections direction) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getMidi2ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a2598bf66a6d768b8603b6c4cd5e745ae</anchor>
+      <arglist>(BusDirections direction, const Midi2ControllerParamIDAssignmentList &amp;list) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>uint32</type>
+      <name>getNumMidi1ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a8ac8563424a9be2333a2597cc131be6f</anchor>
+      <arglist>(BusDirections direction) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getMidi1ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>afa05dd4414bbd57fec2740787205764b</anchor>
+      <arglist>(BusDirections direction, const Midi1ControllerParamIDAssignmentList &amp;list) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
       <type>int32</type>
       <name>getNoteExpressionCount</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
@@ -7919,6 +8033,27 @@
       <anchor>a49b13e53849d51156521f6270c7ad6ee</anchor>
       <arglist>(int32 busIndex, int16 channel, PhysicalUIMapList &amp;list) SMTG_OVERRIDE</arglist>
     </member>
+    <member kind="function">
+      <type>uint32</type>
+      <name>getNumMidiControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a707538612b4a541177afe1decd3ae5fb</anchor>
+      <arglist>(BusDirections direction, bool midi1)</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>getMidiControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>ac1f4609a3172e11ad40d15613bc98142</anchor>
+      <arglist>(BusDirections direction, std::variant&lt; Midi2ControllerParamIDAssignmentList, Midi1ControllerParamIDAssignmentList &gt; list)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>hasMatchingCCType</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
+      <anchor>a5037f817cf5040d371142cbc17de3583</anchor>
+      <arglist>(bool midi1, CCType type) const</arglist>
+    </member>
     <member kind="function" static="yes">
       <type>static FUnknown *</type>
       <name>createInstance</name>
@@ -7927,10 +8062,10 @@
       <arglist>(void *)</arglist>
     </member>
     <member kind="variable">
-      <type>std::array&lt; ParamID, ControllerNumbers::kCountCtrlNumber &gt;</type>
+      <type>CCMap</type>
       <name>midiCCMapping</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
-      <anchor>aaad58ca2f563a040d5bbee68f033971d</anchor>
+      <anchor>a79f2b03329571a01db71b5c19f3db45a</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" static="yes">
@@ -7940,19 +8075,13 @@
       <anchor>a859caadd8560ff5658d51b9237ef24e2</anchor>
       <arglist></arglist>
     </member>
-    <member kind="variable" static="yes">
-      <type>static OBJ_METHODS(Controller, EditController) DEFINE_INTERFACES DEF_INTERFACE(INoteExpressionController) DEF_INTERFACE(IMidiMapping) DEF_INTERFACE(INoteExpressionPhysicalUIMapping) END_DEFINE_INTERFACES(EditController) REFCOUNT_METHODS(EditController) protected constexpr ParamID</type>
-      <name>InvalidParamID</name>
-      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html</anchorfile>
-      <anchor>a5619d64b65ed5d49f2d0848d646ec2c5</anchor>
-      <arglist></arglist>
-    </member>
   </compound>
   <compound kind="class">
     <name>Steinberg::Vst::NoteExpressionSynth::ControllerWithUI</name>
     <filename>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</filename>
     <base>Controller</base>
     <base>IMidiLearn</base>
+    <base>IMidiLearn2</base>
     <member kind="typedef">
       <type>VSTGUI::UTF8StringPtr</type>
       <name>UTF8StringPtr</name>
@@ -8045,6 +8174,20 @@
       <arglist>(int32 busIndex, int16 channel, CtrlNumber midiCC) SMTG_OVERRIDE</arglist>
     </member>
     <member kind="function">
+      <type>tresult</type>
+      <name>onLiveMidi2ControllerInput</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
+      <anchor>acbb7cb113623a741222a09c2df63517b</anchor>
+      <arglist>(BusIndex index, MidiChannel channel, Midi2Controller midiCC) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
+      <type>tresult</type>
+      <name>onLiveMidi1ControllerInput</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
+      <anchor>ab023303c00dcd1bb6856bf7bf89c01ec</anchor>
+      <arglist>(BusIndex index, MidiChannel channel, CtrlNumber midiCC) SMTG_OVERRIDE</arglist>
+    </member>
+    <member kind="function">
       <type>IController *</type>
       <name>createSubController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
@@ -8058,6 +8201,13 @@
       <anchor>a8f5398486378a76ec028b304ddb2ee77</anchor>
       <arglist>(const ParamID paramID) SMTG_OVERRIDE</arglist>
     </member>
+    <member kind="function">
+      <type>void</type>
+      <name>removeCurrentMidiLearnParamAssignment</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
+      <anchor>a3e139e7109c8144d9026c62df0f73c0d</anchor>
+      <arglist>()</arglist>
+    </member>
     <member kind="function" static="yes">
       <type>static FUnknown *</type>
       <name>createInstance</name>
@@ -8066,10 +8216,10 @@
       <arglist>(void *)</arglist>
     </member>
     <member kind="variable">
-      <type>DEFINE_INTERFACES DEF_INTERFACE(IMidiLearn) END_DEFINE_INTERFACES(Controller) REFCOUNT_METHODS(Controller) private VSTGUI::KeyboardViewRangeSelector::Range</type>
+      <type>DEFINE_INTERFACES DEF_INTERFACE(IMidiLearn) DEF_INTERFACE(IMidiLearn2) END_DEFINE_INTERFACES(Controller) REFCOUNT_METHODS(Controller) private VSTGUI::KeyboardViewRangeSelector::Range</type>
       <name>keyboardRange</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
-      <anchor>ab86046c9174e294df454f1b7ac321e7e</anchor>
+      <anchor>ae5a413751588051fb3326e925c7062f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -8091,6 +8241,13 @@
       <name>cid</name>
       <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
       <anchor>a859caadd8560ff5658d51b9237ef24e2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static constexpr ParamID</type>
+      <name>InvalidParamID</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html</anchorfile>
+      <anchor>a4080fb9dc4938cf6e173eedac7eaec59</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -16708,38 +16865,101 @@
       <arglist>(void *)</arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>double</type>
+      <type>int8</type>
       <name>mLastController</name>
       <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
-      <anchor>adb62eb67b1f0681bef4d65866e1ecb8c</anchor>
+      <anchor>adef5dd84aeac0dedc557af1d15e6f3f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>double</type>
+      <type>int8</type>
       <name>mLastProgramChange</name>
       <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
-      <anchor>add681f6f8e17497aa7271822aff4d76b</anchor>
+      <anchor>a5b9779c9082238c3cfdeb2add34f6c27</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>double</type>
+      <type>int8</type>
       <name>mLastAftertouch</name>
       <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
-      <anchor>a3591f929931625f58897990e27789515</anchor>
+      <anchor>a54726a539463432651b5ea163bb1f4d7</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>double</type>
+      <type>int8</type>
       <name>mLastPolyPressure</name>
       <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
-      <anchor>acdd120fe8636cd591af5fcfe58fa1524</anchor>
+      <anchor>ab2358e8463e87bcd90c52caa6f08132b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
-      <type>double</type>
+      <type>int16</type>
       <name>mLastPitchBend</name>
       <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
-      <anchor>a71169d6b737318be1f4638f2154486e8</anchor>
+      <anchor>afe7b3cdaf76945cb1b24854ae7bc0d4e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastCtrlQuarterFrame</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>aee75e1ce29c0976ecb7636a6b461ff55</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemSongSelect</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a18b6fd7e455c53ad2b41859597a06ec5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int16</type>
+      <name>mLastSystemSongPointer</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a1d34ca606f0e3236284d022756b68435</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemCableSelect</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a5bc77e51012b2315309c8e29b3f8efc2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemTuneRequest</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a173db182c13b5d7fdd9bea7a0e1099ad</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemMidiClockStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a184a5d83527c8bd47d869293a5d69542</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemMidiClockContinue</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>ac5fdf3fac64444bb007c18224e1358f4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemMidiClockStop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>a182a643689a0b1ef96d69001f54a38b1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable" protection="protected">
+      <type>int8</type>
+      <name>mLastSystemActiveSensing</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1Plug.html</anchorfile>
+      <anchor>addc94d0e2c7fdbc2f44aa2a7ba900f51</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable" protection="protected">
@@ -23176,10 +23396,10 @@
     <name>Steinberg::HostChecker</name>
     <filename>namespaceSteinberg_1_1HostChecker.html</filename>
     <member kind="variable">
-      <type>const int32</type>
-      <name>kMaxLatency</name>
+      <type>const double</type>
+      <name>kMaxLatencyInSeconds</name>
       <anchorfile>namespaceSteinberg_1_1HostChecker.html</anchorfile>
-      <anchor>ae3d4ad032b2586752aaefe7d98b3b352</anchor>
+      <anchor>a475b7b89c7a9ef6b0f0590fa64e3ec0b</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">

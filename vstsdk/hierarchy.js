@@ -5,13 +5,16 @@ var hierarchy =
     [ "CBaseObject", null, [
       [ "VSTGUIEditor", "classSteinberg_1_1Vst_1_1VSTGUIEditor.html", null ]
     ] ],
+    [ "ClassInfo", "structSteinberg_1_1ModuleInfo_1_1ClassInfo.html", null ],
     [ "ClassInfo", "classVST3_1_1Hosting_1_1ClassInfo.html", null ],
+    [ "Compatibility", "structSteinberg_1_1ModuleInfo_1_1Compatibility.html", null ],
     [ "Config", "structSteinberg_1_1Vst_1_1DataExchangeHandler_1_1Config.html", null ],
     [ "Data", "structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html", null ],
     [ "DataExchangeHandler", "classSteinberg_1_1Vst_1_1DataExchangeHandler.html", null ],
     [ "DataExchangeReceiverHandler", "classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler.html", null ],
     [ "Delay", "structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html", null ],
     [ "Entry", "structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html", null ],
+    [ "FactoryInfo", "structSteinberg_1_1ModuleInfo_1_1FactoryInfo.html", null ],
     [ "FactoryInfo", "classVST3_1_1Hosting_1_1FactoryInfo.html", null ],
     [ "FObject", null, [
       [ "CPluginView", "classSteinberg_1_1CPluginView.html", [
@@ -75,6 +78,9 @@ var hierarchy =
           ] ]
         ] ]
       ] ],
+      [ "IPluginFactoryInternal", "classSteinberg_1_1IPluginFactoryInternal.html", [
+        [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", null ]
+      ] ],
       [ "IStringResult", "../base/classSteinberg_1_1IStringResult.html", [
         [ "StringResult", "classSteinberg_1_1Vst_1_1StringResult.html", null ]
       ] ],
@@ -135,11 +141,17 @@ var hierarchy =
       [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", null ],
       [ "PlugProvider", "classSteinberg_1_1Vst_1_1PlugProvider.html", null ]
     ] ],
+    [ "ImplementsNonDestroyable", null, [
+      [ "PluginFactory< T >", "classSteinberg_1_1PluginFactory.html", null ]
+    ] ],
     [ "IUniversalMidiPacketHandler", "structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html", [
       [ "UniversalMidiPacketHandlerAdapter", "structSteinberg_1_1Vst_1_1UMP_1_1UniversalMidiPacketHandlerAdapter.html", null ]
     ] ],
     [ "MidiIO", "classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html", null ],
     [ "Module", "classVST3_1_1Hosting_1_1Module.html", null ],
+    [ "ModuleInfo", "structSteinberg_1_1ModuleInfo.html", null ],
+    [ "ModuleInitializer", "structSteinberg_1_1ModuleInitializer.html", null ],
+    [ "ModuleTerminator", "structSteinberg_1_1ModuleTerminator.html", null ],
     [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", null ],
     [ "ObjCInstance", "structSteinberg_1_1ObjCInstance.html", null ],
     [ "ObjCVariable< T >", "structSteinberg_1_1ObjCVariable.html", null ],
@@ -150,6 +162,9 @@ var hierarchy =
     [ "ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html", null ],
     [ "ParameterQueueValue", "structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", null ],
     [ "ParamPoint", "classSteinberg_1_1Vst_1_1ParamPoint.html", null ],
+    [ "PClassInfo2", "../base/structSteinberg_1_1PClassInfo2.html", [
+      [ "ClassInfo2WithCreateFunc", "structSteinberg_1_1PluginFactoryDetail_1_1ClassInfo2WithCreateFunc.html", null ]
+    ] ],
     [ "PluginContextFactory", "classSteinberg_1_1Vst_1_1PluginContextFactory.html", null ],
     [ "PluginFactory", "classVST3_1_1Hosting_1_1PluginFactory.html", null ],
     [ "PresetFile", "classSteinberg_1_1Vst_1_1PresetFile.html", null ],
@@ -162,6 +177,7 @@ var hierarchy =
     [ "RingBuffer< ItemT >", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", null ],
     [ "RTTransferT< ObjectT, Deleter >", "structSteinberg_1_1Vst_1_1RTTransferT.html", null ],
     [ "Setup", "structSteinberg_1_1Vst_1_1MPE_1_1Setup.html", null ],
+    [ "Snapshot", "structSteinberg_1_1ModuleInfo_1_1Snapshot.html", null ],
     [ "Snapshot", "structVST3_1_1Hosting_1_1Module_1_1Snapshot.html", null ],
     [ "SpeakerArray", "classSteinberg_1_1Vst_1_1SpeakerArray.html", null ],
     [ "SystemTime", "classSteinberg_1_1Vst_1_1SystemTime.html", null ],

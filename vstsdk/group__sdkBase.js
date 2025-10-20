@@ -1,6 +1,7 @@
 var group__sdkBase =
 [
     [ "Macros for defining the class factory", "group__classFactoryMacros.html", "group__classFactoryMacros" ],
+    [ "Macros for defining the compile time class factory", "group__constexprClassFactoryMacros.html", "group__constexprClassFactoryMacros" ],
     [ "EventList", "classSteinberg_1_1Vst_1_1EventList.html", [
       [ "EventList", "classSteinberg_1_1Vst_1_1EventList.html#a1cbe1abefe1aa274c4a68aefe8255eef", null ],
       [ "~EventList", "classSteinberg_1_1Vst_1_1EventList.html#a8dc46be3158d9c6b9ffe81945a32cb92", null ],
@@ -13,6 +14,27 @@ var group__sdkBase =
       [ "events", "classSteinberg_1_1Vst_1_1EventList.html#a7fd201a191321a3648691995aae75b15", null ],
       [ "maxSize", "classSteinberg_1_1Vst_1_1EventList.html#a609c4f8034f898f63d031c2d0a50e74c", null ],
       [ "fillCount", "classSteinberg_1_1Vst_1_1EventList.html#ae719cb1fce98d2f22058ae277db25c57", null ]
+    ] ],
+    [ "MemoryStream", "classSteinberg_1_1MemoryStream.html", [
+      [ "MemoryStream", "classSteinberg_1_1MemoryStream.html#a28d4c334557e9abb58b418e80c709905", null ],
+      [ "MemoryStream", "classSteinberg_1_1MemoryStream.html#a6bcbcbec3385623cdb252d1082ae5766", null ],
+      [ "~MemoryStream", "classSteinberg_1_1MemoryStream.html#a763a170e71bde9d0d096ec9090e6610a", null ],
+      [ "read", "classSteinberg_1_1MemoryStream.html#af2f222c9fd0a5d328f47c015fb643d3a", null ],
+      [ "write", "classSteinberg_1_1MemoryStream.html#af121706544ebf65814961e0d21ea873a", null ],
+      [ "seek", "classSteinberg_1_1MemoryStream.html#ab094f95ba58b46a4d65cfda04b69004c", null ],
+      [ "tell", "classSteinberg_1_1MemoryStream.html#a7a35b7508308b7cb624562821c653c84", null ],
+      [ "getSize", "classSteinberg_1_1MemoryStream.html#a40504e78cf6db6b69b7c21cfffe7c190", null ],
+      [ "setSize", "classSteinberg_1_1MemoryStream.html#a00f7ff962c1f058b01bde6b1ce7de340", null ],
+      [ "getData", "classSteinberg_1_1MemoryStream.html#ab1912a54719078b91b3a957fbc780c33", null ],
+      [ "detachData", "classSteinberg_1_1MemoryStream.html#a63b0ce2964c436aa0cbcbeaf18254583", null ],
+      [ "truncate", "classSteinberg_1_1MemoryStream.html#a92d96aabb25a62d5b8435eeea2682945", null ],
+      [ "truncateToCursor", "classSteinberg_1_1MemoryStream.html#a6dde8a8ab98f0f160f14a2da5ed548c3", null ],
+      [ "memory", "classSteinberg_1_1MemoryStream.html#a2bd6d68918bc5a61a6c59af45597b073", null ],
+      [ "memorySize", "classSteinberg_1_1MemoryStream.html#a231caddff87b860c91232012fa2abf60", null ],
+      [ "size", "classSteinberg_1_1MemoryStream.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9", null ],
+      [ "cursor", "classSteinberg_1_1MemoryStream.html#a8f5a6610de08dfeeed96670cff0abb50", null ],
+      [ "ownMemory", "classSteinberg_1_1MemoryStream.html#a963b9333e77938c3f9ba35e65639ba2b", null ],
+      [ "allocationError", "classSteinberg_1_1MemoryStream.html#a1bfaf9acdd950aac257085ff792dfedb", null ]
     ] ],
     [ "CPluginView", "classSteinberg_1_1CPluginView.html", [
       [ "CPluginView", "classSteinberg_1_1CPluginView.html#a7c25891fe7dde6dc274a0ac9f20890a4", null ],
@@ -37,27 +59,6 @@ var group__sdkBase =
       [ "systemWindow", "classSteinberg_1_1CPluginView.html#a1ab25603380f1d0ae10df538fc872afd", null ],
       [ "plugFrame", "classSteinberg_1_1CPluginView.html#ad366faeb59eebfa2056587f3118e0a94", null ]
     ] ],
-    [ "MemoryStream", "classSteinberg_1_1MemoryStream.html", [
-      [ "MemoryStream", "classSteinberg_1_1MemoryStream.html#a28d4c334557e9abb58b418e80c709905", null ],
-      [ "MemoryStream", "classSteinberg_1_1MemoryStream.html#a6bcbcbec3385623cdb252d1082ae5766", null ],
-      [ "~MemoryStream", "classSteinberg_1_1MemoryStream.html#a763a170e71bde9d0d096ec9090e6610a", null ],
-      [ "read", "classSteinberg_1_1MemoryStream.html#af2f222c9fd0a5d328f47c015fb643d3a", null ],
-      [ "write", "classSteinberg_1_1MemoryStream.html#af121706544ebf65814961e0d21ea873a", null ],
-      [ "seek", "classSteinberg_1_1MemoryStream.html#ab094f95ba58b46a4d65cfda04b69004c", null ],
-      [ "tell", "classSteinberg_1_1MemoryStream.html#a7a35b7508308b7cb624562821c653c84", null ],
-      [ "getSize", "classSteinberg_1_1MemoryStream.html#a40504e78cf6db6b69b7c21cfffe7c190", null ],
-      [ "setSize", "classSteinberg_1_1MemoryStream.html#a00f7ff962c1f058b01bde6b1ce7de340", null ],
-      [ "getData", "classSteinberg_1_1MemoryStream.html#ab1912a54719078b91b3a957fbc780c33", null ],
-      [ "detachData", "classSteinberg_1_1MemoryStream.html#a63b0ce2964c436aa0cbcbeaf18254583", null ],
-      [ "truncate", "classSteinberg_1_1MemoryStream.html#a92d96aabb25a62d5b8435eeea2682945", null ],
-      [ "truncateToCursor", "classSteinberg_1_1MemoryStream.html#a6dde8a8ab98f0f160f14a2da5ed548c3", null ],
-      [ "memory", "classSteinberg_1_1MemoryStream.html#a2bd6d68918bc5a61a6c59af45597b073", null ],
-      [ "memorySize", "classSteinberg_1_1MemoryStream.html#a231caddff87b860c91232012fa2abf60", null ],
-      [ "size", "classSteinberg_1_1MemoryStream.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9", null ],
-      [ "cursor", "classSteinberg_1_1MemoryStream.html#a8f5a6610de08dfeeed96670cff0abb50", null ],
-      [ "ownMemory", "classSteinberg_1_1MemoryStream.html#a963b9333e77938c3f9ba35e65639ba2b", null ],
-      [ "allocationError", "classSteinberg_1_1MemoryStream.html#a1bfaf9acdd950aac257085ff792dfedb", null ]
-    ] ],
     [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", [
       [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html#a6337cf8d04686bb3a52e6f64d8771616", null ],
       [ "~CPluginFactory", "classSteinberg_1_1CPluginFactory.html#a274f29174ecc826eb5f8a95ad59c8529", null ],
@@ -73,10 +74,23 @@ var group__sdkBase =
       [ "getClassInfo2", "classSteinberg_1_1CPluginFactory.html#a82f3e8be88625a9e528e369974b81097", null ],
       [ "getClassInfoUnicode", "classSteinberg_1_1CPluginFactory.html#a7c0d301dd81356797c1001f9bbf86707", null ],
       [ "setHostContext", "classSteinberg_1_1CPluginFactory.html#a362238de8e4290901622963244c13771", null ],
+      [ "addHostContextCallback", "classSteinberg_1_1CPluginFactory.html#ae7f7f92e14b90ada7e9379e01c2ab7fc", null ],
       [ "growClasses", "classSteinberg_1_1CPluginFactory.html#aee66f1513cbfdd6f722781473b14704a", null ],
       [ "factoryInfo", "classSteinberg_1_1CPluginFactory.html#a5048a618e5819f448694d729e8d0ae22", null ],
       [ "classes", "classSteinberg_1_1CPluginFactory.html#a7b2d51ea0059eef0d5fcb18354146c3b", null ],
       [ "classCount", "classSteinberg_1_1CPluginFactory.html#ab6f44bd3e615135e3c6b57b2855f5fce", null ],
-      [ "maxClassCount", "classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88", null ]
-    ] ]
+      [ "maxClassCount", "classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88", null ],
+      [ "hostContextCallbacks", "classSteinberg_1_1CPluginFactory.html#ad28040fe6cdddf27c96cb80baca7fd9e", null ]
+    ] ],
+    [ "PluginFactory< T >", "classSteinberg_1_1PluginFactory.html", [
+      [ "getFactoryInfo", "classSteinberg_1_1PluginFactory.html#a2e8d4213914fe198aab0a321df2c9a66", null ],
+      [ "countClasses", "classSteinberg_1_1PluginFactory.html#a22d55bfc5a46dd9134984c10cd4fef42", null ],
+      [ "getClassInfo", "classSteinberg_1_1PluginFactory.html#aad93cbfb3f14779bfbfa31ace22c93ab", null ],
+      [ "createInstance", "classSteinberg_1_1PluginFactory.html#a0126547167bf229cb6e2c05d6c27d3a3", null ],
+      [ "getClassInfo2", "classSteinberg_1_1PluginFactory.html#a817d9a4556027f9ddc8cbf0f26fe9b0c", null ]
+    ] ],
+    [ "openURLInDefaultApplication", "group__sdkBase.html#ga573e89b755a4d476e281d5687fc7de84", null ],
+    [ "readFile", "group__sdkBase.html#ga9161593ad3336650b604b9b7ceb15b81", null ],
+    [ "copyTextToClipboard", "group__sdkBase.html#ga7c77f85bd1460fe895ef3c29a361462d", null ],
+    [ "getTextFromClipboard", "group__sdkBase.html#ga4474115d0c145ca7e10e4dfd2f372122", null ]
 ];

@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -143,10 +143,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aeb9c5727279628f7a0f3067ac700c02f" id="r_aeb9c5727279628f7a0f3067ac700c02f"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aeb9c5727279628f7a0f3067ac700c02f">getLastEntry</a> () const</td></tr>
 <tr class="memdesc:aeb9c5727279628f7a0f3067ac700c02f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the last available entry.  <br /></td></tr>
 <tr class="separator:aeb9c5727279628f7a0f3067ac700c02f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92008de76954ce7f80216da886c7fd72" id="r_a92008de76954ce7f80216da886c7fd72"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a92008de76954ce7f80216da886c7fd72">getEntryCount</a> () const</td></tr>
+<tr class="memitem:a92008de76954ce7f80216da886c7fd72" id="r_a92008de76954ce7f80216da886c7fd72"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a92008de76954ce7f80216da886c7fd72">getEntryCount</a> () const</td></tr>
 <tr class="memdesc:a92008de76954ce7f80216da886c7fd72"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the number of total entries in the current stream.  <br /></td></tr>
 <tr class="separator:a92008de76954ce7f80216da886c7fd72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4799336c451346dec2989af13c6f5649" id="r_a4799336c451346dec2989af13c6f5649"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4799336c451346dec2989af13c6f5649">at</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> index) const</td></tr>
+<tr class="memitem:a4799336c451346dec2989af13c6f5649" id="r_a4799336c451346dec2989af13c6f5649"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4799336c451346dec2989af13c6f5649">at</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> index) const</td></tr>
 <tr class="memdesc:a4799336c451346dec2989af13c6f5649"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the entry at a given position.  <br /></td></tr>
 <tr class="separator:a4799336c451346dec2989af13c6f5649"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a47df1b291bef4cbc1b23f80098e1a7af" id="r_a47df1b291bef4cbc1b23f80098e1a7af"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a47df1b291bef4cbc1b23f80098e1a7af">contains</a> (<a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6d">ChunkType</a> which) const</td></tr>
@@ -161,16 +161,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a3e7d860cd2df89230c8d0664c8858e2d" id="r_a3e7d860cd2df89230c8d0664c8858e2d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3e7d860cd2df89230c8d0664c8858e2d">writeChunkList</a> ()</td></tr>
 <tr class="memdesc:a3e7d860cd2df89230c8d0664c8858e2d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes into the stream the chunk list (should be at the end).  <br /></td></tr>
 <tr class="separator:a3e7d860cd2df89230c8d0664c8858e2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37b6ba61b043989f81ca77e156ebbf84" id="r_a37b6ba61b043989f81ca77e156ebbf84"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a37b6ba61b043989f81ca77e156ebbf84">readMetaInfo</a> (<a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;size)</td></tr>
+<tr class="memitem:a37b6ba61b043989f81ca77e156ebbf84" id="r_a37b6ba61b043989f81ca77e156ebbf84"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a37b6ba61b043989f81ca77e156ebbf84">readMetaInfo</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;size)</td></tr>
 <tr class="memdesc:a37b6ba61b043989f81ca77e156ebbf84"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads the meta XML info and its size, the size could be retrieved by passing zero as xmlBuffer.  <br /></td></tr>
 <tr class="separator:a37b6ba61b043989f81ca77e156ebbf84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa1d00803493eaa9f4f3e8a6b3ead226" id="r_aaa1d00803493eaa9f4f3e8a6b3ead226"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaa1d00803493eaa9f4f3e8a6b3ead226">writeMetaInfo</a> (const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> size=-1, bool forceWriting=false)</td></tr>
+<tr class="memitem:aaa1d00803493eaa9f4f3e8a6b3ead226" id="r_aaa1d00803493eaa9f4f3e8a6b3ead226"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaa1d00803493eaa9f4f3e8a6b3ead226">writeMetaInfo</a> (const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> size=-1, bool forceWriting=false)</td></tr>
 <tr class="memdesc:aaa1d00803493eaa9f4f3e8a6b3ead226"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes the meta XML info, -1 means null-terminated, forceWriting to true will force to rewrite the XML Info when the chunk already exists.  <br /></td></tr>
 <tr class="separator:aaa1d00803493eaa9f4f3e8a6b3ead226"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a145bf6e5ab70d388bc02684b1bbda303" id="r_a145bf6e5ab70d388bc02684b1bbda303"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a145bf6e5ab70d388bc02684b1bbda303">prepareMetaInfoUpdate</a> ()</td></tr>
 <tr class="memdesc:a145bf6e5ab70d388bc02684b1bbda303"><td class="mdescLeft">&#160;</td><td class="mdescRight">checks if meta info chunk is the last one and jump to correct position.  <br /></td></tr>
 <tr class="separator:a145bf6e5ab70d388bc02684b1bbda303"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64253494705abac53f279f2682a9a550" id="r_a64253494705abac53f279f2682a9a550"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a64253494705abac53f279f2682a9a550">writeChunk</a> (const void *data, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> size, <a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6d">ChunkType</a> which=<a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6da847efe92e412b647b41977961910049d">kComponentState</a>)</td></tr>
+<tr class="memitem:a64253494705abac53f279f2682a9a550" id="r_a64253494705abac53f279f2682a9a550"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a64253494705abac53f279f2682a9a550">writeChunk</a> (const void *data, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> size, <a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6d">ChunkType</a> which=<a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6da847efe92e412b647b41977961910049d">kComponentState</a>)</td></tr>
 <tr class="memdesc:a64253494705abac53f279f2682a9a550"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes a given data of a given size as "which" chunk type.  <br /></td></tr>
 <tr class="separator:a64253494705abac53f279f2682a9a550"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b83421be037cd96cd577c3a4da4d21a" id="r_a6b83421be037cd96cd577c3a4da4d21a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6b83421be037cd96cd577c3a4da4d21a">seekToComponentState</a> ()</td></tr>
@@ -203,10 +203,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abae56c770d1be56da04350ca78c5c34c" id="r_abae56c770d1be56da04350ca78c5c34c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#abae56c770d1be56da04350ca78c5c34c">storeProgramData</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *inStream, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> listID)</td></tr>
 <tr class="memdesc:abae56c770d1be56da04350ca78c5c34c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Store program data or unit data from stream (including the header chunk).  <br /></td></tr>
 <tr class="separator:abae56c770d1be56da04350ca78c5c34c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52aaba0ba953fff6eb3a02e76cd1acc0" id="r_a52aaba0ba953fff6eb3a02e76cd1acc0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a52aaba0ba953fff6eb3a02e76cd1acc0">storeProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> *programListData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> programListID, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> programIndex)</td></tr>
+<tr class="memitem:a52aaba0ba953fff6eb3a02e76cd1acc0" id="r_a52aaba0ba953fff6eb3a02e76cd1acc0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a52aaba0ba953fff6eb3a02e76cd1acc0">storeProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> *programListData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> programListID, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> programIndex)</td></tr>
 <tr class="memdesc:a52aaba0ba953fff6eb3a02e76cd1acc0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores a <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> with a given identifier and index (including the header chunk).  <br /></td></tr>
 <tr class="separator:a52aaba0ba953fff6eb3a02e76cd1acc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5071709742f35d63eed377c8a0921b2" id="r_ac5071709742f35d63eed377c8a0921b2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac5071709742f35d63eed377c8a0921b2">restoreProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> *programListData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> *programListID=nullptr, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> programIndex=0)</td></tr>
+<tr class="memitem:ac5071709742f35d63eed377c8a0921b2" id="r_ac5071709742f35d63eed377c8a0921b2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac5071709742f35d63eed377c8a0921b2">restoreProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> *programListData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> *programListID=nullptr, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> programIndex=0)</td></tr>
 <tr class="memdesc:ac5071709742f35d63eed377c8a0921b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Restores a <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IProgramListData.html">IProgramListData</a> with a given identifier and index.  <br /></td></tr>
 <tr class="separator:ac5071709742f35d63eed377c8a0921b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23d298bc7fdebfe4e5708f93f873dbcd" id="r_a23d298bc7fdebfe4e5708f93f873dbcd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a23d298bc7fdebfe4e5708f93f873dbcd">storeProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">IUnitData</a> *unitData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> unitID)</td></tr>
@@ -215,19 +215,19 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8a5019b37d09364f40efdc36c0f51283" id="r_a8a5019b37d09364f40efdc36c0f51283"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8a5019b37d09364f40efdc36c0f51283">restoreProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">IUnitData</a> *unitData, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a> *unitID=nullptr)</td></tr>
 <tr class="memdesc:a8a5019b37d09364f40efdc36c0f51283"><td class="mdescLeft">&#160;</td><td class="mdescRight">Restores a <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitData.html">IUnitData</a> with a given unitID (optional).  <br /></td></tr>
 <tr class="separator:a8a5019b37d09364f40efdc36c0f51283"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ac1c6493e89b57060bf9c01feb69391" id="r_a3ac1c6493e89b57060bf9c01feb69391"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3ac1c6493e89b57060bf9c01feb69391">restoreProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html">IUnitInfo</a> *unitInfo, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> unitProgramListID, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> programIndex=-1)</td></tr>
+<tr class="memitem:a3ac1c6493e89b57060bf9c01feb69391" id="r_a3ac1c6493e89b57060bf9c01feb69391"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3ac1c6493e89b57060bf9c01feb69391">restoreProgramData</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html">IUnitInfo</a> *unitInfo, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> unitProgramListID, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> programIndex=-1)</td></tr>
 <tr class="memdesc:a3ac1c6493e89b57060bf9c01feb69391"><td class="mdescLeft">&#160;</td><td class="mdescRight">for keeping the controller part in sync concerning preset data stream, unitProgramListID could be <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#gaac31a9d9a63927ad6927f2a298888c22">ProgramListID</a> or <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#ga6569c340fc68115670ee0161dd73b3ed">UnitID</a>.  <br /></td></tr>
 <tr class="separator:a3ac1c6493e89b57060bf9c01feb69391"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a537ca19321786b7bb7b86781766f0c2f" id="r_a537ca19321786b7bb7b86781766f0c2f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a537ca19321786b7bb7b86781766f0c2f">getUnitProgramListID</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;unitProgramListID)</td></tr>
+<tr class="memitem:a537ca19321786b7bb7b86781766f0c2f" id="r_a537ca19321786b7bb7b86781766f0c2f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a537ca19321786b7bb7b86781766f0c2f">getUnitProgramListID</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;unitProgramListID)</td></tr>
 <tr class="memdesc:a537ca19321786b7bb7b86781766f0c2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the unitProgramListID saved in the kProgramData chunk (if available).  <br /></td></tr>
 <tr class="separator:a537ca19321786b7bb7b86781766f0c2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a8441f45bf92e396b33f38a4340e7366e" id="r_a8441f45bf92e396b33f38a4340e7366e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8441f45bf92e396b33f38a4340e7366e">savePreset</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *<a class="el" href="#a78d49eed9e150f042fe1e0434fb52102">stream</a>, const <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &amp;<a class="el" href="#a90bf0fdcd362780b8c115f2822930703">classID</a>, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponent.html">IComponent</a> *component, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController.html">IEditController</a> *editController=nullptr, const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer=nullptr, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> xmlSize=-1)</td></tr>
+<tr class="memitem:a8441f45bf92e396b33f38a4340e7366e" id="r_a8441f45bf92e396b33f38a4340e7366e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8441f45bf92e396b33f38a4340e7366e">savePreset</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *<a class="el" href="#a78d49eed9e150f042fe1e0434fb52102">stream</a>, const <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &amp;<a class="el" href="#a90bf0fdcd362780b8c115f2822930703">classID</a>, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponent.html">IComponent</a> *component, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController.html">IEditController</a> *editController=nullptr, const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer=nullptr, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> xmlSize=-1)</td></tr>
 <tr class="memdesc:a8441f45bf92e396b33f38a4340e7366e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Shortcut helper to create preset from component/controller state.  <br /></td></tr>
 <tr class="separator:a8441f45bf92e396b33f38a4340e7366e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea97110265f868db66dc5c53eadd4144" id="r_aea97110265f868db66dc5c53eadd4144"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aea97110265f868db66dc5c53eadd4144">savePreset</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *<a class="el" href="#a78d49eed9e150f042fe1e0434fb52102">stream</a>, const <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &amp;<a class="el" href="#a90bf0fdcd362780b8c115f2822930703">classID</a>, <a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *componentStream, <a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *editStream=nullptr, const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer=nullptr, <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> xmlSize=-1)</td></tr>
+<tr class="memitem:aea97110265f868db66dc5c53eadd4144" id="r_aea97110265f868db66dc5c53eadd4144"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aea97110265f868db66dc5c53eadd4144">savePreset</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *<a class="el" href="#a78d49eed9e150f042fe1e0434fb52102">stream</a>, const <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &amp;<a class="el" href="#a90bf0fdcd362780b8c115f2822930703">classID</a>, <a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *componentStream, <a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *editStream=nullptr, const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *xmlBuffer=nullptr, <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> xmlSize=-1)</td></tr>
 <tr class="separator:aea97110265f868db66dc5c53eadd4144"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a934b8dae5ccc233b79fcc8a25e0c4235" id="r_a934b8dae5ccc233b79fcc8a25e0c4235"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a934b8dae5ccc233b79fcc8a25e0c4235">loadPreset</a> (<a class="elRef" href="../base/classSteinberg_1_1IBStream.html">IBStream</a> *<a class="el" href="#a78d49eed9e150f042fe1e0434fb52102">stream</a>, const <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &amp;<a class="el" href="#a90bf0fdcd362780b8c115f2822930703">classID</a>, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IComponent.html">IComponent</a> *component, <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IEditController.html">IEditController</a> *editController=nullptr, std::vector&lt; <a class="elRef" href="../base/classSteinberg_1_1FUID.html">FUID</a> &gt; *otherClassIDArray=nullptr)</td></tr>
 <tr class="memdesc:a934b8dae5ccc233b79fcc8a25e0c4235"><td class="mdescLeft">&#160;</td><td class="mdescRight">Shortcut helper to load preset with component/controller state.  <br /></td></tr>
@@ -247,15 +247,15 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:af39bcb8613b4028536559731594e757c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2e1e6b71b849d0737501b0007d53ed79" id="r_a2e1e6b71b849d0737501b0007d53ed79"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2e1e6b71b849d0737501b0007d53ed79">readEqualID</a> (const <a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#adaf388baf0aebf53f3a12e1055fbd7ec">ChunkID</a> id)</td></tr>
 <tr class="separator:a2e1e6b71b849d0737501b0007d53ed79"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a36154a93fe7367cbf4f89ee4119a5ea7" id="r_a36154a93fe7367cbf4f89ee4119a5ea7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a36154a93fe7367cbf4f89ee4119a5ea7">readSize</a> (<a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a> &amp;size)</td></tr>
+<tr class="memitem:a36154a93fe7367cbf4f89ee4119a5ea7" id="r_a36154a93fe7367cbf4f89ee4119a5ea7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a36154a93fe7367cbf4f89ee4119a5ea7">readSize</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a> &amp;size)</td></tr>
 <tr class="separator:a36154a93fe7367cbf4f89ee4119a5ea7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f5a12a0a750d9bf2b969e5bd22b34aa" id="r_a8f5a12a0a750d9bf2b969e5bd22b34aa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8f5a12a0a750d9bf2b969e5bd22b34aa">writeSize</a> (<a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a> size)</td></tr>
+<tr class="memitem:a8f5a12a0a750d9bf2b969e5bd22b34aa" id="r_a8f5a12a0a750d9bf2b969e5bd22b34aa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8f5a12a0a750d9bf2b969e5bd22b34aa">writeSize</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a> size)</td></tr>
 <tr class="separator:a8f5a12a0a750d9bf2b969e5bd22b34aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a10c3f2a8097ff6f0fa13701b535d0c8e" id="r_a10c3f2a8097ff6f0fa13701b535d0c8e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a10c3f2a8097ff6f0fa13701b535d0c8e">readInt32</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;value)</td></tr>
+<tr class="memitem:a10c3f2a8097ff6f0fa13701b535d0c8e" id="r_a10c3f2a8097ff6f0fa13701b535d0c8e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a10c3f2a8097ff6f0fa13701b535d0c8e">readInt32</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;value)</td></tr>
 <tr class="separator:a10c3f2a8097ff6f0fa13701b535d0c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa399f04cbf29b498de01c5d6582f461" id="r_aaa399f04cbf29b498de01c5d6582f461"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaa399f04cbf29b498de01c5d6582f461">writeInt32</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> value)</td></tr>
+<tr class="memitem:aaa399f04cbf29b498de01c5d6582f461" id="r_aaa399f04cbf29b498de01c5d6582f461"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaa399f04cbf29b498de01c5d6582f461">writeInt32</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> value)</td></tr>
 <tr class="separator:aaa399f04cbf29b498de01c5d6582f461"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf920c01a37e18591b76dbb0d060c63d" id="r_aaf920c01a37e18591b76dbb0d060c63d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaf920c01a37e18591b76dbb0d060c63d">seekTo</a> (<a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a> offset)</td></tr>
+<tr class="memitem:aaf920c01a37e18591b76dbb0d060c63d" id="r_aaf920c01a37e18591b76dbb0d060c63d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aaf920c01a37e18591b76dbb0d060c63d">seekTo</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a> offset)</td></tr>
 <tr class="separator:aaf920c01a37e18591b76dbb0d060c63d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae394d46565e1278b4997f35e161898e3" id="r_ae394d46565e1278b4997f35e161898e3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae394d46565e1278b4997f35e161898e3">beginChunk</a> (<a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a> &amp;e, <a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6d">ChunkType</a> which)</td></tr>
 <tr class="separator:ae394d46565e1278b4997f35e161898e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -271,7 +271,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a90bf0fdcd362780b8c115f2822930703"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83b23e1334542a860af5f8f6a9b813bf" id="r_a83b23e1334542a860af5f8f6a9b813bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a83b23e1334542a860af5f8f6a9b813bf">entries</a> [<a class="el" href="#a3b365bd6fd61c94a8ec8ae4fb7a7461aa7c523f5cdb8166ac95e994b9e6359476">kMaxEntries</a>]</td></tr>
 <tr class="separator:a83b23e1334542a860af5f8f6a9b813bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f71f86dadbbb1cf5a477c64587ca491" id="r_a4f71f86dadbbb1cf5a477c64587ca491"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4f71f86dadbbb1cf5a477c64587ca491">entryCount</a> {0}</td></tr>
+<tr class="memitem:a4f71f86dadbbb1cf5a477c64587ca491" id="r_a4f71f86dadbbb1cf5a477c64587ca491"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4f71f86dadbbb1cf5a477c64587ca491">entryCount</a> {0}</td></tr>
 <tr class="separator:a4f71f86dadbbb1cf5a477c64587ca491"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -478,7 +478,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> getEntryCount </td>
+          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> getEntryCount </td>
           <td>(</td>
           <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
           <td> const</td>
@@ -507,7 +507,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">const <a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html">Entry</a> &amp; at </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>index</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>index</em></span></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -615,12 +615,12 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool readMetaInfo </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>size</em></span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>size</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -638,12 +638,12 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool writeMetaInfo </td>
           <td>(</td>
-          <td class="paramtype">const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span>, </td>
+          <td class="paramtype">const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -690,7 +690,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -924,7 +924,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -952,7 +952,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span><span class="paramdefsep"> = </span><span class="paramdefval">0</span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span><span class="paramdefsep"> = </span><span class="paramdefval">0</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1021,12 +1021,12 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>unitProgramListID</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>unitProgramListID</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>programIndex</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1044,7 +1044,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool getUnitProgramListID </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>unitProgramListID</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>unitProgramListID</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1086,12 +1086,12 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span><span class="paramdefsep"> = </span><span class="paramdefval">nullptr</span>, </td>
+          <td class="paramtype">const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span><span class="paramdefsep"> = </span><span class="paramdefval">nullptr</span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>xmlSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>xmlSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -1138,12 +1138,12 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="elRef" href="../base/namespaceSteinberg.html#aa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span><span class="paramdefsep"> = </span><span class="paramdefval">nullptr</span>, </td>
+          <td class="paramtype">const <a class="elRef" href="../base/group__smtgtypedef.html#gaa9eb7d301130a7771343735bef461579">char</a> *</td>          <td class="paramname"><span class="paramname"><em>xmlBuffer</em></span><span class="paramdefsep"> = </span><span class="paramdefval">nullptr</span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>xmlSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>xmlSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">-1</span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -1289,7 +1289,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool readSize </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>size</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>size</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1314,7 +1314,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool writeSize </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a></td>          <td class="paramname"><span class="paramname"><em>size</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1339,7 +1339,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool readInt32 </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1364,7 +1364,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool writeInt32 </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>value</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1389,7 +1389,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool seekTo </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0">TSize</a></td>          <td class="paramname"><span class="paramname"><em>offset</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gabc5a03f91bd781b5062f4fccaa7851f0">TSize</a></td>          <td class="paramname"><span class="paramname"><em>offset</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1535,7 +1535,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> entryCount {0}</td>
+          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> entryCount {0}</td>
         </tr>
       </table>
   </td>

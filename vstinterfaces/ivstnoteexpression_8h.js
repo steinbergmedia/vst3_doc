@@ -2,6 +2,7 @@ var ivstnoteexpression_8h =
 [
     [ "NoteExpressionValueDescription", "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html", "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription" ],
     [ "NoteExpressionValueEvent", "structSteinberg_1_1Vst_1_1NoteExpressionValueEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionValueEvent" ],
+    [ "NoteExpressionIntValueEvent", "structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent" ],
     [ "NoteExpressionTextEvent", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent" ],
     [ "NoteExpressionTypeInfo", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo" ],
     [ "INoteExpressionController", "classSteinberg_1_1Vst_1_1INoteExpressionController.html", "classSteinberg_1_1Vst_1_1INoteExpressionController" ],

@@ -24,6 +24,7 @@ var class_v_s_t_g_u_i_1_1_v_s_t3_editor =
     [ "findParameter", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ae346799e9e1aa5e185c167b60ba8154c", null ],
     [ "getAbsScaleFactor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aaea057e55161b79eb514d5b8c9cdb237", null ],
     [ "getContentScaleFactor", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a137632410289a90575b0fbcf01d31c97", null ],
+    [ "getCurrentTemplateName", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a34bdd47a2dd7f4a3335e6d274d021b79", null ],
     [ "getDelegate", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aba082db0a29b4e8416956abca1ea1b0e", null ],
     [ "getEditorSizeConstrains", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#afeb7a30f02af571c8cd3899e2dd72ca3", null ],
     [ "getParameterChangeListener", "class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a5596c604ac876f4a0d4146f125f81e65", null ],

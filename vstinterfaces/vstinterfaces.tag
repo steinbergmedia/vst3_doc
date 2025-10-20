@@ -11,6 +11,13 @@
     <filename>iplugviewcontentscalesupport_8h.html</filename>
   </compound>
   <compound kind="file">
+    <name>iwaylandframe.h</name>
+    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <filename>iwaylandframe_8h.html</filename>
+    <class kind="class">Steinberg::IWaylandHost</class>
+    <class kind="class">Steinberg::IWaylandFrame</class>
+  </compound>
+  <compound kind="file">
     <name>itest.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>itest_8h.html</filename>
@@ -283,12 +290,28 @@
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
+    <name>ivstmidimapping2.h</name>
+    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <filename>ivstmidimapping2_8h.html</filename>
+    <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstcomponent.h</includes>
+    <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
+    <class kind="struct">Steinberg::Vst::Midi2Controller</class>
+    <class kind="struct">Steinberg::Vst::Midi2ControllerParamIDAssignment</class>
+    <class kind="struct">Steinberg::Vst::Midi2ControllerParamIDAssignmentList</class>
+    <class kind="struct">Steinberg::Vst::Midi1ControllerParamIDAssignment</class>
+    <class kind="struct">Steinberg::Vst::Midi1ControllerParamIDAssignmentList</class>
+    <class kind="class">Steinberg::Vst::IMidiMapping2</class>
+    <class kind="class">Steinberg::Vst::IMidiLearn2</class>
+    <namespace>Steinberg::Vst</namespace>
+  </compound>
+  <compound kind="file">
     <name>ivstnoteexpression.h</name>
     <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueEvent</class>
+    <class kind="struct">Steinberg::Vst::NoteExpressionIntValueEvent</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionTextEvent</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionTypeInfo</class>
     <class kind="class">Steinberg::Vst::INoteExpressionController</class>
@@ -893,6 +916,13 @@
     </member>
     <member kind="define">
       <type>#define</type>
+      <name>VST_3_8_0_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>ae1bfc06ec617ee597864fc59810d14e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
       <name>VST_3_7_14_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a2f750cbf96e78fdf739cee5b91d0c269</anchor>
@@ -1459,6 +1489,12 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kNoteExpressionIntValueEvent</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
+      <anchor>a914d2da0ec9f0e22cd5e400bc1f968b8a8193b15f658f906f5ac3ded5246b1496</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <name>kLegacyMIDICCOutEvent</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
       <anchor>a914d2da0ec9f0e22cd5e400bc1f968b8a85daeaf98e74f3c670b9939c78794b95</anchor>
@@ -1528,6 +1564,12 @@
       <name>kScaleEvent</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
       <anchor>a914d2da0ec9f0e22cd5e400bc1f968b8a1fcf9cd0ded093f84e9b0a8177679ad4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kNoteExpressionIntValueEvent</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
+      <anchor>a914d2da0ec9f0e22cd5e400bc1f968b8a8193b15f658f906f5ac3ded5246b1496</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -1611,6 +1653,13 @@
       <name>noteExpressionText</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
       <anchor>a7bd5bf2b37708149b2c318f8fd669d50</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>NoteExpressionIntValueEvent</type>
+      <name>noteExpressionIntValue</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Event.html</anchorfile>
+      <anchor>ad7c5396419ddc9f9201568726ba7294f</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
@@ -2853,6 +2902,32 @@
     </member>
   </compound>
   <compound kind="class">
+    <name>Steinberg::Vst::IMidiLearn2</name>
+    <filename>classSteinberg_1_1Vst_1_1IMidiLearn2.html</filename>
+    <base>FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>onLiveMidi2ControllerInput</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiLearn2.html</anchorfile>
+      <anchor>a4b064586fa7e1791530427d8c48e6433</anchor>
+      <arglist>(BusIndex index, MidiChannel channel, Midi2Controller midiCC)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>onLiveMidi1ControllerInput</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiLearn2.html</anchorfile>
+      <anchor>ad910f8e6fd910a216d61d526a3cd8d06</anchor>
+      <arglist>(BusIndex index, MidiChannel channel, CtrlNumber midiCC)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiLearn2.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
     <name>Steinberg::Vst::IMidiMapping</name>
     <filename>classSteinberg_1_1Vst_1_1IMidiMapping.html</filename>
     <base>FUnknown</base>
@@ -2871,6 +2946,46 @@
       <arglist></arglist>
     </member>
     <docanchor file="classSteinberg_1_1Vst_1_1IMidiMapping.html" title="Example">IMidiMappingExample</docanchor>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::Vst::IMidiMapping2</name>
+    <filename>classSteinberg_1_1Vst_1_1IMidiMapping2.html</filename>
+    <base>FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual uint32</type>
+      <name>getNumMidi2ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiMapping2.html</anchorfile>
+      <anchor>a427a60a4f3e095fa70c6dcea814da1e5</anchor>
+      <arglist>(BusDirections direction)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>getMidi2ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiMapping2.html</anchorfile>
+      <anchor>a8fdbb205c5f5f0ecf606db0793237147</anchor>
+      <arglist>(BusDirections direction, const Midi2ControllerParamIDAssignmentList &amp;list)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual uint32</type>
+      <name>getNumMidi1ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiMapping2.html</anchorfile>
+      <anchor>a20da6943079a80f5b4f50955039a3e30</anchor>
+      <arglist>(BusDirections direction)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>getMidi1ControllerAssignments</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiMapping2.html</anchorfile>
+      <anchor>a095d34048f8e67e3f768b2a89fe73d04</anchor>
+      <arglist>(BusDirections direction, const Midi1ControllerParamIDAssignmentList &amp;list)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1IMidiMapping2.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="class">
     <name>Steinberg::Vst::INoteExpressionController</name>
@@ -3813,6 +3928,65 @@
     </member>
   </compound>
   <compound kind="class">
+    <name>Steinberg::IWaylandFrame</name>
+    <filename>classSteinberg_1_1IWaylandFrame.html</filename>
+    <base>FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual wl_surface *</type>
+      <name>getWaylandSurface</name>
+      <anchorfile>classSteinberg_1_1IWaylandFrame.html</anchorfile>
+      <anchor>aa1e0f816ce1621721544a73463590f91</anchor>
+      <arglist>(wl_display *display)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual xdg_surface *</type>
+      <name>getParentSurface</name>
+      <anchorfile>classSteinberg_1_1IWaylandFrame.html</anchorfile>
+      <anchor>a055c5ea82125e5669e662779a0b0c0ba</anchor>
+      <arglist>(ViewRect &amp;parentSize, wl_display *display)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual xdg_toplevel *</type>
+      <name>getParentToplevel</name>
+      <anchorfile>classSteinberg_1_1IWaylandFrame.html</anchorfile>
+      <anchor>a7f589ebeefa8cfdf33f5f2899a20c105</anchor>
+      <arglist>(wl_display *display)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1IWaylandFrame.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>Steinberg::IWaylandHost</name>
+    <filename>classSteinberg_1_1IWaylandHost.html</filename>
+    <base>FUnknown</base>
+    <member kind="function" virtualness="pure">
+      <type>virtual wl_display *</type>
+      <name>openWaylandConnection</name>
+      <anchorfile>classSteinberg_1_1IWaylandHost.html</anchorfile>
+      <anchor>aac1c5eb544d1edda1f83947f67f05648</anchor>
+      <arglist>()=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>closeWaylandConnection</name>
+      <anchorfile>classSteinberg_1_1IWaylandHost.html</anchorfile>
+      <anchor>a75e7b832363bd3f9c9027b5f6aae2d6a</anchor>
+      <arglist>(wl_display *display)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1IWaylandHost.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
     <name>Steinberg::Vst::IXmlRepresentationController</name>
     <filename>classSteinberg_1_1Vst_1_1IXmlRepresentationController.html</filename>
     <base>FUnknown</base>
@@ -3921,6 +4095,163 @@
       <name>value2</name>
       <anchorfile>structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html</anchorfile>
       <anchor>a847f26b092a73eed828307b5eadad37f</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::Midi1ControllerParamIDAssignment</name>
+    <filename>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html</filename>
+    <member kind="variable">
+      <type>ParamID</type>
+      <name>pId</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html</anchorfile>
+      <anchor>ad92da76c18fa776539c3b30a32923203</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>BusIndex</type>
+      <name>busIndex</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html</anchorfile>
+      <anchor>a4a2fc7a6a2e2d0dda73b23bc418751bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>MidiChannel</type>
+      <name>channel</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html</anchorfile>
+      <anchor>a0b645f8ccb2e5d493258b3cff7c2c236</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>CtrlNumber</type>
+      <name>controller</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html</anchorfile>
+      <anchor>a318d5d5671e7e37fbd71c57f0671982c</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::Midi1ControllerParamIDAssignmentList</name>
+    <filename>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList.html</filename>
+    <member kind="variable">
+      <type>uint32</type>
+      <name>count</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList.html</anchorfile>
+      <anchor>ae19373f8138c83a1f557f935099b3063</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Midi1ControllerParamIDAssignment *</type>
+      <name>map</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList.html</anchorfile>
+      <anchor>a90f2f02b92909dc49beabd226c671b95</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::Midi2Controller</name>
+    <filename>structSteinberg_1_1Vst_1_1Midi2Controller.html</filename>
+    <member kind="variable">
+      <type>uint8</type>
+      <name>bank</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a54d84afd7f8280b815e19855fb672964</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>TBool</type>
+      <name>registered</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a1cfebf27d87a36e693813b1a998a546f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>uint8</type>
+      <name>index</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>ab9f50676c9071731dc96f5ed95603066</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>TBool</type>
+      <name>reserved</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>ad503ed3205e49436b319fca0c90ea98a</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::Midi2ControllerParamIDAssignment</name>
+    <filename>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html</filename>
+    <member kind="variable">
+      <type>ParamID</type>
+      <name>pId</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html</anchorfile>
+      <anchor>ad92da76c18fa776539c3b30a32923203</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>BusIndex</type>
+      <name>busIndex</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html</anchorfile>
+      <anchor>a4a2fc7a6a2e2d0dda73b23bc418751bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>MidiChannel</type>
+      <name>channel</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html</anchorfile>
+      <anchor>a0b645f8ccb2e5d493258b3cff7c2c236</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Midi2Controller</type>
+      <name>controller</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html</anchorfile>
+      <anchor>af0b32b67631ea7d4760d05c07ba0ddfe</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::Midi2ControllerParamIDAssignmentList</name>
+    <filename>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList.html</filename>
+    <member kind="variable">
+      <type>uint32</type>
+      <name>count</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList.html</anchorfile>
+      <anchor>ae19373f8138c83a1f557f935099b3063</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Midi2ControllerParamIDAssignment *</type>
+      <name>map</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList.html</anchorfile>
+      <anchor>a1881bcd996d914822e07a00ab7e5c7f3</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::NoteExpressionIntValueEvent</name>
+    <filename>structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html</filename>
+    <member kind="variable">
+      <type>NoteExpressionTypeID</type>
+      <name>typeId</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html</anchorfile>
+      <anchor>a8cecee2171d29eb98141c9364baa346e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>int32</type>
+      <name>noteId</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html</anchorfile>
+      <anchor>a10cb194b5adb5b7bd968688cdd58de53</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>uint64</type>
+      <name>value</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html</anchorfile>
+      <anchor>a5ac23976f2698c18a1e7317137f74505</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5076,7 +5407,9 @@
     <class kind="class">Steinberg::Vst::IKeyswitchController</class>
     <class kind="class">Steinberg::Vst::IMessage</class>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
+    <class kind="class">Steinberg::Vst::IMidiLearn2</class>
     <class kind="class">Steinberg::Vst::IMidiMapping</class>
+    <class kind="class">Steinberg::Vst::IMidiMapping2</class>
     <class kind="class">Steinberg::Vst::INoteExpressionController</class>
     <class kind="class">Steinberg::Vst::INoteExpressionPhysicalUIMapping</class>
     <class kind="class">Steinberg::Vst::IParameterChanges</class>
@@ -5103,6 +5436,12 @@
     <class kind="class">Steinberg::Vst::IXmlRepresentationController</class>
     <class kind="struct">Steinberg::Vst::KeyswitchInfo</class>
     <class kind="struct">Steinberg::Vst::LegacyMIDICCOutEvent</class>
+    <class kind="struct">Steinberg::Vst::Midi1ControllerParamIDAssignment</class>
+    <class kind="struct">Steinberg::Vst::Midi1ControllerParamIDAssignmentList</class>
+    <class kind="struct">Steinberg::Vst::Midi2Controller</class>
+    <class kind="struct">Steinberg::Vst::Midi2ControllerParamIDAssignment</class>
+    <class kind="struct">Steinberg::Vst::Midi2ControllerParamIDAssignmentList</class>
+    <class kind="struct">Steinberg::Vst::NoteExpressionIntValueEvent</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionTextEvent</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionTypeInfo</class>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -5121,6 +5460,27 @@
     <class kind="struct">Steinberg::Vst::RoutingInfo</class>
     <class kind="struct">Steinberg::Vst::ScaleEvent</class>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>MidiGroup</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a4de719567889a24c9222cc592922e040</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>MidiChannel</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a1b26079a2339a118c0bc200bbdc7014d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>BusIndex</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>accb693c3515fc981c452e8683fd8523f</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>KeyswitchTypeID</name>
@@ -5987,6 +6347,54 @@
       <name>kCtrlQuarterFrame</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>a70ee68a13248febed5047cfa0fddf4e6a8fdd692227d34e50628b4c26cc824565</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemSongSelect</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6acd40dca51d26e486569d65646dd55e1e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemSongPointer</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6a1da17ece862653f81c6b5eb894a0b742</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemCableSelect</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6aeff2784d5e1a90a8b5926896a3d4f832</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemTuneRequest</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6a5f81131b6d1d0e8cb6ef9022a1453eb0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6ab436ffbe34f8e3468622db9f1a5cafda</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockContinue</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6a3ff69061d0fc11aead42f60ac1109ccf</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemMidiClockStop</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6a2ae8ba63488f6fd9f1fd76ca43c862c5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSystemActiveSensing</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a70ee68a13248febed5047cfa0fddf4e6a6f2b8de0a4937a849e9479964e94e540</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -17572,10 +17980,61 @@
     <filename>group__pluginGUI.html</filename>
     <subgroup>platformUIType</subgroup>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
+    <class kind="class">Steinberg::IWaylandHost</class>
+    <class kind="class">Steinberg::IWaylandFrame</class>
   </compound>
   <compound kind="group">
     <name>platformUIType</name>
     <title>Platform UI Types</title>
     <filename>group__platformUIType.html</filename>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeHWND</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeHIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga974cabea219cb31ad8218ba15d1f7071</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeNSView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga8ce69944b5475d65206469b9ebcbf755</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeUIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga6362a7ca65b87d30c561dac986b757bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeX11EmbedWindowID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeWaylandSurfaceID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga111998b5f362f172b2c0edce7bfe3552</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="group">
+    <name>waylandFrame</name>
+    <title>Wayland Frame</title>
+    <filename>group__waylandFrame.html</filename>
+    <class kind="class">Steinberg::IWaylandHost</class>
+    <class kind="class">Steinberg::IWaylandFrame</class>
   </compound>
 </tagfile>

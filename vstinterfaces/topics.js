@@ -10,5 +10,6 @@ var topics =
     [ "Speaker Arrangements", "group__speakerArrangements.html", "group__speakerArrangements" ],
     [ "VST 3 Data Types", "group__vst3typedef.html", "group__vst3typedef" ],
     [ "Test Class: Interface for unit testing", "group__TestClass.html", "group__TestClass" ],
-    [ "Graphical User Interface", "group__pluginGUI.html", "group__pluginGUI" ]
+    [ "Graphical User Interface", "group__pluginGUI.html", "group__pluginGUI" ],
+    [ "Wayland Frame", "group__waylandFrame.html", "group__waylandFrame" ]
 ];

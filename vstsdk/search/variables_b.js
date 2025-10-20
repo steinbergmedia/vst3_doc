@@ -1,7 +1,7 @@
 var searchData=
 [
   ['mactive_0',['mActive',['../classSteinberg_1_1Vst_1_1BypassProcessor.html#ab582c8b862d2c49ab3ad21ac7b036500',1,'Steinberg::Vst::BypassProcessor']]],
-  ['map_1',['map',['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList']]],
+  ['map_1',['map',['../../vstinterfaces/structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList.html#a90f2f02b92909dc49beabd226c671b95',1,'Steinberg::Vst::Midi1ControllerParamIDAssignmentList::map'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList.html#a1881bcd996d914822e07a00ab7e5c7f3',1,'Steinberg::Vst::Midi2ControllerParamIDAssignmentList::map'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1PhysicalUIMapList.html#a7413d9113d748bc3e2756e9275914395',1,'Steinberg::Vst::PhysicalUIMapList::map']]],
   ['mask_2',['mask',['../../vstinterfaces/structSteinberg_1_1Vst_1_1ChordEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ChordEvent::mask'],['../../vstinterfaces/structSteinberg_1_1Vst_1_1ScaleEvent.html#a831873f40a39122089d004e06f800d17',1,'Steinberg::Vst::ScaleEvent::mask']]],
   ['masterchannel_3',['masterChannel',['../structSteinberg_1_1Vst_1_1MPE_1_1Setup.html#a649ebe6f770b9c8470108dcecce28a85',1,'Steinberg::Vst::MPE::Setup']]],
   ['maxblocksize_4',['maxBlockSize',['../structSteinberg_1_1Vst_1_1TestDefaults.html#a7e2b5ed168b97046059a1ada78a28d6f',1,'Steinberg::Vst::TestDefaults']]],

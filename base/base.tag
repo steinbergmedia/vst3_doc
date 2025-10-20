@@ -517,6 +517,20 @@
     <class kind="class">Steinberg::IAttributes</class>
     <class kind="class">Steinberg::IAttributes2</class>
     <namespace>Steinberg</namespace>
+    <member kind="typedef">
+      <type>FIDString</type>
+      <name>IAttrID</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae6eacc17e4382538d4af0d9993bc869a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>FIDString</type>
+      <name>IAttrID</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae6eacc17e4382538d4af0d9993bc869a</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>ipluginbase.h</name>
@@ -631,6 +645,62 @@
     <filename>ucolorspec_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>ColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorSpec</type>
+      <name>UColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga87699df6cd24276f34afea51d903c6e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorComponent</type>
+      <name>UColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>ColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorSpec</type>
+      <name>UColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga87699df6cd24276f34afea51d903c6e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorComponent</type>
+      <name>UColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="file">
     <name>ustring.cpp</name>
@@ -660,6 +730,34 @@
       <anchorfile>ustring_8h.html</anchorfile>
       <anchor>abbca26150973e505a5e42d3854b49750</anchor>
       <arglist>(var)</arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 128 &gt;</type>
+      <name>UString128</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 256 &gt;</type>
+      <name>UString256</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga71098a25fa252b10d271a11807153385</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 128 &gt;</type>
+      <name>UString128</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 256 &gt;</type>
+      <name>UString256</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga71098a25fa252b10d271a11807153385</anchor>
+      <arglist></arglist>
     </member>
   </compound>
   <compound kind="file">
@@ -2235,8 +2333,8 @@
     <member kind="typedef">
       <type>float</type>
       <name>ScaleFactor</name>
-      <anchorfile>classSteinberg_1_1IPlugViewContentScaleSupport.html</anchorfile>
-      <anchor>a75ec4b5d086d2af3733ac3775ab008d8</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga75ec4b5d086d2af3733ac3775ab008d8</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" virtualness="pure">
@@ -3452,6 +3550,13 @@
       <anchor>a19586a2262d7f92f01c9d90649cbe032</anchor>
       <arglist>()</arglist>
     </member>
+    <member kind="variable" static="yes">
+      <type>static constexpr TUID</type>
+      <name>data</name>
+      <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
+      <anchor>af3e523b453fb8e9a646c65adc7016174</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
   <compound kind="struct">
     <name>Steinberg::U::UID</name>
@@ -3665,6 +3770,13 @@
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
       <anchor>a19586a2262d7f92f01c9d90649cbe032</anchor>
       <arglist>()</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static constexpr TUID</type>
+      <name>data</name>
+      <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
+      <anchor>af3e523b453fb8e9a646c65adc7016174</anchor>
+      <arglist></arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -3917,211 +4029,211 @@
     <member kind="typedef">
       <type>char</type>
       <name>int8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ae47c588f3ab8c61121c1c7ab7edc47cd</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae47c588f3ab8c61121c1c7ab7edc47cd</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint8_t</type>
       <name>uint8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a33a5e996e7a90acefb8b1c0bea47e365</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga33a5e996e7a90acefb8b1c0bea47e365</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>unsigned char</type>
       <name>uchar</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a65f85814a8290f9797005d3b28e7e5fc</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga65f85814a8290f9797005d3b28e7e5fc</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int16_t</type>
       <name>int16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa0d0fdc87fd135ef2bedb030901cdb9c</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa0d0fdc87fd135ef2bedb030901cdb9c</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint16_t</type>
       <name>uint16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac2a9e79eb120216f855626495b7bd18a</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gac2a9e79eb120216f855626495b7bd18a</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32_t</type>
       <name>int32</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ab7903878916593daecbeb95b98115ab0</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gab7903878916593daecbeb95b98115ab0</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32_t</type>
       <name>uint32</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>acbd4acd0d29e2d6c43104827f77d9cd2</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gacbd4acd0d29e2d6c43104827f77d9cd2</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int64_t</type>
       <name>int64</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a7cde0074dfd288f2d70c0e035dacb28a</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga7cde0074dfd288f2d70c0e035dacb28a</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64_t</type>
       <name>uint64</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>abc0f5bc07737e498f287334775dff2b6</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabc0f5bc07737e498f287334775dff2b6</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int64</type>
       <name>TSize</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>abc5a03f91bd781b5062f4fccaa7851f0</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabc5a03f91bd781b5062f4fccaa7851f0</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>tresult</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a902761e005a6252e538c766de48fc957</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga902761e005a6252e538c766de48fc957</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint64</type>
       <name>TPtrInt</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>adbdfa470c35e7bf57d7952f0767bbf57</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gadbdfa470c35e7bf57d7952f0767bbf57</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint8</type>
       <name>TBool</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1ea8addd740f35d207a1569dd38ef895</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga1ea8addd740f35d207a1569dd38ef895</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>char</type>
       <name>char8</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac9e1c0f508ae0f5f8a2b704a91e1ae86</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gac9e1c0f508ae0f5f8a2b704a91e1ae86</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>char16_t</type>
       <name>char16</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a667a0a4e0cbcb3f3785984955e1fefd8</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga667a0a4e0cbcb3f3785984955e1fefd8</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>char16</type>
       <name>char</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa9eb7d301130a7771343735bef461579</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa9eb7d301130a7771343735bef461579</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>const char8 *</type>
       <name>CStringA</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a435992556581fbc31a9bddb3bb2f787a</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga435992556581fbc31a9bddb3bb2f787a</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>const char16 *</type>
       <name>CStringW</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a81b4df0e8189d2f135f25919a6a90be2</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga81b4df0e8189d2f135f25919a6a90be2</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>const char *</type>
       <name>CString</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a6f37e0dbf8faed21d2658800d9db4583</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga6f37e0dbf8faed21d2658800d9db4583</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>const char8 *</type>
       <name>FIDString</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad4c02134d1ee42389f3d94717935a1d5</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gad4c02134d1ee42389f3d94717935a1d5</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int32</type>
       <name>UCoord</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>abf33a8b245f4634965116e9c25eb702a</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabf33a8b245f4634965116e9c25eb702a</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>int64</type>
       <name>LARGE_INT</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a9cd1730908299276af7bc0baa8c5197e</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga9cd1730908299276af7bc0baa8c5197e</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>char</type>
       <name>TUID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a6935af93744bfe4ecc455f274ef1ec36</anchor>
+      <anchorfile>group__pluginBase.html</anchorfile>
+      <anchor>ga6935af93744bfe4ecc455f274ef1ec36</anchor>
       <arglist>[16]</arglist>
     </member>
     <member kind="typedef">
       <type>FIDString</type>
       <name>IAttrID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ae6eacc17e4382538d4af0d9993bc869a</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae6eacc17e4382538d4af0d9993bc869a</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint32</type>
       <name>ColorSpec</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>uint8</type>
       <name>ColorComponent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>af1189c83b63820c6ccc3167402601fea</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>ColorSpec</type>
       <name>UColorSpec</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a87699df6cd24276f34afea51d903c6e4</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga87699df6cd24276f34afea51d903c6e4</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>ColorComponent</type>
       <name>UColorComponent</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga3c4f7362f2f494a4120d7c864dd0822d</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>UStringBuffer&lt; 128 &gt;</type>
       <name>UString128</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
       <type>UStringBuffer&lt; 256 &gt;</type>
       <name>UString256</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a71098a25fa252b10d271a11807153385</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga71098a25fa252b10d271a11807153385</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -5244,22 +5356,22 @@
     <member kind="function">
       <type>bool</type>
       <name>strEmpty</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a6a838f230987e1a095b0cb75c28d4a65</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga6a838f230987e1a095b0cb75c28d4a65</anchor>
       <arglist>(const char *str)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>str8Empty</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a728f0ddc16a12be5fa0f950f4c8a0a8e</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga728f0ddc16a12be5fa0f950f4c8a0a8e</anchor>
       <arglist>(const char8 *str)</arglist>
     </member>
     <member kind="function">
       <type>bool</type>
       <name>str16Empty</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a81eef9745d0b6653c6a1c78bb89533d8</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga81eef9745d0b6653c6a1c78bb89533d8</anchor>
       <arglist>(const char16 *str)</arglist>
     </member>
     <member kind="function">
@@ -5322,8 +5434,8 @@
       <type>T</type>
       <name>ToNormalized</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a31a33bd1d2143601be9244b5eb666167</anchor>
-      <arglist>(const T &amp;value, const int32 numSteps)</arglist>
+      <anchor>a266eafd81fd5078d6b177162227ee49a</anchor>
+      <arglist>(const T value, const int32 numSteps)</arglist>
     </member>
     <member kind="function">
       <type>int32</type>
@@ -5517,71 +5629,127 @@
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformStringWin</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a2ae80314db54c6bda33e1cf922effb47</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga2ae80314db54c6bda33e1cf922effb47</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformStringMac</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ad5ffc071fd688ac833b5283777037278</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gad5ffc071fd688ac833b5283777037278</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformStringIOS</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a0e747a3b854268949a75a1c8e8fd070c</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga0e747a3b854268949a75a1c8e8fd070c</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformStringLinux</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a1c13255fbcd5845d44bd45cc27bd3586</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga1c13255fbcd5845d44bd45cc27bd3586</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformString</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a45a730ec762ad31ab0e5c80e15560afc</anchor>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga45a730ec762ad31ab0e5c80e15560afc</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeHWND</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>aa1e68ac1f25da9c85c937d0360dbc601</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeHIView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a974cabea219cb31ad8218ba15d1f7071</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga974cabea219cb31ad8218ba15d1f7071</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeNSView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a8ce69944b5475d65206469b9ebcbf755</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga8ce69944b5475d65206469b9ebcbf755</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeUIView</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a6362a7ca65b87d30c561dac986b757bd</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga6362a7ca65b87d30c561dac986b757bd</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>const FIDString</type>
       <name>kPlatformTypeX11EmbedWindowID</name>
-      <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>ac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>kPlatformTypeWaylandSurfaceID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga111998b5f362f172b2c0edce7bfe3552</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>FIDString</type>
+      <name>IAttrID</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae6eacc17e4382538d4af0d9993bc869a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>ColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>ColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorSpec</type>
+      <name>UColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga87699df6cd24276f34afea51d903c6e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorComponent</type>
+      <name>UColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 128 &gt;</type>
+      <name>UString128</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 256 &gt;</type>
+      <name>UString256</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga71098a25fa252b10d271a11807153385</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5785,6 +5953,277 @@
     </member>
   </compound>
   <compound kind="group">
+    <name>smtgtypedef</name>
+    <title>Steinberg Data Types</title>
+    <filename>group__smtgtypedef.html</filename>
+    <member kind="typedef">
+      <type>char</type>
+      <name>Steinberg::int8</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae47c588f3ab8c61121c1c7ab7edc47cd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8_t</type>
+      <name>Steinberg::uint8</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga33a5e996e7a90acefb8b1c0bea47e365</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>unsigned char</type>
+      <name>Steinberg::uchar</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga65f85814a8290f9797005d3b28e7e5fc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int16_t</type>
+      <name>Steinberg::int16</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa0d0fdc87fd135ef2bedb030901cdb9c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint16_t</type>
+      <name>Steinberg::uint16</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gac2a9e79eb120216f855626495b7bd18a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32_t</type>
+      <name>Steinberg::int32</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gab7903878916593daecbeb95b98115ab0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32_t</type>
+      <name>Steinberg::uint32</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gacbd4acd0d29e2d6c43104827f77d9cd2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64_t</type>
+      <name>Steinberg::int64</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga7cde0074dfd288f2d70c0e035dacb28a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64_t</type>
+      <name>Steinberg::uint64</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabc0f5bc07737e498f287334775dff2b6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64</type>
+      <name>Steinberg::TSize</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabc5a03f91bd781b5062f4fccaa7851f0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>Steinberg::tresult</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga902761e005a6252e538c766de48fc957</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint64</type>
+      <name>Steinberg::TPtrInt</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gadbdfa470c35e7bf57d7952f0767bbf57</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>Steinberg::TBool</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga1ea8addd740f35d207a1569dd38ef895</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char</type>
+      <name>Steinberg::char8</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gac9e1c0f508ae0f5f8a2b704a91e1ae86</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char16_t</type>
+      <name>Steinberg::char16</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga667a0a4e0cbcb3f3785984955e1fefd8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>char16</type>
+      <name>Steinberg::char</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa9eb7d301130a7771343735bef461579</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>Steinberg::CStringA</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga435992556581fbc31a9bddb3bb2f787a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char16 *</type>
+      <name>Steinberg::CStringW</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga81b4df0e8189d2f135f25919a6a90be2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char *</type>
+      <name>Steinberg::CString</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga6f37e0dbf8faed21d2658800d9db4583</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>const char8 *</type>
+      <name>Steinberg::FIDString</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gad4c02134d1ee42389f3d94717935a1d5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int32</type>
+      <name>Steinberg::UCoord</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gabf33a8b245f4634965116e9c25eb702a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>int64</type>
+      <name>Steinberg::LARGE_INT</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga9cd1730908299276af7bc0baa8c5197e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>float</type>
+      <name>Steinberg::IPlugViewContentScaleSupport::ScaleFactor</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga75ec4b5d086d2af3733ac3775ab008d8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Steinberg::strEmpty</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga6a838f230987e1a095b0cb75c28d4a65</anchor>
+      <arglist>(const char *str)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Steinberg::str8Empty</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga728f0ddc16a12be5fa0f950f4c8a0a8e</anchor>
+      <arglist>(const char8 *str)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Steinberg::str16Empty</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga81eef9745d0b6653c6a1c78bb89533d8</anchor>
+      <arglist>(const char16 *str)</arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformStringWin</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga2ae80314db54c6bda33e1cf922effb47</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformStringMac</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gad5ffc071fd688ac833b5283777037278</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformStringIOS</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga0e747a3b854268949a75a1c8e8fd070c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformStringLinux</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga1c13255fbcd5845d44bd45cc27bd3586</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformString</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga45a730ec762ad31ab0e5c80e15560afc</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>FIDString</type>
+      <name>Steinberg::IAttrID</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gae6eacc17e4382538d4af0d9993bc869a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint32</type>
+      <name>Steinberg::ColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga5b13d028fba1eee386ec9ac208c6238d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>uint8</type>
+      <name>Steinberg::ColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaf1189c83b63820c6ccc3167402601fea</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorSpec</type>
+      <name>Steinberg::UColorSpec</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga87699df6cd24276f34afea51d903c6e4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>ColorComponent</type>
+      <name>Steinberg::UColorComponent</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga3c4f7362f2f494a4120d7c864dd0822d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 128 &gt;</type>
+      <name>Steinberg::UString128</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>gaa92186fdeda699e7a0cc7ac6c45d07e5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>UStringBuffer&lt; 256 &gt;</type>
+      <name>Steinberg::UString256</name>
+      <anchorfile>group__smtgtypedef.html</anchorfile>
+      <anchor>ga71098a25fa252b10d271a11807153385</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="group">
     <name>pluginBase</name>
     <title>Basic Interfaces</title>
     <filename>group__pluginBase.html</filename>
@@ -5802,6 +6241,13 @@
     <class kind="class">Steinberg::IPluginFactory3</class>
     <class kind="class">Steinberg::IPtr</class>
     <class kind="class">Steinberg::OPtr</class>
+    <member kind="typedef">
+      <type>char</type>
+      <name>Steinberg::TUID</name>
+      <anchorfile>group__pluginBase.html</anchorfile>
+      <anchor>ga6935af93744bfe4ecc455f274ef1ec36</anchor>
+      <arglist>[16]</arglist>
+    </member>
     <member kind="function">
       <type>SMTG_EXPORT_SYMBOL Steinberg::IPluginFactory *</type>
       <name>GetPluginFactory</name>
@@ -5827,5 +6273,47 @@
     <name>platformUIType</name>
     <title>Platform UI Types</title>
     <filename>group__platformUIType.html</filename>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeHWND</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gaa1e68ac1f25da9c85c937d0360dbc601</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeHIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga974cabea219cb31ad8218ba15d1f7071</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeNSView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga8ce69944b5475d65206469b9ebcbf755</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeUIView</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga6362a7ca65b87d30c561dac986b757bd</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeX11EmbedWindowID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>gac945decc5f26f3fdb5419e8de833a0e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const FIDString</type>
+      <name>Steinberg::kPlatformTypeWaylandSurfaceID</name>
+      <anchorfile>group__platformUIType.html</anchorfile>
+      <anchor>ga111998b5f362f172b2c0edce7bfe3552</anchor>
+      <arglist></arglist>
+    </member>
   </compound>
 </tagfile>

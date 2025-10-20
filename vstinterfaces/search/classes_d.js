@@ -17,7 +17,7 @@ var searchData=
   ['physicaluimap_14',['PhysicalUIMap',['../structSteinberg_1_1Vst_1_1PhysicalUIMap.html',1,'Steinberg::Vst']]],
   ['physicaluimaplist_15',['PhysicalUIMapList',['../structSteinberg_1_1Vst_1_1PhysicalUIMapList.html',1,'Steinberg::Vst']]],
   ['plugincontextfactory_16',['PluginContextFactory',['../../vstsdk/classSteinberg_1_1Vst_1_1PluginContextFactory.html',1,'Steinberg::Vst']]],
-  ['pluginfactory_17',['PluginFactory',['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'VST3::Hosting']]],
+  ['pluginfactory_17',['PluginFactory',['../../vstsdk/classSteinberg_1_1PluginFactory.html',1,'PluginFactory&lt; typename T &gt;'],['../../vstsdk/classVST3_1_1Hosting_1_1PluginFactory.html',1,'PluginFactory']]],
   ['pluginterfacesupport_18',['PlugInterfaceSupport',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugInterfaceSupport.html',1,'Steinberg::Vst']]],
   ['plugprovider_19',['PlugProvider',['../../vstsdk/classSteinberg_1_1Vst_1_1PlugProvider.html',1,'Steinberg::Vst']]],
   ['polypressureevent_20',['PolyPressureEvent',['../structSteinberg_1_1Vst_1_1PolyPressureEvent.html',1,'Steinberg::Vst']]],

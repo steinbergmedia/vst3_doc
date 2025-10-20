@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -117,32 +117,32 @@ $(function(){initNavTree('classSteinberg_1_1Vst_1_1IComponentHandler2.html','');
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
 <div class="center"><img src="classSteinberg_1_1Vst_1_1IComponentHandler2__inherit__graph.png" border="0" usemap="#aIComponentHandler2_inherit__map" alt="Inheritance graph"/></div>
 <map name="aIComponentHandler2_inherit__map" id="aIComponentHandler2_inherit__map">
-<area shape="rect" title="Extended host callback interface for an edit controller: Vst::IComponentHandler2." alt="" coords="5,152,139,269"/>
-<area shape="rect" target="_parent" href="../base/classSteinberg_1_1FUnknown.html" title=" " alt="" coords="18,5,126,104"/>
-<area shape="poly" title=" " alt="" coords="75,119,75,153,69,153,69,119"/>
+<area shape="rect" title="Extended host callback interface for an edit controller: Vst::IComponentHandler2." alt="" coords="5,155,139,277"/>
+<area shape="rect" target="_parent" href="../base/classSteinberg_1_1FUnknown.html" title=" " alt="" coords="18,5,127,107"/>
+<area shape="poly" title=" " alt="" coords="75,122,75,156,70,156,70,122"/>
 </map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa457d0550984879c4094c578b914fb6d" id="r_aa457d0550984879c4094c578b914fb6d"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa457d0550984879c4094c578b914fb6d">setDirty</a> (<a class="elRef" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a> state)=0</td></tr>
+<tr class="memitem:aa457d0550984879c4094c578b914fb6d" id="r_aa457d0550984879c4094c578b914fb6d"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa457d0550984879c4094c578b914fb6d">setDirty</a> (<a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a> state)=0</td></tr>
 <tr class="memdesc:aa457d0550984879c4094c578b914fb6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tells host that the plug-in is dirty (something besides parameters has changed since last save), if true the host should apply a save before quitting.  <br /></td></tr>
 <tr class="separator:aa457d0550984879c4094c578b914fb6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac7d37d88b53e9517e1b696bef2d47fa5" id="r_ac7d37d88b53e9517e1b696bef2d47fa5"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac7d37d88b53e9517e1b696bef2d47fa5">requestOpenEditor</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a> name=<a class="el" href="namespaceSteinberg_1_1Vst_1_1ViewType.html#aaa62c4c32f0270a908eb20c7c7124dfc">ViewType::kEditor</a>)=0</td></tr>
+<tr class="memitem:ac7d37d88b53e9517e1b696bef2d47fa5" id="r_ac7d37d88b53e9517e1b696bef2d47fa5"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac7d37d88b53e9517e1b696bef2d47fa5">requestOpenEditor</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gad4c02134d1ee42389f3d94717935a1d5">FIDString</a> name=<a class="el" href="namespaceSteinberg_1_1Vst_1_1ViewType.html#aaa62c4c32f0270a908eb20c7c7124dfc">ViewType::kEditor</a>)=0</td></tr>
 <tr class="memdesc:ac7d37d88b53e9517e1b696bef2d47fa5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tells host that it should open the plug-in editor the next time it's possible.  <br /></td></tr>
 <tr class="separator:ac7d37d88b53e9517e1b696bef2d47fa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba339113df404a6b3c557774d4aa9102" id="r_aba339113df404a6b3c557774d4aa9102"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aba339113df404a6b3c557774d4aa9102">startGroupEdit</a> ()=0</td></tr>
+<tr class="memitem:aba339113df404a6b3c557774d4aa9102" id="r_aba339113df404a6b3c557774d4aa9102"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aba339113df404a6b3c557774d4aa9102">startGroupEdit</a> ()=0</td></tr>
 <tr class="memdesc:aba339113df404a6b3c557774d4aa9102"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the group editing (call before a <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler.html#a8456ad739430267a12dda11a53fe9223">beginEdit</a>), the host will keep the current timestamp at this call and will use it for all <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler.html#a8456ad739430267a12dda11a53fe9223">beginEdit</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler.html#a135d4e76355ef0ba0a4162a0546d5f93">performEdit</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler.html#ae380206486b11f000cad7c0d9b6e877c">endEdit</a> calls until a <a class="el" href="#adbdc10ff7ecd96fa365ad4f98d57b55e">finishGroupEdit</a> ().  <br /></td></tr>
 <tr class="separator:aba339113df404a6b3c557774d4aa9102"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adbdc10ff7ecd96fa365ad4f98d57b55e" id="r_adbdc10ff7ecd96fa365ad4f98d57b55e"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#adbdc10ff7ecd96fa365ad4f98d57b55e">finishGroupEdit</a> ()=0</td></tr>
+<tr class="memitem:adbdc10ff7ecd96fa365ad4f98d57b55e" id="r_adbdc10ff7ecd96fa365ad4f98d57b55e"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#adbdc10ff7ecd96fa365ad4f98d57b55e">finishGroupEdit</a> ()=0</td></tr>
 <tr class="memdesc:adbdc10ff7ecd96fa365ad4f98d57b55e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finishes the group editing started by a <a class="el" href="#aba339113df404a6b3c557774d4aa9102">startGroupEdit</a> (call after a <a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler.html#ae380206486b11f000cad7c0d9b6e877c">endEdit</a>).  <br /></td></tr>
 <tr class="separator:adbdc10ff7ecd96fa365ad4f98d57b55e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classSteinberg_1_1FUnknown"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pub_methods_classSteinberg_1_1FUnknown')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el"  href="../base/classSteinberg_1_1FUnknown.html">FUnknown</a></td></tr>
-<tr class="memitem:a4199134d0669bfa92b7419dac14c01a7 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_a4199134d0669bfa92b7419dac14c01a7"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#a4199134d0669bfa92b7419dac14c01a7">queryInterface</a> (const <a class="elRef" href="../base/namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36">TUID</a> _iid, void **obj)=0</td></tr>
+<tr class="memitem:a4199134d0669bfa92b7419dac14c01a7 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_a4199134d0669bfa92b7419dac14c01a7"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#a4199134d0669bfa92b7419dac14c01a7">queryInterface</a> (const <a class="elRef" href="../base/group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36">TUID</a> _iid, void **obj)=0</td></tr>
 <tr class="separator:a4199134d0669bfa92b7419dac14c01a7 inherit pub_methods_classSteinberg_1_1FUnknown"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa3c5a2a5410d41153d7f5e3f4e0a635 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_aaa3c5a2a5410d41153d7f5e3f4e0a635"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">addRef</a> ()=0</td></tr>
+<tr class="memitem:aaa3c5a2a5410d41153d7f5e3f4e0a635 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_aaa3c5a2a5410d41153d7f5e3f4e0a635"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#aaa3c5a2a5410d41153d7f5e3f4e0a635">addRef</a> ()=0</td></tr>
 <tr class="separator:aaa3c5a2a5410d41153d7f5e3f4e0a635 inherit pub_methods_classSteinberg_1_1FUnknown"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58847c78bf6142f01ce214c2802cb146 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_a58847c78bf6142f01ce214c2802cb146"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#a58847c78bf6142f01ce214c2802cb146">release</a> ()=0</td></tr>
+<tr class="memitem:a58847c78bf6142f01ce214c2802cb146 inherit pub_methods_classSteinberg_1_1FUnknown" id="r_a58847c78bf6142f01ce214c2802cb146"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="elRef" href="../base/classSteinberg_1_1FUnknown.html#a58847c78bf6142f01ce214c2802cb146">release</a> ()=0</td></tr>
 <tr class="separator:a58847c78bf6142f01ce214c2802cb146 inherit pub_methods_classSteinberg_1_1FUnknown"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
@@ -215,9 +215,9 @@ Examples of different use cases</h1>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> setDirty </td>
+          <td class="memname">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a> setDirty </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895">TBool</a></td>          <td class="paramname"><span class="paramname"><em>state</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a></td>          <td class="paramname"><span class="paramname"><em>state</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -243,9 +243,9 @@ Examples of different use cases</h1>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> requestOpenEditor </td>
+          <td class="memname">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a> requestOpenEditor </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5">FIDString</a></td>          <td class="paramname"><span class="paramname"><em>name</em></span><span class="paramdefsep"> = </span><span class="paramdefval"><a class="el" href="namespaceSteinberg_1_1Vst_1_1ViewType.html#aaa62c4c32f0270a908eb20c7c7124dfc">ViewType::kEditor</a></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gad4c02134d1ee42389f3d94717935a1d5">FIDString</a></td>          <td class="paramname"><span class="paramname"><em>name</em></span><span class="paramdefsep"> = </span><span class="paramdefval"><a class="el" href="namespaceSteinberg_1_1Vst_1_1ViewType.html#aaa62c4c32f0270a908eb20c7c7124dfc">ViewType::kEditor</a></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -271,7 +271,7 @@ Examples of different use cases</h1>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> startGroupEdit </td>
+          <td class="memname">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a> startGroupEdit </td>
           <td>(</td>
           <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
           <td></td>
@@ -299,7 +299,7 @@ Examples of different use cases</h1>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="elRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> finishGroupEdit </td>
+          <td class="memname">virtual <a class="elRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a> finishGroupEdit </td>
           <td>(</td>
           <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
           <td></td>

@@ -109,12 +109,14 @@ $(function(){initNavTree('struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.h
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a3e85284238c4da7377cb1e4373717963" id="r_a3e85284238c4da7377cb1e4373717963"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="#a3e85284238c4da7377cb1e4373717963a4da202338f118b9e57137036fa2d3ca6">Selectable</a> = 1 &lt;&lt; 0
-, <a class="el" href="#a3e85284238c4da7377cb1e4373717963a60733e364a5777c127b529f133620612">Selected</a> = 1 &lt;&lt; 1
-, <a class="el" href="#a3e85284238c4da7377cb1e4373717963aaf9815af27f2215eb4759be2ea0b3d70">Hovered</a> = 1 &lt;&lt; 2
-, <a class="el" href="#a3e85284238c4da7377cb1e4373717963ae4c174d5794cc681d9b19b0e8d712002">LastRow</a> = 1 &lt;&lt; 3
+<tr class="memitem:af0a452b55c77d70808437d0213328dfa" id="r_af0a452b55c77d70808437d0213328dfa"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af0a452b55c77d70808437d0213328dfa">Flag</a> : uint32_t { <a class="el" href="#af0a452b55c77d70808437d0213328dfaa4da202338f118b9e57137036fa2d3ca6">Selectable</a> = 1 &lt;&lt; 0
+, <a class="el" href="#af0a452b55c77d70808437d0213328dfaa60733e364a5777c127b529f133620612">Selected</a> = 1 &lt;&lt; 1
+, <a class="el" href="#af0a452b55c77d70808437d0213328dfaaaf9815af27f2215eb4759be2ea0b3d70">Hovered</a> = 1 &lt;&lt; 2
+, <a class="el" href="#af0a452b55c77d70808437d0213328dfaae4c174d5794cc681d9b19b0e8d712002">LastRow</a> = 1 &lt;&lt; 3
  }</td></tr>
-<tr class="separator:a3e85284238c4da7377cb1e4373717963"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:af0a452b55c77d70808437d0213328dfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96b2b7f25d98db25aa3dd33b209f41fb" id="r_a96b2b7f25d98db25aa3dd33b209f41fb"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a96b2b7f25d98db25aa3dd33b209f41fb">Flags</a> = <a class="el" href="struct_v_s_t_g_u_i_1_1_enum_bitset.html">EnumBitset</a>&lt;<a class="el" href="#af0a452b55c77d70808437d0213328dfa">Flag</a>, true&gt;</td></tr>
+<tr class="separator:a96b2b7f25d98db25aa3dd33b209f41fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -130,33 +132,48 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aefcff7bcf9ba431f0a4df1077c724cff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af28eb14da1cfb9bdc109d3da1b71d961" id="r_af28eb14da1cfb9bdc109d3da1b71d961"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af28eb14da1cfb9bdc109d3da1b71d961">isLastRow</a> () const</td></tr>
 <tr class="separator:af28eb14da1cfb9bdc109d3da1b71d961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03a4f87a4ca9bc90c40e11b69e866637" id="r_a03a4f87a4ca9bc90c40e11b69e866637"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a03a4f87a4ca9bc90c40e11b69e866637">Row</a> (int32_t index, int32_t flags)</td></tr>
-<tr class="separator:a03a4f87a4ca9bc90c40e11b69e866637"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade10a09acd27c55fa01d9bd8457802ef" id="r_ade10a09acd27c55fa01d9bd8457802ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ade10a09acd27c55fa01d9bd8457802ef">Row</a> (int32_t index, <a class="el" href="#a96b2b7f25d98db25aa3dd33b209f41fb">Flags</a> flags)</td></tr>
+<tr class="separator:ade10a09acd27c55fa01d9bd8457802ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a3e85284238c4da7377cb1e4373717963" name="a3e85284238c4da7377cb1e4373717963"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e85284238c4da7377cb1e4373717963">&#9670;&#160;</a></span>anonymous enum</h2>
+<h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a96b2b7f25d98db25aa3dd33b209f41fb" name="a96b2b7f25d98db25aa3dd33b209f41fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96b2b7f25d98db25aa3dd33b209f41fb">&#9670;&#160;</a></span>Flags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">anonymous enum</td>
+          <td class="memname">using <a class="el" href="#a96b2b7f25d98db25aa3dd33b209f41fb">Flags</a> = <a class="el" href="struct_v_s_t_g_u_i_1_1_enum_bitset.html">EnumBitset</a>&lt;<a class="el" href="#af0a452b55c77d70808437d0213328dfa">Flag</a>, true&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="af0a452b55c77d70808437d0213328dfa" name="af0a452b55c77d70808437d0213328dfa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0a452b55c77d70808437d0213328dfa">&#9670;&#160;</a></span>Flag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="#af0a452b55c77d70808437d0213328dfa">Flag</a> : uint32_t</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3e85284238c4da7377cb1e4373717963a4da202338f118b9e57137036fa2d3ca6" name="a3e85284238c4da7377cb1e4373717963a4da202338f118b9e57137036fa2d3ca6"></a>Selectable&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3e85284238c4da7377cb1e4373717963a60733e364a5777c127b529f133620612" name="a3e85284238c4da7377cb1e4373717963a60733e364a5777c127b529f133620612"></a>Selected&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3e85284238c4da7377cb1e4373717963aaf9815af27f2215eb4759be2ea0b3d70" name="a3e85284238c4da7377cb1e4373717963aaf9815af27f2215eb4759be2ea0b3d70"></a>Hovered&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3e85284238c4da7377cb1e4373717963ae4c174d5794cc681d9b19b0e8d712002" name="a3e85284238c4da7377cb1e4373717963ae4c174d5794cc681d9b19b0e8d712002"></a>LastRow&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af0a452b55c77d70808437d0213328dfaa4da202338f118b9e57137036fa2d3ca6" name="af0a452b55c77d70808437d0213328dfaa4da202338f118b9e57137036fa2d3ca6"></a>Selectable&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af0a452b55c77d70808437d0213328dfaa60733e364a5777c127b529f133620612" name="af0a452b55c77d70808437d0213328dfaa60733e364a5777c127b529f133620612"></a>Selected&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af0a452b55c77d70808437d0213328dfaaaf9815af27f2215eb4759be2ea0b3d70" name="af0a452b55c77d70808437d0213328dfaaaf9815af27f2215eb4759be2ea0b3d70"></a>Hovered&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af0a452b55c77d70808437d0213328dfaae4c174d5794cc681d9b19b0e8d712002" name="af0a452b55c77d70808437d0213328dfaae4c174d5794cc681d9b19b0e8d712002"></a>LastRow&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a03a4f87a4ca9bc90c40e11b69e866637" name="a03a4f87a4ca9bc90c40e11b69e866637"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03a4f87a4ca9bc90c40e11b69e866637">&#9670;&#160;</a></span>Row()</h2>
+<a id="ade10a09acd27c55fa01d9bd8457802ef" name="ade10a09acd27c55fa01d9bd8457802ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade10a09acd27c55fa01d9bd8457802ef">&#9670;&#160;</a></span>Row()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,7 +189,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int32_t</td>          <td class="paramname"><span class="paramname"><em>flags</em></span>&#160;)</td>
+          <td class="paramtype"><a class="el" href="#a96b2b7f25d98db25aa3dd33b209f41fb">Flags</a></td>          <td class="paramname"><span class="paramname"><em>flags</em></span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -344,7 +361,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="class_v_s_t_g_u_i_1_1_i_list_control_drawer.html">IListControlDrawer</a></li><li class="navelem"><a class="el" href="struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html">Row</a></li>
-    <li class="footer">Generated on Fri Jun 13 2025 14:34:43 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 17:24:34 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

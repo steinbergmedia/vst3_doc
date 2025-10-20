@@ -1,9 +1,9 @@
 <map id="PresetManager" name="PresetManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,317,207,617"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="9,180,64,241"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,255,68,317,63,318,46,256"/>
-<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html" title=" " alt="" coords="88,152,265,269"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,284,150,318,145,317,154,283"/>
-<area shape="rect" id="Node000004" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="123,5,231,104"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,119,179,153,174,153,174,119"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,325,207,634"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,184,63,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,261,68,324,63,326,46,263"/>
+<area shape="rect" id="Node000003" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/vstinterfaces/vstinterfaces.tag$classSteinberg_1_1Vst_1_1IInterAppAudioPresetManager.html" title=" " alt="" coords="88,155,264,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,292,150,325,145,324,153,290"/>
+<area shape="rect" id="Node000004" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="121,5,230,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="178,122,178,156,173,156,173,122"/>
 </map>

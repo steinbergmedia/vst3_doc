@@ -5,7 +5,7 @@ var searchData=
   ['dataexchangereceiverhandler_2',['DataExchangeReceiverHandler',['../classSteinberg_1_1Vst_1_1DataExchangeReceiverHandler.html#a04f7bfae5ffb6c3841cad64acfed4747',1,'Steinberg::Vst::DataExchangeReceiverHandler']]],
   ['decodescalefactor_3',['decodeScaleFactor',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#af83d1c09a84057dd3974be7ef641e89f',1,'VST3::Hosting::Module::Snapshot']]],
   ['decodeuid_4',['decodeUID',['../structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#a4844a6fefcbb5a468506e95447cb3500',1,'VST3::Hosting::Module::Snapshot']]],
-  ['def_5fclass_5fiid_5',['DEF_CLASS_IID',['../../base/namespaceSteinberg.html#a0a5776df696f816f7fcc81666e242d81',1,'Steinberg']]],
+  ['def_5fclass_5fiid_5',['DEF_CLASS_IID',['../namespaceSteinberg.html#a0a5776df696f816f7fcc81666e242d81',1,'Steinberg']]],
   ['deferupdates_6',['deferUpdates',['../../base/classSteinberg_1_1IUpdateHandler.html#a161a23aead9a302f8b4b2021d8553e29',1,'Steinberg::IUpdateHandler']]],
   ['delay_7',['Delay',['../structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#a59bfd0438cb1c6514a34373f69437691',1,'Steinberg::Vst::BypassProcessor::Delay']]],
   ['denormalizealpha_8',['DenormalizeAlpha',['../../base/namespaceSteinberg.html#abfe74133ed684fa31c7227a9d1a4b3ce',1,'Steinberg']]],

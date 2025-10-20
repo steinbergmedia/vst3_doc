@@ -13,7 +13,9 @@ var searchData=
   ['f8_10',['F8',['../group__new__in__4__11.html#gga85a6e0e5dacc5cf40c660ea540b6e9d6a4787509ad9f9d747a81a30e9dde3d4a7',1,'VSTGUI']]],
   ['f9_11',['F9',['../group__new__in__4__11.html#gga85a6e0e5dacc5cf40c660ea540b6e9d6a892a245e287c163080b23db737d3c4c9',1,'VSTGUI']]],
   ['fifth_12',['Fifth',['../group__new__in__4__11.html#ggab8d93bdfbb0fd7ae143bbfda46bf38bca0abdfd715970bd0ef7d5574daa0e6d0b',1,'VSTGUI']]],
-  ['forcewritecompresseddesc_13',['ForceWriteCompressedDesc',['../class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a07e19dbbef3f355ccf66a0f4d87957f6a0b84da7c3ed7a147b385d07ce77d5587',1,'VSTGUI::CompressedUIDescription']]],
-  ['fourth_14',['Fourth',['../group__new__in__4__11.html#ggab8d93bdfbb0fd7ae143bbfda46bf38bca6e599f7a2a9186d391be4537f105be98',1,'VSTGUI']]],
-  ['freeclick_15',['FreeClick',['../namespace_v_s_t_g_u_i.html#a1018c1a42e0f81b7d19f64deec840c5aaafe838776463686aa64c1a7554b75c67',1,'VSTGUI']]]
+  ['findnext_13',['FindNext',['../struct_v_s_t_g_u_i_1_1_i_text_editor.html#a4075703244d868307cd1753414a5c130a058404d575478e312543c2b2ff527f79',1,'VSTGUI::ITextEditor']]],
+  ['findprevious_14',['FindPrevious',['../struct_v_s_t_g_u_i_1_1_i_text_editor.html#a4075703244d868307cd1753414a5c130aca56592cf013fc40398cb5430a28da45',1,'VSTGUI::ITextEditor']]],
+  ['forcewritecompresseddesc_15',['ForceWriteCompressedDesc',['../class_v_s_t_g_u_i_1_1_compressed_u_i_description.html#a07e19dbbef3f355ccf66a0f4d87957f6a0b84da7c3ed7a147b385d07ce77d5587',1,'VSTGUI::CompressedUIDescription']]],
+  ['fourth_16',['Fourth',['../group__new__in__4__11.html#ggab8d93bdfbb0fd7ae143bbfda46bf38bca6e599f7a2a9186d391be4537f105be98',1,'VSTGUI']]],
+  ['freeclick_17',['FreeClick',['../namespace_v_s_t_g_u_i.html#a1018c1a42e0f81b7d19f64deec840c5aaafe838776463686aa64c1a7554b75c67',1,'VSTGUI']]]
 ];

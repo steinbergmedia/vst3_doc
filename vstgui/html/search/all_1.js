@@ -12,5 +12,6 @@ var searchData=
   ['12_20vstgui_204_2013_9',['VSTGUI 4.12 -&gt; VSTGUI 4.13',['../page_news_and_changes.html#code_changes_4_12_to_4_13',1,'']]],
   ['13_10',['13',['../page_news_and_changes.html#version4_13',1,'Version 4.13'],['../page_news_and_changes.html#code_changes_4_12_to_4_13',1,'VSTGUI 4.12 -&gt; VSTGUI 4.13']]],
   ['13_20vstgui_204_2014_11',['VSTGUI 4.13 -&gt; VSTGUI 4.14',['../page_news_and_changes.html#code_changes_4_13_to_4_14',1,'']]],
-  ['14_12',['14',['../page_news_and_changes.html#version4_14',1,'Version 4.14'],['../page_news_and_changes.html#code_changes_4_13_to_4_14',1,'VSTGUI 4.13 -&gt; VSTGUI 4.14']]]
+  ['14_12',['14',['../page_news_and_changes.html#version4_14',1,'Version 4.14'],['../page_news_and_changes.html#code_changes_4_13_to_4_14',1,'VSTGUI 4.13 -&gt; VSTGUI 4.14']]],
+  ['15_13',['15',['../group__new__in__4__15.html',1,'Version 4.15'],['../page_news_and_changes.html#version4_15',1,'Version 4.15']]]
 ];

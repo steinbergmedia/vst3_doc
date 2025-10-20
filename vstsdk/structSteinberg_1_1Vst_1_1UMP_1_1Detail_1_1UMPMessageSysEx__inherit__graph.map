@@ -1,7 +1,7 @@
 <map id="UMPMessageSysEx" name="UMPMessageSysEx">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,597,129,659"/>
-<area shape="rect" id="Node000002" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html" title=" " alt="" coords="16,320,119,549"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,564,70,597,65,597,65,564"/>
-<area shape="rect" id="Node000003" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="16,5,119,272"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,287,70,320,65,320,65,287"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,615,127,678"/>
+<area shape="rect" id="Node000002" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage2.html" title=" " alt="" coords="15,329,118,567"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,582,69,615,64,615,64,582"/>
+<area shape="rect" id="Node000003" href="$structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessage.html" title=" " alt="" coords="15,5,118,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,296,69,330,64,330,64,296"/>
 </map>

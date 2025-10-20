@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -117,16 +117,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a35a0e11552543b1269d3c5e6e45daa35" id="r_a35a0e11552543b1269d3c5e6e45daa35"><td class="memItemLeft" align="right" valign="top">virtual <a class="elRef" href="../base/classSteinberg_1_1IPtr.html">IPtr</a>&lt; <a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IDataExchangeReceiver.html">IDataExchangeReceiver</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a35a0e11552543b1269d3c5e6e45daa35">findDataExchangeReceiver</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioProcessor.html">IAudioProcessor</a> *processor)=0</td></tr>
 <tr class="memdesc:a35a0e11552543b1269d3c5e6e45daa35"><td class="mdescLeft">&#160;</td><td class="mdescRight">return the data exchange receiver (most likely the edit controller) for the processor [main thread]  <br /></td></tr>
 <tr class="separator:a35a0e11552543b1269d3c5e6e45daa35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34e686050e3477b842a5589d171a57be" id="r_a34e686050e3477b842a5589d171a57be"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a34e686050e3477b842a5589d171a57be">allowAllocateSize</a> (<a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> blockSize, <a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> numBlocks, <a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> alignment)=0</td></tr>
+<tr class="memitem:a34e686050e3477b842a5589d171a57be" id="r_a34e686050e3477b842a5589d171a57be"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a34e686050e3477b842a5589d171a57be">allowAllocateSize</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> blockSize, <a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> numBlocks, <a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> alignment)=0</td></tr>
 <tr class="memdesc:a34e686050e3477b842a5589d171a57be"><td class="mdescLeft">&#160;</td><td class="mdescRight">check if the requested queue size should be allowed [main thread]  <br /></td></tr>
 <tr class="separator:a34e686050e3477b842a5589d171a57be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acfcf2d0e7de13f022cb37b4391737aac" id="r_acfcf2d0e7de13f022cb37b4391737aac"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#acfcf2d0e7de13f022cb37b4391737aac">isMainThread</a> ()=0</td></tr>
 <tr class="memdesc:acfcf2d0e7de13f022cb37b4391737aac"><td class="mdescLeft">&#160;</td><td class="mdescRight">check if this call is made on the main thread [any thread]  <br /></td></tr>
 <tr class="separator:acfcf2d0e7de13f022cb37b4391737aac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0fba34c6a580a12c6bbd572c7951f01" id="r_ad0fba34c6a580a12c6bbd572c7951f01"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad0fba34c6a580a12c6bbd572c7951f01">allowQueueListResize</a> (<a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> newNumQueues)=0</td></tr>
+<tr class="memitem:ad0fba34c6a580a12c6bbd572c7951f01" id="r_ad0fba34c6a580a12c6bbd572c7951f01"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad0fba34c6a580a12c6bbd572c7951f01">allowQueueListResize</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> newNumQueues)=0</td></tr>
 <tr class="memdesc:ad0fba34c6a580a12c6bbd572c7951f01"><td class="mdescLeft">&#160;</td><td class="mdescRight">check if the number of queues can be changed in this moment.  <br /></td></tr>
 <tr class="separator:ad0fba34c6a580a12c6bbd572c7951f01"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae46c5ca462933771e6961dcbb8af08e4" id="r_ae46c5ca462933771e6961dcbb8af08e4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae46c5ca462933771e6961dcbb8af08e4">numberOfQueuesChanged</a> (<a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> openMainThreadQueues, <a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> openBackgroundThreadQueues)=0</td></tr>
+<tr class="memitem:ae46c5ca462933771e6961dcbb8af08e4" id="r_ae46c5ca462933771e6961dcbb8af08e4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae46c5ca462933771e6961dcbb8af08e4">numberOfQueuesChanged</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> openMainThreadQueues, <a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> openBackgroundThreadQueues)=0</td></tr>
 <tr class="memdesc:ae46c5ca462933771e6961dcbb8af08e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">notification that the number of open queues changed [main thread]  <br /></td></tr>
 <tr class="separator:ae46c5ca462933771e6961dcbb8af08e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae9af653decd741309f751bd677fa2d3d" id="r_ae9af653decd741309f751bd677fa2d3d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae9af653decd741309f751bd677fa2d3d">onQueueOpened</a> (<a class="elRef" href="../vstinterfaces/classSteinberg_1_1Vst_1_1IAudioProcessor.html">IAudioProcessor</a> *processor, <a class="elRef" href="../vstinterfaces/group__vst3typedef.html#ga288e28d94c3b16dc959546d1eec4481d">DataExchangeQueueID</a> queueID, bool dispatchOnMainThread)=0</td></tr>
@@ -232,17 +232,17 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual bool allowAllocateSize </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>blockSize</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>blockSize</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>numBlocks</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>numBlocks</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>alignment</em></span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>alignment</em></span>&#160;)</td>
         </tr>
       </table>
   </td>
@@ -295,7 +295,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual bool allowQueueListResize </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>newNumQueues</em></span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>newNumQueues</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -323,12 +323,12 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">virtual void numberOfQueuesChanged </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>openMainThreadQueues</em></span>, </td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>openMainThreadQueues</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>openBackgroundThreadQueues</em></span>&#160;)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a></td>          <td class="paramname"><span class="paramname"><em>openBackgroundThreadQueues</em></span>&#160;)</td>
         </tr>
       </table>
   </td>

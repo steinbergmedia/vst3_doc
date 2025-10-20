@@ -3,7 +3,7 @@ var searchData=
   ['factoryflags_0',['FactoryFlags',['../structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380',1,'Steinberg::PFactoryInfo']]],
   ['falignpop_2eh_1',['falignpop.h',['../falignpop_8h.html',1,'']]],
   ['falignpush_2eh_2',['falignpush.h',['../falignpush_8h.html',1,'']]],
-  ['fidstring_3',['FIDString',['../namespaceSteinberg.html#ad4c02134d1ee42389f3d94717935a1d5',1,'Steinberg']]],
+  ['fidstring_3',['FIDString',['../group__smtgtypedef.html#gad4c02134d1ee42389f3d94717935a1d5',1,'Steinberg']]],
   ['fidstringsequal_4',['FIDStringsEqual',['../namespaceSteinberg.html#afcb1a763178c9806cc827360a02741e2',1,'Steinberg']]],
   ['filedescriptor_5',['FileDescriptor',['../namespaceSteinberg_1_1Linux.html#a9c80aaf6d9c6451b471e97de46595753',1,'Steinberg::Linux']]],
   ['flags_6',['flags',['../structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb',1,'Steinberg::PFactoryInfo']]],

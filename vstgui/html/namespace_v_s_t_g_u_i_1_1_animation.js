@@ -6,6 +6,7 @@ var namespace_v_s_t_g_u_i_1_1_animation =
     [ "CubicBezierTimingFunction", "class_v_s_t_g_u_i_1_1_animation_1_1_cubic_bezier_timing_function.html", "class_v_s_t_g_u_i_1_1_animation_1_1_cubic_bezier_timing_function" ],
     [ "ExchangeViewAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html", "class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation" ],
     [ "FinishedMessage", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message.html", "class_v_s_t_g_u_i_1_1_animation_1_1_finished_message" ],
+    [ "FuncAnimation", "class_v_s_t_g_u_i_1_1_animation_1_1_func_animation.html", "class_v_s_t_g_u_i_1_1_animation_1_1_func_animation" ],
     [ "IAnimationTarget", "class_v_s_t_g_u_i_1_1_animation_1_1_i_animation_target.html", "class_v_s_t_g_u_i_1_1_animation_1_1_i_animation_target" ],
     [ "InterpolationTimingFunction", "class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html", "class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function" ],
     [ "ITimingFunction", "class_v_s_t_g_u_i_1_1_animation_1_1_i_timing_function.html", "class_v_s_t_g_u_i_1_1_animation_1_1_i_timing_function" ],

@@ -16,7 +16,7 @@ var group__standalone =
       [ "integer", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a57ef39e8def0d695ce9f6744ea05c48c", null ],
       [ "string", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#ae1adbce218e7a9d09164012443191d24", null ],
       [ "type", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a47112a46547df7760e7994aeea220774", null ],
-      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a0bcdc6592e80d671f7b4dda18188d366", null ]
+      [ "value", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_config_value.html#a38ff568507427b9b54543a2a589652d5", null ]
     ] ],
     [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html", [
       [ "Init", "struct_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_init.html#a5150c4261a4bcb40d81b8c7a8cc8f9b6", null ]
@@ -274,6 +274,7 @@ var group__standalone =
       [ "getType", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a2dc9d8d28598b49a8779bc33233b40db", null ],
       [ "hide", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a60a6c04e603d8ab3232f8176bddb3ce3", null ],
       [ "registerWindowListener", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a1aea3c2ba06cc7d8230e7c365fa51b8b", null ],
+      [ "setAutoSaveFrameName", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#af95afec181627882f0d2b9e702423357", null ],
       [ "setContentView", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#aeebc73ca6b41c5876612cfb46c46f8ed", null ],
       [ "setPosition", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a090307040a1a02ef485d0d7cebfbb9cc", null ],
       [ "setRepresentedPath", "class_v_s_t_g_u_i_1_1_standalone_1_1_i_window.html#a2efe9a0860a4a96be5ebcbdb4e71fa49", null ],

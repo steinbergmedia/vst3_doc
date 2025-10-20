@@ -14,9 +14,11 @@ var classSteinberg_1_1CPluginFactory =
     [ "getClassInfo2", "classSteinberg_1_1CPluginFactory.html#a82f3e8be88625a9e528e369974b81097", null ],
     [ "getClassInfoUnicode", "classSteinberg_1_1CPluginFactory.html#a7c0d301dd81356797c1001f9bbf86707", null ],
     [ "setHostContext", "classSteinberg_1_1CPluginFactory.html#a362238de8e4290901622963244c13771", null ],
+    [ "addHostContextCallback", "classSteinberg_1_1CPluginFactory.html#ae7f7f92e14b90ada7e9379e01c2ab7fc", null ],
     [ "growClasses", "classSteinberg_1_1CPluginFactory.html#aee66f1513cbfdd6f722781473b14704a", null ],
     [ "factoryInfo", "classSteinberg_1_1CPluginFactory.html#a5048a618e5819f448694d729e8d0ae22", null ],
     [ "classes", "classSteinberg_1_1CPluginFactory.html#a7b2d51ea0059eef0d5fcb18354146c3b", null ],
     [ "classCount", "classSteinberg_1_1CPluginFactory.html#ab6f44bd3e615135e3c6b57b2855f5fce", null ],
-    [ "maxClassCount", "classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88", null ]
+    [ "maxClassCount", "classSteinberg_1_1CPluginFactory.html#aa3e101b37d33c758fcf1762997822e88", null ],
+    [ "hostContextCallbacks", "classSteinberg_1_1CPluginFactory.html#ad28040fe6cdddf27c96cb80baca7fd9e", null ]
 ];

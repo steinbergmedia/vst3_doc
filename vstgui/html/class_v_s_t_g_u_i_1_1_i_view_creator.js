@@ -16,7 +16,8 @@ var class_v_s_t_g_u_i_1_1_i_view_creator =
       [ "kRectType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00aac50f62c199d9e1cfafc3ce801743852", null ],
       [ "kTagType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a9654c5f3654439dd62d1e5c4b8224afa", null ],
       [ "kListType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00ab1e36fc8da4d0b51aa375215d1b58dab", null ],
-      [ "kGradientType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a733ac9612f65dae8f8596a08869f4fde", null ]
+      [ "kGradientType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a733ac9612f65dae8f8596a08869f4fde", null ],
+      [ "kScriptType", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a8ea02e3b84f1d682319cc3eb77cabb00a0aad804521bc9fcf939e9843ee0e8c2e", null ]
     ] ],
     [ "~IViewCreator", "class_v_s_t_g_u_i_1_1_i_view_creator.html#ae8965f884224c40fa402fe8721a4c173", null ],
     [ "apply", "class_v_s_t_g_u_i_1_1_i_view_creator.html#a5e0194bf3751756ecb768f9fa9536f74", null ],

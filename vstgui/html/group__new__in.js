@@ -7,6 +7,7 @@ var group__new__in =
     [ "Version 4.12", "group__new__in__4__12.html", "group__new__in__4__12" ],
     [ "Version 4.12.1", "group__new__in__4__12__1.html", "group__new__in__4__12__1" ],
     [ "Version 4.12.2", "group__new__in__4__12__2.html", "group__new__in__4__12__2" ],
+    [ "Version 4.15", "group__new__in__4__15.html", "group__new__in__4__15" ],
     [ "Version 4.2", "group__new__in__4__2.html", "group__new__in__4__2" ],
     [ "Version 4.3", "group__new__in__4__3.html", "group__new__in__4__3" ],
     [ "Version 4.5", "group__new__in__4__5.html", "group__new__in__4__5" ],

@@ -1,13 +1,13 @@
 <map id="EditorView" name="EditorView">
-<area shape="rect" id="Node000001" title="View related to an edit controller." alt="" coords="29,781,172,917"/>
-<area shape="rect" id="Node000006" href="$classSteinberg_1_1Vst_1_1VSTGUIEditor.html" title="Base class for an edit view using VSTGUI." alt="" coords="17,965,185,1213"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,932,103,965,98,965,98,932"/>
-<area shape="rect" id="Node000002" href="$classSteinberg_1_1CPluginView.html" title="Plug&#45;In view default implementation." alt="" coords="17,467,185,733"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,749,103,782,98,782,98,749"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,255,60,316"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,330,75,466,69,467,40,331"/>
-<area shape="rect" id="Node000004" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPlugView.html" title=" " alt="" coords="85,152,253,419"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="139,434,132,467,127,466,134,433"/>
-<area shape="rect" id="Node000005" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="115,5,223,104"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="171,119,171,152,166,152,166,119"/>
+<area shape="rect" id="Node000001" title="View related to an edit controller." alt="" coords="27,803,170,944"/>
+<area shape="rect" id="Node000006" href="$classSteinberg_1_1Vst_1_1VSTGUIEditor.html" title="Base class for an edit view using VSTGUI." alt="" coords="14,992,183,1249"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,959,101,992,96,992,96,959"/>
+<area shape="rect" id="Node000002" href="$classSteinberg_1_1CPluginView.html" title="Plug&#45;In view default implementation." alt="" coords="14,479,183,755"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,770,101,804,96,804,96,770"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,262,58,325"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="44,339,73,479,67,480,38,340"/>
+<area shape="rect" id="Node000004" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1IPlugView.html" title=" " alt="" coords="82,155,251,431"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="137,446,130,480,125,479,132,445"/>
+<area shape="rect" id="Node000005" href="/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/doc/base/base.tag$classSteinberg_1_1FUnknown.html" title=" " alt="" coords="112,5,221,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,122,169,156,164,156,164,122"/>
 </map>

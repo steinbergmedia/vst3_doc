@@ -157,6 +157,12 @@ var searchData=
   ['module_5flinux_2ecpp_154',['module_linux.cpp',['../../vstsdk/module__linux_8cpp.html',1,'']]],
   ['module_5fmac_2emm_155',['module_mac.mm',['../../vstsdk/module__mac_8mm.html',1,'']]],
   ['module_5fwin32_2ecpp_156',['module_win32.cpp',['../../vstsdk/module__win32_8cpp.html',1,'']]],
-  ['mpeprocessor_2ecpp_157',['mpeprocessor.cpp',['../../vstsdk/mpeprocessor_8cpp.html',1,'']]],
-  ['mpeprocessor_2eh_158',['mpeprocessor.h',['../../vstsdk/mpeprocessor_8h.html',1,'']]]
+  ['moduleinfo_2eh_157',['moduleinfo.h',['../../vstsdk/moduleinfo_8h.html',1,'']]],
+  ['moduleinfocreator_2ecpp_158',['moduleinfocreator.cpp',['../../vstsdk/moduleinfocreator_8cpp.html',1,'']]],
+  ['moduleinfocreator_2eh_159',['moduleinfocreator.h',['../../vstsdk/moduleinfocreator_8h.html',1,'']]],
+  ['moduleinfoparser_2ecpp_160',['moduleinfoparser.cpp',['../../vstsdk/moduleinfoparser_8cpp.html',1,'']]],
+  ['moduleinfoparser_2eh_161',['moduleinfoparser.h',['../../vstsdk/moduleinfoparser_8h.html',1,'']]],
+  ['moduleinit_2eh_162',['moduleinit.h',['../../vstsdk/moduleinit_8h.html',1,'']]],
+  ['mpeprocessor_2ecpp_163',['mpeprocessor.cpp',['../../vstsdk/mpeprocessor_8cpp.html',1,'']]],
+  ['mpeprocessor_2eh_164',['mpeprocessor.h',['../../vstsdk/mpeprocessor_8h.html',1,'']]]
 ];

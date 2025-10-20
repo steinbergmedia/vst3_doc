@@ -9,6 +9,8 @@ var searchData=
   ['gradienthighlighted_6',['gradientHighlighted',['../class_v_s_t_g_u_i_1_1_c_text_button.html#ab2382f244e327c227b3d2839cc08136d',1,'VSTGUI::CTextButton']]],
   ['gradientstyle_7',['gradientStyle',['../class_v_s_t_g_u_i_1_1_c_gradient_view.html#af8f6f9f902ede53688481efd286f7890',1,'VSTGUI::CGradientView']]],
   ['green_8',['green',['../struct_v_s_t_g_u_i_1_1_c_color.html#a90d21fa503b626c00cdc8d94863d5877',1,'VSTGUI::CColor']]],
-  ['group_9',['group',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_command.html#ad40c0f0dc8adcbe5c431e6c6b921e77b',1,'VSTGUI::Standalone::Command']]],
-  ['groupidentifier_10',['groupIdentifier',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html#a78b8ad2f5138dc4c8eb2874d6a00ca08',1,'VSTGUI::Standalone::WindowConfiguration']]]
+  ['gridareas_9',['gridAreas',['../struct_v_s_t_g_u_i_1_1_grid_layout_properties.html#a024116237e8aaaa4c95aa249bb118e05',1,'VSTGUI::GridLayoutProperties']]],
+  ['group_10',['group',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_command.html#ad40c0f0dc8adcbe5c431e6c6b921e77b',1,'VSTGUI::Standalone::Command']]],
+  ['groupidentifier_11',['groupIdentifier',['../struct_v_s_t_g_u_i_1_1_standalone_1_1_window_configuration.html#a78b8ad2f5138dc4c8eb2874d6a00ca08',1,'VSTGUI::Standalone::WindowConfiguration']]],
+  ['gruntimeid_12',['gRuntimeID',['../struct_v_s_t_g_u_i_1_1_c_view_1_1_impl.html#a513e60e7c375f27d32b5f272c0b31bbd',1,'VSTGUI::CView::Impl']]]
 ];

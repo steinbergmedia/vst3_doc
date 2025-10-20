@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -123,6 +123,7 @@ $(function(){initNavTree('functions_func.html',''); initResizable(true); });
 <h3><a id="index_c" name="index_c"></a>- c -</h3><ul>
 <li>canProcessSampleSize()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IAudioProcessor.html#aa1a6f9c030b9b2f5c0602dca309bb23b">IAudioProcessor</a></li>
 <li>closeQueue()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IDataExchangeHandler.html#ac0c45b4a114f40b229820fcd8121d4c8">IDataExchangeHandler</a></li>
+<li>closeWaylandConnection()&#160;:&#160;<a class="el" href="classSteinberg_1_1IWaylandHost.html#a75e7b832363bd3f9c9027b5f6aae2d6a">IWaylandHost</a></li>
 <li>connect()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IConnectionPoint.html#aa65d68182357737c7a1f7736400565c2">IConnectionPoint</a></li>
 <li>connectedToHost()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IInterAppAudioHost.html#a85482697be15b427dd93a5488beaf9a8">IInterAppAudioHost</a></li>
 <li>createContextMenu()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IComponentHandler3.html#abf7aec615dce3825ab63e47c946ef6a8">IComponentHandler3</a></li>
@@ -178,12 +179,16 @@ $(function(){initNavTree('functions_func.html',''); initResizable(true); });
 <li>getKeyswitchInfo()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IKeyswitchController.html#a8193190849039a70d08b084241d29e38">IKeyswitchController</a></li>
 <li>getLatencySamples()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IAudioProcessor.html#af8884671ccefe68e0a86e72413a0fcf8">IAudioProcessor</a></li>
 <li>getMessageID()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMessage.html#a56ba9d2e0ca1aa0d7f56a32e6f5d06f3">IMessage</a></li>
+<li>getMidi1ControllerAssignments()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiMapping2.html#a095d34048f8e67e3f768b2a89fe73d04">IMidiMapping2</a></li>
+<li>getMidi2ControllerAssignments()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiMapping2.html#a8fdbb205c5f5f0ecf606db0793237147">IMidiMapping2</a></li>
 <li>getMidiControllerAssignment()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiMapping.html#a62b10d017d6b2bc0e390e30d0e2a823b">IMidiMapping</a></li>
 <li>getName()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IHostApplication.html#a701520a52c46a25fdaca39ca4a28177f">IHostApplication</a></li>
 <li>getNoteExpressionCount()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1INoteExpressionController.html#a197a1b66cc45ba1935d9ce0894b1ee02">INoteExpressionController</a></li>
 <li>getNoteExpressionInfo()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1INoteExpressionController.html#ab12d543cbd83560a9f098ed4a5c76af8">INoteExpressionController</a></li>
 <li>getNoteExpressionStringByValue()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1INoteExpressionController.html#a457f017fc3566d143914e44523425d23">INoteExpressionController</a></li>
 <li>getNoteExpressionValueByString()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1INoteExpressionController.html#ab79e988315e33b4c30c8f2bd47a0cffc">INoteExpressionController</a></li>
+<li>getNumMidi1ControllerAssignments()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiMapping2.html#a20da6943079a80f5b4f50955039a3e30">IMidiMapping2</a></li>
+<li>getNumMidi2ControllerAssignments()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiMapping2.html#a427a60a4f3e095fa70c6dcea814da1e5">IMidiMapping2</a></li>
 <li>getParameterCount()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1">IEditController</a>, <a class="el" href="classSteinberg_1_1Vst_1_1IParameterChanges.html#ab6ffbb8e3bf6f4829ab1c9c23fe935a1">IParameterChanges</a></li>
 <li>getParameterData()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IParameterChanges.html#a6cdee9a67a47e84f8a4821080f9f3094">IParameterChanges</a></li>
 <li>getParameterId()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html#abe1cf3f748932181aa3a80a10feb3d2b">IParamValueQueue</a></li>
@@ -192,6 +197,8 @@ $(function(){initNavTree('functions_func.html',''); initResizable(true); });
 <li>getParamNormalized()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#ac5abbadd4c8326fae66fd1e63bdc15b3">IEditController</a></li>
 <li>getParamStringByValue()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#aab2f0b853e75361d331b667e7893962e">IEditController</a></li>
 <li>getParamValueByString()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController.html#af4254a0360b21f8871a61c62fb317058">IEditController</a></li>
+<li>getParentSurface()&#160;:&#160;<a class="el" href="classSteinberg_1_1IWaylandFrame.html#a055c5ea82125e5669e662779a0b0c0ba">IWaylandFrame</a></li>
+<li>getParentToplevel()&#160;:&#160;<a class="el" href="classSteinberg_1_1IWaylandFrame.html#a7f589ebeefa8cfdf33f5f2899a20c105">IWaylandFrame</a></li>
 <li>getPhysicalUIMapping()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html#a8cf4ab098e30cf53962a1e3079b0f5e5">INoteExpressionPhysicalUIMapping</a></li>
 <li>getPluginFactory()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ITestPlugProvider2.html#a27ce59ba7c3687753ba4290765e356ae">ITestPlugProvider2</a></li>
 <li>getPoint()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IParamValueQueue.html#ac10774ecd1a00877d5d1b315894be1a7">IParamValueQueue</a></li>
@@ -216,6 +223,7 @@ $(function(){initNavTree('functions_func.html',''); initResizable(true); });
 <li>getUnitCount()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#a23fd4bc09e5bfee39c31bbba1ab2385b">IUnitInfo</a></li>
 <li>getUnitData()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IUnitData.html#a0ea283ed20afcc7f1b860abd05064bbb">IUnitData</a></li>
 <li>getUnitInfo()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IUnitInfo.html#ad32cdcda859f588c84e76133f2d62923">IUnitInfo</a></li>
+<li>getWaylandSurface()&#160;:&#160;<a class="el" href="classSteinberg_1_1IWaylandFrame.html#aa1e0f816ce1621721544a73463590f91">IWaylandFrame</a></li>
 <li>getXmlRepresentationStream()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IXmlRepresentationController.html#a12aaff5f46c6f620fb724e9c9763ac21">IXmlRepresentationController</a></li>
 </ul>
 
@@ -249,10 +257,13 @@ $(function(){initNavTree('functions_func.html',''); initResizable(true); });
 <h3><a id="index_o" name="index_o"></a>- o -</h3><ul>
 <li>onDataExchangeBlocksReceived()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IDataExchangeReceiver.html#ae443e9ae05f5504aadff05412c8195e6">IDataExchangeReceiver</a></li>
 <li>onInterAppAudioConnectionStateChange()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IInterAppAudioConnectionNotification.html#a57d886cb53419b840fe75049f3f4d6a6">IInterAppAudioConnectionNotification</a></li>
+<li>onLiveMidi1ControllerInput()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiLearn2.html#ad910f8e6fd910a216d61d526a3cd8d06">IMidiLearn2</a></li>
+<li>onLiveMidi2ControllerInput()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiLearn2.html#a4b064586fa7e1791530427d8c48e6433">IMidiLearn2</a></li>
 <li>onLiveMIDIControllerInput()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IMidiLearn.html#a466e384c55a31345e75c59564ac0b593">IMidiLearn</a></li>
 <li>openAboutBox()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController2.html#aa52846d39014c3ca95224fa98930e7a8">IEditController2</a></li>
 <li>openHelp()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IEditController2.html#a749ceb08d2f33b5b12cdc59172d8a7c3">IEditController2</a></li>
 <li>openQueue()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1IDataExchangeHandler.html#a9901db75c791ff2879a906b19ed388d9">IDataExchangeHandler</a></li>
+<li>openWaylandConnection()&#160;:&#160;<a class="el" href="classSteinberg_1_1IWaylandHost.html#aac1c5eb544d1edda1f83947f67f05648">IWaylandHost</a></li>
 </ul>
 
 

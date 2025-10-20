@@ -8,7 +8,7 @@ var searchData=
   ['shepardcontroller_5',['ShepardController',['../classSteinberg_1_1Vst_1_1mda_1_1ShepardController.html',1,'Steinberg::Vst::mda']]],
   ['shepardprocessor_6',['ShepardProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1ShepardProcessor.html',1,'Steinberg::Vst::mda']]],
   ['singlecomponenteffect_7',['SingleComponentEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1SingleComponentEffect.html',1,'Steinberg::Vst']]],
-  ['snapshot_8',['Snapshot',['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot.html',1,'VST3::Hosting::Module']]],
+  ['snapshot_8',['Snapshot',['../../vstsdk/structSteinberg_1_1ModuleInfo_1_1Snapshot.html',1,'Snapshot'],['../../vstsdk/structVST3_1_1Hosting_1_1Module_1_1Snapshot.html',1,'Snapshot']]],
   ['speakerarray_9',['SpeakerArray',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html',1,'Steinberg::Vst']]],
   ['specmetercontroller_10',['SpecMeterController',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterController.html',1,'Steinberg::Vst::mda']]],
   ['specmeterprocessor_11',['SpecMeterProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1SpecMeterProcessor.html',1,'Steinberg::Vst::mda']]],

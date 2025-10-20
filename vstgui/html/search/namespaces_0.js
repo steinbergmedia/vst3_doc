@@ -27,8 +27,11 @@ var searchData=
   ['vstgui_3a_3astandalone_3a_3avalue_24',['Value',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value.html',1,'VSTGUI::Standalone']]],
   ['vstgui_3a_3astandalone_3a_3avalue_3a_3adetail_25',['Detail',['../namespace_v_s_t_g_u_i_1_1_standalone_1_1_value_1_1_detail.html',1,'VSTGUI::Standalone::Value']]],
   ['vstgui_3a_3astring_26',['String',['../namespace_v_s_t_g_u_i_1_1_string.html',1,'VSTGUI']]],
-  ['vstgui_3a_3auidescriptionprivate_27',['UIDescriptionPrivate',['../namespace_v_s_t_g_u_i_1_1_u_i_description_private.html',1,'VSTGUI']]],
-  ['vstgui_3a_3auiviewcreator_28',['UIViewCreator',['../namespace_v_s_t_g_u_i_1_1_u_i_view_creator.html',1,'VSTGUI']]],
-  ['vstgui_3a_3avst3editorinternal_29',['VST3EditorInternal',['../namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html',1,'VSTGUI']]],
-  ['vstgui_3a_3axml_30',['Xml',['../namespace_v_s_t_g_u_i_1_1_xml.html',1,'VSTGUI']]]
+  ['vstgui_3a_3atasks_27',['Tasks',['../namespace_v_s_t_g_u_i_1_1_tasks.html',1,'VSTGUI']]],
+  ['vstgui_3a_3atexteditor_28',['TextEditor',['../namespace_v_s_t_g_u_i_1_1_text_editor.html',1,'VSTGUI']]],
+  ['vstgui_3a_3atexteditorcolorization_29',['TextEditorColorization',['../namespace_v_s_t_g_u_i_1_1_text_editor_colorization.html',1,'VSTGUI']]],
+  ['vstgui_3a_3auidescriptionprivate_30',['UIDescriptionPrivate',['../namespace_v_s_t_g_u_i_1_1_u_i_description_private.html',1,'VSTGUI']]],
+  ['vstgui_3a_3auiviewcreator_31',['UIViewCreator',['../namespace_v_s_t_g_u_i_1_1_u_i_view_creator.html',1,'VSTGUI']]],
+  ['vstgui_3a_3avst3editorinternal_32',['VST3EditorInternal',['../namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html',1,'VSTGUI']]],
+  ['vstgui_3a_3axml_33',['Xml',['../namespace_v_s_t_g_u_i_1_1_xml.html',1,'VSTGUI']]]
 ];

@@ -215,11 +215,33 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a31f2c5aab6893a97dce69575422409cf"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a31f2c5aab6893a97dce69575422409cf">forEachChild</a> (Proc proc) const</td></tr>
 <tr class="memdesc:a31f2c5aab6893a97dce69575422409cf"><td class="mdescLeft">&#160;</td><td class="mdescRight">execute proc for each child view  <br /></td></tr>
 <tr class="separator:a31f2c5aab6893a97dce69575422409cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a877d92e188e3a6b0891f0f6ce93dad" id="r_a1a877d92e188e3a6b0891f0f6ce93dad"><td class="memTemplParams" colspan="2">template&lt;typename Proc&gt; </td></tr>
+<tr class="memitem:a1a877d92e188e3a6b0891f0f6ce93dad"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a1a877d92e188e3a6b0891f0f6ce93dad">findFirstViewIf</a> (Proc filter) const</td></tr>
+<tr class="separator:a1a877d92e188e3a6b0891f0f6ce93dad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr><td colspan="2"><div class="groupHeader">View Layouter Methods</div></td></tr>
+<tr class="memitem:a065ecc5c2f6508c39371a18613d0a7a7" id="r_a065ecc5c2f6508c39371a18613d0a7a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a065ecc5c2f6508c39371a18613d0a7a7">setViewLayouter</a> (const <a class="el" href="class_v_s_t_g_u_i_1_1_shared_pointer.html">SharedPointer</a>&lt; <a class="el" href="class_v_s_t_g_u_i_1_1_i_view_layouter.html">IViewLayouter</a> &gt; &amp;layouter)</td></tr>
+<tr class="memdesc:a065ecc5c2f6508c39371a18613d0a7a7"><td class="mdescLeft">&#160;</td><td class="mdescRight">set a view layouter  <br /></td></tr>
+<tr class="separator:a065ecc5c2f6508c39371a18613d0a7a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47784fc62004c1f0fe24dcc73336f8ba" id="r_a47784fc62004c1f0fe24dcc73336f8ba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_shared_pointer.html">SharedPointer</a>&lt; <a class="el" href="class_v_s_t_g_u_i_1_1_i_view_layouter.html">IViewLayouter</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a47784fc62004c1f0fe24dcc73336f8ba">getViewLayouter</a> () const</td></tr>
+<tr class="memdesc:a47784fc62004c1f0fe24dcc73336f8ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">get the current view layouter  <br /></td></tr>
+<tr class="separator:a47784fc62004c1f0fe24dcc73336f8ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30315f927fc76fa394ac611334ccd10d" id="r_a30315f927fc76fa394ac611334ccd10d"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_view_layout.html">ViewLayout</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a30315f927fc76fa394ac611334ccd10d">calculateViewLayout</a> (const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;newSize) const</td></tr>
+<tr class="memdesc:a30315f927fc76fa394ac611334ccd10d"><td class="mdescLeft">&#160;</td><td class="mdescRight">calculate the view layout for the new size  <br /></td></tr>
+<tr class="separator:a30315f927fc76fa394ac611334ccd10d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef2dc9b7428e4591cb968b705cb424bb" id="r_aef2dc9b7428e4591cb968b705cb424bb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aef2dc9b7428e4591cb968b705cb424bb">applyViewLayout</a> (const <a class="el" href="struct_v_s_t_g_u_i_1_1_view_layout.html">ViewLayout</a> &amp;layout)</td></tr>
+<tr class="memdesc:aef2dc9b7428e4591cb968b705cb424bb"><td class="mdescLeft">&#160;</td><td class="mdescRight">apply a previously calculated view layout  <br /></td></tr>
+<tr class="separator:aef2dc9b7428e4591cb968b705cb424bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76b5b2dd95d5a671ddb51038391c5bc9" id="r_a76b5b2dd95d5a671ddb51038391c5bc9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a76b5b2dd95d5a671ddb51038391c5bc9">inApplyViewLayout</a> () const</td></tr>
+<tr class="memdesc:a76b5b2dd95d5a671ddb51038391c5bc9"><td class="mdescLeft">&#160;</td><td class="mdescRight">check if a view layout is currently applied  <br /></td></tr>
+<tr class="separator:a76b5b2dd95d5a671ddb51038391c5bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pub_methods_class_v_s_t_g_u_i_1_1_c_view')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a></td></tr>
 <tr class="memitem:af84b35eac283df7da16c38a665028525 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_af84b35eac283df7da16c38a665028525"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#af84b35eac283df7da16c38a665028525">CView</a> (const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;size)</td></tr>
 <tr class="separator:af84b35eac283df7da16c38a665028525 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6692134a3539d58a74e25275d1936d27 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_a6692134a3539d58a74e25275d1936d27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a6692134a3539d58a74e25275d1936d27">CView</a> (const <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> &amp;view)</td></tr>
 <tr class="separator:a6692134a3539d58a74e25275d1936d27 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_ac193f62cd9b8406c8619b08c01178a9e"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#ac193f62cd9b8406c8619b08c01178a9e">getRuntimeID</a> () const</td></tr>
+<tr class="memdesc:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="mdescLeft">&#160;</td><td class="mdescRight">get the unique runtime ID  <br /></td></tr>
+<tr class="separator:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_a8f9fd0d28b2ae8752a0298ae80e9d867"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a8f9fd0d28b2ae8752a0298ae80e9d867">dispatchEvent</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_event.html">Event</a> &amp;event)</td></tr>
 <tr class="memdesc:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="mdescLeft">&#160;</td><td class="mdescRight">dispatch an event  <br /></td></tr>
 <tr class="separator:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -495,9 +517,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a26e063a1283715eb636531bd26279746 inherit pub_methods_class_v_s_t_g_u_i_1_1_reference_counted"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader">Background Methods</h2></td></tr>
-<tr class="memitem:a87204f62ab31c8c26a9f91b06a02ff1c" id="r_a87204f62ab31c8c26a9f91b06a02ff1c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="#a87204f62ab31c8c26a9f91b06a02ff1cad223ed4690704e56857f33dc7d6dd828">kAutosizeSubviews</a> = 1 &lt;&lt; (CView::kLastCViewFlag + 1)
+<tr class="memitem:a6ad9b74609f44fa8612ac6af01d6ffa5" id="r_a6ad9b74609f44fa8612ac6af01d6ffa5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="#a6ad9b74609f44fa8612ac6af01d6ffa5ad223ed4690704e56857f33dc7d6dd828">kAutosizeSubviews</a> = 1 &lt;&lt; (CView::kLastCViewFlag + 1)
+, <a class="el" href="#a6ad9b74609f44fa8612ac6af01d6ffa5a54f37b41eeae4943c8f49687df48e451">kInApplyLayout</a> = 1 &lt;&lt; (CView::kLastCViewFlag + 2)
  }</td></tr>
-<tr class="separator:a87204f62ab31c8c26a9f91b06a02ff1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a6ad9b74609f44fa8612ac6af01d6ffa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1b62053c6c8c6d9992e862710fd16be8" id="r_a1b62053c6c8c6d9992e862710fd16be8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1b62053c6c8c6d9992e862710fd16be8">ChildViewConstIterator</a> = ViewList::const_iterator</td></tr>
 <tr class="separator:a1b62053c6c8c6d9992e862710fd16be8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acfd450642fe2a9ec6fc7704bbfcd67f4" id="r_acfd450642fe2a9ec6fc7704bbfcd67f4"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#acfd450642fe2a9ec6fc7704bbfcd67f4">ChildViewConstReverseIterator</a> = ViewList::const_reverse_iterator</td></tr>
@@ -521,6 +544,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af301508d4a35e86f8f798efb3b333c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e1cd51f8d477edf1f84a6f951f6cdde" id="r_a6e1cd51f8d477edf1f84a6f951f6cdde"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespace_v_s_t_g_u_i.html#ab2846c8d9448af4748442683624274e3">CDrawStyle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6e1cd51f8d477edf1f84a6f951f6cdde">getBackgroundColorDrawStyle</a> () const</td></tr>
 <tr class="separator:a6e1cd51f8d477edf1f84a6f951f6cdde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9aeb7d27e26ea1a4e51e5cce3270be0e" id="r_a9aeb7d27e26ea1a4e51e5cce3270be0e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9aeb7d27e26ea1a4e51e5cce3270be0e">setInitialFocusView</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> *view)</td></tr>
+<tr class="memdesc:a9aeb7d27e26ea1a4e51e5cce3270be0e"><td class="mdescLeft">&#160;</td><td class="mdescRight">set custom initial focus view which is first focused when advanceNextFocusView is called without oldFocus view  <br /></td></tr>
+<tr class="separator:a9aeb7d27e26ea1a4e51e5cce3270be0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d0bd9f450509853f597a04394bf7d19" id="r_a9d0bd9f450509853f597a04394bf7d19"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9d0bd9f450509853f597a04394bf7d19">getInitialFocusView</a> () const</td></tr>
+<tr class="memdesc:a9d0bd9f450509853f597a04394bf7d19"><td class="mdescLeft">&#160;</td><td class="mdescRight">get custom initial focus view  <br /></td></tr>
+<tr class="separator:a9d0bd9f450509853f597a04394bf7d19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a073394468f30821dc263cd47a845adce" id="r_a073394468f30821dc263cd47a845adce"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a073394468f30821dc263cd47a845adce">advanceNextFocusView</a> (<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> *oldFocus, bool reverse=false)</td></tr>
 <tr class="separator:a073394468f30821dc263cd47a845adce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e04ec0a26733c9f8ebc816aaa25b6b5" id="r_a0e04ec0a26733c9f8ebc816aaa25b6b5"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0e04ec0a26733c9f8ebc816aaa25b6b5">invalidateDirtyViews</a> ()</td></tr>
@@ -628,26 +657,26 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memdesc:a63c089ab257f98278f33085283e17d10"><td class="mdescLeft">&#160;</td><td class="mdescRight">global idle rate in Hz, defaults to 30 Hz  <br /></td></tr>
 <tr class="separator:a63c089ab257f98278f33085283e17d10"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_types_class_v_s_t_g_u_i_1_1_c_view"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pro_types_class_v_s_t_g_u_i_1_1_c_view')"><img src="closed.png" alt="-"/>&#160;Protected Types inherited from <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a></td></tr>
-<tr class="memitem:a845d1cf20a273c49e2db04f153eda990 inherit pro_types_class_v_s_t_g_u_i_1_1_c_view" id="r_a845d1cf20a273c49e2db04f153eda990"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990af815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
+<tr class="memitem:a107d937571dac3ad1daef40da6fadeda inherit pro_types_class_v_s_t_g_u_i_1_1_c_view" id="r_a107d937571dac3ad1daef40da6fadeda"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaaf815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990aaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaaaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990abaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaabaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
 <br />
  }</td></tr>
-<tr class="separator:a845d1cf20a273c49e2db04f153eda990 inherit pro_types_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a107d937571dac3ad1daef40da6fadeda inherit pro_types_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a454a8a59ba8eaa2a54754fbf9b73af9a" id="r_a454a8a59ba8eaa2a54754fbf9b73af9a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a454a8a59ba8eaa2a54754fbf9b73af9a">~CView</a> () noexcept override</td></tr>
 <tr class="separator:a454a8a59ba8eaa2a54754fbf9b73af9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0e32a7aee0d5cf716b3a2b8acd52ac14" id="r_a0e32a7aee0d5cf716b3a2b8acd52ac14"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_c_graphics_path.html">CGraphicsPath</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a0e32a7aee0d5cf716b3a2b8acd52ac14">getHitTestPath</a> () const</td></tr>
@@ -709,8 +738,8 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a87204f62ab31c8c26a9f91b06a02ff1c" name="a87204f62ab31c8c26a9f91b06a02ff1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87204f62ab31c8c26a9f91b06a02ff1c">&#9670;&#160;</a></span>anonymous enum</h2>
+<a id="a6ad9b74609f44fa8612ac6af01d6ffa5" name="a6ad9b74609f44fa8612ac6af01d6ffa5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ad9b74609f44fa8612ac6af01d6ffa5">&#9670;&#160;</a></span>anonymous enum</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -729,7 +758,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a87204f62ab31c8c26a9f91b06a02ff1cad223ed4690704e56857f33dc7d6dd828" name="a87204f62ab31c8c26a9f91b06a02ff1cad223ed4690704e56857f33dc7d6dd828"></a>kAutosizeSubviews&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6ad9b74609f44fa8612ac6af01d6ffa5ad223ed4690704e56857f33dc7d6dd828" name="a6ad9b74609f44fa8612ac6af01d6ffa5ad223ed4690704e56857f33dc7d6dd828"></a>kAutosizeSubviews&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ad9b74609f44fa8612ac6af01d6ffa5a54f37b41eeae4943c8f49687df48e451" name="a6ad9b74609f44fa8612ac6af01d6ffa5a54f37b41eeae4943c8f49687df48e451"></a>kInApplyLayout&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
@@ -928,6 +958,25 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="aef2dc9b7428e4591cb968b705cb424bb" name="aef2dc9b7428e4591cb968b705cb424bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef2dc9b7428e4591cb968b705cb424bb">&#9670;&#160;</a></span>applyViewLayout()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool applyViewLayout </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="struct_v_s_t_g_u_i_1_1_view_layout.html">ViewLayout</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>layout</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>apply a previously calculated view layout </p>
+
+</div>
+</div>
 <a id="a76f492587d04b7310c7ad64a614adbbe" name="a76f492587d04b7310c7ad64a614adbbe"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a76f492587d04b7310c7ad64a614adbbe">&#9670;&#160;</a></span>asViewContainer() <span class="overload">[1/2]</span></h2>
 
@@ -1044,6 +1093,25 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#adc36f3faf62b04701b310c82c0b605a5">CView</a>.</p>
+
+</div>
+</div>
+<a id="a30315f927fc76fa394ac611334ccd10d" name="a30315f927fc76fa394ac611334ccd10d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30315f927fc76fa394ac611334ccd10d">&#9670;&#160;</a></span>calculateViewLayout()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt; <a class="el" href="struct_v_s_t_g_u_i_1_1_view_layout.html">ViewLayout</a> &gt; calculateViewLayout </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="struct_v_s_t_g_u_i_1_1_c_rect.html">CRect</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>newSize</em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>calculate the view layout for the new size </p>
 
 </div>
 </div>
@@ -1235,6 +1303,33 @@ Additional Inherited Members</h2></td></tr>
 </dl>
 
 <p>Reimplemented from <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a99dd83697de62a7f21167d886a94414f">CView</a>.</p>
+
+</div>
+</div>
+<a id="a1a877d92e188e3a6b0891f0f6ce93dad" name="a1a877d92e188e3a6b0891f0f6ce93dad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a877d92e188e3a6b0891f0f6ce93dad">&#9670;&#160;</a></span>findFirstViewIf()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Proc&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> * findFirstViewIf </td>
+          <td>(</td>
+          <td class="paramtype">Proc</td>          <td class="paramname"><span class="paramname"><em>filter</em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -1528,6 +1623,25 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
 
 </div>
 </div>
+<a id="a9d0bd9f450509853f597a04394bf7d19" name="a9d0bd9f450509853f597a04394bf7d19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d0bd9f450509853f597a04394bf7d19">&#9670;&#160;</a></span>getInitialFocusView()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> * getInitialFocusView </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>get custom initial focus view </p>
+
+</div>
+</div>
 <a id="a13468e7a127a2c9acc1d1bed2d4a19ac" name="a13468e7a127a2c9acc1d1bed2d4a19ac"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a13468e7a127a2c9acc1d1bed2d4a19ac">&#9670;&#160;</a></span>getMouseDownView()</h2>
 
@@ -1677,6 +1791,25 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
 
 </div>
 </div>
+<a id="a47784fc62004c1f0fe24dcc73336f8ba" name="a47784fc62004c1f0fe24dcc73336f8ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47784fc62004c1f0fe24dcc73336f8ba">&#9670;&#160;</a></span>getViewLayouter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_v_s_t_g_u_i_1_1_shared_pointer.html">SharedPointer</a>&lt; <a class="el" href="class_v_s_t_g_u_i_1_1_i_view_layouter.html">IViewLayouter</a> &gt; getViewLayouter </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>get the current view layouter </p>
+
+</div>
+</div>
 <a id="a66cb943b8912543b2f7cbf75a88b3768" name="a66cb943b8912543b2f7cbf75a88b3768"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a66cb943b8912543b2f7cbf75a88b3768">&#9670;&#160;</a></span>getViewsAt()</h2>
 
@@ -1819,6 +1952,25 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
 <dl class="section return"><dt>Returns</dt><dd>true if any sub view accepts the hit </dd></dl>
 
 <p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_frame.html#a3f0ab443e2da71397db40c66061ceaa4">CFrame</a>.</p>
+
+</div>
+</div>
+<a id="a76b5b2dd95d5a671ddb51038391c5bc9" name="a76b5b2dd95d5a671ddb51038391c5bc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76b5b2dd95d5a671ddb51038391c5bc9">&#9670;&#160;</a></span>inApplyViewLayout()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool inApplyViewLayout </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>check if a view layout is currently applied </p>
 
 </div>
 </div>
@@ -2628,6 +2780,25 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
 
 </div>
 </div>
+<a id="a9aeb7d27e26ea1a4e51e5cce3270be0e" name="a9aeb7d27e26ea1a4e51e5cce3270be0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9aeb7d27e26ea1a4e51e5cce3270be0e">&#9670;&#160;</a></span>setInitialFocusView()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void setInitialFocusView </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> *</td>          <td class="paramname"><span class="paramname"><em>view</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>set custom initial focus view which is first focused when advanceNextFocusView is called without oldFocus view </p>
+
+</div>
+</div>
 <a id="a7c0478917fe62f7920673bdd80b06e2f" name="a7c0478917fe62f7920673bdd80b06e2f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7c0478917fe62f7920673bdd80b06e2f">&#9670;&#160;</a></span>setMouseDownView()</h2>
 
@@ -2667,6 +2838,26 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a065ecc5c2f6508c39371a18613d0a7a7" name="a065ecc5c2f6508c39371a18613d0a7a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a065ecc5c2f6508c39371a18613d0a7a7">&#9670;&#160;</a></span>setViewLayouter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void setViewLayouter </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="class_v_s_t_g_u_i_1_1_shared_pointer.html">SharedPointer</a>&lt; <a class="el" href="class_v_s_t_g_u_i_1_1_i_view_layouter.html">IViewLayouter</a> &gt; &amp;</td>          <td class="paramname"><span class="paramname"><em>layouter</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>set a view layouter </p>
+<p>Per default the view container has an AutoSizeLayouter set. Use this method to set a custom layouter. To reset the layouter to the default AutoSizeLayouter use setViewLayouter (nullptr). </p>
 
 </div>
 </div>
@@ -2793,7 +2984,7 @@ template&lt;class ViewClass, class ContainerClass&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html">CViewContainer</a></li>
-    <li class="footer">Generated on Fri Jun 13 2025 14:34:43 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 17:24:34 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

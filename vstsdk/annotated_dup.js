@@ -1,8 +1,11 @@
 var annotated_dup =
 [
-    [ "Steinberg", null, [
+    [ "Steinberg", "namespaceSteinberg.html", [
       [ "OneReaderOneWriter", "namespaceSteinberg_1_1OneReaderOneWriter.html", [
         [ "RingBuffer", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html", "classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer" ]
+      ] ],
+      [ "PluginFactoryDetail", "namespaceSteinberg_1_1PluginFactoryDetail.html", [
+        [ "ClassInfo2WithCreateFunc", "structSteinberg_1_1PluginFactoryDetail_1_1ClassInfo2WithCreateFunc.html", "structSteinberg_1_1PluginFactoryDetail_1_1ClassInfo2WithCreateFunc" ]
       ] ],
       [ "Vst", null, [
         [ "InterAppAudio", "namespaceSteinberg_1_1Vst_1_1InterAppAudio.html", [
@@ -93,10 +96,15 @@ var annotated_dup =
       ] ],
       [ "CPluginFactory", "classSteinberg_1_1CPluginFactory.html", "classSteinberg_1_1CPluginFactory" ],
       [ "CPluginView", "classSteinberg_1_1CPluginView.html", "classSteinberg_1_1CPluginView" ],
+      [ "IPluginFactoryInternal", "classSteinberg_1_1IPluginFactoryInternal.html", "classSteinberg_1_1IPluginFactoryInternal" ],
       [ "MemoryStream", "classSteinberg_1_1MemoryStream.html", "classSteinberg_1_1MemoryStream" ],
+      [ "ModuleInfo", "structSteinberg_1_1ModuleInfo.html", "structSteinberg_1_1ModuleInfo" ],
+      [ "ModuleInitializer", "structSteinberg_1_1ModuleInitializer.html", "structSteinberg_1_1ModuleInitializer" ],
+      [ "ModuleTerminator", "structSteinberg_1_1ModuleTerminator.html", "structSteinberg_1_1ModuleTerminator" ],
       [ "ObjCClassBuilder", "structSteinberg_1_1ObjCClassBuilder.html", "structSteinberg_1_1ObjCClassBuilder" ],
       [ "ObjCInstance", "structSteinberg_1_1ObjCInstance.html", "structSteinberg_1_1ObjCInstance" ],
       [ "ObjCVariable", "structSteinberg_1_1ObjCVariable.html", "structSteinberg_1_1ObjCVariable" ],
+      [ "PluginFactory", "classSteinberg_1_1PluginFactory.html", "classSteinberg_1_1PluginFactory" ],
       [ "ResizableMemoryIBStream", "classSteinberg_1_1ResizableMemoryIBStream.html", "classSteinberg_1_1ResizableMemoryIBStream" ]
     ] ],
     [ "VST3", "namespaceVST3.html", [

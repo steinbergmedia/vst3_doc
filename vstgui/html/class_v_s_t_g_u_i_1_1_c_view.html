@@ -117,14 +117,16 @@ $(function(){initNavTree('class_v_s_t_g_u_i_1_1_c_view.html',''); initResizable(
  <div class="center">
   <img src="class_v_s_t_g_u_i_1_1_c_view.png" usemap="#CView_map" alt=""/>
   <map id="CView_map" name="CView_map">
-<area href="class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter." alt="CBaseObject" shape="rect" coords="394,112,581,136"/>
-<area href="class_v_s_t_g_u_i_1_1_reference_counted.html" alt="ReferenceCounted&lt; int32_t &gt;" shape="rect" coords="394,56,581,80"/>
-<area href="class_v_s_t_g_u_i_1_1_i_reference.html" alt="IReference" shape="rect" coords="394,0,581,24"/>
+<area href="class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter." alt="CBaseObject" shape="rect" coords="591,112,778,136"/>
+<area href="class_v_s_t_g_u_i_1_1_reference_counted.html" alt="ReferenceCounted&lt; int32_t &gt;" shape="rect" coords="591,56,778,80"/>
+<area href="class_v_s_t_g_u_i_1_1_i_reference.html" alt="IReference" shape="rect" coords="591,0,778,24"/>
 <area href="class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls" alt="CControl" shape="rect" coords="0,224,187,248"/>
 <area href="class_v_s_t_g_u_i_1_1_c_external_view.html" title="View to embed non CView views into VSTGUI." alt="CExternalView" shape="rect" coords="197,224,384,248"/>
 <area href="class_v_s_t_g_u_i_1_1_c_gradient_view.html" title="View which draws a gradient." alt="CGradientView" shape="rect" coords="394,224,581,248"/>
 <area href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html" title="a subview which uses OpenGL for drawing" alt="COpenGLView" shape="rect" coords="591,224,778,248"/>
 <area href="class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects." alt="CViewContainer" shape="rect" coords="788,224,975,248"/>
+<area href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_line_number_view.html" alt="LineNumberView" shape="rect" coords="985,224,1172,248"/>
+<area href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html" alt="TextEditorView" shape="rect" coords="1182,224,1369,248"/>
 <area href="class_v_s_t_g_u_i_1_1_c_auto_animation.html" alt="CAutoAnimation" shape="rect" coords="197,280,384,304"/>
 <area href="class_v_s_t_g_u_i_1_1_c_check_box.html" title="a check box control with a title and 3 states" alt="CCheckBox" shape="rect" coords="197,336,384,360"/>
 <area href="class_v_s_t_g_u_i_1_1_c_external_control.html" alt="CExternalControl" shape="rect" coords="197,392,384,416"/>
@@ -169,6 +171,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af84b35eac283df7da16c38a665028525"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6692134a3539d58a74e25275d1936d27" id="r_a6692134a3539d58a74e25275d1936d27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a6692134a3539d58a74e25275d1936d27">CView</a> (const <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> &amp;view)</td></tr>
 <tr class="separator:a6692134a3539d58a74e25275d1936d27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac193f62cd9b8406c8619b08c01178a9e" id="r_ac193f62cd9b8406c8619b08c01178a9e"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac193f62cd9b8406c8619b08c01178a9e">getRuntimeID</a> () const</td></tr>
+<tr class="memdesc:ac193f62cd9b8406c8619b08c01178a9e"><td class="mdescLeft">&#160;</td><td class="mdescRight">get the unique runtime ID  <br /></td></tr>
+<tr class="separator:ac193f62cd9b8406c8619b08c01178a9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">Event Handling Methods</div></td></tr>
 <tr class="memitem:a8f9fd0d28b2ae8752a0298ae80e9d867" id="r_a8f9fd0d28b2ae8752a0298ae80e9d867"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8f9fd0d28b2ae8752a0298ae80e9d867">dispatchEvent</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_event.html">Event</a> &amp;event)</td></tr>
 <tr class="memdesc:a8f9fd0d28b2ae8752a0298ae80e9d867"><td class="mdescLeft">&#160;</td><td class="mdescRight">dispatch an event  <br /></td></tr>
@@ -461,26 +466,26 @@ Public Member Functions</h2></td></tr>
 , <a class="el" href="#af16a525744ec0af638fa0a5ac6a983aaacc00c90abd23024acb572073009c2883">MouseCancel</a>
  }</td></tr>
 <tr class="separator:af16a525744ec0af638fa0a5ac6a983aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a845d1cf20a273c49e2db04f153eda990" id="r_a845d1cf20a273c49e2db04f153eda990"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
-&#160;&#160;<a class="el" href="#a845d1cf20a273c49e2db04f153eda990af815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990a5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990a5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990a8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
+<tr class="memitem:a107d937571dac3ad1daef40da6fadeda" id="r_a107d937571dac3ad1daef40da6fadeda"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
+&#160;&#160;<a class="el" href="#a107d937571dac3ad1daef40da6fadedaaf815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaa5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaa5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaa8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
 , <br />
-&#160;&#160;<a class="el" href="#a845d1cf20a273c49e2db04f153eda990a467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990a7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990ad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990aaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
+&#160;&#160;<a class="el" href="#a107d937571dac3ad1daef40da6fadedaa467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaa7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaaaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
 , <br />
-&#160;&#160;<a class="el" href="#a845d1cf20a273c49e2db04f153eda990ae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990a883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990abaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
-, <a class="el" href="#a845d1cf20a273c49e2db04f153eda990ad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
+&#160;&#160;<a class="el" href="#a107d937571dac3ad1daef40da6fadedaae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaa883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaabaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
+, <a class="el" href="#a107d937571dac3ad1daef40da6fadedaad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
 , <br />
-&#160;&#160;<a class="el" href="#a845d1cf20a273c49e2db04f153eda990ae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
+&#160;&#160;<a class="el" href="#a107d937571dac3ad1daef40da6fadedaae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
 <br />
  }</td></tr>
-<tr class="separator:a845d1cf20a273c49e2db04f153eda990"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a107d937571dac3ad1daef40da6fadeda"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0df30518038587d899d5aecbe2ae67e9" id="r_a0df30518038587d899d5aecbe2ae67e9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_v_s_t_g_u_i_1_1_c_graphics_transform.html">CGraphicsTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0df30518038587d899d5aecbe2ae67e9">getGlobalTransform</a> (bool ignoreFrame=false) const</td></tr>
 <tr class="memdesc:a0df30518038587d899d5aecbe2ae67e9"><td class="mdescLeft">&#160;</td><td class="mdescRight">get the active global transform for this view  <br /></td></tr>
 <tr class="separator:a0df30518038587d899d5aecbe2ae67e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -588,8 +593,8 @@ Public Member Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Base Class of all view objects. </p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a845d1cf20a273c49e2db04f153eda990" name="a845d1cf20a273c49e2db04f153eda990"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a845d1cf20a273c49e2db04f153eda990">&#9670;&#160;</a></span>anonymous enum</h2>
+<a id="a107d937571dac3ad1daef40da6fadeda" name="a107d937571dac3ad1daef40da6fadeda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a107d937571dac3ad1daef40da6fadeda">&#9670;&#160;</a></span>anonymous enum</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -608,19 +613,19 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990af815c6658f186f61d4d470c0cb27d644" name="a845d1cf20a273c49e2db04f153eda990af815c6658f186f61d4d470c0cb27d644"></a>kMouseEnabled&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a5f88561245310f95ca2378de395032bf" name="a845d1cf20a273c49e2db04f153eda990a5f88561245310f95ca2378de395032bf"></a>kTransparencyEnabled&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a5d9a3e9a25641ce501a85442aa03acfc" name="a845d1cf20a273c49e2db04f153eda990a5d9a3e9a25641ce501a85442aa03acfc"></a>kWantsFocus&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a8f0de4366b1cec5b7ae0ea95030873b7" name="a845d1cf20a273c49e2db04f153eda990a8f0de4366b1cec5b7ae0ea95030873b7"></a>kIsAttached&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a467d3c826337f7a7da73feb9fa99af0d" name="a845d1cf20a273c49e2db04f153eda990a467d3c826337f7a7da73feb9fa99af0d"></a>kVisible&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a7bc457f304bba59d89efe7d5f84628aa" name="a845d1cf20a273c49e2db04f153eda990a7bc457f304bba59d89efe7d5f84628aa"></a>kDirty&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990ad2be0e301b3803dd994529ac5e5ca329" name="a845d1cf20a273c49e2db04f153eda990ad2be0e301b3803dd994529ac5e5ca329"></a>kWantsIdle&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990aaa3bf20265b91126912a369a4d828e64" name="a845d1cf20a273c49e2db04f153eda990aaa3bf20265b91126912a369a4d828e64"></a>kIsSubview&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990ae424efe0969decd8b517a31b96bfe191" name="a845d1cf20a273c49e2db04f153eda990ae424efe0969decd8b517a31b96bfe191"></a>kHasAlpha&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990a883efa958f4947c5cd5c6f3c331990da" name="a845d1cf20a273c49e2db04f153eda990a883efa958f4947c5cd5c6f3c331990da"></a>kHasBackground&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990abaa9a5b6efa6c8e5a5ad8bf07938d151" name="a845d1cf20a273c49e2db04f153eda990abaa9a5b6efa6c8e5a5ad8bf07938d151"></a>kHasDisabledBackground&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990ad12f85df89e075e62a7d9c90c09c7e7d" name="a845d1cf20a273c49e2db04f153eda990ad12f85df89e075e62a7d9c90c09c7e7d"></a>kHasMouseableArea&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a845d1cf20a273c49e2db04f153eda990ae8b75a5d568c53d9f8117dbb8e149f56" name="a845d1cf20a273c49e2db04f153eda990ae8b75a5d568c53d9f8117dbb8e149f56"></a>kLastCViewFlag&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaaf815c6658f186f61d4d470c0cb27d644" name="a107d937571dac3ad1daef40da6fadedaaf815c6658f186f61d4d470c0cb27d644"></a>kMouseEnabled&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa5f88561245310f95ca2378de395032bf" name="a107d937571dac3ad1daef40da6fadedaa5f88561245310f95ca2378de395032bf"></a>kTransparencyEnabled&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa5d9a3e9a25641ce501a85442aa03acfc" name="a107d937571dac3ad1daef40da6fadedaa5d9a3e9a25641ce501a85442aa03acfc"></a>kWantsFocus&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa8f0de4366b1cec5b7ae0ea95030873b7" name="a107d937571dac3ad1daef40da6fadedaa8f0de4366b1cec5b7ae0ea95030873b7"></a>kIsAttached&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa467d3c826337f7a7da73feb9fa99af0d" name="a107d937571dac3ad1daef40da6fadedaa467d3c826337f7a7da73feb9fa99af0d"></a>kVisible&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa7bc457f304bba59d89efe7d5f84628aa" name="a107d937571dac3ad1daef40da6fadedaa7bc457f304bba59d89efe7d5f84628aa"></a>kDirty&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaad2be0e301b3803dd994529ac5e5ca329" name="a107d937571dac3ad1daef40da6fadedaad2be0e301b3803dd994529ac5e5ca329"></a>kWantsIdle&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaaaa3bf20265b91126912a369a4d828e64" name="a107d937571dac3ad1daef40da6fadedaaaa3bf20265b91126912a369a4d828e64"></a>kIsSubview&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaae424efe0969decd8b517a31b96bfe191" name="a107d937571dac3ad1daef40da6fadedaae424efe0969decd8b517a31b96bfe191"></a>kHasAlpha&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaa883efa958f4947c5cd5c6f3c331990da" name="a107d937571dac3ad1daef40da6fadedaa883efa958f4947c5cd5c6f3c331990da"></a>kHasBackground&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaabaa9a5b6efa6c8e5a5ad8bf07938d151" name="a107d937571dac3ad1daef40da6fadedaabaa9a5b6efa6c8e5a5ad8bf07938d151"></a>kHasDisabledBackground&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaad12f85df89e075e62a7d9c90c09c7e7d" name="a107d937571dac3ad1daef40da6fadedaad12f85df89e075e62a7d9c90c09c7e7d"></a>kHasMouseableArea&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a107d937571dac3ad1daef40da6fadedaae8b75a5d568c53d9f8117dbb8e149f56" name="a107d937571dac3ad1daef40da6fadedaae8b75a5d568c53d9f8117dbb8e149f56"></a>kLastCViewFlag&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
@@ -875,7 +880,7 @@ Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if view successfully attached to parent </dd></dl>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_animation.html#a522467127f90bd5e2a6856e09b1b7bf2">CAutoAnimation</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CAutoLayoutContainerView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#a522467127f90bd5e2a6856e09b1b7bf2">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a522467127f90bd5e2a6856e09b1b7bf2">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_font_chooser.html#a522467127f90bd5e2a6856e09b1b7bf2">CFontChooser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_frame.html#a522467127f90bd5e2a6856e09b1b7bf2">CFrame</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#a522467127f90bd5e2a6856e09b1b7bf2">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a522467127f90bd5e2a6856e09b1b7bf2">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#a522467127f90bd5e2a6856e09b1b7bf2">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CShadowViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_split_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CSplitView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a522467127f90bd5e2a6856e09b1b7bf2">UIViewSwitchContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_animation.html#a522467127f90bd5e2a6856e09b1b7bf2">CAutoAnimation</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CAutoLayoutContainerView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#a522467127f90bd5e2a6856e09b1b7bf2">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a522467127f90bd5e2a6856e09b1b7bf2">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_font_chooser.html#a522467127f90bd5e2a6856e09b1b7bf2">CFontChooser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_frame.html#a522467127f90bd5e2a6856e09b1b7bf2">CFrame</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#a522467127f90bd5e2a6856e09b1b7bf2">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a522467127f90bd5e2a6856e09b1b7bf2">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_scroll_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CScrollView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#a522467127f90bd5e2a6856e09b1b7bf2">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CShadowViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_split_view.html#a522467127f90bd5e2a6856e09b1b7bf2">CSplitView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a522467127f90bd5e2a6856e09b1b7bf2">CViewContainer</a>, <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a522467127f90bd5e2a6856e09b1b7bf2">TextEditorView</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a522467127f90bd5e2a6856e09b1b7bf2">UIViewSwitchContainer</a>.</p>
 
 </div>
 </div>
@@ -904,7 +909,7 @@ Public Member Functions</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="class_v_s_t_g_u_i_1_1_reference_counted.html">ReferenceCounted&lt; int32_t &gt;</a>.</p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#adc36f3faf62b04701b310c82c0b605a5">CViewContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#adc36f3faf62b04701b310c82c0b605a5">CViewContainer</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#adc36f3faf62b04701b310c82c0b605a5">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -1141,7 +1146,7 @@ Public Member Functions</h2></td></tr>
 
 <p>called if the view should draw itself </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_frame.html#ac3627a2e2abcfe4e6df2a77e4829446a">CFrame</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#af62e08db33b12acfd7b3a1a20273ab82">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_multi_line_text_label.html#ac3627a2e2abcfe4e6df2a77e4829446a">CMultiLineTextLabel</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#ac2a2a556e5bcbb5fa1940bac820033f9">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CShadowViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CViewContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_frame.html#ac3627a2e2abcfe4e6df2a77e4829446a">CFrame</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#af62e08db33b12acfd7b3a1a20273ab82">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_multi_line_text_label.html#ac3627a2e2abcfe4e6df2a77e4829446a">CMultiLineTextLabel</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#ac2a2a556e5bcbb5fa1940bac820033f9">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CShadowViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ac3627a2e2abcfe4e6df2a77e4829446a">CViewContainer</a>, <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_line_number_view.html#ab00bb2197a0645bf5c5d2258129c708c">LineNumberView</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#ac2a2a556e5bcbb5fa1940bac820033f9">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -1615,6 +1620,25 @@ template&lt;typename T&gt; </div>
 
 </div>
 </div>
+<a id="ac193f62cd9b8406c8619b08c01178a9e" name="ac193f62cd9b8406c8619b08c01178a9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac193f62cd9b8406c8619b08c01178a9e">&#9670;&#160;</a></span>getRuntimeID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint64_t getRuntimeID </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>get the unique runtime ID </p>
+
+</div>
+</div>
 <a id="acd651f4659936e2f70f1d0e3605053d3" name="acd651f4659936e2f70f1d0e3605053d3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acd651f4659936e2f70f1d0e3605053d3">&#9670;&#160;</a></span>getTransparency()</h2>
 
@@ -2047,7 +2071,7 @@ template&lt;typename T&gt; </div>
 
 <p>called if view should loose focus </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a2de7626768ecec0e243c39a7e02ab7e7">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a2de7626768ecec0e243c39a7e02ab7e7">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#a2de7626768ecec0e243c39a7e02ab7e7">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#a2de7626768ecec0e243c39a7e02ab7e7">CTextEdit</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a2de7626768ecec0e243c39a7e02ab7e7">CViewContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a2de7626768ecec0e243c39a7e02ab7e7">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a2de7626768ecec0e243c39a7e02ab7e7">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#a2de7626768ecec0e243c39a7e02ab7e7">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#a2de7626768ecec0e243c39a7e02ab7e7">CTextEdit</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a2de7626768ecec0e243c39a7e02ab7e7">CViewContainer</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a2de7626768ecec0e243c39a7e02ab7e7">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2172,7 +2196,7 @@ template&lt;typename T&gt; </div>
 <p>called when a keyboard event is dispatched to this view </p>
 <p>This happens normally only if the view is the focus view. </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_check_box.html#abbed291f472ef9b036974c0c584043cb">CCheckBox</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#abbed291f472ef9b036974c0c584043cb">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_font_chooser.html#abbed291f472ef9b036974c0c584043cb">CFontChooser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#abbed291f472ef9b036974c0c584043cb">CHorizontalSwitch</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_kick_button.html#abbed291f472ef9b036974c0c584043cb">CKickButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_knob_base.html#abbed291f472ef9b036974c0c584043cb">CKnobBase</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#abbed291f472ef9b036974c0c584043cb">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_movie_button.html#abbed291f472ef9b036974c0c584043cb">CMovieButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_on_off_button.html#abbed291f472ef9b036974c0c584043cb">COnOffButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#abbed291f472ef9b036974c0c584043cb">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_rocker_switch.html#abbed291f472ef9b036974c0c584043cb">CRockerSwitch</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#abbed291f472ef9b036974c0c584043cb">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_slider_base.html#abbed291f472ef9b036974c0c584043cb">CSliderBase</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_button.html#abbed291f472ef9b036974c0c584043cb">CTextButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#abbed291f472ef9b036974c0c584043cb">CTextEdit</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_vertical_switch.html#abbed291f472ef9b036974c0c584043cb">CVerticalSwitch</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#abbed291f472ef9b036974c0c584043cb">CXYPad</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_check_box.html#abbed291f472ef9b036974c0c584043cb">CCheckBox</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#abbed291f472ef9b036974c0c584043cb">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_font_chooser.html#abbed291f472ef9b036974c0c584043cb">CFontChooser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#abbed291f472ef9b036974c0c584043cb">CHorizontalSwitch</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_kick_button.html#abbed291f472ef9b036974c0c584043cb">CKickButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_knob_base.html#abbed291f472ef9b036974c0c584043cb">CKnobBase</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_list_control.html#abbed291f472ef9b036974c0c584043cb">CListControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_movie_button.html#abbed291f472ef9b036974c0c584043cb">CMovieButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_on_off_button.html#abbed291f472ef9b036974c0c584043cb">COnOffButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#abbed291f472ef9b036974c0c584043cb">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_rocker_switch.html#abbed291f472ef9b036974c0c584043cb">CRockerSwitch</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_segment_button.html#abbed291f472ef9b036974c0c584043cb">CSegmentButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_slider_base.html#abbed291f472ef9b036974c0c584043cb">CSliderBase</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_button.html#abbed291f472ef9b036974c0c584043cb">CTextButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#abbed291f472ef9b036974c0c584043cb">CTextEdit</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_vertical_switch.html#abbed291f472ef9b036974c0c584043cb">CVerticalSwitch</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#abbed291f472ef9b036974c0c584043cb">CXYPad</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#abbed291f472ef9b036974c0c584043cb">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2299,7 +2323,7 @@ template&lt;typename T&gt; </div>
 
 <p>called when mouse tracking should be canceled </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ab7f753e4c03d4562d4f27d650dac6675">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ab7f753e4c03d4562d4f27d650dac6675">CXYPad</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ab7f753e4c03d4562d4f27d650dac6675">CViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ab7f753e4c03d4562d4f27d650dac6675">CXYPad</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#ab7f753e4c03d4562d4f27d650dac6675">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2370,7 +2394,7 @@ template&lt;typename T&gt; </div>
 
 <p>called when a mouse down event occurs </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#afc32c7ac88bd9948cca6789bbf4ddc36">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#afc32c7ac88bd9948cca6789bbf4ddc36">CXYPad</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#afc32c7ac88bd9948cca6789bbf4ddc36">CViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#afc32c7ac88bd9948cca6789bbf4ddc36">CXYPad</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#afc32c7ac88bd9948cca6789bbf4ddc36">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2433,6 +2457,8 @@ template&lt;typename T&gt; </div>
 
 <p>called when the mouse enters this view </p>
 
+<p>Reimplemented in <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a7e24a3f1602c981fe3c4fbcf56b159de">TextEditorView</a>.</p>
+
 </div>
 </div>
 <a id="aaf4840c33720f1498739f317d85a8cc4" name="aaf4840c33720f1498739f317d85a8cc4"></a>
@@ -2493,6 +2519,8 @@ template&lt;typename T&gt; </div>
 </div><div class="memdoc">
 
 <p>called when the mouse leaves this view </p>
+
+<p>Reimplemented in <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a8cec75a4ae131acbd719b3adc8bde94d">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2563,7 +2591,7 @@ template&lt;typename T&gt; </div>
 
 <p>called when a mouse move event occurs </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a7650cef0ca46ffc1ca39c1e3cfd53ad9">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#a7650cef0ca46ffc1ca39c1e3cfd53ad9">CXYPad</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a7650cef0ca46ffc1ca39c1e3cfd53ad9">CViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#a7650cef0ca46ffc1ca39c1e3cfd53ad9">CXYPad</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a7650cef0ca46ffc1ca39c1e3cfd53ad9">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2634,7 +2662,7 @@ template&lt;typename T&gt; </div>
 
 <p>called when a mouse up event occurs </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a46ee9317eafa754b4dbb922f90e442f2">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#a46ee9317eafa754b4dbb922f90e442f2">CXYPad</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a46ee9317eafa754b4dbb922f90e442f2">CViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_x_y_pad.html#a46ee9317eafa754b4dbb922f90e442f2">CXYPad</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a46ee9317eafa754b4dbb922f90e442f2">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2835,7 +2863,7 @@ template&lt;typename T&gt; </div>
 
 <p>notification that one of the views parent has changed its size </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CTextEdit</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CViewContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CTextEdit</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">CViewContainer</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#afc5cbc672fb3b31e9a63b3f1d34f4c65">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -2975,7 +3003,7 @@ template&lt;typename T&gt; </div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if view successfully removed from parent </dd></dl>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_animation.html#a157ad241be4354121739aac80cf3cd3d">CAutoAnimation</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#a157ad241be4354121739aac80cf3cd3d">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a157ad241be4354121739aac80cf3cd3d">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a157ad241be4354121739aac80cf3cd3d">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a157ad241be4354121739aac80cf3cd3d">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a157ad241be4354121739aac80cf3cd3d">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_param_display.html#a157ad241be4354121739aac80cf3cd3d">CParamDisplay</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a157ad241be4354121739aac80cf3cd3d">CShadowViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_split_view.html#a157ad241be4354121739aac80cf3cd3d">CSplitView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_button.html#a157ad241be4354121739aac80cf3cd3d">CTextButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a157ad241be4354121739aac80cf3cd3d">CViewContainer</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a157ad241be4354121739aac80cf3cd3d">UIViewSwitchContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_auto_animation.html#a157ad241be4354121739aac80cf3cd3d">CAutoAnimation</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_data_browser.html#a157ad241be4354121739aac80cf3cd3d">CDataBrowser</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#a157ad241be4354121739aac80cf3cd3d">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#a157ad241be4354121739aac80cf3cd3d">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a157ad241be4354121739aac80cf3cd3d">CLayeredViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a157ad241be4354121739aac80cf3cd3d">COpenGLView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_param_display.html#a157ad241be4354121739aac80cf3cd3d">CParamDisplay</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a157ad241be4354121739aac80cf3cd3d">CShadowViewContainer</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_split_view.html#a157ad241be4354121739aac80cf3cd3d">CSplitView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_button.html#a157ad241be4354121739aac80cf3cd3d">CTextButton</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#a157ad241be4354121739aac80cf3cd3d">CViewContainer</a>, <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#a157ad241be4354121739aac80cf3cd3d">TextEditorView</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a157ad241be4354121739aac80cf3cd3d">UIViewSwitchContainer</a>.</p>
 
 </div>
 </div>
@@ -3642,7 +3670,7 @@ template&lt;typename T&gt; </div>
 
 <p>called if view should take focus </p>
 
-<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#ad61c7e26801ed8a83174b554e75e5010">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#ad61c7e26801ed8a83174b554e75e5010">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#ad61c7e26801ed8a83174b554e75e5010">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#ad61c7e26801ed8a83174b554e75e5010">CTextEdit</a>, and <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ad61c7e26801ed8a83174b554e75e5010">CViewContainer</a>.</p>
+<p>Reimplemented in <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_control.html#ad61c7e26801ed8a83174b554e75e5010">CExternalControl</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_external_view.html#ad61c7e26801ed8a83174b554e75e5010">CExternalView</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_option_menu.html#ad61c7e26801ed8a83174b554e75e5010">COptionMenu</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_text_edit.html#ad61c7e26801ed8a83174b554e75e5010">CTextEdit</a>, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view_container.html#ad61c7e26801ed8a83174b554e75e5010">CViewContainer</a>, and <a class="el" href="struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#ad61c7e26801ed8a83174b554e75e5010">TextEditorView</a>.</p>
 
 </div>
 </div>
@@ -3972,7 +4000,7 @@ template&lt;typename T&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a></li>
-    <li class="footer">Generated on Fri Jun 13 2025 14:34:43 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 17:24:34 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

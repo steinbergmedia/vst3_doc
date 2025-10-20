@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['platform_20ui_20types_0',['Platform UI Types',['../group__platformUIType.html',1,'']]]
+  ['interface_0',['Graphical User Interface',['../group__pluginGUI.html',1,'']]],
+  ['interfaces_1',['Basic Interfaces',['../group__pluginBase.html',1,'']]]
 ];

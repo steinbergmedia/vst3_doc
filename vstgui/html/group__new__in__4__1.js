@@ -175,6 +175,7 @@ var group__new__in__4__1 =
       [ "margin", "class_v_s_t_g_u_i_1_1_c_row_column_view.html#ac75fc835ed41509adc9eee92b2ae3fe5", null ],
       [ "spacing", "class_v_s_t_g_u_i_1_1_c_row_column_view.html#a3e972ac45d440d7fa0c279f69b4a4f43", null ],
       [ "style", "class_v_s_t_g_u_i_1_1_c_row_column_view.html#a4b798253dd80ae013643a26e88e2bf6a", null ],
+      [ "ViewAnimatesResizingAttr", "class_v_s_t_g_u_i_1_1_c_row_column_view.html#a5babd43e686665dce926b73fcb9f7ba6", null ],
       [ "viewResizeAnimationTime", "class_v_s_t_g_u_i_1_1_c_row_column_view.html#a2cdfd0f81c97aaded87f0754b9ec162d", null ]
     ] ],
     [ "CShadowViewContainer", "class_v_s_t_g_u_i_1_1_c_shadow_view_container.html", [

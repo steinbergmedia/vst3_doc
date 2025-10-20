@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -153,9 +153,9 @@ Macros</h2></td></tr>
 <div class="line">            TestService::newInstance)</div>
 <div class="line"><a class="code hl_define" href="#ga962bbf29e9f424c00fd43493fb8f9489">END_FACTORY</a></div>
 <div class="ttc" id="afunknown_8h_html_a8024fad3ea7ecdd1ab3221d15e04aa52"><div class="ttname"><a href="../base/funknown_8h.html#a8024fad3ea7ecdd1ab3221d15e04aa52">INLINE_UID</a></div><div class="ttdeci">#define INLINE_UID(l1, l2, l3, l4)</div></div>
-<div class="ttc" id="agroup__classFactoryMacros_html_ga24a0ad042738fc4de8c584cfb7759669"><div class="ttname"><a href="#ga24a0ad042738fc4de8c584cfb7759669">BEGIN_FACTORY</a></div><div class="ttdeci">#define BEGIN_FACTORY(vendor, url, email, flags)</div><div class="ttdef"><b>Definition</b> pluginfactory.h:145</div></div>
-<div class="ttc" id="agroup__classFactoryMacros_html_ga962bbf29e9f424c00fd43493fb8f9489"><div class="ttname"><a href="#ga962bbf29e9f424c00fd43493fb8f9489">END_FACTORY</a></div><div class="ttdeci">#define END_FACTORY</div><div class="ttdef"><b>Definition</b> pluginfactory.h:171</div></div>
-<div class="ttc" id="agroup__classFactoryMacros_html_gaae295af1798ff7bd4e2eaa31978142b3"><div class="ttname"><a href="#gaae295af1798ff7bd4e2eaa31978142b3">DEF_CLASS</a></div><div class="ttdeci">#define DEF_CLASS(cid, cardinality, category, name, createMethod)</div><div class="ttdef"><b>Definition</b> pluginfactory.h:151</div></div>
+<div class="ttc" id="agroup__classFactoryMacros_html_ga24a0ad042738fc4de8c584cfb7759669"><div class="ttname"><a href="#ga24a0ad042738fc4de8c584cfb7759669">BEGIN_FACTORY</a></div><div class="ttdeci">#define BEGIN_FACTORY(vendor, url, email, flags)</div><div class="ttdef"><b>Definition</b> pluginfactory.h:143</div></div>
+<div class="ttc" id="agroup__classFactoryMacros_html_ga962bbf29e9f424c00fd43493fb8f9489"><div class="ttname"><a href="#ga962bbf29e9f424c00fd43493fb8f9489">END_FACTORY</a></div><div class="ttdeci">#define END_FACTORY</div><div class="ttdef"><b>Definition</b> pluginfactory.h:169</div></div>
+<div class="ttc" id="agroup__classFactoryMacros_html_gaae295af1798ff7bd4e2eaa31978142b3"><div class="ttname"><a href="#gaae295af1798ff7bd4e2eaa31978142b3">DEF_CLASS</a></div><div class="ttdeci">#define DEF_CLASS(cid, cardinality, category, name, createMethod)</div><div class="ttdef"><b>Definition</b> pluginfactory.h:149</div></div>
 </div><!-- fragment --> <h2 class="groupheader">Macro Definition Documentation</h2>
 <a id="ga24772621f55b42b9cdc3920b7e73f4dd" name="ga24772621f55b42b9cdc3920b7e73f4dd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ga24772621f55b42b9cdc3920b7e73f4dd">&#9670;&#160;</a></span>BEGIN_FACTORY_CLASS</h2>
@@ -190,15 +190,15 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">using namespace </span><a class="code hl_namespaceRef" href="../base/namespaceSteinberg.html">Steinberg</a>; \</div>
+<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">using namespace </span><a class="code hl_namespace" href="namespaceSteinberg.html">Steinberg</a>; \</div>
 <div class="line">    SMTG_EXPORT_SYMBOL <a class="code hl_classRef" href="../base/classSteinberg_1_1IPluginFactory.html">IPluginFactory</a>* PLUGIN_API <a class="code hl_functionRef" href="../base/group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce">GetPluginFactory</a> () { \</div>
-<div class="line">    if (!<a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a>) \</div>
+<div class="line">    if (!<a class="code hl_variable" href="namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a>) \</div>
 <div class="line">    {   <span class="keyword">static</span> <a class="code hl_structRef" href="../base/structSteinberg_1_1PFactoryInfo.html">PFactoryInfo</a> factoryInfo (vendor,url,email,flags); \</div>
-<div class="line">    <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a> = <span class="keyword">new</span> FactoryClass (factoryInfo); \</div>
+<div class="line">    <a class="code hl_variable" href="namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a> = <span class="keyword">new</span> FactoryClass (factoryInfo); \</div>
 <div class="ttc" id="aclassSteinberg_1_1IPluginFactory_html"><div class="ttname"><a href="../base/classSteinberg_1_1IPluginFactory.html">Steinberg::IPluginFactory</a></div></div>
 <div class="ttc" id="agroup__pluginBase_html_gaa032a4a5e821cf7c490a99d3e7d5e9ce"><div class="ttname"><a href="../base/group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce">GetPluginFactory</a></div><div class="ttdeci">SMTG_EXPORT_SYMBOL Steinberg::IPluginFactory * GetPluginFactory()</div></div>
-<div class="ttc" id="anamespaceSteinberg_html"><div class="ttname"><a href="../base/namespaceSteinberg.html">Steinberg</a></div></div>
-<div class="ttc" id="anamespaceSteinberg_html_a8424a16f6b47419c0c3bb4b7b1374d81"><div class="ttname"><a href="../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">Steinberg::gPluginFactory</a></div><div class="ttdeci">CPluginFactory * gPluginFactory</div></div>
+<div class="ttc" id="anamespaceSteinberg_html"><div class="ttname"><a href="namespaceSteinberg.html">Steinberg</a></div><div class="ttdoc">A replacement for InitModule and DeinitModule.</div></div>
+<div class="ttc" id="anamespaceSteinberg_html_a8424a16f6b47419c0c3bb4b7b1374d81"><div class="ttname"><a href="namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">Steinberg::gPluginFactory</a></div><div class="ttdeci">CPluginFactory * gPluginFactory</div></div>
 <div class="ttc" id="astructSteinberg_1_1PFactoryInfo_html"><div class="ttname"><a href="../base/structSteinberg_1_1PFactoryInfo.html">Steinberg::PFactoryInfo</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -231,12 +231,12 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">using namespace </span><a class="code hl_namespaceRef" href="../base/namespaceSteinberg.html">Steinberg</a>; \</div>
+<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">using namespace </span><a class="code hl_namespace" href="namespaceSteinberg.html">Steinberg</a>; \</div>
 <div class="line">    SMTG_EXPORT_SYMBOL <a class="code hl_classRef" href="../base/classSteinberg_1_1IPluginFactory.html">IPluginFactory</a>* PLUGIN_API <a class="code hl_functionRef" href="../base/group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce">GetPluginFactory</a> () { \</div>
-<div class="line">    if (!<a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a>) \</div>
+<div class="line">    if (!<a class="code hl_variable" href="namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a>) \</div>
 <div class="line">    {   <span class="keyword">static</span> <a class="code hl_structRef" href="../base/structSteinberg_1_1PFactoryInfo.html">PFactoryInfo</a> factoryInfo (vendor,url,email,flags); \</div>
-<div class="line">        <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a> = <span class="keyword">new</span> <a class="code hl_class" href="classSteinberg_1_1CPluginFactory.html">CPluginFactory</a> (factoryInfo); \</div>
-<div class="ttc" id="aclassSteinberg_1_1CPluginFactory_html"><div class="ttname"><a href="classSteinberg_1_1CPluginFactory.html">Steinberg::CPluginFactory</a></div><div class="ttdoc">Default Class Factory implementation.</div><div class="ttdef"><b>Definition</b> pluginfactory.h:49</div></div>
+<div class="line">        <a class="code hl_variable" href="namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a> = <span class="keyword">new</span> <a class="code hl_class" href="classSteinberg_1_1CPluginFactory.html">CPluginFactory</a> (factoryInfo); \</div>
+<div class="ttc" id="aclassSteinberg_1_1CPluginFactory_html"><div class="ttname"><a href="classSteinberg_1_1CPluginFactory.html">Steinberg::CPluginFactory</a></div><div class="ttdoc">Default Class Factory implementation.</div><div class="ttdef"><b>Definition</b> pluginfactory.h:42</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -563,23 +563,23 @@ Macros</h2></td></tr>
 </div><div class="memdoc">
 <b>Value:</b><div class="fragment"><div class="line">    {                                                                                             \</div>
 <div class="line">        {                                                                                         \</div>
-<div class="line">            <span class="keyword">const</span> <a class="code hl_typedefRef" href="../base/namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a> lcid = processorCID;                                            \</div>
+<div class="line">            <span class="keyword">const</span> <a class="code hl_typedefRef" href="../base/group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a> lcid = processorCID;                                            \</div>
 <div class="line">            <span class="keyword">static</span> <a class="code hl_structRef" href="../base/structSteinberg_1_1PClassInfo2.html">Steinberg::PClassInfo2</a> processorClass (                                        \</div>
 <div class="line">                lcid, <a class="code hl_variableRef" href="../base/structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2">Steinberg::PClassInfo::kManyInstances</a>, <a class="code hl_defineRef" href="../vstinterfaces/ivstaudioprocessor_8h.html#ae55c95a44e931e1cd78998c94bc65ee1">kVstAudioEffectClass</a>, pluginName,    \</div>
 <div class="line">                classFlags, pluginVst3Categories, 0, pluginVersion, <a class="code hl_defineRef" href="../vstinterfaces/vsttypes_8h.html#aced0665aaa99dc2ccc0a6b793710f60b">kVstVersionString</a>);           \</div>
 <div class="line">            gPluginFactory-&gt;<a class="code hl_function" href="classSteinberg_1_1CPluginFactory.html#a1dc6a662d90baccc5157fc79eac046f6">registerClass</a> (&amp;processorClass, processorCreateFunc);                 \</div>
 <div class="line">        }                                                                                         \</div>
 <div class="line">        {                                                                                         \</div>
-<div class="line">            <span class="keyword">const</span> <a class="code hl_typedefRef" href="../base/namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a> lcid = controllerCID;                                           \</div>
+<div class="line">            <span class="keyword">const</span> <a class="code hl_typedefRef" href="../base/group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a> lcid = controllerCID;                                           \</div>
 <div class="line">            <span class="keyword">static</span> <a class="code hl_structRef" href="../base/structSteinberg_1_1PClassInfo2.html">Steinberg::PClassInfo2</a> controllerClass (                                       \</div>
 <div class="line">                lcid, <a class="code hl_variableRef" href="../base/structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2">Steinberg::PClassInfo::kManyInstances</a>, <a class="code hl_defineRef" href="../vstinterfaces/ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99">kVstComponentControllerClass</a>,        \</div>
 <div class="line">                pluginName, 0, <span class="stringliteral">&quot;&quot;</span>, 0, pluginVersion, <a class="code hl_defineRef" href="../vstinterfaces/vsttypes_8h.html#aced0665aaa99dc2ccc0a6b793710f60b">kVstVersionString</a>);                          \</div>
 <div class="line">            gPluginFactory-&gt;<a class="code hl_function" href="classSteinberg_1_1CPluginFactory.html#a1dc6a662d90baccc5157fc79eac046f6">registerClass</a> (&amp;controllerClass, controllerCreateFunc);               \</div>
 <div class="line">        }                                                                                         \</div>
 <div class="line">    }</div>
+<div class="ttc" id="agroup__pluginBase_html_ga6935af93744bfe4ecc455f274ef1ec36"><div class="ttname"><a href="../base/group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a></div><div class="ttdeci">char TUID[16]</div></div>
 <div class="ttc" id="aivstaudioprocessor_8h_html_ae55c95a44e931e1cd78998c94bc65ee1"><div class="ttname"><a href="../vstinterfaces/ivstaudioprocessor_8h.html#ae55c95a44e931e1cd78998c94bc65ee1">kVstAudioEffectClass</a></div><div class="ttdeci">#define kVstAudioEffectClass</div></div>
 <div class="ttc" id="aivsteditcontroller_8h_html_a49d6f6f53c7630ea334474e9998c0a99"><div class="ttname"><a href="../vstinterfaces/ivsteditcontroller_8h.html#a49d6f6f53c7630ea334474e9998c0a99">kVstComponentControllerClass</a></div><div class="ttdeci">#define kVstComponentControllerClass</div></div>
-<div class="ttc" id="anamespaceSteinberg_html_a6935af93744bfe4ecc455f274ef1ec36"><div class="ttname"><a href="../base/namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36">Steinberg::TUID</a></div><div class="ttdeci">char TUID[16]</div></div>
 <div class="ttc" id="astructSteinberg_1_1PClassInfo2_html"><div class="ttname"><a href="../base/structSteinberg_1_1PClassInfo2.html">Steinberg::PClassInfo2</a></div></div>
 <div class="ttc" id="astructSteinberg_1_1PClassInfo_html_aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2"><div class="ttname"><a href="../base/structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeecea5cd6f16a8a935a43a15d03e4c50782f2">Steinberg::PClassInfo::kManyInstances</a></div><div class="ttdeci">kManyInstances</div></div>
 <div class="ttc" id="avsttypes_8h_html_aced0665aaa99dc2ccc0a6b793710f60b"><div class="ttname"><a href="../vstinterfaces/vsttypes_8h.html#aced0665aaa99dc2ccc0a6b793710f60b">kVstVersionString</a></div><div class="ttdeci">#define kVstVersionString</div></div>

@@ -31,7 +31,6 @@ var group__controls =
       [ "onKeyboardEvent", "class_v_s_t_g_u_i_1_1_c_data_browser.html#abbed291f472ef9b036974c0c584043cb", null ],
       [ "onMouseDown", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a5dd3200e872b6337fa6eefe9599dd596", null ],
       [ "recalculateLayout", "class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba", null ],
-      [ "recalculateSubViews", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a23f1fe0d2709f43dbe62f0d5d78aa85e", null ],
       [ "removed", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a157ad241be4354121739aac80cf3cd3d", null ],
       [ "selectRow", "class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229", null ],
       [ "setAutosizeFlags", "class_v_s_t_g_u_i_1_1_c_data_browser.html#ae636961f473c40033bf1edc1468f237f", null ],
@@ -98,7 +97,8 @@ var group__controls =
     [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html", [
       [ "Styles", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fd", [
         [ "kAutoSizeToFit", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fdac857b2834fb85cea61b0cb84445b7314", null ],
-        [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ]
+        [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ],
+        [ "kIgnoreCapHeightOnDraw", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda0676dbf4aaa3be2a2445e76f143f9a1a", null ]
       ] ],
       [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#ab590b4311a6e3452c1c0d16bad6d657e", null ],
       [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a211316126af1ea989498906b9c526502", null ],
@@ -396,6 +396,7 @@ var group__controls =
       [ "drawScroller", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a14deb57c11ddd9926be3d98036b5703c", null ],
       [ "getBackgroundColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aafa19801d8a391bdd11651bf9159f2a5", null ],
       [ "getFrameColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a3e6c6bbc0b202e5d242d239e59be622f", null ],
+      [ "getMinScrollerLength", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#af532cfd99070c6a769b49091737c477b", null ],
       [ "getOverlayStyle", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a3d7889700d95e27b035564f51c1153be", null ],
       [ "getScrollerColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4e5a81ef0575d987da685e4a63cc78b2", null ],
       [ "getScrollerRect", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa9165be4418d8005715d067fcefca4a4", null ],
@@ -414,6 +415,7 @@ var group__controls =
       [ "setBackgroundColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa326ecc3df341fb609cccd985edb0ca7", null ],
       [ "setDrawer", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a57b22d39dad54a2289b3a9622a2481a9", null ],
       [ "setFrameColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a44a11177bab5ba2fb4156a8f17bfb844", null ],
+      [ "setMinScrollerLength", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a3748957f3adc33cba2c56ea158cd6cae", null ],
       [ "setOverlayStyle", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#ab3bf743a97ae2693a2d4856d9ffe419c", null ],
       [ "setScrollerColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a40f69027377f94d9f93f0121410f4a3e", null ],
       [ "setScrollSize", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a0c7d0965f74fbf027d40ed0e787e2f40", null ],
@@ -423,6 +425,7 @@ var group__controls =
       [ "direction", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a945bc7708563ad05b79829e5eb16c2a3", null ],
       [ "drawer", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aad21a7d3ac3ca4e0201726d752618b49", null ],
       [ "frameColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a2957de9143163fdabe1042932a03c13c", null ],
+      [ "minScrollerLenght", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa20b6e005b586618964a0a27771365c8", null ],
       [ "mouseIsInside", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#af48613e6bb2a88c353624aa2ee4bd36c", null ],
       [ "overlayStyle", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#ad303445f68b931e186ddfaefaf265715", null ],
       [ "scrollerArea", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6be5784169eec4c02d7d1f9e9c652e90", null ],
@@ -448,8 +451,8 @@ var group__controls =
         [ "kDrawValueFromCenter", "class_v_s_t_g_u_i_1_1_c_slider.html#af3cbd7f169aeb2df8510ffb08a661369a650fb5fc3547e98552c163988ab5ec46", null ],
         [ "kDrawInverted", "class_v_s_t_g_u_i_1_1_c_slider.html#af3cbd7f169aeb2df8510ffb08a661369ab04fd1b474425dfce444eaf11edc9e68", null ]
       ] ],
-      [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#ab4481e8b99ae034d204cef649b2d607c", null ],
-      [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#ae61b5268724e53d47f34c2ae5d21120f", null ],
+      [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a5843524919607272581e665d4619c8cd", null ],
+      [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a224b394006b780efcdd9e4117048a2f4", null ],
       [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a771f7060b2bb215aec9c3407cc04ca23", null ],
       [ "~CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#abd77d7c1ea54c68d849173e35d2823cb", null ],
       [ "draw", "class_v_s_t_g_u_i_1_1_c_slider.html#a79e674b14bc222779b90738ef8f6e096", null ],
@@ -474,13 +477,13 @@ var group__controls =
       [ "impl", "class_v_s_t_g_u_i_1_1_c_slider.html#a9876f8efbea60e734797ad158bb6983a", null ]
     ] ],
     [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html", [
-      [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html#a9b11965a610f21ddc3cbc0e9aa21cd70", null ],
-      [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html#a6e1c79cfa5bcdeabd2582f8289deba14", null ],
+      [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html#a65328bddbfe741d17c0fcea14997b56f", null ],
+      [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html#a54b249cfe32f5740db84938885f4bac1", null ],
       [ "CVerticalSlider", "class_v_s_t_g_u_i_1_1_c_vertical_slider.html#a52e422b6f672e36dbdbfdc9ee734abe5", null ]
     ] ],
     [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html", [
-      [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#a92b47ad2f2852cd588ef28bd594ff470", null ],
-      [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#a43f6f5904905f0008b4c1c1d6b3176b1", null ],
+      [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#af167b9352748d38c5a9aaaa238142d3d", null ],
+      [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#a955f0b872782e9cd9b8e59c7f9106181", null ],
       [ "CHorizontalSlider", "class_v_s_t_g_u_i_1_1_c_horizontal_slider.html#ac19711d339434f4615e91e3dc2f6a49d", null ]
     ] ],
     [ "CVerticalSwitch", "class_v_s_t_g_u_i_1_1_c_vertical_switch.html", [
@@ -619,11 +622,11 @@ var group__controls =
       [ "truncatedText", "class_v_s_t_g_u_i_1_1_c_text_label.html#ae3d2a8ba390d4bd088b4139edf4da5dd", null ]
     ] ],
     [ "CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html", [
-      [ "Style", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#addb2fa415e015ee482fa2cd9eba96af7", [
-        [ "kHorizontal", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#addb2fa415e015ee482fa2cd9eba96af7ad4149164ae4bf90011d92a3dbfcce742", null ],
-        [ "kVertical", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#addb2fa415e015ee482fa2cd9eba96af7a4764485d9d221af213bf2b2769cdfc54", null ]
+      [ "Style", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a60793b9f6e1211235196da74afc26456", [
+        [ "kHorizontal", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a60793b9f6e1211235196da74afc26456a3d3bbb7767b92dd2ae2c7128cf66d2ca", null ],
+        [ "kVertical", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a60793b9f6e1211235196da74afc26456a04da8b9a72f74bff480c2858ffc1bc95", null ]
       ] ],
-      [ "CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a25aaa57dde3fa69e613b195a5ba90205", null ],
+      [ "CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#abd141d60cbefb589c991b8122782ed1b", null ],
       [ "CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a72ce3921a236d161aa2562c1f78309cc", null ],
       [ "~CVuMeter", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#acf8172df5d53271cb990ae6e9f50b004", null ],
       [ "draw", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a2223292a91c85ab8ff9d156763543bf2", null ],
@@ -631,7 +634,7 @@ var group__controls =
       [ "getNbLed", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#abbbf9dd828d6ae280d948a022209b7ec", null ],
       [ "getOffBitmap", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#afef6d7febf24ff31e2383cdf0c041179", null ],
       [ "getOnBitmap", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#ac44f023081e4f3bdf385c8e160b76242", null ],
-      [ "getStyle", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#aa34e83aef3d87498e3151c01fc0e3ba8", null ],
+      [ "getStyle", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#ac787788a28e6eb99ff6217c6ff56be5d", null ],
       [ "newCopy", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a5b303fef30c4644882aaa04f5ad669ca", null ],
       [ "onIdle", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a00f2fcf8feacf28c2e626e34fd238312", null ],
       [ "setDecreaseStepValue", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a02f59ce1519a7ca40d77915ab583917d", null ],
@@ -639,7 +642,7 @@ var group__controls =
       [ "setNbLed", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a11c087f632fdcd2f32616409462b5f5b", null ],
       [ "setOffBitmap", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a018a6ce1a4573aadc28acb40a8ad1a5f", null ],
       [ "setOnBitmap", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a39a8af7b783c40b2cb0186a463b19ada", null ],
-      [ "setStyle", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a921dad1b65204e0e6c501e64b83dcc02", null ],
+      [ "setStyle", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a25d3e45ecc4bb3bda80a126032875188", null ],
       [ "setViewSize", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a7bf74857e6380a779c414ac7ab37701e", null ],
       [ "sizeToFit", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a64c95c189130160521d50820d9982242", null ],
       [ "decreaseValue", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#ad7dafe0d1940bb341a1aad126c19f220", null ],
@@ -647,6 +650,6 @@ var group__controls =
       [ "offBitmap", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a1fa023dbe960ebd0a83081f7166290e4", null ],
       [ "rectOff", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a1791ae1087064e54ee241ab12f9eaf0d", null ],
       [ "rectOn", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a50bf358b207c14fb7cffb23113b91c49", null ],
-      [ "style", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#ac2aa43786a8b7cbdcfb76f31c05f9068", null ]
+      [ "style", "class_v_s_t_g_u_i_1_1_c_vu_meter.html#a4b798253dd80ae013643a26e88e2bf6a", null ]
     ] ]
 ];

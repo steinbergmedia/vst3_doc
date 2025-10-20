@@ -12,6 +12,7 @@ var class_v_s_t_g_u_i_1_1_i_u_i_description =
     [ "getColor", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a1a95efd6c2dc10e7126a66a1b9ff456e", null ],
     [ "getController", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a5782ad3bd83fc9569b2f34169d9fc797", null ],
     [ "getControlListener", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#aacac64f4bbbbccd285be4e9b241c3049", null ],
+    [ "getCustomAttributes", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a43a8522ec6cbf45edc07548ea91a9888", null ],
     [ "getFont", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#aa94bcd100010c23724de675d6b76a59c", null ],
     [ "getGradient", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#abc9317aaca379ac5a253c3398e9cd614", null ],
     [ "getTagForName", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#ab6e67d07b0144037079a634f127dd587", null ],
@@ -23,5 +24,6 @@ var class_v_s_t_g_u_i_1_1_i_u_i_description =
     [ "lookupControlTagName", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#ad9c0802805195c5e01e9b941865a9c37", null ],
     [ "lookupFontName", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#ae5cba7085784f0bb2db8f30c5174908d", null ],
     [ "lookupGradientName", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a0283c82c69dadadb65029fbba867e7a2", null ],
+    [ "setCustomAttributes", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a98ef5732549ea3322f7987c78c0fc416", null ],
     [ "kCustomViewName", "class_v_s_t_g_u_i_1_1_i_u_i_description.html#a4b77728b258764c9f227765c5f1f6ef1", null ]
 ];

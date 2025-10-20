@@ -5,5 +5,6 @@ var searchData=
   ['dependentlist_2',['DependentList',['../class_v_s_t_g_u_i_1_1_i_dependency.html#ac04fe0db095414747a5b409b304e5101',1,'VSTGUI::IDependency']]],
   ['difference_5ftype_3',['difference_type',['../class_v_s_t_g_u_i_1_1_u_t_f8_code_point_iterator.html#aec07e0ee98729a19bc41fe09e433f5d0',1,'VSTGUI::UTF8CodePointIterator']]],
   ['donefunction_4',['DoneFunction',['../namespace_v_s_t_g_u_i_1_1_animation.html#a9d92ce7620bc35c9a41fb7816ed2e3fd',1,'VSTGUI::Animation']]],
-  ['dropentryvector_5',['DropEntryVector',['../class_v_s_t_g_u_i_1_1_c_drop_source.html#a5f8609fc3b5ee65d1a51ff72ed4f8b01',1,'VSTGUI::CDropSource']]]
+  ['drawlineargradientlinecallback_5',['DrawLinearGradientLineCallback',['../class_v_s_t_g_u_i_1_1_c_draw_context.html#a54d75fa1ec633c5faadbfd6a5b9ae73b',1,'VSTGUI::CDrawContext']]],
+  ['dropentryvector_6',['DropEntryVector',['../class_v_s_t_g_u_i_1_1_c_drop_source.html#a5f8609fc3b5ee65d1a51ff72ed4f8b01',1,'VSTGUI::CDropSource']]]
 ];

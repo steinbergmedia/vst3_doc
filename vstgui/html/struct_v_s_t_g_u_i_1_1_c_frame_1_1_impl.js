@@ -14,6 +14,7 @@ var struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl =
     [ "focusViewObservers", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a3b07e17f5a81a5c5ae52068b87704a53", null ],
     [ "inEventHandling", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#af0f1c42638a3e4adb3a8b8607c6c24a6", null ],
     [ "keyboardHooks", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#aab454e846ff98f312a168529bef56559", null ],
+    [ "lastCheckSizeConstraintLayout", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a0384febec4674eef67dc56d4d22118a9", null ],
     [ "legacyModalViewSessionID", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#ae3e4b8c00985c2b3d8ab9da711d6f542", null ],
     [ "modalViewSessionIDCounter", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#a190ea2debf9e9b8f762f20615fb71bf9", null ],
     [ "modalViewSessionStack", "struct_v_s_t_g_u_i_1_1_c_frame_1_1_impl.html#afc68799e7aad13c2788ea971e1e1e215", null ],

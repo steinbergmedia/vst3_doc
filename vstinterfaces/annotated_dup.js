@@ -40,7 +40,9 @@ var annotated_dup =
         [ "IKeyswitchController", "classSteinberg_1_1Vst_1_1IKeyswitchController.html", "classSteinberg_1_1Vst_1_1IKeyswitchController" ],
         [ "IMessage", "classSteinberg_1_1Vst_1_1IMessage.html", "classSteinberg_1_1Vst_1_1IMessage" ],
         [ "IMidiLearn", "classSteinberg_1_1Vst_1_1IMidiLearn.html", "classSteinberg_1_1Vst_1_1IMidiLearn" ],
+        [ "IMidiLearn2", "classSteinberg_1_1Vst_1_1IMidiLearn2.html", "classSteinberg_1_1Vst_1_1IMidiLearn2" ],
         [ "IMidiMapping", "classSteinberg_1_1Vst_1_1IMidiMapping.html", "classSteinberg_1_1Vst_1_1IMidiMapping" ],
+        [ "IMidiMapping2", "classSteinberg_1_1Vst_1_1IMidiMapping2.html", "classSteinberg_1_1Vst_1_1IMidiMapping2" ],
         [ "INoteExpressionController", "classSteinberg_1_1Vst_1_1INoteExpressionController.html", "classSteinberg_1_1Vst_1_1INoteExpressionController" ],
         [ "INoteExpressionPhysicalUIMapping", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping.html", "classSteinberg_1_1Vst_1_1INoteExpressionPhysicalUIMapping" ],
         [ "IParameterChanges", "classSteinberg_1_1Vst_1_1IParameterChanges.html", "classSteinberg_1_1Vst_1_1IParameterChanges" ],
@@ -67,6 +69,12 @@ var annotated_dup =
         [ "IXmlRepresentationController", "classSteinberg_1_1Vst_1_1IXmlRepresentationController.html", "classSteinberg_1_1Vst_1_1IXmlRepresentationController" ],
         [ "KeyswitchInfo", "structSteinberg_1_1Vst_1_1KeyswitchInfo.html", "structSteinberg_1_1Vst_1_1KeyswitchInfo" ],
         [ "LegacyMIDICCOutEvent", "structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent.html", "structSteinberg_1_1Vst_1_1LegacyMIDICCOutEvent" ],
+        [ "Midi1ControllerParamIDAssignment", "structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment.html", "structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignment" ],
+        [ "Midi1ControllerParamIDAssignmentList", "structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList.html", "structSteinberg_1_1Vst_1_1Midi1ControllerParamIDAssignmentList" ],
+        [ "Midi2Controller", "structSteinberg_1_1Vst_1_1Midi2Controller.html", "structSteinberg_1_1Vst_1_1Midi2Controller" ],
+        [ "Midi2ControllerParamIDAssignment", "structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment.html", "structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignment" ],
+        [ "Midi2ControllerParamIDAssignmentList", "structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList.html", "structSteinberg_1_1Vst_1_1Midi2ControllerParamIDAssignmentList" ],
+        [ "NoteExpressionIntValueEvent", "structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionIntValueEvent" ],
         [ "NoteExpressionTextEvent", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent.html", "structSteinberg_1_1Vst_1_1NoteExpressionTextEvent" ],
         [ "NoteExpressionTypeInfo", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo.html", "structSteinberg_1_1Vst_1_1NoteExpressionTypeInfo" ],
         [ "NoteExpressionValueDescription", "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html", "structSteinberg_1_1Vst_1_1NoteExpressionValueDescription" ],
@@ -89,6 +97,8 @@ var annotated_dup =
       [ "ITest", "classSteinberg_1_1ITest.html", "classSteinberg_1_1ITest" ],
       [ "ITestFactory", "classSteinberg_1_1ITestFactory.html", "classSteinberg_1_1ITestFactory" ],
       [ "ITestResult", "classSteinberg_1_1ITestResult.html", "classSteinberg_1_1ITestResult" ],
-      [ "ITestSuite", "classSteinberg_1_1ITestSuite.html", "classSteinberg_1_1ITestSuite" ]
+      [ "ITestSuite", "classSteinberg_1_1ITestSuite.html", "classSteinberg_1_1ITestSuite" ],
+      [ "IWaylandFrame", "classSteinberg_1_1IWaylandFrame.html", "classSteinberg_1_1IWaylandFrame" ],
+      [ "IWaylandHost", "classSteinberg_1_1IWaylandHost.html", "classSteinberg_1_1IWaylandHost" ]
     ] ]
 ];

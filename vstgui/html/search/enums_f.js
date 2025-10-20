@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['windowtype_0',['WindowType',['../group__standalone.html#ga476342970f954b62d70552bcbb5ee509',1,'VSTGUI::Standalone']]]
+  ['virtualkey_0',['VirtualKey',['../group__new__in__4__11.html#ga85a6e0e5dacc5cf40c660ea540b6e9d6',1,'VSTGUI']]]
 ];

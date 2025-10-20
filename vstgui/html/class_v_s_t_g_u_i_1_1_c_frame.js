@@ -15,6 +15,7 @@ var class_v_s_t_g_u_i_1_1_c_frame =
     [ "callMouseObserverMouseExited", "class_v_s_t_g_u_i_1_1_c_frame.html#a8f97b9b5fe74666c47d1c374f265e60d", null ],
     [ "callMouseObserverOtherMouseEvent", "class_v_s_t_g_u_i_1_1_c_frame.html#a3402a32a2fd0efbfb2c3023bb151c025", null ],
     [ "checkMouseViews", "class_v_s_t_g_u_i_1_1_c_frame.html#aa2412cc4f1e5a8fe430d2bb00c6f0b7d", null ],
+    [ "checkSizeConstraint", "class_v_s_t_g_u_i_1_1_c_frame.html#a9ea5d0cad85b53c51e7c9ffa620eb26a", null ],
     [ "clearMouseViews", "class_v_s_t_g_u_i_1_1_c_frame.html#a701c02ab4b91b1f30de6e7a7579854ca", null ],
     [ "close", "class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca", null ],
     [ "dispatchEvent", "class_v_s_t_g_u_i_1_1_c_frame.html#a685a52cd57a119d965aa3c6d2989dd94", null ],

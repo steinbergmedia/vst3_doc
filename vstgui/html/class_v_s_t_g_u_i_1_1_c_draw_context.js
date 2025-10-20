@@ -1,7 +1,9 @@
 var class_v_s_t_g_u_i_1_1_c_draw_context =
 [
+    [ "IDrawLinearGradientLine", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_i_draw_linear_gradient_line.html", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_i_draw_linear_gradient_line" ],
     [ "Impl", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl.html", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_impl" ],
     [ "Transform", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html", "struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform" ],
+    [ "DrawLinearGradientLineCallback", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a54d75fa1ec633c5faadbfd6a5b9ae73b", null ],
     [ "LineList", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a5dfdcd34a0741430b96f91fd2be4cc41", null ],
     [ "LinePair", "class_v_s_t_g_u_i_1_1_c_draw_context.html#ad52afe518bb8bc7896a9fa8fe9982222", null ],
     [ "PointList", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a49dd11429677dc14bd5a1f5161eac40e", null ],
@@ -27,6 +29,7 @@ var class_v_s_t_g_u_i_1_1_c_draw_context =
     [ "drawGraphicsPath", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a96035f44aaaa461c3018697c3c7826e6", null ],
     [ "drawLine", "class_v_s_t_g_u_i_1_1_c_draw_context.html#ae8712bb20e6b83738488b8465dd49239", null ],
     [ "drawLine", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a395ad861b1f1a9a864e509b9085995af", null ],
+    [ "drawLinearGradientLine", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a9a9e5381a73aae934dc5ccbd3457028f", null ],
     [ "drawLines", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a446f79c5a174d17618e56a19a3fcf33c", null ],
     [ "drawPoint", "class_v_s_t_g_u_i_1_1_c_draw_context.html#a4e992e943b6afa4230861e37d059d728", null ],
     [ "drawPolygon", "class_v_s_t_g_u_i_1_1_c_draw_context.html#ae1d4a01b15655773cfd50685100c404e", null ],

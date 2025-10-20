@@ -17,8 +17,8 @@ var funknown_8h =
     [ "QUERY_INTERFACE", "funknown_8h.html#a1884893f6b75952d6e29bcd333f3ea40", null ],
     [ "IMPLEMENT_QUERYINTERFACE", "funknown_8h.html#a023a5c16eb6b8a0057d712343f9d752c", null ],
     [ "IMPLEMENT_FUNKNOWN_METHODS", "funknown_8h.html#a3131ec3273dc17d39bef17154309b893", null ],
-    [ "LARGE_INT", "namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e", null ],
-    [ "TUID", "namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36", null ],
+    [ "LARGE_INT", "group__smtgtypedef.html#ga9cd1730908299276af7bc0baa8c5197e", null ],
+    [ "TUID", "group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36", null ],
     [ "iidEqual", "namespaceSteinberg_1_1FUnknownPrivate.html#afbf1ba7f286964b19e55474c2905eae4", null ],
     [ "atomicAdd", "namespaceSteinberg_1_1FUnknownPrivate.html#aeab173beb18bb16a5737f9fbe0a45289", null ],
     [ "getTUID", "namespaceSteinberg.html#ab5c714b140d499f304e042e746ca9b1b", null ]

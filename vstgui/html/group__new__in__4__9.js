@@ -38,18 +38,26 @@ var group__new__in__4__9 =
       [ "setViewSize", "class_v_s_t_g_u_i_1_1_c_list_control.html#afa3d86320cb051cecb3c687a523ba787", null ]
     ] ],
     [ "CListControlRowDesc", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html", [
-      [ "Flags", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#aa705cf7e79a21c2352b00ffe20cd295f", [
-        [ "Selectable", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#aa705cf7e79a21c2352b00ffe20cd295fa4da202338f118b9e57137036fa2d3ca6", null ],
-        [ "Hoverable", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#aa705cf7e79a21c2352b00ffe20cd295fa3225e786433ba6df347b261b4e907e00", null ]
+      [ "Flags", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#a96b2b7f25d98db25aa3dd33b209f41fb", null ],
+      [ "Flag", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#af0a452b55c77d70808437d0213328dfa", [
+        [ "Selectable", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#af0a452b55c77d70808437d0213328dfaa4da202338f118b9e57137036fa2d3ca6", null ],
+        [ "Hoverable", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#af0a452b55c77d70808437d0213328dfaa3225e786433ba6df347b261b4e907e00", null ]
       ] ],
       [ "CListControlRowDesc", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#a3ac91f993192988b2f171d0fda79eb2c", null ],
-      [ "CListControlRowDesc", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#ab55d18a0a7296fc4f6bc22eeb993e5ad", null ],
-      [ "flags", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#ae51934333edd3a61c06a695837f30595", null ],
+      [ "CListControlRowDesc", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#afc92d5560d9b75738c0d9e71a70e6a41", null ],
+      [ "flags", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#aa991e2b209ef26272bf4fd920777bcda", null ],
       [ "height", "struct_v_s_t_g_u_i_1_1_c_list_control_row_desc.html#acce6d47ad8d9d0f9d1b37bdb129eb520", null ]
     ] ],
     [ "IListControlDrawer", "class_v_s_t_g_u_i_1_1_i_list_control_drawer.html", [
       [ "Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html", [
-        [ "Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#a03a4f87a4ca9bc90c40e11b69e866637", null ],
+        [ "Flags", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#a96b2b7f25d98db25aa3dd33b209f41fb", null ],
+        [ "Flag", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af0a452b55c77d70808437d0213328dfa", [
+          [ "Selectable", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af0a452b55c77d70808437d0213328dfaa4da202338f118b9e57137036fa2d3ca6", null ],
+          [ "Selected", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af0a452b55c77d70808437d0213328dfaa60733e364a5777c127b529f133620612", null ],
+          [ "Hovered", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af0a452b55c77d70808437d0213328dfaaaf9815af27f2215eb4759be2ea0b3d70", null ],
+          [ "LastRow", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af0a452b55c77d70808437d0213328dfaae4c174d5794cc681d9b19b0e8d712002", null ]
+        ] ],
+        [ "Row", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#ade10a09acd27c55fa01d9bd8457802ef", null ],
         [ "getIndex", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#a76b3d9a8b8fa06213dd37675355603b3", null ],
         [ "isHovered", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#aefcff7bcf9ba431f0a4df1077c724cff", null ],
         [ "isLastRow", "struct_v_s_t_g_u_i_1_1_i_list_control_drawer_1_1_row.html#af28eb14da1cfb9bdc109d3da1b71d961", null ],
@@ -66,11 +74,12 @@ var group__new__in__4__9 =
       [ "getRowDesc", "class_v_s_t_g_u_i_1_1_i_list_control_configurator.html#af4eb081cc50f2b7e403abc8a33cb0024", null ]
     ] ],
     [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html", [
-      [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a2c0f4dd1283306d4382c4f5737d54d77", null ],
-      [ "getFlags", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a34f75841a7ff2a129e5321fce31dbb3f", null ],
+      [ "Flags", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#adf8a4f30e831ef31f15c085507d60f83", null ],
+      [ "StaticListControlConfigurator", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a2c9c2ae8b0290ac6f4a9ae171060c37c", null ],
+      [ "getFlags", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a14bcbd249fe8e8d24a39a975ddcfdacc", null ],
       [ "getRowDesc", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#af18d2b53ddaec5cafefbf91cf63ef226", null ],
       [ "getRowHeight", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a588dc64d557f7e1ce279d2ca28e5839e", null ],
-      [ "setFlags", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#ae53093b6275acc808b0eb0aa20653686", null ],
+      [ "setFlags", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#a8c87232d56099128e76fe82558c9e290", null ],
       [ "setRowHeight", "class_v_s_t_g_u_i_1_1_static_list_control_configurator.html#aeedbe4fb8ecdf93cfc76ea85e90543b1", null ]
     ] ],
     [ "StringListControlDrawer", "class_v_s_t_g_u_i_1_1_string_list_control_drawer.html", [

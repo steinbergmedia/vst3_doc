@@ -2,6 +2,7 @@ var class_v_s_t_g_u_i_1_1_c_graphics_path =
 [
     [ "ElementList", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a057042352a6b00ea2233bfddb55bc9f0", null ],
     [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a8ede31e4fbbef392b8490d6d30baabdd", null ],
+    [ "CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a330f91adae1497c404b8b7c337e34315", null ],
     [ "~CGraphicsPath", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#a2e273d6e4876daa45a180a9f488aae62", null ],
     [ "addArc", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a", null ],
     [ "addBezierCurve", "class_v_s_t_g_u_i_1_1_c_graphics_path.html#ada42a6501e39ad2065ce72d1a4d589a0", null ],

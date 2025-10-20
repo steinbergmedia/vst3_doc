@@ -1,5 +1,5 @@
 <map id="App" name="App">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,87,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,85,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,82,49,115,43,115,43,82"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,87,219"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,84,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,83,49,117,44,117,44,83"/>
 </map>

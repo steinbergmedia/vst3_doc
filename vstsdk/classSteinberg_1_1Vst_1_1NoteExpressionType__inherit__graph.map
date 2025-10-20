@@ -1,7 +1,7 @@
 <map id="NoteExpressionType" name="NoteExpressionType">
-<area shape="rect" id="Node000001" title="Note expression type object." alt="" coords="24,115,168,400"/>
-<area shape="rect" id="Node000003" href="$classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html" title="Note expression type object representing a custom range." alt="" coords="5,448,187,621"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,415,99,448,93,448,93,415"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,123,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,82,99,115,93,115,93,82"/>
+<area shape="rect" id="Node000001" title="Note expression type object." alt="" coords="24,117,169,412"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html" title="Note expression type object representing a custom range." alt="" coords="5,460,187,639"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,427,99,460,94,460,94,427"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="70,5,123,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,84,99,117,94,117,94,84"/>
 </map>

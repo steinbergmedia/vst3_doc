@@ -10,7 +10,7 @@ var indexSectionsWithContent =
   7: "cdfikosuv",
   8: "klv",
   9: "_cdefiklpqstu",
-  10: "bgiptu"
+  10: "bdgipstu"
 };
 
 var indexSectionNames =

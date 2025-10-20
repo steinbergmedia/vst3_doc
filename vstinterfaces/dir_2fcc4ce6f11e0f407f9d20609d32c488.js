@@ -14,6 +14,7 @@ var dir_2fcc4ce6f11e0f407f9d20609d32c488 =
     [ "ivstmessage.h", "ivstmessage_8h.html", "ivstmessage_8h" ],
     [ "ivstmidicontrollers.h", "ivstmidicontrollers_8h.html", "ivstmidicontrollers_8h" ],
     [ "ivstmidilearn.h", "ivstmidilearn_8h.html", "ivstmidilearn_8h" ],
+    [ "ivstmidimapping2.h", "ivstmidimapping2_8h.html", "ivstmidimapping2_8h" ],
     [ "ivstnoteexpression.h", "ivstnoteexpression_8h.html", "ivstnoteexpression_8h" ],
     [ "ivstparameterchanges.h", "ivstparameterchanges_8h.html", "ivstparameterchanges_8h" ],
     [ "ivstparameterfunctionname.h", "ivstparameterfunctionname_8h.html", "ivstparameterfunctionname_8h" ],

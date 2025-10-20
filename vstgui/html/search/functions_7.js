@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['handlecommand_0',['handleCommand',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_command_handler.html#a2c1ecc6d4c4b061cf4d4c97fe56d9d81',1,'VSTGUI::Standalone::ICommandHandler']]],
+  ['handlecommand_0',['handleCommand',['../struct_v_s_t_g_u_i_1_1_text_editor_1_1_text_editor_view.html#aeb4de706ffcb4845798c255de27e89fb',1,'VSTGUI::TextEditor::TextEditorView::handleCommand()'],['../struct_v_s_t_g_u_i_1_1_i_text_editor.html#ac7cb772e0b71fb6741cd76711a20c587',1,'VSTGUI::ITextEditor::handleCommand()'],['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_command_handler.html#a2c1ecc6d4c4b061cf4d4c97fe56d9d81',1,'VSTGUI::Standalone::ICommandHandler::handleCommand()']]],
   ['has_1',['has',['../struct_v_s_t_g_u_i_1_1_modifiers.html#a01b3e5c2930b5371589febee8e198735',1,'VSTGUI::Modifiers::has()'],['../struct_v_s_t_g_u_i_1_1_mouse_event_button_state.html#a26bd930ae9c83e526564cc2224af2d21',1,'VSTGUI::MouseEventButtonState::has()']]],
   ['hasaboutdialog_2',['hasAboutDialog',['../class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_delegate_adapter.html#a34afeeb0d531536f7b13a8abbb61d093',1,'VSTGUI::Standalone::Application::DelegateAdapter::hasAboutDialog()'],['../class_v_s_t_g_u_i_1_1_standalone_1_1_application_1_1_i_delegate.html#aeb033b6b37cf05d4c7fe27772ca85f9a',1,'VSTGUI::Standalone::Application::IDelegate::hasAboutDialog()']]],
   ['hasassertionhandler_3',['hasAssertionHandler',['../namespace_v_s_t_g_u_i.html#ab0411f6642b03599f6d293af2c17079c',1,'VSTGUI']]],

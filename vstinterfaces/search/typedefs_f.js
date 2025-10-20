@@ -1,14 +1,21 @@
 var searchData=
 [
-  ['tbool_0',['TBool',['../../base/namespaceSteinberg.html#a1ea8addd740f35d207a1569dd38ef895',1,'Steinberg']]],
-  ['tchar_1',['TChar',['../group__vst3typedef.html#ga9cc7040d53a88b14ecab90ffb052276d',1,'Steinberg::Vst']]],
-  ['timecode_2',['Timecode',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#af710dda83b9276c358d9e3a9ba93c4bb',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
-  ['timerinterval_3',['TimerInterval',['../../base/namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c',1,'Steinberg::Linux']]],
-  ['timestamp_4',['Timestamp',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a292072e5067fea1c6b01fdb7cbd595f9',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
-  ['tptrint_5',['TPtrInt',['../../base/namespaceSteinberg.html#adbdfa470c35e7bf57d7952f0767bbf57',1,'Steinberg']]],
-  ['tquarternotes_6',['TQuarterNotes',['../group__vst3typedef.html#gabf70aac64179b2b47bd877600a2e8c28',1,'Steinberg::Vst']]],
-  ['tresult_7',['tresult',['../../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957',1,'Steinberg']]],
-  ['tsamples_8',['TSamples',['../group__vst3typedef.html#gad2e841097395dbff119029f4684dad8f',1,'Steinberg::Vst']]],
-  ['tsize_9',['TSize',['../../base/namespaceSteinberg.html#abc5a03f91bd781b5062f4fccaa7851f0',1,'Steinberg']]],
-  ['tuid_10',['TUID',['../../vstsdk/structVST3_1_1UID.html#aa87b025f78fcc7af3b438559a4de73c1',1,'VST3::UID::TUID'],['../../base/namespaceSteinberg.html#a6935af93744bfe4ecc455f274ef1ec36',1,'Steinberg::TUID']]]
+  ['sample32_0',['Sample32',['../group__vst3typedef.html#ga353ad4086d31e4b7c57c9124965379a6',1,'Steinberg::Vst']]],
+  ['sample64_1',['Sample64',['../group__vst3typedef.html#ga8887669e1feb9270b120bcd725d0d4c1',1,'Steinberg::Vst']]],
+  ['samplerate_2',['SampleRate',['../group__vst3typedef.html#ga11249ca544d179e7fa61b2200a092407',1,'Steinberg::Vst']]],
+  ['scalefactor_3',['ScaleFactor',['../../base/group__smtgtypedef.html#ga75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport::ScaleFactor'],['../../base/group__smtgtypedef.html#ga75ec4b5d086d2af3733ac3775ab008d8',1,'Steinberg::IPlugViewContentScaleSupport::ScaleFactor']]],
+  ['snapshotlist_4',['SnapshotList',['../../vstsdk/classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587',1,'VST3::Hosting::Module::SnapshotList'],['../../vstsdk/structSteinberg_1_1ModuleInfo.html#a9424de46a29175d2e1687b5256496587',1,'Steinberg::ModuleInfo::SnapshotList']]],
+  ['speaker_5',['Speaker',['../group__vst3typedef.html#ga7a9fc6561fe897989fa3cea09ebb3250',1,'Steinberg::Vst']]],
+  ['speakerarrangement_6',['SpeakerArrangement',['../group__vst3typedef.html#ga54884a26d0b6dfa18eb919ea004775ac',1,'Steinberg::Vst']]],
+  ['speakertype_7',['SpeakerType',['../../vstsdk/classSteinberg_1_1Vst_1_1SpeakerArray.html#ac29b5ae06a98cb03a0f046667a1075e6',1,'Steinberg::Vst::SpeakerArray']]],
+  ['status_8',['Status',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html#a4a6a5e1402644e339d533d6e52c98276',1,'Steinberg::Vst::UMP::Detail']]],
+  ['streamid_9',['StreamID',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a7a496dde19b4e0035b577aecffe77cd4',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
+  ['string_10',['String',['../../base/classSteinberg_1_1FUID.html#a2e69817c730e10bae2a6d442eb32b9a7',1,'Steinberg::FUID']]],
+  ['string128_11',['String128',['../group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47',1,'Steinberg::Vst']]],
+  ['stringtype_12',['StringType',['../../vstsdk/structVST3_1_1Version.html#af27e2448955784e46e43ebd13eeb215a',1,'VST3::Version']]],
+  ['stringvector_13',['StringVector',['../../vstsdk/classSteinberg_1_1Vst_1_1ProgramList.html#a6abb6494190bf7743511db2c1c5075ae',1,'Steinberg::Vst::ProgramList']]],
+  ['subcategories_14',['SubCategories',['../../vstsdk/classVST3_1_1Hosting_1_1ClassInfo.html#aa489b07acb4219dd706f6dd8db7a6e11',1,'VST3::Hosting::ClassInfo']]],
+  ['sysex13bytedata_15',['SysEx13ByteData',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a2c7a04d0f6ea91b61f3643aefed0f0b7',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
+  ['sysex6bytedata_16',['SysEx6ByteData',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a6a8f2230b5c31158dbd1a47d5c942057',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
+  ['systemrealtime_17',['SystemRealtime',['../../vstsdk/namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html#af6065ad0dbabfa787d39404158af316c',1,'Steinberg::Vst::UMP::Detail']]]
 ];

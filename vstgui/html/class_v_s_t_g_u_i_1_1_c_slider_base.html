@@ -138,17 +138,19 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:addb2fa415e015ee482fa2cd9eba96af7" id="r_addb2fa415e015ee482fa2cd9eba96af7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7">Style</a> { <br />
-&#160;&#160;<a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7ad4149164ae4bf90011d92a3dbfcce742">kHorizontal</a> = 1 &lt;&lt; StyleHorizontal
-, <a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7a4764485d9d221af213bf2b2769cdfc54">kVertical</a> = 1 &lt;&lt; StyleVertical
-, <a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7aa9953673f54fd9f854de23739ebe2f7a">kLeft</a> = 1 &lt;&lt; StyleLeft
-, <a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7a28e0f004d9fc43a042d60286f37b6889">kRight</a> = 1 &lt;&lt; StyleRight
+<tr class="memitem:a60793b9f6e1211235196da74afc26456" id="r_a60793b9f6e1211235196da74afc26456"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a60793b9f6e1211235196da74afc26456">Style</a> : int32_t { <br />
+&#160;&#160;<a class="el" href="#a60793b9f6e1211235196da74afc26456ad4149164ae4bf90011d92a3dbfcce742">kHorizontal</a>
+, <a class="el" href="#a60793b9f6e1211235196da74afc26456a4764485d9d221af213bf2b2769cdfc54">kVertical</a>
+, <a class="el" href="#a60793b9f6e1211235196da74afc26456aa9953673f54fd9f854de23739ebe2f7a">kLeft</a>
+, <a class="el" href="#a60793b9f6e1211235196da74afc26456a28e0f004d9fc43a042d60286f37b6889">kRight</a>
 , <br />
-&#160;&#160;<a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7a4bbdb3e71aa3fcbb2924835cf5242435">kTop</a> = 1 &lt;&lt; StyleTop
-, <a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7a99876be9e5eee47e0384740c1d911bf0">kBottom</a> = 1 &lt;&lt; StyleBottom
+&#160;&#160;<a class="el" href="#a60793b9f6e1211235196da74afc26456a4bbdb3e71aa3fcbb2924835cf5242435">kTop</a>
+, <a class="el" href="#a60793b9f6e1211235196da74afc26456a99876be9e5eee47e0384740c1d911bf0">kBottom</a>
 <br />
  }</td></tr>
-<tr class="separator:addb2fa415e015ee482fa2cd9eba96af7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a60793b9f6e1211235196da74afc26456"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3748eed1c84367bd387b9af3b668afad" id="r_a3748eed1c84367bd387b9af3b668afad"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3748eed1c84367bd387b9af3b668afad">Styles</a> = <a class="el" href="struct_v_s_t_g_u_i_1_1_enum_bitset.html">EnumBitset</a>&lt;<a class="el" href="#a60793b9f6e1211235196da74afc26456">Style</a>&gt;</td></tr>
+<tr class="separator:a3748eed1c84367bd387b9af3b668afad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a10221893a24842d129e32cb74fca7cbf" id="r_a10221893a24842d129e32cb74fca7cbf"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html#a10221893a24842d129e32cb74fca7cbf">CheckDefaultValueEventFuncT</a> = bool (*) (<a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html">CControl</a>*, <a class="el" href="struct_v_s_t_g_u_i_1_1_mouse_down_event.html">MouseDownEvent</a>&amp;)</td></tr>
 <tr class="separator:a10221893a24842d129e32cb74fca7cbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2623513ff455a14efbe540a930aee7d0" id="r_a2623513ff455a14efbe540a930aee7d0"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html#a2623513ff455a14efbe540a930aee7d0">CheckDefaultValueFuncT</a> = bool (*) (<a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html">CControl</a>*, <a class="el" href="struct_v_s_t_g_u_i_1_1_c_button_state.html">CButtonState</a>)</td></tr>
@@ -170,10 +172,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a36c6de7c58c72c2aa05eb5b9986ff136"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a63d8beae3673c099b43d5b4554c114f2" id="r_a63d8beae3673c099b43d5b4554c114f2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_v_s_t_g_u_i_1_1_c_point.html">CPoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a63d8beae3673c099b43d5b4554c114f2">getOffsetHandle</a> () const</td></tr>
 <tr class="separator:a63d8beae3673c099b43d5b4554c114f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae09257407d69eda5973ba17cc2f4f589" id="r_ae09257407d69eda5973ba17cc2f4f589"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae09257407d69eda5973ba17cc2f4f589">setStyle</a> (int32_t style)</td></tr>
-<tr class="separator:ae09257407d69eda5973ba17cc2f4f589"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa34e83aef3d87498e3151c01fc0e3ba8" id="r_aa34e83aef3d87498e3151c01fc0e3ba8"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa34e83aef3d87498e3151c01fc0e3ba8">getStyle</a> () const</td></tr>
-<tr class="separator:aa34e83aef3d87498e3151c01fc0e3ba8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafab1cfa24e39ad7741e235ff067d682" id="r_aafab1cfa24e39ad7741e235ff067d682"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aafab1cfa24e39ad7741e235ff067d682">setStyle</a> (<a class="el" href="#a3748eed1c84367bd387b9af3b668afad">Styles</a> style)</td></tr>
+<tr class="separator:aafab1cfa24e39ad7741e235ff067d682"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04b61baf2c232af8249f9e8a13db5a11" id="r_a04b61baf2c232af8249f9e8a13db5a11"><td class="memItemLeft" align="right" valign="top"><a class="el" href="#a3748eed1c84367bd387b9af3b668afad">Styles</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a04b61baf2c232af8249f9e8a13db5a11">getStyle</a> () const</td></tr>
+<tr class="separator:a04b61baf2c232af8249f9e8a13db5a11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a526a1cbb929b753b09d87cc60883f8fe" id="r_a526a1cbb929b753b09d87cc60883f8fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a526a1cbb929b753b09d87cc60883f8fe">isStyleHorizontal</a> () const</td></tr>
 <tr class="separator:a526a1cbb929b753b09d87cc60883f8fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2059d3d1747db7408dc2e0bddf8a1118" id="r_a2059d3d1747db7408dc2e0bddf8a1118"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2059d3d1747db7408dc2e0bddf8a1118">isStyleRight</a> () const</td></tr>
@@ -297,6 +299,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af84b35eac283df7da16c38a665028525 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6692134a3539d58a74e25275d1936d27 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_a6692134a3539d58a74e25275d1936d27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a6692134a3539d58a74e25275d1936d27">CView</a> (const <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a> &amp;view)</td></tr>
 <tr class="separator:a6692134a3539d58a74e25275d1936d27 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_ac193f62cd9b8406c8619b08c01178a9e"><td class="memItemLeft" align="right" valign="top">uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#ac193f62cd9b8406c8619b08c01178a9e">getRuntimeID</a> () const</td></tr>
+<tr class="memdesc:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="mdescLeft">&#160;</td><td class="mdescRight">get the unique runtime ID  <br /></td></tr>
+<tr class="separator:ac193f62cd9b8406c8619b08c01178a9e inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view" id="r_a8f9fd0d28b2ae8752a0298ae80e9d867"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a8f9fd0d28b2ae8752a0298ae80e9d867">dispatchEvent</a> (<a class="el" href="struct_v_s_t_g_u_i_1_1_event.html">Event</a> &amp;event)</td></tr>
 <tr class="memdesc:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="mdescLeft">&#160;</td><td class="mdescRight">dispatch an event  <br /></td></tr>
 <tr class="separator:a8f9fd0d28b2ae8752a0298ae80e9d867 inherit pub_methods_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -688,26 +693,26 @@ Protected Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pro_types_class_v_s_t_g_u_i_1_1_c_view"><td colspan="2" onclick="javascript:dynsection.toggleInherit('pro_types_class_v_s_t_g_u_i_1_1_c_view')"><img src="closed.png" alt="-"/>&#160;Protected Types inherited from <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html">CView</a></td></tr>
-<tr class="memitem:a845d1cf20a273c49e2db04f153eda990 inherit pro_types_class_v_s_t_g_u_i_1_1_c_view" id="r_a845d1cf20a273c49e2db04f153eda990"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990af815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
+<tr class="memitem:a107d937571dac3ad1daef40da6fadeda inherit pro_types_class_v_s_t_g_u_i_1_1_c_view" id="r_a107d937571dac3ad1daef40da6fadeda"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaaf815c6658f186f61d4d470c0cb27d644">kMouseEnabled</a> = 1 &lt;&lt; 0
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa5f88561245310f95ca2378de395032bf">kTransparencyEnabled</a> = 1 &lt;&lt; 1
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa5d9a3e9a25641ce501a85442aa03acfc">kWantsFocus</a> = 1 &lt;&lt; 2
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa8f0de4366b1cec5b7ae0ea95030873b7">kIsAttached</a> = 1 &lt;&lt; 3
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990aaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa467d3c826337f7a7da73feb9fa99af0d">kVisible</a> = 1 &lt;&lt; 4
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa7bc457f304bba59d89efe7d5f84628aa">kDirty</a> = 1 &lt;&lt; 5
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaad2be0e301b3803dd994529ac5e5ca329">kWantsIdle</a> = 1 &lt;&lt; 6
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaaaa3bf20265b91126912a369a4d828e64">kIsSubview</a> = 1 &lt;&lt; 7
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990a883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990abaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
-, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaae424efe0969decd8b517a31b96bfe191">kHasAlpha</a> = 1 &lt;&lt; 8
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaa883efa958f4947c5cd5c6f3c331990da">kHasBackground</a> = 1 &lt;&lt; 9
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaabaa9a5b6efa6c8e5a5ad8bf07938d151">kHasDisabledBackground</a> = 1 &lt;&lt; 10
+, <a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaad12f85df89e075e62a7d9c90c09c7e7d">kHasMouseableArea</a> = 1 &lt;&lt; 11
 , <br />
-&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a845d1cf20a273c49e2db04f153eda990ae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
+&#160;&#160;<a class="el" href="class_v_s_t_g_u_i_1_1_c_view.html#a107d937571dac3ad1daef40da6fadedaae8b75a5d568c53d9f8117dbb8e149f56">kLastCViewFlag</a> = 11
 <br />
  }</td></tr>
-<tr class="separator:a845d1cf20a273c49e2db04f153eda990 inherit pro_types_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a107d937571dac3ad1daef40da6fadeda inherit pro_types_class_v_s_t_g_u_i_1_1_c_view"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a686daf79492a0ddd71ee15309c5cab96" id="r_a686daf79492a0ddd71ee15309c5cab96"><td class="memItemLeft" align="right" valign="top">static int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html#a686daf79492a0ddd71ee15309c5cab96">mapVstKeyModifier</a> (int32_t vstModifier)</td></tr>
 <tr class="separator:a686daf79492a0ddd71ee15309c5cab96"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86de9789ce5ae4ecb5bec7826dd3f03f" id="r_a86de9789ce5ae4ecb5bec7826dd3f03f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_i_control_listener.html">IControlListener</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html#a86de9789ce5ae4ecb5bec7826dd3f03f">listener</a></td></tr>
@@ -717,25 +722,40 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:a17956fe0129d3d4c94ebc06cfef2ad82" id="r_a17956fe0129d3d4c94ebc06cfef2ad82"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_v_s_t_g_u_i_1_1_c_control.html#a17956fe0129d3d4c94ebc06cfef2ad82">value</a></td></tr>
 <tr class="separator:a17956fe0129d3d4c94ebc06cfef2ad82"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="addb2fa415e015ee482fa2cd9eba96af7" name="addb2fa415e015ee482fa2cd9eba96af7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#addb2fa415e015ee482fa2cd9eba96af7">&#9670;&#160;</a></span>Style</h2>
+<h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a3748eed1c84367bd387b9af3b668afad" name="a3748eed1c84367bd387b9af3b668afad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3748eed1c84367bd387b9af3b668afad">&#9670;&#160;</a></span>Styles</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="#addb2fa415e015ee482fa2cd9eba96af7">Style</a></td>
+          <td class="memname">using <a class="el" href="#a3748eed1c84367bd387b9af3b668afad">Styles</a> = <a class="el" href="struct_v_s_t_g_u_i_1_1_enum_bitset.html">EnumBitset</a>&lt;<a class="el" href="#a60793b9f6e1211235196da74afc26456">Style</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="a60793b9f6e1211235196da74afc26456" name="a60793b9f6e1211235196da74afc26456"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60793b9f6e1211235196da74afc26456">&#9670;&#160;</a></span>Style</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="#a60793b9f6e1211235196da74afc26456">Style</a> : int32_t</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7ad4149164ae4bf90011d92a3dbfcce742" name="addb2fa415e015ee482fa2cd9eba96af7ad4149164ae4bf90011d92a3dbfcce742"></a>kHorizontal&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7a4764485d9d221af213bf2b2769cdfc54" name="addb2fa415e015ee482fa2cd9eba96af7a4764485d9d221af213bf2b2769cdfc54"></a>kVertical&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7aa9953673f54fd9f854de23739ebe2f7a" name="addb2fa415e015ee482fa2cd9eba96af7aa9953673f54fd9f854de23739ebe2f7a"></a>kLeft&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7a28e0f004d9fc43a042d60286f37b6889" name="addb2fa415e015ee482fa2cd9eba96af7a28e0f004d9fc43a042d60286f37b6889"></a>kRight&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7a4bbdb3e71aa3fcbb2924835cf5242435" name="addb2fa415e015ee482fa2cd9eba96af7a4bbdb3e71aa3fcbb2924835cf5242435"></a>kTop&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="addb2fa415e015ee482fa2cd9eba96af7a99876be9e5eee47e0384740c1d911bf0" name="addb2fa415e015ee482fa2cd9eba96af7a99876be9e5eee47e0384740c1d911bf0"></a>kBottom&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456ad4149164ae4bf90011d92a3dbfcce742" name="a60793b9f6e1211235196da74afc26456ad4149164ae4bf90011d92a3dbfcce742"></a>kHorizontal&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456a4764485d9d221af213bf2b2769cdfc54" name="a60793b9f6e1211235196da74afc26456a4764485d9d221af213bf2b2769cdfc54"></a>kVertical&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456aa9953673f54fd9f854de23739ebe2f7a" name="a60793b9f6e1211235196da74afc26456aa9953673f54fd9f854de23739ebe2f7a"></a>kLeft&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456a28e0f004d9fc43a042d60286f37b6889" name="a60793b9f6e1211235196da74afc26456a28e0f004d9fc43a042d60286f37b6889"></a>kRight&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456a4bbdb3e71aa3fcbb2924835cf5242435" name="a60793b9f6e1211235196da74afc26456a4bbdb3e71aa3fcbb2924835cf5242435"></a>kTop&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a60793b9f6e1211235196da74afc26456a99876be9e5eee47e0384740c1d911bf0" name="a60793b9f6e1211235196da74afc26456a99876be9e5eee47e0384740c1d911bf0"></a>kBottom&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
@@ -986,14 +1006,14 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="aa34e83aef3d87498e3151c01fc0e3ba8" name="aa34e83aef3d87498e3151c01fc0e3ba8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa34e83aef3d87498e3151c01fc0e3ba8">&#9670;&#160;</a></span>getStyle()</h2>
+<a id="a04b61baf2c232af8249f9e8a13db5a11" name="a04b61baf2c232af8249f9e8a13db5a11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04b61baf2c232af8249f9e8a13db5a11">&#9670;&#160;</a></span>getStyle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int32_t getStyle </td>
+          <td class="memname">auto getStyle </td>
           <td>(</td>
           <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
           <td> const</td>
@@ -1441,8 +1461,8 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="ae09257407d69eda5973ba17cc2f4f589" name="ae09257407d69eda5973ba17cc2f4f589"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae09257407d69eda5973ba17cc2f4f589">&#9670;&#160;</a></span>setStyle()</h2>
+<a id="aafab1cfa24e39ad7741e235ff067d682" name="aafab1cfa24e39ad7741e235ff067d682"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafab1cfa24e39ad7741e235ff067d682">&#9670;&#160;</a></span>setStyle()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1450,7 +1470,7 @@ Additional Inherited Members</h2></td></tr>
         <tr>
           <td class="memname">void setStyle </td>
           <td>(</td>
-          <td class="paramtype">int32_t</td>          <td class="paramname"><span class="paramname"><em>style</em></span></td><td>)</td>
+          <td class="paramtype"><a class="el" href="#a3748eed1c84367bd387b9af3b668afad">Styles</a></td>          <td class="paramname"><span class="paramname"><em>style</em></span></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1548,7 +1568,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="class_v_s_t_g_u_i_1_1_c_slider_base.html">CSliderBase</a></li>
-    <li class="footer">Generated on Fri Jun 13 2025 14:34:43 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 17:24:34 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

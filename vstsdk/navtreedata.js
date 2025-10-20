@@ -45,7 +45,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
@@ -68,20 +68,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AudioIO_8h.html",
-"classSteinberg_1_1Vst_1_1BypassProcessor.html#af03bc4cf393d19019897417293c55663",
-"classSteinberg_1_1Vst_1_1InterAppAudio_1_1MidiIO.html#ab37e7ad7503043f64fb3e36cada470eb",
-"classSteinberg_1_1Vst_1_1PresetFile.html#a9e8e502499657ad0cb2d1ca286fd906c",
-"classSteinberg_1_1Vst_1_1ThreadChecker.html#a6c5ade0a1125312d44f7c331e20d69d9",
-"functions_m.html",
-"group__musicalStyle.html#ga60c65b0575b241924ccfcc59fa7dccaf",
-"group__speakerArrangements.html#ga5756399f47d692e0e5e587bcc8a06a9d",
-"group__speakerArrangements.html#gaf19e8a3b3f0d3a2c0e9587f6cc9b1411",
-"namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22baf6db7ad5110a115d774dd8d74d333a42",
-"namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a1c30475ef992f89f37c2fe0aafcc6283",
-"namespaceSteinberg_1_1Vst_1_1UMP_1_1Detail.html#a1bc3ccf4d567ca83c993c3aaa8124904aeb7a9ac9f662bc5dc17e8d1f12cf2e17",
-"structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#aa7c29f403466f1932768cd801b98ed79",
-"structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a07859aa4165b1d16bc6580571a0fb8ca",
-"structVST3_1_1Hosting_1_1Module_1_1Snapshot.html#a7945fc22e5d1821e4e22fbf8a9722339"
+"classSteinberg_1_1Vst_1_1BypassProcessor.html#a691325367c431ca1b7de7e4ee9a5c12f",
+"classSteinberg_1_1Vst_1_1HostProcessData.html#aac85e944298eabcb099f9a98e6e97a94",
+"classSteinberg_1_1Vst_1_1PresetFile.html#a64253494705abac53f279f2682a9a550",
+"classSteinberg_1_1Vst_1_1SystemTime.html#a3d4d83863fe3ba2a9a3c2522f2296c35",
+"functions_func_p.html",
+"group__musicalStyle.html#ga09caf2a39534495b771aa65a0d969ad1",
+"group__speakerArrangements.html#ga350fe92a4a9f185ff5a7141e7cbada14",
+"group__speakerArrangements.html#gaca11b7e3831e00dd7b5828111675411a",
+"namespaceSteinberg.html#a9380117707cebcb5a3cd9fa8b960e22ba612120b69c7dfd46086db7aaebdbcf65",
+"namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a619824c5021185046074a448dd2e1127",
+"namespaceSteinberg_1_1Vst_1_1MPE.html#acc0ccc0e35cb8a064d3b1675fbef9d44",
+"structSteinberg_1_1Vst_1_1BypassProcessor_1_1Delay.html#adac116554b543b7c4228c018a85882f5",
+"structSteinberg_1_1Vst_1_1UMP_1_1Detail_1_1UMPMessageChannelVoice1.html#a67a0db04d321a74b7e7fcfd3f1a3f70bab9ee37141db8aade98233a4f73262238",
+"structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#ac6997fafc276dd16cadd3ff6b9f31ca3",
+"testbase_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

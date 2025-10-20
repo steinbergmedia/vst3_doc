@@ -8,8 +8,8 @@ var class_v_s_t_g_u_i_1_1_c_slider =
       [ "kDrawValueFromCenter", "class_v_s_t_g_u_i_1_1_c_slider.html#af3cbd7f169aeb2df8510ffb08a661369a650fb5fc3547e98552c163988ab5ec46", null ],
       [ "kDrawInverted", "class_v_s_t_g_u_i_1_1_c_slider.html#af3cbd7f169aeb2df8510ffb08a661369ab04fd1b474425dfce444eaf11edc9e68", null ]
     ] ],
-    [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#ab4481e8b99ae034d204cef649b2d607c", null ],
-    [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#ae61b5268724e53d47f34c2ae5d21120f", null ],
+    [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a5843524919607272581e665d4619c8cd", null ],
+    [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a224b394006b780efcdd9e4117048a2f4", null ],
     [ "CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#a771f7060b2bb215aec9c3407cc04ca23", null ],
     [ "~CSlider", "class_v_s_t_g_u_i_1_1_c_slider.html#abd77d7c1ea54c68d849173e35d2823cb", null ],
     [ "draw", "class_v_s_t_g_u_i_1_1_c_slider.html#a79e674b14bc222779b90738ef8f6e096", null ],

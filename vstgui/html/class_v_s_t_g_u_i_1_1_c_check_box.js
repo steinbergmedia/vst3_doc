@@ -2,7 +2,8 @@ var class_v_s_t_g_u_i_1_1_c_check_box =
 [
     [ "Styles", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fd", [
       [ "kAutoSizeToFit", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fdac857b2834fb85cea61b0cb84445b7314", null ],
-      [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ]
+      [ "kDrawCrossBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda1a4229c0c2ba5c3fc800b9d2fcc5d559", null ],
+      [ "kIgnoreCapHeightOnDraw", "class_v_s_t_g_u_i_1_1_c_check_box.html#a7aa3419d0e6ee02d49e91aeca67fc9fda0676dbf4aaa3be2a2445e76f143f9a1a", null ]
     ] ],
     [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#ab590b4311a6e3452c1c0d16bad6d657e", null ],
     [ "CCheckBox", "class_v_s_t_g_u_i_1_1_c_check_box.html#a211316126af1ea989498906b9c526502", null ],

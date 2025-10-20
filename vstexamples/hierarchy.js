@@ -183,11 +183,17 @@ var hierarchy =
         [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],
         [ "ControllerWithUI", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html", null ]
       ] ],
+      [ "IMidiLearn2", "../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiLearn2.html", [
+        [ "ControllerWithUI", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html", null ]
+      ] ],
       [ "IMidiMapping", "../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping.html", [
         [ "AGainController", "classSteinberg_1_1Vst_1_1AGainController.html", null ],
         [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],
         [ "Controller", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html", null ],
         [ "BaseController", "classSteinberg_1_1Vst_1_1mda_1_1BaseController.html", null ]
+      ] ],
+      [ "IMidiMapping2", "../vstinterfaces/classSteinberg_1_1Vst_1_1IMidiMapping2.html", [
+        [ "Controller", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html", null ]
       ] ],
       [ "INoteExpressionController", "../vstinterfaces/classSteinberg_1_1Vst_1_1INoteExpressionController.html", [
         [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],

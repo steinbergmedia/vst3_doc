@@ -190,10 +190,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a28b55dd5040889fbabfdaa44426c9af5"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a28b55dd5040889fbabfdaa44426c9af5">setNormAlpha</a> (T v)</td></tr>
 <tr class="memdesc:a28b55dd5040889fbabfdaa44426c9af5"><td class="mdescLeft">&#160;</td><td class="mdescRight">set the alpha value normalized  <br /></td></tr>
 <tr class="separator:a28b55dd5040889fbabfdaa44426c9af5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2929af39ca54713fd66e38a199ee0dfa" id="r_a2929af39ca54713fd66e38a199ee0dfa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2929af39ca54713fd66e38a199ee0dfa">fromString</a> (<a class="el" href="namespace_v_s_t_g_u_i.html#a3fd19826d804be46b46005b0410f3e48">UTF8StringPtr</a> str)</td></tr>
-<tr class="separator:a2929af39ca54713fd66e38a199ee0dfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a05dcd00fbc95841c06e0726b334450dc" id="r_a05dcd00fbc95841c06e0726b334450dc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_v_s_t_g_u_i_1_1_u_t_f8_string.html">UTF8String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a05dcd00fbc95841c06e0726b334450dc">toString</a> () const</td></tr>
 <tr class="separator:a05dcd00fbc95841c06e0726b334450dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56dc29936b12fdcf52608b03a4695ca8" id="r_a56dc29936b12fdcf52608b03a4695ca8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a56dc29936b12fdcf52608b03a4695ca8">fromString</a> (std::string_view str)</td></tr>
+<tr class="separator:a56dc29936b12fdcf52608b03a4695ca8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2929af39ca54713fd66e38a199ee0dfa" id="r_a2929af39ca54713fd66e38a199ee0dfa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2929af39ca54713fd66e38a199ee0dfa">fromString</a> (<a class="el" href="namespace_v_s_t_g_u_i.html#a3fd19826d804be46b46005b0410f3e48">UTF8StringPtr</a> str)</td></tr>
+<tr class="separator:a2929af39ca54713fd66e38a199ee0dfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9411ccd8724eb817bd655225ae6353b0" id="r_a9411ccd8724eb817bd655225ae6353b0"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9411ccd8724eb817bd655225ae6353b0">isColorRepresentation</a> (std::string_view str)</td></tr>
+<tr class="separator:a9411ccd8724eb817bd655225ae6353b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7e1a6c37fcbffc5d3e2ab200e3cbff61" id="r_a7e1a6c37fcbffc5d3e2ab200e3cbff61"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a7e1a6c37fcbffc5d3e2ab200e3cbff61">isColorRepresentation</a> (<a class="el" href="namespace_v_s_t_g_u_i.html#a3fd19826d804be46b46005b0410f3e48">UTF8StringPtr</a> str)</td></tr>
 <tr class="separator:a7e1a6c37fcbffc5d3e2ab200e3cbff61"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -362,8 +366,25 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a56dc29936b12fdcf52608b03a4695ca8" name="a56dc29936b12fdcf52608b03a4695ca8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56dc29936b12fdcf52608b03a4695ca8">&#9670;&#160;</a></span>fromString() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool fromString </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a2929af39ca54713fd66e38a199ee0dfa" name="a2929af39ca54713fd66e38a199ee0dfa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2929af39ca54713fd66e38a199ee0dfa">&#9670;&#160;</a></span>fromString()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2929af39ca54713fd66e38a199ee0dfa">&#9670;&#160;</a></span>fromString() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -425,8 +446,33 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a9411ccd8724eb817bd655225ae6353b0" name="a9411ccd8724eb817bd655225ae6353b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9411ccd8724eb817bd655225ae6353b0">&#9670;&#160;</a></span>isColorRepresentation() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool isColorRepresentation </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a7e1a6c37fcbffc5d3e2ab200e3cbff61" name="a7e1a6c37fcbffc5d3e2ab200e3cbff61"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e1a6c37fcbffc5d3e2ab200e3cbff61">&#9670;&#160;</a></span>isColorRepresentation()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e1a6c37fcbffc5d3e2ab200e3cbff61">&#9670;&#160;</a></span>isColorRepresentation() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -928,7 +974,7 @@ template&lt;typename T&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li><li class="navelem"><a class="el" href="struct_v_s_t_g_u_i_1_1_c_color.html">CColor</a></li>
-    <li class="footer">Generated on Fri Jun 13 2025 14:34:43 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 17:24:33 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

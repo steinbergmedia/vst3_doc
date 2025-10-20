@@ -16,7 +16,7 @@ var searchData=
   ['l4_5f2_13',['l4_2',['../structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283',1,'Steinberg::FUnknownImpl::UID::l4_2'],['../structSteinberg_1_1U_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283',1,'Steinberg::U::UID::l4_2']]],
   ['l4_5f3_14',['l4_3',['../structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb',1,'Steinberg::FUnknownImpl::UID::l4_3'],['../structSteinberg_1_1U_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb',1,'Steinberg::U::UID::l4_3']]],
   ['l4_5f4_15',['l4_4',['../structSteinberg_1_1FUnknownImpl_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6',1,'Steinberg::FUnknownImpl::UID::l4_4'],['../structSteinberg_1_1U_1_1UID.html#ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6',1,'Steinberg::U::UID::l4_4']]],
-  ['large_5fint_16',['LARGE_INT',['../namespaceSteinberg.html#a9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
+  ['large_5fint_16',['LARGE_INT',['../group__smtgtypedef.html#ga9cd1730908299276af7bc0baa8c5197e',1,'Steinberg']]],
   ['left_17',['left',['../structSteinberg_1_1ViewRect.html#ae08ef45a841fb76eef2ed11f7f6661ad',1,'Steinberg::ViewRect']]],
   ['licence_5fuid_18',['LICENCE_UID',['../ipluginbase_8h.html#a15eabd5eb49e5ec7c8e2f6210f53ffdc',1,'ipluginbase.h']]],
   ['loadattributes_19',['loadAttributes',['../classSteinberg_1_1IPersistent.html#a34ba5d29ec54b8d49213549ada3d59fe',1,'Steinberg::IPersistent']]]

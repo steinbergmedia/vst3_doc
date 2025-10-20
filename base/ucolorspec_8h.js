@@ -1,9 +1,9 @@
 var ucolorspec_8h =
 [
-    [ "ColorSpec", "namespaceSteinberg.html#a5b13d028fba1eee386ec9ac208c6238d", null ],
-    [ "ColorComponent", "namespaceSteinberg.html#af1189c83b63820c6ccc3167402601fea", null ],
-    [ "UColorSpec", "namespaceSteinberg.html#a87699df6cd24276f34afea51d903c6e4", null ],
-    [ "UColorComponent", "namespaceSteinberg.html#a3c4f7362f2f494a4120d7c864dd0822d", null ],
+    [ "ColorSpec", "group__smtgtypedef.html#ga5b13d028fba1eee386ec9ac208c6238d", null ],
+    [ "ColorComponent", "group__smtgtypedef.html#gaf1189c83b63820c6ccc3167402601fea", null ],
+    [ "UColorSpec", "group__smtgtypedef.html#ga87699df6cd24276f34afea51d903c6e4", null ],
+    [ "UColorComponent", "group__smtgtypedef.html#ga3c4f7362f2f494a4120d7c864dd0822d", null ],
     [ "StandardColor", "namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cd", [
       [ "kBlack", "namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cda84bb4627f551fc5ff2d9aedb8f3b4947", null ],
       [ "kWhite", "namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cda9e1b2d3dcb56c17a372440853228ad01", null ],

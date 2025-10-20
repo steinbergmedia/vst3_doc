@@ -14,6 +14,7 @@ var structSteinberg_1_1Vst_1_1Event =
       [ "kNoteExpressionTextEvent", "structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a494e407c199f55129c93f53bd5cada93", null ],
       [ "kChordEvent", "structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a4e0a8c28a95df34b9c12c0f226e6923d", null ],
       [ "kScaleEvent", "structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a1fcf9cd0ded093f84e9b0a8177679ad4", null ],
+      [ "kNoteExpressionIntValueEvent", "structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a8193b15f658f906f5ac3ded5246b1496", null ],
       [ "kLegacyMIDICCOutEvent", "structSteinberg_1_1Vst_1_1Event.html#a914d2da0ec9f0e22cd5e400bc1f968b8a85daeaf98e74f3c670b9939c78794b95", null ]
     ] ],
     [ "busIndex", "structSteinberg_1_1Vst_1_1Event.html#acd2bbbb2eae99e9e00ac1517dbf7958d", null ],
@@ -27,6 +28,7 @@ var structSteinberg_1_1Vst_1_1Event =
     [ "polyPressure", "structSteinberg_1_1Vst_1_1Event.html#acc27ddf2b1e504795c7724921eb57286", null ],
     [ "noteExpressionValue", "structSteinberg_1_1Vst_1_1Event.html#a0f35f105b944d86baed64153c9544b38", null ],
     [ "noteExpressionText", "structSteinberg_1_1Vst_1_1Event.html#a7bd5bf2b37708149b2c318f8fd669d50", null ],
+    [ "noteExpressionIntValue", "structSteinberg_1_1Vst_1_1Event.html#ad7c5396419ddc9f9201568726ba7294f", null ],
     [ "chord", "structSteinberg_1_1Vst_1_1Event.html#a990c632f42079b7d085d2b3747e2e919", null ],
     [ "scale", "structSteinberg_1_1Vst_1_1Event.html#aa5ba30ca69cff19d9c45599238388230", null ],
     [ "midiCCOut", "structSteinberg_1_1Vst_1_1Event.html#a3f45fbed968cf574aa1f9b859f0a0972", null ]

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['graphical_20user_20interface_0',['Graphical User Interface',['../group__pluginGUI.html',1,'']]]
+  ['data_20types_0',['Steinberg Data Types',['../group__smtgtypedef.html',1,'']]]
 ];

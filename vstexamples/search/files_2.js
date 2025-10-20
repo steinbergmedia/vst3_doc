@@ -9,9 +9,10 @@ var searchData=
   ['channelcontext_2fsource_2fplugparamids_2eh_6',['plugparamids.h',['../channelcontext_2source_2plugparamids_8h.html',1,'']]],
   ['channelcontext_2fsource_2fversion_2eh_7',['version.h',['../channelcontext_2source_2version_8h.html',1,'']]],
   ['cids_2eh_8',['cids.h',['../cids_8h.html',1,'']]],
-  ['connectionproxy_2ecpp_9',['connectionproxy.cpp',['../../vstsdk/connectionproxy_8cpp.html',1,'']]],
-  ['connectionproxy_2eh_10',['connectionproxy.h',['../../vstsdk/connectionproxy_8h.html',1,'']]],
-  ['conststringtable_2ecpp_11',['conststringtable.cpp',['../../base/conststringtable_8cpp.html',1,'']]],
-  ['conststringtable_2eh_12',['conststringtable.h',['../../base/conststringtable_8h.html',1,'']]],
-  ['coreiids_2ecpp_13',['coreiids.cpp',['../../base/coreiids_8cpp.html',1,'']]]
+  ['commonstringconvert_2eh_9',['commonstringconvert.h',['../../vstsdk/commonstringconvert_8h.html',1,'']]],
+  ['connectionproxy_2ecpp_10',['connectionproxy.cpp',['../../vstsdk/connectionproxy_8cpp.html',1,'']]],
+  ['connectionproxy_2eh_11',['connectionproxy.h',['../../vstsdk/connectionproxy_8h.html',1,'']]],
+  ['conststringtable_2ecpp_12',['conststringtable.cpp',['../../base/conststringtable_8cpp.html',1,'']]],
+  ['conststringtable_2eh_13',['conststringtable.h',['../../base/conststringtable_8h.html',1,'']]],
+  ['coreiids_2ecpp_14',['coreiids.cpp',['../../base/coreiids_8cpp.html',1,'']]]
 ];

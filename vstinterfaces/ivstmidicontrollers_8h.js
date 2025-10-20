@@ -64,6 +64,14 @@ var ivstmidicontrollers_8h =
       [ "kCountCtrlNumber", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6af6ba8b5a08c0e4e7c4d8f6603df78bd5", null ],
       [ "kCtrlProgramChange", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a24741548a45124ddce729c1cdd78f1c0", null ],
       [ "kCtrlPolyPressure", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a3276c68bfcf39d2acb1dda3814ca0602", null ],
-      [ "kCtrlQuarterFrame", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a8fdd692227d34e50628b4c26cc824565", null ]
+      [ "kCtrlQuarterFrame", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a8fdd692227d34e50628b4c26cc824565", null ],
+      [ "kSystemSongSelect", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6acd40dca51d26e486569d65646dd55e1e", null ],
+      [ "kSystemSongPointer", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a1da17ece862653f81c6b5eb894a0b742", null ],
+      [ "kSystemCableSelect", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6aeff2784d5e1a90a8b5926896a3d4f832", null ],
+      [ "kSystemTuneRequest", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a5f81131b6d1d0e8cb6ef9022a1453eb0", null ],
+      [ "kSystemMidiClockStart", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6ab436ffbe34f8e3468622db9f1a5cafda", null ],
+      [ "kSystemMidiClockContinue", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a3ff69061d0fc11aead42f60ac1109ccf", null ],
+      [ "kSystemMidiClockStop", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a2ae8ba63488f6fd9f1fd76ca43c862c5", null ],
+      [ "kSystemActiveSensing", "namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6a6f2b8de0a4937a849e9479964e94e540", null ]
     ] ]
 ];

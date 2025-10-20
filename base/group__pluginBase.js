@@ -188,5 +188,6 @@ var group__pluginBase =
       [ "OPtr", "classSteinberg_1_1OPtr.html#ae01694cf824294c53feba1db959e1a08", null ],
       [ "operator=", "classSteinberg_1_1OPtr.html#a1ab176c8a516dd659bc5b83f383f80ee", null ]
     ] ],
+    [ "TUID", "group__pluginBase.html#ga6935af93744bfe4ecc455f274ef1ec36", null ],
     [ "GetPluginFactory", "group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce", null ]
 ];

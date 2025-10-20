@@ -13,5 +13,6 @@ var searchData=
   ['glide_10',['glide',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#adcd0e853401db58c92eaa3c2768ff6d4',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['glidedisp_11',['glidedisp',['../classSteinberg_1_1Vst_1_1mda_1_1JX10Processor.html#a104a83f95295a5d517c7f55f303eb6a1',1,'Steinberg::Vst::mda::JX10Processor']]],
   ['globalparameters_12',['globalParameters',['../classSteinberg_1_1Vst_1_1VoiceBase.html#abed6e720d5becfd5fff36a96044576ad',1,'Steinberg::Vst::VoiceBase']]],
-  ['gstandardplugincontext_13',['gStandardPluginContext',['../../base/namespaceSteinberg.html#ae321ca2b045da80954622c101138b2b7',1,'Steinberg']]]
+  ['gpluginfactory_13',['gPluginFactory',['../../vstsdk/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81',1,'Steinberg']]],
+  ['gstandardplugincontext_14',['gStandardPluginContext',['../../base/namespaceSteinberg.html#ae321ca2b045da80954622c101138b2b7',1,'Steinberg']]]
 ];

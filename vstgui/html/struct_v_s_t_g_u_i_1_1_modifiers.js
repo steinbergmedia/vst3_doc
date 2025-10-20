@@ -2,6 +2,7 @@ var struct_v_s_t_g_u_i_1_1_modifiers =
 [
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html#adab327000fe96e2aa8772b581ecd8a57", null ],
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html#a97ce8aae819d2797ac59fa8277ebf72d", null ],
+    [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html#aa1b8147e5098fb85828676ffecd00a0c", null ],
     [ "Modifiers", "struct_v_s_t_g_u_i_1_1_modifiers.html#a97ae27d33dd8139211e4afb99cc39b0f", null ],
     [ "add", "struct_v_s_t_g_u_i_1_1_modifiers.html#a70dd2eb8191dd96ba40c4ae6553fc7ff", null ],
     [ "clear", "struct_v_s_t_g_u_i_1_1_modifiers.html#ac8bb3912a3ce86b15842e79d0b421204", null ],

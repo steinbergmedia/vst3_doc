@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -112,7 +112,7 @@ $(function(){initNavTree('classSteinberg_1_1Vst_1_1ProcessDataSlicer.html',''); 
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:adb177e088f35d41ccff42c6c93aa673b" id="r_adb177e088f35d41ccff42c6c93aa673b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#adb177e088f35d41ccff42c6c93aa673b">ProcessDataSlicer</a> (<a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a> inSliceSize=8)</td></tr>
+<tr class="memitem:adb177e088f35d41ccff42c6c93aa673b" id="r_adb177e088f35d41ccff42c6c93aa673b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#adb177e088f35d41ccff42c6c93aa673b">ProcessDataSlicer</a> (<a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a> inSliceSize=8)</td></tr>
 <tr class="memdesc:adb177e088f35d41ccff42c6c93aa673b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <br /></td></tr>
 <tr class="separator:adb177e088f35d41ccff42c6c93aa673b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8a5d3a26394df1031ca6a30c243e9565" id="r_a8a5d3a26394df1031ca6a30c243e9565"><td class="memTemplParams" colspan="2">template&lt;<a class="elRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06">SymbolicSampleSizes</a> SampleSize, typename DoProcessCallback&gt; </td></tr>
@@ -126,15 +126,15 @@ Public Member Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Process Data Slicer. </p>
 <p>Cuts the VST process data into slices to process</p>
-<p>Example: </p><div class="fragment"><div class="line"><a class="code hl_typedefRef" href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API Processor::process (<a class="code hl_structRef" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a>&amp; data)</div>
+<p>Example: </p><div class="fragment"><div class="line"><a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">tresult</a> PLUGIN_API Processor::process (<a class="code hl_structRef" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a>&amp; data)</div>
 <div class="line">{</div>
 <div class="line">    <a class="code hl_function" href="#adb177e088f35d41ccff42c6c93aa673b">ProcessDataSlicer</a> slicer (32);</div>
 <div class="line">    slicer.process&lt;SymbolicSampleSizes::kSample32&gt; (data, [&amp;] (<a class="code hl_structRef" href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">ProcessData</a>&amp; data) {</div>
 <div class="line">        doSlicedProcessing (data); <span class="comment">// data.numSamples &lt;= 32</span></div>
 <div class="line">    });</div>
 <div class="line">}</div>
-<div class="ttc" id="aclassSteinberg_1_1Vst_1_1ProcessDataSlicer_html_adb177e088f35d41ccff42c6c93aa673b"><div class="ttname"><a href="#adb177e088f35d41ccff42c6c93aa673b">Steinberg::Vst::ProcessDataSlicer::ProcessDataSlicer</a></div><div class="ttdeci">ProcessDataSlicer(int32 inSliceSize=8)</div><div class="ttdoc">Constructor.</div><div class="ttdef"><b>Definition</b> processdataslicer.h:69</div></div>
-<div class="ttc" id="anamespaceSteinberg_html_a902761e005a6252e538c766de48fc957"><div class="ttname"><a href="../base/namespaceSteinberg.html#a902761e005a6252e538c766de48fc957">Steinberg::tresult</a></div><div class="ttdeci">int32 tresult</div></div>
+<div class="ttc" id="aclassSteinberg_1_1Vst_1_1ProcessDataSlicer_html_adb177e088f35d41ccff42c6c93aa673b"><div class="ttname"><a href="#adb177e088f35d41ccff42c6c93aa673b">Steinberg::Vst::ProcessDataSlicer::ProcessDataSlicer</a></div><div class="ttdeci">ProcessDataSlicer(int32 inSliceSize=8)</div><div class="ttdoc">Constructor.</div><div class="ttdef"><b>Definition</b> processdataslicer.h:49</div></div>
+<div class="ttc" id="agroup__smtgtypedef_html_ga902761e005a6252e538c766de48fc957"><div class="ttname"><a href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">Steinberg::tresult</a></div><div class="ttdeci">int32 tresult</div></div>
 <div class="ttc" id="astructSteinberg_1_1Vst_1_1ProcessData_html"><div class="ttname"><a href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">Steinberg::Vst::ProcessData</a></div></div>
 </div><!-- fragment --> </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="adb177e088f35d41ccff42c6c93aa673b" name="adb177e088f35d41ccff42c6c93aa673b"></a>
@@ -149,7 +149,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="classSteinberg_1_1Vst_1_1ProcessDataSlicer.html">ProcessDataSlicer</a> </td>
           <td>(</td>
-          <td class="paramtype"><a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>inSliceSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">8</span></td><td>)</td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a></td>          <td class="paramname"><span class="paramname"><em>inSliceSize</em></span><span class="paramdefsep"> = </span><span class="paramdefval">8</span></td><td>)</td>
           <td></td>
         </tr>
       </table>

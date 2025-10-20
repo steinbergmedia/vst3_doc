@@ -21,11 +21,13 @@ var searchData=
   ['hostattributelist_18',['HostAttributeList',['../../vstsdk/classSteinberg_1_1Vst_1_1HostAttributeList.html',1,'Steinberg::Vst']]],
   ['hostclasses_2ecpp_19',['hostclasses.cpp',['../../vstsdk/hostclasses_8cpp.html',1,'']]],
   ['hostclasses_2eh_20',['hostclasses.h',['../../vstsdk/hostclasses_8h.html',1,'']]],
-  ['hostdataexchangehandler_21',['HostDataExchangeHandler',['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html',1,'HostDataExchangeHandler'],['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#a72c00ee9d1c317e2075880659f34a399',1,'Steinberg::Vst::HostDataExchangeHandler::HostDataExchangeHandler()']]],
-  ['hostdataexchangehandler_2ecpp_22',['hostdataexchangehandler.cpp',['../../vstsdk/hostdataexchangehandler_8cpp.html',1,'']]],
-  ['hostdataexchangehandler_2eh_23',['hostdataexchangehandler.h',['../../vstsdk/hostdataexchangehandler_8h.html',1,'']]],
-  ['hosting_20sdk_20implementation_20helper_20classes_24',['Common Hosting SDK Implementation Helper Classes',['../../vstsdk/group__hostingBase.html',1,'']]],
-  ['hostknobmode_25',['hostKnobMode',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
-  ['hostmessage_26',['HostMessage',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html',1,'HostMessage'],['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage::HostMessage()']]],
-  ['hostprocessdata_27',['HostProcessData',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html',1,'HostProcessData'],['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData::HostProcessData()']]]
+  ['hostcontextcallbackfunc_21',['HostContextCallbackFunc',['../../vstsdk/classSteinberg_1_1IPluginFactoryInternal.html#a6f177b21ae5f3a39a8444b65be72d7b2',1,'Steinberg::IPluginFactoryInternal']]],
+  ['hostcontextcallbacks_22',['hostContextCallbacks',['../../vstsdk/classSteinberg_1_1CPluginFactory.html#ad28040fe6cdddf27c96cb80baca7fd9e',1,'Steinberg::CPluginFactory']]],
+  ['hostdataexchangehandler_23',['HostDataExchangeHandler',['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html',1,'HostDataExchangeHandler'],['../../vstsdk/structSteinberg_1_1Vst_1_1HostDataExchangeHandler.html#a72c00ee9d1c317e2075880659f34a399',1,'Steinberg::Vst::HostDataExchangeHandler::HostDataExchangeHandler()']]],
+  ['hostdataexchangehandler_2ecpp_24',['hostdataexchangehandler.cpp',['../../vstsdk/hostdataexchangehandler_8cpp.html',1,'']]],
+  ['hostdataexchangehandler_2eh_25',['hostdataexchangehandler.h',['../../vstsdk/hostdataexchangehandler_8h.html',1,'']]],
+  ['hosting_20sdk_20implementation_20helper_20classes_26',['Common Hosting SDK Implementation Helper Classes',['../../vstsdk/group__hostingBase.html',1,'']]],
+  ['hostknobmode_27',['hostKnobMode',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
+  ['hostmessage_28',['HostMessage',['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html',1,'HostMessage'],['../../vstsdk/classSteinberg_1_1Vst_1_1HostMessage.html#abe5688697369115f0e7e72c362258a75',1,'Steinberg::Vst::HostMessage::HostMessage()']]],
+  ['hostprocessdata_29',['HostProcessData',['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html',1,'HostProcessData'],['../../vstsdk/classSteinberg_1_1Vst_1_1HostProcessData.html#a6dc7f96a94c1e2dc4c41340556367622',1,'Steinberg::Vst::HostProcessData::HostProcessData()']]]
 ];

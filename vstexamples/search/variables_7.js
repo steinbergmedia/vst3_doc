@@ -18,12 +18,13 @@ var searchData=
   ['hmix_15',['hmix',['../classSteinberg_1_1Vst_1_1mda_1_1DelayProcessor.html#a0b8cfdb941d0485219db6afc073f58e3',1,'Steinberg::Vst::mda::DelayProcessor::hmix'],['../classSteinberg_1_1Vst_1_1mda_1_1DubDelayProcessor.html#a0b8cfdb941d0485219db6afc073f58e3',1,'Steinberg::Vst::mda::DubDelayProcessor::hmix']]],
   ['hmom_16',['hmom',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a07e9b82cfcf013853d2f263e1b7b770e',1,'Steinberg::Vst::mda::LeslieProcessor']]],
   ['host_17',['host',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RepresentationInfo.html#a74766a169cd1c18bc001b99e1984a901',1,'Steinberg::Vst::RepresentationInfo::host'],['../classVSTGUI_1_1NoteTouchController.html#a416ef5aeb0c40849f69de8a80270c1a3',1,'VSTGUI::NoteTouchController::host']]],
-  ['hostknobmode_18',['hostKnobMode',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
-  ['hpf_19',['hpf',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#aedf42509154a5225aa8b87f7251abd65',1,'Steinberg::Vst::mda::ComboProcessor']]],
-  ['hphi_20',['hphi',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a689b9473fc4d738421dba7ed80050345',1,'Steinberg::Vst::mda::LeslieProcessor']]],
-  ['hpos_21',['hpos',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a90dbe0398b94e04f7ed428ff6f3bbb39',1,'Steinberg::Vst::mda::LeslieProcessor']]],
-  ['hset_22',['hset',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16b31222df0f65f2f673cb819279d694',1,'Steinberg::Vst::mda::LeslieProcessor']]],
-  ['hspd_23',['hspd',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae823473c2a6a07fab81543ff9521f576',1,'Steinberg::Vst::mda::LeslieProcessor']]],
-  ['hthr_24',['hthr',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a6b7699305b3bdeaec377bcbbdd446da3',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
-  ['hwid_25',['hwid',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae39ac864eae89dac86e131f89038b581',1,'Steinberg::Vst::mda::LeslieProcessor']]]
+  ['hostcontextcallbacks_18',['hostContextCallbacks',['../../vstsdk/classSteinberg_1_1CPluginFactory.html#ad28040fe6cdddf27c96cb80baca7fd9e',1,'Steinberg::CPluginFactory']]],
+  ['hostknobmode_19',['hostKnobMode',['../../vstsdk/classSteinberg_1_1Vst_1_1EditController.html#aec9109c6f108a19e1c9220fbe52cb903',1,'Steinberg::Vst::EditController']]],
+  ['hpf_20',['hpf',['../classSteinberg_1_1Vst_1_1mda_1_1ComboProcessor.html#aedf42509154a5225aa8b87f7251abd65',1,'Steinberg::Vst::mda::ComboProcessor']]],
+  ['hphi_21',['hphi',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a689b9473fc4d738421dba7ed80050345',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['hpos_22',['hpos',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a90dbe0398b94e04f7ed428ff6f3bbb39',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['hset_23',['hset',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#a16b31222df0f65f2f673cb819279d694',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['hspd_24',['hspd',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae823473c2a6a07fab81543ff9521f576',1,'Steinberg::Vst::mda::LeslieProcessor']]],
+  ['hthr_25',['hthr',['../classSteinberg_1_1Vst_1_1mda_1_1BeatBoxProcessor.html#a6b7699305b3bdeaec377bcbbdd446da3',1,'Steinberg::Vst::mda::BeatBoxProcessor']]],
+  ['hwid_26',['hwid',['../classSteinberg_1_1Vst_1_1mda_1_1LeslieProcessor.html#ae39ac864eae89dac86e131f89038b581',1,'Steinberg::Vst::mda::LeslieProcessor']]]
 ];

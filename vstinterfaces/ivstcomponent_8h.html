@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 Interfaces<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -164,7 +164,7 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a45d3e3dfb2fb99bbc186e4d9749f04ed" id="r_a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" href="../base/namespaceSteinberg.html#ab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">kDefaultFactoryFlags</a> = <a class="elRef" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td></tr>
+<tr class="memitem:a45d3e3dfb2fb99bbc186e4d9749f04ed" id="r_a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memItemLeft" align="right" valign="top">const <a class="elRef" href="../base/group__smtgtypedef.html#gab7903878916593daecbeb95b98115ab0">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">kDefaultFactoryFlags</a> = <a class="elRef" href="../base/structSteinberg_1_1PFactoryInfo.html#a618f56f095d5a47e04cb2a60c9fb7380aab221417e3c0a7c87707b0a5b80c9209">PFactoryInfo::kUnicode</a></td></tr>
 <tr class="memdesc:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Standard value for <a class="elRef" href="../base/structSteinberg_1_1PFactoryInfo.html#a8ffba1d4311e48ae488bc118f20d7edb">PFactoryInfo::flags</a>.  <br /></td></tr>
 <tr class="separator:a45d3e3dfb2fb99bbc186e4d9749f04ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -194,15 +194,16 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">using namespace </span><a class="code hl_namespaceRef" href="../base/namespaceSteinberg.html">Steinberg</a>; \</div>
 <div class="line">    SMTG_EXPORT_SYMBOL <a class="code hl_classRef" href="../base/classSteinberg_1_1IPluginFactory.html">IPluginFactory</a>* PLUGIN_API <a class="code hl_functionRef" href="../base/group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce">GetPluginFactory</a> () {   \</div>
-<div class="line">    if (!gPluginFactory) \</div>
+<div class="line">    if (!<a class="code hl_variableRef" href="../vstsdk/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a>) \</div>
 <div class="line">    { \</div>
 <div class="line">        <span class="keyword">static</span> <a class="code hl_structRef" href="../base/structSteinberg_1_1PFactoryInfo.html">PFactoryInfo</a> factoryInfo (vendor, url, email, <a class="code hl_variable" href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">Vst::kDefaultFactoryFlags</a>); \</div>
-<div class="line">        gPluginFactory = <span class="keyword">new</span> <a class="code hl_classRef" href="../vstsdk/classSteinberg_1_1CPluginFactory.html">CPluginFactory</a> (factoryInfo);</div>
+<div class="line">        <a class="code hl_variableRef" href="../vstsdk/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">gPluginFactory</a> = <span class="keyword">new</span> <a class="code hl_classRef" href="../vstsdk/classSteinberg_1_1CPluginFactory.html">CPluginFactory</a> (factoryInfo);</div>
 <div class="ttc" id="aclassSteinberg_1_1CPluginFactory_html"><div class="ttname"><a href="../vstsdk/classSteinberg_1_1CPluginFactory.html">Steinberg::CPluginFactory</a></div></div>
 <div class="ttc" id="aclassSteinberg_1_1IPluginFactory_html"><div class="ttname"><a href="../base/classSteinberg_1_1IPluginFactory.html">Steinberg::IPluginFactory</a></div></div>
 <div class="ttc" id="agroup__pluginBase_html_gaa032a4a5e821cf7c490a99d3e7d5e9ce"><div class="ttname"><a href="../base/group__pluginBase.html#gaa032a4a5e821cf7c490a99d3e7d5e9ce">GetPluginFactory</a></div><div class="ttdeci">SMTG_EXPORT_SYMBOL Steinberg::IPluginFactory * GetPluginFactory()</div></div>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_html_a45d3e3dfb2fb99bbc186e4d9749f04ed"><div class="ttname"><a href="namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed">Steinberg::Vst::kDefaultFactoryFlags</a></div><div class="ttdeci">const int32 kDefaultFactoryFlags</div><div class="ttdoc">Standard value for PFactoryInfo::flags.</div><div class="ttdef"><b>Definition</b> ivstcomponent.h:35</div></div>
 <div class="ttc" id="anamespaceSteinberg_html"><div class="ttname"><a href="../base/namespaceSteinberg.html">Steinberg</a></div></div>
+<div class="ttc" id="anamespaceSteinberg_html_a8424a16f6b47419c0c3bb4b7b1374d81"><div class="ttname"><a href="../vstsdk/namespaceSteinberg.html#a8424a16f6b47419c0c3bb4b7b1374d81">Steinberg::gPluginFactory</a></div><div class="ttdeci">CPluginFactory * gPluginFactory</div></div>
 <div class="ttc" id="astructSteinberg_1_1PFactoryInfo_html"><div class="ttname"><a href="../base/structSteinberg_1_1PFactoryInfo.html">Steinberg::PFactoryInfo</a></div></div>
 </div><!-- fragment -->
 </div>

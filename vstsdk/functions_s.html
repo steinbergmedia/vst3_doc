@@ -28,7 +28,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.7</span>
+   <div id="projectname">VST 3 SDK<span id="projectnumber">&#160;VST 3.8</span>
    </div>
    <div id="projectbrief">SDK for developing VST plug-in</div>
   </td>
@@ -103,8 +103,8 @@ $(function(){initNavTree('functions_s.html',''); initResizable(true); });
 <h3><a id="index_s" name="index_s"></a>- s -</h3><ul>
 <li>sampleOffset&#160;:&#160;<a class="el" href="structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html#a9b2081be7783cb98c534aa1ff955ac5c">ParameterChangeTransfer::ParameterChange</a>, <a class="el" href="structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html#a9b2081be7783cb98c534aa1ff955ac5c">ParameterValueQueue::ParameterQueueValue</a></li>
 <li>savePreset()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1InterAppAudio_1_1PresetManager.html#a44a50538a33e1cf9037b41fb3c228825">PresetManager</a>, <a class="el" href="classSteinberg_1_1Vst_1_1PresetFile.html#a8441f45bf92e396b33f38a4340e7366e">PresetFile</a></li>
-<li>scaleFactor&#160;:&#160;<a class="el" href="structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html#a7abda017cb76ae387450f3791f534046">Module::Snapshot::ImageDesc</a></li>
-<li>sdkVersion&#160;:&#160;<a class="el" href="structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#ae705d4709a19c5cfaadd383e9203f174">ClassInfo::Data</a>, <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#a42f1f09ad58d79826b38ccbe0816d997">ClassInfo</a></li>
+<li>scaleFactor&#160;:&#160;<a class="el" href="structSteinberg_1_1ModuleInfo_1_1Snapshot.html#a7abda017cb76ae387450f3791f534046">ModuleInfo::Snapshot</a>, <a class="el" href="structVST3_1_1Hosting_1_1Module_1_1Snapshot_1_1ImageDesc.html#a7abda017cb76ae387450f3791f534046">Module::Snapshot::ImageDesc</a></li>
+<li>sdkVersion&#160;:&#160;<a class="el" href="structSteinberg_1_1ModuleInfo_1_1ClassInfo.html#ae705d4709a19c5cfaadd383e9203f174">ModuleInfo::ClassInfo</a>, <a class="el" href="structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#ae705d4709a19c5cfaadd383e9203f174">ClassInfo::Data</a>, <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#a42f1f09ad58d79826b38ccbe0816d997">ClassInfo</a></li>
 <li>sectionSize&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#af41bde84789297dfe81525f233300d84">ReadOnlyBStream</a></li>
 <li>seek()&#160;:&#160;<a class="el" href="classSteinberg_1_1MemoryStream.html#ab094f95ba58b46a4d65cfda04b69004c">MemoryStream</a>, <a class="el" href="classSteinberg_1_1ResizableMemoryIBStream.html#a50fd45a16f261b03326a4142c3f3da03">ResizableMemoryIBStream</a>, <a class="el" href="classSteinberg_1_1Vst_1_1BufferStream.html#a2d4abea09c00a14cc7cb73faca434027">BufferStream</a>, <a class="el" href="classSteinberg_1_1Vst_1_1FileStream.html#a2d4abea09c00a14cc7cb73faca434027">FileStream</a>, <a class="el" href="classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#a2d4abea09c00a14cc7cb73faca434027">ReadOnlyBStream</a></li>
 <li>seekPosition&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#a1cdfa4bf0d188b0055ea2e95878cbba4">ReadOnlyBStream</a></li>
@@ -184,7 +184,8 @@ $(function(){initNavTree('functions_s.html',''); initResizable(true); });
 <li>SingleComponentEffect()&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a2efe1e138401d6dcadfc5de300ac2a94">SingleComponentEffect</a></li>
 <li>size&#160;:&#160;<a class="el" href="classSteinberg_1_1MemoryStream.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9">MemoryStream</a>, <a class="el" href="classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html#a3caedb145a667c26028740417dcf32c3">RingBuffer&lt; ItemT &gt;</a>, <a class="el" href="classSteinberg_1_1Vst_1_1ParameterChangeTransfer.html#aa1728750481b853c3246037c1ba1c68b">ParameterChangeTransfer</a>, <a class="el" href="structSteinberg_1_1Vst_1_1PresetFile_1_1Entry.html#ab1758d5ff5bb8a9770c8c1e1b3b5b5f9">PresetFile::Entry</a>, <a class="el" href="structVST3_1_1UID.html#a20b2abb54d43add1d16c4c4660c43922">UID</a></li>
 <li>SMTG_OVERRIDE&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1SingleComponentEffect.html#a985dc60099827f0160cf03e294e3989b">SingleComponentEffect</a></li>
-<li>SnapshotList&#160;:&#160;<a class="el" href="classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587">Module</a></li>
+<li>SnapshotList&#160;:&#160;<a class="el" href="structSteinberg_1_1ModuleInfo.html#a9424de46a29175d2e1687b5256496587">ModuleInfo</a>, <a class="el" href="classVST3_1_1Hosting_1_1Module.html#a9424de46a29175d2e1687b5256496587">Module</a></li>
+<li>snapshots&#160;:&#160;<a class="el" href="structSteinberg_1_1ModuleInfo_1_1ClassInfo.html#ac7011d4d0ac7742e85fd66cf5d9e3917">ModuleInfo::ClassInfo</a></li>
 <li>sourceOffset&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#ac307066b40cf8bf55dd44465564f3e65">ReadOnlyBStream</a></li>
 <li>sourceStream&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ReadOnlyBStream.html#ab5f8047e9c69ee8936a446f5de7c6cc6">ReadOnlyBStream</a></li>
 <li>speaker&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1SpeakerArray.html#a46342207540a92616e060073b43f57f3">SpeakerArray</a></li>
@@ -213,7 +214,7 @@ $(function(){initNavTree('functions_s.html',''); initResizable(true); });
 <li>StringType&#160;:&#160;<a class="el" href="structVST3_1_1Version.html#af27e2448955784e46e43ebd13eeb215a">Version</a></li>
 <li>StringVector&#160;:&#160;<a class="el" href="classSteinberg_1_1Vst_1_1ProgramList.html#a6abb6494190bf7743511db2c1c5075ae">ProgramList</a></li>
 <li>SubCategories&#160;:&#160;<a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#aa489b07acb4219dd706f6dd8db7a6e11">ClassInfo</a></li>
-<li>subCategories&#160;:&#160;<a class="el" href="structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#aa58fa0abd717f05f9716d6644e4c9c27">ClassInfo::Data</a>, <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#a00e451a4fa6a0049adf7287cb6a64584">ClassInfo</a></li>
+<li>subCategories&#160;:&#160;<a class="el" href="structSteinberg_1_1ModuleInfo_1_1ClassInfo.html#abe5091a8ca70279a7971aaf63111b62a">ModuleInfo::ClassInfo</a>, <a class="el" href="structVST3_1_1Hosting_1_1ClassInfo_1_1Data.html#aa58fa0abd717f05f9716d6644e4c9c27">ClassInfo::Data</a>, <a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#a00e451a4fa6a0049adf7287cb6a64584">ClassInfo</a></li>
 <li>subCategoriesString()&#160;:&#160;<a class="el" href="classVST3_1_1Hosting_1_1ClassInfo.html#a3c54e473627b01f1693c3058d61311ac">ClassInfo</a></li>
 <li>swap()&#160;:&#160;<a class="el" href="structVST3_1_1Optional.html#a110ae1b77ad3a879e779a0d2deb90e52">Optional&lt; T &gt;</a></li>
 <li>SysEx13ByteData&#160;:&#160;<a class="el" href="structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a2c7a04d0f6ea91b61f3643aefed0f0b7">IUniversalMidiPacketHandler</a></li>

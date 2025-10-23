@@ -228,7 +228,7 @@ Supported file formats</h1>
 <p>File format support is handled in a platform dependent way. On Windows GDI+ is used to import images. On Mac OS X CoreGraphics is used to import them. For cross platform compatibility it is recommended to use PNG files. </p>
 <h1><a class="anchor" id="loading"></a>
 Loading Bitmaps</h1>
-<p>You load a bitmap via a <a class="el" href="class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID.">CResourceDescription</a> which can hold a string or a number. If you use names, you need to use the real filename with extension. Then it gets automaticly loaded on Mac OS X out of the Resources folder of the vst bundle. On Windows you also specify the resource in the .rc file with the real filename. </p><div class="fragment"><div class="line"><span class="comment">// using a number</span></div>
+<p>You load a bitmap via a <a class="el" href="class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID.">CResourceDescription</a> which can hold a string or a number. If you use names, you need to use the real filename with extension. Then it gets automatically loaded on Mac OS X out of the Resources folder of the vst bundle. On Windows you also specify the resource in the .rc file with the real filename. </p><div class="fragment"><div class="line"><span class="comment">// using a number</span></div>
 <div class="line">1001                    PNG  DISCARDABLE     <span class="stringliteral">&quot;bmp01001.png&quot;</span></div>
 <div class="line"><span class="comment">// using a string</span></div>
 <div class="line">RealFileName.png        PNG  DISCARDABLE     <span class="stringliteral">&quot;RealFileName.png&quot;</span></div>

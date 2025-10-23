@@ -136,7 +136,7 @@ Public Member Functions</h2></td></tr>
 <div class="textblock"><p><a class="el" href="classSteinberg_1_1Vst_1_1SystemTime.html" title="SystemTime Helper class.">SystemTime</a> Helper class. </p>
 <p>Get the system time on the vst controller side.</p>
 <p>If supported by the host this uses the same clock as used in the realtime audio process block. Otherwise an approximation via platform APIs is used.</p>
-<p>This can be used to synchronize audio and visuals. As known, the audio process block is always called ealier as the audio which was generated passes the audio monitors or headphones. Depending on the audio graph this can be so long that your eyes will see the visualization (if not synchronized) earlier then your ears will hear the sound. To synchronize you need to queue your visualization data on the controller side timestamped with the time from the process block and dequed when it's time for the data to be visualized. </p>
+<p>This can be used to synchronize audio and visuals. As known, the audio process block is always called earlier as the audio which was generated passes the audio monitors or headphones. Depending on the audio graph this can be so long that your eyes will see the visualization (if not synchronized) earlier then your ears will hear the sound. To synchronize you need to queue your visualization data on the controller side timestamped with the time from the process block and dequeued when it's time for the data to be visualized. </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a1fcda6c4393139a8fc5829cc40b1ffa3" name="a1fcda6c4393139a8fc5829cc40b1ffa3"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1fcda6c4393139a8fc5829cc40b1ffa3">&#9670;&#160;</a></span>GetImplFunc</h2>

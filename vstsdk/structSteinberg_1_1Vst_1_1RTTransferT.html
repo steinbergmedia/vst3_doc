@@ -288,7 +288,7 @@ template&lt;typename ObjectT, typename Deleter = std::default_delete&lt;ObjectT&
 </div><div class="memdoc">
 
 <p>Transfer an object to the realtime context. </p>
-<p>The ownership of newObject is transfered to this object and the Deleter is used to free the memory of it afterwards.</p>
+<p>The ownership of newObject is transferred to this object and the Deleter is used to free the memory of it afterwards.</p>
 <p>If there's already an object in transfer the previous object will be deallocated and replaced with the new one without passing to the realtime context.</p>
 <p>To be called from the non realtime context. </p>
 

@@ -163,41 +163,41 @@ Example</h1>
 <div class="line">    {</div>
 <div class="line">        <span class="comment">// optional we can ask for the Channel Name Length</span></div>
 <div class="line">        <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga7cde0074dfd288f2d70c0e035dacb28a">int64</a> length;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a175778add2bfeafd5b184f4e47869e80">ChannelContext::kChannelNameLengthKey</a>, length) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a175778add2bfeafd5b184f4e47869e80">ChannelContext::kChannelNameLengthKey</a>, length) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line">        </div>
 <div class="line">        <span class="comment">// get the Channel Name where we, as plug-in, are instantiated</span></div>
 <div class="line">        <a class="code hl_typedef" href="group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> name;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a355d0e3fe55ba9c58ebe6cb29cf27ce5">ChannelContext::kChannelNameKey</a>, name, sizeof (name)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a355d0e3fe55ba9c58ebe6cb29cf27ce5">ChannelContext::kChannelNameKey</a>, name, sizeof (name)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line"> </div>
 <div class="line">        <span class="comment">// get the Channel UID</span></div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a68ad60e2a9bdcefda0e2296e7f9296f9">ChannelContext::kChannelUIDKey</a>, name, sizeof (name)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a68ad60e2a9bdcefda0e2296e7f9296f9">ChannelContext::kChannelUIDKey</a>, name, sizeof (name)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line"> </div>
 <div class="line">        <span class="comment">// get Channel RuntimeID</span></div>
 <div class="line">        <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga7cde0074dfd288f2d70c0e035dacb28a">int64</a> runtimeId;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9c2f6d2b8c4bdae3d194aee3a111bfd8">ChannelContext::kChannelRuntimeIDKey</a>, runtimeId) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9c2f6d2b8c4bdae3d194aee3a111bfd8">ChannelContext::kChannelRuntimeIDKey</a>, runtimeId) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line"> </div>
 <div class="line">        <span class="comment">// get Channel Index</span></div>
 <div class="line">        <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga7cde0074dfd288f2d70c0e035dacb28a">int64</a> index;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a42930b877ebbb27bf3daa78d02780be1">ChannelContext::kChannelIndexKey</a>, index) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a42930b877ebbb27bf3daa78d02780be1">ChannelContext::kChannelIndexKey</a>, index) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line">        </div>
 <div class="line">        <span class="comment">// get the Channel Color</span></div>
 <div class="line">        <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga7cde0074dfd288f2d70c0e035dacb28a">int64</a> color;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a218d5777a06f7780c7ded2a14c9f2922">ChannelContext::kChannelColorKey</a>, color) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a218d5777a06f7780c7ded2a14c9f2922">ChannelContext::kChannelColorKey</a>, color) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> channelColor = (<a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>)color;</div>
 <div class="line">            String str;</div>
@@ -211,27 +211,27 @@ Example</h1>
 <div class="line">        }</div>
 <div class="line"> </div>
 <div class="line">        <span class="comment">// get Channel Index Namespace Order of the current used index namespace</span></div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#acd822b1c74f9c7e9afaa16b0ce578f7e">ChannelContext::kChannelIndexNamespaceOrderKey</a>, index) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#acd822b1c74f9c7e9afaa16b0ce578f7e">ChannelContext::kChannelIndexNamespaceOrderKey</a>, index) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line">    </div>
 <div class="line">        <span class="comment">// get the channel Index Namespace Length</span></div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9b082b198abef61a8397bafcf4e30a72">ChannelContext::kChannelIndexNamespaceLengthKey</a>, length) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9b082b198abef61a8397bafcf4e30a72">ChannelContext::kChannelIndexNamespaceLengthKey</a>, length) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line">        </div>
 <div class="line">        <span class="comment">// get the channel Index Namespace</span></div>
 <div class="line">        <a class="code hl_typedef" href="group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> namespaceName;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9dee889cb7b726bf9bf9f21c79334261">ChannelContext::kChannelIndexNamespaceKey</a>, namespaceName, sizeof (namespaceName)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#a55f4e61bbda9656f83cddff7ff64f15f">getString</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a9dee889cb7b726bf9bf9f21c79334261">ChannelContext::kChannelIndexNamespaceKey</a>, namespaceName, sizeof (namespaceName)) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            ...</div>
 <div class="line">        }</div>
 <div class="line"> </div>
 <div class="line">        <span class="comment">// get plug-in Channel Location</span></div>
 <div class="line">        <a class="code hl_typedefRef" href="../base/group__smtgtypedef.html#ga7cde0074dfd288f2d70c0e035dacb28a">int64</a> location;</div>
-<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a1836e6445deeff80efc1d389b8ba7ac5">ChannelContext::kChannelPluginLocationKey</a>, location) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
+<div class="line">        <span class="keywordflow">if</span> (list-&gt;<a class="code hl_function" href="classSteinberg_1_1Vst_1_1IAttributeList.html#aa17533c77e99f8fc18c7fb0dac5b1810">getInt</a> (<a class="code hl_variable" href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#a1836e6445deeff80efc1d389b8ba7ac5">ChannelContext::kChannelPluginLocationKey</a>, location) == <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">kResultTrue</a>)</div>
 <div class="line">        {</div>
 <div class="line">            <a class="code hl_typedef" href="group__vst3typedef.html#ga4b750afeaca8056101ac7952543dfd47">String128</a> string128;</div>
 <div class="line">            <span class="keywordflow">switch</span> (location)</div>
@@ -277,7 +277,7 @@ Example</h1>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_1_1ChannelContext_html_aebb8ee9f4706c337a1b4e60aa6fb876a"><div class="ttname"><a href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#aebb8ee9f4706c337a1b4e60aa6fb876a">Steinberg::Vst::ChannelContext::GetBlue</a></div><div class="ttdeci">ColorComponent GetBlue(ColorSpec cs)</div><div class="ttdoc">Returns the Blue part of the given ColorSpec.</div><div class="ttdef"><b>Definition</b> ivstchannelcontextinfo.h:190</div></div>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_1_1ChannelContext_html_aec4e4eb3c84dfef143f364aa46ecd207"><div class="ttname"><a href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#aec4e4eb3c84dfef143f364aa46ecd207">Steinberg::Vst::ChannelContext::GetAlpha</a></div><div class="ttdeci">ColorComponent GetAlpha(ColorSpec cs)</div><div class="ttdoc">Returns the Alpha part of the given ColorSpec.</div><div class="ttdef"><b>Definition</b> ivstchannelcontextinfo.h:205</div></div>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_1_1ChannelContext_html_aed9a2736c58335d0e2558c34db3ba6ae"><div class="ttname"><a href="namespaceSteinberg_1_1Vst_1_1ChannelContext.html#aed9a2736c58335d0e2558c34db3ba6ae">Steinberg::Vst::ChannelContext::GetGreen</a></div><div class="ttdeci">ColorComponent GetGreen(ColorSpec cs)</div><div class="ttdoc">Returns the Green part of the given ColorSpec.</div><div class="ttdef"><b>Definition</b> ivstchannelcontextinfo.h:195</div></div>
-<div class="ttc" id="anamespaceSteinberg_html_af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372"><div class="ttname"><a href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">Steinberg::kResultTrue</a></div><div class="ttdeci">kResultTrue</div></div>
+<div class="ttc" id="anamespaceSteinberg_html_ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372"><div class="ttname"><a href="../base/namespaceSteinberg.html#ae5c1b707d8cdb568fae645cb9c7c362aa9e60fad4624bee040985edebe1800372">Steinberg::kResultTrue</a></div><div class="ttdeci">kResultTrue</div></div>
 </div><!-- fragment --> </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a976da6f002de26e9431f1189f7d75b00" name="a976da6f002de26e9431f1189f7d75b00"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a976da6f002de26e9431f1189f7d75b00">&#9670;&#160;</a></span>setChannelContextInfos()</h2>

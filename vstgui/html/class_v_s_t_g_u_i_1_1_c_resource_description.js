@@ -9,5 +9,5 @@ var class_v_s_t_g_u_i_1_1_c_resource_description =
     [ "id", "class_v_s_t_g_u_i_1_1_c_resource_description.html#a2708c0bbb6f926149707c2c61fe43c3e", null ],
     [ "name", "class_v_s_t_g_u_i_1_1_c_resource_description.html#aa8c787104fc8d7babca567f2e6e73697", null ],
     [ "type", "class_v_s_t_g_u_i_1_1_c_resource_description.html#a449e574ed6911881dc55507cb5635c2c", null ],
-    [ "u", "class_v_s_t_g_u_i_1_1_c_resource_description.html#a592b2b27422e3ef10f68956fd10f97bc", null ]
+    [ "u", "class_v_s_t_g_u_i_1_1_c_resource_description.html#a0b7e4417b9f8affc232e635b56da585c", null ]
 ];

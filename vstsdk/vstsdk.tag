@@ -2,54 +2,54 @@
 <tagfile doxygen_version="1.13.2" doxygen_gitid="26342b775ea25e6fefb53220926b20702c56fcb3">
   <compound kind="file">
     <name>commonstringconvert.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>commonstringconvert_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::StringConvert</namespace>
   </compound>
   <compound kind="file">
     <name>memorystream.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>memorystream_8h.html</filename>
     <class kind="class">Steinberg::MemoryStream</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>openurl.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>openurl_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>pluginview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>pluginview_8h.html</filename>
     <class kind="class">Steinberg::CPluginView</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>readfile.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>readfile_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>systemclipboard.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>systemclipboard_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::SystemClipboard</namespace>
   </compound>
   <compound kind="file">
     <name>threadchecker.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/common/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/common/</path>
     <filename>threadchecker_8h.html</filename>
     <class kind="class">Steinberg::Vst::ThreadChecker</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>moduleinit.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/main/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/main/</path>
     <filename>moduleinit_8h.html</filename>
     <class kind="struct">Steinberg::ModuleInitializer</class>
     <class kind="struct">Steinberg::ModuleTerminator</class>
@@ -57,7 +57,7 @@
   </compound>
   <compound kind="file">
     <name>pluginfactory.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/main/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/main/</path>
     <filename>pluginfactory_8h.html</filename>
     <class kind="class">Steinberg::IPluginFactoryInternal</class>
     <class kind="class">Steinberg::CPluginFactory</class>
@@ -128,7 +128,7 @@
   </compound>
   <compound kind="file">
     <name>pluginfactory_constexpr.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/main/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/main/</path>
     <filename>pluginfactory__constexpr_8h.html</filename>
     <class kind="class">Steinberg::PluginFactory</class>
     <class kind="struct">Steinberg::PluginFactoryDetail::ClassInfo2WithCreateFunc</class>
@@ -158,113 +158,113 @@
   </compound>
   <compound kind="file">
     <name>aaxentry.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxentry_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxlibrary.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxlibrary_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_description.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__description_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_gui.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__gui_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_gui.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__gui_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_parameters.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__parameters_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>aaxwrapper_parameters.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/aaxwrapper/</path>
     <filename>aaxwrapper__parameters_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aucarbonview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucarbonview_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aucarbonview.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucarbonview_8mm.html</filename>
   </compound>
   <compound kind="file">
     <name>aucocoaview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucocoaview_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>aucocoaview.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>aucocoaview_8mm.html</filename>
   </compound>
   <compound kind="file">
     <name>ausdk.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>ausdk_8mm.html</filename>
   </compound>
   <compound kind="file">
     <name>auwrapper.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>auwrapper_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>auwrapper.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>auwrapper_8mm.html</filename>
   </compound>
   <compound kind="file">
     <name>NSDataIBStream.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>NSDataIBStream_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>NSDataIBStream.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>NSDataIBStream_8mm.html</filename>
   </compound>
   <compound kind="file">
     <name>usediids.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/auwrapper/</path>
     <filename>usediids_8cpp.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>basewrapper.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>basewrapper.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>basewrapper.sdk.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/basewrapper/</path>
     <filename>basewrapper_8sdk_8cpp.html</filename>
     <includes id="basewrapper_8cpp" name="basewrapper.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/basewrapper/basewrapper.cpp</includes>
     <includes id="connectionproxy_8cpp" name="connectionproxy.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/connectionproxy.cpp</includes>
@@ -276,19 +276,19 @@
   </compound>
   <compound kind="file">
     <name>doc_public_sdk_limited.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>doc__public__sdk__limited_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>connectionproxy.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8cpp.html</filename>
     <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" import="no" module="no" objc="no">connectionproxy.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>connectionproxy.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>connectionproxy_8h.html</filename>
     <includes id="threadchecker_8h" name="threadchecker.h" local="yes" import="no" module="no" objc="no">public.sdk/source/common/threadchecker.h</includes>
     <class kind="class">Steinberg::Vst::ConnectionProxy</class>
@@ -296,21 +296,21 @@
   </compound>
   <compound kind="file">
     <name>eventlist.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8cpp.html</filename>
     <includes id="eventlist_8h" name="eventlist.h" local="yes" import="no" module="no" objc="no">eventlist.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>eventlist.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>eventlist_8h.html</filename>
     <class kind="class">Steinberg::Vst::EventList</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>hostclasses.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8cpp.html</filename>
     <includes id="hostclasses_8h" name="hostclasses.h" local="yes" import="no" module="no" objc="no">hostclasses.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
@@ -318,7 +318,7 @@
   </compound>
   <compound kind="file">
     <name>hostclasses.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostclasses_8h.html</filename>
     <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/pluginterfacesupport.h</includes>
     <class kind="class">Steinberg::Vst::HostApplication</class>
@@ -328,7 +328,7 @@
   </compound>
   <compound kind="file">
     <name>hostdataexchangehandler.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostdataexchangehandler_8cpp.html</filename>
     <includes id="hostdataexchangehandler_8h" name="hostdataexchangehandler.h" local="yes" import="no" module="no" objc="no">hostdataexchangehandler.h</includes>
     <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" import="no" module="no" objc="no">../utility/alignedalloc.h</includes>
@@ -337,7 +337,7 @@
   </compound>
   <compound kind="file">
     <name>hostdataexchangehandler.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>hostdataexchangehandler_8h.html</filename>
     <class kind="struct">Steinberg::Vst::IDataExchangeHandlerHost</class>
     <class kind="struct">Steinberg::Vst::HostDataExchangeHandler</class>
@@ -345,7 +345,7 @@
   </compound>
   <compound kind="file">
     <name>module.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8cpp.html</filename>
     <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
@@ -355,7 +355,7 @@
   </compound>
   <compound kind="file">
     <name>module.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module_8h.html</filename>
     <includes id="uid_8h" name="uid.h" local="yes" import="no" module="no" objc="no">../utility/uid.h</includes>
     <class kind="class">VST3::Hosting::FactoryInfo</class>
@@ -370,7 +370,7 @@
   </compound>
   <compound kind="file">
     <name>module_linux.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__linux_8cpp.html</filename>
     <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
     <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
@@ -401,7 +401,7 @@
   </compound>
   <compound kind="file">
     <name>module_mac.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__mac_8mm.html</filename>
     <includes id="module_8h" name="module.h" local="yes" import="yes" module="no" objc="yes">module.h</includes>
     <namespace>VST3</namespace>
@@ -423,7 +423,7 @@
   </compound>
   <compound kind="file">
     <name>module_win32.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>module__win32_8cpp.html</filename>
     <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">module.h</includes>
     <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
@@ -475,14 +475,14 @@
   </compound>
   <compound kind="file">
     <name>parameterchanges.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>parameterchanges_8cpp.html</filename>
     <includes id="parameterchanges_8h" name="parameterchanges.h" local="yes" import="no" module="no" objc="no">parameterchanges.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>parameterchanges.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>parameterchanges_8h.html</filename>
     <class kind="class">Steinberg::Vst::ParameterValueQueue</class>
     <class kind="struct">Steinberg::Vst::ParameterValueQueue::ParameterQueueValue</class>
@@ -493,21 +493,21 @@
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8cpp.html</filename>
     <includes id="pluginterfacesupport_8h" name="pluginterfacesupport.h" local="yes" import="no" module="no" objc="no">pluginterfacesupport.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>pluginterfacesupport.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>pluginterfacesupport_8h.html</filename>
     <class kind="class">Steinberg::Vst::PlugInterfaceSupport</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>plugprovider.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8cpp.html</filename>
     <includes id="plugprovider_8h" name="plugprovider.h" local="yes" import="no" module="no" objc="no">plugprovider.h</includes>
     <includes id="connectionproxy_8h" name="connectionproxy.h" local="yes" import="no" module="no" objc="no">connectionproxy.h</includes>
@@ -515,7 +515,7 @@
   </compound>
   <compound kind="file">
     <name>plugprovider.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>plugprovider_8h.html</filename>
     <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/module.h</includes>
     <class kind="class">Steinberg::Vst::PlugProvider</class>
@@ -524,26 +524,26 @@
   </compound>
   <compound kind="file">
     <name>processdata.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8cpp.html</filename>
     <includes id="processdata_8h" name="processdata.h" local="yes" import="no" module="no" objc="no">processdata.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>processdata.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/</path>
     <filename>processdata_8h.html</filename>
     <class kind="class">Steinberg::Vst::HostProcessData</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>AudioIO.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>AudioIO_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>AudioIO.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>AudioIO_8mm.html</filename>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
     <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">MidiIO.h</includes>
@@ -559,12 +559,12 @@
   </compound>
   <compound kind="file">
     <name>HostApp.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>HostApp_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>HostApp.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>HostApp_8mm.html</filename>
     <includes id="HostApp_8h" name="HostApp.h" local="yes" import="yes" module="no" objc="yes">HostApp.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
@@ -576,7 +576,7 @@
   </compound>
   <compound kind="file">
     <name>MidiIO.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8h.html</filename>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="no" module="no" objc="no">AudioIO.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::MidiIO</class>
@@ -585,7 +585,7 @@
   </compound>
   <compound kind="file">
     <name>MidiIO.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>MidiIO_8mm.html</filename>
     <includes id="MidiIO_8h" name="MidiIO.h" local="yes" import="yes" module="no" objc="yes">MidiIO.h</includes>
     <namespace>Steinberg</namespace>
@@ -593,18 +593,18 @@
   </compound>
   <compound kind="file">
     <name>PresetBrowserViewController.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetBrowserViewController_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>PresetBrowserViewController.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetBrowserViewController_8mm.html</filename>
     <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" import="yes" module="no" objc="yes">PresetBrowserViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>PresetManager.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8h.html</filename>
     <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="no" module="no" objc="no">VST3Plugin.h</includes>
     <class kind="class">Steinberg::Vst::InterAppAudio::PresetManager</class>
@@ -613,7 +613,7 @@
   </compound>
   <compound kind="file">
     <name>PresetManager.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetManager_8mm.html</filename>
     <includes id="PresetManager_8h" name="PresetManager.h" local="yes" import="yes" module="no" objc="yes">PresetManager.h</includes>
     <includes id="PresetBrowserViewController_8h" name="PresetBrowserViewController.h" local="yes" import="yes" module="no" objc="yes">PresetBrowserViewController.h</includes>
@@ -624,18 +624,18 @@
   </compound>
   <compound kind="file">
     <name>PresetSaveViewController.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetSaveViewController_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>PresetSaveViewController.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>PresetSaveViewController_8mm.html</filename>
     <includes id="PresetSaveViewController_8h" name="PresetSaveViewController.h" local="yes" import="yes" module="no" objc="yes">PresetSaveViewController.h</includes>
   </compound>
   <compound kind="file">
     <name>SettingsViewController.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>SettingsViewController_8h.html</filename>
     <member kind="function">
       <type>void</type>
@@ -647,7 +647,7 @@
   </compound>
   <compound kind="file">
     <name>SettingsViewController.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>SettingsViewController_8mm.html</filename>
     <includes id="SettingsViewController_8h" name="SettingsViewController.h" local="yes" import="yes" module="no" objc="yes">SettingsViewController.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">AudioIO.h</includes>
@@ -662,12 +662,12 @@
   </compound>
   <compound kind="file">
     <name>VST3Editor.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Editor_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>VST3Editor.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Editor_8mm.html</filename>
     <includes id="VST3Editor_8h" name="VST3Editor.h" local="yes" import="yes" module="no" objc="yes">VST3Editor.h</includes>
     <namespace>Steinberg</namespace>
@@ -675,12 +675,12 @@
   </compound>
   <compound kind="file">
     <name>VST3Plugin.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Plugin_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>VST3Plugin.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VST3Plugin_8mm.html</filename>
     <includes id="VST3Plugin_8h" name="VST3Plugin.h" local="yes" import="yes" module="no" objc="yes">VST3Plugin.h</includes>
     <includes id="HostApp_8h" name="HostApp.h" local="yes" import="yes" module="no" objc="yes">HostApp.h</includes>
@@ -705,13 +705,13 @@
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegateBase.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VSTInterAppAudioAppDelegateBase_8h.html</filename>
     <class kind="class">VSTInterAppAudioAppDelegateBase</class>
   </compound>
   <compound kind="file">
     <name>VSTInterAppAudioAppDelegateBase.mm</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/</path>
     <filename>VSTInterAppAudioAppDelegateBase_8mm.html</filename>
     <includes id="VSTInterAppAudioAppDelegateBase_8h" name="VSTInterAppAudioAppDelegateBase.h" local="yes" import="yes" module="no" objc="yes">VSTInterAppAudioAppDelegateBase.h</includes>
     <includes id="AudioIO_8h" name="AudioIO.h" local="yes" import="yes" module="no" objc="yes">public.sdk/source/vst/interappaudio/AudioIO.h</includes>
@@ -722,7 +722,7 @@
   </compound>
   <compound kind="file">
     <name>moduleinfo.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
     <filename>moduleinfo_8h.html</filename>
     <class kind="struct">Steinberg::ModuleInfo</class>
     <class kind="struct">Steinberg::ModuleInfo::FactoryInfo</class>
@@ -733,7 +733,7 @@
   </compound>
   <compound kind="file">
     <name>moduleinfocreator.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
     <filename>moduleinfocreator_8cpp.html</filename>
     <includes id="moduleinfocreator_8h" name="moduleinfocreator.h" local="yes" import="no" module="no" objc="no">moduleinfocreator.h</includes>
     <namespace>Steinberg</namespace>
@@ -741,7 +741,7 @@
   </compound>
   <compound kind="file">
     <name>moduleinfocreator.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
     <filename>moduleinfocreator_8h.html</filename>
     <includes id="moduleinfo_8h" name="moduleinfo.h" local="yes" import="no" module="no" objc="no">moduleinfo.h</includes>
     <includes id="module_8h" name="module.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/hosting/module.h</includes>
@@ -750,7 +750,7 @@
   </compound>
   <compound kind="file">
     <name>moduleinfoparser.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
     <filename>moduleinfoparser_8cpp.html</filename>
     <includes id="moduleinfoparser_8h" name="moduleinfoparser.h" local="yes" import="no" module="no" objc="no">moduleinfoparser.h</includes>
     <namespace>Steinberg</namespace>
@@ -758,7 +758,7 @@
   </compound>
   <compound kind="file">
     <name>moduleinfoparser.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/moduleinfo/</path>
     <filename>moduleinfoparser_8h.html</filename>
     <includes id="moduleinfo_8h" name="moduleinfo.h" local="yes" import="no" module="no" objc="no">moduleinfo.h</includes>
     <namespace>Steinberg</namespace>
@@ -766,7 +766,7 @@
   </compound>
   <compound kind="file">
     <name>testbase.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>testbase_8cpp.html</filename>
     <includes id="testbase_8h" name="testbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/testsuite/testbase.h</includes>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
@@ -774,7 +774,7 @@
   </compound>
   <compound kind="file">
     <name>testbase.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>testbase_8h.html</filename>
     <class kind="struct">Steinberg::Vst::TestingPluginContext</class>
     <class kind="struct">Steinberg::Vst::TestDefaults</class>
@@ -794,7 +794,7 @@
   </compound>
   <compound kind="file">
     <name>vststructsizecheck.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vststructsizecheck_8h.html</filename>
     <namespace>Steinberg</namespace>
     <member kind="define">
@@ -814,29 +814,29 @@
   </compound>
   <compound kind="file">
     <name>vsttestsuite.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vsttestsuite_8cpp.html</filename>
   </compound>
   <compound kind="file">
     <name>vsttestsuite.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/testsuite/</path>
     <filename>vsttestsuite_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>alignedalloc.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>alignedalloc_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>audiobuffers.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>audiobuffers_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>dataexchange.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>dataexchange_8cpp.html</filename>
     <includes id="dataexchange_8h" name="dataexchange.h" local="yes" import="no" module="no" objc="no">dataexchange.h</includes>
     <includes id="alignedalloc_8h" name="alignedalloc.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/alignedalloc.h</includes>
@@ -845,7 +845,7 @@
   </compound>
   <compound kind="file">
     <name>dataexchange.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>dataexchange_8h.html</filename>
     <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstaudioeffect.h</includes>
     <class kind="class">Steinberg::Vst::DataExchangeHandler</class>
@@ -855,20 +855,20 @@
   </compound>
   <compound kind="file">
     <name>memoryibstream.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>memoryibstream_8h.html</filename>
     <class kind="class">Steinberg::ResizableMemoryIBStream</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>midiconvert.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>midiconvert_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>mpeprocessor.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>mpeprocessor_8cpp.html</filename>
     <includes id="mpeprocessor_8h" name="mpeprocessor.h" local="yes" import="no" module="no" objc="no">mpeprocessor.h</includes>
     <namespace>Steinberg</namespace>
@@ -876,7 +876,7 @@
   </compound>
   <compound kind="file">
     <name>mpeprocessor.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>mpeprocessor_8h.html</filename>
     <class kind="struct">Steinberg::Vst::MPE::Handler</class>
     <class kind="struct">Steinberg::Vst::MPE::Setup</class>
@@ -886,7 +886,7 @@
   </compound>
   <compound kind="file">
     <name>objcclassbuilder.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>objcclassbuilder_8h.html</filename>
     <class kind="struct">Steinberg::ObjCVariable</class>
     <class kind="struct">Steinberg::ObjCInstance</class>
@@ -895,28 +895,28 @@
   </compound>
   <compound kind="file">
     <name>optional.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>optional_8h.html</filename>
     <class kind="struct">VST3::Optional</class>
     <namespace>VST3</namespace>
   </compound>
   <compound kind="file">
     <name>processcontextrequirements.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>processcontextrequirements_8h.html</filename>
     <class kind="class">Steinberg::Vst::ProcessContextRequirements</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>processdataslicer.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>processdataslicer_8h.html</filename>
     <class kind="class">Steinberg::Vst::ProcessDataSlicer</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>ringbuffer.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>ringbuffer_8h.html</filename>
     <class kind="class">Steinberg::OneReaderOneWriter::RingBuffer</class>
     <namespace>Steinberg</namespace>
@@ -924,14 +924,14 @@
   </compound>
   <compound kind="file">
     <name>rttransfer.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>rttransfer_8h.html</filename>
     <class kind="struct">Steinberg::Vst::RTTransferT</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>sampleaccurate.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>sampleaccurate_8h.html</filename>
     <class kind="struct">Steinberg::Vst::SampleAccurate::Parameter</class>
     <namespace>Steinberg</namespace>
@@ -939,7 +939,7 @@
   </compound>
   <compound kind="file">
     <name>stringconvert.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8cpp.html</filename>
     <includes id="stringconvert_8h" name="stringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/stringconvert.h</includes>
     <includes id="commonstringconvert_8h" name="commonstringconvert.h" local="yes" import="no" module="no" objc="no">public.sdk/source/common/commonstringconvert.h</includes>
@@ -948,7 +948,7 @@
   </compound>
   <compound kind="file">
     <name>stringconvert.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>stringconvert_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst::StringConvert</namespace>
@@ -957,28 +957,28 @@
   </compound>
   <compound kind="file">
     <name>systemtime.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>systemtime_8cpp.html</filename>
     <includes id="systemtime_8h" name="systemtime.h" local="yes" import="no" module="no" objc="no">systemtime.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>systemtime.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>systemtime_8h.html</filename>
     <class kind="class">Steinberg::Vst::SystemTime</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>testing.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>testing_8cpp.html</filename>
     <includes id="testing_8h" name="testing.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/testing.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>testing.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>testing_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst::Test</namespace>
@@ -1034,7 +1034,7 @@
   </compound>
   <compound kind="file">
     <name>uid.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>uid_8h.html</filename>
     <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">optional.h</includes>
     <class kind="struct">VST3::UID</class>
@@ -1042,7 +1042,7 @@
   </compound>
   <compound kind="file">
     <name>ump.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>ump_8h.html</filename>
     <class kind="struct">Steinberg::Vst::UMP::IUniversalMidiPacketHandler</class>
     <class kind="struct">Steinberg::Vst::UMP::Detail::UMPMessage</class>
@@ -1068,7 +1068,7 @@
   </compound>
   <compound kind="file">
     <name>versionparser.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>versionparser_8h.html</filename>
     <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Version</class>
@@ -1076,7 +1076,7 @@
   </compound>
   <compound kind="file">
     <name>vst2persistence.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8cpp.html</filename>
     <includes id="vst2persistence_8h" name="vst2persistence.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/vst2persistence.h</includes>
     <namespace>VST3</namespace>
@@ -1084,7 +1084,7 @@
   </compound>
   <compound kind="file">
     <name>vst2persistence.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/utility/</path>
     <filename>vst2persistence_8h.html</filename>
     <includes id="optional_8h" name="optional.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/optional.h</includes>
     <class kind="struct">VST3::Vst2xProgram</class>
@@ -1093,14 +1093,14 @@
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8cpp.html</filename>
     <includes id="vstaudioeffect_8h" name="vstaudioeffect.h" local="yes" import="no" module="no" objc="no">vstaudioeffect.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstaudioeffect.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioeffect_8h.html</filename>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstbus.h</includes>
     <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponent.h</includes>
@@ -1110,21 +1110,21 @@
   </compound>
   <compound kind="file">
     <name>vstaudioprocessoralgo.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstaudioprocessoralgo_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst::Algo</namespace>
   </compound>
   <compound kind="file">
     <name>vstbus.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbus_8cpp.html</filename>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">vstbus.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstbus.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbus_8h.html</filename>
     <class kind="class">Steinberg::Vst::Bus</class>
     <class kind="class">Steinberg::Vst::EventBus</class>
@@ -1134,7 +1134,7 @@
   </compound>
   <compound kind="file">
     <name>vstbypassprocessor.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstbypassprocessor_8h.html</filename>
     <includes id="vstspeakerarray_8h" name="vstspeakerarray.h" local="yes" import="no" module="no" objc="no">vstspeakerarray.h</includes>
     <class kind="class">Steinberg::Vst::AudioBuffer</class>
@@ -1151,14 +1151,14 @@
   </compound>
   <compound kind="file">
     <name>vstcomponent.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8cpp.html</filename>
     <includes id="vstcomponent_8h" name="vstcomponent.h" local="yes" import="no" module="no" objc="no">vstcomponent.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstcomponent.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponent_8h.html</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponentbase.h</includes>
     <includes id="vstbus_8h" name="vstbus.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstbus.h</includes>
@@ -1167,28 +1167,28 @@
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8cpp.html</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">vstcomponentbase.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstcomponentbase.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstcomponentbase_8h.html</filename>
     <class kind="class">Steinberg::Vst::ComponentBase</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8cpp.html</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vsteditcontroller.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteditcontroller_8h.html</filename>
     <includes id="vstcomponentbase_8h" name="vstcomponentbase.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstcomponentbase.h</includes>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstparameters.h</includes>
@@ -1203,40 +1203,40 @@
   </compound>
   <compound kind="file">
     <name>vsteventshelper.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsteventshelper_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst::Helpers</namespace>
   </compound>
   <compound kind="file">
     <name>vstgui_linux_runloop_support.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__linux__runloop__support_8cpp.html</filename>
     <includes id="vstgui__linux__runloop__support_8h" name="vstgui_linux_runloop_support.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vstgui_linux_runloop_support.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstgui_linux_runloop_support.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__linux__runloop__support_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8cpp.html</filename>
     <includes id="vstgui__win32__bundle__support_8h" name="vstgui_win32_bundle_support.h" local="yes" import="no" module="no" objc="no">vstgui_win32_bundle_support.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstgui_win32_bundle_support.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstgui__win32__bundle__support_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstguieditor.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8cpp.html</filename>
     <includes id="vstguieditor_8h" name="vstguieditor.h" local="yes" import="no" module="no" objc="no">vstguieditor.h</includes>
     <includes id="moduleinit_8h" name="moduleinit.h" local="yes" import="no" module="no" objc="no">public.sdk/source/main/moduleinit.h</includes>
@@ -1261,7 +1261,7 @@
   </compound>
   <compound kind="file">
     <name>vstguieditor.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstguieditor_8h.html</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">vsteditcontroller.h</includes>
     <class kind="class">Steinberg::Vst::VSTGUIEditor</class>
@@ -1276,20 +1276,20 @@
   </compound>
   <compound kind="file">
     <name>vsthelpers.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vsthelpers_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::Vst::Helpers</namespace>
   </compound>
   <compound kind="file">
     <name>vstinitiids.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstinitiids_8cpp.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstnoteexpressiontypes_8cpp.html</filename>
     <includes id="vstnoteexpressiontypes_8h" name="vstnoteexpressiontypes.h" local="yes" import="no" module="no" objc="no">vstnoteexpressiontypes.h</includes>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">vstparameters.h</includes>
@@ -1297,7 +1297,7 @@
   </compound>
   <compound kind="file">
     <name>vstnoteexpressiontypes.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstnoteexpressiontypes_8h.html</filename>
     <class kind="class">Steinberg::Vst::NoteExpressionType</class>
     <class kind="class">Steinberg::Vst::RangeNoteExpressionType</class>
@@ -1306,14 +1306,14 @@
   </compound>
   <compound kind="file">
     <name>vstparameters.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstparameters_8cpp.html</filename>
     <includes id="vstparameters_8h" name="vstparameters.h" local="yes" import="no" module="no" objc="no">vstparameters.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstparameters.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstparameters_8h.html</filename>
     <class kind="class">Steinberg::Vst::Parameter</class>
     <class kind="class">Steinberg::Vst::RangeParameter</class>
@@ -1323,14 +1323,14 @@
   </compound>
   <compound kind="file">
     <name>vstpresetfile.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstpresetfile_8cpp.html</filename>
     <includes id="vstpresetfile_8h" name="vstpresetfile.h" local="yes" import="no" module="no" objc="no">vstpresetfile.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstpresetfile.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstpresetfile_8h.html</filename>
     <class kind="class">Steinberg::Vst::PresetFile</class>
     <class kind="struct">Steinberg::Vst::PresetFile::Entry</class>
@@ -1341,7 +1341,7 @@
   </compound>
   <compound kind="file">
     <name>vstrepresentation.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8cpp.html</filename>
     <includes id="vstrepresentation_8h" name="vstrepresentation.h" local="yes" import="no" module="no" objc="no">vstrepresentation.h</includes>
     <namespace>Steinberg</namespace>
@@ -1376,14 +1376,14 @@
   </compound>
   <compound kind="file">
     <name>vstrepresentation.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstrepresentation_8h.html</filename>
     <class kind="class">Steinberg::Vst::XmlRepresentationHelper</class>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>vstsinglecomponenteffect.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8cpp.html</filename>
     <includes id="vstsinglecomponenteffect_8h" name="vstsinglecomponenteffect.h" local="yes" import="no" module="no" objc="no">vstsinglecomponenteffect.h</includes>
     <includes id="vsteditcontroller_8cpp" name="vsteditcontroller.cpp" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.cpp</includes>
@@ -1405,7 +1405,7 @@
   </compound>
   <compound kind="file">
     <name>vstsinglecomponenteffect.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstsinglecomponenteffect_8h.html</filename>
     <includes id="vsteditcontroller_8h" name="vsteditcontroller.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/vsteditcontroller.h</includes>
     <includes id="processcontextrequirements_8h" name="processcontextrequirements.h" local="yes" import="no" module="no" objc="no">public.sdk/source/vst/utility/processcontextrequirements.h</includes>
@@ -1430,7 +1430,7 @@
   </compound>
   <compound kind="file">
     <name>vstspeakerarray.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/286a93c37425dbcd/VST_SDK/vst3sdk/public.sdk/source/vst/</path>
     <filename>vstspeakerarray_8h.html</filename>
     <class kind="class">Steinberg::Vst::SpeakerArray</class>
     <namespace>Steinberg</namespace>
@@ -7210,13 +7210,13 @@
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>a8981619c954c2e78c5bb7b27489d1844a7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>a7f50487eee3777b618322dc81f32660fa7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kMaxEntries</name>
       <anchorfile>classSteinberg_1_1Vst_1_1PresetFile.html</anchorfile>
-      <anchor>a8981619c954c2e78c5bb7b27489d1844a7c523f5cdb8166ac95e994b9e6359476</anchor>
+      <anchor>a7f50487eee3777b618322dc81f32660fa7c523f5cdb8166ac95e994b9e6359476</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">
@@ -8661,7 +8661,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>a9f6f6f8528dc4b6998dcebb6860ac0d7aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>ac96ed22397e2742278b2e654261b0f82aceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="typedef">
@@ -8674,7 +8674,7 @@
     <member kind="enumvalue">
       <name>kMaxSpeakers</name>
       <anchorfile>classSteinberg_1_1Vst_1_1SpeakerArray.html</anchorfile>
-      <anchor>a9f6f6f8528dc4b6998dcebb6860ac0d7aceba67855d498983e892a86a4725c662</anchor>
+      <anchor>ac96ed22397e2742278b2e654261b0f82aceba67855d498983e892a86a4725c662</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -10586,73 +10586,73 @@
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5af0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInRepresentation</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6af0cf5cce87ba2cc97522590350412484</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5af0cf5cce87ba2cc97522590350412484</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInPage</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a647b9baecf2e680ebc63b346d0e4e0d6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInCell</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a84809f54cc1b556f8ace8b59f6da6317</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a84809f54cc1b556f8ace8b59f6da6317</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInLayer</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a3693c6360209705c905d60a7d8d88138</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a3693c6360209705c905d60a7d8d88138</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInTitleDisplay</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a1a92cc5b6e2a8795a3cd433a0dff7a19</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue" protection="protected">
       <name>kInName</name>
       <anchorfile>classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html</anchorfile>
-      <anchor>a53c42a93b27ca899ce8bcd8f012236f6a90dd27033d3d683e310ff11536946f04</anchor>
+      <anchor>a3544934e3f23dd2d8190d244d5be81d5a90dd27033d3d683e310ff11536946f04</anchor>
       <arglist></arglist>
     </member>
     <member kind="function" protection="protected">

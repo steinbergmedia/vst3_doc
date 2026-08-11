@@ -119,15 +119,15 @@ var namespaceSteinberg_1_1Vst =
     ] ],
     [ "InterAppAudio", "namespaceSteinberg_1_1Vst_1_1InterAppAudio.html", "namespaceSteinberg_1_1Vst_1_1InterAppAudio" ],
     [ "LayerType", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html", [
-      [ "kKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89aed465fd2dd47fea2b560392552bf65a9", null ],
-      [ "kPressedKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89a8c1ff139254d93782be7eaec45059110", null ],
-      [ "kSwitchKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89a75d5f413c5b9d0337515c307a5e10dcf", null ],
-      [ "kSwitch", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89aaa243fb2b8aff16421d89868c811958a", null ],
-      [ "kLED", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89a125690f72eb0478f1b83b9f17dc7c431", null ],
-      [ "kLink", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89ad5309d363b060cc3481f6e021b26f0d3", null ],
-      [ "kDisplay", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89a1c1b7a564dd807a7c1c4cffb88d8b100", null ],
-      [ "kFader", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89ae6364790e7803e2a147b5abeb9554c70", null ],
-      [ "kEndOfLayerType", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa7b641c902d22bffaff0166bce7fce89a9a9bc943010bbc1e4d0df5442fd1612e", null ]
+      [ "kKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439caed465fd2dd47fea2b560392552bf65a9", null ],
+      [ "kPressedKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439ca8c1ff139254d93782be7eaec45059110", null ],
+      [ "kSwitchKnob", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439ca75d5f413c5b9d0337515c307a5e10dcf", null ],
+      [ "kSwitch", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439caaa243fb2b8aff16421d89868c811958a", null ],
+      [ "kLED", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439ca125690f72eb0478f1b83b9f17dc7c431", null ],
+      [ "kLink", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439cad5309d363b060cc3481f6e021b26f0d3", null ],
+      [ "kDisplay", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439ca1c1b7a564dd807a7c1c4cffb88d8b100", null ],
+      [ "kFader", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439cae6364790e7803e2a147b5abeb9554c70", null ],
+      [ "kEndOfLayerType", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1LayerType.html#aa235f99506cf87375dd36be35a6a439ca9a9bc943010bbc1e4d0df5442fd1612e", null ]
     ] ],
     [ "MPE", "namespaceSteinberg_1_1Vst_1_1MPE.html", "namespaceSteinberg_1_1Vst_1_1MPE" ],
     [ "MusicalCharacter", "../vstinterfaces/namespaceSteinberg_1_1Vst_1_1MusicalCharacter.html", [

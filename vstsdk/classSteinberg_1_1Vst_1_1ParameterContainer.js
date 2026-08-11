@@ -6,7 +6,7 @@ var classSteinberg_1_1Vst_1_1ParameterContainer =
     [ "~ParameterContainer", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a023243865c40e3198f716d09ad53c585", null ],
     [ "init", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a45c61e90b4a6fc07b6597c9acc55b483", null ],
     [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a85fdb751a90bc332b258174367c3ae21", null ],
-    [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#ab1ea7afd1ecc429f8324b751082e4b0f", null ],
+    [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a4d7bee2cc79e8d5e0f19001a4fe7fa00", null ],
     [ "addParameter", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a6214dce887302e2cdc39fe332ce899a5", null ],
     [ "getParameterCount", "classSteinberg_1_1Vst_1_1ParameterContainer.html#af13945f51c49cf1a2ab03d31c11a7349", null ],
     [ "getParameterByIndex", "classSteinberg_1_1Vst_1_1ParameterContainer.html#a39896fc5c802a18f9bb71c5303e841ae", null ],

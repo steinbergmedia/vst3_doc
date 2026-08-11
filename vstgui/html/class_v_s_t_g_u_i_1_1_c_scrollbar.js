@@ -43,7 +43,7 @@ var class_v_s_t_g_u_i_1_1_c_scrollbar =
     [ "direction", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a945bc7708563ad05b79829e5eb16c2a3", null ],
     [ "drawer", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aad21a7d3ac3ca4e0201726d752618b49", null ],
     [ "frameColor", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a2957de9143163fdabe1042932a03c13c", null ],
-    [ "minScrollerLenght", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa20b6e005b586618964a0a27771365c8", null ],
+    [ "minScrollerLength", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4bdf766e8026b9e86e9da6b315f8be78", null ],
     [ "mouseIsInside", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#af48613e6bb2a88c353624aa2ee4bd36c", null ],
     [ "overlayStyle", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#ad303445f68b931e186ddfaefaf265715", null ],
     [ "scrollerArea", "class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6be5784169eec4c02d7d1f9e9c652e90", null ],

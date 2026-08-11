@@ -4,6 +4,7 @@ var hierarchy =
     [ "BusInfo", "structSteinberg_1_1Vst_1_1BusInfo.html", null ],
     [ "Chord", "structSteinberg_1_1Vst_1_1Chord.html", null ],
     [ "ChordEvent", "structSteinberg_1_1Vst_1_1ChordEvent.html", null ],
+    [ "ClassificationVariations", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html", null ],
     [ "DataEvent", "structSteinberg_1_1Vst_1_1DataEvent.html", null ],
     [ "DataExchangeBlock", "structSteinberg_1_1Vst_1_1DataExchangeBlock.html", null ],
     [ "Event", "structSteinberg_1_1Vst_1_1Event.html", null ],
@@ -63,6 +64,7 @@ var hierarchy =
       [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", [
         [ "ITestPlugProvider2", "classSteinberg_1_1Vst_1_1ITestPlugProvider2.html", null ]
       ] ],
+      [ "ITransportControl", "classSteinberg_1_1Vst_1_1ITransportControl.html", null ],
       [ "IUnitData", "classSteinberg_1_1Vst_1_1IUnitData.html", null ],
       [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", null ],
       [ "IUnitHandler2", "classSteinberg_1_1Vst_1_1IUnitHandler2.html", null ],
@@ -71,7 +73,8 @@ var hierarchy =
       [ "IVst3ToAUWrapper", "classSteinberg_1_1Vst_1_1IVst3ToAUWrapper.html", null ],
       [ "IVst3ToVst2Wrapper", "classSteinberg_1_1Vst_1_1IVst3ToVst2Wrapper.html", null ],
       [ "IVst3WrapperMPESupport", "classSteinberg_1_1Vst_1_1IVst3WrapperMPESupport.html", null ],
-      [ "IXmlRepresentationController", "classSteinberg_1_1Vst_1_1IXmlRepresentationController.html", null ]
+      [ "IXmlRepresentationController", "classSteinberg_1_1Vst_1_1IXmlRepresentationController.html", null ],
+      [ "IInfo", "classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html", null ]
     ] ],
     [ "IContextMenuItem", "structSteinberg_1_1Vst_1_1IContextMenuItem.html", null ],
     [ "KeyswitchInfo", "structSteinberg_1_1Vst_1_1KeyswitchInfo.html", null ],
@@ -99,5 +102,7 @@ var hierarchy =
     [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html", null ],
     [ "RoutingInfo", "structSteinberg_1_1Vst_1_1RoutingInfo.html", null ],
     [ "ScaleEvent", "structSteinberg_1_1Vst_1_1ScaleEvent.html", null ],
-    [ "UnitInfo", "structSteinberg_1_1Vst_1_1UnitInfo.html", null ]
+    [ "TransportPosition", "structSteinberg_1_1Vst_1_1TransportPosition.html", null ],
+    [ "UnitInfo", "structSteinberg_1_1Vst_1_1UnitInfo.html", null ],
+    [ "Variations", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html", null ]
 ];

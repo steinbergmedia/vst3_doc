@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['bank_0',['bank',['../structSteinberg_1_1Vst_1_1Midi2Controller.html#a54d84afd7f8280b815e19855fb672964',1,'Steinberg::Vst::Midi2Controller']]],
+  ['bank_0',['bank',['../structSteinberg_1_1Vst_1_1Midi2Controller.html#a3184238fced66a13d511018127fa4821',1,'Steinberg::Vst::Midi2Controller']]],
   ['banklsb_1',['BankLSB',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#afbb0e21dbbe231a4fc86d49064bc8ac1',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
   ['bankmsb_2',['BankMSB',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#a22e7795020c0f4e77e675d92594db478',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
   ['banknumber_3',['BankNumber',['../../vstsdk/structSteinberg_1_1Vst_1_1UMP_1_1IUniversalMidiPacketHandler.html#aa61c467c7213eaf8394b00f5535d9a17',1,'Steinberg::Vst::UMP::IUniversalMidiPacketHandler']]],
@@ -36,5 +36,7 @@ var searchData=
   ['bustype_33',['busType',['../../vstsdk/classSteinberg_1_1Vst_1_1Bus.html#a19466623a694c883892184cab092ebfc',1,'Steinberg::Vst::Bus::busType'],['../structSteinberg_1_1Vst_1_1BusInfo.html#a795177c339bd0b25de0ea4189aa6c893',1,'Steinberg::Vst::BusInfo::busType']]],
   ['bustypes_34',['BusTypes',['../group__vstBus.html#ga4849e8fa0da1b39bd3e0af87b441675a',1,'Steinberg::Vst']]],
   ['bypassprocessor_35',['BypassProcessor',['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html',1,'BypassProcessor&lt; typename T &gt;'],['../../vstsdk/classSteinberg_1_1Vst_1_1BypassProcessor.html#a65dfc5518bfcfa58c79cf25488415a40',1,'Steinberg::Vst::BypassProcessor::BypassProcessor()']]],
-  ['bytes_36',['bytes',['../structSteinberg_1_1Vst_1_1DataEvent.html#ab0e4bfcd0606119dacd07fd9388de747',1,'Steinberg::Vst::DataEvent']]]
+  ['byte1_36',['byte1',['../structSteinberg_1_1Vst_1_1Midi2Controller.html#a1a661e78b43cfc1414d068f95e6d66c5',1,'Steinberg::Vst::Midi2Controller']]],
+  ['byte2_37',['byte2',['../structSteinberg_1_1Vst_1_1Midi2Controller.html#a5b1753d4e3d4a0e4cfd9dced8745feb2',1,'Steinberg::Vst::Midi2Controller']]],
+  ['bytes_38',['bytes',['../structSteinberg_1_1Vst_1_1DataEvent.html#ab0e4bfcd0606119dacd07fd9388de747',1,'Steinberg::Vst::DataEvent']]]
 ];

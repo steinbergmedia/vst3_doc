@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['main_0',['main',['../main_8m.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.m'],['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
+  ['main_0',['main',['../main_8m.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.m'],['../audiohost_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;audiohost.cpp'],['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
   ['make_1',['make',['../../vstsdk/classSteinberg_1_1Vst_1_1HostAttributeList.html#aeaaa458fee981785f687f46a87d7b361',1,'Steinberg::Vst::HostAttributeList']]],
   ['makeclassinfo2_2',['makeClassInfo2',['../../vstsdk/namespaceSteinberg_1_1PluginFactoryDetail.html#a4bf32b2af66cbb8a01a30cdf65503d57',1,'Steinberg::PluginFactoryDetail']]],
   ['makecolorspec_3',['MakeColorSpec',['../../base/namespaceSteinberg.html#a58b97116e0faaf335c798a65b687e9f2',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b)'],['../../base/namespaceSteinberg.html#aa7cb190cb494b7f61aaacf170d322d30',1,'Steinberg::MakeColorSpec(ColorComponent r, ColorComponent g, ColorComponent b, ColorComponent a)']]],

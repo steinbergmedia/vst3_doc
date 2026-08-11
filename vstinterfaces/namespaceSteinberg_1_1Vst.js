@@ -77,6 +77,7 @@ var namespaceSteinberg_1_1Vst =
       [ "kLowLatencyMode", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#af4be690372df7b16a930d2207e408402", null ],
       [ "kDryWetMix", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a108cdff90ad44efad08520aa4af2a891", null ],
       [ "kRandomize", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a7e3eaee867bebf92ee98e6e19de3d7df", null ],
+      [ "kRandomizeAroundCurrent", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ae07dfb2ad0f7d6ec393ef5dea52bb13a", null ],
       [ "kPanPosCenterX", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ad875faf2282aeb70781130ed7e8de2b9", null ],
       [ "kPanPosCenterY", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ab4ab5d97708547af9600017e134a225f", null ],
       [ "kPanPosCenterZ", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a850c37b07b8d83b79d308a151668cb59", null ]
@@ -397,6 +398,7 @@ var namespaceSteinberg_1_1Vst =
       [ "kWorldEthnicSouthAmerica", "group__musicalStyle.html#gaad0a8d9f7a2cef071860eee02948c556", null ],
       [ "kWorldEthnicAustralia", "group__musicalStyle.html#gae08118ff90a70fbd90e1979aa1a33c9f", null ]
     ] ],
+    [ "NoteOnOrchestralArticulation", "namespaceSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation.html", "namespaceSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation" ],
     [ "ParameterChangeTransfer", "../vstsdk/structSteinberg_1_1Vst_1_1ParameterChangeTransfer_1_1ParameterChange.html", null ],
     [ "ParameterValueQueue", "../vstsdk/structSteinberg_1_1Vst_1_1ParameterValueQueue_1_1ParameterQueueValue.html", null ],
     [ "PlugType", "namespaceSteinberg_1_1Vst_1_1PlugType.html", [
@@ -911,6 +913,7 @@ var namespaceSteinberg_1_1Vst =
     [ "IStreamAttributes", "classSteinberg_1_1Vst_1_1IStreamAttributes.html", "classSteinberg_1_1Vst_1_1IStreamAttributes" ],
     [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider" ],
     [ "ITestPlugProvider2", "classSteinberg_1_1Vst_1_1ITestPlugProvider2.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider2" ],
+    [ "ITransportControl", "classSteinberg_1_1Vst_1_1ITransportControl.html", "classSteinberg_1_1Vst_1_1ITransportControl" ],
     [ "IUnitData", "classSteinberg_1_1Vst_1_1IUnitData.html", "classSteinberg_1_1Vst_1_1IUnitData" ],
     [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", "classSteinberg_1_1Vst_1_1IUnitHandler" ],
     [ "IUnitHandler2", "classSteinberg_1_1Vst_1_1IUnitHandler2.html", "classSteinberg_1_1Vst_1_1IUnitHandler2" ],
@@ -945,6 +948,7 @@ var namespaceSteinberg_1_1Vst =
     [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html", "structSteinberg_1_1Vst_1_1RepresentationInfo" ],
     [ "RoutingInfo", "structSteinberg_1_1Vst_1_1RoutingInfo.html", "structSteinberg_1_1Vst_1_1RoutingInfo" ],
     [ "ScaleEvent", "structSteinberg_1_1Vst_1_1ScaleEvent.html", "structSteinberg_1_1Vst_1_1ScaleEvent" ],
+    [ "TransportPosition", "structSteinberg_1_1Vst_1_1TransportPosition.html", "structSteinberg_1_1Vst_1_1TransportPosition" ],
     [ "UnitInfo", "structSteinberg_1_1Vst_1_1UnitInfo.html", "structSteinberg_1_1Vst_1_1UnitInfo" ],
     [ "DataExchangeQueueID", "group__vst3typedef.html#ga288e28d94c3b16dc959546d1eec4481d", null ],
     [ "DataExchangeBlockID", "group__vst3typedef.html#ga3a962000edc1e2170b043fb6f20c9187", null ],
@@ -1117,6 +1121,18 @@ var namespaceSteinberg_1_1Vst =
       [ "kPhonemeTypeID", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a4ebd202862aff5265a6c1bcd901bd5b8", null ],
       [ "kCustomStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a1c30475ef992f89f37c2fe0aafcc6283", null ],
       [ "kCustomEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a2c5cacda2fb1b13fb3bce937819bf1f9", null ],
+      [ "kMidi2AssignablePerNoteControllerStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aab76dfeb439294e131699be6b52feba5", null ],
+      [ "kMidi2AssignablePerNoteControllerEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a5cadeea05e27816b458700253acbb1bb", null ],
+      [ "kMidi2RegisteredPerNoteControllerStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ab126bdb18e0623d50248816462681840", null ],
+      [ "kMidi2RegisteredPerNoteControllerPlayingPosition", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a6f29db1c2aecc307509ac552a9977576", null ],
+      [ "kMidi2RegisteredPerNoteControllerEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aaa28395ed2d2822ebb4e81bee2a9abeb", null ],
+      [ "kMidi2NoteOnAttributeStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a54faee5e81d0e92ef7866bfee9b6e192", null ],
+      [ "kMidi2NoteOnOrchestralArticulationStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310acd4501c1ea323b35024b22a8af5b3011", null ],
+      [ "kMidi2NoteOnOrchestralArticulationEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a245aa57e57867b2170bf65e5ef600c33", null ],
+      [ "kMidi2NoteOnAttributeEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a8216bd328f256ae54f6b236af6fb616e", null ],
+      [ "kMidi2NoteOffAttributeStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aaeab0b0daad4b913be572ff6fe3c483e", null ],
+      [ "kMidi2NoteOffOrchestralArticulation", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a4d16eb5a5ca0bd833d8e52efa0032b2c", null ],
+      [ "kMidi2NoteOffAttributeEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ada6238fb584d5dd3eb46c81ef8fcb170", null ],
       [ "kInvalidTypeID", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ae9353615a5098aba2a5dc927d5497132", null ]
     ] ],
     [ "KeyswitchTypeIDs", "namespaceSteinberg_1_1Vst.html#a94ba59b05ac09e4f021b5cd0955852c9", [
@@ -1137,6 +1153,10 @@ var namespaceSteinberg_1_1Vst =
       [ "kIsYetPrefetchable", "namespaceSteinberg_1_1Vst.html#a18aa40e583fe3a75b569e7129e0d89b5aa43449cf5a0e596fa81b4a8498404f3f", null ],
       [ "kIsNotYetPrefetchable", "namespaceSteinberg_1_1Vst.html#a18aa40e583fe3a75b569e7129e0d89b5a836dd1dc4f2a6ad88f87dd23cb0cbed6", null ],
       [ "kNumPrefetchableSupport", "namespaceSteinberg_1_1Vst.html#a18aa40e583fe3a75b569e7129e0d89b5a24f726f3f3303a115cf6755b6df6c984", null ]
+    ] ],
+    [ "TransportPositionType", "namespaceSteinberg_1_1Vst.html#a51dd087263b5218be99155995608819f", [
+      [ "Samples", "namespaceSteinberg_1_1Vst.html#a51dd087263b5218be99155995608819fa6a844401e25fec6796f8a7cb4b4917ad", null ],
+      [ "QuarterNotes", "namespaceSteinberg_1_1Vst.html#a51dd087263b5218be99155995608819fa618a4b34a5751bb10736056f2d964bb0", null ]
     ] ],
     [ "allocateMessage", "namespaceSteinberg_1_1Vst.html#a5ffc91bb5b37b922daa253b93cc6143c", null ],
     [ "kDefaultFactoryFlags", "namespaceSteinberg_1_1Vst.html#a45d3e3dfb2fb99bbc186e4d9749f04ed", null ],

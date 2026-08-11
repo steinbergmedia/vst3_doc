@@ -16,5 +16,7 @@ var searchData=
   ['ustring_13',['UString',['../../base/classSteinberg_1_1UString.html',1,'Steinberg']]],
   ['ustringbuffer_14',['UStringBuffer',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
   ['ustringbuffer_3c_20128_20_3e_15',['UStringBuffer&lt; 128 &gt;',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
-  ['ustringbuffer_3c_20256_20_3e_16',['UStringBuffer&lt; 256 &gt;',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]]
+  ['ustringbuffer_3c_20256_20_3e_16',['UStringBuffer&lt; 256 &gt;',['../../base/classSteinberg_1_1UStringBuffer.html',1,'Steinberg']]],
+  ['utf16namecontroller_17',['UTF16NameController',['../classSteinberg_1_1UTF16NameController.html',1,'Steinberg']]],
+  ['utf16nameprocessor_18',['UTF16NameProcessor',['../classSteinberg_1_1UTF16NameProcessor.html',1,'Steinberg']]]
 ];

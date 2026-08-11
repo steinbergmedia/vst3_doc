@@ -17,7 +17,6 @@ var namespace_v_s_t_g_u_i_1_1_text_editor =
     [ "CommandKeyArray", "namespace_v_s_t_g_u_i_1_1_text_editor.html#a78359f6eb494da5e2349a4d0678d8339", null ],
     [ "Lines", "namespace_v_s_t_g_u_i_1_1_text_editor.html#a252a0da07dcd059c848526a49ff3fb45", null ],
     [ "String", "namespace_v_s_t_g_u_i_1_1_text_editor.html#a32d670fea518439422e931db68a6b8e2", null ],
-    [ "StringConvert", "namespace_v_s_t_g_u_i_1_1_text_editor.html#ada84d32a240d0faf6aa84e4fc521857b", null ],
     [ "StringView", "namespace_v_s_t_g_u_i_1_1_text_editor.html#aecec6496228c9d1273f04bcfb34a8ec3", null ],
     [ "convert", "namespace_v_s_t_g_u_i_1_1_text_editor.html#ae4ac95903937a9b69c195a67fcb278ac", null ],
     [ "convert", "namespace_v_s_t_g_u_i_1_1_text_editor.html#a02a49048af279178bf23e9a4cb5401f1", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xmlrepresentationhelper_0',['XmlRepresentationHelper',['../../vstsdk/classSteinberg_1_1Vst_1_1XmlRepresentationHelper.html',1,'Steinberg::Vst']]]
+  ['waveformviewmanager_0',['WaveformViewManager',['../classSteinberg_1_1Vst_1_1WaveformViewManager.html',1,'Steinberg::Vst']]]
 ];

@@ -397,7 +397,7 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">Steinberg::tresult PLUGIN_API queryInterface (<span class="keyword">const</span> Steinberg::TUID iid, <span class="keywordtype">void</span>** obj) SMTG_OVERRIDE \</div>
+<b>Value:</b><div class="fragment"><div class="line">Steinberg::tresult PLUGIN_API queryInterface (<span class="keyword">const</span> Steinberg::TUID _iid, <span class="keywordtype">void</span>** obj) SMTG_OVERRIDE \</div>
 <div class="line">{</div>
 </div><!-- fragment -->
 <p>Start defining interfaces. </p>
@@ -418,7 +418,7 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    QUERY_INTERFACE (iid, obj, Steinberg::getTUID&lt;InterfaceName&gt; (), InterfaceName)</div>
+<b>Value:</b><div class="fragment"><div class="line">    QUERY_INTERFACE (_iid, obj, Steinberg::getTUID&lt;InterfaceName&gt; (), InterfaceName)</div>
 </div><!-- fragment -->
 <p>Add a interfaces. </p>
 
@@ -438,7 +438,7 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    <span class="keywordflow">return</span> BaseClass::queryInterface (iid, obj); \</div>
+<b>Value:</b><div class="fragment"><div class="line">    <span class="keywordflow">return</span> BaseClass::queryInterface (_iid, obj); \</div>
 <div class="line">}</div>
 </div><!-- fragment -->
 <p>End defining interfaces. </p>

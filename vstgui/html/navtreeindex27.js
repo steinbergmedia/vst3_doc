@@ -1,5 +1,10 @@
 var NAVTREEINDEX27 =
 {
+"page_previous_new_stuff.html#about_deprecation":[2,5,2],
+"page_previous_new_stuff.html#aeffguieditorchanges":[2,5,4,1],
+"page_previous_new_stuff.html#code_changes_for_2_3":[2,5,5],
+"page_previous_new_stuff.html#code_changes_for_3_0":[2,5,4],
+"page_previous_new_stuff.html#code_changes_for_3_5":[2,5,3],
 "page_previous_new_stuff.html#cviewchanges":[2,5,4,0],
 "page_previous_new_stuff.html#new_mouse_methods":[2,5,0],
 "page_previous_new_stuff.html#other_new_things":[2,5,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX27 =
 "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#ae9a50054b4ccbe11fda7b55f5b53caf6":[9,0,1,44,0,2],
 "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#ae9a50054b4ccbe11fda7b55f5b53caf6":[10,0,1,35,0,2],
 "struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#afc4c4362b7c502882c8d1d6af7297ab3":[9,0,1,44,0,1],
-"struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#afc4c4362b7c502882c8d1d6af7297ab3":[10,0,1,35,0,1],
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html":[8,3,1,0,0],
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html#a195211ed0f0ffdbca091d00a42efedcc":[8,3,1,0,0,3],
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html#a35bd328b1af15448da36ef6b721c01ee":[8,3,1,0,0,1],
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html#a5bc2a781be2586924afce4e4a4ea6697":[8,3,1,0,0,2],
-"struct_v_s_t_g_u_i_1_1_c_data_browser_1_1_cell.html#ad47dfac3af8f8d02d777f0e291843650":[8,3,1,0,0,4]
+"struct_v_s_t_g_u_i_1_1_c_control_1_1_impl.html#afc4c4362b7c502882c8d1d6af7297ab3":[10,0,1,35,0,1]
 };

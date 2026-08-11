@@ -34,6 +34,7 @@ var classSteinberg_1_1FVariant =
     [ "isOwner", "classSteinberg_1_1FVariant.html#a06497d24a7be077e2c9f261f09a1eb3a", null ],
     [ "isString", "classSteinberg_1_1FVariant.html#abc9dc0708ec1aae2309621664fa8e5a4", null ],
     [ "setOwner", "classSteinberg_1_1FVariant.html#abbdb20a51bdf78b0b5dfb245178897e4", null ],
+    [ "reset", "classSteinberg_1_1FVariant.html#ad20897c5c8bd47f5d4005989bead0e55", null ],
     [ "empty", "classSteinberg_1_1FVariant.html#a9a4d7b0a805f99ab95362516ee336b3e", null ],
     [ "get", "classSteinberg_1_1FVariant.html#a20ff201ff12185126a2a9ce421dd4f6d", null ],
     [ "get", "classSteinberg_1_1FVariant.html#abc1ad115f995f880862bf28c32853438", null ],

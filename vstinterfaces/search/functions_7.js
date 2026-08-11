@@ -184,8 +184,9 @@ var searchData=
   ['getvalue_181',['getValue',['../../vstsdk/structSteinberg_1_1Vst_1_1SampleAccurate_1_1Parameter.html#a0cdb9040e68320198b261e22fc46869e',1,'Steinberg::Vst::SampleAccurate::Parameter']]],
   ['getvaluebystring_182',['getValueByString',['../../vstsdk/classSteinberg_1_1Vst_1_1NoteExpressionType.html#a8a56c1da16268a00189b69e670190222',1,'Steinberg::Vst::NoteExpressionType::getValueByString()'],['../../vstsdk/classSteinberg_1_1Vst_1_1RangeNoteExpressionType.html#afccc02c9baeb9a880bd44a480d4ce66a',1,'Steinberg::Vst::RangeNoteExpressionType::getValueByString()']]],
   ['getvariable_183',['getVariable',['../../vstsdk/structSteinberg_1_1ObjCInstance.html#a52ab5ae30b000951013f7d1a50c67954',1,'Steinberg::ObjCInstance']]],
-  ['getwaylandsurface_184',['getWaylandSurface',['../classSteinberg_1_1IWaylandFrame.html#aa1e0f816ce1621721544a73463590f91',1,'Steinberg::IWaylandFrame']]],
-  ['getwidth_185',['getWidth',['../../base/structSteinberg_1_1ViewRect.html#a8393748cd69f8fb3f27257f9e7f5900b',1,'Steinberg::ViewRect']]],
-  ['getxmlrepresentationstream_186',['getXmlRepresentationStream',['../classSteinberg_1_1Vst_1_1IXmlRepresentationController.html#a12aaff5f46c6f620fb724e9c9763ac21',1,'Steinberg::Vst::IXmlRepresentationController']]],
-  ['growclasses_187',['growClasses',['../../vstsdk/classSteinberg_1_1CPluginFactory.html#aee66f1513cbfdd6f722781473b14704a',1,'Steinberg::CPluginFactory']]]
+  ['getvariationsinfo_184',['getVariationsInfo',['../classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html#ae95e0112a7e5a63bc057c5241544fb17',1,'Steinberg::Vst::NoteOnOrchestralArticulation::IInfo']]],
+  ['getwaylandsurface_185',['getWaylandSurface',['../classSteinberg_1_1IWaylandFrame.html#aa1e0f816ce1621721544a73463590f91',1,'Steinberg::IWaylandFrame']]],
+  ['getwidth_186',['getWidth',['../../base/structSteinberg_1_1ViewRect.html#a8393748cd69f8fb3f27257f9e7f5900b',1,'Steinberg::ViewRect']]],
+  ['getxmlrepresentationstream_187',['getXmlRepresentationStream',['../classSteinberg_1_1Vst_1_1IXmlRepresentationController.html#a12aaff5f46c6f620fb724e9c9763ac21',1,'Steinberg::Vst::IXmlRepresentationController']]],
+  ['growclasses_188',['growClasses',['../../vstsdk/classSteinberg_1_1CPluginFactory.html#aee66f1513cbfdd6f722781473b14704a',1,'Steinberg::CPluginFactory']]]
 ];

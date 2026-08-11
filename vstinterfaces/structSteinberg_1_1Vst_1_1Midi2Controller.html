@@ -99,6 +99,7 @@ $(function(){initNavTree('structSteinberg_1_1Vst_1_1Midi2Controller.html',''); i
 
 <div class="header">
   <div class="summary">
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="structSteinberg_1_1Vst_1_1Midi2Controller-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">Midi2Controller Struct Reference</div></div>
@@ -110,74 +111,284 @@ $(function(){initNavTree('structSteinberg_1_1Vst_1_1Midi2Controller.html',''); i
 
 <p><code>#include &lt;ivstmidimapping2.h&gt;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a4a53ece998789fb333ab1da0afa85f60" id="r_a4a53ece998789fb333ab1da0afa85f60"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4a53ece998789fb333ab1da0afa85f60">isRegisteredController</a> (const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc)</td></tr>
+<tr class="memdesc:a4a53ece998789fb333ab1da0afa85f60"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the MIDI2 controller struct is a registered controller and false if it is an assignable controller.  <br /></td></tr>
+<tr class="separator:a4a53ece998789fb333ab1da0afa85f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3184238fced66a13d511018127fa4821" id="r_a3184238fced66a13d511018127fa4821"><td class="memItemLeft" align="right" valign="top">static <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3184238fced66a13d511018127fa4821">bank</a> (const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc)</td></tr>
+<tr class="memdesc:a3184238fced66a13d511018127fa4821"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the bank number of the MIDI2 controller struct.  <br /></td></tr>
+<tr class="separator:a3184238fced66a13d511018127fa4821"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99a7f9ffd84a298e6da380e7c434ebf3" id="r_a99a7f9ffd84a298e6da380e7c434ebf3"><td class="memItemLeft" align="right" valign="top">static <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a99a7f9ffd84a298e6da380e7c434ebf3">index</a> (const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc)</td></tr>
+<tr class="memdesc:a99a7f9ffd84a298e6da380e7c434ebf3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the index number of the MIDI2 controller struct.  <br /></td></tr>
+<tr class="separator:a99a7f9ffd84a298e6da380e7c434ebf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef0cdaa4fa3901477339278c219f65c4" id="r_aef0cdaa4fa3901477339278c219f65c4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aef0cdaa4fa3901477339278c219f65c4">create</a> (bool registered, <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> <a class="el" href="#a3184238fced66a13d511018127fa4821">bank</a>, <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> <a class="el" href="#a99a7f9ffd84a298e6da380e7c434ebf3">index</a>)</td></tr>
+<tr class="memdesc:aef0cdaa4fa3901477339278c219f65c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new MIDI2 controller struct.  <br /></td></tr>
+<tr class="separator:aef0cdaa4fa3901477339278c219f65c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e216bbbc53660e70d3dbf217e4a6414" id="r_a5e216bbbc53660e70d3dbf217e4a6414"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5e216bbbc53660e70d3dbf217e4a6414">setIsRegisteredController</a> (<a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc, bool registered)</td></tr>
+<tr class="memdesc:a5e216bbbc53660e70d3dbf217e4a6414"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the flag of the MIDI2 controller struct if it describes a registered or assignable controller.  <br /></td></tr>
+<tr class="separator:a5e216bbbc53660e70d3dbf217e4a6414"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8d8f2572d137eba353dce152ef4a72d" id="r_ac8d8f2572d137eba353dce152ef4a72d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac8d8f2572d137eba353dce152ef4a72d">setBank</a> (<a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc, <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> <a class="el" href="#a3184238fced66a13d511018127fa4821">bank</a>)</td></tr>
+<tr class="memdesc:ac8d8f2572d137eba353dce152ef4a72d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the bank number of the MIDI2 controller struct.  <br /></td></tr>
+<tr class="separator:ac8d8f2572d137eba353dce152ef4a72d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92452104a5f9154faad9b22bf83bc07d" id="r_a92452104a5f9154faad9b22bf83bc07d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a92452104a5f9154faad9b22bf83bc07d">setIndex</a> (<a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;mc, <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> <a class="el" href="#a99a7f9ffd84a298e6da380e7c434ebf3">index</a>)</td></tr>
+<tr class="memdesc:a92452104a5f9154faad9b22bf83bc07d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the index number of the MIDI2 controller struct.  <br /></td></tr>
+<tr class="separator:a92452104a5f9154faad9b22bf83bc07d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a54d84afd7f8280b815e19855fb672964" id="r_a54d84afd7f8280b815e19855fb672964"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a54d84afd7f8280b815e19855fb672964">bank</a>: 7</td></tr>
-<tr class="separator:a54d84afd7f8280b815e19855fb672964"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cfebf27d87a36e693813b1a998a546f" id="r_a1cfebf27d87a36e693813b1a998a546f"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1cfebf27d87a36e693813b1a998a546f">registered</a>: 1</td></tr>
-<tr class="separator:a1cfebf27d87a36e693813b1a998a546f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9f50676c9071731dc96f5ed95603066" id="r_ab9f50676c9071731dc96f5ed95603066"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab9f50676c9071731dc96f5ed95603066">index</a>: 7</td></tr>
-<tr class="separator:ab9f50676c9071731dc96f5ed95603066"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad503ed3205e49436b319fca0c90ea98a" id="r_ad503ed3205e49436b319fca0c90ea98a"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad503ed3205e49436b319fca0c90ea98a">reserved</a>: 1</td></tr>
-<tr class="separator:ad503ed3205e49436b319fca0c90ea98a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a661e78b43cfc1414d068f95e6d66c5" id="r_a1a661e78b43cfc1414d068f95e6d66c5"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1a661e78b43cfc1414d068f95e6d66c5">byte1</a></td></tr>
+<tr class="memdesc:a1a661e78b43cfc1414d068f95e6d66c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bits 0-6 of byte1 specify the bank.  <br /></td></tr>
+<tr class="separator:a1a661e78b43cfc1414d068f95e6d66c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b1753d4e3d4a0e4cfd9dced8745feb2" id="r_a5b1753d4e3d4a0e4cfd9dced8745feb2"><td class="memItemLeft" align="right" valign="top"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5b1753d4e3d4a0e4cfd9dced8745feb2">byte2</a></td></tr>
+<tr class="memdesc:a5b1753d4e3d4a0e4cfd9dced8745feb2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bits 0-6 of byte2 specify the controller index.  <br /></td></tr>
+<tr class="separator:a5b1753d4e3d4a0e4cfd9dced8745feb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html" title="Midi2Controller.">Midi2Controller</a>. </p>
 <p>describes a MIDI 2.0 Registered or Assignable Controller </p>
-</div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a54d84afd7f8280b815e19855fb672964" name="a54d84afd7f8280b815e19855fb672964"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54d84afd7f8280b815e19855fb672964">&#9670;&#160;</a></span>bank</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4a53ece998789fb333ab1da0afa85f60" name="a4a53ece998789fb333ab1da0afa85f60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a53ece998789fb333ab1da0afa85f60">&#9670;&#160;</a></span>isRegisteredController()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool isRegisteredController </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns true if the MIDI2 controller struct is a registered controller and false if it is an assignable controller. </p>
+
+</div>
+</div>
+<a id="a3184238fced66a13d511018127fa4821" name="a3184238fced66a13d511018127fa4821"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3184238fced66a13d511018127fa4821">&#9670;&#160;</a></span>bank()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> bank </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the bank number of the MIDI2 controller struct. </p>
+
+</div>
+</div>
+<a id="a99a7f9ffd84a298e6da380e7c434ebf3" name="a99a7f9ffd84a298e6da380e7c434ebf3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99a7f9ffd84a298e6da380e7c434ebf3">&#9670;&#160;</a></span>index()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> index </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the index number of the MIDI2 controller struct. </p>
+
+</div>
+</div>
+<a id="aef0cdaa4fa3901477339278c219f65c4" name="aef0cdaa4fa3901477339278c219f65c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef0cdaa4fa3901477339278c219f65c4">&#9670;&#160;</a></span>create()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> create </td>
+          <td>(</td>
+          <td class="paramtype">bool</td>          <td class="paramname"><span class="paramname"><em>registered</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a></td>          <td class="paramname"><span class="paramname"><em>bank</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a></td>          <td class="paramname"><span class="paramname"><em>index</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Creates a new MIDI2 controller struct. </p>
+
+</div>
+</div>
+<a id="a5e216bbbc53660e70d3dbf217e4a6414" name="a5e216bbbc53660e70d3dbf217e4a6414"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e216bbbc53660e70d3dbf217e4a6414">&#9670;&#160;</a></span>setIsRegisteredController()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void setIsRegisteredController </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool</td>          <td class="paramname"><span class="paramname"><em>registered</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Sets the flag of the MIDI2 controller struct if it describes a registered or assignable controller. </p>
+
+</div>
+</div>
+<a id="ac8d8f2572d137eba353dce152ef4a72d" name="ac8d8f2572d137eba353dce152ef4a72d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8d8f2572d137eba353dce152ef4a72d">&#9670;&#160;</a></span>setBank()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void setBank </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a></td>          <td class="paramname"><span class="paramname"><em>bank</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set the bank number of the MIDI2 controller struct. </p>
+
+</div>
+</div>
+<a id="a92452104a5f9154faad9b22bf83bc07d" name="a92452104a5f9154faad9b22bf83bc07d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92452104a5f9154faad9b22bf83bc07d">&#9670;&#160;</a></span>setIndex()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void setIndex </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structSteinberg_1_1Vst_1_1Midi2Controller.html">Midi2Controller</a> &amp;</td>          <td class="paramname"><span class="paramname"><em>mc</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a></td>          <td class="paramname"><span class="paramname"><em>index</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel inline">inline</span><span class="mlabel static">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set the index number of the MIDI2 controller struct. </p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a1a661e78b43cfc1414d068f95e6d66c5" name="a1a661e78b43cfc1414d068f95e6d66c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a661e78b43cfc1414d068f95e6d66c5">&#9670;&#160;</a></span>byte1</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> bank</td>
+          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> byte1</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p>Bits 0-6 of byte1 specify the bank. </p>
+<p>Bit 7 (MSB) indicates the controller type: set = registered controller, clear = assignable controller. </p>
+
 </div>
 </div>
-<a id="a1cfebf27d87a36e693813b1a998a546f" name="a1cfebf27d87a36e693813b1a998a546f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cfebf27d87a36e693813b1a998a546f">&#9670;&#160;</a></span>registered</h2>
+<a id="a5b1753d4e3d4a0e4cfd9dced8745feb2" name="a5b1753d4e3d4a0e4cfd9dced8745feb2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b1753d4e3d4a0e4cfd9dced8745feb2">&#9670;&#160;</a></span>byte2</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a> registered</td>
+          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> byte2</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="ab9f50676c9071731dc96f5ed95603066" name="ab9f50676c9071731dc96f5ed95603066"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9f50676c9071731dc96f5ed95603066">&#9670;&#160;</a></span>index</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga33a5e996e7a90acefb8b1c0bea47e365">uint8</a> index</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad503ed3205e49436b319fca0c90ea98a" name="ad503ed3205e49436b319fca0c90ea98a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad503ed3205e49436b319fca0c90ea98a">&#9670;&#160;</a></span>reserved</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="elRef" href="../base/group__smtgtypedef.html#ga1ea8addd740f35d207a1569dd38ef895">TBool</a> reserved</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p>Bits 0-6 of byte2 specify the controller index. </p>
 
 </div>
 </div>

@@ -5,6 +5,7 @@ var dir_1c80b6ba57cec87ca8b9a5e1bda0dd13 =
     [ "dataexchange.cpp", "dataexchange_8cpp.html", "dataexchange_8cpp" ],
     [ "dataexchange.h", "dataexchange_8h.html", "dataexchange_8h" ],
     [ "memoryibstream.h", "memoryibstream_8h.html", "memoryibstream_8h" ],
+    [ "midiconvert.h", "midiconvert_8h.html", "midiconvert_8h" ],
     [ "mpeprocessor.cpp", "mpeprocessor_8cpp.html", null ],
     [ "mpeprocessor.h", "mpeprocessor_8h.html", "mpeprocessor_8h" ],
     [ "objcclassbuilder.h", "objcclassbuilder_8h.html", "objcclassbuilder_8h" ],

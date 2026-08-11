@@ -12,7 +12,8 @@ var searchData=
   ['app_9',['App',['../classSteinberg_1_1Vst_1_1AudioHost_1_1App.html',1,'App'],['../classSteinberg_1_1Vst_1_1EditorHost_1_1App.html',1,'App']]],
   ['audiobuffer_10',['AudioBuffer',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
   ['audiobuffer_3c_20t_20_3e_11',['AudioBuffer&lt; T &gt;',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBuffer.html',1,'Steinberg::Vst']]],
-  ['audiobus_12',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
-  ['audiobusbuffers_13',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html',1,'Steinberg::Vst']]],
-  ['audioeffect_14',['AudioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html',1,'Steinberg::Vst']]]
+  ['audiobufferdata_12',['AudioBufferData',['../structSteinberg_1_1Vst_1_1AudioBufferData.html',1,'Steinberg::Vst']]],
+  ['audiobus_13',['AudioBus',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioBus.html',1,'Steinberg::Vst']]],
+  ['audiobusbuffers_14',['AudioBusBuffers',['../../vstinterfaces/structSteinberg_1_1Vst_1_1AudioBusBuffers.html',1,'Steinberg::Vst']]],
+  ['audioeffect_15',['AudioEffect',['../../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html',1,'Steinberg::Vst']]]
 ];

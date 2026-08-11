@@ -4,7 +4,8 @@ var searchData=
   ['channelpluginlocation_1',['ChannelPluginLocation',['../../vstinterfaces/namespaceSteinberg_1_1Vst_1_1ChannelContext.html#ac6ac8886bd59deb9f997179931a168af',1,'Steinberg::Vst::ChannelContext']]],
   ['chunktype_2',['ChunkType',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a6742d03aa1e93ba39b234d0ea402ee6d',1,'Steinberg::Vst']]],
   ['classcardinality_3',['ClassCardinality',['../../base/structSteinberg_1_1PClassInfo.html#aab16066f9ae5683da7458b67a11eeece',1,'Steinberg::PClassInfo']]],
-  ['componentflags_4',['ComponentFlags',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a626a070dcd2e025250f41b9c3f9817cd',1,'Steinberg::Vst']]],
-  ['controller_5',['Controller',['../namespaceSteinberg_1_1Vst_1_1MPE.html#a4c50a079c1d1540bd8a979d731211afa',1,'Steinberg::Vst::MPE']]],
-  ['controllernumbers_6',['ControllerNumbers',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6',1,'Steinberg::Vst']]]
+  ['classification_4',['Classification',['../../vstinterfaces/classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html#a49042f23f37616df6db7533da8ac31a8',1,'Steinberg::Vst::NoteOnOrchestralArticulation::IInfo']]],
+  ['componentflags_5',['ComponentFlags',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a626a070dcd2e025250f41b9c3f9817cd',1,'Steinberg::Vst']]],
+  ['controller_6',['Controller',['../namespaceSteinberg_1_1Vst_1_1MPE.html#a4c50a079c1d1540bd8a979d731211afa',1,'Steinberg::Vst::MPE']]],
+  ['controllernumbers_7',['ControllerNumbers',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a70ee68a13248febed5047cfa0fddf4e6',1,'Steinberg::Vst']]]
 ];

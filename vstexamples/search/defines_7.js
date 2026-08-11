@@ -15,8 +15,8 @@ var searchData=
   ['kaucomponentversion_12',['kAUcomponentVersion',['../again__auv3_2audiounitconfig_8h.html#af1327eb2e2055860752d5b164adc03cf',1,'kAUcomponentVersion:&#160;audiounitconfig.h'],['../note__expression__synth__auv3_2audiounitconfig_8h.html#af1327eb2e2055860752d5b164adc03cf',1,'kAUcomponentVersion:&#160;audiounitconfig.h']]],
   ['kaudiofileformat_13',['kAudioFileFormat',['../again__auv3_2audiounitconfig_8h.html#a270b560b1a8891081787ed0ba81c6f35',1,'audiounitconfig.h']]],
   ['kaudiofilename_14',['kAudioFileName',['../again__auv3_2audiounitconfig_8h.html#aa9b5ee2bd3eae06aa44950043b4ed2b0',1,'audiounitconfig.h']]],
-  ['kpi_15',['kPI',['../plugprocessor_8cpp.html#a85112fbbb5c415df9b0bdb3d9999fec0',1,'plugprocessor.cpp']]],
-  ['krampingtimems_16',['kRampingTimeMs',['../plugprocessor_8cpp.html#a17ed171273fe6cc3ded58887c2ece8a4',1,'plugprocessor.cpp']]],
+  ['kpi_15',['kPI',['../panner_2source_2plugprocessor_8cpp.html#a85112fbbb5c415df9b0bdb3d9999fec0',1,'plugprocessor.cpp']]],
+  ['krampingtimems_16',['kRampingTimeMs',['../panner_2source_2plugprocessor_8cpp.html#a17ed171273fe6cc3ded58887c2ece8a4',1,'plugprocessor.cpp']]],
   ['ksilencethreshold_17',['kSilenceThreshold',['../mdaBaseProcessor_8cpp.html#a6fe41a4a3dfe5045e3cbea2da1acba76',1,'mdaBaseProcessor.cpp']]],
   ['ksupportednumchannels_18',['kSupportedNumChannels',['../again__auv3_2audiounitconfig_8h.html#a3cac5ff5fa6d00c89872bd159c33e552',1,'kSupportedNumChannels:&#160;audiounitconfig.h'],['../note__expression__synth__auv3_2audiounitconfig_8h.html#a3cac5ff5fa6d00c89872bd159c33e552',1,'kSupportedNumChannels:&#160;audiounitconfig.h']]],
   ['kversionstring_19',['kVersionString',['../mdafactory_8cpp.html#a7a6b11a55e9b38681d4d7941f3cd28d6',1,'mdafactory.cpp']]]

@@ -65,9 +65,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classSteinberg_1_1IString.html#a9897ca3a2a9047af3500188209b71ab7",
-"group__smtgtypedef.html#gae47c588f3ab8c61121c1c7ab7edc47cd",
-"namespaceSteinberg_1_1U.html#a33d524a00593b41664bf5a7be2aaf204"
+"classSteinberg_1_1IString.html#a855f4116dd9824838ebc984adeccfe96",
+"group__smtgtypedef.html#gadbdfa470c35e7bf57d7952f0767bbf57",
+"namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

@@ -2,7 +2,7 @@ var classSteinberg_1_1Vst_1_1Parameter =
 [
     [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a722d0b273a6e3633c189fb21eaaa483c", null ],
     [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a388e837bf6198abab80b877ca32b5e26", null ],
-    [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a75669d5409d1f3c14d0786633330046e", null ],
+    [ "Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a5cac28bc4598b4b240bc6070cfd68d34", null ],
     [ "~Parameter", "classSteinberg_1_1Vst_1_1Parameter.html#a7861fe34a626dcd417dc1ebe50be25b6", null ],
     [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a3cc5198f7343e3c1283b0cab3e444ce3", null ],
     [ "getInfo", "classSteinberg_1_1Vst_1_1Parameter.html#a2deab82548ad4a1822de20c683e15178", null ],

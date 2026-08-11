@@ -22,6 +22,18 @@ var ivstnoteexpression_8h =
       [ "kPhonemeTypeID", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a4ebd202862aff5265a6c1bcd901bd5b8", null ],
       [ "kCustomStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a1c30475ef992f89f37c2fe0aafcc6283", null ],
       [ "kCustomEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a2c5cacda2fb1b13fb3bce937819bf1f9", null ],
+      [ "kMidi2AssignablePerNoteControllerStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aab76dfeb439294e131699be6b52feba5", null ],
+      [ "kMidi2AssignablePerNoteControllerEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a5cadeea05e27816b458700253acbb1bb", null ],
+      [ "kMidi2RegisteredPerNoteControllerStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ab126bdb18e0623d50248816462681840", null ],
+      [ "kMidi2RegisteredPerNoteControllerPlayingPosition", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a6f29db1c2aecc307509ac552a9977576", null ],
+      [ "kMidi2RegisteredPerNoteControllerEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aaa28395ed2d2822ebb4e81bee2a9abeb", null ],
+      [ "kMidi2NoteOnAttributeStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a54faee5e81d0e92ef7866bfee9b6e192", null ],
+      [ "kMidi2NoteOnOrchestralArticulationStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310acd4501c1ea323b35024b22a8af5b3011", null ],
+      [ "kMidi2NoteOnOrchestralArticulationEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a245aa57e57867b2170bf65e5ef600c33", null ],
+      [ "kMidi2NoteOnAttributeEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a8216bd328f256ae54f6b236af6fb616e", null ],
+      [ "kMidi2NoteOffAttributeStart", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310aaeab0b0daad4b913be572ff6fe3c483e", null ],
+      [ "kMidi2NoteOffOrchestralArticulation", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310a4d16eb5a5ca0bd833d8e52efa0032b2c", null ],
+      [ "kMidi2NoteOffAttributeEnd", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ada6238fb584d5dd3eb46c81ef8fcb170", null ],
       [ "kInvalidTypeID", "namespaceSteinberg_1_1Vst.html#a7d66c573aff27d890ec154f45b61f310ae9353615a5098aba2a5dc927d5497132", null ]
     ] ],
     [ "KeyswitchTypeIDs", "namespaceSteinberg_1_1Vst.html#a94ba59b05ac09e4f021b5cd0955852c9", [

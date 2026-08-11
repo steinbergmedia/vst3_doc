@@ -64,15 +64,16 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classSteinberg_1_1Vst_1_1IEditController.html#af4254a0360b21f8871a61c62fb317058",
-"classSteinberg_1_1Vst_1_1IUnitInfo.html#a6f1b43425ba894764f35b7d492e81c53",
-"group__musicalStyle.html",
-"group__speakerArrangements.html#ga2a834a6c97df49e2fa45315ff7045533",
-"group__speakerArrangements.html#gabebe500b3d27127ae844c7fcabb854f0",
-"namespaceSteinberg.html#a145379c6e26917acaa0bac72b8c0bc05",
-"namespaceSteinberg_1_1StringConvert.html#a7b24e433664bafa3dd3f9357ec3f6c4d",
-"namespaceSteinberg_1_1Vst_1_1Helpers.html#a61c7a8dfad41943eaacd09811d60c958",
-"structSteinberg_1_1Vst_1_1Event.html#acd2bbbb2eae99e9e00ac1517dbf7958d",
-"structSteinberg_1_1Vst_1_1PolyPressureEvent.html"
+"classSteinberg_1_1Vst_1_1ITransportControl.html#a61cea96cef790380d8ff3b9947e52445",
+"group__musicalInstrument.html#ga51a61e68eba9a1cf51ad89242b9bc47f",
+"group__plugType.html#gaffed7482d7d1551379ad26515f4816ef",
+"group__speakerArrangements.html#ga8a61d9d214b5884f8187873046350cd2",
+"ivstevents_8h.html",
+"namespaceSteinberg.html#acbbce6877e30abdb4f8fedfbcc3622cda1e226959be1359aaaa71395aa86f8208",
+"namespaceSteinberg_1_1Vst_1_1Algo.html#a23512a9053f9db4d7e8db1a7e105868c",
+"structSteinberg_1_1Vst_1_1Chord.html#a15c053e1a487c607ed4f57d29a07e117a4604f8115055d6e83aa00610b65a290c",
+"structSteinberg_1_1Vst_1_1NoteExpressionValueDescription.html",
+"structSteinberg_1_1Vst_1_1ScaleEvent.html#aa87f60a3f4718be230eba436bdd0d610"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

@@ -173,14 +173,14 @@ Protected Attributes</h2></td></tr>
 <div class="line">        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (processSetup.symbolicSampleSize == <a class="code hl_variableRef" href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900">kSample64</a>)</div>
 <div class="line">            voiceProcessor = <span class="keyword">new</span> <a class="code hl_class" href="classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html">VoiceProcessorImplementation&lt;double, Voice&lt;double&gt;</a>, 2, <a class="code hl_define" href="note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5">MAX_VOICES</a>, <span class="keywordtype">void</span>&gt; (processSetup.sampleRate, 0);</div>
 <div class="line">        <span class="keywordflow">else</span></div>
-<div class="line">            <span class="keywordflow">return</span> <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a57098e3418561770792c2f29c4530c53ace91375677eb541c1a70e7ecd95f5698">kInvalidArgument</a>;</div>
+<div class="line">            <span class="keywordflow">return</span> <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889ace91375677eb541c1a70e7ecd95f5698">kInvalidArgument</a>;</div>
 <div class="line">    }</div>
 <div class="line">    <span class="keywordflow">else</span></div>
 <div class="line">    {</div>
 <div class="line">        <span class="keyword">delete</span> voiceProcessor;</div>
 <div class="line">        voiceProcessor = 0;</div>
 <div class="line">    }</div>
-<div class="line">    <span class="keywordflow">return</span> <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#a57098e3418561770792c2f29c4530c53a9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
+<div class="line">    <span class="keywordflow">return</span> <a class="code hl_variableRef" href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">kResultTrue</a>;</div>
 <div class="line">}</div>
 <div class="line"> </div>
 <div class="line"><span class="comment">//------------------------------------------------------------------------</span></div>
@@ -197,9 +197,9 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="agroup__smtgtypedef_html_ga902761e005a6252e538c766de48fc957"><div class="ttname"><a href="../base/group__smtgtypedef.html#ga902761e005a6252e538c766de48fc957">Steinberg::tresult</a></div><div class="ttdeci">int32 tresult</div></div>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_html_addd8f2e89ed5a540c9fce2c002f35c06a199093967f5a183f86bf92bd7e61e31f"><div class="ttname"><a href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a199093967f5a183f86bf92bd7e61e31f">Steinberg::Vst::kSample32</a></div><div class="ttdeci">kSample32</div></div>
 <div class="ttc" id="anamespaceSteinberg_1_1Vst_html_addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900"><div class="ttname"><a href="../vstinterfaces/namespaceSteinberg_1_1Vst.html#addd8f2e89ed5a540c9fce2c002f35c06a85edf5095f2282be74fce43030f1b900">Steinberg::Vst::kSample64</a></div><div class="ttdeci">kSample64</div></div>
-<div class="ttc" id="anamespaceSteinberg_html_a57098e3418561770792c2f29c4530c53a9e60fad4624bee040985edebe1800372"><div class="ttname"><a href="../base/namespaceSteinberg.html#a57098e3418561770792c2f29c4530c53a9e60fad4624bee040985edebe1800372">Steinberg::kResultTrue</a></div><div class="ttdeci">kResultTrue</div></div>
-<div class="ttc" id="anamespaceSteinberg_html_a57098e3418561770792c2f29c4530c53ace91375677eb541c1a70e7ecd95f5698"><div class="ttname"><a href="../base/namespaceSteinberg.html#a57098e3418561770792c2f29c4530c53ace91375677eb541c1a70e7ecd95f5698">Steinberg::kInvalidArgument</a></div><div class="ttdeci">kInvalidArgument</div></div>
-<div class="ttc" id="anote__expression__synth__controller_8h_html_aca618e8fa76e4f9eaf21bef1d1ddccd5"><div class="ttname"><a href="note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5">MAX_VOICES</a></div><div class="ttdeci">#define MAX_VOICES</div><div class="ttdef"><b>Definition</b> note_expression_synth_controller.h:31</div></div>
+<div class="ttc" id="anamespaceSteinberg_html_af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372"><div class="ttname"><a href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372">Steinberg::kResultTrue</a></div><div class="ttdeci">kResultTrue</div></div>
+<div class="ttc" id="anamespaceSteinberg_html_af53e6855b93b8be00460574fc28f5889ace91375677eb541c1a70e7ecd95f5698"><div class="ttname"><a href="../base/namespaceSteinberg.html#af53e6855b93b8be00460574fc28f5889ace91375677eb541c1a70e7ecd95f5698">Steinberg::kInvalidArgument</a></div><div class="ttdeci">kInvalidArgument</div></div>
+<div class="ttc" id="anote__expression__synth__controller_8h_html_aca618e8fa76e4f9eaf21bef1d1ddccd5"><div class="ttname"><a href="note__expression__synth__controller_8h.html#aca618e8fa76e4f9eaf21bef1d1ddccd5">MAX_VOICES</a></div><div class="ttdeci">#define MAX_VOICES</div><div class="ttdef"><b>Definition</b> note_expression_synth_controller.h:29</div></div>
 <div class="ttc" id="astructSteinberg_1_1Vst_1_1ProcessData_html"><div class="ttname"><a href="../vstinterfaces/structSteinberg_1_1Vst_1_1ProcessData.html">Steinberg::Vst::ProcessData</a></div></div>
 </div><!-- fragment --><dl class="section see"><dt>See also</dt><dd><a class="el" href="classSteinberg_1_1Vst_1_1VoiceProcessorImplementation.html" title="A Simple Voice Processor Implementation supporting note expression events.">Steinberg::Vst::VoiceProcessorImplementation</a> </dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>

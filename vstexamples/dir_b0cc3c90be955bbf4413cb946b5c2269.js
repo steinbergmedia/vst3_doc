@@ -6,10 +6,13 @@ var dir_b0cc3c90be955bbf4413cb946b5c2269 =
     [ "again_auv3", "dir_9eb0661e0c8ed99237e8219c6d253cb0.html", "dir_9eb0661e0c8ed99237e8219c6d253cb0" ],
     [ "channelcontext", "dir_899e2e2291e402b2b1425d9320a58764.html", "dir_899e2e2291e402b2b1425d9320a58764" ],
     [ "common", "dir_f081a1e3aa164ebb37281a7b221de66f.html", "dir_f081a1e3aa164ebb37281a7b221de66f" ],
+    [ "dataexchange", "dir_4127ef01446c124b3fe65fdc274db49e.html", "dir_4127ef01446c124b3fe65fdc274db49e" ],
     [ "hostchecker", "dir_8bc5a8728ba4a5649c8b23084131d493.html", "dir_8bc5a8728ba4a5649c8b23084131d493" ],
+    [ "hostchecker_aax", "dir_ee9f9241b48bd122555efc82995dcf0e.html", "dir_ee9f9241b48bd122555efc82995dcf0e" ],
     [ "InterAppAudio", "dir_2ca4adb15cdd7f3d40514d297d2cc2af.html", "dir_2ca4adb15cdd7f3d40514d297d2cc2af" ],
     [ "legacymidiccout", "dir_3b38847be51b832cc78b3beaec698cd7.html", "dir_3b38847be51b832cc78b3beaec698cd7" ],
     [ "mda-vst3", "dir_9ec83ce50bc7283fda750fad82f5bb38.html", "dir_9ec83ce50bc7283fda750fad82f5bb38" ],
+    [ "multiple_programchanges", "dir_2b04fc52d5e77dab52777c4a55c8be1c.html", "dir_2b04fc52d5e77dab52777c4a55c8be1c" ],
     [ "note_expression_synth", "dir_657b6c6d36ef7e23b6e656b272680ac1.html", "dir_657b6c6d36ef7e23b6e656b272680ac1" ],
     [ "note_expression_synth_auv3", "dir_32444b2f31bf31b8fb2ddd03e2c96a47.html", "dir_32444b2f31bf31b8fb2ddd03e2c96a47" ],
     [ "note_expression_text", "dir_762ea3d43e4f44278c8c170c1279eb30.html", "dir_762ea3d43e4f44278c8c170c1279eb30" ],
@@ -17,6 +20,9 @@ var dir_b0cc3c90be955bbf4413cb946b5c2269 =
     [ "pitchnames", "dir_466d4bfda1d6d709406dc87ce44f3b9c.html", "dir_466d4bfda1d6d709406dc87ce44f3b9c" ],
     [ "prefetchablesupport", "dir_6726985bf7dee9eedccc82deeb967d08.html", "dir_6726985bf7dee9eedccc82deeb967d08" ],
     [ "programchange", "dir_dec7a299d63cf32371e64fa8e7b1b856.html", "dir_dec7a299d63cf32371e64fa8e7b1b856" ],
+    [ "remap_paramid", "dir_20e983045770c21697b73ac8f1dc6092.html", "dir_20e983045770c21697b73ac8f1dc6092" ],
     [ "syncdelay", "dir_d0d016640990bfc3ddb066e1636ae5ce.html", "dir_d0d016640990bfc3ddb066e1636ae5ce" ],
+    [ "transportcontrol", "dir_3304b7786a1b7b98ff826d46b6a8934e.html", "dir_3304b7786a1b7b98ff826d46b6a8934e" ],
+    [ "utf16name", "dir_c82eb56df7c0e78b601aa2e0509160cf.html", "dir_c82eb56df7c0e78b601aa2e0509160cf" ],
     [ "doc.h", "doc_8h.html", null ]
 ];

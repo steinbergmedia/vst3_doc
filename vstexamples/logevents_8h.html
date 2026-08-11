@@ -106,8 +106,6 @@ $(function(){initNavTree('logevents_8h.html',''); initResizable(true); });
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="elRef" href="../base/ftypes_8h.html">pluginterfaces/base/ftypes.h</a>&quot;</code><br />
-<code>#include &quot;base/source/fstring.h&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
@@ -389,13 +387,22 @@ Enumerations</h2></td></tr>
 , <a class="el" href="#afc84f29132b630b33d341d0769a66d46a7a1b7b7cee242e95c68ef2601d3a0a06">kLogIdIParameterFunctionNameDryWetSupported</a>
 , <a class="el" href="#afc84f29132b630b33d341d0769a66d46a1e15ab839db9031d2ed1287d7997e3b0">kLogIdIParameterFunctionNameRandomizeSupported</a>
 , <br />
-&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46a2d993047219db1e4dd386c9ca509f582">kLogIdIParameterFunctionNameLowLatencySupported</a>
+&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46ae9769cf30251e71b69dd9c0b7179fdef">kLogIdIParameterFunctionNameRandomizeAroundCurrentSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a2d993047219db1e4dd386c9ca509f582">kLogIdIParameterFunctionNameLowLatencySupported</a>
 , <a class="el" href="#afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018">kLogIdIComponentHandlerSystemTimeSupported</a>
 , <a class="el" href="#afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3">kLogIdIDataExchangeHandlerSupported</a>
-, <a class="el" href="#afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f">kLogIdIDataExchangeReceiverSupported</a>
 , <br />
-&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d">kLogIdIRemapParamIDSupported</a>
-, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae">kNumLogEvents</a>
+&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f">kLogIdIDataExchangeReceiverSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d">kLogIdIRemapParamIDSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a186f949664db9c48938ff0bb24264e5c">kLogIdITransportControlSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a23d2082b82d60ec6cfaa04e6345817b0">kLogIdITransportControlPlaySupported</a>
+, <br />
+&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46a04a66b637b0c03e65267b7e0f2c42a5f">kLogIdITransportControlRecordSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a6be1314c38dbea645949e339852435a6">kLogIdITransportControlLocateSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46a70526264bc4ffea2ae90dad6573fe563">kLogIdITransportControlCycleSupported</a>
+, <a class="el" href="#afc84f29132b630b33d341d0769a66d46aaa488a01cfd379c58af8fb9c12f31a4c">kLogIdINoteOnOrchestralArticulationInfoSupported</a>
+, <br />
+&#160;&#160;<a class="el" href="#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae">kNumLogEvents</a>
 <br />
  }</td></tr>
 <tr class="separator:afc84f29132b630b33d341d0769a66d46"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -997,11 +1004,18 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46aa972d9a1b7865c1232278a3acde538f0" name="afc84f29132b630b33d341d0769a66d46aa972d9a1b7865c1232278a3acde538f0"></a>kLogIdIParameterFunctionNameSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a7a1b7b7cee242e95c68ef2601d3a0a06" name="afc84f29132b630b33d341d0769a66d46a7a1b7b7cee242e95c68ef2601d3a0a06"></a>kLogIdIParameterFunctionNameDryWetSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a1e15ab839db9031d2ed1287d7997e3b0" name="afc84f29132b630b33d341d0769a66d46a1e15ab839db9031d2ed1287d7997e3b0"></a>kLogIdIParameterFunctionNameRandomizeSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46ae9769cf30251e71b69dd9c0b7179fdef" name="afc84f29132b630b33d341d0769a66d46ae9769cf30251e71b69dd9c0b7179fdef"></a>kLogIdIParameterFunctionNameRandomizeAroundCurrentSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a2d993047219db1e4dd386c9ca509f582" name="afc84f29132b630b33d341d0769a66d46a2d993047219db1e4dd386c9ca509f582"></a>kLogIdIParameterFunctionNameLowLatencySupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018" name="afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018"></a>kLogIdIComponentHandlerSystemTimeSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3" name="afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3"></a>kLogIdIDataExchangeHandlerSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f" name="afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f"></a>kLogIdIDataExchangeReceiverSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d" name="afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d"></a>kLogIdIRemapParamIDSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a186f949664db9c48938ff0bb24264e5c" name="afc84f29132b630b33d341d0769a66d46a186f949664db9c48938ff0bb24264e5c"></a>kLogIdITransportControlSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a23d2082b82d60ec6cfaa04e6345817b0" name="afc84f29132b630b33d341d0769a66d46a23d2082b82d60ec6cfaa04e6345817b0"></a>kLogIdITransportControlPlaySupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a04a66b637b0c03e65267b7e0f2c42a5f" name="afc84f29132b630b33d341d0769a66d46a04a66b637b0c03e65267b7e0f2c42a5f"></a>kLogIdITransportControlRecordSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a6be1314c38dbea645949e339852435a6" name="afc84f29132b630b33d341d0769a66d46a6be1314c38dbea645949e339852435a6"></a>kLogIdITransportControlLocateSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a70526264bc4ffea2ae90dad6573fe563" name="afc84f29132b630b33d341d0769a66d46a70526264bc4ffea2ae90dad6573fe563"></a>kLogIdITransportControlCycleSupported&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46aaa488a01cfd379c58af8fb9c12f31a4c" name="afc84f29132b630b33d341d0769a66d46aaa488a01cfd379c58af8fb9c12f31a4c"></a>kLogIdINoteOnOrchestralArticulationInfoSupported&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae" name="afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae"></a>kNumLogEvents&#160;</td><td class="fielddoc"></td></tr>
 </table>
 

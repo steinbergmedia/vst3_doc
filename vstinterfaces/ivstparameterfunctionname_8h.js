@@ -8,6 +8,7 @@ var ivstparameterfunctionname_8h =
     [ "kLowLatencyMode", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#af4be690372df7b16a930d2207e408402", null ],
     [ "kDryWetMix", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a108cdff90ad44efad08520aa4af2a891", null ],
     [ "kRandomize", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a7e3eaee867bebf92ee98e6e19de3d7df", null ],
+    [ "kRandomizeAroundCurrent", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ae07dfb2ad0f7d6ec393ef5dea52bb13a", null ],
     [ "kPanPosCenterX", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ad875faf2282aeb70781130ed7e8de2b9", null ],
     [ "kPanPosCenterY", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#ab4ab5d97708547af9600017e134a225f", null ],
     [ "kPanPosCenterZ", "namespaceSteinberg_1_1Vst_1_1FunctionNameType.html#a850c37b07b8d83b79d308a151668cb59", null ]

@@ -24,9 +24,9 @@ var searchData=
   ['event_21',['Event',['../struct_v_s_t_g_u_i_1_1_event.html#aee8d9a66825a2b6f00d5af57329a4744',1,'VSTGUI::Event::Event() noexcept'],['../struct_v_s_t_g_u_i_1_1_event.html#a476b6a7884ab5d0250c283d63ca45a1a',1,'VSTGUI::Event::Event(const Event &amp;)=delete'],['../struct_v_s_t_g_u_i_1_1_event.html#a83bcf6124a582959b59daa1e053203eb',1,'VSTGUI::Event::Event(Event &amp;&amp;)=default']]],
   ['exchangeview_22',['exchangeView',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ad3b925dcba119d71d750ee3fccd0d665',1,'VSTGUI::VST3Editor']]],
   ['exchangeviewanimation_23',['ExchangeViewAnimation',['../class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ab056dfd92492a3566d61f0e150d02ff2',1,'VSTGUI::Animation::ExchangeViewAnimation']]],
-  ['execute_24',['execute',['../class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a61af3e60b94ae3e748f6fbac1e794af7',1,'VSTGUI::CCommandMenuItem']]],
-  ['executecommand_25',['executeCommand',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a462cc295aa1e9243af8f8dabe7f2b6f1',1,'VSTGUI::Standalone::IApplication']]],
-  ['exit_26',['exit',['../group__new__in__4__10.html#ga358d2e2397ca11ccd17553e3c40e7901',1,'VSTGUI']]],
-  ['exlusive_27',['exlusive',['../struct_v_s_t_g_u_i_1_1_enum_bitset.html#a4277b91d6fc174c565ae15b2f358e7c9',1,'VSTGUI::EnumBitset']]],
+  ['exclusive_24',['exclusive',['../struct_v_s_t_g_u_i_1_1_enum_bitset.html#adf5c459de6945540f38e606c1875d5eb',1,'VSTGUI::EnumBitset']]],
+  ['execute_25',['execute',['../class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a61af3e60b94ae3e748f6fbac1e794af7',1,'VSTGUI::CCommandMenuItem']]],
+  ['executecommand_26',['executeCommand',['../class_v_s_t_g_u_i_1_1_standalone_1_1_i_application.html#a462cc295aa1e9243af8f8dabe7f2b6f1',1,'VSTGUI::Standalone::IApplication']]],
+  ['exit_27',['exit',['../group__new__in__4__10.html#ga358d2e2397ca11ccd17553e3c40e7901',1,'VSTGUI']]],
   ['extend_28',['extend',['../struct_v_s_t_g_u_i_1_1_c_rect.html#ac8a3adf41d502477036a5257e0eacad4',1,'VSTGUI::CRect::extend(CCoord deltaX, CCoord deltaY)'],['../struct_v_s_t_g_u_i_1_1_c_rect.html#ace0d541b4b34202332454b715948d772',1,'VSTGUI::CRect::extend(const CPoint &amp;p)']]]
 ];

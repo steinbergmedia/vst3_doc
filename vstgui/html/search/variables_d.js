@@ -20,7 +20,7 @@ var searchData=
   ['mestartvalue_17',['meStartValue',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a2906cfa8a36c6311fa05efc3ae3adb10',1,'VSTGUI::CSliderBase::Impl']]],
   ['minheight_18',['minHeight',['../struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html#a44e93d58ebc76240ed5fefc71cd7b157',1,'VSTGUI::CListControl::Impl']]],
   ['minpos_19',['minPos',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a2ff65e9cce38ee2967a42f078d022e07',1,'VSTGUI::CSliderBase::Impl']]],
-  ['minscrollerlenght_20',['minScrollerLenght',['../class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa20b6e005b586618964a0a27771365c8',1,'VSTGUI::CScrollbar']]],
+  ['minscrollerlength_20',['minScrollerLength',['../class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4bdf766e8026b9e86e9da6b315f8be78',1,'VSTGUI::CScrollbar']]],
   ['minsize_21',['minSize',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ad5eadb7444adaa00366724c4211d5e93',1,'VSTGUI::VST3Editor']]],
   ['mintmp_22',['minTmp',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a4e5c4724abd0b62c1a3e30bbd5dac0a8',1,'VSTGUI::CSliderBase::Impl']]],
   ['modalview_23',['modalView',['../class_v_s_t_g_u_i_1_1_c_splash_screen.html#a28abf24c9a1852a524fe3dec755796b8',1,'VSTGUI::CSplashScreen']]],

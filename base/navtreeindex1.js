@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classSteinberg_1_1IString.html#a855f4116dd9824838ebc984adeccfe96":[2,0,0,26,1],
 "classSteinberg_1_1IString.html#a9897ca3a2a9047af3500188209b71ab7":[1,0,0,29,5],
 "classSteinberg_1_1IString.html#a9897ca3a2a9047af3500188209b71ab7":[2,0,0,26,5],
 "classSteinberg_1_1IString.html#aa1c3476200c013618c2de5f0fe341154":[1,0,0,29,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "group__smtgtypedef.html#gac9e1c0f508ae0f5f8a2b704a91e1ae86":[0,0,13],
 "group__smtgtypedef.html#gacbd4acd0d29e2d6c43104827f77d9cd2":[0,0,6],
 "group__smtgtypedef.html#gad4c02134d1ee42389f3d94717935a1d5":[0,0,19],
-"group__smtgtypedef.html#gad5ffc071fd688ac833b5283777037278":[0,0,34],
-"group__smtgtypedef.html#gadbdfa470c35e7bf57d7952f0767bbf57":[0,0,11]
+"group__smtgtypedef.html#gad5ffc071fd688ac833b5283777037278":[0,0,34]
 };

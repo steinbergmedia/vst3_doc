@@ -2,14 +2,14 @@
 <tagfile doxygen_version="1.13.2" doxygen_gitid="26342b775ea25e6fefb53220926b20702c56fcb3">
   <compound kind="file">
     <name>conststringtable.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>conststringtable_8cpp.html</filename>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" import="no" module="no" objc="no">conststringtable.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>conststringtable.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>conststringtable_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">ftypes.h</includes>
     <class kind="class">Steinberg::ConstStringTable</class>
@@ -17,7 +17,7 @@
   </compound>
   <compound kind="file">
     <name>coreiids.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>coreiids_8cpp.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <includes id="ibstream_8h" name="ibstream.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ibstream.h</includes>
@@ -28,17 +28,17 @@
   </compound>
   <compound kind="file">
     <name>falignpop.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>falignpop_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>falignpush.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>falignpush_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>fplatform.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>fplatform_8h.html</filename>
     <member kind="define">
       <type>#define</type>
@@ -127,7 +127,7 @@
   </compound>
   <compound kind="file">
     <name>fstrdefs.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>fstrdefs_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">ftypes.h</includes>
     <includes id="conststringtable_8h" name="conststringtable.h" local="yes" import="no" module="no" objc="no">conststringtable.h</includes>
@@ -247,7 +247,7 @@
   </compound>
   <compound kind="file">
     <name>ftypes.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ftypes_8h.html</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" import="no" module="no" objc="no">fplatform.h</includes>
     <namespace>Steinberg</namespace>
@@ -303,7 +303,7 @@
   </compound>
   <compound kind="file">
     <name>funknown.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>funknown_8cpp.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" import="no" module="no" objc="no">fstrdefs.h</includes>
@@ -312,7 +312,7 @@
   </compound>
   <compound kind="file">
     <name>funknown.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>funknown_8h.html</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/fplatform.h</includes>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ftypes.h</includes>
@@ -431,7 +431,7 @@
   </compound>
   <compound kind="file">
     <name>funknownimpl.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>funknownimpl_8h.html</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/fplatform.h</includes>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
@@ -455,7 +455,7 @@
   </compound>
   <compound kind="file">
     <name>futils.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>futils_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -469,7 +469,7 @@
   </compound>
   <compound kind="file">
     <name>fvariant.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>fvariant_8h.html</filename>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/fstrdefs.h</includes>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
@@ -478,14 +478,14 @@
   </compound>
   <compound kind="file">
     <name>geoconstants.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>geoconstants_8h.html</filename>
     <namespace>Steinberg</namespace>
     <namespace>Steinberg::GeoConstants</namespace>
   </compound>
   <compound kind="file">
     <name>ibstream.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ibstream_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">funknown.h</includes>
     <class kind="class">Steinberg::IBStream</class>
@@ -494,7 +494,7 @@
   </compound>
   <compound kind="file">
     <name>icloneable.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>icloneable_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">funknown.h</includes>
     <class kind="class">Steinberg::ICloneable</class>
@@ -502,7 +502,7 @@
   </compound>
   <compound kind="file">
     <name>ierrorcontext.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ierrorcontext_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IErrorContext</class>
@@ -510,7 +510,7 @@
   </compound>
   <compound kind="file">
     <name>ipersistent.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ipersistent_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IPersistent</class>
@@ -534,7 +534,7 @@
   </compound>
   <compound kind="file">
     <name>ipluginbase.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ipluginbase_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">funknown.h</includes>
     <includes id="fstrdefs_8h" name="fstrdefs.h" local="yes" import="no" module="no" objc="no">fstrdefs.h</includes>
@@ -571,7 +571,7 @@
   </compound>
   <compound kind="file">
     <name>iplugincompatibility.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>iplugincompatibility_8h.html</filename>
     <includes id="ibstream_8h" name="ibstream.h" local="yes" import="no" module="no" objc="no">ibstream.h</includes>
     <class kind="class">Steinberg::IPluginCompatibility</class>
@@ -586,7 +586,7 @@
   </compound>
   <compound kind="file">
     <name>istringresult.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>istringresult_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IStringResult</class>
@@ -595,7 +595,7 @@
   </compound>
   <compound kind="file">
     <name>iupdatehandler.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>iupdatehandler_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <class kind="class">Steinberg::IUpdateHandler</class>
@@ -604,7 +604,7 @@
   </compound>
   <compound kind="file">
     <name>keycodes.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>keycodes_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ftypes.h</includes>
     <class kind="struct">Steinberg::KeyCode</class>
@@ -613,13 +613,13 @@
   </compound>
   <compound kind="file">
     <name>pluginbasefwd.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>pluginbasefwd_8h.html</filename>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>smartpointer.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>smartpointer_8h.html</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/fplatform.h</includes>
     <class kind="class">Steinberg::IPtr</class>
@@ -628,7 +628,7 @@
   </compound>
   <compound kind="file">
     <name>typesizecheck.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>typesizecheck_8h.html</filename>
     <includes id="fplatform_8h" name="fplatform.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/fplatform.h</includes>
     <member kind="define">
@@ -641,7 +641,7 @@
   </compound>
   <compound kind="file">
     <name>ucolorspec.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ucolorspec_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/ftypes.h</includes>
     <namespace>Steinberg</namespace>
@@ -704,14 +704,14 @@
   </compound>
   <compound kind="file">
     <name>ustring.cpp</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ustring_8cpp.html</filename>
     <includes id="ustring_8h" name="ustring.h" local="yes" import="no" module="no" objc="no">ustring.h</includes>
     <namespace>Steinberg</namespace>
   </compound>
   <compound kind="file">
     <name>ustring.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/base/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/base/</path>
     <filename>ustring_8h.html</filename>
     <includes id="ftypes_8h" name="ftypes.h" local="yes" import="no" module="no" objc="no">ftypes.h</includes>
     <class kind="class">Steinberg::UString</class>
@@ -762,7 +762,7 @@
   </compound>
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugview_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <includes id="typesizecheck_8h" name="typesizecheck.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/typesizecheck.h</includes>
@@ -777,7 +777,7 @@
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h.html</filename>
     <includes id="funknown_8h" name="funknown.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/funknown.h</includes>
     <includes id="falignpush_8h" name="falignpush.h" local="yes" import="no" module="no" objc="no">pluginterfaces/base/falignpush.h</includes>
@@ -1211,85 +1211,85 @@
     <member kind="enumvalue">
       <name>kEmpty</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a5460ad665310efd60a2352b2c347342f</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea5460ad665310efd60a2352b2c347342f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInteger</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0aa1acc5720dd4e85ceea5578a6cf14ae6</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0eaa1acc5720dd4e85ceea5578a6cf14ae6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kFloat</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a5686197bafb177bdc82550848416a1ad</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea5686197bafb177bdc82550848416a1ad</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kString8</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a0f3df8a4ca30a3ad6b26e7f17a8032c2</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea0f3df8a4ca30a3ad6b26e7f17a8032c2</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kObject</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0ad74f4c7c6562dc3f8339a8bba2d28dd0</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ead74f4c7c6562dc3f8339a8bba2d28dd0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kOwner</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a8748a0de195760963cc4a77e6b4c29d0</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea8748a0de195760963cc4a77e6b4c29d0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kString16</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a3bbd3d3c841c519ed8d96eacdc2c1e69</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea3bbd3d3c841c519ed8d96eacdc2c1e69</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEmpty</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a5460ad665310efd60a2352b2c347342f</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea5460ad665310efd60a2352b2c347342f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInteger</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0aa1acc5720dd4e85ceea5578a6cf14ae6</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0eaa1acc5720dd4e85ceea5578a6cf14ae6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kFloat</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a5686197bafb177bdc82550848416a1ad</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea5686197bafb177bdc82550848416a1ad</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kString8</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a0f3df8a4ca30a3ad6b26e7f17a8032c2</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea0f3df8a4ca30a3ad6b26e7f17a8032c2</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kObject</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0ad74f4c7c6562dc3f8339a8bba2d28dd0</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ead74f4c7c6562dc3f8339a8bba2d28dd0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kOwner</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a8748a0de195760963cc4a77e6b4c29d0</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea8748a0de195760963cc4a77e6b4c29d0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kString16</name>
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
-      <anchor>a9025e2a9dd7b8f31248782743ad1b4e0a3bbd3d3c841c519ed8d96eacdc2c1e69</anchor>
+      <anchor>ad002e63d6d152a3101cbd09258155b0ea3bbd3d3c841c519ed8d96eacdc2c1e69</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -1529,6 +1529,13 @@
       <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
       <anchor>abbdb20a51bdf78b0b5dfb245178897e4</anchor>
       <arglist>(bool state)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>reset</name>
+      <anchorfile>classSteinberg_1_1FVariant.html</anchorfile>
+      <anchor>ad20897c5c8bd47f5d4005989bead0e55</anchor>
+      <arglist>()</arglist>
     </member>
     <member kind="function">
       <type>void</type>
@@ -2805,13 +2812,13 @@
     <member kind="enumvalue">
       <name>kCategorySize</name>
       <anchorfile>structSteinberg_1_1PClassInfo.html</anchorfile>
-      <anchor>a65bb21049bbb0ed44fc61d4bc03b738ba8f7919f981f4374ad578a660b8dbe01b</anchor>
+      <anchor>a9c2c0945fb586d32472552c4229b1869a8f7919f981f4374ad578a660b8dbe01b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo.html</anchorfile>
-      <anchor>a65bb21049bbb0ed44fc61d4bc03b738ba5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>a9c2c0945fb586d32472552c4229b1869a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -2823,13 +2830,13 @@
     <member kind="enumvalue">
       <name>kCategorySize</name>
       <anchorfile>structSteinberg_1_1PClassInfo.html</anchorfile>
-      <anchor>a65bb21049bbb0ed44fc61d4bc03b738ba8f7919f981f4374ad578a660b8dbe01b</anchor>
+      <anchor>a9c2c0945fb586d32472552c4229b1869a8f7919f981f4374ad578a660b8dbe01b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo.html</anchorfile>
-      <anchor>a65bb21049bbb0ed44fc61d4bc03b738ba5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>a9c2c0945fb586d32472552c4229b1869a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -2881,37 +2888,37 @@
     <member kind="enumvalue">
       <name>kVendorSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795abc92cf67d5c5576b27e52051ee42eaa0</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372abc92cf67d5c5576b27e52051ee42eaa0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVersionSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSubCategoriesSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVendorSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795abc92cf67d5c5576b27e52051ee42eaa0</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372abc92cf67d5c5576b27e52051ee42eaa0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVersionSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSubCategoriesSize</name>
       <anchorfile>structSteinberg_1_1PClassInfo2.html</anchorfile>
-      <anchor>af1f33b6e8fd0f2be719ca162a03f6795a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
+      <anchor>acbfb64d8f926008ba514cc2dea55b372a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -2998,37 +3005,37 @@
     <member kind="enumvalue">
       <name>kVendorSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffabc92cf67d5c5576b27e52051ee42eaa0</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7abc92cf67d5c5576b27e52051ee42eaa0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVersionSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffaf639cc09cb2106bdbd63cc5a4be8bc89</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSubCategoriesSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffa9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVendorSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffabc92cf67d5c5576b27e52051ee42eaa0</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7abc92cf67d5c5576b27e52051ee42eaa0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kVersionSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffaf639cc09cb2106bdbd63cc5a4be8bc89</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7af639cc09cb2106bdbd63cc5a4be8bc89</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSubCategoriesSize</name>
       <anchorfile>structSteinberg_1_1PClassInfoW.html</anchorfile>
-      <anchor>aa751461f9322500a34f6ae7dede6b9ffa9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
+      <anchor>aa5870fb22f26bda5095f8e84ce965cc7a9dfa52b0b8aabc14a4e753f1c2e37b5f</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -3159,19 +3166,19 @@
     <member kind="enumvalue">
       <name>kURLSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a47905cffb4660c31c124c3689a597abe</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a47905cffb4660c31c124c3689a597abe</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEmailSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a7659c914f304c03fe5bb5406644dd11b</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a7659c914f304c03fe5bb5406644dd11b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
@@ -3207,19 +3214,19 @@
     <member kind="enumvalue">
       <name>kURLSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a47905cffb4660c31c124c3689a597abe</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a47905cffb4660c31c124c3689a597abe</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEmailSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a7659c914f304c03fe5bb5406644dd11b</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a7659c914f304c03fe5bb5406644dd11b</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1PFactoryInfo.html</anchorfile>
-      <anchor>a2ba238dbdc53e90c62e8b035f5dbf9e8a5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>af3cb7335c323c15b13cf8121bb9af8d6a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -3347,193 +3354,193 @@
     <member kind="enumvalue">
       <name>l1_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a364d67b88ba145c54a941527419c615e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a364d67b88ba145c54a941527419c615e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a69135c9ccda11551789cc40c2ba383b7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a69135c9ccda11551789cc40c2ba383b7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a113168334159478ee29ac1f9ab97590f</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a113168334159478ee29ac1f9ab97590f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aabd2f67af8e67b1ff9967ccfdffba753</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aabd2f67af8e67b1ff9967ccfdffba753</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a74fb2f88033d775fa980d8599ceb8e9e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a74fb2f88033d775fa980d8599ceb8e9e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a65e1960d794f7fc803c279f1867948e8</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a65e1960d794f7fc803c279f1867948e8</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a8048ed6bbf575acb076473860c596ad7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a8048ed6bbf575acb076473860c596ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a42262067506945b6c6b7f20499a58283</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4afdf8e144b07277b747cd719cd5e90fbb</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a7bbddf97f369fb4059a743b4826fafa6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a364d67b88ba145c54a941527419c615e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a364d67b88ba145c54a941527419c615e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a69135c9ccda11551789cc40c2ba383b7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a69135c9ccda11551789cc40c2ba383b7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a113168334159478ee29ac1f9ab97590f</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a113168334159478ee29ac1f9ab97590f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aabd2f67af8e67b1ff9967ccfdffba753</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aabd2f67af8e67b1ff9967ccfdffba753</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a74fb2f88033d775fa980d8599ceb8e9e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a74fb2f88033d775fa980d8599ceb8e9e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a65e1960d794f7fc803c279f1867948e8</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a65e1960d794f7fc803c279f1867948e8</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a8048ed6bbf575acb076473860c596ad7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a8048ed6bbf575acb076473860c596ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a42262067506945b6c6b7f20499a58283</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4afdf8e144b07277b747cd719cd5e90fbb</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a7bbddf97f369fb4059a743b4826fafa6</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -3544,10 +3551,10 @@
       <arglist>()=delete</arglist>
     </member>
     <member kind="function" static="yes">
-      <type>static const TUID &amp;</type>
+      <type>static constexpr const TUID &amp;</type>
       <name>toTUID</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>a19586a2262d7f92f01c9d90649cbe032</anchor>
+      <anchor>ad70a04801475acf30776abbec35f1a38</anchor>
       <arglist>()</arglist>
     </member>
     <member kind="variable" static="yes">
@@ -3568,193 +3575,193 @@
     <member kind="enumvalue">
       <name>l1_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a364d67b88ba145c54a941527419c615e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a364d67b88ba145c54a941527419c615e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a69135c9ccda11551789cc40c2ba383b7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a69135c9ccda11551789cc40c2ba383b7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a113168334159478ee29ac1f9ab97590f</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a113168334159478ee29ac1f9ab97590f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aabd2f67af8e67b1ff9967ccfdffba753</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aabd2f67af8e67b1ff9967ccfdffba753</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a74fb2f88033d775fa980d8599ceb8e9e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a74fb2f88033d775fa980d8599ceb8e9e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a65e1960d794f7fc803c279f1867948e8</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a65e1960d794f7fc803c279f1867948e8</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_1</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a8048ed6bbf575acb076473860c596ad7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a8048ed6bbf575acb076473860c596ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_2</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a42262067506945b6c6b7f20499a58283</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_3</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4afdf8e144b07277b747cd719cd5e90fbb</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_4</name>
       <anchorfile>structSteinberg_1_1FUnknownImpl_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a7bbddf97f369fb4059a743b4826fafa6</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_1</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a364d67b88ba145c54a941527419c615e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a364d67b88ba145c54a941527419c615e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_2</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a69135c9ccda11551789cc40c2ba383b7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a69135c9ccda11551789cc40c2ba383b7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_3</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a113168334159478ee29ac1f9ab97590f</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a113168334159478ee29ac1f9ab97590f</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l1_4</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a9f14c775b18f5ac39bb547b0b2b8ab77</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_1</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aabd2f67af8e67b1ff9967ccfdffba753</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aabd2f67af8e67b1ff9967ccfdffba753</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_2</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a84847d1fdfb70e454b3fe7b2ce6d7f1e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_3</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaaef82e33e7cc9147ac4b596c0f0bdba</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l2_4</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a74fb2f88033d775fa980d8599ceb8e9e</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a74fb2f88033d775fa980d8599ceb8e9e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_1</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a6fc24ff5fdae1278dc8f6d59bc5aa199</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_2</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4aaf4b2926ae53fed36cc5e9c15af53cf0</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_3</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a933915a7364eee7f4a1afd8c7ce15e1d</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l3_4</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a65e1960d794f7fc803c279f1867948e8</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a65e1960d794f7fc803c279f1867948e8</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_1</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a8048ed6bbf575acb076473860c596ad7</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a8048ed6bbf575acb076473860c596ad7</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_2</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a42262067506945b6c6b7f20499a58283</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a42262067506945b6c6b7f20499a58283</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_3</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585afdf8e144b07277b747cd719cd5e90fbb</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4afdf8e144b07277b747cd719cd5e90fbb</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>l4_4</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>ae8424d9713d8cfd8dae09a5826726585a7bbddf97f369fb4059a743b4826fafa6</anchor>
+      <anchor>a3f0ab36cd1fba170de85b1ef0a1419c4a7bbddf97f369fb4059a743b4826fafa6</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -3765,10 +3772,10 @@
       <arglist>()=delete</arglist>
     </member>
     <member kind="function" static="yes">
-      <type>static const TUID &amp;</type>
+      <type>static constexpr const TUID &amp;</type>
       <name>toTUID</name>
       <anchorfile>structSteinberg_1_1U_1_1UID.html</anchorfile>
-      <anchor>a19586a2262d7f92f01c9d90649cbe032</anchor>
+      <anchor>ad70a04801475acf30776abbec35f1a38</anchor>
       <arglist>()</arglist>
     </member>
     <member kind="variable" static="yes">
@@ -4239,55 +4246,55 @@
     <member kind="enumvalue">
       <name>kNoInterface</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a21f2c8af375a407ff9fb8d10e8e73a17</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a21f2c8af375a407ff9fb8d10e8e73a17</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kResultOk</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a941549edbe23d0f21851403ae03ad4df</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a941549edbe23d0f21851403ae03ad4df</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kResultTrue</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a9e60fad4624bee040985edebe1800372</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a9e60fad4624bee040985edebe1800372</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kResultFalse</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53ab954d2583eb15d3a762c5df29270f483</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889ab954d2583eb15d3a762c5df29270f483</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInvalidArgument</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53ace91375677eb541c1a70e7ecd95f5698</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889ace91375677eb541c1a70e7ecd95f5698</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNotImplemented</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a598e4c5d4c234c1bf09367d64487519c</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a598e4c5d4c234c1bf09367d64487519c</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kInternalError</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a3b287aa91111dd8aedf4bbf363e01525</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a3b287aa91111dd8aedf4bbf363e01525</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNotInitialized</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53a1216e3377e943f8898e78c63422924aa</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889a1216e3377e943f8898e78c63422924aa</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kOutOfMemory</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
-      <anchor>a57098e3418561770792c2f29c4530c53ac43d80137687fc5c1c4b60dc77202283</anchor>
+      <anchor>af53e6855b93b8be00460574fc28f5889ac43d80137687fc5c1c4b60dc77202283</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumeration">
@@ -5603,6 +5610,13 @@
       <name>StripAlpha</name>
       <anchorfile>namespaceSteinberg.html</anchorfile>
       <anchor>a27f6f9da6429b67343a7e36078494bd9</anchor>
+      <arglist>(ColorSpec argb)</arglist>
+    </member>
+    <member kind="function">
+      <type>ColorSpec</type>
+      <name>OpaqueAlpha</name>
+      <anchorfile>namespaceSteinberg.html</anchorfile>
+      <anchor>a0ff79aa3f3e14a012dfb4ba21ff99751</anchor>
       <arglist>(ColorSpec argb)</arglist>
     </member>
     <member kind="function">

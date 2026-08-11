@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['uidprintstyle_0',['UIDPrintStyle',['../../base/classSteinberg_1_1FUID.html#a4c6d5af58eee71460b173f2a3fc16e83',1,'Steinberg::FUID']]]
+  ['transportpositiontype_0',['TransportPositionType',['../../vstinterfaces/namespaceSteinberg_1_1Vst.html#a51dd087263b5218be99155995608819f',1,'Steinberg::Vst']]]
 ];

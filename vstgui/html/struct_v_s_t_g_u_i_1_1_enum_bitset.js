@@ -9,7 +9,7 @@ var struct_v_s_t_g_u_i_1_1_enum_bitset =
     [ "add", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#a359ee2e35cb9e24981e16eb1e94ab8d5", null ],
     [ "clear", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#ad06c3c2982676f35b29272f80059837a", null ],
     [ "empty", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#afaafdfc441c2433c70959e3dfe46fd97", null ],
-    [ "exlusive", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#a4277b91d6fc174c565ae15b2f358e7c9", null ],
+    [ "exclusive", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#adf5c459de6945540f38e606c1875d5eb", null ],
     [ "operator!=", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#a5651de48f8c53a704a64a531c26a5e1b", null ],
     [ "operator&", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#abcff2af424165f1a10dc52eb96aa524e", null ],
     [ "operator&=", "struct_v_s_t_g_u_i_1_1_enum_bitset.html#a351369b6a3c51f4bff3296b1d8b7c428", null ],

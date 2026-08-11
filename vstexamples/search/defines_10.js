@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['wavelen_0',['WAVELEN',['../mdaEPianoProcessor_8cpp.html#ac16f5b88e42015f1db52b238012154ce',1,'mdaEPianoProcessor.cpp']]]
+  ['voiceprocessor_5fblocksize_0',['VOICEPROCESSOR_BLOCKSIZE',['../voiceprocessor_8h.html#ad02c1f770ebad9d3f30b3f046ebcea00',1,'voiceprocessor.h']]]
 ];

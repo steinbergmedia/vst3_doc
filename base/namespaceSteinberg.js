@@ -292,6 +292,7 @@ var namespaceSteinberg =
     [ "NormalizeAlpha", "namespaceSteinberg.html#a170abdd6288ad80f6ddca3d7e9c3fb59", null ],
     [ "DenormalizeAlpha", "namespaceSteinberg.html#abfe74133ed684fa31c7227a9d1a4b3ce", null ],
     [ "StripAlpha", "namespaceSteinberg.html#a27f6f9da6429b67343a7e36078494bd9", null ],
+    [ "OpaqueAlpha", "namespaceSteinberg.html#a0ff79aa3f3e14a012dfb4ba21ff99751", null ],
     [ "BlendColor", "namespaceSteinberg.html#a82f9ae0460c5ad8b348cdfa75fec5c68", null ],
     [ "StringCopy", "namespaceSteinberg.html#a51c63740ab18a5e8a1394fb10e743917", null ],
     [ "StringLength", "namespaceSteinberg.html#ae6cdc2936b352ab9cd2fb6aed350bbaa", null ],

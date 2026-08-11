@@ -11,12 +11,13 @@ var searchData=
   ['rezfiltercontroller_8',['RezFilterController',['../classSteinberg_1_1Vst_1_1mda_1_1RezFilterController.html',1,'Steinberg::Vst::mda']]],
   ['rezfilterprocessor_9',['RezFilterProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RezFilterProcessor.html',1,'Steinberg::Vst::mda']]],
   ['ringbuffer_10',['RingBuffer',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
-  ['ringbuffer_3c_20steinberg_3a_3avst_3a_3aevent_20_3e_11',['RingBuffer&lt; Steinberg::Vst::Event &gt;',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
-  ['ringmodcontroller_12',['RingModController',['../classSteinberg_1_1Vst_1_1mda_1_1RingModController.html',1,'Steinberg::Vst::mda']]],
-  ['ringmodprocessor_13',['RingModProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html',1,'Steinberg::Vst::mda']]],
-  ['roundpancontroller_14',['RoundPanController',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html',1,'Steinberg::Vst::mda']]],
-  ['roundpanprocessor_15',['RoundPanProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html',1,'Steinberg::Vst::mda']]],
-  ['routinginfo_16',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]],
-  ['rttransfert_17',['RTTransferT',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]],
-  ['rttransfert_3c_20statet_20_3e_18',['RTTransferT&lt; StateT &gt;',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]]
+  ['ringbuffer_3c_20audiobufferdata_20_3e_11',['RingBuffer&lt; AudioBufferData &gt;',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
+  ['ringbuffer_3c_20steinberg_3a_3avst_3a_3aevent_20_3e_12',['RingBuffer&lt; Steinberg::Vst::Event &gt;',['../../vstsdk/classSteinberg_1_1OneReaderOneWriter_1_1RingBuffer.html',1,'Steinberg::OneReaderOneWriter']]],
+  ['ringmodcontroller_13',['RingModController',['../classSteinberg_1_1Vst_1_1mda_1_1RingModController.html',1,'Steinberg::Vst::mda']]],
+  ['ringmodprocessor_14',['RingModProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RingModProcessor.html',1,'Steinberg::Vst::mda']]],
+  ['roundpancontroller_15',['RoundPanController',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanController.html',1,'Steinberg::Vst::mda']]],
+  ['roundpanprocessor_16',['RoundPanProcessor',['../classSteinberg_1_1Vst_1_1mda_1_1RoundPanProcessor.html',1,'Steinberg::Vst::mda']]],
+  ['routinginfo_17',['RoutingInfo',['../../vstinterfaces/structSteinberg_1_1Vst_1_1RoutingInfo.html',1,'Steinberg::Vst']]],
+  ['rttransfert_18',['RTTransferT',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]],
+  ['rttransfert_3c_20statet_20_3e_19',['RTTransferT&lt; StateT &gt;',['../../vstsdk/structSteinberg_1_1Vst_1_1RTTransferT.html',1,'Steinberg::Vst']]]
 ];

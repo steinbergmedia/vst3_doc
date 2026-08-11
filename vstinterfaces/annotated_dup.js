@@ -5,6 +5,11 @@ var annotated_dup =
         [ "ChannelContext", "namespaceSteinberg_1_1Vst_1_1ChannelContext.html", [
           [ "IInfoListener", "classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html", "classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener" ]
         ] ],
+        [ "NoteOnOrchestralArticulation", "namespaceSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation.html", [
+          [ "ClassificationVariations", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations" ],
+          [ "IInfo", "classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html", "classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo" ],
+          [ "Variations", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html", "structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations" ]
+        ] ],
         [ "AudioBusBuffers", "structSteinberg_1_1Vst_1_1AudioBusBuffers.html", "structSteinberg_1_1Vst_1_1AudioBusBuffers" ],
         [ "BusInfo", "structSteinberg_1_1Vst_1_1BusInfo.html", "structSteinberg_1_1Vst_1_1BusInfo" ],
         [ "Chord", "structSteinberg_1_1Vst_1_1Chord.html", "structSteinberg_1_1Vst_1_1Chord" ],
@@ -58,6 +63,7 @@ var annotated_dup =
         [ "IStreamAttributes", "classSteinberg_1_1Vst_1_1IStreamAttributes.html", "classSteinberg_1_1Vst_1_1IStreamAttributes" ],
         [ "ITestPlugProvider", "classSteinberg_1_1Vst_1_1ITestPlugProvider.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider" ],
         [ "ITestPlugProvider2", "classSteinberg_1_1Vst_1_1ITestPlugProvider2.html", "classSteinberg_1_1Vst_1_1ITestPlugProvider2" ],
+        [ "ITransportControl", "classSteinberg_1_1Vst_1_1ITransportControl.html", "classSteinberg_1_1Vst_1_1ITransportControl" ],
         [ "IUnitData", "classSteinberg_1_1Vst_1_1IUnitData.html", "classSteinberg_1_1Vst_1_1IUnitData" ],
         [ "IUnitHandler", "classSteinberg_1_1Vst_1_1IUnitHandler.html", "classSteinberg_1_1Vst_1_1IUnitHandler" ],
         [ "IUnitHandler2", "classSteinberg_1_1Vst_1_1IUnitHandler2.html", "classSteinberg_1_1Vst_1_1IUnitHandler2" ],
@@ -92,6 +98,7 @@ var annotated_dup =
         [ "RepresentationInfo", "structSteinberg_1_1Vst_1_1RepresentationInfo.html", "structSteinberg_1_1Vst_1_1RepresentationInfo" ],
         [ "RoutingInfo", "structSteinberg_1_1Vst_1_1RoutingInfo.html", "structSteinberg_1_1Vst_1_1RoutingInfo" ],
         [ "ScaleEvent", "structSteinberg_1_1Vst_1_1ScaleEvent.html", "structSteinberg_1_1Vst_1_1ScaleEvent" ],
+        [ "TransportPosition", "structSteinberg_1_1Vst_1_1TransportPosition.html", "structSteinberg_1_1Vst_1_1TransportPosition" ],
         [ "UnitInfo", "structSteinberg_1_1Vst_1_1UnitInfo.html", "structSteinberg_1_1Vst_1_1UnitInfo" ]
       ] ],
       [ "ITest", "classSteinberg_1_1ITest.html", "classSteinberg_1_1ITest" ],

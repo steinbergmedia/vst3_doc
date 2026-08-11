@@ -14,5 +14,6 @@ var searchData=
   ['connectionproxy_2eh_11',['connectionproxy.h',['../../vstsdk/connectionproxy_8h.html',1,'']]],
   ['conststringtable_2ecpp_12',['conststringtable.cpp',['../../base/conststringtable_8cpp.html',1,'']]],
   ['conststringtable_2eh_13',['conststringtable.h',['../../base/conststringtable_8h.html',1,'']]],
-  ['coreiids_2ecpp_14',['coreiids.cpp',['../../base/coreiids_8cpp.html',1,'']]]
+  ['controller_2ecpp_14',['controller.cpp',['../controller_8cpp.html',1,'']]],
+  ['coreiids_2ecpp_15',['coreiids.cpp',['../../base/coreiids_8cpp.html',1,'']]]
 ];

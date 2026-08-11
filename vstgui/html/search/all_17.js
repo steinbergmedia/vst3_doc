@@ -47,7 +47,7 @@ var searchData=
   ['middle_44',['Middle',['../group__new__in__4__11.html#ggab8d93bdfbb0fd7ae143bbfda46bf38bcab1ca34f82e83c52b010f86955f264e05',1,'VSTGUI']]],
   ['minheight_45',['minHeight',['../struct_v_s_t_g_u_i_1_1_c_list_control_1_1_impl.html#a44e93d58ebc76240ed5fefc71cd7b157',1,'VSTGUI::CListControl::Impl']]],
   ['minpos_46',['minPos',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a2ff65e9cce38ee2967a42f078d022e07',1,'VSTGUI::CSliderBase::Impl']]],
-  ['minscrollerlenght_47',['minScrollerLenght',['../class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa20b6e005b586618964a0a27771365c8',1,'VSTGUI::CScrollbar']]],
+  ['minscrollerlength_47',['minScrollerLength',['../class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4bdf766e8026b9e86e9da6b315f8be78',1,'VSTGUI::CScrollbar']]],
   ['minsize_48',['minSize',['../class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ad5eadb7444adaa00366724c4211d5e93',1,'VSTGUI::VST3Editor']]],
   ['mintmp_49',['minTmp',['../struct_v_s_t_g_u_i_1_1_c_slider_base_1_1_impl.html#a4e5c4724abd0b62c1a3e30bbd5dac0a8',1,'VSTGUI::CSliderBase::Impl']]],
   ['miscellaneous_50',['Miscellaneous',['../page_misc.html',1,'']]],

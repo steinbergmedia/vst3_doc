@@ -2,10 +2,10 @@ var searchData=
 [
   ['editors_0',['editors',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a2028ab458d2d798ff29b76a561306dc4',1,'Steinberg::Vst::HostCheckerController']]],
   ['editorssubctlermap_1',['editorsSubCtlerMap',['../classSteinberg_1_1Vst_1_1HostCheckerController.html#a06f291cb573e68c068f1575530e558a9',1,'Steinberg::Vst::HostCheckerController']]],
-  ['effdesc_2',['effDesc',['../againaax_8cpp.html#a3df507746718c13e0db2b2eb888128e8',1,'againaax.cpp']]],
+  ['effdesc_2',['effDesc',['../againaax_8cpp.html#a3df507746718c13e0db2b2eb888128e8',1,'effDesc:&#160;againaax.cpp'],['../hostchecker__aax_8cpp.html#a3df507746718c13e0db2b2eb888128e8',1,'effDesc:&#160;hostchecker_aax.cpp']]],
   ['effmeters_3',['effMeters',['../againaax_8cpp.html#adee80717eee22432f9fb4e19402d2ca2',1,'againaax.cpp']]],
-  ['effmidi_4',['effMIDI',['../againaax_8cpp.html#aecbe923fbe60e46a80a00f852f275acc',1,'againaax.cpp']]],
-  ['effplugins_5',['effPlugins',['../againaax_8cpp.html#a69e9ff8c435bb8eed1e2ca65d4c5ffd1',1,'againaax.cpp']]],
+  ['effmidi_4',['effMIDI',['../againaax_8cpp.html#aecbe923fbe60e46a80a00f852f275acc',1,'effMIDI:&#160;againaax.cpp'],['../hostchecker__aax_8cpp.html#aecbe923fbe60e46a80a00f852f275acc',1,'effMIDI:&#160;hostchecker_aax.cpp']]],
+  ['effplugins_5',['effPlugins',['../againaax_8cpp.html#a69e9ff8c435bb8eed1e2ca65d4c5ffd1',1,'effPlugins:&#160;againaax.cpp'],['../hostchecker__aax_8cpp.html#a69e9ff8c435bb8eed1e2ca65d4c5ffd1',1,'effPlugins:&#160;hostchecker_aax.cpp']]],
   ['email_6',['email',['../../base/structSteinberg_1_1PFactoryInfo.html#a371bd4486f2314c56b0dc15665ac2825',1,'Steinberg::PFactoryInfo::email'],['../../vstsdk/structSteinberg_1_1ModuleInfo_1_1FactoryInfo.html#a39f10874f551f4c4ad837e516691e4e6',1,'Steinberg::ModuleInfo::FactoryInfo::email']]],
   ['emphasis_7',['emphasis',['../classSteinberg_1_1Vst_1_1mda_1_1TalkBoxProcessor.html#ac5a9593af467bae7f2701cc7b1c8e273',1,'Steinberg::Vst::mda::TalkBoxProcessor']]],
   ['end_8',['end',['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1VOICE.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::EPianoProcessor::VOICE::end'],['../structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::EPianoProcessor::KGRP::end'],['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1VOICE.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::PianoProcessor::VOICE::end'],['../structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html#aae31c8aaf4f0d8ca823fe4e2cf26de0a',1,'Steinberg::Vst::mda::PianoProcessor::KGRP::end']]],

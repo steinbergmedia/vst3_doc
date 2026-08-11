@@ -11,6 +11,10 @@ var classSteinberg_1_1Vst_1_1PlugController =
     [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
     [ "setChannelContextInfos", "classSteinberg_1_1Vst_1_1PlugController.html#a49f061b7873f1b192cbdcbc9e731ff09", null ],
     [ "initialize", "classSteinberg_1_1Vst_1_1PlugController.html#a4dae123b5697706651d9ff20c9614f63", null ],
+    [ "setParamNormalized", "classSteinberg_1_1Vst_1_1PlugController.html#aeb78d794ce0bc5812c526a1cc2083d5d", null ],
+    [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
+    [ "getUnitByBus", "classSteinberg_1_1Vst_1_1PlugController.html#a5421004586b52d943f4b1fef3b935d39", null ],
+    [ "initialize", "classSteinberg_1_1Vst_1_1PlugController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
     [ "createView", "classSteinberg_1_1Vst_1_1PlugController.html#a634ef43d3538409b98c1fc2cd5e494a0", null ],
     [ "createCustomView", "classSteinberg_1_1Vst_1_1PlugController.html#aeb86f6fdd0b8ce18fdc55881ebd60f72", null ],
@@ -27,5 +31,6 @@ var classSteinberg_1_1Vst_1_1PlugController =
     [ "initialize", "classSteinberg_1_1Vst_1_1PlugController.html#a4dae123b5697706651d9ff20c9614f63", null ],
     [ "setParamNormalized", "classSteinberg_1_1Vst_1_1PlugController.html#aeb78d794ce0bc5812c526a1cc2083d5d", null ],
     [ "setComponentState", "classSteinberg_1_1Vst_1_1PlugController.html#a9d48aa02feb98d52c054d5f4198fa7c9", null ],
-    [ "getUnitByBus", "classSteinberg_1_1Vst_1_1PlugController.html#a5421004586b52d943f4b1fef3b935d39", null ]
+    [ "getUnitByBus", "classSteinberg_1_1Vst_1_1PlugController.html#a5421004586b52d943f4b1fef3b935d39", null ],
+    [ "mLastNumProgs", "classSteinberg_1_1Vst_1_1PlugController.html#a578386283cff3f432370b7cd85848a7e", null ]
 ];

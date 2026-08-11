@@ -2,24 +2,24 @@
 <tagfile doxygen_version="1.13.2" doxygen_gitid="26342b775ea25e6fefb53220926b20702c56fcb3">
   <compound kind="file">
     <name>iplugview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugview_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>iplugviewcontentscalesupport.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iplugviewcontentscalesupport_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>iwaylandframe.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/gui/</path>
     <filename>iwaylandframe_8h.html</filename>
     <class kind="class">Steinberg::IWaylandHost</class>
     <class kind="class">Steinberg::IWaylandFrame</class>
   </compound>
   <compound kind="file">
     <name>itest.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/test/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/test/</path>
     <filename>itest_8h.html</filename>
     <class kind="class">Steinberg::ITest</class>
     <class kind="class">Steinberg::ITestResult</class>
@@ -35,7 +35,7 @@
   </compound>
   <compound kind="file">
     <name>ivstattributes.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstattributes_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAttributeList</class>
@@ -44,7 +44,7 @@
   </compound>
   <compound kind="file">
     <name>ivstaudioprocessor.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstaudioprocessor_8h.html</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" import="no" module="no" objc="no">ivstcomponent.h</includes>
     <includes id="vstspeaker_8h" name="vstspeaker.h" local="yes" import="no" module="no" objc="no">vstspeaker.h</includes>
@@ -66,7 +66,7 @@
   </compound>
   <compound kind="file">
     <name>ivstautomationstate.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstautomationstate_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IAutomationState</class>
@@ -74,7 +74,7 @@
   </compound>
   <compound kind="file">
     <name>ivstchannelcontextinfo.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstchannelcontextinfo_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -112,7 +112,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcomponent.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcomponent_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::BusInfo</class>
@@ -129,7 +129,7 @@
   </compound>
   <compound kind="file">
     <name>ivstcontextmenu.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstcontextmenu_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IComponentHandler3</class>
@@ -140,7 +140,7 @@
   </compound>
   <compound kind="file">
     <name>ivstdataexchange.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstdataexchange_8h.html</filename>
     <class kind="struct">Steinberg::Vst::DataExchangeBlock</class>
     <class kind="class">Steinberg::Vst::IDataExchangeHandler</class>
@@ -191,7 +191,7 @@
   </compound>
   <compound kind="file">
     <name>ivsteditcontroller.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsteditcontroller_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::ParameterInfo</class>
@@ -230,7 +230,7 @@
   </compound>
   <compound kind="file">
     <name>ivstevents.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstevents_8h.html</filename>
     <includes id="ivstprocesscontext_8h" name="ivstprocesscontext.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstprocesscontext.h</includes>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
@@ -247,7 +247,7 @@
   </compound>
   <compound kind="file">
     <name>ivsthostapplication.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsthostapplication_8h.html</filename>
     <includes id="ivstmessage_8h" name="ivstmessage.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstmessage.h</includes>
     <class kind="class">Steinberg::Vst::IHostApplication</class>
@@ -259,7 +259,7 @@
   </compound>
   <compound kind="file">
     <name>ivstinterappaudio.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstinterappaudio_8h.html</filename>
     <class kind="class">Steinberg::Vst::IInterAppAudioHost</class>
     <class kind="class">Steinberg::Vst::IInterAppAudioConnectionNotification</class>
@@ -268,7 +268,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmessage.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmessage_8h.html</filename>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstattributes.h</includes>
     <class kind="class">Steinberg::Vst::IMessage</class>
@@ -277,13 +277,13 @@
   </compound>
   <compound kind="file">
     <name>ivstmidicontrollers.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidicontrollers_8h.html</filename>
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
     <name>ivstmidilearn.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidilearn_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IMidiLearn</class>
@@ -291,7 +291,7 @@
   </compound>
   <compound kind="file">
     <name>ivstmidimapping2.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstmidimapping2_8h.html</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
@@ -306,7 +306,7 @@
   </compound>
   <compound kind="file">
     <name>ivstnoteexpression.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstnoteexpression_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::NoteExpressionValueDescription</class>
@@ -348,8 +348,19 @@
     </member>
   </compound>
   <compound kind="file">
+    <name>ivstnoteonorchestralarticulationinfo.h</name>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <filename>ivstnoteonorchestralarticulationinfo_8h.html</filename>
+    <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
+    <class kind="struct">Steinberg::Vst::NoteOnOrchestralArticulation::Variations</class>
+    <class kind="struct">Steinberg::Vst::NoteOnOrchestralArticulation::ClassificationVariations</class>
+    <class kind="class">Steinberg::Vst::NoteOnOrchestralArticulation::IInfo</class>
+    <namespace>Steinberg::Vst</namespace>
+    <namespace>Steinberg::Vst::NoteOnOrchestralArticulation</namespace>
+  </compound>
+  <compound kind="file">
     <name>ivstparameterchanges.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterchanges_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParamValueQueue</class>
@@ -358,7 +369,7 @@
   </compound>
   <compound kind="file">
     <name>ivstparameterfunctionname.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstparameterfunctionname_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFunctionName</class>
@@ -367,7 +378,7 @@
   </compound>
   <compound kind="file">
     <name>ivstphysicalui.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstphysicalui_8h.html</filename>
     <includes id="ivstnoteexpression_8h" name="ivstnoteexpression.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstnoteexpression.h</includes>
     <class kind="struct">Steinberg::Vst::PhysicalUIMap</class>
@@ -391,7 +402,7 @@
   </compound>
   <compound kind="file">
     <name>ivstpluginterfacesupport.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstpluginterfacesupport_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IPlugInterfaceSupport</class>
@@ -399,7 +410,7 @@
   </compound>
   <compound kind="file">
     <name>ivstplugview.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstplugview_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IParameterFinder</class>
@@ -407,7 +418,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprefetchablesupport.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprefetchablesupport_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <includes id="ivstattributes_8h" name="ivstattributes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstattributes.h</includes>
@@ -430,7 +441,7 @@
   </compound>
   <compound kind="file">
     <name>ivstprocesscontext.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstprocesscontext_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::FrameRate</class>
@@ -440,7 +451,7 @@
   </compound>
   <compound kind="file">
     <name>ivstremapparamid.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstremapparamid_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="class">Steinberg::Vst::IRemapParamID</class>
@@ -448,7 +459,7 @@
   </compound>
   <compound kind="file">
     <name>ivstrepresentation.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstrepresentation_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
@@ -827,7 +838,7 @@
   </compound>
   <compound kind="file">
     <name>ivsttestplugprovider.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivsttestplugprovider_8h.html</filename>
     <includes id="ivstcomponent_8h" name="ivstcomponent.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivstcomponent.h</includes>
     <includes id="ivsteditcontroller_8h" name="ivsteditcontroller.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/ivsteditcontroller.h</includes>
@@ -836,8 +847,17 @@
     <namespace>Steinberg::Vst</namespace>
   </compound>
   <compound kind="file">
+    <name>ivsttransportcontrol.h</name>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <filename>ivsttransportcontrol_8h.html</filename>
+    <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
+    <class kind="struct">Steinberg::Vst::TransportPosition</class>
+    <class kind="class">Steinberg::Vst::ITransportControl</class>
+    <namespace>Steinberg::Vst</namespace>
+  </compound>
+  <compound kind="file">
     <name>ivstunits.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>ivstunits_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
@@ -851,7 +871,7 @@
   </compound>
   <compound kind="file">
     <name>vstpresetkeys.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpresetkeys_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg::Vst</namespace>
@@ -863,12 +883,12 @@
   </compound>
   <compound kind="file">
     <name>vstpshpack4.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstpshpack4_8h.html</filename>
   </compound>
   <compound kind="file">
     <name>vstspeaker.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vstspeaker_8h.html</filename>
     <includes id="vsttypes_8h" name="vsttypes.h" local="yes" import="no" module="no" objc="no">pluginterfaces/vst/vsttypes.h</includes>
     <namespace>Steinberg::Vst</namespace>
@@ -876,7 +896,7 @@
   </compound>
   <compound kind="file">
     <name>vsttypes.h</name>
-    <path>/Users/buildserver/TeamCity/buildData/work/e7e95fcd18a819ac/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
+    <path>/Users/buildserver/TeamCity/buildData/work/404fdde649dbfc3e/VST_SDK/vst3sdk/pluginterfaces/vst/</path>
     <filename>vsttypes_8h.html</filename>
     <namespace>Steinberg::Vst</namespace>
     <member kind="define">
@@ -912,6 +932,13 @@
       <name>VST_VERSION</name>
       <anchorfile>vsttypes_8h.html</anchorfile>
       <anchor>a8f8e3e0f6ff1889cda8597884edccb61</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>VST_3_8_1_VERSION</name>
+      <anchorfile>vsttypes_8h.html</anchorfile>
+      <anchor>a0e8ade45efadcfd3f873bb0a013a471d</anchor>
       <arglist></arglist>
     </member>
     <member kind="define">
@@ -1334,6 +1361,29 @@
       <anchorfile>structSteinberg_1_1Vst_1_1ChordEvent.html</anchorfile>
       <anchor>aa87f60a3f4718be230eba436bdd0d610</anchor>
       <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::NoteOnOrchestralArticulation::ClassificationVariations</name>
+    <filename>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html</filename>
+    <member kind="enumvalue">
+      <name>kNumClassifications</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html</anchorfile>
+      <anchor>a0bd4ca3175eaeac296c526711d5c8dbfa2f53de1e8c0f2480413798f96f3d2bac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kNumClassifications</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html</anchorfile>
+      <anchor>a0bd4ca3175eaeac296c526711d5c8dbfa2f53de1e8c0f2480413798f96f3d2bac</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>Variations</type>
+      <name>classification</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1ClassificationVariations.html</anchorfile>
+      <anchor>a0580e10e71a0d80c195989ce50b43739</anchor>
+      <arglist>[kNumClassifications]</arglist>
     </member>
   </compound>
   <compound kind="struct">
@@ -2677,6 +2727,236 @@
     </member>
   </compound>
   <compound kind="class">
+    <name>Steinberg::Vst::NoteOnOrchestralArticulation::IInfo</name>
+    <filename>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</filename>
+    <base>FUnknown</base>
+    <member kind="enumeration">
+      <type></type>
+      <name>Classification</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCoreSoundSustainAndStrikes</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8aefe5ae6de0fc7400e4c13c16e62d6d5d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kStaccatosAndShorts</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8afe03bfc764ba7f730519ad6f89048ba6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSameNoteTrillsRepeats</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a438ed9c2fda8ed885f506eb671b973c2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kIntervallicTrills</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af2404b04eb7bb209c0d8c75d01b727af</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kAdditionalColors</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ac16d80ae6376bcdda765d5f2b2086b63</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kPitchAndDynamicGestures</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a3185ec42279e089ec91a7dd5427c285b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kScalesRunsAndArpeggios</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a7251f4d7339e91e2468dec55c8933913</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kEffectsAndNoises</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a351b16bb980bf94baed10355c1e6723c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved1</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af07503a61e0a499b4c44dbd8f081e409</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved2</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a2c66059fc228e318448ddca8b65d4782</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn1</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af3b28ccbfb12efce1d29d24159ae7296</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn2</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a4060828710b5ef362f780b9ac06359d0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn3</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ab0298f58e2890b549261275544a28634</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn4</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a172de0f9aba8f331265c96bca1e43770</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn5</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a1677673f6e991dce05882f64dfe5b8d4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn6</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a252aa853bb8f75c5bc2170c344527a7f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved3</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ada661cfb2cd1cb7764c20fae31a00bc0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCoreSoundSustainAndStrikes</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8aefe5ae6de0fc7400e4c13c16e62d6d5d</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kStaccatosAndShorts</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8afe03bfc764ba7f730519ad6f89048ba6</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kSameNoteTrillsRepeats</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a438ed9c2fda8ed885f506eb671b973c2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kIntervallicTrills</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af2404b04eb7bb209c0d8c75d01b727af</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kAdditionalColors</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ac16d80ae6376bcdda765d5f2b2086b63</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kPitchAndDynamicGestures</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a3185ec42279e089ec91a7dd5427c285b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kScalesRunsAndArpeggios</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a7251f4d7339e91e2468dec55c8933913</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kEffectsAndNoises</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a351b16bb980bf94baed10355c1e6723c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved1</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af07503a61e0a499b4c44dbd8f081e409</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved2</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a2c66059fc228e318448ddca8b65d4782</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn1</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8af3b28ccbfb12efce1d29d24159ae7296</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn2</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a4060828710b5ef362f780b9ac06359d0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn3</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ab0298f58e2890b549261275544a28634</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn4</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a172de0f9aba8f331265c96bca1e43770</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn5</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a1677673f6e991dce05882f64dfe5b8d4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kCustomNoteOn6</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8a252aa853bb8f75c5bc2170c344527a7f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kReserved3</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>a49042f23f37616df6db7533da8ac31a8ada661cfb2cd1cb7764c20fae31a00bc0</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>getVariationsInfo</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>ae95e0112a7e5a63bc057c5241544fb17</anchor>
+      <arglist>(int32 busIndex, int16 channel, ClassificationVariations &amp;info)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
     <name>Steinberg::Vst::ChannelContext::IInfoListener</name>
     <filename>classSteinberg_1_1Vst_1_1ChannelContext_1_1IInfoListener.html</filename>
     <base>FUnknown</base>
@@ -3692,6 +3972,207 @@
     </member>
   </compound>
   <compound kind="class">
+    <name>Steinberg::Vst::ITransportControl</name>
+    <filename>classSteinberg_1_1Vst_1_1ITransportControl.html</filename>
+    <base>FUnknown</base>
+    <member kind="enumeration">
+      <type></type>
+      <name>Action</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>Locate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54caaa44cf1810dfa2c31119f7b8c467fb8b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54caaf261c64023ce848dab8f12a4eb1dc51</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca5da6ba6cd563bde77c38a55726cf21bb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>LocateAndPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca553c101cd9412aa73da2e5059db6721e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStopAndLocate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca20aaf22be15c5aacbf22dcc51c486021</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOnPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca1c99ccbe1828e866ff231d9ea0f2eae5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>LocateAndRecordOnPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca3c85fe5d8b046ddaffe8eda2e27c0b67</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOff</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca377431d1e54bb5737c15557d37f56705</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOffPlaybackStop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca65e04b46b350e40cee10c8baffeb7fe8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOffPlaybackStopAndLocate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54cad5b78446f3164bc1c7fe4f638cb716b7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>SetCycleStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54cafc7834330b6c68ef38bcc1c9041df7a7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>SetCycleEnd</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca1a0d6c14c4d7283d1cb78f9d81daf342</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>CycleOn</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca004eb179df87fe7d29a01d3e04967093</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>CycleOff</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca7cbe9943070b75761d5dd2ebaeb62217</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>Locate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54caaa44cf1810dfa2c31119f7b8c467fb8b</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54caaf261c64023ce848dab8f12a4eb1dc51</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca5da6ba6cd563bde77c38a55726cf21bb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>LocateAndPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca553c101cd9412aa73da2e5059db6721e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>PlaybackStopAndLocate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca20aaf22be15c5aacbf22dcc51c486021</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOnPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca1c99ccbe1828e866ff231d9ea0f2eae5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>LocateAndRecordOnPlaybackStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca3c85fe5d8b046ddaffe8eda2e27c0b67</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOff</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca377431d1e54bb5737c15557d37f56705</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOffPlaybackStop</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca65e04b46b350e40cee10c8baffeb7fe8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>RecordOffPlaybackStopAndLocate</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54cad5b78446f3164bc1c7fe4f638cb716b7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>SetCycleStart</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54cafc7834330b6c68ef38bcc1c9041df7a7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>SetCycleEnd</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca1a0d6c14c4d7283d1cb78f9d81daf342</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>CycleOn</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca004eb179df87fe7d29a01d3e04967093</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>CycleOff</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a0e23fa8fb0e88bf679dbc8d5895ff54ca7cbe9943070b75761d5dd2ebaeb62217</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>requestAction</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a61cea96cef790380d8ff3b9947e52445</anchor>
+      <arglist>(int32 action, TransportPosition *position=nullptr)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual tresult</type>
+      <name>isActionSupported</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>a1050d4502daa6d3a1135c48df13cb1fd</anchor>
+      <arglist>(int32 action)=0</arglist>
+    </member>
+    <member kind="variable" static="yes">
+      <type>static const FUID</type>
+      <name>iid</name>
+      <anchorfile>classSteinberg_1_1Vst_1_1ITransportControl.html</anchorfile>
+      <anchor>ae78a44399218c930be44d3aa46521d0e</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
     <name>Steinberg::Vst::IUnitData</name>
     <filename>classSteinberg_1_1Vst_1_1IUnitData.html</filename>
     <base>FUnknown</base>
@@ -4151,32 +4632,67 @@
   <compound kind="struct">
     <name>Steinberg::Vst::Midi2Controller</name>
     <filename>structSteinberg_1_1Vst_1_1Midi2Controller.html</filename>
-    <member kind="variable">
-      <type>uint8</type>
+    <member kind="function" static="yes">
+      <type>static bool</type>
+      <name>isRegisteredController</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a4a53ece998789fb333ab1da0afa85f60</anchor>
+      <arglist>(const Midi2Controller &amp;mc)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static uint8</type>
       <name>bank</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
-      <anchor>a54d84afd7f8280b815e19855fb672964</anchor>
-      <arglist></arglist>
+      <anchor>a3184238fced66a13d511018127fa4821</anchor>
+      <arglist>(const Midi2Controller &amp;mc)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static uint8</type>
+      <name>index</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a99a7f9ffd84a298e6da380e7c434ebf3</anchor>
+      <arglist>(const Midi2Controller &amp;mc)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static Midi2Controller</type>
+      <name>create</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>aef0cdaa4fa3901477339278c219f65c4</anchor>
+      <arglist>(bool registered, uint8 bank, uint8 index)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>setIsRegisteredController</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a5e216bbbc53660e70d3dbf217e4a6414</anchor>
+      <arglist>(Midi2Controller &amp;mc, bool registered)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>setBank</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>ac8d8f2572d137eba353dce152ef4a72d</anchor>
+      <arglist>(Midi2Controller &amp;mc, uint8 bank)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>setIndex</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
+      <anchor>a92452104a5f9154faad9b22bf83bc07d</anchor>
+      <arglist>(Midi2Controller &amp;mc, uint8 index)</arglist>
     </member>
     <member kind="variable">
-      <type>TBool</type>
-      <name>registered</name>
+      <type>uint8</type>
+      <name>byte1</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
-      <anchor>a1cfebf27d87a36e693813b1a998a546f</anchor>
+      <anchor>a1a661e78b43cfc1414d068f95e6d66c5</anchor>
       <arglist></arglist>
     </member>
     <member kind="variable">
       <type>uint8</type>
-      <name>index</name>
+      <name>byte2</name>
       <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
-      <anchor>ab9f50676c9071731dc96f5ed95603066</anchor>
-      <arglist></arglist>
-    </member>
-    <member kind="variable">
-      <type>TBool</type>
-      <name>reserved</name>
-      <anchorfile>structSteinberg_1_1Vst_1_1Midi2Controller.html</anchorfile>
-      <anchor>ad503ed3205e49436b319fca0c90ea98a</anchor>
+      <anchor>a5b1753d4e3d4a0e4cfd9dced8745feb2</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -5212,13 +5728,13 @@
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1Vst_1_1RepresentationInfo.html</anchorfile>
-      <anchor>a10b3ba2768e7e5f8ee140ea81bac5c6ba5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>a59c0b1d4db42e7be75033d458fd7b321a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kNameSize</name>
       <anchorfile>structSteinberg_1_1Vst_1_1RepresentationInfo.html</anchorfile>
-      <anchor>a10b3ba2768e7e5f8ee140ea81bac5c6ba5b9d2840f143c8288f728f5be29f638e</anchor>
+      <anchor>a59c0b1d4db42e7be75033d458fd7b321a5b9d2840f143c8288f728f5be29f638e</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -5322,6 +5838,45 @@
     </member>
   </compound>
   <compound kind="struct">
+    <name>Steinberg::Vst::TransportPosition</name>
+    <filename>structSteinberg_1_1Vst_1_1TransportPosition.html</filename>
+    <member kind="function" static="yes">
+      <type>static TransportPosition</type>
+      <name>fromSamples</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1TransportPosition.html</anchorfile>
+      <anchor>a56ef9e56a6fd59853cf59583922f50f5</anchor>
+      <arglist>(TSamples s)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static TransportPosition</type>
+      <name>fromQuarterNotes</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1TransportPosition.html</anchorfile>
+      <anchor>a2a15b28ddc5e326e9b4a78d59e01c884</anchor>
+      <arglist>(TQuarterNotes q)</arglist>
+    </member>
+    <member kind="variable">
+      <type>TransportPositionType</type>
+      <name>type</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1TransportPosition.html</anchorfile>
+      <anchor>a1dafd48ca6c724b4859683cd261a1312</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>TSamples</type>
+      <name>samples</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1TransportPosition.html</anchorfile>
+      <anchor>a205f8bf870d822dfa0a2a3ef562808b4</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>TQuarterNotes</type>
+      <name>quarterNotes</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1TransportPosition.html</anchorfile>
+      <anchor>ad281b302374f515aa0b9cb6e175cbcad</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="struct">
     <name>Steinberg::Vst::UnitInfo</name>
     <filename>structSteinberg_1_1Vst_1_1UnitInfo.html</filename>
     <member kind="variable">
@@ -5353,6 +5908,29 @@
       <arglist></arglist>
     </member>
   </compound>
+  <compound kind="struct">
+    <name>Steinberg::Vst::NoteOnOrchestralArticulation::Variations</name>
+    <filename>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html</filename>
+    <member kind="enumvalue">
+      <name>kNumSubClasses</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html</anchorfile>
+      <anchor>af26d95c96fb0b9a365c2424e019b1f1fa1bc347507f80adbfe760d90e421073e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kNumSubClasses</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html</anchorfile>
+      <anchor>af26d95c96fb0b9a365c2424e019b1f1fa1bc347507f80adbfe760d90e421073e1</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>uint8</type>
+      <name>variation</name>
+      <anchorfile>structSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1Variations.html</anchorfile>
+      <anchor>acacc0db6a94dc9260d414a33b3ed6f10</anchor>
+      <arglist>[kNumSubClasses]</arglist>
+    </member>
+  </compound>
   <compound kind="namespace">
     <name>Steinberg::Vst</name>
     <filename>namespaceSteinberg_1_1Vst.html</filename>
@@ -5367,6 +5945,7 @@
     <namespace>Steinberg::Vst::MusicalCharacter</namespace>
     <namespace>Steinberg::Vst::MusicalInstrument</namespace>
     <namespace>Steinberg::Vst::MusicalStyle</namespace>
+    <namespace>Steinberg::Vst::NoteOnOrchestralArticulation</namespace>
     <namespace>Steinberg::Vst::PlugType</namespace>
     <namespace>Steinberg::Vst::PresetAttributes</namespace>
     <namespace>Steinberg::Vst::SpeakerArr</namespace>
@@ -5425,6 +6004,7 @@
     <class kind="class">Steinberg::Vst::IStreamAttributes</class>
     <class kind="class">Steinberg::Vst::ITestPlugProvider</class>
     <class kind="class">Steinberg::Vst::ITestPlugProvider2</class>
+    <class kind="class">Steinberg::Vst::ITransportControl</class>
     <class kind="class">Steinberg::Vst::IUnitData</class>
     <class kind="class">Steinberg::Vst::IUnitHandler</class>
     <class kind="class">Steinberg::Vst::IUnitHandler2</class>
@@ -5459,6 +6039,7 @@
     <class kind="struct">Steinberg::Vst::RepresentationInfo</class>
     <class kind="struct">Steinberg::Vst::RoutingInfo</class>
     <class kind="struct">Steinberg::Vst::ScaleEvent</class>
+    <class kind="struct">Steinberg::Vst::TransportPosition</class>
     <class kind="struct">Steinberg::Vst::UnitInfo</class>
     <member kind="typedef">
       <type>uint8</type>
@@ -6465,6 +7046,78 @@
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
+      <name>kMidi2AssignablePerNoteControllerStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310aab76dfeb439294e131699be6b52feba5</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2AssignablePerNoteControllerEnd</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a5cadeea05e27816b458700253acbb1bb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2RegisteredPerNoteControllerStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310ab126bdb18e0623d50248816462681840</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2RegisteredPerNoteControllerPlayingPosition</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a6f29db1c2aecc307509ac552a9977576</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2RegisteredPerNoteControllerEnd</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310aaa28395ed2d2822ebb4e81bee2a9abeb</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOnAttributeStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a54faee5e81d0e92ef7866bfee9b6e192</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOnOrchestralArticulationStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310acd4501c1ea323b35024b22a8af5b3011</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOnOrchestralArticulationEnd</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a245aa57e57867b2170bf65e5ef600c33</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOnAttributeEnd</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a8216bd328f256ae54f6b236af6fb616e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOffAttributeStart</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310aaeab0b0daad4b913be572ff6fe3c483e</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOffOrchestralArticulation</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310a4d16eb5a5ca0bd833d8e52efa0032b2c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>kMidi2NoteOffAttributeEnd</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a7d66c573aff27d890ec154f45b61f310ada6238fb584d5dd3eb46c81ef8fcb170</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
       <name>kInvalidTypeID</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>a7d66c573aff27d890ec154f45b61f310ae9353615a5098aba2a5dc927d5497132</anchor>
@@ -6567,6 +7220,25 @@
       <name>kNumPrefetchableSupport</name>
       <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
       <anchor>a18aa40e583fe3a75b569e7129e0d89b5a24f726f3f3303a115cf6755b6df6c984</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumeration">
+      <type></type>
+      <name>TransportPositionType</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a51dd087263b5218be99155995608819f</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>Samples</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a51dd087263b5218be99155995608819fa6a844401e25fec6796f8a7cb4b4917ad</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="enumvalue">
+      <name>QuarterNotes</name>
+      <anchorfile>namespaceSteinberg_1_1Vst.html</anchorfile>
+      <anchor>a51dd087263b5218be99155995608819fa618a4b34a5751bb10736056f2d964bb0</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
@@ -7563,6 +8235,13 @@
     </member>
     <member kind="variable">
       <type>const CString</type>
+      <name>kRandomizeAroundCurrent</name>
+      <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
+      <anchor>ae07dfb2ad0f7d6ec393ef5dea52bb13a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>const CString</type>
       <name>kPanPosCenterX</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1FunctionNameType.html</anchorfile>
       <anchor>ad875faf2282aeb70781130ed7e8de2b9</anchor>
@@ -7589,55 +8268,55 @@
     <member kind="enumvalue">
       <name>kKnob</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07aed465fd2dd47fea2b560392552bf65a9</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89aed465fd2dd47fea2b560392552bf65a9</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kPressedKnob</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07a8c1ff139254d93782be7eaec45059110</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89a8c1ff139254d93782be7eaec45059110</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSwitchKnob</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07a75d5f413c5b9d0337515c307a5e10dcf</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89a75d5f413c5b9d0337515c307a5e10dcf</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kSwitch</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07aaa243fb2b8aff16421d89868c811958a</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89aaa243fb2b8aff16421d89868c811958a</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kLED</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07a125690f72eb0478f1b83b9f17dc7c431</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89a125690f72eb0478f1b83b9f17dc7c431</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kLink</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07ad5309d363b060cc3481f6e021b26f0d3</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89ad5309d363b060cc3481f6e021b26f0d3</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kDisplay</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07a1c1b7a564dd807a7c1c4cffb88d8b100</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89a1c1b7a564dd807a7c1c4cffb88d8b100</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kFader</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07ae6364790e7803e2a147b5abeb9554c70</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89ae6364790e7803e2a147b5abeb9554c70</anchor>
       <arglist></arglist>
     </member>
     <member kind="enumvalue">
       <name>kEndOfLayerType</name>
       <anchorfile>namespaceSteinberg_1_1Vst_1_1LayerType.html</anchorfile>
-      <anchor>a7dfe6ed426ef3dc49f2abbb21d382b07a9a9bc943010bbc1e4d0df5442fd1612e</anchor>
+      <anchor>aa7b641c902d22bffaff0166bce7fce89a9a9bc943010bbc1e4d0df5442fd1612e</anchor>
       <arglist></arglist>
     </member>
   </compound>
@@ -9598,6 +10277,13 @@
       <anchor>gae08118ff90a70fbd90e1979aa1a33c9f</anchor>
       <arglist></arglist>
     </member>
+  </compound>
+  <compound kind="namespace">
+    <name>Steinberg::Vst::NoteOnOrchestralArticulation</name>
+    <filename>namespaceSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation.html</filename>
+    <class kind="struct">Steinberg::Vst::NoteOnOrchestralArticulation::ClassificationVariations</class>
+    <class kind="class">Steinberg::Vst::NoteOnOrchestralArticulation::IInfo</class>
+    <class kind="struct">Steinberg::Vst::NoteOnOrchestralArticulation::Variations</class>
   </compound>
   <compound kind="namespace">
     <name>Steinberg::Vst::PlugType</name>

@@ -1163,7 +1163,7 @@ Functions</h2></td></tr>
 <tr class="separator:a97a959bfc6f6e0b27e925f30e3779225"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0c75c525c787dcede75ae5120feea45" id="r_ad0c75c525c787dcede75ae5120feea45"><td class="memTemplParams" colspan="2">template&lt;typename NormT, typename StepT = int32_t&gt; </td></tr>
 <tr class="memitem:ad0c75c525c787dcede75ae5120feea45"><td class="memTemplItemLeft" align="right" valign="top">StepT&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#ad0c75c525c787dcede75ae5120feea45">normalizedToSteps</a> (NormT value, StepT numSteps, StepT stepStart=static_cast&lt; StepT &gt;(0))</td></tr>
-<tr class="memdesc:ad0c75c525c787dcede75ae5120feea45"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the value projected lineary between stepOffset and stepOffset + steps.  <br /></td></tr>
+<tr class="memdesc:ad0c75c525c787dcede75ae5120feea45"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the value projected linearly between stepOffset and stepOffset + steps.  <br /></td></tr>
 <tr class="separator:ad0c75c525c787dcede75ae5120feea45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa21a1186c4869fd7b872418c07f0321b" id="r_aa21a1186c4869fd7b872418c07f0321b"><td class="memTemplParams" colspan="2">template&lt;typename NormT, typename StepValueT, typename StepT&gt; </td></tr>
 <tr class="memitem:aa21a1186c4869fd7b872418c07f0321b"><td class="memTemplItemLeft" align="right" valign="top">NormT&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#aa21a1186c4869fd7b872418c07f0321b">stepsToNormalized</a> (StepValueT value, StepT steps, StepT stepOffset=static_cast&lt; StepT &gt;(0))</td></tr>
@@ -1396,6 +1396,28 @@ Functions</h2></td></tr>
 <tr class="memitem:ae441d9d401751310469b2ba75ef7fa77" id="r_ae441d9d401751310469b2ba75ef7fa77"><td class="memTemplParams" colspan="2">template&lt;typename Iface, typename T&gt; </td></tr>
 <tr class="memitem:ae441d9d401751310469b2ba75ef7fa77"><td class="memTemplItemLeft" align="right" valign="top">const auto &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#ae441d9d401751310469b2ba75ef7fa77">asInterface</a> (const T &amp;obj)</td></tr>
 <tr class="separator:ae441d9d401751310469b2ba75ef7fa77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr><td colspan="2"><div class="groupHeader">Unicode String Conversion</div></td></tr>
+<tr><td colspan="2"><div class="groupText"><p>Functions for converting between UTF-8, UTF-16 and UTF-32 encoded strings.</p>
+<p>Invalid input generates an empty string. </p>
+</div></td></tr>
+<tr class="memitem:a262cc8e8ebc29e78ab04ba81cd6043b4" id="r_a262cc8e8ebc29e78ab04ba81cd6043b4"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a262cc8e8ebc29e78ab04ba81cd6043b4">toUTF8</a> (std::u16string_view str)</td></tr>
+<tr class="memdesc:a262cc8e8ebc29e78ab04ba81cd6043b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-16 string to UTF-8.  <br /></td></tr>
+<tr class="separator:a262cc8e8ebc29e78ab04ba81cd6043b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b490993f2541d79dc063412ee75db36" id="r_a3b490993f2541d79dc063412ee75db36"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3b490993f2541d79dc063412ee75db36">toUTF8</a> (std::u32string_view str)</td></tr>
+<tr class="memdesc:a3b490993f2541d79dc063412ee75db36"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-32 string to UTF-8.  <br /></td></tr>
+<tr class="separator:a3b490993f2541d79dc063412ee75db36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5f7b0f6ea721f355f85322f6fb4b219" id="r_ad5f7b0f6ea721f355f85322f6fb4b219"><td class="memItemLeft" align="right" valign="top">std::u16string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad5f7b0f6ea721f355f85322f6fb4b219">toUTF16</a> (std::string_view str)</td></tr>
+<tr class="memdesc:ad5f7b0f6ea721f355f85322f6fb4b219"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-8 string to UTF-16.  <br /></td></tr>
+<tr class="separator:ad5f7b0f6ea721f355f85322f6fb4b219"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac677cd77fbb7ec21fb7a25c121bcef3e" id="r_ac677cd77fbb7ec21fb7a25c121bcef3e"><td class="memItemLeft" align="right" valign="top">std::u16string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac677cd77fbb7ec21fb7a25c121bcef3e">toUTF16</a> (std::u32string_view str)</td></tr>
+<tr class="memdesc:ac677cd77fbb7ec21fb7a25c121bcef3e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-32 string to UTF-16.  <br /></td></tr>
+<tr class="separator:ac677cd77fbb7ec21fb7a25c121bcef3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addf66d036acdb785b57cd98e2f7ca8f8" id="r_addf66d036acdb785b57cd98e2f7ca8f8"><td class="memItemLeft" align="right" valign="top">std::u32string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#addf66d036acdb785b57cd98e2f7ca8f8">toUTF32</a> (std::string_view str)</td></tr>
+<tr class="memdesc:addf66d036acdb785b57cd98e2f7ca8f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-8 string to UTF-32.  <br /></td></tr>
+<tr class="separator:addf66d036acdb785b57cd98e2f7ca8f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c0e5cb9481c95ba8906761c61016bbb" id="r_a7c0e5cb9481c95ba8906761c61016bbb"><td class="memItemLeft" align="right" valign="top">std::u32string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a7c0e5cb9481c95ba8906761c61016bbb">toUTF32</a> (std::u16string_view str)</td></tr>
+<tr class="memdesc:a7c0e5cb9481c95ba8906761c61016bbb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a UTF-16 string to UTF-32.  <br /></td></tr>
+<tr class="separator:a7c0e5cb9481c95ba8906761c61016bbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -3553,7 +3575,7 @@ template&lt;typename NormT, typename StepT = int32_t&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Returns the value projected lineary between stepOffset and stepOffset + steps. </p>
+<p>Returns the value projected linearly between stepOffset and stepOffset + steps. </p>
 
 </div>
 </div>
@@ -4030,6 +4052,162 @@ template&lt;typename T&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad5f7b0f6ea721f355f85322f6fb4b219" name="ad5f7b0f6ea721f355f85322f6fb4b219"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5f7b0f6ea721f355f85322f6fb4b219">&#9670;&#160;</a></span>toUTF16() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::u16string toUTF16 </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-8 string to UTF-16. </p>
+<p>Converts the given UTF-8 string view into a newly created UTF-16 encoded std::u16string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-8 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-16 encoded std::u16string </dd></dl>
+
+</div>
+</div>
+<a id="ac677cd77fbb7ec21fb7a25c121bcef3e" name="ac677cd77fbb7ec21fb7a25c121bcef3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac677cd77fbb7ec21fb7a25c121bcef3e">&#9670;&#160;</a></span>toUTF16() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::u16string toUTF16 </td>
+          <td>(</td>
+          <td class="paramtype">std::u32string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-32 string to UTF-16. </p>
+<p>Converts the given UTF-32 string view into a newly created UTF-16 encoded std::u16string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-32 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-16 encoded std::u16string </dd></dl>
+
+</div>
+</div>
+<a id="addf66d036acdb785b57cd98e2f7ca8f8" name="addf66d036acdb785b57cd98e2f7ca8f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addf66d036acdb785b57cd98e2f7ca8f8">&#9670;&#160;</a></span>toUTF32() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::u32string toUTF32 </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-8 string to UTF-32. </p>
+<p>Converts the given UTF-8 string view into a newly created UTF-32 encoded std::u32string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-8 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-32 encoded std::u32string </dd></dl>
+
+</div>
+</div>
+<a id="a7c0e5cb9481c95ba8906761c61016bbb" name="a7c0e5cb9481c95ba8906761c61016bbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c0e5cb9481c95ba8906761c61016bbb">&#9670;&#160;</a></span>toUTF32() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::u32string toUTF32 </td>
+          <td>(</td>
+          <td class="paramtype">std::u16string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-16 string to UTF-32. </p>
+<p>Converts the given UTF-16 string view into a newly created UTF-32 encoded std::u32string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-16 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-32 encoded std::u32string </dd></dl>
+
+</div>
+</div>
+<a id="a262cc8e8ebc29e78ab04ba81cd6043b4" name="a262cc8e8ebc29e78ab04ba81cd6043b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a262cc8e8ebc29e78ab04ba81cd6043b4">&#9670;&#160;</a></span>toUTF8() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string toUTF8 </td>
+          <td>(</td>
+          <td class="paramtype">std::u16string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-16 string to UTF-8. </p>
+<p>Converts the given UTF-16 string view into a newly created UTF-8 encoded std::string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-16 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-8 encoded std::string </dd></dl>
+
+</div>
+</div>
+<a id="a3b490993f2541d79dc063412ee75db36" name="a3b490993f2541d79dc063412ee75db36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b490993f2541d79dc063412ee75db36">&#9670;&#160;</a></span>toUTF8() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string toUTF8 </td>
+          <td>(</td>
+          <td class="paramtype">std::u32string_view</td>          <td class="paramname"><span class="paramname"><em>str</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert a UTF-32 string to UTF-8. </p>
+<p>Converts the given UTF-32 string view into a newly created UTF-8 encoded std::string. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">str</td><td>UTF-32 input string view </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>UTF-8 encoded std::string </dd></dl>
 
 </div>
 </div>
@@ -5295,7 +5473,7 @@ template&lt;typename T&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_v_s_t_g_u_i.html">VSTGUI</a></li>
-    <li class="footer">Generated on Mon Oct 20 2025 17:24:33 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
+    <li class="footer">Generated on Fri Jul 17 2026 17:17:34 for VSTGUI by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.13.2 </li>
   </ul>
 </div>
 </body>

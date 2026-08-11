@@ -204,11 +204,18 @@ var logevents_8h =
       [ "kLogIdIParameterFunctionNameSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa972d9a1b7865c1232278a3acde538f0", null ],
       [ "kLogIdIParameterFunctionNameDryWetSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a7a1b7b7cee242e95c68ef2601d3a0a06", null ],
       [ "kLogIdIParameterFunctionNameRandomizeSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a1e15ab839db9031d2ed1287d7997e3b0", null ],
+      [ "kLogIdIParameterFunctionNameRandomizeAroundCurrentSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ae9769cf30251e71b69dd9c0b7179fdef", null ],
       [ "kLogIdIParameterFunctionNameLowLatencySupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a2d993047219db1e4dd386c9ca509f582", null ],
       [ "kLogIdIComponentHandlerSystemTimeSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a0f7f5adeb3173c19e571735678d68018", null ],
       [ "kLogIdIDataExchangeHandlerSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aa3f3a2c766cf6c485962c1dfb01d00d3", null ],
       [ "kLogIdIDataExchangeReceiverSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46ac27418bea5f0894399402e1c67d9d73f", null ],
       [ "kLogIdIRemapParamIDSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46add51099ff0c301afe8782c867492569d", null ],
+      [ "kLogIdITransportControlSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a186f949664db9c48938ff0bb24264e5c", null ],
+      [ "kLogIdITransportControlPlaySupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a23d2082b82d60ec6cfaa04e6345817b0", null ],
+      [ "kLogIdITransportControlRecordSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a04a66b637b0c03e65267b7e0f2c42a5f", null ],
+      [ "kLogIdITransportControlLocateSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a6be1314c38dbea645949e339852435a6", null ],
+      [ "kLogIdITransportControlCycleSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a70526264bc4ffea2ae90dad6573fe563", null ],
+      [ "kLogIdINoteOnOrchestralArticulationInfoSupported", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46aaa488a01cfd379c58af8fb9c12f31a4c", null ],
       [ "kNumLogEvents", "logevents_8h.html#afc84f29132b630b33d341d0769a66d46a017971e2dcae41d78c3e0892d77fa9ae", null ]
     ] ]
 ];

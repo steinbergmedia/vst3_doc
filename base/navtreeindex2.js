@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"group__smtgtypedef.html#gadbdfa470c35e7bf57d7952f0767bbf57":[0,0,11],
 "group__smtgtypedef.html#gae47c588f3ab8c61121c1c7ab7edc47cd":[0,0,0],
 "group__smtgtypedef.html#gae6eacc17e4382538d4af0d9993bc869a":[0,0,22],
 "group__smtgtypedef.html#gaf1189c83b63820c6ccc3167402601fea":[0,0,26],
@@ -22,6 +23,7 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg.html":[1,0,0],
 "namespaceSteinberg.html#a004e46ded0d442c0c031094559ad23b6":[1,0,0,118],
 "namespaceSteinberg.html#a05fbb76593f6044ac8375e1becf16d4d":[1,0,0,105],
+"namespaceSteinberg.html#a0ff79aa3f3e14a012dfb4ba21ff99751":[1,0,0,144],
 "namespaceSteinberg.html#a125a36f7e942e2b77d76d57d2cc6398d":[1,0,0,100],
 "namespaceSteinberg.html#a145379c6e26917acaa0bac72b8c0bc05":[1,0,0,133],
 "namespaceSteinberg.html#a154d134fd010929649c537c38e9937f8":[1,0,0,93],
@@ -50,7 +52,7 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg.html#a443dbd34922bff48d94a4060764ae9e9":[1,0,0,122],
 "namespaceSteinberg.html#a46784fedcaf2cd10c9a0f2614ecdb832":[1,0,0,95],
 "namespaceSteinberg.html#a485a5d44628dff8b69863742f214ef8c":[1,0,0,84],
-"namespaceSteinberg.html#a51c63740ab18a5e8a1394fb10e743917":[1,0,0,145],
+"namespaceSteinberg.html#a51c63740ab18a5e8a1394fb10e743917":[1,0,0,146],
 "namespaceSteinberg.html#a532f4daa08250b5344c193d5ab179454":[1,0,0,81],
 "namespaceSteinberg.html#a53b9fdb1691391567d0bd6697ddc503c":[1,0,0,120],
 "namespaceSteinberg.html#a572daddd6ee8f61011dcd066eef99b0c":[1,0,0,140],
@@ -72,7 +74,7 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg.html#a7daea0aeaaf968f0cbc3473815ef4c4c":[1,0,0,130],
 "namespaceSteinberg.html#a7deed6801721823ffd280717b6675c48":[1,0,0,131],
 "namespaceSteinberg.html#a7ef9ebfedc0532d783ae68dbbe8f08c7":[1,0,0,132],
-"namespaceSteinberg.html#a82f9ae0460c5ad8b348cdfa75fec5c68":[1,0,0,144],
+"namespaceSteinberg.html#a82f9ae0460c5ad8b348cdfa75fec5c68":[1,0,0,145],
 "namespaceSteinberg.html#a84be4b87ef6295be6b4ea97052b94999":[1,0,0,102],
 "namespaceSteinberg.html#a871118a09520247c78a71ecd7b0abd58":[1,0,0,72],
 "namespaceSteinberg.html#a871118a09520247c78a71ecd7b0abd58a231632c3d1e6d53428167283534f1abe":[1,0,0,72,2],
@@ -221,7 +223,7 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg.html#ad1477e38cb33dbf399ba506dd9fa1ab2":[1,0,0,101],
 "namespaceSteinberg.html#ad878d42e7b5a81c513f613c52a5f9f0a":[1,0,0,103],
 "namespaceSteinberg.html#adee0831ed9db758b6d119bf3c3b99e43":[1,0,0,77],
-"namespaceSteinberg.html#ae6cdc2936b352ab9cd2fb6aed350bbaa":[1,0,0,146],
+"namespaceSteinberg.html#ae6cdc2936b352ab9cd2fb6aed350bbaa":[1,0,0,147],
 "namespaceSteinberg.html#ae861849d924547696801cead672d8b16":[1,0,0,113],
 "namespaceSteinberg.html#ae8f11c779bd10486d527d1a7142d8e6b":[1,0,0,134],
 "namespaceSteinberg.html#aecbafba4ac9e0f4734fdc1d0aecc5f70":[1,0,0,126],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "namespaceSteinberg_1_1KeyCodes.html":[1,0,0,3],
 "namespaceSteinberg_1_1KeyCodes.html#a1411be7b25f47e89beedadd3de3ade07":[1,0,0,3,0],
 "namespaceSteinberg_1_1Linux.html":[1,0,0,4],
-"namespaceSteinberg_1_1Linux.html#a9c80aaf6d9c6451b471e97de46595753":[1,0,0,4,4],
-"namespaceSteinberg_1_1Linux.html#ad94d4fecedeef98b5d1709b61cfa0e7c":[1,0,0,4,3],
-"namespaceSteinberg_1_1U.html":[1,0,0,5]
+"namespaceSteinberg_1_1Linux.html#a9c80aaf6d9c6451b471e97de46595753":[1,0,0,4,4]
 };

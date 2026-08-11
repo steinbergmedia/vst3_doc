@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "AudioBufferData", "structSteinberg_1_1Vst_1_1AudioBufferData.html", null ],
     [ "BrownNoise< SamplePrecision >", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1BrownNoise.html", null ],
     [ "CBaseObject", null, [
       [ "EventLogDataBrowserSource", "classVSTGUI_1_1EventLogDataBrowserSource.html", null ],
@@ -18,11 +19,13 @@ var hierarchy =
       [ "Test", "classSteinberg_1_1Vst_1_1TestSuite_1_1Test.html", null ],
       [ "Validator", "classSteinberg_1_1Vst_1_1Validator.html", null ]
     ] ],
+    [ "FramesPerSeconds", "structSteinberg_1_1Vst_1_1FramesPerSeconds.html", null ],
     [ "FUnknown", "../base/classSteinberg_1_1FUnknown.html", [
       [ "IPluginBase", "../base/classSteinberg_1_1IPluginBase.html", [
         [ "ComponentBase", "../vstsdk/classSteinberg_1_1Vst_1_1ComponentBase.html", [
           [ "Component", "../vstsdk/classSteinberg_1_1Vst_1_1Component.html", [
             [ "AudioEffect", "../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html", [
+              [ "UTF16NameProcessor", "classSteinberg_1_1UTF16NameProcessor.html", null ],
               [ "ADelayProcessor", "classSteinberg_1_1Vst_1_1ADelayProcessor.html", null ],
               [ "AGain", "classSteinberg_1_1Vst_1_1AGain.html", [
                 [ "AGainWithSideChain", "classSteinberg_1_1Vst_1_1AGainWithSideChain.html", null ]
@@ -37,7 +40,9 @@ var hierarchy =
               [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", null ],
               [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", null ],
               [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", null ],
+              [ "Plug", "classSteinberg_1_1Vst_1_1Plug.html", null ],
               [ "SyncDelayProcessor", "classSteinberg_1_1Vst_1_1SyncDelayProcessor.html", null ],
+              [ "TestRemapParamIDProcessor", "classSteinberg_1_1Vst_1_1TestRemapParamIDProcessor.html", null ],
               [ "Processor", "classSteinberg_1_1Vst_1_1mda_1_1Processor.html", [
                 [ "SampleAccurateBaseProcessor", "classSteinberg_1_1Vst_1_1mda_1_1SampleAccurateBaseProcessor.html", [
                   [ "AmbienceProcessor", "classSteinberg_1_1Vst_1_1mda_1_1AmbienceProcessor.html", null ],
@@ -81,10 +86,12 @@ var hierarchy =
           [ "EditController", "../vstsdk/classSteinberg_1_1Vst_1_1EditController.html", [
             [ "ADelayController", "classSteinberg_1_1Vst_1_1ADelayController.html", null ],
             [ "EditControllerEx1", "../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html", [
+              [ "UTF16NameController", "classSteinberg_1_1UTF16NameController.html", null ],
               [ "AGainController", "classSteinberg_1_1Vst_1_1AGainController.html", null ],
               [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],
               [ "PlugController", "classSteinberg_1_1Vst_1_1LegacyMIDICCOut_1_1PlugController.html", null ],
               [ "PitchNamesController", "classSteinberg_1_1Vst_1_1PitchNamesController.html", null ],
+              [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", null ],
               [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", null ],
               [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", null ],
               [ "PlugController", "classSteinberg_1_1Vst_1_1PlugController.html", null ],
@@ -129,7 +136,8 @@ var hierarchy =
             [ "Controller", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1Controller.html", [
               [ "ControllerWithUI", "classSteinberg_1_1Vst_1_1NoteExpressionSynth_1_1ControllerWithUI.html", null ]
             ] ],
-            [ "SyncDelayController", "classSteinberg_1_1Vst_1_1SyncDelayController.html", null ]
+            [ "SyncDelayController", "classSteinberg_1_1Vst_1_1SyncDelayController.html", null ],
+            [ "TestRemapParamIDController", "classSteinberg_1_1Vst_1_1TestRemapParamIDController.html", null ]
           ] ]
         ] ],
         [ "IComponent", "../vstinterfaces/classSteinberg_1_1Vst_1_1IComponent.html", [
@@ -215,12 +223,16 @@ var hierarchy =
         [ "AudioEffect", "../vstsdk/classSteinberg_1_1Vst_1_1AudioEffect.html", null ]
       ] ],
       [ "IRemapParamID", "../vstinterfaces/classSteinberg_1_1Vst_1_1IRemapParamID.html", [
-        [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ]
+        [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ],
+        [ "TestRemapParamIDController", "classSteinberg_1_1Vst_1_1TestRemapParamIDController.html", null ]
       ] ],
       [ "IUnitInfo", "../vstinterfaces/classSteinberg_1_1Vst_1_1IUnitInfo.html", [
         [ "EditControllerEx1", "../vstsdk/classSteinberg_1_1Vst_1_1EditControllerEx1.html", null ]
       ] ],
       [ "IXmlRepresentationController", "../vstinterfaces/classSteinberg_1_1Vst_1_1IXmlRepresentationController.html", [
+        [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ]
+      ] ],
+      [ "IInfo", "../vstinterfaces/classSteinberg_1_1Vst_1_1NoteOnOrchestralArticulation_1_1IInfo.html", [
         [ "HostCheckerController", "classSteinberg_1_1Vst_1_1HostCheckerController.html", null ]
       ] ]
     ] ],
@@ -238,6 +250,7 @@ var hierarchy =
       [ "EditorSizeController", "classSteinberg_1_1Vst_1_1EditorSizeController.html", null ],
       [ "NoteTouchController", "classVSTGUI_1_1NoteTouchController.html", null ]
     ] ],
+    [ "IRenderThread", "structSteinberg_1_1Vst_1_1WaveformViewManager_1_1IRenderThread.html", null ],
     [ "KGRP", "structSteinberg_1_1Vst_1_1mda_1_1EPianoProcessor_1_1KGRP.html", null ],
     [ "KGRP", "structSteinberg_1_1Vst_1_1mda_1_1PianoProcessor_1_1KGRP.html", null ],
     [ "LogEvent", "structLogEvent.html", null ],
@@ -252,8 +265,10 @@ var hierarchy =
       [ "ProxyParameter", "classSteinberg_1_1Vst_1_1mda_1_1ProxyParameter.html", null ]
     ] ],
     [ "ParameterChangesCheck", "classParameterChangesCheck.html", null ],
+    [ "PeakValue", "structSteinberg_1_1Vst_1_1PeakValue.html", null ],
     [ "ProcessContextCheck", "classProcessContextCheck.html", null ],
     [ "ProcessSetupCheck", "classProcessSetupCheck.html", null ],
+    [ "SampleBufferExchangeData", "structSteinberg_1_1Vst_1_1SampleBufferExchangeData.html", null ],
     [ "ScoreEntry", "structSteinberg_1_1Vst_1_1HostCheckerController_1_1ScoreEntry.html", null ],
     [ "SyncEntry", "structSteinberg_1_1Vst_1_1SyncEntry.html", null ],
     [ "SynthData< VoiceT, kEventBufferSize, kNumVoices >", "structSteinberg_1_1Vst_1_1mda_1_1SynthData.html", null ],
@@ -285,5 +300,6 @@ var hierarchy =
     ] ],
     [ "VSTInterAppAudioAppDelegateBase", "../vstsdk/interfaceVSTInterAppAudioAppDelegateBase.html", [
       [ "VSTInterAppAudioAppDelegate", "interfaceVSTInterAppAudioAppDelegate.html", null ]
-    ] ]
+    ] ],
+    [ "WaveformViewManager", "classSteinberg_1_1Vst_1_1WaveformViewManager.html", null ]
 ];
